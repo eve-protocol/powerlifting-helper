@@ -441,10 +441,59 @@ def print_summary(stats, workouts):
     print(f"   Big 3 Sets: {len(big3_sets)}")
 
 
-def print_e1rm_summary(all_maxes):
-    """Print estimated 1RM summary for Big 3."""
+def get_best_recent_e1rm(workouts, exercise_name, max_reps=6, months=2):
+    """Find the best e1RM from recent sets with limited rep ranges.
+    
+    Args:
+        workouts: List of workout dicts
+        exercise_name: Exact name of the exercise to filter
+        max_reps: Only consider sets with reps <= this value (default: 6)
+        months: Only consider sets within this many months (default: 2)
+        
+    Returns:
+        dict: {'e1rm': float, 'reps': int, 'date': str, 'weight': float} or None
+    """
+    cutoff_date = datetime.now() - timedelta(days=months * 30)
+    
+    best_e1rm = 0
+    best_data = None
+    
+    for w in workouts:
+        if w['name'] != exercise_name:
+            continue
+        
+        # Filter by reps
+        if w['reps'] > max_reps:
+            continue
+        
+        # Filter by date
+        try:
+            workout_date = datetime.strptime(w['date'], '%Y-%m-%d')
+            if workout_date < cutoff_date:
+                continue
+        except ValueError:
+            continue
+        
+        if w['e1rm'] > best_e1rm:
+            best_e1rm = w['e1rm']
+            best_data = {
+                'e1rm': w['e1rm'],
+                'reps': w['reps'],
+                'date': w['date'],
+                'weight': w['weight']
+            }
+    
+    return best_data
+
+
+def print_e1rm_summary(all_maxes, workouts):
+    """Print estimated 1RM summary for Big 3.
+    
+    Best e1RM is calculated from recent sets (within 2 months) with <= 6 reps.
+    """
     c = COLORS
     print(f"\n{c['cyan']}💪 ESTIMATED 1RM (Brzycki Formula){c['reset']}")
+    print(f"{c['dim']}Best e1RM from sets ≤6 reps within last 2 months{c['reset']}")
     print("-" * 70)
     print(f"{'Lift':<40} {'Actual 1RM':>12} {'Best e1RM':>12} {'From':>8}")
     print("-" * 70)
@@ -456,13 +505,11 @@ def print_e1rm_summary(all_maxes):
         # Get actual 1RM
         actual_1rm = all_maxes[name].get(1, {}).get('weight', 0)
         
-        # Find best e1RM across all rep ranges
-        best_e1rm = 0
-        best_reps = 0
-        for reps, data in all_maxes[name].items():
-            if data['e1rm'] > best_e1rm:
-                best_e1rm = data['e1rm']
-                best_reps = reps
+        # Find best e1RM from recent sets with <= 6 reps
+        recent_best = get_best_recent_e1rm(workouts, name, max_reps=6, months=2)
+        
+        best_e1rm = recent_best['e1rm'] if recent_best else 0
+        best_reps = recent_best['reps'] if recent_best else 0
         
         actual_str = f"{actual_1rm:.1f}kg" if actual_1rm > 0 else "-"
         e1rm_str = f"{best_e1rm:.1f}kg" if best_e1rm > 0 else "-"
@@ -572,6 +619,8 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
     lines.append("")
     lines.append("*Estimated 1RM calculated using Brzycki formula: `1RM = weight / (1.0278 - 0.0278 × reps)`*")
     lines.append("")
+    lines.append("*Best e1RM from sets ≤6 reps within last 2 months*")
+    lines.append("")
     lines.append("| Lift | Actual 1RM | Best e1RM | From | Date |")
     lines.append("|------|------------|-----------|------|------|")
     
@@ -581,16 +630,13 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
         
         actual_1rm_data = all_maxes[name].get(1, {})
         actual_1rm = actual_1rm_data.get('weight', 0)
-        actual_date = actual_1rm_data.get('date', '-')
         
-        best_e1rm = 0
-        best_reps = 0
-        best_date = '-'
-        for reps, data in all_maxes[name].items():
-            if data['e1rm'] > best_e1rm:
-                best_e1rm = data['e1rm']
-                best_reps = reps
-                best_date = data['date']
+        # Find best e1RM from recent sets with <= 6 reps
+        recent_best = get_best_recent_e1rm(workouts, name, max_reps=6, months=2)
+        
+        best_e1rm = recent_best['e1rm'] if recent_best else 0
+        best_reps = recent_best['reps'] if recent_best else 0
+        best_date = recent_best['date'] if recent_best else '-'
         
         actual_str = f"{actual_1rm:.1f}kg" if actual_1rm > 0 else "-"
         e1rm_str = f"{best_e1rm:.1f}kg" if best_e1rm > 0 else "-"
@@ -778,7 +824,7 @@ Examples:
     # Print summary and analytics
     print_summary(stats, workouts)
     print_color_legend()
-    print_e1rm_summary(find_all_rep_maxes(workouts))
+    print_e1rm_summary(find_all_rep_maxes(workouts), workouts)
     print_trends(workouts)
     print_volume_summary(workouts)
     
