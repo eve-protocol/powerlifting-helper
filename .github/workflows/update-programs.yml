@@ -30,7 +30,7 @@ jobs:
         run: pip install requests
 
       - name: Create refresh token file
-        run: echo "${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}" > .boostcamp_refresh_token
+        run: echo "${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}" > scripts/.boostcamp_refresh_token
 
       - name: Fetch programs
         run: python scripts/fetch_programs.py
@@ -39,7 +39,7 @@ jobs:
         run: python scripts/parse_history.py --fetch || true
 
       - name: Remove sensitive files before commit
-        run: rm -f .boostcamp_refresh_token .boostcamp_token
+        run: rm -f scripts/.boostcamp_refresh_token scripts/.boostcamp_token
 
       - name: Commit and push changes
         run: |
