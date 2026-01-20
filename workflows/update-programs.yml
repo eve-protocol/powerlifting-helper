@@ -1,0 +1,50 @@
+name: Update Boostcamp Programs
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [main]
+    paths:
+      - "boostcamp_conf.json"
+
+jobs:
+  update-programs:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Create refresh token file
+        run: echo "${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}" > .boostcamp_refresh_token
+
+      - name: Fetch programs
+        run: python scripts/fetch_programs.py
+
+      - name: Fetch history
+        run: python scripts/parse_history.py --fetch || true
+
+      - name: Remove sensitive files before commit
+        run: rm -f .boostcamp_refresh_token .boostcamp_token
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update programs and history [skip ci]"
+          git push
