@@ -367,6 +367,116 @@ def display_program_compact(data, program_name):
     print()
 
 
+def generate_program_markdown(data, program_name, output_path):
+    """Generate markdown file for a program.
+    
+    Args:
+        data: Program data from API
+        program_name: Name of the program
+        output_path: Path to save the markdown file
+        
+    Returns:
+        Path to the generated file
+    """
+    from datetime import datetime
+    
+    lines = []
+    now = datetime.now().strftime('%Y-%m-%d %H:%M')
+    
+    title = data.get('data', {}).get('title', program_name)
+    
+    lines.append(f"# {title}")
+    lines.append("")
+    lines.append(f"*Generated: {now}*")
+    lines.append("")
+    
+    # Get workouts from variations
+    variations = data.get('data', {}).get('variations', [])
+    if not variations:
+        lines.append("No workout data found.")
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(lines))
+        return output_path
+    
+    workouts = variations[0].get('workouts', [])
+    if not workouts:
+        lines.append("No workouts found.")
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(lines))
+        return output_path
+    
+    # Organize by week and day
+    program_structure = defaultdict(lambda: defaultdict(list))
+    for workout in workouts:
+        week = workout.get('week', 0)
+        day = workout.get('day', 0)
+        exercises = workout.get('exercises', [])
+        program_structure[week][day] = exercises
+    
+    # Count stats
+    num_weeks = len(program_structure)
+    num_days = max(len(days) for days in program_structure.values()) if program_structure else 0
+    total_workouts = sum(len(days) for days in program_structure.values())
+    
+    # Overview
+    lines.append("## Overview")
+    lines.append("")
+    lines.append(f"| Metric | Value |")
+    lines.append(f"|--------|-------|")
+    lines.append(f"| Weeks | {num_weeks} |")
+    lines.append(f"| Days per week | {num_days} |")
+    lines.append(f"| Total workouts | {total_workouts} |")
+    lines.append("")
+    
+    # Program structure
+    lines.append("## Program Structure")
+    lines.append("")
+    
+    for week in sorted(program_structure.keys()):
+        days = program_structure[week]
+        lines.append(f"### Week {week + 1}")
+        lines.append("")
+        
+        for day in sorted(days.keys()):
+            exercises = days[day]
+            lines.append(f"#### Day {day + 1}")
+            lines.append("")
+            lines.append("| # | Exercise | Sets × Reps | Intensity |")
+            lines.append("|---|----------|-------------|-----------|")
+            
+            for i, ex in enumerate(exercises, 1):
+                name = ex.get('name', 'Unknown')
+                sets = ex.get('sets', [])
+                sets_summary = summarize_sets(sets)
+                
+                # Extract intensity from first set
+                intensity = "-"
+                if sets:
+                    first_set = sets[0]
+                    int_val = first_set.get('intensity', '')
+                    int_unit = first_set.get('intensity_unit', '')
+                    if int_val and int_unit:
+                        if int_unit == '%':
+                            intensity = f"{int_val}%"
+                        elif int_unit == 'RPE':
+                            intensity = f"RPE {int_val}"
+                        else:
+                            intensity = str(int_val)
+                
+                lines.append(f"| {i} | {name} | {sets_summary} | {intensity} |")
+            
+            lines.append("")
+    
+    # Write to file
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+    
+    return output_path
+
+
 def get_access_token(script_dir):
     """Get a valid access token, refreshing if necessary.
     
@@ -413,6 +523,7 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(script_dir)
     default_output_dir = os.path.join(project_root, 'values')
+    default_markdown_dir = os.path.join(project_root, 'outputs')
     
     # Parse command line arguments
     parser = argparse.ArgumentParser(
@@ -422,10 +533,15 @@ def main():
 Examples:
   python fetch_programs.py                    # Output to <project>/values/
   python fetch_programs.py -o ./my-data/      # Output to custom directory
+  python fetch_programs.py --no-markdown      # Skip markdown generation
         """
     )
     parser.add_argument('--output-dir', '-o', default=default_output_dir,
                         help=f'Output directory for program JSON files (default: {default_output_dir})')
+    parser.add_argument('--markdown-dir', '-m', default=default_markdown_dir,
+                        help=f'Output directory for markdown reports (default: {default_markdown_dir})')
+    parser.add_argument('--no-markdown', action='store_true',
+                        help='Skip markdown report generation')
     args = parser.parse_args()
     
     output_dir = args.output_dir
@@ -519,6 +635,13 @@ Examples:
                 json.dump(data, f, indent=2)
             
             print(f"   ✅ Saved successfully")
+            
+            # Generate markdown
+            if not args.no_markdown:
+                md_filename = to_snake_case(program_name).replace('.json', '.md')
+                md_path = os.path.join(args.markdown_dir, md_filename)
+                generate_program_markdown(data, program_name, md_path)
+                print(f"   📝 Markdown: {md_filename}")
             
             # Display the program structure
             display_program_compact(data, program_name)

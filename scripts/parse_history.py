@@ -3,6 +3,7 @@
 Parses history.json from Boostcamp.
 Outputs all-time PRs for Big 3 and variations.
 Supports fetching fresh data from Boostcamp API.
+Generates markdown reports with trends, e1RM, and volume analytics.
 """
 
 import json
@@ -22,6 +23,43 @@ BOOSTCAMP_API_URL = "https://newapi.boostcamp.app/api/www/programs/history"
 FIREBASE_API_KEY = "AIzaSyAEJcoGF-5ueF3bvaujcJm2PUV7RHKQwTw"
 FIREBASE_REFRESH_URL = f"https://securetoken.googleapis.com/v1/token?key={FIREBASE_API_KEY}"
 DEFAULT_REFRESH_TOKEN_FILE = ".boostcamp_refresh_token"
+
+# Big 3 configuration
+BIG3_MAIN = ['Squat (Low Bar)', 'Bench Press (Barbell)', 'Sumo Deadlift (Barbell)']
+BIG3_VARIATIONS = [
+    'Squat (Paused)', 'Tempo Squat', 'Squat (Smith',
+    'Bench Press (Paused)', 'Spoto Press', 'Incline Bench Press',
+    'Sumo Deadlift (Paused)', 'Romanian Deadlift'
+]
+
+# Lift categories for grouping
+LIFT_CATEGORIES = {
+    'Squat': ['Squat (Low Bar)', 'Squat (Paused)', 'Tempo Squat', 'Squat (Smith'],
+    'Bench': ['Bench Press (Barbell)', 'Bench Press (Paused)', 'Spoto Press', 'Incline Bench Press'],
+    'Deadlift': ['Sumo Deadlift (Barbell)', 'Sumo Deadlift (Paused)', 'Romanian Deadlift']
+}
+
+
+def calculate_e1rm_brzycki(weight, reps):
+    """Calculate estimated 1RM using Brzycki formula.
+    
+    Brzycki formula: 1RM = weight / (1.0278 - 0.0278 × reps)
+    
+    Args:
+        weight: Weight lifted in kg
+        reps: Number of reps performed
+        
+    Returns:
+        Estimated 1RM in kg, or the actual weight if reps=1
+    """
+    if reps <= 0:
+        return 0
+    if reps == 1:
+        return weight
+    if reps >= 37:  # Brzycki formula becomes unreliable at very high reps
+        return weight * 2  # Rough estimate
+    
+    return weight / (1.0278 - 0.0278 * reps)
 
 
 def refresh_access_token(refresh_token):
@@ -155,6 +193,7 @@ def load_history(filepath='history.json'):
     with open(filepath, 'r') as f:
         return json.load(f)
 
+
 def parse_all_workouts(data):
     """Parse ALL workout data from Boostcamp format (no time filter)."""
     workouts = []
@@ -185,19 +224,22 @@ def parse_all_workouts(data):
                         continue
                     
                     if weight > 0 and reps > 0:
+                        e1rm = calculate_e1rm_brzycki(weight, reps)
                         workouts.append({
                             'date': date_str,
                             'name': name,
                             'weight': round(weight, 1),
                             'reps': reps,
-                            'rpe': rpe
+                            'rpe': rpe,
+                            'e1rm': round(e1rm, 1)
                         })
     
     return workouts
 
+
 def find_all_rep_maxes(workouts, exercise_filter=None):
     """Find best weight for each exercise at each rep count (all reps, not hardcoded)."""
-    maxes = defaultdict(lambda: defaultdict(lambda: {'weight': 0, 'date': '', 'rpe': None}))
+    maxes = defaultdict(lambda: defaultdict(lambda: {'weight': 0, 'date': '', 'rpe': None, 'e1rm': 0}))
     
     for w in workouts:
         name = w['name']
@@ -212,10 +254,105 @@ def find_all_rep_maxes(workouts, exercise_filter=None):
             maxes[name][reps] = {
                 'weight': w['weight'],
                 'date': w['date'],
-                'rpe': w['rpe']
+                'rpe': w['rpe'],
+                'e1rm': w['e1rm']
             }
     
     return maxes
+
+
+def calculate_training_volume(workouts, exercise_filters, period='weekly'):
+    """Calculate training volume (kg, reps, sets) for filtered exercises.
+    
+    Args:
+        workouts: List of workout dicts
+        exercise_filters: List of exercise name substrings to filter
+        period: 'weekly' or 'monthly'
+        
+    Returns:
+        dict: {period_key: {'total_kg': X, 'total_reps': Y, 'total_sets': Z}}
+    """
+    volume = defaultdict(lambda: {'total_kg': 0, 'total_reps': 0, 'total_sets': 0})
+    
+    for w in workouts:
+        name = w['name']
+        
+        # Filter
+        if not any(f.lower() in name.lower() for f in exercise_filters):
+            continue
+        
+        try:
+            date = datetime.strptime(w['date'], '%Y-%m-%d')
+        except ValueError:
+            continue
+        
+        if period == 'weekly':
+            # ISO week number
+            key = f"{date.isocalendar()[0]}-W{date.isocalendar()[1]:02d}"
+        else:  # monthly
+            key = f"{date.year}-{date.month:02d}"
+        
+        volume[key]['total_kg'] += w['weight'] * w['reps']
+        volume[key]['total_reps'] += w['reps']
+        volume[key]['total_sets'] += 1
+    
+    return dict(volume)
+
+
+def analyze_trends(workouts, exercise_filters, period='weekly'):
+    """Analyze progression trends for exercises.
+    
+    Tracks best estimated 1RM per period.
+    
+    Args:
+        workouts: List of workout dicts
+        exercise_filters: List of exercise name substrings to filter
+        period: 'weekly' or 'monthly'
+        
+    Returns:
+        dict: {period_key: best_e1rm}
+    """
+    trends = defaultdict(lambda: 0)
+    
+    for w in workouts:
+        name = w['name']
+        
+        # Filter
+        if not any(f.lower() in name.lower() for f in exercise_filters):
+            continue
+        
+        try:
+            date = datetime.strptime(w['date'], '%Y-%m-%d')
+        except ValueError:
+            continue
+        
+        if period == 'weekly':
+            key = f"{date.isocalendar()[0]}-W{date.isocalendar()[1]:02d}"
+        else:  # monthly
+            key = f"{date.year}-{date.month:02d}"
+        
+        if w['e1rm'] > trends[key]:
+            trends[key] = w['e1rm']
+    
+    return dict(trends)
+
+
+def get_summary_stats(workouts, data):
+    """Get summary statistics from workout data."""
+    if not workouts:
+        return {}
+    
+    dates = [w['date'] for w in workouts]
+    date_set = set(dates)
+    
+    return {
+        'total_sets': len(workouts),
+        'total_days': len(date_set),
+        'date_range_start': min(dates),
+        'date_range_end': max(dates),
+        'total_days_in_data': len(data.get('data', {}))
+    }
+
 
 # ANSI color codes for terminal output (with bold for better visibility)
 # Using emoji indicators as fallback for terminals with non-standard color themes
@@ -227,6 +364,7 @@ COLORS = {
     'purple': '\033[1;35m',     # Bold purple/magenta - > 1 year (stale)
     'reset': '\033[0m',
     'dim': '\033[2m',           # Dim for legend
+    'cyan': '\033[1;36m',       # Cyan bold for headers
 }
 
 # Emoji indicators for each age bracket
@@ -289,6 +427,107 @@ def print_color_legend():
     print(f"🟣 >1yr")
 
 
+def print_summary(stats, workouts):
+    """Print summary statistics."""
+    c = COLORS
+    print(f"\n{c['cyan']}📊 SUMMARY{c['reset']}")
+    print("-" * 50)
+    print(f"   Date Range: {stats['date_range_start']} → {stats['date_range_end']}")
+    print(f"   Training Days: {stats['total_days']}")
+    print(f"   Total Sets: {stats['total_sets']}")
+    
+    # Count Big 3 sets
+    big3_sets = [w for w in workouts if any(m in w['name'] for m in BIG3_MAIN)]
+    print(f"   Big 3 Sets: {len(big3_sets)}")
+
+
+def print_e1rm_summary(all_maxes):
+    """Print estimated 1RM summary for Big 3."""
+    c = COLORS
+    print(f"\n{c['cyan']}💪 ESTIMATED 1RM (Brzycki Formula){c['reset']}")
+    print("-" * 70)
+    print(f"{'Lift':<40} {'Actual 1RM':>12} {'Best e1RM':>12} {'From':>8}")
+    print("-" * 70)
+    
+    for name in sorted(all_maxes.keys()):
+        if not any(m in name for m in BIG3_MAIN):
+            continue
+        
+        # Get actual 1RM
+        actual_1rm = all_maxes[name].get(1, {}).get('weight', 0)
+        
+        # Find best e1RM across all rep ranges
+        best_e1rm = 0
+        best_reps = 0
+        for reps, data in all_maxes[name].items():
+            if data['e1rm'] > best_e1rm:
+                best_e1rm = data['e1rm']
+                best_reps = reps
+        
+        actual_str = f"{actual_1rm:.1f}kg" if actual_1rm > 0 else "-"
+        e1rm_str = f"{best_e1rm:.1f}kg" if best_e1rm > 0 else "-"
+        from_str = f"{best_reps}RM" if best_reps > 0 else "-"
+        
+        print(f"{name:<40} {actual_str:>12} {e1rm_str:>12} {from_str:>8}")
+
+
+def print_volume_summary(workouts):
+    """Print training volume summary."""
+    c = COLORS
+    print(f"\n{c['cyan']}📈 WEEKLY TRAINING VOLUME (Last 4 Weeks){c['reset']}")
+    print("-" * 80)
+    print(f"{'Week':<12} {'Squat (kg/reps/sets)':>22} {'Bench (kg/reps/sets)':>22} {'Deadlift (kg/reps/sets)':>22}")
+    print("-" * 80)
+    
+    # Get volume for each category
+    squat_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Squat'], 'weekly')
+    bench_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Bench'], 'weekly')
+    deadlift_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Deadlift'], 'weekly')
+    
+    # Get all weeks and sort
+    all_weeks = set(squat_vol.keys()) | set(bench_vol.keys()) | set(deadlift_vol.keys())
+    sorted_weeks = sorted(all_weeks, reverse=True)[:4]  # Last 4 weeks
+    
+    for week in sorted_weeks:
+        sq = squat_vol.get(week, {'total_kg': 0, 'total_reps': 0, 'total_sets': 0})
+        bn = bench_vol.get(week, {'total_kg': 0, 'total_reps': 0, 'total_sets': 0})
+        dl = deadlift_vol.get(week, {'total_kg': 0, 'total_reps': 0, 'total_sets': 0})
+        
+        sq_str = f"{sq['total_kg']:.0f}/{sq['total_reps']}/{sq['total_sets']}"
+        bn_str = f"{bn['total_kg']:.0f}/{bn['total_reps']}/{bn['total_sets']}"
+        dl_str = f"{dl['total_kg']:.0f}/{dl['total_reps']}/{dl['total_sets']}"
+        
+        print(f"{week:<12} {sq_str:>22} {bn_str:>22} {dl_str:>22}")
+
+
+def print_trends(workouts):
+    """Print Big 3 trends."""
+    c = COLORS
+    print(f"\n{c['cyan']}📉 BIG 3 TRENDS (Best e1RM per Week, Last 6 Weeks){c['reset']}")
+    print("-" * 60)
+    print(f"{'Week':<12} {'Squat':>14} {'Bench':>14} {'Deadlift':>14}")
+    print("-" * 60)
+    
+    # Get trends for main lifts only
+    squat_trends = analyze_trends(workouts, [BIG3_MAIN[0]], 'weekly')
+    bench_trends = analyze_trends(workouts, [BIG3_MAIN[1]], 'weekly')
+    deadlift_trends = analyze_trends(workouts, [BIG3_MAIN[2]], 'weekly')
+    
+    all_weeks = set(squat_trends.keys()) | set(bench_trends.keys()) | set(deadlift_trends.keys())
+    sorted_weeks = sorted(all_weeks, reverse=True)[:6]  # Last 6 weeks
+    
+    for week in sorted_weeks:
+        sq = squat_trends.get(week, 0)
+        bn = bench_trends.get(week, 0)
+        dl = deadlift_trends.get(week, 0)
+        
+        sq_str = f"{sq:.1f}kg" if sq > 0 else "-"
+        bn_str = f"{bn:.1f}kg" if bn > 0 else "-"
+        dl_str = f"{dl:.1f}kg" if dl > 0 else "-"
+        
+        print(f"{week:<12} {sq_str:>14} {bn_str:>14} {dl_str:>14}")
+
+
 def print_rep_maxes(maxes, title):
     """Print rep maxes in a nice format with color-coded dates."""
     print(f"\n{'='*70}")
@@ -303,24 +542,193 @@ def print_rep_maxes(maxes, title):
         for reps in sorted(maxes[name].keys()):
             w = maxes[name][reps]
             rpe_str = f"@RPE {w['rpe']}" if w['rpe'] else ""
+            e1rm_str = f"(e1RM: {w['e1rm']:.1f}kg)" if reps > 1 else ""
             colored_date = color_date(w['date'])
-            print(f"    {reps:2}RM: {w['weight']:6.1f}kg {rpe_str:12} ({colored_date})")
+            print(f"    {reps:2}RM: {w['weight']:6.1f}kg {rpe_str:12} {e1rm_str:18} ({colored_date})")
+
+
+def generate_markdown_report(workouts, all_maxes, stats, output_path):
+    """Generate comprehensive markdown report."""
+    lines = []
+    now = datetime.now().strftime('%Y-%m-%d %H:%M')
+    
+    lines.append("# Workout History Analysis")
+    lines.append(f"")
+    lines.append(f"*Generated: {now}*")
+    lines.append("")
+    
+    # Summary
+    lines.append("## 📊 Summary")
+    lines.append("")
+    lines.append(f"| Metric | Value |")
+    lines.append(f"|--------|-------|")
+    lines.append(f"| Date Range | {stats['date_range_start']} → {stats['date_range_end']} |")
+    lines.append(f"| Training Days | {stats['total_days']} |")
+    lines.append(f"| Total Sets | {stats['total_sets']} |")
+    lines.append("")
+    
+    # Big 3 Performance Summary
+    lines.append("## 💪 Big 3 Performance Summary")
+    lines.append("")
+    lines.append("*Estimated 1RM calculated using Brzycki formula: `1RM = weight / (1.0278 - 0.0278 × reps)`*")
+    lines.append("")
+    lines.append("| Lift | Actual 1RM | Best e1RM | From | Date |")
+    lines.append("|------|------------|-----------|------|------|")
+    
+    for name in sorted(all_maxes.keys()):
+        if not any(m in name for m in BIG3_MAIN):
+            continue
+        
+        actual_1rm_data = all_maxes[name].get(1, {})
+        actual_1rm = actual_1rm_data.get('weight', 0)
+        actual_date = actual_1rm_data.get('date', '-')
+        
+        best_e1rm = 0
+        best_reps = 0
+        best_date = '-'
+        for reps, data in all_maxes[name].items():
+            if data['e1rm'] > best_e1rm:
+                best_e1rm = data['e1rm']
+                best_reps = reps
+                best_date = data['date']
+        
+        actual_str = f"{actual_1rm:.1f}kg" if actual_1rm > 0 else "-"
+        e1rm_str = f"{best_e1rm:.1f}kg" if best_e1rm > 0 else "-"
+        from_str = f"{best_reps}RM" if best_reps > 0 else "-"
+        
+        lines.append(f"| {name} | {actual_str} | {e1rm_str} | {from_str} | {best_date} |")
+    
+    lines.append("")
+    
+    # Trends
+    lines.append("## 📈 Trends (Best e1RM per Week)")
+    lines.append("")
+    
+    squat_trends = analyze_trends(workouts, [BIG3_MAIN[0]], 'weekly')
+    bench_trends = analyze_trends(workouts, [BIG3_MAIN[1]], 'weekly')
+    deadlift_trends = analyze_trends(workouts, [BIG3_MAIN[2]], 'weekly')
+    
+    all_weeks = set(squat_trends.keys()) | set(bench_trends.keys()) | set(deadlift_trends.keys())
+    sorted_weeks = sorted(all_weeks, reverse=True)[:8]  # Last 8 weeks
+    
+    lines.append("| Week | Squat | Bench | Deadlift |")
+    lines.append("|------|-------|-------|----------|")
+    
+    for week in sorted_weeks:
+        sq = squat_trends.get(week, 0)
+        bn = bench_trends.get(week, 0)
+        dl = deadlift_trends.get(week, 0)
+        
+        sq_str = f"{sq:.1f}kg" if sq > 0 else "-"
+        bn_str = f"{bn:.1f}kg" if bn > 0 else "-"
+        dl_str = f"{dl:.1f}kg" if dl > 0 else "-"
+        
+        lines.append(f"| {week} | {sq_str} | {bn_str} | {dl_str} |")
+    
+    lines.append("")
+    
+    # Training Volume
+    lines.append("## 🏋️ Weekly Training Volume")
+    lines.append("")
+    lines.append("*Format: total kg / reps / sets*")
+    lines.append("")
+    
+    squat_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Squat'], 'weekly')
+    bench_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Bench'], 'weekly')
+    deadlift_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Deadlift'], 'weekly')
+    
+    all_vol_weeks = set(squat_vol.keys()) | set(bench_vol.keys()) | set(deadlift_vol.keys())
+    sorted_vol_weeks = sorted(all_vol_weeks, reverse=True)[:8]
+    
+    lines.append("| Week | Squat | Bench | Deadlift |")
+    lines.append("|------|-------|-------|----------|")
+    
+    for week in sorted_vol_weeks:
+        sq = squat_vol.get(week, {'total_kg': 0, 'total_reps': 0, 'total_sets': 0})
+        bn = bench_vol.get(week, {'total_kg': 0, 'total_reps': 0, 'total_sets': 0})
+        dl = deadlift_vol.get(week, {'total_kg': 0, 'total_reps': 0, 'total_sets': 0})
+        
+        sq_str = f"{sq['total_kg']:.0f}/{sq['total_reps']}/{sq['total_sets']}"
+        bn_str = f"{bn['total_kg']:.0f}/{bn['total_reps']}/{bn['total_sets']}"
+        dl_str = f"{dl['total_kg']:.0f}/{dl['total_reps']}/{dl['total_sets']}"
+        
+        lines.append(f"| {week} | {sq_str} | {bn_str} | {dl_str} |")
+    
+    lines.append("")
+    
+    # All-Time PRs
+    lines.append("## 🏆 All-Time PRs")
+    lines.append("")
+    
+    # Big 3 Main Lifts
+    lines.append("### Big 3 - Main Lifts")
+    lines.append("")
+    
+    for name in sorted(all_maxes.keys()):
+        if not any(m in name for m in BIG3_MAIN):
+            continue
+        
+        lines.append(f"#### {name}")
+        lines.append("")
+        lines.append("| Reps | Weight | e1RM | RPE | Date |")
+        lines.append("|------|--------|------|-----|------|")
+        
+        for reps in sorted(all_maxes[name].keys()):
+            w = all_maxes[name][reps]
+            rpe_str = str(w['rpe']) if w['rpe'] else "-"
+            e1rm_str = f"{w['e1rm']:.1f}kg" if reps > 1 else "-"
+            lines.append(f"| {reps}RM | {w['weight']:.1f}kg | {e1rm_str} | {rpe_str} | {w['date']} |")
+        
+        lines.append("")
+    
+    # Big 3 Variations
+    lines.append("### Big 3 - Variations")
+    lines.append("")
+    
+    for name in sorted(all_maxes.keys()):
+        if not any(v.lower() in name.lower() for v in BIG3_VARIATIONS):
+            continue
+        if any(m in name for m in BIG3_MAIN):  # Skip main lifts
+            continue
+        
+        lines.append(f"#### {name}")
+        lines.append("")
+        lines.append("| Reps | Weight | e1RM | RPE | Date |")
+        lines.append("|------|--------|------|-----|------|")
+        
+        for reps in sorted(all_maxes[name].keys()):
+            w = all_maxes[name][reps]
+            rpe_str = str(w['rpe']) if w['rpe'] else "-"
+            e1rm_str = f"{w['e1rm']:.1f}kg" if reps > 1 else "-"
+            lines.append(f"| {reps}RM | {w['weight']:.1f}kg | {e1rm_str} | {rpe_str} | {w['date']} |")
+        
+        lines.append("")
+    
+    # Write to file
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+    
+    return output_path
+
 
 def main():
     # Get the directory where the script is located
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(script_dir)
     default_output_dir = os.path.join(project_root, 'values')
+    default_markdown_dir = os.path.join(project_root, 'outputs')
     
     # Parse command line arguments
     parser = argparse.ArgumentParser(
-        description='Parse Boostcamp workout history and display PRs.',
+        description='Parse Boostcamp workout history and display PRs with analytics.',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
   python parse_history.py                     # Parse existing history.json
   python parse_history.py --fetch             # Fetch fresh data, then parse
   python parse_history.py -o ./my-data/       # Use custom output directory
+  python parse_history.py --no-markdown       # Skip markdown generation
         """
     )
     parser.add_argument('--fetch', action='store_true',
@@ -329,6 +737,10 @@ Examples:
                         help='Path to history.json file (default: history.json in output dir)')
     parser.add_argument('--output-dir', '-o', default=default_output_dir,
                         help=f'Output directory for history.json (default: {default_output_dir})')
+    parser.add_argument('--markdown-dir', '-m', default=default_markdown_dir,
+                        help=f'Output directory for markdown reports (default: {default_markdown_dir})')
+    parser.add_argument('--no-markdown', action='store_true',
+                        help='Skip markdown report generation')
     args = parser.parse_args()
     
     output_dir = args.output_dir
@@ -346,7 +758,7 @@ Examples:
         print()  # Blank line after fetch
     
     print("=" * 70)
-    print("BOOSTCAMP HISTORY PARSER - ALL-TIME PRs")
+    print("BOOSTCAMP HISTORY PARSER - ALL-TIME PRs & ANALYTICS")
     print("=" * 70)
     
     # Load and parse all data
@@ -361,31 +773,27 @@ Examples:
         sys.exit(1)
     
     workouts = parse_all_workouts(data)
-    print(f"\nTotal sets found (all time): {len(workouts)}")
+    stats = get_summary_stats(workouts, data)
+    
+    # Print summary and analytics
+    print_summary(stats, workouts)
     print_color_legend()
-    
-    # Define Big 3 main lifts
-    big3_main = ['Squat (Low Bar)', 'Bench Press (Barbell)', 'Sumo Deadlift (Barbell)']
-    
-    # Define Big 3 variations
-    big3_variations = [
-        'Squat (Paused)', 'Tempo Squat', 'Squat (Smith',
-        'Bench Press (Paused)', 'Spoto Press', 'Incline Bench Press',
-        'Sumo Deadlift (Paused)', 'Romanian Deadlift'
-    ]
+    print_e1rm_summary(find_all_rep_maxes(workouts))
+    print_trends(workouts)
+    print_volume_summary(workouts)
     
     # Get all maxes
     all_maxes = find_all_rep_maxes(workouts)
     
     # Print Big 3 Main Lifts
     print_rep_maxes(
-        {k: v for k, v in all_maxes.items() if any(m in k for m in big3_main)},
+        {k: v for k, v in all_maxes.items() if any(m in k for m in BIG3_MAIN)},
         "BIG 3 - MAIN LIFTS (All-Time PRs)"
     )
     
     # Print Big 3 Variations
     print_rep_maxes(
-        {k: v for k, v in all_maxes.items() if any(v_name.lower() in k.lower() for v_name in big3_variations)},
+        {k: v for k, v in all_maxes.items() if any(v_name.lower() in k.lower() for v_name in BIG3_VARIATIONS)},
         "BIG 3 - VARIATIONS (All-Time PRs)"
     )
     
@@ -398,12 +806,17 @@ Examples:
         if 1 in all_maxes[name]:
             w = all_maxes[name][1]
             # Show if it's a big 3 or variation
-            if any(m in name for m in big3_main + big3_variations):
+            if any(m in name for m in BIG3_MAIN + BIG3_VARIATIONS):
                 rpe_str = f"@RPE {w['rpe']}" if w['rpe'] else ""
                 colored_date = color_date(w['date'])
                 print(f"{name:40} 1RM: {w['weight']:6.1f}kg {rpe_str:12} ({colored_date})")
+    
+    # Generate markdown report
+    if not args.no_markdown:
+        markdown_path = os.path.join(args.markdown_dir, 'history.md')
+        generate_markdown_report(workouts, all_maxes, stats, markdown_path)
+        print(f"\n✅ Markdown report saved to: {markdown_path}")
 
 
 if __name__ == '__main__':
     main()
-
