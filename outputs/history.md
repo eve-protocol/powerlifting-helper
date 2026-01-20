@@ -1,6 +1,6 @@
 # Workout History Analysis
 
-*Generated: 2026-01-20 10:45*
+*Generated: 2026-01-20 10:52*
 
 ## 📊 Summary
 
@@ -14,11 +14,13 @@
 
 *Estimated 1RM calculated using Brzycki formula: `1RM = weight / (1.0278 - 0.0278 × reps)`*
 
+*Best e1RM from sets ≤6 reps within last 2 months*
+
 | Lift | Actual 1RM | Best e1RM | From | Date |
 |------|------------|-----------|------|------|
-| Bench Press (Barbell) | 132.5kg | 174.9kg | 20RM | 2025-08-11 |
-| Squat (Low Bar) | 172.5kg | 180.1kg | 12RM | 2025-12-05 |
-| Sumo Deadlift (Barbell) | 200.0kg | 200.0kg | 1RM | 2025-08-26 |
+| Bench Press (Barbell) | 132.5kg | 130.0kg | 1RM | 2026-01-08 |
+| Squat (Low Bar) | 172.5kg | 167.5kg | 1RM | 2025-12-04 |
+| Sumo Deadlift (Barbell) | 200.0kg | 193.2kg | 3RM | 2026-01-17 |
 
 ## 📈 Trends (Best e1RM per Week)
 
