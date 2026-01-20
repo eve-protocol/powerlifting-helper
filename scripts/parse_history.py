@@ -142,7 +142,7 @@ def fetch_history(token, output_file='history.json', timezone_offset=9):
     try:
         data = response.json()
         with open(output_file, 'w') as f:
-            json.dump(data, f)
+            json.dump(data, f, indent=2)
         print(f"✓ History saved to {output_file} ({len(data.get('data', {}))} days)")
         return True
     except (json.JSONDecodeError, IOError) as e:
