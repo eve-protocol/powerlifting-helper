@@ -246,6 +246,11 @@ def print_rep_maxes(maxes, title):
             print(f"    {reps:2}RM: {w['weight']:6.1f}kg {rpe_str:12} ({colored_date})")
 
 def main():
+    # Get the directory where the script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    default_output_dir = os.path.join(project_root, 'values')
+    
     # Parse command line arguments
     parser = argparse.ArgumentParser(
         description='Parse Boostcamp workout history and display PRs.',
@@ -255,6 +260,7 @@ Examples:
   python parse_history.py                     # Parse existing history.json
   python parse_history.py --fetch             # Fetch fresh data, then parse
   python parse_history.py --fetch --token ~/.mytoken  # Use custom token file
+  python parse_history.py -o ./my-data/       # Use custom output directory
         """
     )
     parser.add_argument('--fetch', action='store_true',
@@ -262,12 +268,15 @@ Examples:
     parser.add_argument('--token', default=DEFAULT_TOKEN_FILE,
                         help=f'Path to token file (default: {DEFAULT_TOKEN_FILE})')
     parser.add_argument('--history', default='history.json',
-                        help='Path to history.json file (default: history.json)')
+                        help='Path to history.json file (default: history.json in output dir)')
+    parser.add_argument('--output-dir', '-o', default=default_output_dir,
+                        help=f'Output directory for history.json (default: {default_output_dir})')
     args = parser.parse_args()
     
-    # Get the directory where the script is located
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    history_file = os.path.join(script_dir, args.history)
+    output_dir = args.output_dir
+    os.makedirs(output_dir, exist_ok=True)
+    
+    history_file = os.path.join(output_dir, args.history)
     token_file = os.path.join(script_dir, args.token) if not os.path.isabs(args.token) else args.token
     
     # Fetch if requested

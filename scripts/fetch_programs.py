@@ -7,6 +7,7 @@ Also displays a formatted table of the program structure.
 Uses refresh token for automatic authentication - no more manual token copying!
 """
 
+import argparse
 import json
 import os
 import re
@@ -410,6 +411,26 @@ def get_access_token(script_dir):
 def main():
     # Get the directory where the script is located
     script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    default_output_dir = os.path.join(project_root, 'values')
+    
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description='Fetch Boostcamp programs and save as JSON files.',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python fetch_programs.py                    # Output to <project>/values/
+  python fetch_programs.py -o ./my-data/      # Output to custom directory
+        """
+    )
+    parser.add_argument('--output-dir', '-o', default=default_output_dir,
+                        help=f'Output directory for program JSON files (default: {default_output_dir})')
+    args = parser.parse_args()
+    
+    output_dir = args.output_dir
+    os.makedirs(output_dir, exist_ok=True)
+    
     config_file = os.path.join(script_dir, DEFAULT_CONFIG_FILE)
     
     # Load configuration
@@ -485,7 +506,7 @@ def main():
             continue
         
         output_file = to_snake_case(program_name)
-        output_path = os.path.join(script_dir, output_file)
+        output_path = os.path.join(output_dir, output_file)
         
         print(f"\n📥 Fetching: {program_name}")
         print(f"   ID: {program_id}")
