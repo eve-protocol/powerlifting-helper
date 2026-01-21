@@ -79,7 +79,7 @@ def markdown_date_staleness(date_str, reference_date=None):
 
 
 def generate_ascii_line_graph(data_series, labels, height=8, width=50):
-    """Generate an ASCII line graph for trend data.
+    """Generate an ASCII line graph for trend data (points only).
     
     Args:
         data_series: Dict of {label: list_of_values} for each line
@@ -117,11 +117,9 @@ def generate_ascii_line_graph(data_series, labels, height=8, width=50):
     
     # Create grid
     n_cols = len(labels)
-    col_width = max(width // n_cols, 3)
+    col_width = max(width // n_cols, 4)
     
     for row in range(height, -1, -1):
-        threshold = min_val + (max_val - min_val) * (row / height)
-        
         # Y-axis label
         if row == height:
             y_label = f"{max_val:6.0f} ┤"

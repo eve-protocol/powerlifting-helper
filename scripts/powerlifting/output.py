@@ -74,7 +74,7 @@ def print_e1rm_summary(all_maxes, workouts):
 def print_volume_summary(workouts):
     """Print training volume summary with ASCII bar charts."""
     c = COLORS
-    print(f"\n{c['cyan']}📈 WEEKLY TRAINING VOLUME (Last 4 Weeks){c['reset']}")
+    print(f"\n{c['cyan']}📈 WEEKLY TRAINING VOLUME (Last 10 Weeks){c['reset']}")
     
     # Get volume for each category
     squat_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Squat'], 'weekly')
@@ -83,7 +83,7 @@ def print_volume_summary(workouts):
     
     # Get all weeks and sort
     all_weeks = set(squat_vol.keys()) | set(bench_vol.keys()) | set(deadlift_vol.keys())
-    sorted_weeks = sorted(all_weeks, reverse=True)[:4]  # Last 4 weeks
+    sorted_weeks = sorted(all_weeks, reverse=True)[:10]  # Last 10 weeks
     
     # Generate and print ASCII chart
     chart_lines = generate_volume_bar_chart(squat_vol, bench_vol, deadlift_vol, sorted_weeks)
@@ -102,7 +102,7 @@ def print_trends(workouts):
     deadlift_trends = analyze_trends(workouts, [BIG3_MAIN[2]], 'weekly')
     
     all_weeks = set(squat_trends.keys()) | set(bench_trends.keys()) | set(deadlift_trends.keys())
-    sorted_weeks = sorted(all_weeks)[-8:]  # Last 8 weeks, oldest to newest
+    sorted_weeks = sorted(all_weeks)[-10:]  # Last 10 weeks, oldest to newest
     
     # Prepare data series
     data_series = {
@@ -220,16 +220,16 @@ def generate_markdown_rpe_table(workouts):
         
         lines.append("")
     
-    # Compare to standard RTS chart
+    # Compare to standard RTS chart (extended to 10RM and @6 RPE)
     lines.append("### Standard RTS Chart (for comparison)")
     lines.append("")
-    lines.append("| Reps | @10 | @9.5 | @9 | @8.5 | @8 | @7.5 | @7 |")
-    lines.append("|------|-----|------|-----|------|-----|------|-----|")
-    for reps in range(1, 6):
+    lines.append("| Reps | @10 | @9.5 | @9 | @8.5 | @8 | @7.5 | @7 | @6.5 | @6 |")
+    lines.append("|------|-----|------|-----|------|-----|------|-----|------|-----|")
+    for reps in range(1, 11):
         if reps in RTS_RPE_CHART:
             rpe_dict = RTS_RPE_CHART[reps]
             row = f"| {reps}RM |"
-            for rpe in [10, 9.5, 9, 8.5, 8, 7.5, 7]:
+            for rpe in [10, 9.5, 9, 8.5, 8, 7.5, 7, 6.5, 6]:
                 if rpe in rpe_dict:
                     row += f" {rpe_dict[rpe]*100:.0f}% |"
                 else:
@@ -264,15 +264,11 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
     lines.append("> **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year")
     lines.append("")
     
-    # Big 3 Performance Summary
-    lines.append("## 💪 Big 3 Performance Summary")
+    # Big 3 Performance Summary - show actual 1RM with date
+    lines.append("## 💪 Big 3 Actual 1RM")
     lines.append("")
-    lines.append("*Estimated 1RM calculated using RPE-adjusted formula (RTS chart) when RPE is logged, otherwise Brzycki formula*")
-    lines.append("")
-    lines.append("*Best e1RM from sets ≤6 reps within last 2 months*")
-    lines.append("")
-    lines.append("| Lift | Actual 1RM | Best e1RM | From | Date |")
-    lines.append("|------|------------|-----------|------|------|")
+    lines.append("| Lift | 1RM | RPE | Date |")
+    lines.append("|------|-----|-----|------|")
     
     for name in sorted(all_maxes.keys()):
         if not any(m in name for m in BIG3_MAIN):
@@ -280,20 +276,14 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
         
         actual_1rm_data = all_maxes[name].get(1, {})
         actual_1rm = actual_1rm_data.get('weight', 0)
+        actual_date = actual_1rm_data.get('date', '-')
+        actual_rpe = actual_1rm_data.get('rpe')
         
-        # Find best e1RM from recent sets with <= 6 reps
-        recent_best = get_best_recent_e1rm(workouts, name, max_reps=6, months=2)
+        weight_str = f"{actual_1rm:.1f}kg" if actual_1rm > 0 else "-"
+        rpe_str = str(actual_rpe) if actual_rpe else "-"
+        date_display = markdown_date_staleness(actual_date) if actual_date != '-' else '-'
         
-        best_e1rm = recent_best['e1rm'] if recent_best else 0
-        best_reps = recent_best['reps'] if recent_best else 0
-        best_date = recent_best['date'] if recent_best else '-'
-        
-        actual_str = f"{actual_1rm:.1f}kg" if actual_1rm > 0 else "-"
-        e1rm_str = f"{best_e1rm:.1f}kg" if best_e1rm > 0 else "-"
-        from_str = f"{best_reps}RM" if best_reps > 0 else "-"
-        date_display = markdown_date_staleness(best_date) if best_date != '-' else '-'
-        
-        lines.append(f"| {name} | {actual_str} | {e1rm_str} | {from_str} | {date_display} |")
+        lines.append(f"| {name} | {weight_str} | {rpe_str} | {date_display} |")
     
     lines.append("")
     
@@ -306,7 +296,7 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
     deadlift_trends = analyze_trends(workouts, [BIG3_MAIN[2]], 'weekly')
     
     all_weeks = set(squat_trends.keys()) | set(bench_trends.keys()) | set(deadlift_trends.keys())
-    sorted_weeks = sorted(all_weeks)[-8:]  # Last 8 weeks, oldest to newest
+    sorted_weeks = sorted(all_weeks)[-10:]  # Last 10 weeks, oldest to newest
     
     # Generate ASCII graph data
     data_series = {
@@ -330,7 +320,7 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
     deadlift_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Deadlift'], 'weekly')
     
     all_vol_weeks = set(squat_vol.keys()) | set(bench_vol.keys()) | set(deadlift_vol.keys())
-    sorted_vol_weeks = sorted(all_vol_weeks, reverse=True)[:6]
+    sorted_vol_weeks = sorted(all_vol_weeks, reverse=True)[:10]
     
     lines.append("```")
     vol_chart_lines = generate_volume_bar_chart(squat_vol, bench_vol, deadlift_vol, sorted_vol_weeks)

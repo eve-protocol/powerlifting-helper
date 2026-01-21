@@ -1,7 +1,8 @@
-"""Boostcamp API client for fetching workout history."""
+"""Boostcamp API client for fetching workout history and programs."""
 
 import json
 import os
+import time
 
 try:
     import requests
@@ -10,9 +11,32 @@ except ImportError:
 
 from .constants import (
     BOOSTCAMP_API_URL,
+    BOOSTCAMP_PROGRAM_DETAIL_URL,
+    BOOSTCAMP_PROGRAMS_LIST_URL,
+    BOOSTCAMP_PROGRAMS_CONTINUE_URL,
     FIREBASE_REFRESH_URL,
     DEFAULT_REFRESH_TOKEN_FILE,
 )
+
+
+def _get_headers(token):
+    """Get standard headers for Boostcamp API requests."""
+    return {
+        'Authorization': f'FirebaseIdToken:{token}',
+        'Content-Type': 'application/json; charset=UTF-8',
+        'Origin': 'https://www.boostcamp.app',
+        'Referer': 'https://www.boostcamp.app/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0',
+    }
+
+
+def _check_requests():
+    """Check if requests library is available."""
+    if requests is None:
+        print("Error: 'requests' library is required.")
+        print("Install with: pip install requests")
+        return False
+    return True
 
 
 def refresh_access_token(refresh_token):
@@ -46,9 +70,7 @@ def get_access_token(script_dir):
     Returns:
         str: Valid access token or None on failure
     """
-    if requests is None:
-        print("Error: 'requests' library is required for --fetch.")
-        print("Install with: pip install requests")
+    if not _check_requests():
         return None
     
     refresh_token_file = os.path.join(script_dir, DEFAULT_REFRESH_TOKEN_FILE)
@@ -99,19 +121,10 @@ def fetch_history(token, output_file='history.json', timezone_offset=9):
     Returns:
         True if successful, False otherwise
     """
-    if requests is None:
-        print("Error: 'requests' library is required for --fetch.")
-        print("Install with: pip install requests")
+    if not _check_requests():
         return False
     
-    # Make API request
-    headers = {
-        'Authorization': f'FirebaseIdToken:{token}',
-        'Content-Type': 'application/json; charset=UTF-8',
-        'Origin': 'https://www.boostcamp.app',
-        'Referer': 'https://www.boostcamp.app/',
-    }
-    
+    headers = _get_headers(token)
     payload = {'timezone_offset': timezone_offset}
     
     print(f"Fetching history from Boostcamp API...")
@@ -145,3 +158,122 @@ def load_history(filepath='history.json'):
     """Load history JSON file."""
     with open(filepath, 'r') as f:
         return json.load(f)
+
+
+def fetch_program(program_id, token):
+    """Fetch a single program's details from the Boostcamp API.
+    
+    Args:
+        program_id: ID of the program to fetch
+        token: Firebase ID token
+        
+    Returns:
+        dict: Program data from API
+    """
+    if not _check_requests():
+        return None
+    
+    headers = _get_headers(token)
+    payload = {'program_id': program_id}
+    timestamp = int(time.time() * 1000)
+    url = f"{BOOSTCAMP_PROGRAM_DETAIL_URL}?_={timestamp}"
+    
+    response = requests.post(url, headers=headers, json=payload, timeout=30)
+    response.raise_for_status()
+    return response.json()
+
+
+def fetch_user_programs(token):
+    """Fetch list of all user's programs from Boostcamp API.
+    
+    Fetches from both:
+    - /api/www/programs/user_programs/list (created programs)
+    - /api/www/programs/continue/list (active programs you're using)
+    
+    Args:
+        token: Firebase ID token
+        
+    Returns:
+        list: List of program dicts with 'id' and 'title' keys
+    """
+    if not _check_requests():
+        return []
+    
+    headers = _get_headers(token)
+    all_programs = {}  # Use dict to dedupe by ID
+    timestamp = int(time.time() * 1000)
+    
+    # Fetch created programs
+    try:
+        payload = {'pagination': {'current': 1, 'pageSize': 200}}
+        url = f"{BOOSTCAMP_PROGRAMS_LIST_URL}?_={timestamp}"
+        response = requests.post(url, headers=headers, json=payload, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        for prog in data.get('data', {}).get('rows', []):
+            all_programs[prog.get('id')] = prog
+    except Exception as e:
+        print(f"   Warning: Could not fetch created programs: {e}")
+    
+    # Fetch active/continue programs
+    try:
+        url = f"{BOOSTCAMP_PROGRAMS_CONTINUE_URL}?_={timestamp}"
+        response = requests.post(url, headers=headers, json={}, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        for prog in data.get('data', []):
+            all_programs[prog.get('id')] = prog
+    except Exception as e:
+        print(f"   Warning: Could not fetch active programs: {e}")
+    
+    return list(all_programs.values())
+
+
+def resolve_programs_by_name(program_names, all_programs):
+    """Resolve program names to IDs using the fetched program list.
+    
+    Args:
+        program_names: List of program names to find
+        all_programs: List of all user programs from API
+        
+    Returns:
+        list: List of dicts with 'id' and 'name' for matched programs
+    """
+    resolved = []
+    
+    # Create a lowercase lookup map
+    name_to_program = {}
+    for prog in all_programs:
+        title = prog.get('title', '')
+        name_to_program[title.lower()] = prog
+    
+    for name in program_names:
+        name_lower = name.lower()
+        if name_lower in name_to_program:
+            prog = name_to_program[name_lower]
+            resolved.append({
+                'id': prog.get('id'),
+                'name': prog.get('title')
+            })
+        else:
+            # Try partial match
+            matched = False
+            for title, prog in name_to_program.items():
+                if name_lower in title or title in name_lower:
+                    resolved.append({
+                        'id': prog.get('id'),
+                        'name': prog.get('title')
+                    })
+                    matched = True
+                    break
+            if not matched:
+                print(f"⚠️  Could not find program: '{name}'")
+    
+    return resolved
+
+
+def load_config(config_path):
+    """Load boostcamp_conf.json configuration file."""
+    with open(config_path, 'r') as f:
+        return json.load(f)
+

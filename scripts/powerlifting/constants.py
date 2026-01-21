@@ -2,9 +2,13 @@
 
 # Boostcamp API configuration
 BOOSTCAMP_API_URL = "https://newapi.boostcamp.app/api/www/programs/history"
+BOOSTCAMP_PROGRAM_DETAIL_URL = "https://newapi.boostcamp.app/api/www/programs/user_program/share_detail"
+BOOSTCAMP_PROGRAMS_LIST_URL = "https://newapi.boostcamp.app/api/www/programs/user_programs/list"
+BOOSTCAMP_PROGRAMS_CONTINUE_URL = "https://newapi.boostcamp.app/api/www/programs/continue/list"
 FIREBASE_API_KEY = "AIzaSyAEJcoGF-5ueF3bvaujcJm2PUV7RHKQwTw"
 FIREBASE_REFRESH_URL = f"https://securetoken.googleapis.com/v1/token?key={FIREBASE_API_KEY}"
 DEFAULT_REFRESH_TOKEN_FILE = ".boostcamp_refresh_token"
+DEFAULT_CONFIG_FILE = "boostcamp_conf.json"
 
 # Big 3 configuration
 BIG3_MAIN = ['Squat (Low Bar)', 'Bench Press (Barbell)', 'Sumo Deadlift (Barbell)']
