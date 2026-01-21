@@ -1,3 +1,6 @@
 # Sensitive files
 .boostcamp_refresh_token
 .boostcamp_token
+
+# Virtual environment
+__pycache__
