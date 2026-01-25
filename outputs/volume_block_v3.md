@@ -1,6 +1,6 @@
 # Volume Block v3
 
-*Generated: 2026-01-25 06:41*
+*Generated: 2026-01-25 12:57*
 
 ## Overview
 
@@ -151,7 +151,7 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Barbell) | 1x1 @95%, 1x5 @86%, 2x5 @82% | 95% |
+| 1 | Sumo Deadlift (Barbell) | 1x1 @93%, 1x5 @86%, 2x5 @82% | 93% |
 | 2 | Squat (Low Bar) | 3x5 @76% | 76% |
 | 3 | Spoto Press | 3x6 @77% | 77% |
 | 4 | Leg Curl | 4x12 @RPE 8 | RPE 8 |
