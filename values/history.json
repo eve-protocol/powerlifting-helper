@@ -1,5 +1,443 @@
 {
   "data": {
+    "2026-01-27": [
+      {
+        "program_id": "user-1aefc269-9d70-4525-bf74-307a68a40083",
+        "id": "j0mjeRMXhTBk6LVx",
+        "user_id": "l8XHYRXwevhoJf4XffuZyECxgMP2",
+        "finished_at": "2026-01-27 10:14:41",
+        "day": 1,
+        "week": 0,
+        "workout": "{}",
+        "records": [
+          {
+            "id": "5a197f0c-15fb-4603-8138-1b863195a47b",
+            "name": "Sumo Deadlift (Paused)",
+            "sets": [
+              {
+                "id": "d0fac85e-0f1b-4149-8807-d3f5f10289c1",
+                "from": "app",
+                "value": "150",
+                "amount": "3",
+                "custom": false,
+                "source": "user created",
+                "target": 3,
+                "skipped": false,
+                "intensity": 75,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 6,
+                "archived_reps": 3,
+                "previous_reps": 1,
+                "target_weight": 330.69,
+                "intensity_unit": "%",
+                "archived_weight": 341.716503,
+                "previous_weight": 352.739616
+              },
+              {
+                "id": "6608818a-7451-4f23-8555-0a259f06f31b",
+                "from": "app",
+                "value": "155",
+                "amount": "3",
+                "custom": false,
+                "source": "user created",
+                "target": 3,
+                "skipped": false,
+                "intensity": 75,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 7,
+                "previous_rpe": 7,
+                "archived_reps": 3,
+                "previous_reps": 6,
+                "target_weight": 330.69,
+                "intensity_unit": "%",
+                "archived_weight": 352.739616,
+                "previous_weight": 330.69339
+              },
+              {
+                "id": "82e85140-0186-4588-bc99-bfae99e4a326",
+                "from": "app",
+                "value": "160",
+                "amount": "3",
+                "custom": false,
+                "source": "user created",
+                "target": 3,
+                "skipped": false,
+                "intensity": 75,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 7,
+                "previous_rpe": 7.5,
+                "archived_reps": 3,
+                "previous_reps": 6,
+                "target_weight": 330.69,
+                "intensity_unit": "%",
+                "archived_weight": 352.739616,
+                "previous_weight": 341.716503
+              }
+            ],
+            "type": "Barbell",
+            "uniq": "78931b31-4bbb-4b4f-a3de-15d4329121d1",
+            "video": "https://s3.boostcamp.app/master-exercise/1173650490.mp4",
+            "custom": false,
+            "source": "coach",
+            "muscles": [
+              "Legs",
+              "Back"
+            ],
+            "target_type": "reps",
+            "alternatives": [],
+            "muscles_list": [
+              {
+                "muscle": "Quadriceps",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Glutes",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Hamstrings",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Adductors",
+                "percent": "50%"
+              },
+              {
+                "muscle": "Abs",
+                "percent": "50%"
+              }
+            ]
+          },
+          {
+            "id": "834b6961-0cf0-410c-b8c7-84e11e0cff87",
+            "name": "Incline Bench Press (Dumbbell)",
+            "sets": [
+              {
+                "id": "ef73986d-3b9a-4d67-a0b6-4184f6bb25ec",
+                "from": "app",
+                "value": "47.5",
+                "amount": "6",
+                "custom": false,
+                "source": "user created",
+                "target": 6,
+                "skipped": false,
+                "intensity": 8,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 8,
+                "previous_rpe": 9.5,
+                "archived_reps": 6,
+                "previous_reps": 10,
+                "intensity_unit": "RPE",
+                "archived_weight": 104.7195735,
+                "previous_weight": 99.208017
+              },
+              {
+                "id": "85ae44c2-a50b-42cd-99e7-0d1c44c914ac",
+                "from": "app",
+                "value": "47.5",
+                "amount": "6",
+                "custom": false,
+                "source": "user created",
+                "target": 6,
+                "skipped": false,
+                "intensity": 8,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 8.5,
+                "previous_rpe": 10,
+                "archived_reps": 6,
+                "previous_reps": 9,
+                "intensity_unit": "RPE",
+                "archived_weight": 104.7195735,
+                "previous_weight": 99.208017
+              },
+              {
+                "id": "26db0d63-7ff9-4bed-a39b-39ce2e3459c5",
+                "from": "app",
+                "value": "47.5",
+                "amount": "6",
+                "custom": false,
+                "source": "user created",
+                "target": 6,
+                "skipped": false,
+                "intensity": 8,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 9.5,
+                "previous_rpe": 10,
+                "archived_reps": 6,
+                "previous_reps": 9,
+                "intensity_unit": "RPE",
+                "archived_weight": 104.7195735,
+                "previous_weight": 99.208017
+              }
+            ],
+            "type": "Dumbbell",
+            "uniq": "8d157303-3ed8-4a8c-8e1c-f131cb6f6d31",
+            "video": "youtube://v/rlHfjoL82sI\n",
+            "custom": false,
+            "source": "coach",
+            "muscles": [
+              "Chest"
+            ],
+            "target_type": "reps",
+            "alternatives": [],
+            "muscles_list": [
+              {
+                "muscle": "Chest",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Front Delts",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Triceps",
+                "percent": "100%"
+              }
+            ]
+          },
+          {
+            "id": "acb8139e-d85b-4588-9abf-36fc25f56114",
+            "name": "Overhead Tricep Extension (Cable)",
+            "sets": [
+              {
+                "id": "62df7071-a968-4120-a5de-cab824c806c2",
+                "from": "app",
+                "value": "25",
+                "amount": "15",
+                "custom": false,
+                "source": "user created",
+                "target": 12,
+                "skipped": false,
+                "intensity": 7,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 8,
+                "previous_rpe": 9,
+                "archived_reps": 15,
+                "previous_reps": 10,
+                "intensity_unit": "RPE",
+                "archived_weight": 55.115565,
+                "previous_weight": 66.138678
+              },
+              {
+                "id": "c4dbef5d-cc86-41c7-90f3-1eda03b623a1",
+                "from": "app",
+                "value": "25",
+                "amount": "15",
+                "custom": false,
+                "source": "user created",
+                "target": 12,
+                "skipped": false,
+                "intensity": 7,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 7,
+                "previous_rpe": 9,
+                "archived_reps": 12,
+                "previous_reps": 12,
+                "intensity_unit": "RPE",
+                "archived_weight": 55.115565,
+                "previous_weight": 55.115565
+              },
+              {
+                "id": "9a0ea5eb-2c81-48db-8b02-070030429b44",
+                "from": "app",
+                "value": "25",
+                "amount": "12",
+                "custom": false,
+                "source": "user created",
+                "target": 12,
+                "skipped": false,
+                "intensity": 7,
+                "setStatus": "drop",
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 8.5,
+                "previous_rpe": 9,
+                "archived_reps": 12,
+                "previous_reps": 10,
+                "intensity_unit": "RPE",
+                "archived_weight": 55.115565,
+                "previous_weight": 55.115565
+              }
+            ],
+            "type": "Cable",
+            "uniq": "e8d2c821-cfb7-4ace-b9d2-92cf3b98cc88",
+            "video": "youtube://v/ns-RGsbzqok",
+            "custom": false,
+            "source": "coach",
+            "muscles": [
+              "Arms"
+            ],
+            "target_type": "reps",
+            "alternatives": [],
+            "muscles_list": [
+              {
+                "muscle": "Triceps",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Middle Delts",
+                "percent": "50%"
+              },
+              {
+                "muscle": "Upper Back",
+                "percent": "50%"
+              }
+            ]
+          },
+          {
+            "id": "3f0ae004-c292-429b-a367-4987dbef7942",
+            "name": "Pull-Up (Weighted)",
+            "sets": [
+              {
+                "id": "44261188-5f96-491e-be0f-5def5d69f7fa",
+                "from": "app",
+                "value": "25",
+                "amount": "4",
+                "custom": false,
+                "source": "user created",
+                "target": 4,
+                "skipped": false,
+                "intensity": 8,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 7,
+                "previous_rpe": 9,
+                "archived_reps": 4,
+                "previous_reps": 8,
+                "intensity_unit": "RPE",
+                "archived_weight": 55.115565,
+                "previous_weight": 33.069339
+              },
+              {
+                "id": "69aa184b-57ac-4bc5-9993-fb085f64a275",
+                "from": "app",
+                "value": "25",
+                "amount": "4",
+                "custom": false,
+                "source": "user created",
+                "target": 4,
+                "skipped": false,
+                "intensity": 8,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 7.5,
+                "previous_rpe": 9.5,
+                "archived_reps": 4,
+                "previous_reps": 8,
+                "intensity_unit": "RPE",
+                "archived_weight": 55.115565,
+                "previous_weight": 33.069339
+              },
+              {
+                "id": "6d0c7ddd-4eb0-479d-b77e-3eb07631666b",
+                "from": "app",
+                "value": "25",
+                "amount": "4",
+                "custom": false,
+                "source": "user created",
+                "target": 4,
+                "skipped": false,
+                "intensity": 8,
+                "setStatus": "drop",
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 8,
+                "previous_rpe": 10,
+                "archived_reps": 4,
+                "previous_reps": 8,
+                "intensity_unit": "RPE",
+                "archived_weight": 60.6271215,
+                "previous_weight": 33.069339
+              }
+            ],
+            "type": "Dumbbell",
+            "uniq": "943005b9-9ea9-4b7b-a683-5327bbb86d5d",
+            "video": "https://s3.boostcamp.app/master-exercise/1099260859.mp4",
+            "custom": false,
+            "source": "coach",
+            "muscles": [
+              "Back"
+            ],
+            "target_type": "reps",
+            "alternatives": [],
+            "muscles_list": [
+              {
+                "muscle": "Lats",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Upper Back",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Biceps",
+                "percent": "50%"
+              }
+            ]
+          }
+        ],
+        "legacy": {},
+        "title": "Week 1 \u00b7 Day 2",
+        "type": 1,
+        "name": "Peaking Block v3"
+      }
+    ],
     "2026-01-26": [
       {
         "program_id": "user-1aefc269-9d70-4525-bf74-307a68a40083",
