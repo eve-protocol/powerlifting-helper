@@ -1,6 +1,6 @@
 # Peaking Block v4
 
-*Generated: 2026-01-31 07:13*
+*Generated: 2026-01-31 07:24*
 
 ## Overview
 
@@ -30,7 +30,7 @@
 | 1 | Sumo Deadlift (Paused) | 3x3 @80% | 80% |
 | 2 | Incline Bench Press (Dumbbell) | 3x6 @RPE 8 | RPE 8 |
 | 3 | Pull-Up (Weighted) | 3x4 @RPE 8 | RPE 8 |
-| 4 | Lateral Raise (Dumbbell) | 3x15 @RPE 9 | RPE 9 |
+| 4 | Lateral Raise (Dumbbell) | 4x15 @RPE 9 | RPE 9 |
 
 #### Day 3
 
@@ -46,7 +46,7 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Bench Press (Barbell) | 1x1 @92.5%, 3x3 @80% | 92.5% |
+| 1 | Bench Press (Barbell) | 1x1 @92.5%, 4x3 @80% | 92.5% |
 | 2 | Romanian Deadlift (Barbell) | 3x6 @65% | 65% |
 | 3 | Pull-Up (Weighted) | 3x6 @RPE 8 | RPE 8 |
 | 4 | Overhead Tricep Extension (Cable) | 3x12 @RPE 9 | RPE 9 |
@@ -56,7 +56,7 @@
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
 | 1 | Sumo Deadlift (Barbell) | 1x1 @90%, 3x3 @80% | 90% |
-| 2 | Squat (Low Bar) | 4x4 @72% | 72% |
+| 2 | Squat (Low Bar) | 3x4 @72% | 72% |
 | 3 | Spoto Press | 3x5 @78% | 78% |
 | 4 | Leg Curl | 3x12 @RPE 9 | RPE 9 |
 
@@ -66,7 +66,7 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Squat (Low Bar) | 1x1 @94%, 4x3 @81% | 94% |
+| 1 | Squat (Low Bar) | 1x1 @94%, 3x3 @81% | 94% |
 | 2 | Bench Press (Paused) | 3x4 @75% | 75% |
 | 3 | Squat (Smith Machine) | 3x12 @RPE 8 | RPE 8 |
 | 4 | Cable Crunch | 3x15 @RPE 8 | RPE 8 |
@@ -114,7 +114,7 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Squat (Low Bar) | 1x1 @95.5%, 1x1 @90%, 2x3 @83% | 95.5% |
+| 1 | Squat (Low Bar) | 1x1 @95.5%, 1x3 @90%, 2x3 @83% | 95.5% |
 | 2 | Bench Press (Paused) | 3x4 @83% | 83% |
 | 3 | Squat (Smith Machine) | 3x12 @RPE 8 | RPE 8 |
 | 4 | Cable Crunch | 3x15 @RPE 8 | RPE 8 |
@@ -142,7 +142,7 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Bench Press (Barbell) | 1x1 @96%, 1x1 @92%, 2x3 @83% | 96% |
+| 1 | Bench Press (Barbell) | 1x1 @96%, 1x3 @92%, 2x3 @83% | 96% |
 | 2 | Romanian Deadlift (Barbell) | 3x5 @70% | 70% |
 | 3 | Pull-Up (Weighted) | 3x5 @RPE 9 | RPE 9 |
 | 4 | Overhead Tricep Extension (Cable) | 3x12 @RPE 9 | RPE 9 |
@@ -151,7 +151,7 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Barbell) | 1x1 @95%, 1x1 @90%, 1x3 @83% | 95% |
+| 1 | Sumo Deadlift (Barbell) | 1x1 @95%, 1x3 @90%, 2x3 @82% | 95% |
 | 2 | Squat (Low Bar) | 3x4 @75% | 75% |
 | 3 | Spoto Press | 3x5 @81% | 81% |
 | 4 | Leg Curl | 3x12 @RPE 9 | RPE 9 |

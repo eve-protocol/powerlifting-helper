@@ -194,7 +194,6 @@
                 "muscles": [
                   "Chest"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -237,7 +236,6 @@
                 "muscles": [
                   "Legs"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -280,7 +278,6 @@
                 "muscles": [
                   "Core"
                 ],
-                "create_from": "web",
                 "alternatives": []
               }
             ]
@@ -422,7 +419,7 @@
                 "name": "Lateral Raise (Dumbbell)",
                 "sets": [
                   {
-                    "id": "44261188-5f96-491e-be0f-5def5d69f7fa",
+                    "id": "30fb8d14-34d9-4265-a74b-66a9ec9325ad",
                     "from": "app",
                     "source": "user created",
                     "target": 15,
@@ -432,7 +429,7 @@
                     "intensity_unit": "RPE"
                   },
                   {
-                    "id": "69aa184b-57ac-4bc5-9993-fb085f64a275",
+                    "id": "5f1b9a32-464e-475d-b073-d117828d415f",
                     "from": "app",
                     "source": "user created",
                     "target": 15,
@@ -442,7 +439,17 @@
                     "intensity_unit": "RPE"
                   },
                   {
-                    "id": "6d0c7ddd-4eb0-479d-b77e-3eb07631666b",
+                    "id": "32fbb2d0-e326-4296-b094-c7adfc9a5f9b",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "46d12f88-88ed-4bd0-b666-0a0fb7ff68ef",
                     "from": "app",
                     "source": "user created",
                     "target": 15,
@@ -675,7 +682,6 @@
                 "muscles": [
                   "Back"
                 ],
-                "create_from": "web",
                 "alternatives": []
               }
             ]
@@ -700,7 +706,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "f3b99506-03c0-48be-9747-a5a47025250c",
+                    "id": "a8655605-5678-4865-a852-c6c42cdf23b4",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -710,7 +716,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "6e5997b3-5154-4521-9b72-5ba3d8b1ff5a",
+                    "id": "c33e8785-3e57-4c5c-bd55-747f1e4a6c27",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -720,7 +726,17 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "e16b86f6-675d-463b-b842-a85b64a75fd5",
+                    "id": "1bf5ca21-1c0c-47f8-974c-994f9a636c55",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "6564f591-68ce-413d-9df9-df322badc307",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -928,7 +944,7 @@
                 "name": "Squat (Low Bar)",
                 "sets": [
                   {
-                    "id": "15edeafe-d8b0-4f3a-b498-9538169a6432",
+                    "id": "14bcd364-b395-427a-96bb-4f5d6efeb72d",
                     "from": "app",
                     "source": "user created",
                     "target": 4,
@@ -938,7 +954,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "314b6f55-3173-4a78-afa1-2f5dfa2c91e8",
+                    "id": "16623347-936e-43e4-81ad-609f648df4c4",
                     "from": "app",
                     "source": "user created",
                     "target": 4,
@@ -948,17 +964,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "f61ad067-679c-4022-a7ca-79af0be7e954",
-                    "from": "app",
-                    "source": "user created",
-                    "target": 4,
-                    "intensity": 72,
-                    "target_type": "reps",
-                    "target_unit": "minutes",
-                    "intensity_unit": "%"
-                  },
-                  {
-                    "id": "ed7ed444-3767-47d8-8d0b-3cb1ff08f90b",
+                    "id": "60b5ced2-5ed4-4b1f-a470-6fbb22c62669",
                     "from": "app",
                     "source": "user created",
                     "target": 4,
@@ -973,7 +979,6 @@
                 "muscles": [
                   "Legs"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -1082,7 +1087,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "62e50a1c-d76b-4b3e-b718-02fe91bfe5eb",
+                    "id": "02268035-2c80-449f-a459-97dd1a127a31",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -1092,7 +1097,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "5b42d4d3-8faa-4f20-bf4f-91bcb2b05e26",
+                    "id": "95861b73-8c3a-4ac9-b5a0-fd79bf1fe690",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -1102,17 +1107,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "4b14ba38-aa63-4a0d-b1c2-5b2a855b9d8f",
-                    "from": "app",
-                    "source": "user created",
-                    "target": 3,
-                    "intensity": 81,
-                    "target_type": "reps",
-                    "target_unit": "minutes",
-                    "intensity_unit": "%"
-                  },
-                  {
-                    "id": "a7fd574f-a796-4d02-8eaa-71d027894535",
+                    "id": "b3db7dda-f1d9-4558-ada0-7c8e98a03f2e",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -1169,7 +1164,6 @@
                 "muscles": [
                   "Chest"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -1212,7 +1206,6 @@
                 "muscles": [
                   "Legs"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -1255,7 +1248,6 @@
                 "muscles": [
                   "Core"
                 ],
-                "create_from": "web",
                 "alternatives": []
               }
             ]
@@ -1670,7 +1662,6 @@
                 "muscles": [
                   "Back"
                 ],
-                "create_from": "web",
                 "alternatives": []
               }
             ]
@@ -1948,7 +1939,6 @@
                 "muscles": [
                   "Legs"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -2060,7 +2050,7 @@
                     "id": "76186e21-4f62-4ed2-ae03-0e65e30d31a2",
                     "from": "app",
                     "source": "user created",
-                    "target": 1,
+                    "target": 3,
                     "intensity": 90,
                     "target_type": "reps",
                     "target_unit": "minutes",
@@ -2134,7 +2124,6 @@
                 "muscles": [
                   "Chest"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -2177,7 +2166,6 @@
                 "muscles": [
                   "Legs"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -2220,7 +2208,6 @@
                 "muscles": [
                   "Core"
                 ],
-                "create_from": "web",
                 "alternatives": []
               }
             ]
@@ -2625,7 +2612,6 @@
                 "muscles": [
                   "Back"
                 ],
-                "create_from": "web",
                 "alternatives": []
               }
             ]
@@ -2653,7 +2639,7 @@
                     "id": "bab6a30d-26ad-4365-be0f-d0e4cd42bfbf",
                     "from": "app",
                     "source": "user created",
-                    "target": 1,
+                    "target": 3,
                     "intensity": 92,
                     "target_type": "reps",
                     "target_unit": "minutes",
@@ -2839,18 +2825,28 @@
                     "id": "a18f95f5-c4c5-4198-af76-f095d0a2ded5",
                     "from": "app",
                     "source": "user created",
-                    "target": 1,
+                    "target": 3,
                     "intensity": 90,
                     "target_type": "reps",
                     "target_unit": "minutes",
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "f9d30aaa-4bf0-48c8-92f7-79d8fa153f51",
+                    "id": "3804445b-6a8f-430e-8216-00eb646ae810",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
-                    "intensity": 83,
+                    "intensity": 82,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "ecfd7206-7d6d-4a9a-a47b-dae77ecea577",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 82,
                     "target_type": "reps",
                     "target_unit": "minutes",
                     "intensity_unit": "%"
@@ -2903,7 +2899,6 @@
                 "muscles": [
                   "Legs"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -3079,7 +3074,6 @@
                 "muscles": [
                   "Chest"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -3112,7 +3106,6 @@
                 "muscles": [
                   "Legs"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -3145,7 +3138,6 @@
                 "muscles": [
                   "Core"
                 ],
-                "create_from": "web",
                 "alternatives": []
               }
             ]
@@ -3540,7 +3532,6 @@
                 "muscles": [
                   "Back"
                 ],
-                "create_from": "web",
                 "alternatives": []
               }
             ]
@@ -3808,7 +3799,6 @@
                 "muscles": [
                   "Legs"
                 ],
-                "create_from": "web",
                 "alternatives": []
               },
               {
@@ -3859,7 +3849,7 @@
         "description": null
       }
     ],
-    "updated_at": "2026-01-31T07:10:12.602Z",
+    "updated_at": "2026-01-31T07:23:26.463Z",
     "created_at": "2026-01-31T06:46:36.105Z",
     "status": "published",
     "thumbnail": null,
