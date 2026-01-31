@@ -25,10 +25,10 @@
 
 | Week | Singles | Backoffs | Volume | Notes |
 |------|---------|----------|--------|-------|
-| 1 | 90-92% | 3x3 @78-80% | Moderate | Build into peak |
-| 2 | 92-94% | 3x2 @82-85% | Reduced | Increasing intensity |
-| 3 | 94-96% | 2x2 @85-88% | Low | Peak intensity |
-| 4 | Openers only | Minimal | Taper | Mock meet D5 |
+| 1 | 90-92.5% | 3x3 @80% | Moderate | Build into peak |
+| 2 | 92.5-94% | 3x2 @83-85% | Reduced | Increasing intensity |
+| 3 | 95-96% | 2x2 @85-88% | Low | Peak intensity |
+| 4 | Openers ~88% | Minimal | Taper | Mock meet D5 |
 
 ---
 
@@ -40,47 +40,47 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Squat (Low Bar) | 1x1, 3x3 | @90%, @80% |
-| 2 | Bench Press (Paused) | 3x4 | @75% |
-| 3 | Squat (Smith Machine) | 3x12 | @RPE 7 |
-| 4 | Cable Crunch | 3x15 | @RPE 7 |
+| 1 | Squat (Low Bar) | 1x1, 4x3 | @92.5%, @80% |
+| 2 | Bench Press (Paused) | 3x4 | @77% |
+| 3 | Squat (Smith Machine) | 3x12 | @RPE 8 |
+| 4 | Cable Crunch | 3x15 | @RPE 8 |
 
 #### Day 2 (Tuesday) - Deadlift Variation Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Paused) | 3x3 | @75% |
+| 1 | Sumo Deadlift (Paused) | 3x3 | @80% |
 | 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 8 |
-| 3 | Pull-Up (Weighted) | 3x4 | @RPE 7 |
-| 4 | Lateral Raise (Dumbbell) | 3x15 | @RPE 7 |
+| 3 | Pull-Up (Weighted) | 3x4 | @RPE 8 |
+| 4 | Lateral Raise (Dumbbell) | 4x15 | @RPE 9 |
 
 #### Day 3 (Wednesday) - Squat Variation Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Tempo Squat (Barbell) | 3x4 | @75% |
-| 2 | Standing T Bar Row | 3x10 | @RPE 7 |
-| 3 | Leg Extension | 3x12 | @RPE 7 |
-| 4 | Face Pull | 3x15 | @RPE 7 |
-| 5 | Bicep Curl (Seated Dumbbell) | 3x12 | @RPE 7 |
+| 1 | Tempo Squat (Barbell) | 3x4 | @78% |
+| 2 | Standing T Bar Row | 3x10 | @RPE 8 |
+| 3 | Leg Extension | 3x12 | @RPE 8 |
+| 4 | Face Pull | 3x15 | @RPE 8 |
+| 5 | Bicep Curl (Seated Dumbbell) | 3x12 | @RPE 8 |
 
 #### Day 4 (Thursday) - Heavy Bench Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Bench Press (Barbell) | 1x1, 3x3 | @90%, @80% |
+| 1 | Bench Press (Barbell) | 1x1, 4x3 | @92.5%, @80% |
 | 2 | Romanian Deadlift (Barbell) | 3x6 | @65% |
-| 3 | Pull-Up (Weighted) | 3x6 | @RPE 7 |
-| 4 | Overhead Tricep Extension (Cable) | 3x12 | @RPE 7 |
+| 3 | Pull-Up (Weighted) | 3x6 | @RPE 8 |
+| 4 | Overhead Tricep Extension (Cable) | 3x12 | @RPE 9 |
 
 #### Day 5 (Saturday) - Heavy Deadlift Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Barbell) | 1x1, 3x3 | @88%, @80% |
-| 2 | Squat (Low Bar) | 3x4 | @70% |
-| 3 | Spoto Press | 3x5 | @75% |
-| 4 | Leg Curl | 3x12 | @RPE 7 |
+| 1 | Sumo Deadlift (Barbell) | 1x1, 3x3 | @90%, @80% |
+| 2 | Squat (Low Bar) | 3x4 | @72% |
+| 3 | Spoto Press | 3x5 | @78% |
+| 4 | Leg Curl | 3x12 | @RPE 9 |
 
 ---
 
@@ -90,47 +90,47 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Squat (Low Bar) | 1x1, 3x2 | @92%, @83% |
-| 2 | Bench Press (Paused) | 3x3 | @78% |
-| 3 | Squat (Smith Machine) | 3x10 | @RPE 7 |
-| 4 | Cable Crunch | 3x12 | @RPE 7 |
+| 1 | Squat (Low Bar) | 1x1, 3x3 | @94%, @80% |
+| 2 | Bench Press (Paused) | 3x4 | @81% |
+| 3 | Squat (Smith Machine) | 3x12 | @RPE 8 |
+| 4 | Cable Crunch | 3x15 | @RPE 8 |
 
 #### Day 2 (Tuesday) - Deadlift Variation Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Paused) | 3x2 | @80% |
-| 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 8 |
-| 3 | Pull-Up (Weighted) | 3x4 | @RPE 7 |
-| 4 | Lateral Raise (Dumbbell) | 3x12 | @RPE 7 |
+| 1 | Sumo Deadlift (Paused) | 3x2 | @83% |
+| 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 9 |
+| 3 | Pull-Up (Weighted) | 4x3 | @RPE 9 |
+| 4 | Lateral Raise (Dumbbell) | 4x15 | @RPE 9 |
 
 #### Day 3 (Wednesday) - Squat Variation Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Tempo Squat (Barbell) | 3x3 | @78% |
-| 2 | Standing T Bar Row | 3x8 | @RPE 7 |
-| 3 | Leg Extension | 3x10 | @RPE 7 |
-| 4 | Face Pull | 3x12 | @RPE 7 |
-| 5 | Bicep Curl (Seated Dumbbell) | 3x10 | @RPE 7 |
+| 1 | Tempo Squat (Barbell) | 3x3 | @81% |
+| 2 | Standing T Bar Row | 3x10 | @RPE 9 |
+| 3 | Leg Extension | 3x12 | @RPE 9 |
+| 4 | Face Pull | 3x15 | @RPE 9 |
+| 5 | Bicep Curl (Seated Dumbbell) | 3x10 | @RPE 9 |
 
 #### Day 4 (Thursday) - Heavy Bench Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Bench Press (Barbell) | 1x1, 3x2 | @92%, @83% |
-| 2 | Romanian Deadlift (Barbell) | 3x5 | @68% |
-| 3 | Pull-Up (Weighted) | 3x5 | @RPE 7 |
-| 4 | Overhead Tricep Extension (Cable) | 3x10 | @RPE 7 |
+| 1 | Bench Press (Barbell) | 1x1, 4x3 | @94%, @83% |
+| 2 | Romanian Deadlift (Barbell) | 3x5 | @70% |
+| 3 | Pull-Up (Weighted) | 3x5 | @RPE 9 |
+| 4 | Overhead Tricep Extension (Cable) | 3x12 | @RPE 9 |
 
 #### Day 5 (Saturday) - Heavy Deadlift Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Barbell) | 1x1, 3x2 | @90%, @83% |
-| 2 | Squat (Low Bar) | 3x3 | @72% |
-| 3 | Spoto Press | 3x4 | @78% |
-| 4 | Leg Curl | 3x10 | @RPE 7 |
+| 1 | Sumo Deadlift (Barbell) | 1x1, 2x2 | @92.5%, @85% |
+| 2 | Squat (Low Bar) | 3x4 | @75% |
+| 3 | Spoto Press | 3x5 | @81% |
+| 4 | Leg Curl | 3x12 | @RPE 9 |
 
 ---
 
@@ -140,47 +140,47 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Squat (Low Bar) | 1x1, 2x2 | @94%, @85% |
-| 2 | Bench Press (Paused) | 3x3 | @80% |
-| 3 | Squat (Smith Machine) | 2x10 | @RPE 7 |
-| 4 | Cable Crunch | 2x12 | @RPE 7 |
+| 1 | Squat (Low Bar) | 1x1, 1x3, 2x3 | @95.5%, @90%, @83% |
+| 2 | Bench Press (Paused) | 3x4 | @83% |
+| 3 | Squat (Smith Machine) | 3x12 | @RPE 8 |
+| 4 | Cable Crunch | 3x15 | @RPE 8 |
 
 #### Day 2 (Tuesday) - Deadlift Variation Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Paused) | 3x2 | @82% |
-| 2 | Incline Bench Press (Dumbbell) | 3x5 | @RPE 8 |
-| 3 | Pull-Up (Weighted) | 3x3 | @RPE 7 |
-| 4 | Lateral Raise (Dumbbell) | 2x12 | @RPE 7 |
+| 1 | Sumo Deadlift (Paused) | 3x2 | @85% |
+| 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 9.5 |
+| 3 | Pull-Up (Weighted) | 3x3 | @RPE 9.5 |
+| 4 | Lateral Raise (Dumbbell) | 4x15 | @RPE 10 |
 
 #### Day 3 (Wednesday) - Squat Variation Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Tempo Squat (Barbell) | 3x3 | @75% |
-| 2 | Standing T Bar Row | 2x8 | @RPE 7 |
-| 3 | Leg Extension | 2x10 | @RPE 7 |
-| 4 | Face Pull | 2x12 | @RPE 7 |
-| 5 | Bicep Curl (Seated Dumbbell) | 2x10 | @RPE 7 |
+| 1 | Tempo Squat (Barbell) | 3x3 | @81% |
+| 2 | Standing T Bar Row | 3x10 | @RPE 9 |
+| 3 | Leg Extension | 3x12 | @RPE 9 |
+| 4 | Face Pull | 3x15 | @RPE 9 |
+| 5 | Bicep Curl (Seated Dumbbell) | 3x10 | @RPE 10 |
 
 #### Day 4 (Thursday) - Heavy Bench Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Bench Press (Barbell) | 1x1, 2x2 | @94%, @85% |
-| 2 | Romanian Deadlift (Barbell) | 3x5 | @65% |
-| 3 | Pull-Up (Weighted) | 2x5 | @RPE 7 |
-| 4 | Overhead Tricep Extension (Cable) | 2x10 | @RPE 7 |
+| 1 | Bench Press (Barbell) | 1x1, 1x3, 2x3 | @96%, @92%, @83% |
+| 2 | Romanian Deadlift (Barbell) | 3x5 | @70% |
+| 3 | Pull-Up (Weighted) | 3x5 | @RPE 9 |
+| 4 | Overhead Tricep Extension (Cable) | 3x12 | @RPE 9 |
 
 #### Day 5 (Saturday) - Heavy Deadlift Day
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Barbell) | 1x1, 2x2 | @92%, @85% |
-| 2 | Squat (Low Bar) | 3x3 | @70% |
-| 3 | Spoto Press | 3x4 | @80% |
-| 4 | Leg Curl | 2x10 | @RPE 7 |
+| 1 | Sumo Deadlift (Barbell) | 1x1, 1x3, 2x3 | @95%, @90%, @82% |
+| 2 | Squat (Low Bar) | 3x4 | @75% |
+| 3 | Spoto Press | 3x5 | @81% |
+| 4 | Leg Curl | 3x12 | @RPE 9 |
 
 ---
 
@@ -190,33 +190,38 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Squat (Low Bar) | 1x1, 2x2 | @88% (opener), @75% |
-| 2 | Bench Press (Paused) | 2x3 | @75% |
-| 3 | Squat (Smith Machine) | 2x8 | @RPE 6 |
+| 1 | Squat (Low Bar) | 1x1, 2x2 | @92.5%, @80% |
+| 2 | Bench Press (Paused) | 3x3 | @75% |
+| 3 | Squat (Smith Machine) | 2x12 | @RPE 7 |
+| 4 | Cable Crunch | 2x15 | @RPE 7 |
 
 #### Day 2 (Tuesday) - Light Technique
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Sumo Deadlift (Paused) | 3x1 | @70% |
-| 2 | Incline Bench Press (Dumbbell) | 2x6 | @RPE 6 |
-| 3 | Pull-Up (Weighted) | 2x4 | @RPE 6 |
+| 1 | Sumo Deadlift (Paused) | 3x1 | @75% |
+| 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 8 |
+| 3 | Pull-Up (Weighted) | 3x4 | @RPE 8 |
+| 4 | Lateral Raise (Dumbbell) | 3x15 | @RPE 8 |
 
 #### Day 3 (Wednesday) - Light Movement
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Tempo Squat (Barbell) | 3x2 | @65% |
-| 2 | Standing T Bar Row | 2x8 | @RPE 6 |
-| 3 | Face Pull | 2x12 | @RPE 6 |
+| 1 | Tempo Squat (Barbell) | 3x2 | @70% |
+| 2 | Standing T Bar Row | 3x10 | @RPE 8 |
+| 3 | Leg Extension | 3x12 | @RPE 8 |
+| 4 | Face Pull | 3x15 | @RPE 8 |
+| 5 | Bicep Curl (Seated Dumbbell) | 3x12 | @RPE 8 |
 
 #### Day 4 (Thursday) - Bench Opener + Rest
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Bench Press (Barbell) | 1x1, 2x2 | @88% (opener), @75% |
-| 2 | Romanian Deadlift (Barbell) | 2x5 | @55% |
-| 3 | Pull-Up (Bodyweight) | 2x6 | @RPE 5 |
+| 1 | Bench Press (Barbell) | 1x1, 2x2 | @92.5%, @80% |
+| 2 | Romanian Deadlift (Barbell) | 3x5 | @60% |
+| 3 | Pull-Up (Weighted) | 3x6 | @RPE 8 |
+| 4 | Overhead Tricep Extension (Cable) | 3x12 | @RPE 8 |
 
 #### Day 5 (Saturday) - 🏆 MOCK MEET
 
