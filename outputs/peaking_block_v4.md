@@ -1,6 +1,6 @@
 # Peaking Block v4
 
-*Generated: 2026-01-31 07:24*
+*Generated: 2026-01-31 07:27*
 
 ## Overview
 
@@ -66,7 +66,7 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Squat (Low Bar) | 1x1 @94%, 3x3 @81% | 94% |
+| 1 | Squat (Low Bar) | 1x1 @94%, 3x3 @80% | 94% |
 | 2 | Bench Press (Paused) | 3x4 @75% | 75% |
 | 3 | Squat (Smith Machine) | 3x12 @RPE 8 | RPE 8 |
 | 4 | Cable Crunch | 3x15 @RPE 8 | RPE 8 |
@@ -94,7 +94,7 @@
 
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
-| 1 | Bench Press (Barbell) | 1x1 @94%, 3x3 @83% | 94% |
+| 1 | Bench Press (Barbell) | 1x1 @94%, 4x3 @83% | 94% |
 | 2 | Romanian Deadlift (Barbell) | 3x5 @70% | 70% |
 | 3 | Pull-Up (Weighted) | 3x5 @RPE 9 | RPE 9 |
 | 4 | Overhead Tricep Extension (Cable) | 3x12 @RPE 9 | RPE 9 |

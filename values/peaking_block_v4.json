@@ -1091,7 +1091,7 @@
                     "from": "app",
                     "source": "user created",
                     "target": 3,
-                    "intensity": 81,
+                    "intensity": 80,
                     "target_type": "reps",
                     "target_unit": "minutes",
                     "intensity_unit": "%"
@@ -1101,7 +1101,7 @@
                     "from": "app",
                     "source": "user created",
                     "target": 3,
-                    "intensity": 81,
+                    "intensity": 80,
                     "target_type": "reps",
                     "target_unit": "minutes",
                     "intensity_unit": "%"
@@ -1111,7 +1111,7 @@
                     "from": "app",
                     "source": "user created",
                     "target": 3,
-                    "intensity": 81,
+                    "intensity": 80,
                     "target_type": "reps",
                     "target_unit": "minutes",
                     "intensity_unit": "%"
@@ -1686,7 +1686,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "f3b99506-03c0-48be-9747-a5a47025250c",
+                    "id": "9ae248d4-fa8e-4e7b-b02c-fe4bde3ebcd2",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -1696,7 +1696,7 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "6e5997b3-5154-4521-9b72-5ba3d8b1ff5a",
+                    "id": "85b02bc2-9416-488f-b286-9b9aac5ad759",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -1706,7 +1706,17 @@
                     "intensity_unit": "%"
                   },
                   {
-                    "id": "e16b86f6-675d-463b-b842-a85b64a75fd5",
+                    "id": "a183d01c-ccf3-46b1-8442-5a553c0e6333",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 83,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "7cf17bab-ace7-4f62-86ae-b23cfc704a0c",
                     "from": "app",
                     "source": "user created",
                     "target": 3,
@@ -3849,7 +3859,7 @@
         "description": null
       }
     ],
-    "updated_at": "2026-01-31T07:23:26.463Z",
+    "updated_at": "2026-01-31T07:27:15.879Z",
     "created_at": "2026-01-31T06:46:36.105Z",
     "status": "published",
     "thumbnail": null,
