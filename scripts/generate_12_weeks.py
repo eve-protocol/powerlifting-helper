@@ -216,64 +216,70 @@ def generate_markdown(weeks, start_date, end_date):
     lines.append("## 📊 12-Week Overview")
     lines.append("")
     
-    sorted_weeks = sorted(weeks.keys())
+    # Sort weeks chronologically first to calculate comparisons
+    chrono_weeks = sorted(weeks.keys())
+    display_weeks = sorted(weeks.keys(), reverse=True)  # Most recent first for display
+    
+    # Pre-calculate comparisons (current vs previous week in chronological order)
+    comparisons = {}
+    prev_stats = None
+    for week_key in chrono_weeks:
+        stats = weeks[week_key]['stats']
+        comparisons[week_key] = {
+            'squat_sets': format_comparison(stats['squat']['sets'], prev_stats['squat']['sets'] if prev_stats else None),
+            'bench_sets': format_comparison(stats['bench']['sets'], prev_stats['bench']['sets'] if prev_stats else None),
+            'deadlift_sets': format_comparison(stats['deadlift']['sets'], prev_stats['deadlift']['sets'] if prev_stats else None),
+            'squat_vol': format_comparison(stats['squat']['volume'], prev_stats['squat']['volume'] if prev_stats else None),
+            'bench_vol': format_comparison(stats['bench']['volume'], prev_stats['bench']['volume'] if prev_stats else None),
+            'deadlift_vol': format_comparison(stats['deadlift']['volume'], prev_stats['deadlift']['volume'] if prev_stats else None),
+        }
+        prev_stats = stats
     
     # Find max volumes for scaling bars
-    max_squat_vol = max((weeks[w]['stats']['squat']['volume'] for w in sorted_weeks), default=1)
-    max_bench_vol = max((weeks[w]['stats']['bench']['volume'] for w in sorted_weeks), default=1)
-    max_deadlift_vol = max((weeks[w]['stats']['deadlift']['volume'] for w in sorted_weeks), default=1)
+    max_squat_vol = max((weeks[w]['stats']['squat']['volume'] for w in display_weeks), default=1)
+    max_bench_vol = max((weeks[w]['stats']['bench']['volume'] for w in display_weeks), default=1)
+    max_deadlift_vol = max((weeks[w]['stats']['deadlift']['volume'] for w in display_weeks), default=1)
     max_volume = max(max_squat_vol, max_bench_vol, max_deadlift_vol, 1)
     
-    # Weekly summary table
+    # Weekly summary table (most recent first)
     lines.append("### Set Counts (Week over Week)")
     lines.append("")
     lines.append("| Week | Squat Sets | Bench Sets | Deadlift Sets |")
     lines.append("|------|------------|------------|---------------|")
     
-    prev_stats = None
-    for week_key in sorted_weeks:
+    for week_key in display_weeks:
         stats = weeks[week_key]['stats']
-        
-        squat_cmp = format_comparison(stats['squat']['sets'], prev_stats['squat']['sets'] if prev_stats else None)
-        bench_cmp = format_comparison(stats['bench']['sets'], prev_stats['bench']['sets'] if prev_stats else None)
-        deadlift_cmp = format_comparison(stats['deadlift']['sets'], prev_stats['deadlift']['sets'] if prev_stats else None)
-        
-        lines.append(f"| {week_key} | {stats['squat']['sets']}{squat_cmp} | {stats['bench']['sets']}{bench_cmp} | {stats['deadlift']['sets']}{deadlift_cmp} |")
-        prev_stats = stats
+        cmp = comparisons[week_key]
+        lines.append(f"| {week_key} | {stats['squat']['sets']}{cmp['squat_sets']} | {stats['bench']['sets']}{cmp['bench_sets']} | {stats['deadlift']['sets']}{cmp['deadlift_sets']} |")
     
     lines.append("")
     
-    # Volume summary with graphs
+    # Volume summary with graphs (most recent first)
     lines.append("### Volume (kg) with Week-over-Week Change")
     lines.append("")
     lines.append("```")
     lines.append("Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume")
     lines.append("───────────┼───────────────────┼───────────────────┼───────────────────")
     
-    prev_stats = None
-    for week_key in sorted_weeks:
+    for week_key in display_weeks:
         stats = weeks[week_key]['stats']
+        cmp = comparisons[week_key]
         
         squat_vol = stats['squat']['volume']
         bench_vol = stats['bench']['volume']
         deadlift_vol = stats['deadlift']['volume']
         
-        squat_cmp = format_comparison(squat_vol, prev_stats['squat']['volume'] if prev_stats else None)
-        bench_cmp = format_comparison(bench_vol, prev_stats['bench']['volume'] if prev_stats else None)
-        deadlift_cmp = format_comparison(deadlift_vol, prev_stats['deadlift']['volume'] if prev_stats else None)
-        
-        lines.append(f"{week_key}  │ {squat_vol:>6}kg{squat_cmp:>8} │ {bench_vol:>6}kg{bench_cmp:>8} │ {deadlift_vol:>6}kg{deadlift_cmp:>8}")
-        prev_stats = stats
+        lines.append(f"{week_key}  │ {squat_vol:>6}kg{cmp['squat_vol']:>8} │ {bench_vol:>6}kg{cmp['bench_vol']:>8} │ {deadlift_vol:>6}kg{cmp['deadlift_vol']:>8}")
     
     lines.append("```")
     lines.append("")
     
-    # Volume bar graphs
+    # Volume bar graphs (most recent first)
     lines.append("### Volume Graphs")
     lines.append("")
     lines.append("**Squat Volume (kg)**")
     lines.append("```")
-    for week_key in sorted_weeks:
+    for week_key in display_weeks:
         vol = weeks[week_key]['stats']['squat']['volume']
         bar = generate_volume_bar(vol, max_volume, 25)
         lines.append(f"{week_key} │{bar}│ {vol:,}kg")
@@ -282,7 +288,7 @@ def generate_markdown(weeks, start_date, end_date):
     
     lines.append("**Bench Volume (kg)**")
     lines.append("```")
-    for week_key in sorted_weeks:
+    for week_key in display_weeks:
         vol = weeks[week_key]['stats']['bench']['volume']
         bar = generate_volume_bar(vol, max_volume, 25)
         lines.append(f"{week_key} │{bar}│ {vol:,}kg")
@@ -291,7 +297,7 @@ def generate_markdown(weeks, start_date, end_date):
     
     lines.append("**Deadlift Volume (kg)**")
     lines.append("```")
-    for week_key in sorted_weeks:
+    for week_key in display_weeks:
         vol = weeks[week_key]['stats']['deadlift']['volume']
         bar = generate_volume_bar(vol, max_volume, 25)
         lines.append(f"{week_key} │{bar}│ {vol:,}kg")
