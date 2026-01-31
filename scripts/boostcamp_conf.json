@@ -1,7 +1,7 @@
 {
   "programs": [
-    { "name": "Strength Block v4" },
-    { "name": "Peaking Block v3" },
+    { "name": "Strength Block v3" },
+    { "name": "Peaking Block v4" },
     { "name": "Volume Block v3" }
   ]
 }
