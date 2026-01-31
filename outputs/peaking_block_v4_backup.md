@@ -100,8 +100,8 @@
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
 | 1 | Sumo Deadlift (Paused) | 3x2 | @83% |
-| 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 9 |
-| 3 | Pull-Up (Weighted) | 4x3 | @RPE 9 |
+| 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 8 |
+| 3 | Pull-Up (Weighted) | 4x3 | @RPE 8 |
 | 4 | Lateral Raise (Dumbbell) | 4x15 | @RPE 9 |
 
 #### Day 3 (Wednesday) - Squat Variation Day
@@ -112,7 +112,7 @@
 | 2 | Standing T Bar Row | 3x10 | @RPE 9 |
 | 3 | Leg Extension | 3x12 | @RPE 9 |
 | 4 | Face Pull | 3x15 | @RPE 9 |
-| 5 | Bicep Curl (Seated Dumbbell) | 3x10 | @RPE 9 |
+| 5 | Bicep Curl (Seated Dumbbell) | 3x10 | @RPE 8 |
 
 #### Day 4 (Thursday) - Heavy Bench Day
 
@@ -150,9 +150,9 @@
 | # | Exercise | Sets × Reps | Intensity |
 |---|----------|-------------|-----------|
 | 1 | Sumo Deadlift (Paused) | 3x2 | @85% |
-| 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 9.5 |
-| 3 | Pull-Up (Weighted) | 3x3 | @RPE 9.5 |
-| 4 | Lateral Raise (Dumbbell) | 4x15 | @RPE 10 |
+| 2 | Incline Bench Press (Dumbbell) | 3x6 | @RPE 8 |
+| 3 | Pull-Up (Weighted) | 3x3 | @RPE 8 |
+| 4 | Lateral Raise (Dumbbell) | 4x15 | @RPE 8 |
 
 #### Day 3 (Wednesday) - Squat Variation Day
 
