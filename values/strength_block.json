@@ -1,0 +1,3092 @@
+{
+  "data": {
+    "title": "Strength Block",
+    "instructor_name": "Heavenly Ren",
+    "instructor_id": "l8XHYRXwevhoJf4XffuZyECxgMP2",
+    "days_per_week": 0,
+    "weeks": [
+      {
+        "days": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "days": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "days": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "days": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "weekdays": [],
+    "description": null,
+    "variations": [
+      {
+        "name": "default",
+        "weeks": [
+          {
+            "days": [
+              {},
+              {},
+              {},
+              {},
+              {}
+            ]
+          },
+          {
+            "days": [
+              {},
+              {},
+              {},
+              {},
+              {}
+            ]
+          },
+          {
+            "days": [
+              {},
+              {},
+              {},
+              {},
+              {}
+            ]
+          },
+          {
+            "days": [
+              {},
+              {},
+              {},
+              {},
+              {}
+            ]
+          }
+        ],
+        "weekdays": [],
+        "workouts": [
+          {
+            "day": 0,
+            "name": "",
+            "week": 0,
+            "exercises": [
+              {
+                "id": "5958ae65-48da-4acf-a4f5-453ca9fa061e",
+                "name": "Squat (Low Bar)",
+                "sets": [
+                  {
+                    "id": "6b0b178f-a5a0-4739-9841-c4f74e165e02",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 77.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "11402aea-75bd-4ab7-ab36-26578d0e9ec5",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "8f305069-5524-4f91-bb61-61fb774de5a1",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "53db6bfc-7987-4a9f-ae76-8ee3ea0a1802",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "310d0174-fc8e-4e7f-aacc-35adce7e3a77",
+                "name": "Bench Press (Barbell)",
+                "sets": [
+                  {
+                    "id": "3e220705-9753-4681-9f5c-31d4d66fb097",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 77.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "a070679c-daa1-4bd2-a939-65de78a9acfa",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "854ac506-0cb5-43b8-b509-89ee87ce10ae",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "846dcb16-a428-44e4-acf1-8ae861d56d01",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "1f894245-e2ee-4d61-a6e5-85886d7da4f4",
+                "name": "Leg Extension",
+                "sets": [
+                  {
+                    "id": "c2fe4a02-aaa5-464a-be13-f7787606d1e0",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "f2298000-0cc4-44fa-84fb-0f60b1e2c355",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "d877ed02-60aa-4d07-882a-bd8a9d1c94b7",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "9cc03805-8ef4-4015-8da8-a458c7939357",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Machine",
+                "video": "https://s3.boostcamp.app/master-exercise/1971551623.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "name": "",
+            "week": 0,
+            "exercises": [
+              {
+                "id": "5a197f0c-15fb-4603-8138-1b863195a47b",
+                "name": "Sumo Deadlift (Paused)",
+                "sets": [
+                  {
+                    "id": "144c8754-8e51-4610-8c35-fb04503788f6",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "91bc95a4-17f3-4152-b2ca-9a7a051e2e90",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "476c3fce-480a-4b62-bfb7-fc3b8b89223f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1173650490.mp4",
+                "muscles": [
+                  "Legs",
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "834b6961-0cf0-410c-b8c7-84e11e0cff87",
+                "name": "Incline Bench Press (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "142a594c-f24a-41c8-b527-271f6bee26b4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "302aafc7-ff57-4d7c-90eb-594b1e6e94f4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "66c40be5-c194-41fe-bbdd-8aae66062be5",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/5815511.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "3f0ae004-c292-429b-a367-4987dbef7942",
+                "name": "Pull-Up (Weighted)",
+                "sets": [
+                  {
+                    "id": "7d101789-75f3-4ede-ba8c-874f58f8c653",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "c20c6000-4057-47c5-9b77-0899700168e1",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "965fcf6c-e54e-4815-ac41-1e74d3c83860",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "2a20ccb6-10d2-4ec0-b57a-09d7e52084be",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1099260859.mp4",
+                "muscles": [
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "3c36154c-9c64-47bb-8cc8-1925a8e39afa",
+                "name": "Bicep Curl (EZ Bar)",
+                "sets": [
+                  {
+                    "id": "8ab30cd4-1e55-4449-abf1-6de83c1cd921",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "c569e346-bf58-4d18-a09d-0ac9e5382692",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "ecb8f3cf-56a6-4641-b2c5-142eb7ead05a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2202039199.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "name": "",
+            "week": 0,
+            "exercises": [
+              {
+                "id": "538b843a-0498-4a15-a482-20ac68b3edfa",
+                "name": "Squat (Paused)",
+                "sets": [
+                  {
+                    "id": "ce14ace4-825a-458e-8a52-d5a6354d84e3",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "5e60e4ac-c6aa-445e-a836-8272549c6391",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "80681c96-5ff9-417b-ac19-eb441e231ecf",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "youtube://v/mmb618X9Ieg",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "865b449a-ec62-41d7-8dfe-e053c6c6c61a",
+                "name": "Spoto Press",
+                "sets": [
+                  {
+                    "id": "d4d18ab4-9810-4e58-9871-363b5c4e8365",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "90d69ebc-ad77-4eab-b1ee-6d36474c5e51",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "e8e6f606-8ea8-4a58-853c-45655894a7aa",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "45f92a3a-8f97-493e-ab69-ca887e1e1b55",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "f93ade6e-6264-4db0-93fe-bd7d3679d033",
+                "name": "Bulgarian Split Squat (Barbell)",
+                "sets": [
+                  {
+                    "id": "6cb3c840-f605-4500-97c7-05bf0f417919",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "71760d8b-292b-4b53-b2e8-41ea1a367d1d",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "ec43697c-7b22-4a9c-83e3-0e7bf3f066eb",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "youtube://v/Kgyn3NAaWjg",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "name": "",
+            "week": 0,
+            "exercises": [
+              {
+                "id": "737aaba7-2c72-4514-9472-bc7043c7d968",
+                "name": "Romanian Deadlift (Barbell)",
+                "sets": [
+                  {
+                    "id": "929a3d8a-3d45-4b82-bf97-7115643ff022",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "6cc69521-abb0-4b62-a667-c62691a06b7e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "acfc4c62-a7c3-4793-91ae-9ff5eead6f2f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1778268569.mp4",
+                "muscles": [
+                  "Back",
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "797bd740-ed85-4a15-b4c7-45924e348215",
+                "name": "Chest Supported Row (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "ca5ee151-4043-47a7-8db1-54129bea3f5c",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "e05ec3a0-4dfc-4f01-b80c-de6c1e824ef8",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "6c512e07-1e41-498d-9dd6-538de7d46e5a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "7067426a-6a0f-4f00-989d-0e371be0e1f2",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "youtube://v/G6q02UC52xQ\n",
+                "muscles": [
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "154e9cf2-1f12-48bc-b526-1a3e08c2abd1",
+                "name": "Hammer Curl (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "50e5c53e-4cf9-4d8c-bb55-2348f0c07029",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "d6475abb-13bc-4d95-b3ed-c8fb1e23cd96",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "ae95ff1b-1080-4cc7-8355-6096f39c77db",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2686403567.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "8a36a00d-ddb4-4bb3-be39-866682489ea2",
+                "name": "Face Pull",
+                "sets": [
+                  {
+                    "id": "ca7316c3-31c4-44fb-a757-beec09d6149e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "b4ee0922-d0a2-477c-a012-93900dc3b97e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "2ba07837-ae4f-450d-a931-b6851c2b73f3",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Machine",
+                "video": "https://s3.boostcamp.app/master-exercise/2375686825.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "name": "",
+            "week": 0,
+            "exercises": [
+              {
+                "id": "1a08be65-6781-42a5-b500-e4c88767bec3",
+                "name": "Sumo Deadlift (Barbell)",
+                "sets": [
+                  {
+                    "id": "e4d744e3-7873-493d-82ab-88fd0d7a9697",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 77.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "425bde96-31c5-4edd-86f4-dabff1832522",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "481e1c05-e34f-496c-9dbd-f02116884911",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "d49d099e-74ba-4e19-b294-aaeb84abe5ce",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/952218791.mp4",
+                "muscles": [
+                  "Back",
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "7e8e25e6-455f-4442-8d15-a81d03a2751b",
+                "name": "Bench Press (Paused)",
+                "sets": [
+                  {
+                    "id": "337de1b4-807a-4bab-bdb7-b46b9369185f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "1670c6d7-9510-4662-9aeb-95f26ad180d9",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "2eecfee2-737c-412a-9b49-f294b56eb38c",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2894361418.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "34be727b-e02a-4e71-bed1-95ca301f5473",
+                "name": "Tempo Squat (Barbell)",
+                "sets": [
+                  {
+                    "id": "8b9d006b-1d9d-42e9-aded-82201ccc739a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "f8d09313-89e8-4a36-a07a-d23e596a8713",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "b5b806f9-059d-468a-9a21-27ef392cd675",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 0,
+            "name": "",
+            "week": 1,
+            "exercises": [
+              {
+                "id": "5958ae65-48da-4acf-a4f5-453ca9fa061e",
+                "name": "Squat (Low Bar)",
+                "sets": [
+                  {
+                    "id": "6b0b178f-a5a0-4739-9841-c4f74e165e02",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "11402aea-75bd-4ab7-ab36-26578d0e9ec5",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "8f305069-5524-4f91-bb61-61fb774de5a1",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "53db6bfc-7987-4a9f-ae76-8ee3ea0a1802",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "310d0174-fc8e-4e7f-aacc-35adce7e3a77",
+                "name": "Bench Press (Barbell)",
+                "sets": [
+                  {
+                    "id": "3e220705-9753-4681-9f5c-31d4d66fb097",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "a070679c-daa1-4bd2-a939-65de78a9acfa",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "854ac506-0cb5-43b8-b509-89ee87ce10ae",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "846dcb16-a428-44e4-acf1-8ae861d56d01",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "1f894245-e2ee-4d61-a6e5-85886d7da4f4",
+                "name": "Leg Extension",
+                "sets": [
+                  {
+                    "id": "65587499-7804-42f9-9e82-2b8d9f9eca11",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "b2e4e08e-c5f1-402f-b3f5-a013a70a7764",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "24227fce-ace6-426c-9323-a2f2db90171d",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "3fd1fe79-d127-49e9-aee4-44aaea525d57",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Machine",
+                "video": "https://s3.boostcamp.app/master-exercise/1971551623.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "name": "",
+            "week": 1,
+            "exercises": [
+              {
+                "id": "5a197f0c-15fb-4603-8138-1b863195a47b",
+                "name": "Sumo Deadlift (Paused)",
+                "sets": [
+                  {
+                    "id": "144c8754-8e51-4610-8c35-fb04503788f6",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "91bc95a4-17f3-4152-b2ca-9a7a051e2e90",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "476c3fce-480a-4b62-bfb7-fc3b8b89223f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1173650490.mp4",
+                "muscles": [
+                  "Legs",
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "834b6961-0cf0-410c-b8c7-84e11e0cff87",
+                "name": "Incline Bench Press (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "142a594c-f24a-41c8-b527-271f6bee26b4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "302aafc7-ff57-4d7c-90eb-594b1e6e94f4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "66c40be5-c194-41fe-bbdd-8aae66062be5",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/5815511.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "3f0ae004-c292-429b-a367-4987dbef7942",
+                "name": "Pull-Up (Weighted)",
+                "sets": [
+                  {
+                    "id": "d778e0ae-0854-463d-8d13-c6be6b5eda4d",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "a463d602-bf03-4781-acb1-affc073e1a87",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "212c5c59-8c83-4027-852b-5c1b240695ac",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "86b7dcf6-eb3e-42f7-943e-7ee7bc9fd0b2",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1099260859.mp4",
+                "muscles": [
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "3c36154c-9c64-47bb-8cc8-1925a8e39afa",
+                "name": "Bicep Curl (EZ Bar)",
+                "sets": [
+                  {
+                    "id": "234cbb3e-e312-40d0-be5d-b1acf76d08ad",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "13e787b1-c73f-494f-94c5-094bb99defb3",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "ec4363b6-ae28-4a24-a72f-2c0134245f73",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2202039199.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "name": "",
+            "week": 1,
+            "exercises": [
+              {
+                "id": "538b843a-0498-4a15-a482-20ac68b3edfa",
+                "name": "Squat (Paused)",
+                "sets": [
+                  {
+                    "id": "ce14ace4-825a-458e-8a52-d5a6354d84e3",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "5e60e4ac-c6aa-445e-a836-8272549c6391",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "80681c96-5ff9-417b-ac19-eb441e231ecf",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "youtube://v/mmb618X9Ieg",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "865b449a-ec62-41d7-8dfe-e053c6c6c61a",
+                "name": "Spoto Press",
+                "sets": [
+                  {
+                    "id": "d4d18ab4-9810-4e58-9871-363b5c4e8365",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "90d69ebc-ad77-4eab-b1ee-6d36474c5e51",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "e8e6f606-8ea8-4a58-853c-45655894a7aa",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "45f92a3a-8f97-493e-ab69-ca887e1e1b55",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "f93ade6e-6264-4db0-93fe-bd7d3679d033",
+                "name": "Bulgarian Split Squat (Barbell)",
+                "sets": [
+                  {
+                    "id": "160da3f8-4ad8-4afe-9ae2-7f6d366c58a1",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "c82f0ade-128f-43ba-a1ff-027cf5b5d616",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "d231e56b-313a-4df4-8dd4-a622a6c15da1",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 8,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "youtube://v/Kgyn3NAaWjg",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "name": "",
+            "week": 1,
+            "exercises": [
+              {
+                "id": "737aaba7-2c72-4514-9472-bc7043c7d968",
+                "name": "Romanian Deadlift (Barbell)",
+                "sets": [
+                  {
+                    "id": "929a3d8a-3d45-4b82-bf97-7115643ff022",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 62.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "6cc69521-abb0-4b62-a667-c62691a06b7e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 62.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "acfc4c62-a7c3-4793-91ae-9ff5eead6f2f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 62.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1778268569.mp4",
+                "muscles": [
+                  "Back",
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "797bd740-ed85-4a15-b4c7-45924e348215",
+                "name": "Chest Supported Row (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "ca5ee151-4043-47a7-8db1-54129bea3f5c",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "e05ec3a0-4dfc-4f01-b80c-de6c1e824ef8",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "6c512e07-1e41-498d-9dd6-538de7d46e5a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "7067426a-6a0f-4f00-989d-0e371be0e1f2",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "youtube://v/G6q02UC52xQ\n",
+                "muscles": [
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "154e9cf2-1f12-48bc-b526-1a3e08c2abd1",
+                "name": "Hammer Curl (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "50e5c53e-4cf9-4d8c-bb55-2348f0c07029",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "d6475abb-13bc-4d95-b3ed-c8fb1e23cd96",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "ae95ff1b-1080-4cc7-8355-6096f39c77db",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2686403567.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "8a36a00d-ddb4-4bb3-be39-866682489ea2",
+                "name": "Face Pull",
+                "sets": [
+                  {
+                    "id": "ca7316c3-31c4-44fb-a757-beec09d6149e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "b4ee0922-d0a2-477c-a012-93900dc3b97e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "2ba07837-ae4f-450d-a931-b6851c2b73f3",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Machine",
+                "video": "https://s3.boostcamp.app/master-exercise/2375686825.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "name": "",
+            "week": 1,
+            "exercises": [
+              {
+                "id": "1a08be65-6781-42a5-b500-e4c88767bec3",
+                "name": "Sumo Deadlift (Barbell)",
+                "sets": [
+                  {
+                    "id": "e4d744e3-7873-493d-82ab-88fd0d7a9697",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "425bde96-31c5-4edd-86f4-dabff1832522",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "481e1c05-e34f-496c-9dbd-f02116884911",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "d49d099e-74ba-4e19-b294-aaeb84abe5ce",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/952218791.mp4",
+                "muscles": [
+                  "Back",
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "7e8e25e6-455f-4442-8d15-a81d03a2751b",
+                "name": "Bench Press (Paused)",
+                "sets": [
+                  {
+                    "id": "337de1b4-807a-4bab-bdb7-b46b9369185f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "1670c6d7-9510-4662-9aeb-95f26ad180d9",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "2eecfee2-737c-412a-9b49-f294b56eb38c",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 4,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2894361418.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "34be727b-e02a-4e71-bed1-95ca301f5473",
+                "name": "Tempo Squat (Barbell)",
+                "sets": [
+                  {
+                    "id": "8b9d006b-1d9d-42e9-aded-82201ccc739a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 62.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "f8d09313-89e8-4a36-a07a-d23e596a8713",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 62.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "b5b806f9-059d-468a-9a21-27ef392cd675",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 62.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 0,
+            "name": "",
+            "week": 2,
+            "exercises": [
+              {
+                "id": "5958ae65-48da-4acf-a4f5-453ca9fa061e",
+                "name": "Squat (Low Bar)",
+                "sets": [
+                  {
+                    "id": "6b0b178f-a5a0-4739-9841-c4f74e165e02",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 85,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "11402aea-75bd-4ab7-ab36-26578d0e9ec5",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "8f305069-5524-4f91-bb61-61fb774de5a1",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "53db6bfc-7987-4a9f-ae76-8ee3ea0a1802",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "310d0174-fc8e-4e7f-aacc-35adce7e3a77",
+                "name": "Bench Press (Barbell)",
+                "sets": [
+                  {
+                    "id": "3e220705-9753-4681-9f5c-31d4d66fb097",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 85,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "a070679c-daa1-4bd2-a939-65de78a9acfa",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "854ac506-0cb5-43b8-b509-89ee87ce10ae",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "846dcb16-a428-44e4-acf1-8ae861d56d01",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "1f894245-e2ee-4d61-a6e5-85886d7da4f4",
+                "name": "Leg Extension",
+                "sets": [
+                  {
+                    "id": "65587499-7804-42f9-9e82-2b8d9f9eca11",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "b2e4e08e-c5f1-402f-b3f5-a013a70a7764",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "24227fce-ace6-426c-9323-a2f2db90171d",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "3fd1fe79-d127-49e9-aee4-44aaea525d57",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Machine",
+                "video": "https://s3.boostcamp.app/master-exercise/1971551623.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "name": "",
+            "week": 2,
+            "exercises": [
+              {
+                "id": "5a197f0c-15fb-4603-8138-1b863195a47b",
+                "name": "Sumo Deadlift (Paused)",
+                "sets": [
+                  {
+                    "id": "144c8754-8e51-4610-8c35-fb04503788f6",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "91bc95a4-17f3-4152-b2ca-9a7a051e2e90",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "476c3fce-480a-4b62-bfb7-fc3b8b89223f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1173650490.mp4",
+                "muscles": [
+                  "Legs",
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "834b6961-0cf0-410c-b8c7-84e11e0cff87",
+                "name": "Incline Bench Press (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "36295198-94d9-4524-b4b1-cb7c5fcfd661",
+                    "from": "app",
+                    "source": "user created",
+                    "intensity": 9,
+                    "target_max": 8,
+                    "target_min": 6,
+                    "target_type": "reps_range",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "e3e58baf-30f8-41e9-85de-ba39bcf5e244",
+                    "from": "app",
+                    "source": "user created",
+                    "intensity": 9,
+                    "target_max": 8,
+                    "target_min": 6,
+                    "target_type": "reps_range",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "1c8d70db-c857-4aba-86dc-8b30ddf37299",
+                    "from": "app",
+                    "source": "user created",
+                    "intensity": 9,
+                    "target_max": 8,
+                    "target_min": 6,
+                    "target_type": "reps_range",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/5815511.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "3f0ae004-c292-429b-a367-4987dbef7942",
+                "name": "Pull-Up (Weighted)",
+                "sets": [
+                  {
+                    "id": "2e223725-d387-49a7-a52b-df65c221e2d6",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "fec0f811-942d-4c48-89ad-5010c7e42d31",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "17fec4e8-4a04-45b7-a930-5a859488f610",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1099260859.mp4",
+                "muscles": [
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "3c36154c-9c64-47bb-8cc8-1925a8e39afa",
+                "name": "Bicep Curl (EZ Bar)",
+                "sets": [
+                  {
+                    "id": "234cbb3e-e312-40d0-be5d-b1acf76d08ad",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "13e787b1-c73f-494f-94c5-094bb99defb3",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "ec4363b6-ae28-4a24-a72f-2c0134245f73",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2202039199.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "name": "",
+            "week": 2,
+            "exercises": [
+              {
+                "id": "538b843a-0498-4a15-a482-20ac68b3edfa",
+                "name": "Squat (Paused)",
+                "sets": [
+                  {
+                    "id": "ce14ace4-825a-458e-8a52-d5a6354d84e3",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "5e60e4ac-c6aa-445e-a836-8272549c6391",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "80681c96-5ff9-417b-ac19-eb441e231ecf",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "youtube://v/mmb618X9Ieg",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "865b449a-ec62-41d7-8dfe-e053c6c6c61a",
+                "name": "Spoto Press",
+                "sets": [
+                  {
+                    "id": "d4d18ab4-9810-4e58-9871-363b5c4e8365",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "90d69ebc-ad77-4eab-b1ee-6d36474c5e51",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "e8e6f606-8ea8-4a58-853c-45655894a7aa",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "45f92a3a-8f97-493e-ab69-ca887e1e1b55",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 72.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "f93ade6e-6264-4db0-93fe-bd7d3679d033",
+                "name": "Bulgarian Split Squat (Barbell)",
+                "sets": [
+                  {
+                    "id": "160da3f8-4ad8-4afe-9ae2-7f6d366c58a1",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "c82f0ade-128f-43ba-a1ff-027cf5b5d616",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "d231e56b-313a-4df4-8dd4-a622a6c15da1",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "youtube://v/Kgyn3NAaWjg",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "name": "",
+            "week": 2,
+            "exercises": [
+              {
+                "id": "737aaba7-2c72-4514-9472-bc7043c7d968",
+                "name": "Romanian Deadlift (Barbell)",
+                "sets": [
+                  {
+                    "id": "929a3d8a-3d45-4b82-bf97-7115643ff022",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "6cc69521-abb0-4b62-a667-c62691a06b7e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "acfc4c62-a7c3-4793-91ae-9ff5eead6f2f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 67.5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1778268569.mp4",
+                "muscles": [
+                  "Back",
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "797bd740-ed85-4a15-b4c7-45924e348215",
+                "name": "Chest Supported Row (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "ca5ee151-4043-47a7-8db1-54129bea3f5c",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "e05ec3a0-4dfc-4f01-b80c-de6c1e824ef8",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "6c512e07-1e41-498d-9dd6-538de7d46e5a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "7067426a-6a0f-4f00-989d-0e371be0e1f2",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "youtube://v/G6q02UC52xQ\n",
+                "muscles": [
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "154e9cf2-1f12-48bc-b526-1a3e08c2abd1",
+                "name": "Hammer Curl (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "50e5c53e-4cf9-4d8c-bb55-2348f0c07029",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "d6475abb-13bc-4d95-b3ed-c8fb1e23cd96",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "ae95ff1b-1080-4cc7-8355-6096f39c77db",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 9,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2686403567.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "8a36a00d-ddb4-4bb3-be39-866682489ea2",
+                "name": "Face Pull",
+                "sets": [
+                  {
+                    "id": "ca7316c3-31c4-44fb-a757-beec09d6149e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "b4ee0922-d0a2-477c-a012-93900dc3b97e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "2ba07837-ae4f-450d-a931-b6851c2b73f3",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 15,
+                    "intensity": 7,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Machine",
+                "video": "https://s3.boostcamp.app/master-exercise/2375686825.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "name": "",
+            "week": 2,
+            "exercises": [
+              {
+                "id": "1a08be65-6781-42a5-b500-e4c88767bec3",
+                "name": "Sumo Deadlift (Barbell)",
+                "sets": [
+                  {
+                    "id": "e4d744e3-7873-493d-82ab-88fd0d7a9697",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 85,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "425bde96-31c5-4edd-86f4-dabff1832522",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "481e1c05-e34f-496c-9dbd-f02116884911",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "d49d099e-74ba-4e19-b294-aaeb84abe5ce",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 80,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/952218791.mp4",
+                "muscles": [
+                  "Back",
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "7e8e25e6-455f-4442-8d15-a81d03a2751b",
+                "name": "Bench Press (Paused)",
+                "sets": [
+                  {
+                    "id": "337de1b4-807a-4bab-bdb7-b46b9369185f",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "1670c6d7-9510-4662-9aeb-95f26ad180d9",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "2eecfee2-737c-412a-9b49-f294b56eb38c",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 75,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2894361418.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "34be727b-e02a-4e71-bed1-95ca301f5473",
+                "name": "Tempo Squat (Barbell)",
+                "sets": [
+                  {
+                    "id": "8b9d006b-1d9d-42e9-aded-82201ccc739a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 65,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "f8d09313-89e8-4a36-a07a-d23e596a8713",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 65,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "b5b806f9-059d-468a-9a21-27ef392cd675",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 65,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 0,
+            "name": "",
+            "week": 3,
+            "exercises": [
+              {
+                "id": "5958ae65-48da-4acf-a4f5-453ca9fa061e",
+                "name": "Squat (Low Bar)",
+                "sets": [
+                  {
+                    "id": "cd709dd4-b584-4552-ace4-30919fea61ab",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "adfb2a86-eec5-4c6d-b956-85ba293d4d8d",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "944792cf-c21b-41d2-95ee-faa0f1d59027",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "310d0174-fc8e-4e7f-aacc-35adce7e3a77",
+                "name": "Bench Press (Barbell)",
+                "sets": [
+                  {
+                    "id": "68d29017-5005-4fd0-bde5-2ea9a5d6f9a8",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "981eeede-4fd2-464f-a60b-566c8d9d8b8a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "331affb4-d725-46d3-b6d4-968c60dec4f4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "c65c3602-74ca-4df7-ab86-9b31919f65b4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "1f894245-e2ee-4d61-a6e5-85886d7da4f4",
+                "name": "Leg Extension",
+                "sets": [
+                  {
+                    "id": "45d9b795-f5f7-4640-bc45-65521d8f9b32",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "7c4eb9f4-09af-4356-999b-256b81022668",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Machine",
+                "video": "https://s3.boostcamp.app/master-exercise/1971551623.mp4",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "name": "",
+            "week": 3,
+            "exercises": [
+              {
+                "id": "5a197f0c-15fb-4603-8138-1b863195a47b",
+                "name": "Sumo Deadlift (Paused)",
+                "sets": [
+                  {
+                    "id": "b2f0c57c-36b8-46f0-8690-a18ebe52c076",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "5e270bf9-46a9-4233-b4e2-b78c75ef306a",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1173650490.mp4",
+                "muscles": [
+                  "Legs",
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "834b6961-0cf0-410c-b8c7-84e11e0cff87",
+                "name": "Incline Bench Press (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "77991957-3ba2-4b6c-964d-db2773a5a7f8",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "9cda15a3-1796-475c-a4eb-eb488ac31541",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 8,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/5815511.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "3f0ae004-c292-429b-a367-4987dbef7942",
+                "name": "Pull-Up (Weighted)",
+                "sets": [
+                  {
+                    "id": "d54f37b4-8381-498c-8cc8-3cd31f01db71",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "29457977-fa02-49cf-b130-1830c55017b4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "ad481ce8-c5b1-45d1-82cf-35b595e0aac0",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 5,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1099260859.mp4",
+                "muscles": [
+                  "Back"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "name": "",
+            "week": 3,
+            "exercises": [
+              {
+                "id": "538b843a-0498-4a15-a482-20ac68b3edfa",
+                "name": "Squat (Paused)",
+                "sets": [
+                  {
+                    "id": "78c4a247-122a-4bdb-a19d-ef1beb5081f4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "80acc062-1f16-4fd8-a228-e48a7004ade6",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "youtube://v/mmb618X9Ieg",
+                "muscles": [
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "865b449a-ec62-41d7-8dfe-e053c6c6c61a",
+                "name": "Spoto Press",
+                "sets": [
+                  {
+                    "id": "ffb0c927-7768-41b8-9423-8532886c2f37",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "1073d160-d9db-456f-8abb-e913911332f0",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "ed1379b3-a23b-4db1-ad8c-626c0c853991",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 5,
+                    "intensity": 60,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "name": "",
+            "week": 3,
+            "exercises": [
+              {
+                "id": "737aaba7-2c72-4514-9472-bc7043c7d968",
+                "name": "Romanian Deadlift (Barbell)",
+                "sets": [
+                  {
+                    "id": "d160b987-5c6b-4dee-8831-31bb0047d5aa",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 50,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "945997a0-a440-4076-b635-d46822e8f4f8",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 6,
+                    "intensity": 50,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/1778268569.mp4",
+                "muscles": [
+                  "Back",
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "797bd740-ed85-4a15-b4c7-45924e348215",
+                "name": "Chest Supported Row (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "c0f9d066-da7f-4758-a2ed-c86feea6b91c",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "925d9c69-042e-43a2-9a33-6b10d2632fda",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "881a2c40-a438-4034-8d33-fac5b21bdad7",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 10,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "youtube://v/G6q02UC52xQ\n",
+                "muscles": [
+                  "Back"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "154e9cf2-1f12-48bc-b526-1a3e08c2abd1",
+                "name": "Hammer Curl (Dumbbell)",
+                "sets": [
+                  {
+                    "id": "6a617ce2-9801-4ea3-9ea4-cc47b1c77639",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  },
+                  {
+                    "id": "aba1208a-b6bc-4191-9a03-f6d5b04da822",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 12,
+                    "intensity": 6,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "RPE"
+                  }
+                ],
+                "type": "Dumbbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2686403567.mp4",
+                "muscles": [
+                  "Arms"
+                ],
+                "alternatives": []
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "name": "",
+            "week": 3,
+            "exercises": [
+              {
+                "id": "1a08be65-6781-42a5-b500-e4c88767bec3",
+                "name": "Sumo Deadlift (Barbell)",
+                "sets": [
+                  {
+                    "id": "2e419413-4e02-4018-8c4f-a875a0bde2c4",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "ad8a44bb-9e18-4769-8c7b-5e0b35f74ca8",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "a46cd11b-2c80-4077-91ea-b4cf15f8203e",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 70,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/952218791.mp4",
+                "muscles": [
+                  "Back",
+                  "Legs"
+                ],
+                "alternatives": []
+              },
+              {
+                "id": "7e8e25e6-455f-4442-8d15-a81d03a2751b",
+                "name": "Bench Press (Paused)",
+                "sets": [
+                  {
+                    "id": "d7dc52f2-d411-4725-a780-bc13644dcb36",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 65,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  },
+                  {
+                    "id": "9e05c5e8-d6aa-4b93-8642-71728ebffbec",
+                    "from": "app",
+                    "source": "user created",
+                    "target": 3,
+                    "intensity": 65,
+                    "target_type": "reps",
+                    "target_unit": "minutes",
+                    "intensity_unit": "%"
+                  }
+                ],
+                "type": "Barbell",
+                "video": "https://s3.boostcamp.app/master-exercise/2894361418.mp4",
+                "muscles": [
+                  "Chest"
+                ],
+                "alternatives": []
+              }
+            ]
+          }
+        ],
+        "description": null
+      }
+    ],
+    "updated_at": "2025-12-04T06:43:44.392Z",
+    "created_at": "2025-12-04T05:33:45.231Z",
+    "status": "published",
+    "thumbnail": null,
+    "time_per_workout": 0,
+    "goals": [],
+    "equipments": null,
+    "difficulties": [],
+    "publish_status": [],
+    "join_count": 0,
+    "slug": "2Ahbj3-peaking-block-1",
+    "tagline": null,
+    "source": "unknown"
+  },
+  "code": 200
+}
