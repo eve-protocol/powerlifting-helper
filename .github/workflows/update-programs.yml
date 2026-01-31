@@ -38,6 +38,9 @@ jobs:
       - name: Fetch history
         run: python scripts/parse_history.py --fetch || true
 
+      - name: Generate 12-week history
+        run: python scripts/generate_12_weeks.py
+
       - name: Remove sensitive files before commit
         run: rm -f scripts/.boostcamp_refresh_token scripts/.boostcamp_token
 

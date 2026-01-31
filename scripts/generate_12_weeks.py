@@ -13,6 +13,11 @@ from collections import defaultdict
 # Constants for weight conversion
 LBS_TO_KG = 0.453592
 
+# Big 3 lift patterns for matching
+SQUAT_PATTERNS = ['squat']
+BENCH_PATTERNS = ['bench']
+DEADLIFT_PATTERNS = ['deadlift']
+
 
 def load_history(filepath):
     """Load history.json file."""
@@ -25,14 +30,12 @@ def convert_lbs_to_kg(lbs):
     if lbs is None or lbs == 0:
         return 0
     kg = float(lbs) * LBS_TO_KG
-    # Round to nearest integer (add 0.5 and floor for proper rounding)
     return round(kg)
 
 
 def get_last_12_weeks_dates():
     """Get date range for last 12 weeks."""
     today = datetime.now()
-    # Start from beginning of current week (Monday) and go back 12 weeks
     days_since_monday = today.weekday()
     current_week_start = today - timedelta(days=days_since_monday)
     twelve_weeks_ago = current_week_start - timedelta(weeks=11)
@@ -50,6 +53,12 @@ def get_day_name(date_str):
     """Get day name from date string."""
     dt = datetime.strptime(date_str, '%Y-%m-%d')
     return dt.strftime('%A')
+
+
+def matches_lift(exercise_name, patterns):
+    """Check if exercise name matches any pattern."""
+    name_lower = exercise_name.lower()
+    return any(p in name_lower for p in patterns)
 
 
 def format_target_info(set_data):
@@ -80,29 +89,36 @@ def format_target_info(set_data):
     return ', '.join(parts) if parts else 'no_target'
 
 
-def generate_markdown(data, start_date, end_date):
-    """Generate AI-readable markdown from workout data."""
-    lines = []
-    lines.append("# Last 12 Weeks Training History")
-    lines.append("")
-    lines.append(f"**Period:** {start_date} to {end_date}")
-    lines.append(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    lines.append("")
-    lines.append("---")
-    lines.append("")
-    lines.append("## Format Guide")
-    lines.append("- Weights are in **kg** (converted from lb in source)")
-    lines.append("- RPE is Rate of Perceived Exertion (6-10 scale, 10 = max effort)")
-    lines.append("- Each set shows: `reps × weight_kg @ RPE [target_info]`")
-    lines.append("- target_pct = percentage of 1RM programmed")
-    lines.append("- target_rpe = RPE target for the set")
-    lines.append("- target_reps = programmed number of reps")
-    lines.append("")
-    lines.append("---")
-    lines.append("")
-    
-    # Organize data by week
-    weeks = defaultdict(lambda: defaultdict(list))
+def format_comparison(current, previous):
+    """Format comparison with previous week."""
+    if previous is None or previous == 0:
+        return ""
+    diff = current - previous
+    if diff > 0:
+        return f" (+{diff})"
+    elif diff < 0:
+        return f" ({diff})"
+    return " (=)"
+
+
+def generate_volume_bar(volume, max_volume, width=30):
+    """Generate ASCII bar for volume visualization."""
+    if max_volume == 0:
+        return ""
+    filled = int((volume / max_volume) * width)
+    return '█' * filled + '░' * (width - filled)
+
+
+def parse_workout_data(data, start_date, end_date):
+    """Parse workout data and organize by week."""
+    weeks = defaultdict(lambda: {
+        'days': defaultdict(list),
+        'stats': {
+            'squat': {'sets': 0, 'volume': 0},
+            'bench': {'sets': 0, 'volume': 0},
+            'deadlift': {'sets': 0, 'volume': 0},
+        }
+    })
     
     date_data = data.get('data', {})
     
@@ -110,7 +126,6 @@ def generate_markdown(data, start_date, end_date):
         if not isinstance(date_str, str) or len(date_str) != 10:
             continue
         
-        # Check if date is in range
         if date_str < start_date or date_str > end_date:
             continue
         
@@ -143,7 +158,6 @@ def generate_markdown(data, start_date, end_date):
                         continue
                     
                     target_info = format_target_info(s)
-                    
                     rpe_str = f"@ RPE {archived_rpe}" if archived_rpe else "@ RPE -"
                     
                     sets_data.append({
@@ -153,26 +167,163 @@ def generate_markdown(data, start_date, end_date):
                         'rpe_str': rpe_str,
                         'target_info': target_info
                     })
+                    
+                    # Track Big 3 stats
+                    set_volume = weight_kg * reps
+                    if matches_lift(exercise_name, SQUAT_PATTERNS):
+                        weeks[week_key]['stats']['squat']['sets'] += 1
+                        weeks[week_key]['stats']['squat']['volume'] += set_volume
+                    elif matches_lift(exercise_name, BENCH_PATTERNS):
+                        weeks[week_key]['stats']['bench']['sets'] += 1
+                        weeks[week_key]['stats']['bench']['volume'] += set_volume
+                    elif matches_lift(exercise_name, DEADLIFT_PATTERNS):
+                        weeks[week_key]['stats']['deadlift']['sets'] += 1
+                        weeks[week_key]['stats']['deadlift']['volume'] += set_volume
                 
                 if sets_data:
-                    weeks[week_key][date_str].append({
+                    weeks[week_key]['days'][date_str].append({
                         'exercise': exercise_name,
                         'sets': sets_data
                     })
     
-    # Output by week
+    return weeks
+
+
+def generate_markdown(weeks, start_date, end_date):
+    """Generate AI-readable markdown from parsed workout data."""
+    lines = []
+    lines.append("# Last 12 Weeks Training History")
+    lines.append("")
+    lines.append(f"**Period:** {start_date} to {end_date}")
+    lines.append(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    
+    # Format Guide
+    lines.append("## Format Guide")
+    lines.append("- Weights are in **kg** (converted from lb in source)")
+    lines.append("- RPE is Rate of Perceived Exertion (6-10 scale, 10 = max effort)")
+    lines.append("- Each set shows: `reps × weight_kg @ RPE [target_info]`")
+    lines.append("- target_pct = percentage of 1RM programmed")
+    lines.append("- target_rpe = RPE target for the set")
+    lines.append("- target_reps = programmed number of reps")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    
+    # 12-Week Overview
+    lines.append("## 📊 12-Week Overview")
+    lines.append("")
+    
+    sorted_weeks = sorted(weeks.keys())
+    
+    # Find max volumes for scaling bars
+    max_squat_vol = max((weeks[w]['stats']['squat']['volume'] for w in sorted_weeks), default=1)
+    max_bench_vol = max((weeks[w]['stats']['bench']['volume'] for w in sorted_weeks), default=1)
+    max_deadlift_vol = max((weeks[w]['stats']['deadlift']['volume'] for w in sorted_weeks), default=1)
+    max_volume = max(max_squat_vol, max_bench_vol, max_deadlift_vol, 1)
+    
+    # Weekly summary table
+    lines.append("### Set Counts (Week over Week)")
+    lines.append("")
+    lines.append("| Week | Squat Sets | Bench Sets | Deadlift Sets |")
+    lines.append("|------|------------|------------|---------------|")
+    
+    prev_stats = None
+    for week_key in sorted_weeks:
+        stats = weeks[week_key]['stats']
+        
+        squat_cmp = format_comparison(stats['squat']['sets'], prev_stats['squat']['sets'] if prev_stats else None)
+        bench_cmp = format_comparison(stats['bench']['sets'], prev_stats['bench']['sets'] if prev_stats else None)
+        deadlift_cmp = format_comparison(stats['deadlift']['sets'], prev_stats['deadlift']['sets'] if prev_stats else None)
+        
+        lines.append(f"| {week_key} | {stats['squat']['sets']}{squat_cmp} | {stats['bench']['sets']}{bench_cmp} | {stats['deadlift']['sets']}{deadlift_cmp} |")
+        prev_stats = stats
+    
+    lines.append("")
+    
+    # Volume summary with graphs
+    lines.append("### Volume (kg) with Week-over-Week Change")
+    lines.append("")
+    lines.append("```")
+    lines.append("Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume")
+    lines.append("───────────┼───────────────────┼───────────────────┼───────────────────")
+    
+    prev_stats = None
+    for week_key in sorted_weeks:
+        stats = weeks[week_key]['stats']
+        
+        squat_vol = stats['squat']['volume']
+        bench_vol = stats['bench']['volume']
+        deadlift_vol = stats['deadlift']['volume']
+        
+        squat_cmp = format_comparison(squat_vol, prev_stats['squat']['volume'] if prev_stats else None)
+        bench_cmp = format_comparison(bench_vol, prev_stats['bench']['volume'] if prev_stats else None)
+        deadlift_cmp = format_comparison(deadlift_vol, prev_stats['deadlift']['volume'] if prev_stats else None)
+        
+        lines.append(f"{week_key}  │ {squat_vol:>6}kg{squat_cmp:>8} │ {bench_vol:>6}kg{bench_cmp:>8} │ {deadlift_vol:>6}kg{deadlift_cmp:>8}")
+        prev_stats = stats
+    
+    lines.append("```")
+    lines.append("")
+    
+    # Volume bar graphs
+    lines.append("### Volume Graphs")
+    lines.append("")
+    lines.append("**Squat Volume (kg)**")
+    lines.append("```")
+    for week_key in sorted_weeks:
+        vol = weeks[week_key]['stats']['squat']['volume']
+        bar = generate_volume_bar(vol, max_volume, 25)
+        lines.append(f"{week_key} │{bar}│ {vol:,}kg")
+    lines.append("```")
+    lines.append("")
+    
+    lines.append("**Bench Volume (kg)**")
+    lines.append("```")
+    for week_key in sorted_weeks:
+        vol = weeks[week_key]['stats']['bench']['volume']
+        bar = generate_volume_bar(vol, max_volume, 25)
+        lines.append(f"{week_key} │{bar}│ {vol:,}kg")
+    lines.append("```")
+    lines.append("")
+    
+    lines.append("**Deadlift Volume (kg)**")
+    lines.append("```")
+    for week_key in sorted_weeks:
+        vol = weeks[week_key]['stats']['deadlift']['volume']
+        bar = generate_volume_bar(vol, max_volume, 25)
+        lines.append(f"{week_key} │{bar}│ {vol:,}kg")
+    lines.append("```")
+    lines.append("")
+    
+    lines.append("---")
+    lines.append("")
+    
+    # Detailed week-by-week data
+    lines.append("## 📋 Detailed Training Log")
+    lines.append("")
+    
     for week_key in sorted(weeks.keys(), reverse=True):
+        week_data = weeks[week_key]
+        stats = week_data['stats']
+        
         lines.append(f"## {week_key}")
         lines.append("")
         
-        week_data = weeks[week_key]
+        # Week summary
+        lines.append(f"**Weekly Summary:** Squat: {stats['squat']['sets']} sets / {stats['squat']['volume']:,}kg | "
+                    f"Bench: {stats['bench']['sets']} sets / {stats['bench']['volume']:,}kg | "
+                    f"Deadlift: {stats['deadlift']['sets']} sets / {stats['deadlift']['volume']:,}kg")
+        lines.append("")
         
-        for date_str in sorted(week_data.keys()):
+        for date_str in sorted(week_data['days'].keys()):
             day_name = get_day_name(date_str)
             lines.append(f"### {date_str} ({day_name})")
             lines.append("")
             
-            exercises = week_data[date_str]
+            exercises = week_data['days'][date_str]
             
             for ex in exercises:
                 lines.append(f"**{ex['exercise']}**")
@@ -213,8 +364,11 @@ def main():
     start_date, end_date = get_last_12_weeks_dates()
     print(f"Date range: {start_date} to {end_date}")
     
+    # Parse data
+    weeks = parse_workout_data(data, start_date, end_date)
+    
     # Generate markdown
-    markdown = generate_markdown(data, start_date, end_date)
+    markdown = generate_markdown(weeks, start_date, end_date)
     
     # Write output
     with open(output_file, 'w') as f:
@@ -224,8 +378,8 @@ def main():
     
     # Count stats
     lines = markdown.split('\n')
-    week_count = sum(1 for l in lines if l.startswith('## 20'))
-    day_count = sum(1 for l in lines if l.startswith('### 20'))
+    week_count = len(weeks)
+    day_count = sum(len(weeks[w]['days']) for w in weeks)
     set_count = sum(1 for l in lines if l.startswith('- Set'))
     
     print(f"   Weeks: {week_count}")
