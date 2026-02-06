@@ -1,5 +1,213 @@
 {
   "data": {
+    "2026-02-05": [
+      {
+        "program_id": null,
+        "id": "x8FSv2HaTkVDOCVN",
+        "user_id": "l8XHYRXwevhoJf4XffuZyECxgMP2",
+        "finished_at": "2026-02-05 03:09:50",
+        "day": null,
+        "week": null,
+        "workout": "{}",
+        "records": [
+          {
+            "id": "310d0174-fc8e-4e7f-aacc-35adce7e3a77",
+            "name": "Bench Press (Barbell)",
+            "sets": [
+              {
+                "value": "90",
+                "amount": "8",
+                "custom": true,
+                "source": "user created",
+                "skipped": false,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "weight_unit": "kg",
+                "archived_rpe": 0,
+                "previous_rpe": 0,
+                "archived_reps": 5,
+                "previous_reps": 8,
+                "archived_weight": 231.485373,
+                "previous_weight": 198.416034,
+                "support_distance": false
+              },
+              {
+                "value": "90",
+                "amount": "8",
+                "custom": true,
+                "source": "user created",
+                "skipped": false,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "weight_unit": "kg",
+                "archived_rpe": 0,
+                "previous_rpe": 0,
+                "archived_reps": 5,
+                "previous_reps": 8,
+                "archived_weight": 231.485373,
+                "previous_weight": 198.416034,
+                "support_distance": false
+              },
+              {
+                "value": "90",
+                "amount": "8",
+                "custom": true,
+                "source": "user created",
+                "skipped": false,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "weight_unit": "kg",
+                "archived_rpe": 0,
+                "previous_rpe": 0,
+                "archived_reps": 5,
+                "previous_reps": 8,
+                "archived_weight": 231.485373,
+                "previous_weight": 198.416034,
+                "support_distance": false
+              }
+            ],
+            "type": "Barbell",
+            "uniq": "a616cbdc-566d-40b1-9051-193f444c5e6e",
+            "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+            "custom": true,
+            "source": "coach",
+            "muscles": [
+              "Chest"
+            ],
+            "finished_at": "2026-02-03T15:39:28.653Z",
+            "target_type": "reps",
+            "alternatives": [],
+            "muscles_list": [
+              {
+                "muscle": "Chest",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Triceps",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Front Delts",
+                "percent": "100%"
+              }
+            ],
+            "isAddForFuture": false,
+            "support_distance": false
+          },
+          {
+            "id": "737aaba7-2c72-4514-9472-bc7043c7d968",
+            "name": "Romanian Deadlift (Barbell)",
+            "sets": [
+              {
+                "value": "130",
+                "amount": "6",
+                "custom": true,
+                "source": "user created",
+                "skipped": false,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "weight_unit": "kg",
+                "archived_rpe": 0,
+                "previous_rpe": 7,
+                "archived_reps": 5,
+                "previous_reps": 6,
+                "archived_weight": 220.46226,
+                "previous_weight": 286.600938,
+                "support_distance": false
+              },
+              {
+                "value": "130",
+                "amount": "6",
+                "custom": true,
+                "source": "user created",
+                "skipped": false,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "weight_unit": "kg",
+                "archived_rpe": 0,
+                "previous_rpe": 7,
+                "archived_reps": 5,
+                "previous_reps": 6,
+                "archived_weight": 220.46226,
+                "previous_weight": 286.600938,
+                "support_distance": false
+              },
+              {
+                "value": "130",
+                "amount": "6",
+                "custom": true,
+                "source": "user created",
+                "skipped": false,
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "weight_unit": "kg",
+                "archived_rpe": 0,
+                "previous_rpe": 7.5,
+                "archived_reps": 5,
+                "previous_reps": 6,
+                "archived_weight": 220.46226,
+                "previous_weight": 286.600938,
+                "support_distance": false
+              }
+            ],
+            "type": "Barbell",
+            "uniq": "73b54038-763d-43e8-8007-e57d7f9aa33a",
+            "video": "https://s3.boostcamp.app/master-exercise/1778268569.mp4",
+            "custom": true,
+            "source": "coach",
+            "muscles": [
+              "Back",
+              "Legs"
+            ],
+            "finished_at": "2026-01-29T00:57:58.587Z",
+            "target_type": "reps",
+            "alternatives": [],
+            "muscles_list": [
+              {
+                "muscle": "Hamstrings",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Glutes",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Quadriceps",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Lower Back",
+                "percent": "50%"
+              },
+              {
+                "muscle": "Abs",
+                "percent": "50%"
+              }
+            ],
+            "isAddForFuture": false,
+            "support_distance": false
+          }
+        ],
+        "legacy": {
+          "template_id": "empty"
+        },
+        "title": "Feb 4 Workout",
+        "type": 3,
+        "name": "Feb 4 Workout"
+      }
+    ],
     "2026-02-04": [
       {
         "program_id": "user-434846ac-2e3b-4945-a725-7568d7ca5817",
