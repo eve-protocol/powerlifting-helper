@@ -1,7 +1,7 @@
 # Last 12 Weeks Training History
 
 **Period:** 2025-12-01 to 2026-02-16
-**Generated:** 2026-02-16 18:55
+**Generated:** 2026-02-16 22:56
 
 ---
 
@@ -21,6 +21,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
+| 2026-W08 | 5 (-8) | 3 (-7) | 0 (-9) |
 | 2026-W07 | 13 (+8) | 10 (-4) | 9 (-3) |
 | 2026-W06 | 5 (-19) | 14 (-3) | 12 (+1) |
 | 2026-W05 | 24 (+9) | 17 (+3) | 11 (+1) |
@@ -38,6 +39,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
+2026-W08  │   2640kg (-4122) │    990kg (-2285) │      0kg (-4620)
 2026-W07  │   6762kg (+4362) │   3275kg (-2822) │   4620kg (-1175)
 2026-W06  │   2400kg (-8701) │   6097kg  (-644) │   5795kg  (+125)
 2026-W05  │  11101kg  (+510) │   6741kg  (-312) │   5670kg (-1260)
@@ -55,6 +57,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Squat Volume (kg)**
 ```
+2026-W08 │█████░░░░░░░░░░░░░░░░░░░░│ 2,640kg
 2026-W07 │█████████████░░░░░░░░░░░░│ 6,762kg
 2026-W06 │████░░░░░░░░░░░░░░░░░░░░░│ 2,400kg
 2026-W05 │██████████████████████░░░│ 11,101kg
@@ -70,6 +73,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Bench Volume (kg)**
 ```
+2026-W08 │█░░░░░░░░░░░░░░░░░░░░░░░░│ 990kg
 2026-W07 │██████░░░░░░░░░░░░░░░░░░░│ 3,275kg
 2026-W06 │████████████░░░░░░░░░░░░░│ 6,097kg
 2026-W05 │█████████████░░░░░░░░░░░░│ 6,741kg
@@ -85,6 +89,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Deadlift Volume (kg)**
 ```
+2026-W08 │░░░░░░░░░░░░░░░░░░░░░░░░░│ 0kg
 2026-W07 │█████████░░░░░░░░░░░░░░░░│ 4,620kg
 2026-W06 │███████████░░░░░░░░░░░░░░│ 5,795kg
 2026-W05 │███████████░░░░░░░░░░░░░░│ 5,670kg
@@ -101,6 +106,33 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ---
 
 ## 📋 Detailed Training Log
+
+## 2026-W08
+
+**Weekly Summary:** Squat: 5 sets / 2,640kg | Bench: 3 sets / 990kg | Deadlift: 0 sets / 0kg
+
+### 2026-02-16 (Monday)
+
+**Squat (Low Bar)**
+- Set 1: 1 × 160kg @ RPE 8 [target_reps=1, target_pct=92.5%, target_weight=160kg]
+- Set 2: 2 × 140kg @ RPE 6 [target_reps=2, target_pct=80%, target_weight=138kg]
+- Set 3: 2 × 140kg @ RPE 6 [target_reps=2, target_pct=80%, target_weight=138kg]
+
+**Bench Press (Paused)**
+- Set 1: 3 × 110kg @ RPE 7 [target_reps=3, target_pct=75%, target_weight=99kg]
+- Set 2: 3 × 110kg @ RPE 8 [target_reps=3, target_pct=75%, target_weight=99kg]
+- Set 3: 3 × 110kg @ RPE 8.5 [target_reps=3, target_pct=75%, target_weight=99kg]
+
+**Squat (Smith Machine)**
+- Set 1: 12 × 80kg @ RPE 7 [target_reps=12, target_rpe=7]
+- Set 2: 12 × 80kg @ RPE 7.5 [target_reps=12, target_rpe=7]
+
+**Cable Crunch**
+- Set 1: 15 × 40kg @ RPE 6 [target_reps=15, target_rpe=7]
+- Set 2: 5 × 45kg @ RPE - [target_reps=15, target_rpe=7]
+- Set 3: 10 × 40kg @ RPE 8 [target_reps=15, target_rpe=7]
+
+---
 
 ## 2026-W07
 
