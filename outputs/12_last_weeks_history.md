@@ -1,7 +1,7 @@
 # Last 12 Weeks Training History
 
-**Period:** 2025-12-01 to 2026-02-19
-**Generated:** 2026-02-19 19:00
+**Period:** 2025-12-01 to 2026-02-20
+**Generated:** 2026-02-20 02:43
 
 ---
 
