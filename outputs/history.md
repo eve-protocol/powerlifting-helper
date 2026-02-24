@@ -1,14 +1,14 @@
 # Workout History Analysis
 
-*Generated: 2026-02-24 07:10*
+*Generated: 2026-02-24 07:43*
 
 ## 📊 Summary
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-02-23 |
-| Training Days | 293 |
-| Total Sets | 3750 |
+| Date Range | 2024-12-28 → 2026-02-24 |
+| Training Days | 294 |
+| Total Sets | 3764 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -43,8 +43,8 @@
 
 W09:
   Squat    │████████████████ 5860kg
-  Bench    │▓▓▓▓▓▓▓ 2632kg
-  Deadlift │ 0kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓ 3712kg
+  Deadlift │░░░░░░░ 2560kg
 
 W08:
   Squat    │███████████ 3940kg
