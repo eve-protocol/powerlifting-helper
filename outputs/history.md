@@ -1,14 +1,14 @@
 # Workout History Analysis
 
-*Generated: 2026-02-25 02:48*
+*Generated: 2026-02-25 07:11*
 
 ## 📊 Summary
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-02-24 |
-| Training Days | 294 |
-| Total Sets | 3764 |
+| Date Range | 2024-12-28 → 2026-02-25 |
+| Training Days | 295 |
+| Total Sets | 3784 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -42,7 +42,7 @@
 ```
 
 W09:
-  Squat    │████████████████ 5860kg
+  Squat    │███████████████████████ 8460kg
   Bench    │▓▓▓▓▓▓▓▓▓▓ 3712kg
   Deadlift │░░░░░░░ 2560kg
 
@@ -262,7 +262,7 @@ W52:
 | 2RM | 132.5kg | 148.2kg | 6 | 🟢 2026-02-18 |
 | 3RM | 140.0kg | 160.9kg | 8 | 🟢 2026-02-11 |
 | 4RM | 122.5kg | 155.1kg | 7 | 🟢 2025-12-24 |
-| 5RM | 120.0kg | 153.0kg | 7 | 🟡 2025-09-29 |
+| 5RM | 130.0kg | 160.6kg | 7 | 🟢 2026-02-25 |
 | 6RM | 110.0kg | 148.2kg | 6.5 | 🟢 2026-01-21 |
 
 #### Tempo Squat High Bar (Barbell)
