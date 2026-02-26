@@ -6,19 +6,13 @@ Uses search-by-name approach to find specific programs.
 
 import os
 import sys
+import requests
 import yaml
 import time
 from pathlib import Path
 
-try:
-    import requests
-except ImportError:
-    print("Error: 'requests' library required")
-    sys.exit(1)
-
 BASE_URL = "https://newapi.boostcamp.app/api"
 FIREBASE_API_KEY = "AIzaSyAEJcoGF-5ueF3bvaujcJm2PUV7RHKQwTw"
-REFRESH_TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
 
 HEADERS = {
     "Content-Type": "application/json; charset=UTF-8",
@@ -28,54 +22,45 @@ HEADERS = {
 }
 
 
-def get_access_token(refresh_token):
-    """Exchange Firebase refresh token for access token"""
+def get_access_token():
+    """Get access token from environment or file"""
+    # Try environment variable first (CI)
+    env_token = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
+    if env_token:
+        refresh_token = env_token.strip()
+    else:
+        # Try local file
+        token_file = Path(__file__).parent / '.boostcamp_refresh_token'
+        if token_file.exists():
+            refresh_token = token_file.read_text().strip()
+        else:
+            return None
+    
+    # Exchange for access token
     url = f"https://securetoken.googleapis.com/v1/token?key={FIREBASE_API_KEY}"
-    payload = {
-        "grant_type": "refresh_token",
-        "refresh_token": refresh_token
-    }
+    payload = {"grant_type": "refresh_token", "refresh_token": refresh_token}
     
     try:
         resp = requests.post(url, data=payload, timeout=30)
         resp.raise_for_status()
-        data = resp.json()
-        return data.get('id_token')
-    except Exception:
-        # If refresh fails, the token might already be an access token
+        return resp.json().get('id_token')
+    except Exception as e:
+        print(f"❌ Auth failed: {e}")
         return None
 
 
-def get_all_programs(access_token):
-    """Fetch all user programs from the working endpoint"""
+def fetch_user_programs(access_token):
+    """Fetch all user programs"""
     headers = HEADERS.copy()
     headers["Authorization"] = f"FirebaseIdToken:{access_token}"
     
     url = f"{BASE_URL}/www/programs/user_programs/list"
     payload = {"pagination": {"current": 1, "pageSize": 200}}
     
-    try:
-        resp = requests.post(url, headers=headers, params={"_": int(time.time()*1000)}, 
-                           json=payload, timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
-        
-        rows = data.get('data', {}).get('rows', [])
-        # Build lookup by lowercase name
-        programs = {}
-        for row in rows:
-            name = row.get('title', '')
-            programs[name.lower()] = {
-                'id': row.get('id'),
-                'title': row.get('title'),
-                'weeks': len(row.get('weeks', [])),
-                'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
-            }
-        return programs
-    except Exception as e:
-        print(f"⚠️ Error fetching programs: {e}")
-        return {}
-
+    resp = requests.post(url, headers=headers, params={"_": int(time.time()*1000)},
+                       json=payload, timeout=30)
+    resp.raise_for_status()
+    return resp.json().get('data', {}).get('rows', [])
 
 def load_local_programs():
     """Load all local YAML program files"""
@@ -111,23 +96,31 @@ def main():
         print("ℹ️ No local program files found")
         return
     
-    if not REFRESH_TOKEN:
-        print("⚠️ BOOSTCAMP_REFRESH_TOKEN not set")
-        return
-    
-    # Try to get fresh access token, or use provided token directly
+    # Get access token (from env or file)
     print("🔑 Authenticating...")
-    access_token = get_access_token(REFRESH_TOKEN)
+    access_token = get_access_token()
     if not access_token:
-        # Use the token directly - it might already be an access token
-        access_token = REFRESH_TOKEN
-        print("Using token directly as access token")
-    else:
-        print("✅ Token refreshed successfully")
+        print("❌ Failed to authenticate")
+        return
+    print("✅ Authenticated")
     
-    # Fetch all remote programs at once
+    # Fetch all remote programs
     print("🔍 Fetching programs from Boostcamp...")
-    remote_programs = get_all_programs(access_token)
+    try:
+        all_programs = fetch_user_programs(access_token)
+        # Build lookup by lowercase name
+        remote_programs = {}
+        for prog in all_programs:
+            name = prog.get('title', '')
+            remote_programs[name.lower()] = {
+                'id': prog.get('id'),
+                'title': prog.get('title'),
+                'weeks': len(prog.get('weeks', [])),
+                'workouts': len(prog.get('variations', [{}])[0].get('workouts', []))
+            }
+    except Exception as e:
+        print(f"⚠️ Error fetching programs: {e}")
+        return
     
     print(f"📋 Found {len(local_programs)} local, {len(remote_programs)} remote user programs")
     print()
