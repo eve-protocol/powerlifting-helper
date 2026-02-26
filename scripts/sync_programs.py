@@ -148,22 +148,19 @@ class BoostcampSync:
             self.headers["Authorization"] = f"FirebaseIdToken:{self.token}"
     
     def find_program_by_name(self, name):
-        """Search for a specific program by name"""
-        url = f"{BASE_URL}/www/user_programs/list"
-        payload = {
-            "sorter": {"order": "desc"},
-            "filters": {"search": name, "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-            "pagination": {"current": 1, "pageSize": 20}
-        }
+        """Search for a specific program by name using the working endpoint"""
+        url = f"{BASE_URL}/www/programs/user_programs/list"
+        payload = {"pagination": {"current": 1, "pageSize": 200}}
         
         try:
-            resp = requests.post(url, headers=self.headers, json=payload, timeout=10)
+            resp = requests.post(url, headers=self.headers, params={"_": int(time.time()*1000)},
+                               json=payload, timeout=30)
             resp.raise_for_status()
             data = resp.json()
             
             rows = data.get('data', {}).get('rows', [])
             for row in rows:
-                # Match by exact title (case-insensitive) - instructor_id may vary
+                # Match by exact title (case-insensitive)
                 if row['title'].lower() == name.lower():
                     return row.get('id')
             return None
