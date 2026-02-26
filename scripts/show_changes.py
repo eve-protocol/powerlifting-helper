@@ -43,7 +43,7 @@ def get_access_token():
     
     # If no token file, we'll need to use refresh token
     # This is simplified - the actual implementation would refresh the token
-    return TOKEN
+    return TOKEN.strip()
 
 
 def get_remote_programs():

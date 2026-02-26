@@ -150,7 +150,7 @@ class BoostcampSync:
         
         # For simplicity, using refresh token directly
         # In production, you'd want to handle token refresh properly
-        return REFRESH_TOKEN
+        return REFRESH_TOKEN.strip()
     
     def list_programs(self):
         """List all programs"""
