@@ -1,28 +1,23 @@
-name: Update Boostcamp Programs
+name: Update Boostcamp History
 
 on:
   schedule:
-    # Run every 6 hours
     - cron: "0 */6 * * *"
-  workflow_dispatch: # Allow manual trigger
-  push:
-    branches: [main]
-    paths:
-      - "scripts/boostcamp_conf.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-programs:
+  update-history:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: "3.13"
 
@@ -32,22 +27,19 @@ jobs:
       - name: Create refresh token file
         run: echo "${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}" > scripts/.boostcamp_refresh_token
 
-      - name: Fetch programs
-        run: python scripts/fetch_programs.py
-
-      - name: Fetch history
-        run: python scripts/parse_history.py --fetch || true
+      - name: Fetch and parse history
+        run: python scripts/parse_history.py --fetch
 
       - name: Generate 12-week history
         run: python scripts/generate_12_weeks.py
 
-      - name: Remove sensitive files before commit
+      - name: Remove sensitive files
         run: rm -f scripts/.boostcamp_refresh_token scripts/.boostcamp_token
 
-      - name: Commit and push changes
+      - name: Commit and push history changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
-          git diff --staged --quiet || git commit -m "Update programs and history [skip ci]"
+          git add values/history.json outputs/history.md outputs/12_last_weeks_history.md
+          git diff --staged --quiet || git commit -m "Update workout history [skip ci]"
           git push

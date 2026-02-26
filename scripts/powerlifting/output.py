@@ -1,7 +1,6 @@
 """Terminal and markdown output generation functions."""
 
 import os
-from datetime import datetime
 
 from .constants import BIG3_MAIN, BIG3_VARIATIONS, LIFT_CATEGORIES, COLORS, RTS_RPE_CHART
 from .e1rm import calculate_personal_rpe_table, get_best_recent_e1rm
@@ -243,11 +242,7 @@ def generate_markdown_rpe_table(workouts):
 def generate_markdown_report(workouts, all_maxes, stats, output_path):
     """Generate comprehensive markdown report."""
     lines = []
-    now = datetime.now().strftime('%Y-%m-%d %H:%M')
-    
     lines.append("# Workout History Analysis")
-    lines.append(f"")
-    lines.append(f"*Generated: {now}*")
     lines.append("")
     
     # Summary
