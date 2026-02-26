@@ -17,7 +17,8 @@ except ImportError:
     sys.exit(1)
 
 BASE_URL = "https://newapi.boostcamp.app/api"
-TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
+FIREBASE_API_KEY = "AIzaSyAEJcoGF-5ueF3bvaujcJm2PUV7RHKQwTw"
+REFRESH_TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
 
 HEADERS = {
     "Content-Type": "application/json; charset=UTF-8",
@@ -27,10 +28,28 @@ HEADERS = {
 }
 
 
-def get_all_programs(token):
+def get_access_token(refresh_token):
+    """Exchange Firebase refresh token for access token"""
+    url = f"https://securetoken.googleapis.com/v1/token?key={FIREBASE_API_KEY}"
+    payload = {
+        "grant_type": "refresh_token",
+        "refresh_token": refresh_token
+    }
+    
+    try:
+        resp = requests.post(url, data=payload, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+        return data.get('id_token')
+    except Exception as e:
+        print(f"⚠️ Error refreshing token: {e}")
+        return None
+
+
+def get_all_programs(access_token):
     """Fetch all user programs from the working endpoint"""
     headers = HEADERS.copy()
-    headers["Authorization"] = f"FirebaseIdToken:{token.strip()}"
+    headers["Authorization"] = f"FirebaseIdToken:{access_token}"
     
     url = f"{BASE_URL}/www/programs/user_programs/list"
     payload = {"pagination": {"current": 1, "pageSize": 200}}
@@ -92,13 +111,20 @@ def main():
         print("ℹ️ No local program files found")
         return
     
-    if not TOKEN:
+    if not REFRESH_TOKEN:
         print("⚠️ BOOSTCAMP_REFRESH_TOKEN not set")
+        return
+    
+    # Get fresh access token
+    print("🔑 Authenticating...")
+    access_token = get_access_token(REFRESH_TOKEN)
+    if not access_token:
+        print("❌ Failed to authenticate")
         return
     
     # Fetch all remote programs at once
     print("🔍 Fetching programs from Boostcamp...")
-    remote_programs = get_all_programs(TOKEN)
+    remote_programs = get_all_programs(access_token)
     
     print(f"📋 Found {len(local_programs)} local, {len(remote_programs)} remote user programs")
     print()
