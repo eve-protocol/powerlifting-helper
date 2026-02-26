@@ -1,0 +1,53 @@
+name: Daily AI Power Assessment
+
+on:
+  schedule:
+    - cron: "30 23 * * *" # 08:30 JST
+  workflow_dispatch:
+    inputs:
+      mark_done:
+        description: "Mark next workout as done before generating assessment"
+        required: false
+        default: "false"
+      completed_date:
+        description: "Completion date (YYYY-MM-DD), used when mark_done=true"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  assess:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Optionally mark workout done (explicit mode)
+        if: github.event_name == 'workflow_dispatch' && inputs.mark_done == 'true'
+        run: |
+          if [ -n "${{ inputs.completed_date }}" ]; then
+            python scripts/update_training_state.py --mark-done --date "${{ inputs.completed_date }}"
+          else
+            python scripts/update_training_state.py --mark-done
+          fi
+
+      - name: Generate daily assessment
+        run: python scripts/generate_daily_assessment.py
+
+      - name: Commit and push generated assessment/state
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add outputs/daily_assessment.md state/training_state.yaml
+          git diff --staged --quiet || git commit -m "Update daily assessment [skip ci]"
+          git push
