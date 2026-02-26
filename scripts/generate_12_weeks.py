@@ -195,8 +195,7 @@ def generate_markdown(weeks, start_date, end_date):
     lines.append("# Last 12 Weeks Training History")
     lines.append("")
     lines.append(f"**Period:** {start_date} to {end_date}")
-    lines.append(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    lines.append("")
+
     lines.append("---")
     lines.append("")
     
