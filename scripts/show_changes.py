@@ -56,49 +56,38 @@ def get_remote_programs():
     headers["Authorization"] = f"FirebaseIdToken:{token}"
     
     url = f"{BASE_URL}/www/user_programs/list"
+    params = {"_": int(time.time() * 1000)}
     
-    # Fetch all pages
-    all_programs = {}
-    page = 1
-    page_size = 100
+    # Fetch single page with 200 items (should be enough)
+    payload = {
+        "sorter": {"order": "desc"},
+        "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
+        "pagination": {"current": 1, "pageSize": 200}
+    }
     
-    while True:
-        params = {"_": int(time.time() * 1000)}
-        payload = {
-            "sorter": {"order": "desc"},
-            "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-            "pagination": {"current": page, "pageSize": page_size}
-        }
+    try:
+        resp = requests.post(url, headers=headers, params=params, json=payload, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
         
-        try:
-            resp = requests.post(url, headers=headers, params=params, json=payload, timeout=30)
-            resp.raise_for_status()
-            data = resp.json()
-            
-            rows = data.get('data', {}).get('rows', [])
-            if not rows:
-                break
-            
-            for row in rows:
-                if isinstance(row, dict) and 'title' in row:
-                    # Use lowercase for case-insensitive matching
-                    all_programs[row['title'].lower()] = {
-                        'id': row.get('id'),
-                        'title': row.get('title'),
-                        'weeks': len(row.get('weeks', [])),
-                        'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
-                    }
-            
-            # Check if we've fetched all programs
-            if len(rows) < page_size:
-                break
-            page += 1
-            
-        except Exception as e:
-            print(f"⚠️ Could not fetch remote programs: {e}")
-            return {}
-    
-    return all_programs
+        programs = {}
+        rows = data.get('data', {}).get('rows', [])
+        print(f"   DEBUG: API returned {len(rows)} programs")
+        
+        for row in rows:
+            if isinstance(row, dict) and 'title' in row:
+                programs[row['title'].lower()] = {
+                    'id': row.get('id'),
+                    'title': row.get('title'),
+                    'weeks': len(row.get('weeks', [])),
+                    'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
+                }
+        return programs
+    except Exception as e:
+        print(f"⚠️ Could not fetch remote programs: {e}")
+        import traceback
+        traceback.print_exc()
+        return {}
 
 
 def load_local_programs():
