@@ -20,8 +20,8 @@ except ImportError:
 
 BASE_URL = "https://newapi.boostcamp.app/api"
 REFRESH_TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
-# Check both programs/ and values/ directories
-PROGRAMS_DIR = Path("programs") if Path("programs").exists() else Path("values")
+# Use programs/ directory as primary location
+PROGRAMS_DIR = Path("programs")
 
 HEADERS = {
     "Content-Type": "application/json; charset=UTF-8",
@@ -69,16 +69,20 @@ def create_set(target_reps, rpe_min, rpe_max):
     }
 
 
-def create_exercise(name, sets, video=""):
-    return {
+def create_exercise(name, exercise_type, muscles, sets, video=""):
+    ex = {
         "id": generate_uuid(),
         "name": name,
-        "type": "Barbell",
-        "muscles": [],
+        "type": exercise_type if exercise_type else "Barbell",
+        "muscles": muscles if muscles else [],
         "sets": sets,
         "video": video,
         "alternatives": []
     }
+    # Only include non-empty optional fields
+    if video:
+        ex["video"] = video
+    return ex
 
 
 def yaml_to_boostcamp_format(yaml_data):
@@ -96,6 +100,8 @@ def yaml_to_boostcamp_format(yaml_data):
             
             exercises.append(create_exercise(
                 name=ex_data['name'],
+                exercise_type=ex_data.get('type'),
+                muscles=ex_data.get('muscles'),
                 sets=sets,
                 video=VIDEO_URLS.get(ex_data['name'], "")
             ))

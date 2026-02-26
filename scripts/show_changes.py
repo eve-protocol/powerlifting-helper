@@ -77,14 +77,13 @@ def get_remote_programs(program_names):
 
 def load_local_programs():
     """Load all local YAML program files"""
-    # Check both programs/ and values/ directories
-    for programs_dir in [Path("programs"), Path("values")]:
-        programs = {}
-        
-        if not programs_dir.exists():
-            continue
-        
-        for yaml_file in programs_dir.glob("*.yaml"):
+    programs_dir = Path("programs")
+    programs = {}
+    
+    if not programs_dir.exists():
+        return programs
+    
+    for yaml_file in programs_dir.glob("*.yaml"):
         try:
             with open(yaml_file, 'r') as f:
                 data = yaml.safe_load(f)
