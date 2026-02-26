@@ -153,14 +153,14 @@ class BoostcampSync:
         return REFRESH_TOKEN.strip()
     
     def list_programs(self):
-        """List all programs"""
+        """List all USER programs only (not public)"""
         url = f"{BASE_URL}/www/user_programs/list"
         params = {"_": int(time.time() * 1000)}
         
         payload = {
             "sorter": {"order": "desc"},
             "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-            "pagination": {"current": 1, "pageSize": 200}  # Single page, 200 items
+            "pagination": {"current": 1, "pageSize": 200}
         }
         
         try:
@@ -170,9 +170,24 @@ class BoostcampSync:
             
             programs = {}
             rows = data.get('data', {}).get('rows', [])
+            
             for row in rows:
-                if isinstance(row, dict) and 'title' in row:
+                if not isinstance(row, dict) or 'title' not in row:
+                    continue
+                
+                # Filter to user's programs only
+                is_user_program = False
+                
+                # Check if it's a personal program (not public)
+                if row.get('source') == 'user created':
+                    # Additional checks to confirm it's the user's own program
+                    # Not a public program with many joins
+                    if row.get('join_count', 0) < 100:  # Personal programs have low join count
+                        is_user_program = True
+                
+                if is_user_program:
                     programs[row['title'].lower()] = row.get('id')
+            
             return programs
         except Exception as e:
             print(f"❌ Error listing programs: {e}")
