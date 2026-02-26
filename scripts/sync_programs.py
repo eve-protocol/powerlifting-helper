@@ -155,23 +155,41 @@ class BoostcampSync:
     def list_programs(self):
         """List all programs"""
         url = f"{BASE_URL}/www/user_programs/list"
-        params = {"_": int(time.time() * 1000)}
         
-        payload = {
-            "sorter": {"order": "desc"},
-            "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-            "pagination": {"current": 1, "pageSize": 100}
-        }
+        all_programs = {}
+        page = 1
+        page_size = 100
         
-        try:
-            resp = requests.post(url, headers=self.headers, params=params, json=payload, timeout=30)
-            resp.raise_for_status()
-            data = resp.json()
+        while True:
+            params = {"_": int(time.time() * 1000)}
+            payload = {
+                "sorter": {"order": "desc"},
+                "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
+                "pagination": {"current": page, "pageSize": page_size}
+            }
             
-            programs = {}
-            rows = data.get('data', {}).get('rows', [])
-            for row in rows:
-                if isinstance(row, dict) and 'title' in row:
+            try:
+                resp = requests.post(url, headers=self.headers, params=params, json=payload, timeout=30)
+                resp.raise_for_status()
+                data = resp.json()
+                
+                rows = data.get('data', {}).get('rows', [])
+                if not rows:
+                    break
+                
+                for row in rows:
+                    if isinstance(row, dict) and 'title' in row:
+                        all_programs[row['title'].lower()] = row.get('id')
+                
+                if len(rows) < page_size:
+                    break
+                page += 1
+                
+            except Exception as e:
+                print(f"❌ Error listing programs: {e}")
+                return {}
+        
+        return all_programs
                     programs[row['title']] = row.get('id')
             return programs
         except Exception as e:
@@ -221,9 +239,10 @@ class BoostcampSync:
         # Build program data
         program_data = yaml_to_boostcamp_format(yaml_data)
         
-        # Check if program exists
-        if program_name in existing_programs:
-            program_id = existing_programs[program_name]
+        # Check if program exists (case-insensitive)
+        name_lower = program_name.lower()
+        if name_lower in existing_programs:
+            program_id = existing_programs[name_lower]
             print(f"   🔄 Updating existing program (ID: {program_id[:20]}...)")
             result = self.update_program(program_id, program_data)
             if result:
