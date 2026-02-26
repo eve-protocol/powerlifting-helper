@@ -93,74 +93,53 @@ def load_local_programs():
     return programs
 
 
-def normalize_workout(workout):
-    """Normalize workout data for comparison"""
-    exercises = []
-    for ex in workout.get('exercises', []):
-        sets = []
-        for s in ex.get('sets', []):
-            sets.append({
-                'target': s.get('target'),
-                'rpe': tuple(s.get('rpe', [])) if isinstance(s.get('rpe'), list) else s.get('rpe')
-            })
-        exercises.append({
-            'name': ex.get('name'),
-            'sets': tuple(sorted(sets, key=lambda x: (x['target'], str(x['rpe']))))
-        })
-    return {
-        'week': workout.get('week'),
-        'day': workout.get('day'),
-        'exercises': tuple(sorted(exercises, key=lambda x: x['name']))
-    }
-
-
-def normalize_yaml_workout(workout):
-    """Normalize YAML workout data for comparison"""
-    exercises = []
-    for ex in workout.get('exercises', []):
-        sets = []
-        for s in ex.get('sets', []):
-            rpe = s.get('rpe')
-            if isinstance(rpe, list):
-                rpe = tuple(rpe)
-            sets.append({
-                'target': s.get('target'),
-                'rpe': rpe
-            })
-        exercises.append({
-            'name': ex.get('name'),
-            'sets': tuple(sorted(sets, key=lambda x: (x['target'], str(x['rpe']))))
-        })
-    return {
-        'week': workout.get('week'),
-        'day': workout.get('day'),
-        'exercises': tuple(sorted(exercises, key=lambda x: x['name']))
-    }
+def extract_exercise_key(exercise):
+    """Extract comparable key from exercise - only name, target reps, and RPE"""
+    sets = []
+    for s in exercise.get('sets', []):
+        target = s.get('target')
+        # Handle RPE - can be list [min, max] or single value
+        rpe = s.get('rpe')
+        if isinstance(rpe, (list, tuple)):
+            rpe = tuple(rpe)
+        elif isinstance(rpe, (int, float)):
+            rpe = (rpe, rpe)
+        else:
+            rpe = (0, 0)
+        sets.append((target, rpe))
+    return (exercise.get('name', '').lower(), tuple(sorted(sets)))
 
 
 def compare_programs(yaml_data, remote_data):
-    """Compare YAML program with remote program"""
+    """Compare YAML program with remote program - only compare exercise name, reps, and RPE"""
     # Get workouts from both
     yaml_workouts = yaml_data.get('workouts', [])
     remote_workouts = remote_data.get('variations', [{}])[0].get('workouts', [])
     
-    # Normalize both for comparison
-    yaml_norm = {f"{w['week']}-{w['day']}": normalize_yaml_workout(w) for w in yaml_workouts}
-    remote_norm = {f"{w['week']+1}-{w['day']+1}": normalize_workout(w) for w in remote_workouts}
+    # Build lookup by week-day
+    yaml_by_key = {}
+    for w in yaml_workouts:
+        key = f"{w['week']}-{w['day']}"
+        exercises = tuple(sorted([extract_exercise_key(ex) for ex in w.get('exercises', [])]))
+        yaml_by_key[key] = exercises
+    
+    remote_by_key = {}
+    for w in remote_workouts:
+        key = f"{w['week']+1}-{w['day']+1}"  # API uses 0-indexed
+        exercises = tuple(sorted([extract_exercise_key(ex) for ex in w.get('exercises', [])]))
+        remote_by_key[key] = exercises
     
     # Check for differences
     differences = []
     
-    # Check workouts present in YAML but different/missing in remote
-    for key in yaml_norm:
-        if key not in remote_norm:
+    for key in yaml_by_key:
+        if key not in remote_by_key:
             differences.append(f"Workout {key} missing in remote")
-        elif yaml_norm[key] != remote_norm[key]:
+        elif yaml_by_key[key] != remote_by_key[key]:
             differences.append(f"Workout {key} differs")
     
-    # Check workouts present in remote but not in YAML
-    for key in remote_norm:
-        if key not in yaml_norm:
+    for key in remote_by_key:
+        if key not in yaml_by_key:
             differences.append(f"Workout {key} extra in remote")
     
     return differences
