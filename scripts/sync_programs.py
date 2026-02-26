@@ -19,8 +19,8 @@ except ImportError:
     sys.exit(1)
 
 BASE_URL = "https://newapi.boostcamp.app/api"
+FIREBASE_API_KEY = "AIzaSyAEJcoGF-5ueF3bvaujcJm2PUV7RHKQwTw"
 REFRESH_TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
-# Use programs/ directory as primary location
 PROGRAMS_DIR = Path("programs")
 
 HEADERS = {
@@ -54,6 +54,24 @@ VIDEO_URLS = {
 
 def generate_uuid():
     return str(uuid.uuid4())
+
+
+def get_access_token(refresh_token):
+    """Exchange Firebase refresh token for access token"""
+    url = f"https://securetoken.googleapis.com/v1/token?key={FIREBASE_API_KEY}"
+    payload = {
+        "grant_type": "refresh_token",
+        "refresh_token": refresh_token
+    }
+    
+    try:
+        resp = requests.post(url, data=payload, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+        return data.get('id_token')
+    except Exception as e:
+        print(f"❌ Error refreshing token: {e}")
+        return None
 
 
 def create_set(target_reps, rpe_min, rpe_max):
@@ -141,11 +159,10 @@ def yaml_to_boostcamp_format(yaml_data):
 
 
 class BoostcampSync:
-    def __init__(self):
-        self.token = REFRESH_TOKEN.strip() if REFRESH_TOKEN else None
+    def __init__(self, access_token):
+        self.access_token = access_token
         self.headers = HEADERS.copy()
-        if self.token:
-            self.headers["Authorization"] = f"FirebaseIdToken:{self.token}"
+        self.headers["Authorization"] = f"FirebaseIdToken:{self.access_token}"
     
     def find_program_by_name(self, name):
         """Search for a specific program by name using the working endpoint"""
@@ -249,7 +266,15 @@ def main():
     
     print(f"\n📊 Found {len(yaml_files)} program file(s)")
     
-    sync = BoostcampSync()
+    # Get fresh access token
+    print("🔑 Authenticating...")
+    access_token = get_access_token(REFRESH_TOKEN)
+    if not access_token:
+        print("❌ Failed to authenticate")
+        sys.exit(1)
+    print("✅ Authenticated")
+    
+    sync = BoostcampSync(access_token)
     
     results = []
     for yaml_file in yaml_files:
