@@ -1,7 +1,5 @@
 # Workout History Analysis
 
-*Generated: 2026-02-26 13:23*
-
 ## 📊 Summary
 
 | Metric | Value |
