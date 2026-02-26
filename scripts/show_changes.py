@@ -94,19 +94,23 @@ def load_local_programs():
 
 
 def extract_exercise_key(exercise):
-    """Extract comparable key from exercise - only name, target reps, and RPE"""
+    """Extract comparable key from exercise - only name, target reps, and RPE/intensity"""
     sets = []
     for s in exercise.get('sets', []):
         target = s.get('target')
-        # Handle RPE - can be list [min, max] or single value
-        rpe = s.get('rpe')
+
+        # Local YAML stores RPE in `rpe`, Boostcamp API uses `intensity`
+        rpe = s.get('rpe', s.get('intensity'))
+
         if isinstance(rpe, (list, tuple)):
             rpe = tuple(rpe)
         elif isinstance(rpe, (int, float)):
             rpe = (rpe, rpe)
         else:
-            rpe = (0, 0)
+            rpe = None
+
         sets.append((target, rpe))
+
     return (exercise.get('name', '').lower(), tuple(sorted(sets)))
 
 
