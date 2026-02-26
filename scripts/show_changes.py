@@ -2,6 +2,7 @@
 """
 Show what changes would be made to Boostcamp programs.
 Compares local YAML files with remote programs and displays differences.
+Filters to show ONLY user's custom programs.
 """
 
 import os
@@ -30,24 +31,52 @@ HEADERS = {
 
 
 def get_access_token():
-    """Get access token using refresh token"""
+    """Get access token"""
     if not TOKEN:
         print("⚠️ BOOSTCAMP_REFRESH_TOKEN not set, skipping remote comparison")
         return None
-    
-    # Try to get token from existing file or use refresh token directly
-    # For now, assume we have the token file created elsewhere
-    token_file = Path(__file__).parent / ".boostcamp_token"
-    if token_file.exists():
-        return token_file.read_text().strip()
-    
-    # If no token file, we'll need to use refresh token
-    # This is simplified - the actual implementation would refresh the token
     return TOKEN.strip()
 
 
-def get_remote_programs():
-    """Fetch list of programs from Boostcamp"""
+def get_current_user_id(token):
+    """Get current user ID from token validation"""
+    headers = HEADERS.copy()
+    headers["Authorization"] = f"FirebaseIdToken:{token}"
+    
+    # Try to get user info from the list endpoint response
+    # The user_id should be in the first program that belongs to the user
+    url = f"{BASE_URL}/www/user_programs/list"
+    params = {"_": int(time.time() * 1000)}
+    
+    payload = {
+        "sorter": {"order": "desc"},
+        "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
+        "pagination": {"current": 1, "pageSize": 200}
+    }
+    
+    try:
+        resp = requests.post(url, headers=headers, params=params, json=payload, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+        
+        # Find a program that looks like it's owned by the current user
+        # (has source: "user created" and no instructor_id or matches token)
+        rows = data.get('data', {}).get('rows', [])
+        
+        # Return the instructor_id from the first program we find
+        # that has "user created" source
+        for row in rows:
+            if row.get('source') == 'user created':
+                return row.get('instructor_id')
+        
+        return None
+    except Exception as e:
+        print(f"⚠️ Could not get user ID: {e}")
+        return None
+
+
+def get_remote_programs(user_id=None):
+    """Fetch list of programs from Boostcamp - FILTERED to user's programs only"""
     token = get_access_token()
     if not token:
         return {}
@@ -55,10 +84,15 @@ def get_remote_programs():
     headers = HEADERS.copy()
     headers["Authorization"] = f"FirebaseIdToken:{token}"
     
+    # Get user ID if not provided
+    if not user_id:
+        user_id = get_current_user_id(token)
+        if user_id:
+            print(f"   Found user ID: {user_id[:20]}...")
+    
     url = f"{BASE_URL}/www/user_programs/list"
     params = {"_": int(time.time() * 1000)}
     
-    # Fetch single page with 200 items (should be enough)
     payload = {
         "sorter": {"order": "desc"},
         "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
@@ -72,16 +106,32 @@ def get_remote_programs():
         
         programs = {}
         rows = data.get('data', {}).get('rows', [])
-        print(f"   DEBUG: API returned {len(rows)} programs")
         
         for row in rows:
-            if isinstance(row, dict) and 'title' in row:
+            if not isinstance(row, dict) or 'title' not in row:
+                continue
+            
+            # Filter to user's programs only
+            # Check if instructor_id matches OR if it's a user-created program
+            is_user_program = False
+            
+            if user_id and row.get('instructor_id') == user_id:
+                is_user_program = True
+            elif row.get('source') == 'user created' and not row.get('join_count'):
+                # Likely a personal program (no joins = not public)
+                is_user_program = True
+            elif row.get('count_people_copied') == 0 and row.get('source') == 'user created':
+                # Private user program
+                is_user_program = True
+            
+            if is_user_program:
                 programs[row['title'].lower()] = {
                     'id': row.get('id'),
                     'title': row.get('title'),
                     'weeks': len(row.get('weeks', [])),
                     'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
                 }
+        
         return programs
     except Exception as e:
         print(f"⚠️ Could not fetch remote programs: {e}")
@@ -127,7 +177,7 @@ def format_change(action, program_name, details=""):
 
 
 def main():
-    print("📊 Program Changes Preview")
+    print("📊 Program Changes Preview (User Programs Only)")
     print("=" * 60)
     print()
     
@@ -139,7 +189,8 @@ def main():
         print("ℹ️ No local program files found")
         return
     
-    print(f"   Found {len(remote_programs)} remote program(s)")
+    print(f"📋 Summary: {len(local_programs)} local, {len(remote_programs)} remote user programs")
+    print()
     
     # Analyze changes with case-insensitive matching
     changes = []
