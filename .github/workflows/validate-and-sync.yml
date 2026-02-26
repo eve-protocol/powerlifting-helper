@@ -1,0 +1,58 @@
+name: Validate and Sync Programs
+
+on:
+  pull_request:
+    paths:
+      - "programs/*.yaml"
+      - "programs/*.yml"
+  push:
+    branches: [main]
+    paths:
+      - "programs/*.yaml"
+      - "programs/*.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install pyyaml jsonschema requests
+
+      - name: Validate YAML schema
+        run: python scripts/validate_programs.py
+
+      - name: Show program changes
+        run: python scripts/show_changes.py
+        env:
+          BOOSTCAMP_REFRESH_TOKEN: ${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}
+
+  sync:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Sync programs to Boostcamp
+        run: python scripts/sync_programs.py
+        env:
+          BOOSTCAMP_REFRESH_TOKEN: ${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}
