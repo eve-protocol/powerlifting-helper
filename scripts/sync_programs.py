@@ -69,8 +69,8 @@ def get_access_token(refresh_token):
         resp.raise_for_status()
         data = resp.json()
         return data.get('id_token')
-    except Exception as e:
-        print(f"❌ Error refreshing token: {e}")
+    except Exception:
+        # If refresh fails, the token might already be an access token
         return None
 
 
@@ -266,13 +266,15 @@ def main():
     
     print(f"\n📊 Found {len(yaml_files)} program file(s)")
     
-    # Get fresh access token
+    # Get fresh access token, or use directly if already an access token
     print("🔑 Authenticating...")
     access_token = get_access_token(REFRESH_TOKEN)
     if not access_token:
-        print("❌ Failed to authenticate")
-        sys.exit(1)
-    print("✅ Authenticated")
+        # Use the token directly - it might already be an access token
+        access_token = REFRESH_TOKEN
+        print("Using token directly as access token")
+    else:
+        print("✅ Token refreshed successfully")
     
     sync = BoostcampSync(access_token)
     
