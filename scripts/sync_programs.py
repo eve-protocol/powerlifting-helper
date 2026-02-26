@@ -179,6 +179,9 @@ class BoostcampSync:
             
             rows = data.get('data', {}).get('rows', [])
             for row in rows:
+                # Skip deleted programs
+                if row.get('status') == 'deleted':
+                    continue
                 if row['title'].lower() == name.lower():
                     return row.get('id')
             return None
