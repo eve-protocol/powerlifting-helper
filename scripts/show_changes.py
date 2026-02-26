@@ -56,32 +56,49 @@ def get_remote_programs():
     headers["Authorization"] = f"FirebaseIdToken:{token}"
     
     url = f"{BASE_URL}/www/user_programs/list"
-    params = {"_": int(time.time() * 1000)}
     
-    payload = {
-        "sorter": {"order": "desc"},
-        "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-        "pagination": {"current": 1, "pageSize": 100}
-    }
+    # Fetch all pages
+    all_programs = {}
+    page = 1
+    page_size = 100
     
-    try:
-        resp = requests.post(url, headers=headers, params=params, json=payload, timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
+    while True:
+        params = {"_": int(time.time() * 1000)}
+        payload = {
+            "sorter": {"order": "desc"},
+            "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
+            "pagination": {"current": page, "pageSize": page_size}
+        }
         
-        programs = {}
-        rows = data.get('data', {}).get('rows', [])
-        for row in rows:
-            if isinstance(row, dict) and 'title' in row:
-                programs[row['title']] = {
-                    'id': row.get('id'),
-                    'weeks': len(row.get('weeks', [])),
-                    'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
-                }
-        return programs
-    except Exception as e:
-        print(f"⚠️ Could not fetch remote programs: {e}")
-        return {}
+        try:
+            resp = requests.post(url, headers=headers, params=params, json=payload, timeout=30)
+            resp.raise_for_status()
+            data = resp.json()
+            
+            rows = data.get('data', {}).get('rows', [])
+            if not rows:
+                break
+            
+            for row in rows:
+                if isinstance(row, dict) and 'title' in row:
+                    # Use lowercase for case-insensitive matching
+                    all_programs[row['title'].lower()] = {
+                        'id': row.get('id'),
+                        'title': row.get('title'),
+                        'weeks': len(row.get('weeks', [])),
+                        'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
+                    }
+            
+            # Check if we've fetched all programs
+            if len(rows) < page_size:
+                break
+            page += 1
+            
+        except Exception as e:
+            print(f"⚠️ Could not fetch remote programs: {e}")
+            return {}
+    
+    return all_programs
 
 
 def load_local_programs():
@@ -133,12 +150,15 @@ def main():
         print("ℹ️ No local program files found")
         return
     
-    # Analyze changes
+    print(f"   Found {len(remote_programs)} remote program(s)")
+    
+    # Analyze changes with case-insensitive matching
     changes = []
     
     for name, local_data in local_programs.items():
-        if name in remote_programs:
-            remote_data = remote_programs[name]
+        name_lower = name.lower()
+        if name_lower in remote_programs:
+            remote_data = remote_programs[name_lower]
             if local_data['weeks'] != remote_data['weeks'] or \
                local_data['workouts'] != remote_data['workouts']:
                 changes.append(('update', name, 
