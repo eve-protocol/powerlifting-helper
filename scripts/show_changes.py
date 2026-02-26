@@ -27,52 +27,35 @@ HEADERS = {
 }
 
 
-def find_program_by_name(name, token):
-    """Search for a specific program by name"""
+def get_all_programs(token):
+    """Fetch all user programs from the working endpoint"""
     headers = HEADERS.copy()
     headers["Authorization"] = f"FirebaseIdToken:{token.strip()}"
     
-    url = f"{BASE_URL}/www/user_programs/list"
-    payload = {
-        "sorter": {"order": "desc"},
-        "filters": {"search": name, "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-        "pagination": {"current": 1, "pageSize": 20}
-    }
+    url = f"{BASE_URL}/www/programs/user_programs/list"
+    payload = {"pagination": {"current": 1, "pageSize": 200}}
     
     try:
-        resp = requests.post(url, headers=headers, json=payload, timeout=10)
+        resp = requests.post(url, headers=headers, params={"_": int(time.time()*1000)}, 
+                           json=payload, timeout=30)
         resp.raise_for_status()
         data = resp.json()
         
         rows = data.get('data', {}).get('rows', [])
+        # Build lookup by lowercase name
+        programs = {}
         for row in rows:
-            # Match by exact title (case-insensitive) - instructor_id may vary
-            if row['title'].lower() == name.lower():
-                return {
-                    'id': row.get('id'),
-                    'title': row.get('title'),
-                    'weeks': len(row.get('weeks', [])),
-                    'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
-                }
-        return None
+            name = row.get('title', '')
+            programs[name.lower()] = {
+                'id': row.get('id'),
+                'title': row.get('title'),
+                'weeks': len(row.get('weeks', [])),
+                'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
+            }
+        return programs
     except Exception as e:
-        print(f"⚠️ Error searching for {name}: {e}")
-        return None
-
-
-def get_remote_programs(program_names):
-    """Find all programs by searching individually"""
-    if not TOKEN:
-        print("⚠️ BOOSTCAMP_REFRESH_TOKEN not set")
+        print(f"⚠️ Error fetching programs: {e}")
         return {}
-    
-    programs = {}
-    for name in program_names:
-        result = find_program_by_name(name, TOKEN)
-        if result:
-            programs[name.lower()] = result
-    
-    return programs
 
 
 def load_local_programs():
@@ -109,9 +92,13 @@ def main():
         print("ℹ️ No local program files found")
         return
     
-    # Search for each program individually
-    print("🔍 Searching for programs on Boostcamp...")
-    remote_programs = get_remote_programs(list(local_programs.keys()))
+    if not TOKEN:
+        print("⚠️ BOOSTCAMP_REFRESH_TOKEN not set")
+        return
+    
+    # Fetch all remote programs at once
+    print("🔍 Fetching programs from Boostcamp...")
+    remote_programs = get_all_programs(TOKEN)
     
     print(f"📋 Found {len(local_programs)} local, {len(remote_programs)} remote user programs")
     print()
