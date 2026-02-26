@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Show what changes would be made to Boostcamp programs.
-Uses search-by-name approach to find specific programs.
+Compares actual workout content (exercises, sets, RPE values).
 """
 
 import os
@@ -24,19 +24,16 @@ HEADERS = {
 
 def get_access_token():
     """Get access token from environment or file"""
-    # Try environment variable first (CI)
     env_token = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
     if env_token:
         refresh_token = env_token.strip()
     else:
-        # Try local file
         token_file = Path(__file__).parent / '.boostcamp_refresh_token'
         if token_file.exists():
             refresh_token = token_file.read_text().strip()
         else:
             return None
     
-    # Exchange for access token
     url = f"https://securetoken.googleapis.com/v1/token?key={FIREBASE_API_KEY}"
     payload = {"grant_type": "refresh_token", "refresh_token": refresh_token}
     
@@ -49,8 +46,8 @@ def get_access_token():
         return None
 
 
-def fetch_user_programs(access_token):
-    """Fetch all user programs"""
+def fetch_program_list(access_token):
+    """Fetch list of user programs"""
     headers = HEADERS.copy()
     headers["Authorization"] = f"FirebaseIdToken:{access_token}"
     
@@ -62,8 +59,23 @@ def fetch_user_programs(access_token):
     resp.raise_for_status()
     return resp.json().get('data', {}).get('rows', [])
 
+
+def fetch_program_detail(access_token, program_id):
+    """Fetch full program details"""
+    headers = HEADERS.copy()
+    headers["Authorization"] = f"FirebaseIdToken:{access_token}"
+    
+    url = f"{BASE_URL}/www/programs/user_program/share_detail"
+    payload = {"program_id": program_id}
+    
+    resp = requests.post(url, headers=headers, params={"_": int(time.time()*1000)},
+                       json=payload, timeout=30)
+    resp.raise_for_status()
+    return resp.json().get('data', {})
+
+
 def load_local_programs():
-    """Load all local YAML program files"""
+    """Load all local YAML program files with full content"""
     programs_dir = Path("programs")
     programs = {}
     
@@ -74,15 +86,67 @@ def load_local_programs():
         try:
             with open(yaml_file, 'r') as f:
                 data = yaml.safe_load(f)
-                programs[data['name']] = {
-                    'file': yaml_file.name,
-                    'weeks': data.get('weeks', 0),
-                    'workouts': len(data.get('workouts', []))
-                }
+                programs[data['name']] = data
         except Exception as e:
             print(f"⚠️ Error loading {yaml_file}: {e}")
     
     return programs
+
+
+def extract_exercise_key(exercise):
+    """Extract comparable key from exercise - only name, target reps, and RPE/intensity"""
+    sets = []
+    for s in exercise.get('sets', []):
+        target = s.get('target')
+
+        # Local YAML stores RPE in `rpe`, Boostcamp API uses `intensity`
+        rpe = s.get('rpe', s.get('intensity'))
+
+        if isinstance(rpe, (list, tuple)):
+            rpe = tuple(rpe)
+        elif isinstance(rpe, (int, float)):
+            rpe = (rpe, rpe)
+        else:
+            rpe = None
+
+        sets.append((target, rpe))
+
+    return (exercise.get('name', '').lower(), tuple(sorted(sets)))
+
+
+def compare_programs(yaml_data, remote_data):
+    """Compare YAML program with remote program - only compare exercise name, reps, and RPE"""
+    # Get workouts from both
+    yaml_workouts = yaml_data.get('workouts', [])
+    remote_workouts = remote_data.get('variations', [{}])[0].get('workouts', [])
+    
+    # Build lookup by week-day
+    yaml_by_key = {}
+    for w in yaml_workouts:
+        key = f"{w['week']}-{w['day']}"
+        exercises = tuple(sorted([extract_exercise_key(ex) for ex in w.get('exercises', [])]))
+        yaml_by_key[key] = exercises
+    
+    remote_by_key = {}
+    for w in remote_workouts:
+        key = f"{w['week']+1}-{w['day']+1}"  # API uses 0-indexed
+        exercises = tuple(sorted([extract_exercise_key(ex) for ex in w.get('exercises', [])]))
+        remote_by_key[key] = exercises
+    
+    # Check for differences
+    differences = []
+    
+    for key in yaml_by_key:
+        if key not in remote_by_key:
+            differences.append(f"Workout {key} missing in remote")
+        elif yaml_by_key[key] != remote_by_key[key]:
+            differences.append(f"Workout {key} differs")
+    
+    for key in remote_by_key:
+        if key not in yaml_by_key:
+            differences.append(f"Workout {key} extra in remote")
+    
+    return differences
 
 
 def main():
@@ -96,7 +160,6 @@ def main():
         print("ℹ️ No local program files found")
         return
     
-    # Get access token (from env or file)
     print("🔑 Authenticating...")
     access_token = get_access_token()
     if not access_token:
@@ -104,22 +167,20 @@ def main():
         return
     print("✅ Authenticated")
     
-    # Fetch all remote programs
     print("🔍 Fetching programs from Boostcamp...")
     try:
-        all_programs = fetch_user_programs(access_token)
-        # Build lookup by lowercase name, filtering out deleted programs
+        remote_list = fetch_program_list(access_token)
+        
+        # Build lookup of non-deleted programs
         remote_programs = {}
-        for prog in all_programs:
-            # Skip deleted/archived programs
+        for prog in remote_list:
             if prog.get('status') == 'deleted':
                 continue
             name = prog.get('title', '')
             remote_programs[name.lower()] = {
                 'id': prog.get('id'),
                 'title': prog.get('title'),
-                'weeks': len(prog.get('weeks', [])),
-                'workouts': len(prog.get('variations', [{}])[0].get('workouts', []))
+                'data': None  # Will fetch details if needed
             }
     except Exception as e:
         print(f"⚠️ Error fetching programs: {e}")
@@ -133,34 +194,47 @@ def main():
     updates = []
     unchanged = []
     
-    for name, local_data in local_programs.items():
+    for name, yaml_data in local_programs.items():
         name_lower = name.lower()
         if name_lower in remote_programs:
-            remote_data = remote_programs[name_lower]
-            if local_data['weeks'] != remote_data['weeks']:
-                updates.append((name, f"{local_data['weeks']} weeks (was {remote_data['weeks']})"))
-            else:
-                unchanged.append((name, f"{local_data['weeks']} weeks"))
+            remote_prog = remote_programs[name_lower]
+            
+            # Fetch full remote details for comparison
+            try:
+                remote_detail = fetch_program_detail(access_token, remote_prog['id'])
+                differences = compare_programs(yaml_data, remote_detail)
+                
+                if differences:
+                    updates.append((name, differences))
+                else:
+                    unchanged.append(name)
+            except Exception as e:
+                print(f"⚠️ Error comparing {name}: {e}")
+                updates.append((name, ["Could not compare"]))
         else:
-            creates.append((name, f"{local_data['weeks']} weeks"))
+            creates.append(name)
     
     # Display results
     if creates:
         print("🆕 NEW PROGRAMS:")
-        for name, details in creates:
-            print(f"   🆕 {name} ({details})")
+        for name in creates:
+            print(f"   🆕 {name}")
         print()
     
     if updates:
         print("🔄 UPDATES:")
-        for name, details in updates:
-            print(f"   🔄 {name} ({details})")
+        for name, diffs in updates:
+            print(f"   🔄 {name}")
+            for diff in diffs[:5]:  # Show max 5 differences
+                print(f"      - {diff}")
+            if len(diffs) > 5:
+                print(f"      ... and {len(diffs) - 5} more")
         print()
     
     if unchanged:
         print("✅ UNCHANGED:")
-        for name, details in unchanged:
-            print(f"   ✅ {name} ({details})")
+        for name in unchanged:
+            print(f"   ✅ {name}")
         print()
     
     total = len(creates) + len(updates) + len(unchanged)
