@@ -108,9 +108,12 @@ def main():
     print("🔍 Fetching programs from Boostcamp...")
     try:
         all_programs = fetch_user_programs(access_token)
-        # Build lookup by lowercase name
+        # Build lookup by lowercase name, filtering out deleted programs
         remote_programs = {}
         for prog in all_programs:
+            # Skip deleted/archived programs
+            if prog.get('status') == 'deleted':
+                continue
             name = prog.get('title', '')
             remote_programs[name.lower()] = {
                 'id': prog.get('id'),
