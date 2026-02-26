@@ -19,9 +19,6 @@ except ImportError:
 BASE_URL = "https://newapi.boostcamp.app/api"
 TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
 
-# User's instructor ID
-USER_INSTRUCTOR_ID = "XQKPa6AUJSVdgnjqMtAQCMwL7CZ1"
-
 HEADERS = {
     "Content-Type": "application/json; charset=UTF-8",
     "Accept": "application/json",
@@ -49,9 +46,8 @@ def find_program_by_name(name, token):
         
         rows = data.get('data', {}).get('rows', [])
         for row in rows:
-            # Match by instructor_id AND exact title (case-insensitive)
-            if (row.get('instructor_id') == USER_INSTRUCTOR_ID and 
-                row['title'].lower() == name.lower()):
+            # Match by exact title (case-insensitive) - instructor_id may vary
+            if row['title'].lower() == name.lower():
                 return {
                     'id': row.get('id'),
                     'title': row.get('title'),
@@ -81,13 +77,14 @@ def get_remote_programs(program_names):
 
 def load_local_programs():
     """Load all local YAML program files"""
-    programs_dir = Path("programs")
-    programs = {}
-    
-    if not programs_dir.exists():
-        return programs
-    
-    for yaml_file in programs_dir.glob("*.yaml"):
+    # Check both programs/ and values/ directories
+    for programs_dir in [Path("programs"), Path("values")]:
+        programs = {}
+        
+        if not programs_dir.exists():
+            continue
+        
+        for yaml_file in programs_dir.glob("*.yaml"):
         try:
             with open(yaml_file, 'r') as f:
                 data = yaml.safe_load(f)
