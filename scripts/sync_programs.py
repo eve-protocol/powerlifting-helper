@@ -22,6 +22,9 @@ BASE_URL = "https://newapi.boostcamp.app/api"
 REFRESH_TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
 PROGRAMS_DIR = Path("programs")
 
+# User's instructor ID (from HAR analysis)
+USER_INSTRUCTOR_ID = "XQKPa6AUJSVdgnjqMtAQCMwL7CZ1"
+
 HEADERS = {
     "Content-Type": "application/json; charset=UTF-8",
     "Accept": "application/json",
