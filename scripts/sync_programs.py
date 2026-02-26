@@ -20,10 +20,8 @@ except ImportError:
 
 BASE_URL = "https://newapi.boostcamp.app/api"
 REFRESH_TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
-PROGRAMS_DIR = Path("programs")
-
-# User's instructor ID
-USER_INSTRUCTOR_ID = "XQKPa6AUJSVdgnjqMtAQCMwL7CZ1"
+# Check both programs/ and values/ directories
+PROGRAMS_DIR = Path("programs") if Path("programs").exists() else Path("values")
 
 HEADERS = {
     "Content-Type": "application/json; charset=UTF-8",
@@ -159,8 +157,8 @@ class BoostcampSync:
             
             rows = data.get('data', {}).get('rows', [])
             for row in rows:
-                if (row.get('instructor_id') == USER_INSTRUCTOR_ID and 
-                    row['title'].lower() == name.lower()):
+                # Match by exact title (case-insensitive) - instructor_id may vary
+                if row['title'].lower() == name.lower():
                     return row.get('id')
             return None
         except Exception as e:
@@ -168,7 +166,7 @@ class BoostcampSync:
             return None
     
     def create_program(self, program_data):
-        url = f"{BASE_URL}/www/programs/user_program/create"
+        url = f"{BASE_URL}/www/programs/user_program/new_create"
         params = {"_": int(time.time() * 1000)}
         
         try:
