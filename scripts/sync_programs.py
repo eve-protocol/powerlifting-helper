@@ -2,12 +2,12 @@
 """
 Sync YAML programs to Boostcamp.
 Creates new programs or updates existing ones based on name matching.
+Uses search-by-name approach for reliability.
 """
 
 import os
 import sys
 import yaml
-import json
 import uuid
 import time
 from pathlib import Path
@@ -22,6 +22,9 @@ BASE_URL = "https://newapi.boostcamp.app/api"
 REFRESH_TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
 PROGRAMS_DIR = Path("programs")
 
+# User's instructor ID
+USER_INSTRUCTOR_ID = "XQKPa6AUJSVdgnjqMtAQCMwL7CZ1"
+
 HEADERS = {
     "Content-Type": "application/json; charset=UTF-8",
     "Accept": "application/json",
@@ -29,7 +32,6 @@ HEADERS = {
     "Referer": "https://www.boostcamp.app/"
 }
 
-# Video URLs for common exercises
 VIDEO_URLS = {
     "Squat (Low Bar)": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
     "Squat (Tempo)": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
@@ -73,8 +75,8 @@ def create_exercise(name, sets, video=""):
     return {
         "id": generate_uuid(),
         "name": name,
-        "type": "Barbell",  # Default, will be inferred if possible
-        "muscles": [],  # Not required for API
+        "type": "Barbell",
+        "muscles": [],
         "sets": sets,
         "video": video,
         "alternatives": []
@@ -82,7 +84,6 @@ def create_exercise(name, sets, video=""):
 
 
 def yaml_to_boostcamp_format(yaml_data):
-    """Convert YAML to Boostcamp API format"""
     workouts = []
     
     for workout_data in yaml_data.get('workouts', []):
@@ -137,69 +138,42 @@ def yaml_to_boostcamp_format(yaml_data):
 
 class BoostcampSync:
     def __init__(self):
-        self.token = self._get_token()
+        self.token = REFRESH_TOKEN.strip() if REFRESH_TOKEN else None
         self.headers = HEADERS.copy()
         if self.token:
             self.headers["Authorization"] = f"FirebaseIdToken:{self.token}"
     
-    def _get_token(self):
-        """Get access token"""
-        if not REFRESH_TOKEN:
-            print("❌ BOOSTCAMP_REFRESH_TOKEN not set")
-            sys.exit(1)
-        
-        # For simplicity, using refresh token directly
-        # In production, you'd want to handle token refresh properly
-        return REFRESH_TOKEN.strip()
-    
-    def list_programs(self):
-        """List all USER programs only (not public)"""
+    def find_program_by_name(self, name):
+        """Search for a specific program by name"""
         url = f"{BASE_URL}/www/user_programs/list"
-        params = {"_": int(time.time() * 1000)}
-        
         payload = {
             "sorter": {"order": "desc"},
-            "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-            "pagination": {"current": 1, "pageSize": 200}
+            "filters": {"search": name, "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
+            "pagination": {"current": 1, "pageSize": 20}
         }
         
         try:
-            resp = requests.post(url, headers=self.headers, params=params, json=payload, timeout=30)
+            resp = requests.post(url, headers=self.headers, json=payload, timeout=10)
             resp.raise_for_status()
             data = resp.json()
             
-            programs = {}
             rows = data.get('data', {}).get('rows', [])
-            
             for row in rows:
-                if not isinstance(row, dict) or 'title' not in row:
-                    continue
-                
-                # Filter to user's programs only
-                is_user_program = False
-                
-                # Check if it's a personal program (not public)
-                if row.get('source') == 'user created':
-                    # Additional checks to confirm it's the user's own program
-                    # Not a public program with many joins
-                    if row.get('join_count', 0) < 100:  # Personal programs have low join count
-                        is_user_program = True
-                
-                if is_user_program:
-                    programs[row['title'].lower()] = row.get('id')
-            
-            return programs
+                if (row.get('instructor_id') == USER_INSTRUCTOR_ID and 
+                    row['title'].lower() == name.lower()):
+                    return row.get('id')
+            return None
         except Exception as e:
-            print(f"❌ Error listing programs: {e}")
-            return {}
-
+            print(f"❌ Error searching for {name}: {e}")
+            return None
+    
     def create_program(self, program_data):
-        """Create a new program"""
         url = f"{BASE_URL}/www/programs/user_program/create"
         params = {"_": int(time.time() * 1000)}
         
         try:
-            resp = requests.post(url, headers=self.headers, params=params, json=program_data, timeout=30)
+            resp = requests.post(url, headers=self.headers, params=params, 
+                               json=program_data, timeout=30)
             resp.raise_for_status()
             return resp.json()
         except Exception as e:
@@ -207,22 +181,21 @@ class BoostcampSync:
             return None
     
     def update_program(self, program_id, program_data):
-        """Update an existing program"""
         url = f"{BASE_URL}/www/programs/user_program/update"
         params = {"_": int(time.time() * 1000)}
         
         program_data['id'] = program_id
         
         try:
-            resp = requests.post(url, headers=self.headers, params=params, json=program_data, timeout=30)
+            resp = requests.post(url, headers=self.headers, params=params, 
+                               json=program_data, timeout=30)
             resp.raise_for_status()
             return resp.json()
         except Exception as e:
             print(f"❌ Error updating program: {e}")
             return None
     
-    def sync_program(self, yaml_file, existing_programs):
-        """Sync a single YAML file"""
+    def sync_program(self, yaml_file):
         try:
             with open(yaml_file, 'r') as f:
                 yaml_data = yaml.safe_load(f)
@@ -234,22 +207,22 @@ class BoostcampSync:
         print(f"\n📄 {program_name}")
         
         # Build program data
-        program_data = yaml_to_boostcamp_format(yaml_data)
+        program = yaml_to_boostcamp_format(yaml_data)
         
-        # Check if program exists (case-insensitive)
-        name_lower = program_name.lower()
-        if name_lower in existing_programs:
-            program_id = existing_programs[name_lower]
-            print(f"   🔄 Updating existing program (ID: {program_id[:20]}...)")
-            result = self.update_program(program_id, program_data)
+        # Search for existing program
+        existing_id = self.find_program_by_name(program_name)
+        
+        if existing_id:
+            print(f"   🔄 Updating existing program")
+            result = self.update_program(existing_id, program)
             if result:
                 print(f"   ✅ Updated successfully")
                 return True
         else:
             print(f"   🆕 Creating new program")
-            result = self.create_program(program_data)
+            result = self.create_program(program)
             if result:
-                print(f"   ✅ Created successfully (ID: {result.get('id', 'N/A')[:20]}...)")
+                print(f"   ✅ Created successfully")
                 return True
         
         return False
@@ -275,21 +248,13 @@ def main():
     
     print(f"\n📊 Found {len(yaml_files)} program file(s)")
     
-    # Initialize sync client
     sync = BoostcampSync()
     
-    # Get existing programs
-    print("\n📥 Fetching existing programs from Boostcamp...")
-    existing_programs = sync.list_programs()
-    print(f"   Found {len(existing_programs)} existing program(s)")
-    
-    # Sync each program
     results = []
     for yaml_file in yaml_files:
-        success = sync.sync_program(yaml_file, existing_programs)
+        success = sync.sync_program(yaml_file)
         results.append((yaml_file.name, success))
     
-    # Summary
     print("\n" + "=" * 60)
     print("📋 SYNC SUMMARY")
     print("=" * 60)

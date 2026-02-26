@@ -1,17 +1,14 @@
 #!/usr/bin/env python3
 """
 Show what changes would be made to Boostcamp programs.
-Compares local YAML files with remote programs and displays differences.
-Filters to show ONLY user's custom programs.
+Uses search-by-name approach to find specific programs.
 """
 
 import os
 import sys
 import yaml
-import json
 import time
 from pathlib import Path
-from difflib import unified_diff
 
 try:
     import requests
@@ -22,6 +19,9 @@ except ImportError:
 BASE_URL = "https://newapi.boostcamp.app/api"
 TOKEN = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
 
+# User's instructor ID
+USER_INSTRUCTOR_ID = "XQKPa6AUJSVdgnjqMtAQCMwL7CZ1"
+
 HEADERS = {
     "Content-Type": "application/json; charset=UTF-8",
     "Accept": "application/json",
@@ -30,114 +30,53 @@ HEADERS = {
 }
 
 
-def get_access_token():
-    """Get access token"""
-    if not TOKEN:
-        print("⚠️ BOOSTCAMP_REFRESH_TOKEN not set, skipping remote comparison")
-        return None
-    return TOKEN.strip()
-
-
-def get_current_user_id(token):
-    """Get current user ID from token validation"""
+def find_program_by_name(name, token):
+    """Search for a specific program by name"""
     headers = HEADERS.copy()
-    headers["Authorization"] = f"FirebaseIdToken:{token}"
+    headers["Authorization"] = f"FirebaseIdToken:{token.strip()}"
     
-    # Try to get user info from the list endpoint response
-    # The user_id should be in the first program that belongs to the user
     url = f"{BASE_URL}/www/user_programs/list"
-    params = {"_": int(time.time() * 1000)}
-    
     payload = {
         "sorter": {"order": "desc"},
-        "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-        "pagination": {"current": 1, "pageSize": 200}
+        "filters": {"search": name, "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
+        "pagination": {"current": 1, "pageSize": 20}
     }
     
     try:
-        resp = requests.post(url, headers=headers, params=params, json=payload, timeout=30)
+        resp = requests.post(url, headers=headers, json=payload, timeout=10)
         resp.raise_for_status()
         data = resp.json()
         
-        # Find a program that looks like it's owned by the current user
-        # (has source: "user created" and no instructor_id or matches token)
         rows = data.get('data', {}).get('rows', [])
-        
-        # Return the instructor_id from the first program we find
-        # that has "user created" source
         for row in rows:
-            if row.get('source') == 'user created':
-                return row.get('instructor_id')
-        
-        return None
-    except Exception as e:
-        print(f"⚠️ Could not get user ID: {e}")
-        return None
-
-
-def get_remote_programs(user_id=None):
-    """Fetch list of programs from Boostcamp - FILTERED to user's programs only"""
-    token = get_access_token()
-    if not token:
-        return {}
-    
-    headers = HEADERS.copy()
-    headers["Authorization"] = f"FirebaseIdToken:{token}"
-    
-    # Get user ID if not provided
-    if not user_id:
-        user_id = get_current_user_id(token)
-        if user_id:
-            print(f"   Found user ID: {user_id[:20]}...")
-    
-    url = f"{BASE_URL}/www/user_programs/list"
-    params = {"_": int(time.time() * 1000)}
-    
-    payload = {
-        "sorter": {"order": "desc"},
-        "filters": {"search": "", "equipments": [], "difficulties": [], "days_per_week": [], "goals": []},
-        "pagination": {"current": 1, "pageSize": 200}
-    }
-    
-    try:
-        resp = requests.post(url, headers=headers, params=params, json=payload, timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
-        
-        programs = {}
-        rows = data.get('data', {}).get('rows', [])
-        
-        for row in rows:
-            if not isinstance(row, dict) or 'title' not in row:
-                continue
-            
-            # Filter to user's programs only
-            # Check if instructor_id matches OR if it's a user-created program
-            is_user_program = False
-            
-            if user_id and row.get('instructor_id') == user_id:
-                is_user_program = True
-            elif row.get('source') == 'user created' and not row.get('join_count'):
-                # Likely a personal program (no joins = not public)
-                is_user_program = True
-            elif row.get('count_people_copied') == 0 and row.get('source') == 'user created':
-                # Private user program
-                is_user_program = True
-            
-            if is_user_program:
-                programs[row['title'].lower()] = {
+            # Match by instructor_id AND exact title (case-insensitive)
+            if (row.get('instructor_id') == USER_INSTRUCTOR_ID and 
+                row['title'].lower() == name.lower()):
+                return {
                     'id': row.get('id'),
                     'title': row.get('title'),
                     'weeks': len(row.get('weeks', [])),
                     'workouts': len(row.get('variations', [{}])[0].get('workouts', []))
                 }
-        
-        return programs
+        return None
     except Exception as e:
-        print(f"⚠️ Could not fetch remote programs: {e}")
-        import traceback
-        traceback.print_exc()
+        print(f"⚠️ Error searching for {name}: {e}")
+        return None
+
+
+def get_remote_programs(program_names):
+    """Find all programs by searching individually"""
+    if not TOKEN:
+        print("⚠️ BOOSTCAMP_REFRESH_TOKEN not set")
         return {}
+    
+    programs = {}
+    for name in program_names:
+        result = find_program_by_name(name, TOKEN)
+        if result:
+            programs[name.lower()] = result
+    
+    return programs
 
 
 def load_local_programs():
@@ -163,87 +102,61 @@ def load_local_programs():
     return programs
 
 
-def format_change(action, program_name, details=""):
-    """Format a change for display"""
-    icons = {
-        'create': '🆕',
-        'update': '🔄',
-        'delete': '🗑️',
-        'unchanged': '✅'
-    }
-    print(f"{icons.get(action, '❓')} {action.upper()}: {program_name}")
-    if details:
-        print(f"   {details}")
-
-
 def main():
-    print("📊 Program Changes Preview (User Programs Only)")
+    print("📊 Program Changes Preview")
     print("=" * 60)
     print()
     
-    # Load local and remote programs
     local_programs = load_local_programs()
-    remote_programs = get_remote_programs()
     
     if not local_programs:
         print("ℹ️ No local program files found")
         return
     
-    print(f"📋 Summary: {len(local_programs)} local, {len(remote_programs)} remote user programs")
+    # Search for each program individually
+    print("🔍 Searching for programs on Boostcamp...")
+    remote_programs = get_remote_programs(list(local_programs.keys()))
+    
+    print(f"📋 Found {len(local_programs)} local, {len(remote_programs)} remote user programs")
     print()
     
-    # Analyze changes with case-insensitive matching
-    changes = []
+    # Check each local program
+    creates = []
+    updates = []
+    unchanged = []
     
     for name, local_data in local_programs.items():
         name_lower = name.lower()
         if name_lower in remote_programs:
             remote_data = remote_programs[name_lower]
-            if local_data['weeks'] != remote_data['weeks'] or \
-               local_data['workouts'] != remote_data['workouts']:
-                changes.append(('update', name, 
-                    f"{local_data['weeks']} weeks, {local_data['workouts']} workouts (was {remote_data['weeks']} weeks, {remote_data['workouts']} workouts)"))
+            if local_data['weeks'] != remote_data['weeks']:
+                updates.append((name, f"{local_data['weeks']} weeks (was {remote_data['weeks']})"))
             else:
-                changes.append(('unchanged', name, 
-                    f"{local_data['weeks']} weeks, {local_data['workouts']} workouts"))
+                unchanged.append((name, f"{local_data['weeks']} weeks"))
         else:
-            changes.append(('create', name, 
-                f"{local_data['weeks']} weeks, {local_data['workouts']} workouts"))
+            creates.append((name, f"{local_data['weeks']} weeks"))
     
-    # Display changes
-    if not changes:
-        print("ℹ️ No programs to compare")
-        return
-    
-    # Group by action
-    creates = [c for c in changes if c[0] == 'create']
-    updates = [c for c in changes if c[0] == 'update']
-    unchanged = [c for c in changes if c[0] == 'unchanged']
-    
+    # Display results
     if creates:
         print("🆕 NEW PROGRAMS:")
-        for action, name, details in creates:
-            format_change(action, name, details)
+        for name, details in creates:
+            print(f"   🆕 {name} ({details})")
         print()
     
     if updates:
         print("🔄 UPDATES:")
-        for action, name, details in updates:
-            format_change(action, name, details)
+        for name, details in updates:
+            print(f"   🔄 {name} ({details})")
         print()
     
     if unchanged:
         print("✅ UNCHANGED:")
-        for action, name, details in unchanged:
-            format_change(action, name, details)
+        for name, details in unchanged:
+            print(f"   ✅ {name} ({details})")
         print()
     
-    # Summary
-    total = len(changes)
+    total = len(creates) + len(updates) + len(unchanged)
     print(f"📋 Summary: {len(creates)} new, {len(updates)} updates, {len(unchanged)} unchanged")
-    
-    if creates or updates:
-        print("\n⚠️  These changes will be applied when the PR is merged to main.")
 
 
 if __name__ == "__main__":
