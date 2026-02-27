@@ -1,22 +1,16 @@
-timezone: "Asia/Tokyo"
-
+timezone: Asia/Tokyo
 days_per_week: 5
 training_days:
-  - monday
-  - tuesday
-  - wednesday
-  - thursday
-  - saturday
-
+- monday
+- tuesday
+- wednesday
+- thursday
+- saturday
 block_sequence:
-  - volume_block_v4
-  - strength_block_v4
-  - peaking_block_v5
-
+- volume_block_v4
+- strength_block_v4
+- peaking_block_v5
 current_block: volume_block_v4
-completed_workouts_in_current_block: 4
-last_completed_date: "2026-02-27"
-
-# Explicit instruction mode:
-# state only moves when update_training_state.py is called with --mark-done
+completed_workouts_in_current_block: 5
+last_completed_date: '2026-02-26'
 progression_mode: explicit
