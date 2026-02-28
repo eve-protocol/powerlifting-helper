@@ -119,9 +119,10 @@ def yaml_to_boostcamp_format(yaml_data, existing_id=None, existing_slug=None):
             "exercises": exercises
         })
     
-    # Build weeks structure - need empty days array for each week
+    # Build weeks structure - need placeholder day entries for each training day
     num_weeks = yaml_data.get('weeks', max_week)
-    weeks = [{"days": [{}]} for _ in range(num_weeks)]
+    days_per_week = yaml_data.get('days_per_week', 5)
+    weeks = [{"days": [{} for _ in range(days_per_week)]} for _ in range(num_weeks)]
     
     # Generate slug if not provided
     slug = existing_slug
