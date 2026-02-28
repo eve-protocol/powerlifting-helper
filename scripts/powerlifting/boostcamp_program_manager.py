@@ -43,6 +43,11 @@ VIDEO_URLS = {
     "Overhead Tricep Extension (Cable)": "https://s3.boostcamp.app/master-exercise/2918235157.mp4",
     "Lying Leg Curl": "https://s3.boostcamp.app/master-exercise/466811.mp4",
     "Bicep Curl (EZ Bar)": "https://s3.boostcamp.app/master-exercise/2918237457.mp4",
+    "Spoto Press": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+    "Tempo Squat (Barbell)": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+    "Standing T Bar Row": "https://s3.boostcamp.app/master-exercise/2918233557.mp4",
+    "Pull-Up (Weighted)": "https://s3.boostcamp.app/master-exercise/1099260859.mp4",
+    "Leg Curl": "https://s3.boostcamp.app/master-exercise/466811.mp4",
 }
 
 
