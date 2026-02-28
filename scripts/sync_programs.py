@@ -135,7 +135,8 @@ def yaml_to_boostcamp_format(yaml_data):
         })
     
     num_weeks = yaml_data.get('weeks', 3)
-    weeks = [{"days": [{}]} for _ in range(num_weeks)]
+    days_per_week = yaml_data.get('days_per_week', 5)
+    weeks = [{"days": [{} for _ in range(days_per_week)]} for _ in range(num_weeks)]
     
     return {
         "weeks": weeks,
