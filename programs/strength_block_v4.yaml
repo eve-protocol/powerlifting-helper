@@ -71,7 +71,7 @@ workouts:
     type: Cable
     muscles: &id004
     - Abs
-  - name: Pull-up (Weighted)
+  - name: Pull-Up (Weighted)
     sets:
     - target: 5
       rpe:
@@ -174,7 +174,7 @@ workouts:
   day: 3
   name: Wednesday - Tempo Squat + RDL
   exercises:
-  - name: Squat (Tempo)
+  - name: Tempo Squat (Barbell)
     sets:
     - target: 3
       rpe:
@@ -226,7 +226,7 @@ workouts:
     type: Machine
     muscles: &id011
     - Legs
-  - name: T-Bar Row
+  - name: Standing T Bar Row
     sets:
     - target: 10
       rpe:
@@ -272,7 +272,7 @@ workouts:
     type: Barbell
     muscles: &id013
     - Chest
-  - name: Pull-up (Weighted)
+  - name: Pull-Up (Weighted)
     sets:
     - target: 5
       rpe:
@@ -313,7 +313,7 @@ workouts:
     type: Cable
     muscles: &id014
     - Arms
-  - name: Lying Leg Curl
+  - name: Leg Curl
     sets:
     - target: 10
       rpe:
@@ -393,7 +393,7 @@ workouts:
       - 6.5
     type: Barbell
     muscles: *id002
-  - name: Bench Press (Spoto)
+  - name: Spoto Press
     sets:
     - target: 5
       rpe:
@@ -474,7 +474,7 @@ workouts:
       - 8
     type: Cable
     muscles: *id004
-  - name: Pull-up (Weighted)
+  - name: Pull-Up (Weighted)
     sets:
     - target: 5
       rpe:
@@ -570,7 +570,7 @@ workouts:
   day: 3
   name: Wednesday - Tempo Squat + RDL
   exercises:
-  - name: Squat (Tempo)
+  - name: Tempo Squat (Barbell)
     sets:
     - target: 3
       rpe:
@@ -618,7 +618,7 @@ workouts:
       - 8.5
     type: Machine
     muscles: *id011
-  - name: T-Bar Row
+  - name: Standing T Bar Row
     sets:
     - target: 10
       rpe:
@@ -662,7 +662,7 @@ workouts:
       - 8.5
     type: Barbell
     muscles: *id013
-  - name: Pull-up (Weighted)
+  - name: Pull-Up (Weighted)
     sets:
     - target: 5
       rpe:
@@ -702,7 +702,7 @@ workouts:
       - 9
     type: Cable
     muscles: *id014
-  - name: Lying Leg Curl
+  - name: Leg Curl
     sets:
     - target: 10
       rpe:
@@ -778,7 +778,7 @@ workouts:
       - 7
     type: Barbell
     muscles: *id002
-  - name: Bench Press (Spoto)
+  - name: Spoto Press
     sets:
     - target: 5
       rpe:
@@ -859,7 +859,7 @@ workouts:
       - 8
     type: Cable
     muscles: *id004
-  - name: Pull-up (Weighted)
+  - name: Pull-Up (Weighted)
     sets:
     - target: 5
       rpe:
@@ -955,7 +955,7 @@ workouts:
   day: 3
   name: Wednesday - Tempo Squat + RDL
   exercises:
-  - name: Squat (Tempo)
+  - name: Tempo Squat (Barbell)
     sets:
     - target: 3
       rpe:
@@ -1003,7 +1003,7 @@ workouts:
       - 8.5
     type: Machine
     muscles: *id011
-  - name: T-Bar Row
+  - name: Standing T Bar Row
     sets:
     - target: 10
       rpe:
@@ -1048,7 +1048,7 @@ workouts:
       - 8
     type: Barbell
     muscles: *id013
-  - name: Pull-up (Weighted)
+  - name: Pull-Up (Weighted)
     sets:
     - target: 5
       rpe:
@@ -1088,7 +1088,7 @@ workouts:
       - 9
     type: Cable
     muscles: *id014
-  - name: Lying Leg Curl
+  - name: Leg Curl
     sets:
     - target: 10
       rpe:
@@ -1165,7 +1165,7 @@ workouts:
       - 7
     type: Barbell
     muscles: *id002
-  - name: Bench Press (Spoto)
+  - name: Spoto Press
     sets:
     - target: 5
       rpe:
