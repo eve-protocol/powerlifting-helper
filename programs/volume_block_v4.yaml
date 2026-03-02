@@ -80,7 +80,7 @@ workouts:
       rpe:
       - 7.5
       - 8
-    type: Bodyweight
+    type: Dumbbell
     muscles: &id001
     - Back
 - week: 1
@@ -288,7 +288,7 @@ workouts:
       rpe:
       - 7.5
       - 8.5
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:
@@ -478,7 +478,7 @@ workouts:
       rpe:
       - 7.5
       - 8
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
 - week: 2
   day: 2
@@ -674,7 +674,7 @@ workouts:
       rpe:
       - 7.5
       - 8.5
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:
@@ -859,7 +859,7 @@ workouts:
       rpe:
       - 7.5
       - 8
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
 - week: 3
   day: 2
@@ -1044,7 +1044,7 @@ workouts:
       rpe:
       - 7.5
       - 8.5
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:

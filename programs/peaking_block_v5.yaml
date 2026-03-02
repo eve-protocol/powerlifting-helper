@@ -55,7 +55,7 @@ workouts:
       rpe:
       - 7.5
       - 8
-    type: Bodyweight
+    type: Dumbbell
     muscles: &id001
     - Back
   - name: Face Pull
@@ -239,7 +239,7 @@ workouts:
       rpe:
       - 7.5
       - 8.5
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:
@@ -372,7 +372,7 @@ workouts:
       rpe:
       - 7.5
       - 8
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
   - name: Face Pull
     sets:
@@ -524,7 +524,7 @@ workouts:
       rpe:
       - 7.5
       - 8.5
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:
@@ -644,7 +644,7 @@ workouts:
       rpe:
       - 7
       - 7.5
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
 - week: 3
   day: 2
@@ -756,7 +756,7 @@ workouts:
       rpe:
       - 7
       - 7.5
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
   - name: Bicep Curl (EZ Bar)
     sets:
@@ -852,7 +852,7 @@ workouts:
       rpe:
       - 6
       - 6.5
-    type: Bodyweight
+    type: Dumbbell
     muscles: *id001
 - week: 4
   day: 2
