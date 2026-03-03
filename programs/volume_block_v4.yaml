@@ -123,10 +123,6 @@ workouts:
       rpe:
       - 6.5
       - 7
-    - target: 8
-      rpe:
-      - 6.5
-      - 7
     type: Dumbbell
     muscles: &id006
     - Chest
@@ -506,10 +502,6 @@ workouts:
     muscles: *id005
   - name: Incline Bench Press (Dumbbell)
     sets:
-    - target: 8
-      rpe:
-      - 7
-      - 7.5
     - target: 8
       rpe:
       - 7
