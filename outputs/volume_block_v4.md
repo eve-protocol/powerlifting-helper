@@ -26,7 +26,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 1 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5 |
-| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7 |
+| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7 |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8 |
 | 4 | Face Pull | 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8 |
 
@@ -73,7 +73,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 1 reps @ RPE 6.5-7; 4 reps @ RPE 6.5-7; 4 reps @ RPE 6.5-7; 4 reps @ RPE 6.5-7 |
-| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5 |
+| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5 |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8 |
 | 4 | Face Pull | 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8 |
 
