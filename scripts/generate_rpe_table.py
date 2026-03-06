@@ -7,7 +7,7 @@ Creates outputs/rpe_table.md with:
 
 Rows: reps 1..10
 Columns: RPE 10..6 (integer only)
-Cell value: all-time best and 12-week best for exact reps+RPE.
+Cell value: best (max) kg achieved for exact reps+RPE, with staleness emoji.
 """
 
 from __future__ import annotations
@@ -15,7 +15,7 @@ from __future__ import annotations
 import argparse
 import os
 from collections import defaultdict
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
 from powerlifting import BIG3_MAIN, load_history, parse_all_workouts
 
@@ -44,17 +44,21 @@ def parse_iso_date(date_str: str):
     return datetime.strptime(date_str, "%Y-%m-%d").date()
 
 
-def collect_cells(workouts, exercise_name: str, cutoff_date):
-    """Return per-cell summary for all-time and recent windows.
+def staleness_emoji(best_date, reference_date):
+    days_old = (reference_date - best_date).days
+    if days_old < 90:
+        return "🟢"
+    if days_old < 180:
+        return "🟡"
+    if days_old < 270:
+        return "🟠"
+    if days_old < 365:
+        return "🔴"
+    return "🟣"
 
-    Structure:
-    {(reps, rpe): {
-      'at_best': float,
-      'at_count': int,
-      'w12_best': float|None,
-      'w12_count': int,
-    }}
-    """
+
+def collect_cells(workouts, exercise_name: str):
+    """Return {(reps, rpe): {'best': float, 'best_date': date}}."""
     grouped = defaultdict(list)
 
     for w in workouts:
@@ -75,29 +79,19 @@ def collect_cells(workouts, exercise_name: str, cutoff_date):
 
     cells = {}
     for key, samples in grouped.items():
-        all_weights = [s["weight"] for s in samples]
-        at_best = max(all_weights)
-        at_count = sum(1 for s in samples if s["weight"] == at_best)
-
-        recent = [s for s in samples if s["date"] >= cutoff_date]
-        if recent:
-            w12_best = max(s["weight"] for s in recent)
-            w12_count = sum(1 for s in recent if s["weight"] == w12_best)
-        else:
-            w12_best = None
-            w12_count = 0
-
+        best_weight = max(s["weight"] for s in samples)
+        # if same best appears multiple times, keep latest date of that best
+        best_dates = [s["date"] for s in samples if s["weight"] == best_weight]
+        best_date = max(best_dates)
         cells[key] = {
-            "at_best": at_best,
-            "at_count": at_count,
-            "w12_best": w12_best,
-            "w12_count": w12_count,
+            "best": best_weight,
+            "best_date": best_date,
         }
 
     return cells
 
 
-def render_table(exercise_name: str, cells: dict) -> list[str]:
+def render_table(exercise_name: str, cells: dict, reference_date) -> list[str]:
     lines = []
     lines.append(f"### {exercise_name}")
     lines.append("")
@@ -112,13 +106,8 @@ def render_table(exercise_name: str, cells: dict) -> list[str]:
                 row.append(" - |")
                 continue
 
-            at_part = f"AT {cell['at_best']:.1f}×{cell['at_count']}"
-            if cell["w12_best"] is None:
-                w12_part = "12w -"
-            else:
-                w12_part = f"12w {cell['w12_best']:.1f}×{cell['w12_count']}"
-
-            row.append(f" {at_part} / {w12_part} |")
+            emoji = staleness_emoji(cell["best_date"], reference_date)
+            row.append(f" {cell['best']:.1f} {emoji} |")
         lines.append("".join(row))
 
     lines.append("")
@@ -126,7 +115,6 @@ def render_table(exercise_name: str, cells: dict) -> list[str]:
 
 
 def get_reference_date(workouts):
-    """Use latest workout date as anchor for the 12-week window."""
     dates = [parse_iso_date(w["date"]) for w in workouts if w.get("date")]
     if not dates:
         return datetime.now(timezone.utc).date()
@@ -139,13 +127,14 @@ def build_output(workouts):
     lines.append("")
 
     reference_date = get_reference_date(workouts)
-    cutoff_date = reference_date - timedelta(weeks=12)
 
     lines.append(
         "Source: `values/history.json` parsed workout sets. "
-        "Cells show all-time best and 12-week best for exact (reps, integer RPE) as `weight×count`."
+        "Cells show best kg for exact (reps, integer RPE), with staleness emoji for the date of that best."
     )
-    lines.append(f"12-week window: {cutoff_date} → {reference_date}")
+    lines.append(f"Reference date: {reference_date}")
+    lines.append("")
+    lines.append("> Legend: 🟢 <3mo • 🟡 3-6mo • 🟠 6-9mo • 🔴 9-12mo • 🟣 >1yr")
     lines.append("")
     lines.append(f"Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
     lines.append("")
@@ -153,8 +142,8 @@ def build_output(workouts):
     lines.append("## Big 3")
     lines.append("")
     for lift in BIG3_MAIN:
-        cells = collect_cells(workouts, lift, cutoff_date)
-        lines.extend(render_table(lift, cells))
+        cells = collect_cells(workouts, lift)
+        lines.extend(render_table(lift, cells, reference_date))
 
     # Variation discovery: all S/B/D-like exercise names excluding exact Big 3 names
     keywords = ("squat", "bench", "deadlift")
@@ -173,9 +162,9 @@ def build_output(workouts):
         lines.append("")
     else:
         for name in variation_names:
-            cells = collect_cells(workouts, name, cutoff_date)
+            cells = collect_cells(workouts, name)
             if any(cells.values()):
-                lines.extend(render_table(name, cells))
+                lines.extend(render_table(name, cells, reference_date))
 
     return "\n".join(lines).rstrip() + "\n"
 
