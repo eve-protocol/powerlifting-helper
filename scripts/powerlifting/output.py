@@ -373,10 +373,6 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
         
         lines.append("")
     
-    # Personal RPE Tables
-    rpe_table_lines = generate_markdown_rpe_table(workouts)
-    lines.extend(rpe_table_lines)
-    
     # Write to file
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:

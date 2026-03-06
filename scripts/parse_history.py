@@ -29,7 +29,6 @@ from powerlifting import (
     print_e1rm_summary,
     print_trends,
     print_volume_summary,
-    print_personal_rpe_table,
     print_rep_maxes,
     generate_markdown_report,
     # Visualization
@@ -106,7 +105,6 @@ Examples:
     print_e1rm_summary(find_all_rep_maxes(workouts), workouts)
     print_trends(workouts)
     print_volume_summary(workouts)
-    print_personal_rpe_table(workouts)
     
     # Get all maxes
     all_maxes = find_all_rep_maxes(workouts)
