@@ -6,7 +6,6 @@
 
 **Week 2 · Day 5**
 Finished: 2026-03-07 10:06:07
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -31,7 +30,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2026-03-05 08:04:27
-Week 1, Day 3
 
 ### Bench Press (Barbell)
 
@@ -72,7 +70,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2026-03-04 09:58:05
-Week 1, Day 2
 
 ### Tempo Squat (Barbell)
 
@@ -104,7 +101,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2026-03-03 09:51:22
-Week 1, Day 1
 
 ### Sumo Deadlift (Paused)
 
@@ -135,7 +131,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2026-03-02 10:03:42
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -326,7 +321,6 @@ Finished: 2026-02-23 10:27:40
 
 **Week 4 · Day 5**
 Finished: 2026-02-21 15:24:55
-Week 3, Day 4
 
 ### Squat (Low Bar)
 
@@ -348,7 +342,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2026-02-19 09:42:09
-Week 3, Day 3
 
 ### Bench Press (Barbell)
 
@@ -378,7 +371,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2026-02-18 10:20:23
-Week 3, Day 2
 
 ### Tempo Squat (Barbell)
 
@@ -414,7 +406,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2026-02-17 10:01:57
-Week 3, Day 1
 
 ### Sumo Deadlift (Paused)
 
@@ -444,7 +435,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2026-02-16 10:39:01
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -473,7 +463,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2026-02-14 17:32:54
-Week 2, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -504,7 +493,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2026-02-12 15:10:28
-Week 2, Day 3
 
 ### Bench Press (Barbell)
 
@@ -535,7 +523,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2026-02-11 18:03:56
-Week 2, Day 2
 
 ### Tempo Squat (Barbell)
 
@@ -572,7 +559,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2026-02-10 15:12:02
-Week 2, Day 1
 
 ### Sumo Deadlift (Paused)
 
@@ -603,7 +589,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2026-02-09 15:28:21
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -634,7 +619,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2026-02-07 17:06:42
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -664,7 +648,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2026-02-07 03:19:23
-Week 1, Day 3
 
 ### Bench Press (Barbell)
 
@@ -713,7 +696,6 @@ Finished: 2026-02-05 03:09:50
 
 **Week 2 · Day 3**
 Finished: 2026-02-04 00:39:28
-Week 1, Day 2
 
 ### Tempo Squat (Barbell)
 
@@ -757,7 +739,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2026-02-02 10:05:07
-Week 1, Day 1
 
 ### Sumo Deadlift (Paused)
 
@@ -789,7 +770,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2026-02-01 11:01:32
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -981,7 +961,6 @@ Finished: 2026-01-26 10:13:24
 
 **Week 4 · Day 5**
 Finished: 2026-01-24 10:20:41
-Week 3, Day 4
 
 ### Squat (Low Bar)
 
@@ -1013,7 +992,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2026-01-22 09:44:04
-Week 3, Day 3
 
 ### Bench Press (Barbell)
 
@@ -1046,7 +1024,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2026-01-21 10:38:49
-Week 3, Day 2
 
 ### Tempo Squat (Barbell)
 
@@ -1090,7 +1067,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2026-01-20 10:33:08
-Week 3, Day 1
 
 ### Sumo Deadlift (Paused)
 
@@ -1122,7 +1098,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2026-01-19 10:24:19
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -1154,7 +1129,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2026-01-17 10:12:26
-Week 2, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -1186,7 +1160,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2026-01-15 09:49:26
-Week 2, Day 3
 
 ### Bench Press (Barbell)
 
@@ -1219,7 +1192,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2026-01-14 10:33:10
-Week 2, Day 2
 
 ### Tempo Squat (Barbell)
 
@@ -1259,7 +1231,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2026-01-13 09:58:20
-Week 2, Day 1
 
 ### Sumo Deadlift (Paused)
 
@@ -1290,7 +1261,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2026-01-12 10:21:55
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -1320,7 +1290,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2026-01-10 10:23:39
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -1352,7 +1321,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2026-01-08 11:55:00
-Week 1, Day 3
 
 ### Bench Press (Barbell)
 
@@ -1380,7 +1348,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2026-01-07 10:32:35
-Week 1, Day 2
 
 ### Tempo Squat (Barbell)
 
@@ -1418,7 +1385,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2026-01-06 10:14:40
-Week 1, Day 1
 
 ### Sumo Deadlift (Paused)
 
@@ -1450,7 +1416,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2026-01-05 10:09:55
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -1651,7 +1616,6 @@ Finished: 2025-12-29 10:20:42
 
 **Week 3 · Day 5**
 Finished: 2025-12-27 10:19:11
-Week 2, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -1689,7 +1653,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-12-24 09:48:58
-Week 2, Day 3
 
 ### Bench Press (Barbell)
 
@@ -1723,7 +1686,6 @@ Week 2, Day 3
 
 **Week 3 · Day 2**
 Finished: 2025-12-22 18:53:06
-Week 2, Day 1
 
 ### Block Pull (Barbell)
 
@@ -1754,7 +1716,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-12-21 10:14:05
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -1787,7 +1748,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-12-20 10:14:33
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -1812,7 +1772,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-12-18 09:55:48
-Week 1, Day 3
 
 ### Bench Press (Barbell)
 
@@ -1845,7 +1804,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-12-17 10:03:51
-Week 1, Day 2
 
 ### Tempo Squat (Barbell)
 
@@ -1876,7 +1834,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-12-16 09:53:22
-Week 1, Day 1
 
 ### Sumo Deadlift (Paused)
 
@@ -1908,7 +1865,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-12-15 10:16:18
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -2208,7 +2164,6 @@ Finished: 2025-11-29 11:24:30
 
 **Week 4 · Day 5**
 Finished: 2025-11-27 10:02:52
-Week 3, Day 4
 
 ### Tempo Squat (Barbell)
 
@@ -2238,7 +2193,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-11-26 10:09:26
-Week 3, Day 3
 
 ### Bench Press (Paused)
 
@@ -2274,7 +2228,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-11-25 09:03:18
-Week 3, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -2306,7 +2259,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-11-24 09:41:24
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -2339,7 +2291,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2025-11-22 10:12:38
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -2371,7 +2322,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2025-11-20 09:38:41
-Week 2, Day 4
 
 ### Tempo Squat (Barbell)
 
@@ -2402,7 +2352,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-11-19 09:32:39
-Week 2, Day 3
 
 ### Bench Press (Paused)
 
@@ -2435,7 +2384,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-11-18 10:03:42
-Week 2, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -2467,7 +2415,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-11-17 09:37:25
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -2501,7 +2448,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-11-15 10:07:44
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -2535,7 +2481,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-11-13 09:45:07
-Week 1, Day 4
 
 ### Tempo Squat (Barbell)
 
@@ -2566,7 +2511,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-11-12 09:19:28
-Week 1, Day 3
 
 ### Bench Press (Paused)
 
@@ -2600,7 +2544,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-11-11 09:51:42
-Week 1, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -2631,7 +2574,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-11-09 08:38:18
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -2665,7 +2607,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-11-08 09:01:09
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -2864,7 +2805,6 @@ Finished: 2025-11-01 08:53:40
 
 **Week 4 · Day 5**
 Finished: 2025-10-30 08:57:17
-Week 3, Day 4
 
 ### Squat (Low Bar)
 
@@ -2897,7 +2837,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-10-29 08:35:19
-Week 3, Day 3
 
 ### Bench Press (Paused)
 
@@ -2932,7 +2871,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-10-28 09:05:11
-Week 3, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -2967,7 +2905,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-10-27 08:29:28
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -3038,7 +2975,6 @@ Finished: 2025-10-26 09:34:56
 
 **Week 4 · Day 1**
 Finished: 2025-10-25 10:07:31
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -3074,7 +3010,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2025-10-24 07:44:37
-Week 2, Day 4
 
 ### Squat (Low Bar)
 
@@ -3115,7 +3050,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-10-23 07:31:57
-Week 2, Day 3
 
 ### Bench Press (Paused)
 
@@ -3155,7 +3089,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-10-20 14:30:17
-Week 2, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -3216,7 +3149,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-10-19 16:20:13
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -3257,7 +3189,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-10-18 16:47:29
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -3298,7 +3229,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-10-16 14:18:05
-Week 1, Day 4
 
 ### Squat (Low Bar)
 
@@ -3352,7 +3282,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-10-15 13:56:21
-Week 1, Day 3
 
 ### Bench Press (Paused)
 
@@ -3391,7 +3320,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-10-14 16:28:40
-Week 1, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -3427,7 +3355,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-10-13 16:04:37
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -3468,7 +3395,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-10-11 16:51:44
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -3706,7 +3632,6 @@ Finished: 2025-10-04 09:44:05
 
 **Week 5 · Day 5**
 Finished: 2025-10-02 09:53:28
-Week 4, Day 4
 
 ### Sumo Deadlift (Paused)
 
@@ -3739,7 +3664,6 @@ Week 4, Day 4
 
 **Week 5 · Day 4**
 Finished: 2025-10-01 10:02:43
-Week 4, Day 3
 
 ### Squat (Low Bar)
 
@@ -3761,7 +3685,6 @@ Week 4, Day 3
 
 **Week 5 · Day 3**
 Finished: 2025-09-30 09:45:59
-Week 4, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -3785,7 +3708,6 @@ Week 4, Day 2
 
 **Week 5 · Day 2**
 Finished: 2025-09-29 18:45:00
-Week 4, Day 1
 
 ### Bench Press (Barbell)
 
@@ -3816,7 +3738,6 @@ Week 4, Day 1
 
 **Week 5 · Day 1**
 Finished: 2025-09-27 09:52:59
-Week 4, Day 0
 
 ### Squat (Low Bar)
 
@@ -3843,7 +3764,6 @@ Week 4, Day 0
 
 **Week 4 · Day 5**
 Finished: 2025-09-25 09:57:18
-Week 3, Day 4
 
 ### Sumo Deadlift (Paused)
 
@@ -3876,7 +3796,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-09-24 09:49:58
-Week 3, Day 3
 
 ### Squat (Low Bar)
 
@@ -3899,7 +3818,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-09-23 09:46:41
-Week 3, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -3924,7 +3842,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-09-22 09:26:24
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -3956,7 +3873,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2025-09-20 09:47:40
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -3983,7 +3899,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2025-09-18 09:43:46
-Week 2, Day 4
 
 ### Sumo Deadlift (Paused)
 
@@ -4020,7 +3935,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-09-17 09:43:24
-Week 2, Day 3
 
 ### Squat (Low Bar)
 
@@ -4042,7 +3956,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-09-16 09:50:05
-Week 2, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -4067,7 +3980,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-09-15 09:24:16
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -4099,7 +4011,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-09-13 09:56:07
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -4126,7 +4037,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-09-11 09:30:37
-Week 1, Day 4
 
 ### Deadlift (Barbell)
 
@@ -4158,7 +4068,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-09-10 10:01:50
-Week 1, Day 3
 
 ### Squat (Low Bar)
 
@@ -4182,7 +4091,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-09-09 09:43:18
-Week 1, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -4207,7 +4115,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-09-08 09:26:26
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -4239,7 +4146,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-09-06 09:56:43
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -4401,7 +4307,6 @@ Finished: 2025-08-30 09:50:30
 
 **Week 5 · Day 5**
 Finished: 2025-08-28 09:55:01
-Week 4, Day 4
 
 ### Deadlift (Paused)
 
@@ -4434,7 +4339,6 @@ Week 4, Day 4
 
 **Week 5 · Day 4**
 Finished: 2025-08-27 09:50:26
-Week 4, Day 3
 
 ### Squat (Low Bar)
 
@@ -4456,7 +4360,6 @@ Week 4, Day 3
 
 **Week 5 · Day 3**
 Finished: 2025-08-26 09:47:34
-Week 4, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -4480,7 +4383,6 @@ Week 4, Day 2
 
 **Week 5 · Day 2**
 Finished: 2025-08-25 09:37:54
-Week 4, Day 1
 
 ### Bench Press (Barbell)
 
@@ -4511,7 +4413,6 @@ Week 4, Day 1
 
 **Week 5 · Day 1**
 Finished: 2025-08-23 10:01:50
-Week 4, Day 0
 
 ### Squat (Low Bar)
 
@@ -4538,7 +4439,6 @@ Week 4, Day 0
 
 **Week 4 · Day 5**
 Finished: 2025-08-21 08:44:21
-Week 3, Day 4
 
 ### Sumo Deadlift (Paused)
 
@@ -4572,7 +4472,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-08-20 09:34:15
-Week 3, Day 3
 
 ### Squat (Low Bar)
 
@@ -4594,7 +4493,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-08-19 09:29:37
-Week 3, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -4619,7 +4517,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-08-17 15:51:02
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -4645,7 +4542,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2025-08-16 16:07:41
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -4684,7 +4580,6 @@ Finished: 2025-08-15 15:56:02
 
 **Week 3 · Day 5**
 Finished: 2025-08-14 14:49:37
-Week 2, Day 4
 
 ### Sumo Deadlift (Paused)
 
@@ -4713,7 +4608,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-08-13 14:50:07
-Week 2, Day 3
 
 ### Squat (Low Bar)
 
@@ -4735,7 +4629,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-08-12 14:53:32
-Week 2, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -4760,7 +4653,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-08-11 14:30:35
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -4790,7 +4682,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-08-10 16:23:41
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -4830,7 +4721,6 @@ Finished: 2025-08-08 14:40:49
 
 **Week 2 · Day 5**
 Finished: 2025-08-07 14:46:21
-Week 1, Day 4
 
 ### Sumo Deadlift (Paused)
 
@@ -4858,7 +4748,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-08-06 14:53:07
-Week 1, Day 3
 
 ### Squat (Low Bar)
 
@@ -4880,7 +4769,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-08-05 14:54:51
-Week 1, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -4905,7 +4793,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-08-04 14:26:18
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -4937,7 +4824,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-08-02 16:34:07
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -5094,7 +4980,6 @@ Finished: 2025-07-27 22:39:03
 
 **Week 5 · Day 5**
 Finished: 2025-07-25 15:05:07
-Week 4, Day 4
 
 ### Sumo Deadlift (Paused)
 
@@ -5127,7 +5012,6 @@ Week 4, Day 4
 
 **Week 5 · Day 4**
 Finished: 2025-07-23 10:18:52
-Week 4, Day 3
 
 ### Squat (Low Bar)
 
@@ -5149,7 +5033,6 @@ Week 4, Day 3
 
 **Week 5 · Day 3**
 Finished: 2025-07-22 10:07:58
-Week 4, Day 2
 
 ### Sumo Deadlift (Barbell)
 
@@ -5173,7 +5056,6 @@ Week 4, Day 2
 
 **Week 5 · Day 2**
 Finished: 2025-07-21 10:11:38
-Week 4, Day 1
 
 ### Bench Press (Barbell)
 
@@ -5205,7 +5087,6 @@ Week 4, Day 1
 
 **Week 5 · Day 1**
 Finished: 2025-07-19 10:33:36
-Week 4, Day 0
 
 ### Squat (Low Bar)
 
@@ -5231,7 +5112,6 @@ Week 4, Day 0
 
 **Week 4 · Day 5**
 Finished: 2025-07-17 10:11:45
-Week 3, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -5264,7 +5144,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-07-16 10:34:09
-Week 3, Day 3
 
 ### Squat (Low Bar)
 
@@ -5286,7 +5165,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-07-15 10:12:53
-Week 3, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -5311,7 +5189,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-07-14 09:55:09
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -5343,7 +5220,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2025-07-12 10:22:54
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -5370,7 +5246,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2025-07-10 10:21:46
-Week 2, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -5404,7 +5279,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-07-09 10:22:30
-Week 2, Day 3
 
 ### Squat (Low Bar)
 
@@ -5426,7 +5300,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-07-08 10:14:22
-Week 2, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -5452,7 +5325,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-07-07 09:58:37
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -5484,7 +5356,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-07-05 10:27:01
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -5511,7 +5382,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-07-03 10:15:25
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -5544,7 +5414,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-07-02 10:15:56
-Week 1, Day 3
 
 ### Squat (Low Bar)
 
@@ -5566,7 +5435,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-07-01 10:09:07
-Week 1, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -5591,7 +5459,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-06-30 09:53:01
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -5623,7 +5490,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-06-28 10:25:08
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -5784,7 +5650,6 @@ Finished: 2025-06-21 10:17:04
 
 **Week 6 · Day 5**
 Finished: 2025-06-19 10:27:10
-Week 5, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -5817,7 +5682,6 @@ Week 5, Day 4
 
 **Week 6 · Day 4**
 Finished: 2025-06-18 10:39:32
-Week 5, Day 3
 
 ### Squat (Low Bar)
 
@@ -5839,7 +5703,6 @@ Week 5, Day 3
 
 **Week 6 · Day 3**
 Finished: 2025-06-17 10:14:41
-Week 5, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -5864,7 +5727,6 @@ Week 5, Day 2
 
 **Week 6 · Day 2**
 Finished: 2025-06-16 09:57:41
-Week 5, Day 1
 
 ### Bench Press (Barbell)
 
@@ -5896,7 +5758,6 @@ Week 5, Day 1
 
 **Week 6 · Day 1**
 Finished: 2025-06-14 10:31:33
-Week 5, Day 0
 
 ### Squat (Low Bar)
 
@@ -5924,7 +5785,6 @@ Week 5, Day 0
 
 **Week 5 · Day 5**
 Finished: 2025-06-12 10:27:02
-Week 4, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -5957,7 +5817,6 @@ Week 4, Day 4
 
 **Week 5 · Day 4**
 Finished: 2025-06-11 10:29:43
-Week 4, Day 3
 
 ### Squat (Low Bar)
 
@@ -5979,7 +5838,6 @@ Week 4, Day 3
 
 **Week 5 · Day 3**
 Finished: 2025-06-10 10:28:00
-Week 4, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -6004,7 +5862,6 @@ Week 4, Day 2
 
 **Week 5 · Day 2**
 Finished: 2025-06-09 09:54:37
-Week 4, Day 1
 
 ### Bench Press (Barbell)
 
@@ -6036,7 +5893,6 @@ Week 4, Day 1
 
 **Week 5 · Day 1**
 Finished: 2025-06-07 10:23:59
-Week 4, Day 0
 
 ### Squat (Low Bar)
 
@@ -6063,7 +5919,6 @@ Week 4, Day 0
 
 **Week 4 · Day 5**
 Finished: 2025-06-05 10:04:06
-Week 3, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -6096,7 +5951,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-06-04 10:36:59
-Week 3, Day 3
 
 ### Squat (Low Bar)
 
@@ -6118,7 +5972,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-06-03 10:29:03
-Week 3, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -6143,7 +5996,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-06-02 09:57:14
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -6175,7 +6027,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2025-05-31 10:13:19
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -6202,7 +6053,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2025-05-29 10:19:51
-Week 2, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -6235,7 +6085,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-05-28 10:12:16
-Week 2, Day 3
 
 ### Squat (Low Bar)
 
@@ -6256,7 +6105,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-05-27 10:05:56
-Week 2, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -6288,7 +6136,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-05-26 09:45:33
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -6321,7 +6168,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-05-24 10:22:43
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -6348,7 +6194,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-05-22 09:52:58
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -6381,7 +6226,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-05-21 10:19:52
-Week 1, Day 3
 
 ### Squat (Low Bar)
 
@@ -6403,7 +6247,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-05-20 10:05:36
-Week 1, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -6428,7 +6271,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-05-19 09:44:19
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -6460,7 +6302,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-05-17 10:45:35
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -6630,7 +6471,6 @@ Finished: 2025-05-12 08:12:31
 
 **Week 2 · Day 2**
 Finished: 2025-05-08 09:59:43
-Week 1, Day 1
 
 ### Squat (Low Bar)
 
@@ -6659,7 +6499,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-05-04 12:13:58
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -6803,7 +6642,6 @@ Finished: 2025-04-26 10:27:49
 
 **Week 2 · Day 5**
 Finished: 2025-04-24 10:22:32
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -6836,7 +6674,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-04-23 10:27:34
-Week 1, Day 3
 
 ### Squat (Low Bar)
 
@@ -6863,7 +6700,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-04-22 10:24:23
-Week 1, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -6888,7 +6724,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-04-21 09:51:09
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -6920,7 +6755,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-04-18 10:23:47
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -7097,7 +6931,6 @@ Finished: 2025-04-12 10:14:22
 
 **Week 6 · Day 5**
 Finished: 2025-04-11 10:15:36
-Week 5, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -7127,7 +6960,6 @@ Week 5, Day 4
 
 **Week 6 · Day 4**
 Finished: 2025-04-10 10:18:41
-Week 5, Day 3
 
 ### Squat (Low Bar)
 
@@ -7149,7 +6981,6 @@ Week 5, Day 3
 
 **Week 6 · Day 3**
 Finished: 2025-04-08 10:11:33
-Week 5, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -7174,7 +7005,6 @@ Week 5, Day 2
 
 **Week 6 · Day 2**
 Finished: 2025-04-07 10:29:34
-Week 5, Day 1
 
 ### Bench Press (Barbell)
 
@@ -7211,7 +7041,6 @@ Week 5, Day 1
 
 **Week 6 · Day 1**
 Finished: 2025-04-05 10:27:35
-Week 5, Day 0
 
 ### Squat (Low Bar)
 
@@ -7243,7 +7072,6 @@ Week 5, Day 0
 
 **Week 5 · Day 5**
 Finished: 2025-04-03 10:32:52
-Week 4, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -7275,7 +7103,6 @@ Week 4, Day 4
 
 **Week 5 · Day 4**
 Finished: 2025-04-02 10:21:17
-Week 4, Day 3
 
 ### Squat (Low Bar)
 
@@ -7298,7 +7125,6 @@ Week 4, Day 3
 
 **Week 5 · Day 3**
 Finished: 2025-04-01 11:33:11
-Week 4, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -7323,7 +7149,6 @@ Week 4, Day 2
 
 **Week 5 · Day 2**
 Finished: 2025-03-31 09:57:44
-Week 4, Day 1
 
 ### Bench Press (Barbell)
 
@@ -7361,7 +7186,6 @@ Week 4, Day 1
 
 **Week 5 · Day 1**
 Finished: 2025-03-29 10:17:43
-Week 4, Day 0
 
 ### Squat (Low Bar)
 
@@ -7393,7 +7217,6 @@ Week 4, Day 0
 
 **Week 4 · Day 5**
 Finished: 2025-03-27 10:22:04
-Week 3, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -7425,7 +7248,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-03-26 10:14:52
-Week 3, Day 3
 
 ### Squat (Low Bar)
 
@@ -7448,7 +7270,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-03-25 10:05:09
-Week 3, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -7473,7 +7294,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-03-24 09:48:45
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -7511,7 +7331,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2025-03-22 10:25:58
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -7543,7 +7362,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2025-03-20 10:06:30
-Week 2, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -7575,7 +7393,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-03-19 10:00:10
-Week 2, Day 3
 
 ### Squat (Low Bar)
 
@@ -7598,7 +7415,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-03-18 10:12:57
-Week 2, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -7623,7 +7439,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-03-17 09:55:26
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -7661,7 +7476,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-03-15 10:24:28
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -7693,7 +7507,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-03-13 10:12:45
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -7725,7 +7538,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-03-12 10:22:00
-Week 1, Day 3
 
 ### Squat (Low Bar)
 
@@ -7748,7 +7560,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-03-11 10:15:33
-Week 1, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -7773,7 +7584,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-03-10 09:47:35
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -7811,7 +7621,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-03-08 10:27:05
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -8019,7 +7828,6 @@ Finished: 2025-02-22 10:32:13
 
 **Week 4 · Day 5**
 Finished: 2025-02-20 10:34:43
-Week 3, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -8041,7 +7849,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-02-19 11:01:26
-Week 3, Day 3
 
 ### Squat (Low Bar)
 
@@ -8062,7 +7869,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-02-18 10:14:08
-Week 3, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -8110,7 +7916,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-02-17 10:12:57
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -8147,7 +7952,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2025-02-15 10:29:02
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -8179,7 +7983,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2025-02-13 10:10:54
-Week 2, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -8202,7 +8005,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-02-12 10:37:33
-Week 2, Day 3
 
 ### Squat (Low Bar)
 
@@ -8225,7 +8027,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-02-11 10:21:09
-Week 2, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -8258,7 +8059,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-02-10 09:54:19
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -8296,7 +8096,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-02-08 10:16:10
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -8329,7 +8128,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-02-06 09:53:14
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -8353,7 +8151,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-02-05 10:25:16
-Week 1, Day 3
 
 ### Squat (Low Bar)
 
@@ -8376,7 +8173,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-02-04 10:11:39
-Week 1, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -8409,7 +8205,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-02-03 10:02:15
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -8447,7 +8242,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-02-01 10:30:06
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
@@ -8647,7 +8441,6 @@ Finished: 2025-01-25 10:18:03
 
 **Week 4 · Day 5**
 Finished: 2025-01-23 10:14:15
-Week 3, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -8677,7 +8470,6 @@ Week 3, Day 4
 
 **Week 4 · Day 4**
 Finished: 2025-01-22 10:14:37
-Week 3, Day 3
 
 ### Squat (Low Bar)
 
@@ -8698,7 +8490,6 @@ Week 3, Day 3
 
 **Week 4 · Day 3**
 Finished: 2025-01-21 10:16:39
-Week 3, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -8745,7 +8536,6 @@ Week 3, Day 2
 
 **Week 4 · Day 2**
 Finished: 2025-01-20 10:11:06
-Week 3, Day 1
 
 ### Bench Press (Barbell)
 
@@ -8782,7 +8572,6 @@ Week 3, Day 1
 
 **Week 4 · Day 1**
 Finished: 2025-01-18 10:44:40
-Week 3, Day 0
 
 ### Squat (Low Bar)
 
@@ -8812,7 +8601,6 @@ Week 3, Day 0
 
 **Week 3 · Day 5**
 Finished: 2025-01-16 10:12:03
-Week 2, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -8843,7 +8631,6 @@ Week 2, Day 4
 
 **Week 3 · Day 4**
 Finished: 2025-01-15 10:34:16
-Week 2, Day 3
 
 ### Squat (Low Bar)
 
@@ -8866,7 +8653,6 @@ Week 2, Day 3
 
 **Week 3 · Day 3**
 Finished: 2025-01-14 10:19:02
-Week 2, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -8913,7 +8699,6 @@ Week 2, Day 2
 
 **Week 3 · Day 2**
 Finished: 2025-01-13 09:49:38
-Week 2, Day 1
 
 ### Bench Press (Barbell)
 
@@ -8951,7 +8736,6 @@ Week 2, Day 1
 
 **Week 3 · Day 1**
 Finished: 2025-01-11 10:26:16
-Week 2, Day 0
 
 ### Squat (Low Bar)
 
@@ -8982,7 +8766,6 @@ Week 2, Day 0
 
 **Week 2 · Day 5**
 Finished: 2025-01-09 10:22:48
-Week 1, Day 4
 
 ### Sumo Deadlift (Barbell)
 
@@ -9014,7 +8797,6 @@ Week 1, Day 4
 
 **Week 2 · Day 4**
 Finished: 2025-01-08 10:13:29
-Week 1, Day 3
 
 ### Squat (Low Bar)
 
@@ -9037,7 +8819,6 @@ Week 1, Day 3
 
 **Week 2 · Day 3**
 Finished: 2025-01-07 10:13:01
-Week 1, Day 2
 
 ### Sumo Deadlift (Paused)
 
@@ -9084,7 +8865,6 @@ Week 1, Day 2
 
 **Week 2 · Day 2**
 Finished: 2025-01-06 09:42:17
-Week 1, Day 1
 
 ### Bench Press (Barbell)
 
@@ -9128,7 +8908,6 @@ Week 1, Day 1
 
 **Week 2 · Day 1**
 Finished: 2025-01-04 10:37:48
-Week 1, Day 0
 
 ### Squat (Low Bar)
 
