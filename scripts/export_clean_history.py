@@ -91,8 +91,6 @@ def generate_clean_history():
             lines.append(f"**{title}**")
             if workout.get('finished_at'):
                 lines.append(f"Finished: {workout.get('finished_at')}")
-            if workout.get('week'):
-                lines.append(f"Week {workout.get('week')}, Day {workout.get('day')}")
             lines.append("")
             
             # Exercises
