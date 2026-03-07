@@ -61,7 +61,8 @@ def format_set(set_data, set_num):
 def generate_clean_history():
     """Generate clean markdown from history.json"""
     
-    repo_path = Path('/home/heavenlyren/.openclaw/workspace-ai-power/powerlifting-helper')
+    # Get repo root relative to script location (scripts/ subdirectory)
+    repo_path = Path(__file__).parent.parent
     history_file = repo_path / 'values' / 'history.json'
     output_file = repo_path / 'outputs' / 'history_clean.md'
     
