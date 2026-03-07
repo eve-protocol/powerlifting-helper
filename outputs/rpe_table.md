@@ -5,7 +5,7 @@ Reference date: 2026-03-04
 
 > Legend: 🟢 <3mo • 🟡 3-6mo • 🟠 6-9mo • 🔴 9-12mo • 🟣 >1yr
 
-Generated: 2026-03-06 18:39 UTC
+Generated: 2026-03-07 01:44 UTC
 
 ## Big 3
 
