@@ -291,6 +291,18 @@ workouts:
       - 6.5
     type: Barbell
     muscles: *id002
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id012
 - week: 2
   day: 1
   name: Monday - Heavy Squat / Pause Bench
@@ -531,6 +543,18 @@ workouts:
       - 6.5
     type: Barbell
     muscles: *id002
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id012
 - week: 3
   day: 1
   name: Monday - Heavy Squat / Pause Bench
@@ -715,6 +739,18 @@ workouts:
       - 6.5
     type: Barbell
     muscles: *id002
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6
+    - target: 2
+      rpe:
+      - 6
+      - 6
+    type: Barbell
+    muscles: *id012
 - week: 4
   day: 1
   name: Monday - SBD Singles
