@@ -1,5 +1,5 @@
 name: Peaking Block v5
-description: 4-week peaking block culminating in mock meet. Singles, taper, and competition.
+description: 4-week peaking block culminating in mock meet. More competition-specific work, reduced variation, taper, and competition.
 weeks: 4
 days_per_week: 5
 workouts:
@@ -133,42 +133,24 @@ workouts:
     - Shoulders
 - week: 1
   day: 3
-  name: Wednesday - Tempo Squat + RDL
+  name: Wednesday - Light Competition Squat / Back
   exercises:
-  - name: Tempo Squat (Barbell)
+  - name: Squat (Low Bar)
     sets:
     - target: 3
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     - target: 3
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     - target: 3
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     type: Barbell
     muscles: &id008
-    - Legs
-  - name: Romanian Deadlift (Barbell)
-    sets:
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    type: Barbell
-    muscles: &id009
-    - Back
     - Legs
   - name: Leg Extension
     sets:
@@ -277,7 +259,7 @@ workouts:
     - Arms
 - week: 1
   day: 5
-  name: Saturday - Heavy Deadlift / Light Squat / Spoto
+  name: Saturday - Heavy Deadlift / Light Squat
   exercises:
   - name: Sumo Deadlift (Barbell)
     sets:
@@ -309,23 +291,6 @@ workouts:
       - 6.5
     type: Barbell
     muscles: *id002
-  - name: Spoto Press
-    sets:
-    - target: 4
-      rpe:
-      - 6.5
-      - 7
-    - target: 4
-      rpe:
-      - 6.5
-      - 7
-    - target: 4
-      rpe:
-      - 6.5
-      - 7
-    type: Barbell
-    muscles: &id016
-    - Chest
 - week: 2
   day: 1
   name: Monday - Heavy Squat / Pause Bench
@@ -436,40 +401,24 @@ workouts:
     muscles: *id007
 - week: 2
   day: 3
-  name: Wednesday - Tempo Squat + RDL
+  name: Wednesday - Light Competition Squat / Back
   exercises:
-  - name: Tempo Squat (Barbell)
+  - name: Squat (Low Bar)
     sets:
     - target: 3
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     - target: 3
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     - target: 3
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     type: Barbell
     muscles: *id008
-  - name: Romanian Deadlift (Barbell)
-    sets:
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    type: Barbell
-    muscles: *id009
   - name: Leg Extension
     sets:
     - target: 12
@@ -552,7 +501,7 @@ workouts:
     muscles: *id014
 - week: 2
   day: 5
-  name: Saturday - Heavy Deadlift / Light Squat / Spoto
+  name: Saturday - Heavy Deadlift / Light Squat
   exercises:
   - name: Sumo Deadlift (Barbell)
     sets:
@@ -582,22 +531,6 @@ workouts:
       - 6.5
     type: Barbell
     muscles: *id002
-  - name: Spoto Press
-    sets:
-    - target: 4
-      rpe:
-      - 6.5
-      - 7
-    - target: 4
-      rpe:
-      - 6.5
-      - 7
-    - target: 4
-      rpe:
-      - 6.5
-      - 7
-    type: Barbell
-    muscles: *id016
 - week: 3
   day: 1
   name: Monday - Heavy Squat / Pause Bench
@@ -692,40 +625,20 @@ workouts:
     muscles: *id007
 - week: 3
   day: 3
-  name: Wednesday - Tempo Squat + RDL
+  name: Wednesday - Light Competition Squat / Back
   exercises:
-  - name: Tempo Squat (Barbell)
+  - name: Squat (Low Bar)
     sets:
     - target: 2
       rpe:
-      - 7
-      - 7.5
+      - 6
+      - 6.5
     - target: 2
       rpe:
-      - 7
-      - 7.5
-    - target: 2
-      rpe:
-      - 7
-      - 7.5
+      - 6
+      - 6.5
     type: Barbell
     muscles: *id008
-  - name: Romanian Deadlift (Barbell)
-    sets:
-    - target: 3
-      rpe:
-      - 6.5
-      - 7
-    - target: 3
-      rpe:
-      - 6.5
-      - 7
-    - target: 3
-      rpe:
-      - 6.5
-      - 7
-    type: Barbell
-    muscles: *id009
 - week: 3
   day: 4
   name: Thursday - Heavy Bench
@@ -772,7 +685,7 @@ workouts:
     muscles: *id014
 - week: 3
   day: 5
-  name: Saturday - Heavy Deadlift / Light Squat / Spoto
+  name: Saturday - Heavy Deadlift / Light Squat
   exercises:
   - name: Sumo Deadlift (Barbell)
     sets:
@@ -802,18 +715,6 @@ workouts:
       - 6.5
     type: Barbell
     muscles: *id002
-  - name: Spoto Press
-    sets:
-    - target: 4
-      rpe:
-      - 6.5
-      - 7
-    - target: 4
-      rpe:
-      - 6.5
-      - 7
-    type: Barbell
-    muscles: *id016
 - week: 4
   day: 1
   name: Monday - SBD Singles
@@ -924,7 +825,7 @@ workouts:
     muscles: *id015
 - week: 4
   day: 4
-  name: Thursday - Blood Flow
+  name: Thursday - Light Bench Technique
   exercises:
   - name: Bench Press (Barbell)
     sets:
@@ -934,26 +835,6 @@ workouts:
       - 6
     type: Barbell
     muscles: *id012
-  - name: Spoto Press
-    sets:
-    - target: 5
-      rpe:
-      - 5
-      - 6
-    type: Barbell
-    muscles: *id016
-  - name: Bicep Curl (EZ Bar)
-    sets:
-    - target: 15
-      rpe:
-      - 5
-      - 6
-    - target: 15
-      rpe:
-      - 5
-      - 6
-    type: Barbell
-    muscles: *id014
 - week: 4
   day: 5
   name: Saturday - MOCK MEET

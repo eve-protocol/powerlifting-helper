@@ -1,5 +1,5 @@
 name: Volume Block v4
-description: 3-week volume block with RPE-based autoregulation
+description: 3-week volume block with RPE-based autoregulation. Week 3 emphasizes 5-rep top set performance while trimming accessory fatigue.
 weeks: 3
 days_per_week: 5
 workouts:
@@ -778,7 +778,7 @@ workouts:
     muscles: *id018
 - week: 3
   day: 1
-  name: Monday - Heavy Squat / Pause Bench (AMRAP)
+  name: Monday - Heavy Squat / Pause Bench (Top Set)
   exercises:
   - name: Squat (Low Bar)
     sets:
@@ -790,7 +790,7 @@ workouts:
       rpe:
       - 8.5
       - 9
-      notes: AMRAP - 1-2 reps in reserve
+      notes: Top set - stop within target RPE
     - target: 5
       rpe:
       - 7
@@ -903,18 +903,10 @@ workouts:
       rpe:
       - 7.5
       - 8
-    - target: 15
-      rpe:
-      - 7.5
-      - 8
     type: Dumbbell
     muscles: *id007
   - name: Face Pull
     sets:
-    - target: 15
-      rpe:
-      - 7.5
-      - 8
     - target: 15
       rpe:
       - 7.5
@@ -955,18 +947,10 @@ workouts:
       rpe:
       - 7
       - 7.5
-    - target: 8
-      rpe:
-      - 7
-      - 7.5
     type: Barbell
     muscles: *id010
   - name: Leg Extension
     sets:
-    - target: 15
-      rpe:
-      - 7.5
-      - 8
     - target: 15
       rpe:
       - 7.5
@@ -987,15 +971,11 @@ workouts:
       rpe:
       - 7.5
       - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
     type: Barbell
     muscles: *id012
 - week: 3
   day: 4
-  name: Thursday - Heavy Bench (AMRAP)
+  name: Thursday - Heavy Bench (Top Set)
   exercises:
   - name: Bench Press (Barbell)
     sets:
@@ -1007,7 +987,7 @@ workouts:
       rpe:
       - 8.5
       - 9
-      notes: AMRAP - 1-2 reps in reserve
+      notes: Top set - stop within target RPE
     - target: 5
       rpe:
       - 7
@@ -1032,22 +1012,10 @@ workouts:
       rpe:
       - 7.5
       - 8.5
-    - target: 6
-      rpe:
-      - 7.5
-      - 8.5
     type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:
-    - target: 12
-      rpe:
-      - 8.5
-      - 9
-    - target: 12
-      rpe:
-      - 8.5
-      - 9
     - target: 12
       rpe:
       - 8.5
@@ -1068,10 +1036,6 @@ workouts:
       rpe:
       - 7.5
       - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
     type: Machine
     muscles: *id015
   - name: Bicep Curl (EZ Bar)
@@ -1084,15 +1048,11 @@ workouts:
       rpe:
       - 7.5
       - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
     type: Barbell
     muscles: *id016
 - week: 3
   day: 5
-  name: Saturday - Heavy Deadlift / Light Squat / Spoto (AMRAP)
+  name: Saturday - Heavy Deadlift / Light Squat / Spoto (Top Set)
   exercises:
   - name: Sumo Deadlift (Barbell)
     sets:
@@ -1104,7 +1064,7 @@ workouts:
       rpe:
       - 8.5
       - 9
-      notes: AMRAP - 1-2 reps in reserve
+      notes: Top set - stop within target RPE
     - target: 5
       rpe:
       - 7
@@ -1125,18 +1085,10 @@ workouts:
       rpe:
       - 6
       - 6.5
-    - target: 6
-      rpe:
-      - 6
-      - 6.5
     type: Barbell
     muscles: *id002
   - name: Spoto Press
     sets:
-    - target: 6
-      rpe:
-      - 6.5
-      - 7
     - target: 6
       rpe:
       - 6.5
