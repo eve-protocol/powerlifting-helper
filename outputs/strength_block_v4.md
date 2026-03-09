@@ -106,7 +106,7 @@
 
 ### Week 3
 
-#### Day 1 — Monday - Heavy Squat / Pause Bench (AMRAP)
+#### Day 1 — Monday - Heavy Squat / Pause Bench (Top Set)
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -133,7 +133,7 @@
 | 3 | Leg Extension | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
 | 4 | Standing T Bar Row | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 
-#### Day 4 — Thursday - Heavy Bench (AMRAP)
+#### Day 4 — Thursday - Heavy Bench (Top Set)
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -143,7 +143,7 @@
 | 4 | Leg Curl | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 | 5 | Bicep Curl (EZ Bar) | 10 reps @ RPE 8.5-9; 10 reps @ RPE 8.5-9; 10 reps @ RPE 8.5-9 |
 
-#### Day 5 — Saturday - Heavy Deadlift / Light Squat / Spoto (AMRAP)
+#### Day 5 — Saturday - Heavy Deadlift / Light Squat / Spoto (Top Set)
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
