@@ -796,7 +796,7 @@ workouts:
     muscles: *id018
 - week: 3
   day: 1
-  name: Monday - Heavy Squat / Pause Bench (AMRAP)
+  name: Monday - Heavy Squat / Pause Bench (Top Set)
   exercises:
   - name: Squat (Low Bar)
     sets:
@@ -808,7 +808,7 @@ workouts:
       rpe:
       - 9
       - 9.5
-      notes: AMRAP - 1 rep in reserve
+      notes: Top set - stop within target RPE
     - target: 3
       rpe:
       - 7.5
@@ -1021,7 +1021,7 @@ workouts:
     muscles: *id012
 - week: 3
   day: 4
-  name: Thursday - Heavy Bench (AMRAP)
+  name: Thursday - Heavy Bench (Top Set)
   exercises:
   - name: Bench Press (Barbell)
     sets:
@@ -1033,7 +1033,7 @@ workouts:
       rpe:
       - 9
       - 9.5
-      notes: AMRAP - 1 rep in reserve
+      notes: Top set - stop within target RPE
     - target: 3
       rpe:
       - 7.5
@@ -1122,7 +1122,7 @@ workouts:
     muscles: *id016
 - week: 3
   day: 5
-  name: Saturday - Heavy Deadlift / Light Squat / Spoto (AMRAP)
+  name: Saturday - Heavy Deadlift / Light Squat / Spoto (Top Set)
   exercises:
   - name: Sumo Deadlift (Barbell)
     sets:
@@ -1134,7 +1134,7 @@ workouts:
       rpe:
       - 9
       - 9.5
-      notes: AMRAP - 1 rep in reserve
+      notes: Top set - stop within target RPE
     - target: 3
       rpe:
       - 7.5
