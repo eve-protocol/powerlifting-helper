@@ -2,6 +2,37 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-03-09
+
+**Week 3 · Day 1**
+Finished: 2026-03-09 10:14:39
+
+### Squat (Low Bar)
+
+  Set 1: 162.5kg x 1 @ RPE 8 [target RPE: 7.5-8]
+  Set 2: 155.0kg x 5 @ RPE 9 [target RPE: 8.5-9]
+  Set 3: 150.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 4: 150.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
+
+### Bench Press (Paused)
+
+  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 7-7.5]
+  Set 2: 102.5kg x 6 @ RPE 8.5 [target RPE: 6.5-7]
+  Set 3: 100.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 4: 100.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
+
+### Cable Crunch
+
+  Set 1: 40.0kg x 15 @ RPE 6 [target RPE: 7-7.5]
+  Set 2: 42.5kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 3: 42.5kg x 15 @ RPE 8.5 [target RPE: 7-7.5]
+
+### Pull-Up (Weighted)
+
+  Set 1: 22.5kg x 6 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 22.5kg x 6 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 3: 22.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
+
 ## 2026-03-07
 
 **Week 2 · Day 5**
