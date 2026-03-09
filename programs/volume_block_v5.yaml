@@ -1,6 +1,5 @@
-name: Strength Block v4
-description: 3-week strength block with RPE-based autoregulation. Lower reps, higher
-  intensity.
+name: Volume Block v5
+description: 3-week volume block with RPE-based autoregulation. Week 3 emphasizes 5-rep top set performance while trimming accessory fatigue.
 weeks: 3
 days_per_week: 5
 workouts:
@@ -12,24 +11,20 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     type: Barbell
     muscles: &id002
     - Legs
@@ -37,54 +32,54 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 4
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 4
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 4
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
     type: Barbell
     muscles: &id003
     - Chest
   - name: Cable Crunch
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    type: Cable
+    type: Machine
     muscles: &id004
-    - Abs
+    - Core
   - name: Pull-Up (Weighted)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Dumbbell
     muscles: &id001
     - Back
@@ -96,79 +91,74 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 3
+    - target: 4
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 3
+    - target: 4
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 3
+    - target: 4
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 3
-      rpe:
-      - 6.5
-      - 7
     type: Barbell
     muscles: &id005
-    - Back
     - Legs
+    - Back
   - name: Incline Bench Press (Dumbbell)
     sets:
-    - target: 6
+    - target: 8
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 6
+    - target: 8
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 6
+    - target: 8
       rpe:
+      - 6.5
       - 7
-      - 7.5
     type: Dumbbell
     muscles: &id006
     - Chest
   - name: Lateral Raise (Dumbbell)
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Dumbbell
     muscles: &id007
     - Shoulders
   - name: Face Pull
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    type: Cable
+    type: Machine
     muscles: &id008
-    - Shoulders
     - Back
 - week: 1
   day: 3
@@ -176,70 +166,78 @@ workouts:
   exercises:
   - name: Tempo Squat (Barbell)
     sets:
-    - target: 3
+    - target: 5
       rpe:
-      - 7
-      - 7.5
-    - target: 3
+      - 6
+      - 6.5
+    - target: 5
       rpe:
-      - 7
-      - 7.5
-    - target: 3
+      - 6
+      - 6.5
+    - target: 5
       rpe:
-      - 7
-      - 7.5
+      - 6
+      - 6.5
+    - target: 5
+      rpe:
+      - 6
+      - 6.5
     type: Barbell
     muscles: &id009
     - Legs
   - name: Romanian Deadlift (Barbell)
     sets:
-    - target: 6
+    - target: 8
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 6
+    - target: 8
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 6
+    - target: 8
       rpe:
+      - 6.5
       - 7
-      - 7.5
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
     type: Barbell
     muscles: &id010
     - Back
     - Legs
   - name: Leg Extension
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Machine
     muscles: &id011
     - Legs
   - name: Standing T Bar Row
     sets:
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Barbell
     muscles: &id012
     - Back
@@ -251,62 +249,58 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     type: Barbell
     muscles: &id013
     - Chest
   - name: Pull-Up (Weighted)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
     type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
@@ -315,35 +309,35 @@ workouts:
     - Arms
   - name: Leg Curl
     sets:
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Machine
     muscles: &id015
     - Legs
   - name: Bicep Curl (EZ Bar)
     sets:
-    - target: 10
+    - target: 12
       rpe:
-      - 8.5
-      - 9
-    - target: 10
+      - 7.5
+      - 8
+    - target: 12
       rpe:
-      - 8.5
-      - 9
-    - target: 10
+      - 7.5
+      - 8
+    - target: 12
       rpe:
-      - 8.5
-      - 9
+      - 7.5
+      - 8
     type: Barbell
     muscles: &id016
     - Arms
@@ -355,58 +349,54 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     type: Barbell
     muscles: &id017
     - Back
     - Legs
   - name: Squat (Low Bar)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 5
       - 6
-      - 6.5
-    - target: 5
+    - target: 6
       rpe:
+      - 5
       - 6
-      - 6.5
-    - target: 5
+    - target: 6
       rpe:
+      - 5
       - 6
-      - 6.5
     type: Barbell
     muscles: *id002
   - name: Spoto Press
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 5
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 5
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
     type: Barbell
     muscles: &id018
     - Chest
@@ -418,76 +408,72 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 3
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
+      - 7
+      - 7.5
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
+      - 7
+      - 7.5
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
-      rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
     type: Barbell
     muscles: *id002
   - name: Bench Press (Paused)
     sets:
     - target: 1
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 4
+    - target: 6
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 4
+    - target: 6
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 4
+    - target: 6
       rpe:
+      - 6.5
       - 7
-      - 7.5
     type: Barbell
     muscles: *id003
   - name: Cable Crunch
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    type: Cable
+    type: Machine
     muscles: *id004
   - name: Pull-Up (Weighted)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Dumbbell
     muscles: *id001
 - week: 2
@@ -498,73 +484,61 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 3
+    - target: 4
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 3
+    - target: 4
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 3
+    - target: 4
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 3
-      rpe:
-      - 7
-      - 7.5
     type: Barbell
     muscles: *id005
   - name: Incline Bench Press (Dumbbell)
     sets:
-    - target: 6
+    - target: 8
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 6
+    - target: 8
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 6
+    - target: 8
       rpe:
+      - 7
       - 7.5
-      - 8
     type: Dumbbell
     muscles: *id006
   - name: Lateral Raise (Dumbbell)
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
-      rpe:
-      - 8
-      - 8.5
     type: Dumbbell
     muscles: *id007
   - name: Face Pull
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
-      rpe:
-      - 8
-      - 8.5
-    type: Cable
+    type: Machine
     muscles: *id008
 - week: 2
   day: 3
@@ -572,66 +546,74 @@ workouts:
   exercises:
   - name: Tempo Squat (Barbell)
     sets:
-    - target: 3
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
     type: Barbell
     muscles: *id009
   - name: Romanian Deadlift (Barbell)
     sets:
-    - target: 6
+    - target: 8
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 6
+    - target: 8
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 6
+    - target: 8
       rpe:
+      - 7
       - 7.5
-      - 8
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
     type: Barbell
     muscles: *id010
   - name: Leg Extension
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Machine
     muscles: *id011
   - name: Standing T Bar Row
     sets:
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Barbell
     muscles: *id012
 - week: 2
@@ -642,61 +624,45 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 3
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
+      - 7
+      - 7.5
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
+      - 7
+      - 7.5
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
-      rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
     type: Barbell
     muscles: *id013
   - name: Pull-Up (Weighted)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
-      rpe:
-      - 8.5
-      - 9
     type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
-    - target: 10
-      rpe:
-      - 8.5
-      - 9
-    - target: 10
-      rpe:
-      - 8.5
-      - 9
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
@@ -704,34 +670,26 @@ workouts:
     muscles: *id014
   - name: Leg Curl
     sets:
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
-      rpe:
-      - 8
-      - 8.5
     type: Machine
     muscles: *id015
   - name: Bicep Curl (EZ Bar)
     sets:
-    - target: 10
+    - target: 12
       rpe:
-      - 8.5
-      - 9
-    - target: 10
+      - 7.5
+      - 8
+    - target: 12
       rpe:
-      - 8.5
-      - 9
-    - target: 10
-      rpe:
-      - 8.5
-      - 9
+      - 7.5
+      - 8
     type: Barbell
     muscles: *id016
 - week: 2
@@ -742,53 +700,41 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 3
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
+      - 7
+      - 7.5
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
+      - 7
+      - 7.5
+    - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 3
-      rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
     type: Barbell
     muscles: *id017
   - name: Squat (Low Bar)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 5
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
     type: Barbell
     muscles: *id002
   - name: Spoto Press
     sets:
-    - target: 5
+    - target: 6
       rpe:
       - 6.5
       - 7
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
-    - target: 5
+    - target: 6
       rpe:
       - 6.5
       - 7
@@ -802,77 +748,73 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
+    - target: 5
+      rpe:
       - 8.5
-    - target: 3
-      rpe:
       - 9
-      - 9.5
       notes: Top set - stop within target RPE
-    - target: 3
+    - target: 5
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
+    - target: 5
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
     type: Barbell
     muscles: *id002
   - name: Bench Press (Paused)
     sets:
     - target: 1
       rpe:
-      - 7.5
-      - 8
-    - target: 4
-      rpe:
       - 7
       - 7.5
-    - target: 4
+    - target: 6
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 4
+    - target: 6
       rpe:
+      - 6.5
       - 7
-      - 7.5
+    - target: 6
+      rpe:
+      - 6.5
+      - 7
     type: Barbell
     muscles: *id003
   - name: Cable Crunch
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 12
+    - target: 15
       rpe:
+      - 7
       - 7.5
-      - 8
-    type: Cable
+    type: Machine
     muscles: *id004
   - name: Pull-Up (Weighted)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Dumbbell
     muscles: *id001
 - week: 3
@@ -883,73 +825,69 @@ workouts:
     sets:
     - target: 1
       rpe:
-      - 7.5
-      - 8
-    - target: 3
-      rpe:
       - 7
       - 7.5
-    - target: 3
+    - target: 4
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 3
+    - target: 4
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 3
+    - target: 4
       rpe:
+      - 6.5
       - 7
-      - 7.5
     type: Barbell
     muscles: *id005
   - name: Incline Bench Press (Dumbbell)
     sets:
-    - target: 6
+    - target: 4
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 6
+    - target: 4
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 6
+    - target: 4
       rpe:
+      - 7
       - 7.5
-      - 8
     type: Dumbbell
     muscles: *id006
   - name: Lateral Raise (Dumbbell)
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Dumbbell
     muscles: *id007
   - name: Face Pull
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    type: Cable
+    type: Machine
     muscles: *id008
 - week: 3
   day: 3
@@ -957,66 +895,54 @@ workouts:
   exercises:
   - name: Tempo Squat (Barbell)
     sets:
-    - target: 3
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
-    - target: 3
+      - 6.5
+      - 7
+    - target: 5
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     type: Barbell
     muscles: *id009
   - name: Romanian Deadlift (Barbell)
     sets:
-    - target: 6
+    - target: 8
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 6
+    - target: 8
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
     type: Barbell
     muscles: *id010
   - name: Leg Extension
     sets:
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
+    - target: 15
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 12
-      rpe:
-      - 8
-      - 8.5
     type: Machine
     muscles: *id011
   - name: Standing T Bar Row
     sets:
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
-      rpe:
-      - 8
-      - 8.5
     type: Barbell
     muscles: *id012
 - week: 3
@@ -1027,62 +953,58 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
+    - target: 5
+      rpe:
       - 8.5
-    - target: 3
-      rpe:
       - 9
-      - 9.5
       notes: Top set - stop within target RPE
-    - target: 3
+    - target: 5
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
+    - target: 5
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
     type: Barbell
     muscles: *id013
   - name: Pull-Up (Weighted)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
-    - target: 5
+    - target: 6
       rpe:
+      - 7.5
       - 8.5
-      - 9
     type: Dumbbell
     muscles: *id001
   - name: Overhead Tricep Extension (Cable)
     sets:
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
-    - target: 10
+    - target: 12
       rpe:
       - 8.5
       - 9
@@ -1090,34 +1012,34 @@ workouts:
     muscles: *id014
   - name: Leg Curl
     sets:
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
-    - target: 10
+    - target: 12
       rpe:
+      - 7.5
       - 8
-      - 8.5
     type: Machine
     muscles: *id015
   - name: Bicep Curl (EZ Bar)
     sets:
-    - target: 10
+    - target: 12
       rpe:
-      - 8.5
-      - 9
-    - target: 10
+      - 7.5
+      - 8
+    - target: 12
       rpe:
-      - 8.5
-      - 9
-    - target: 10
+      - 7.5
+      - 8
+    - target: 12
       rpe:
-      - 8.5
-      - 9
+      - 7.5
+      - 8
     type: Barbell
     muscles: *id016
 - week: 3
@@ -1128,56 +1050,52 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
+    - target: 5
+      rpe:
       - 8.5
-    - target: 3
-      rpe:
       - 9
-      - 9.5
       notes: Top set - stop within target RPE
-    - target: 3
+    - target: 5
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
+    - target: 5
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
     type: Barbell
     muscles: *id017
   - name: Squat (Low Bar)
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 5
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 5
+    - target: 6
       rpe:
+      - 6
       - 6.5
-      - 7
     type: Barbell
     muscles: *id002
   - name: Spoto Press
     sets:
-    - target: 5
+    - target: 6
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 5
+    - target: 6
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 5
+    - target: 6
       rpe:
+      - 6.5
       - 7
-      - 7.5
     type: Barbell
     muscles: *id018
