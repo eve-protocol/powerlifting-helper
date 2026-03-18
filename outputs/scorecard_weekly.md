@@ -4,2806 +4,3928 @@
 
 ## Volume Block v5 / Week 3
 
+Comparison baseline: Volume Block v4 / Week 3
+
 ### Squat family
 
-- Sessions: 2
-- Total sets: 6
-- Avg sets/session: 3
-- Avg RPE: 6.92
-- Avg load: 135kg
-- Tonnage: 4470kg
-- Avg tonnage/session: 2235kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 1 | ↑ 1 |
+| Total sets | 6 | 4 | ↑ 2 |
+| Avg sets/session | 3 | 4 | ↓ 1 |
+| Avg RPE | 6.92 | 8.25 | ↓ 1.33 |
+| Avg load | 135kg | 154.4kg | ↓ 19.4kg |
+| Tonnage | 4470kg | 2437.5kg | ↑ 2032.5kg |
+| Avg tonnage/session | 2235kg | 2437.5kg | ↓ 202.5kg |
+
 - Top single: -
+- Previous top single: 162.5kg x 1 @ 8
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 140kg x 6 @ 7
-- Change vs previous scorecards: avg sets/session -1, avg RPE -1.33, avg load -19.4kg, tonnage +2032.5kg, avg tonnage/session -202.5kg
+- Previous top work set: 155kg x 5 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 7.80
-- Avg load: 93kg
-- Tonnage: 4320kg
-- Avg tonnage/session: 1440kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 1 | ↑ 2 |
+| Total sets | 10 | 4 | ↑ 6 |
+| Avg sets/session | 3.33 | 4 | ↓ 0.67 |
+| Avg RPE | 7.80 | 7.62 | ↑ 0.18 |
+| Avg load | 93kg | 104.4kg | ↓ 11.4kg |
+| Tonnage | 4320kg | 1930kg | ↑ 2390kg |
+| Avg tonnage/session | 1440kg | 1930kg | ↓ 490kg |
+
 - Top single: 125kg x 1 @ 8.50
+- Previous top single: 115kg x 1 @ 7
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 5 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.67, avg RPE +0.18, avg load -11.4kg, tonnage +2390kg, avg tonnage/session -490kg
-- Main-lift change: top single +10kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 102.5kg x 6 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 7.85
-- Avg load: 159.5kg
-- Tonnage: 6827.5kg
-- Avg tonnage/session: 2275.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | - | n/a |
+| Total sets | 10 | - | n/a |
+| Avg sets/session | 3.33 | - | n/a |
+| Avg RPE | 7.85 | - | n/a |
+| Avg load | 159.5kg | - | n/a |
+| Tonnage | 6827.5kg | - | n/a |
+| Avg tonnage/session | 2275.8kg | - | n/a |
+
 - Top single: 190kg x 1 @ 9
 - Top work set: 170kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session n/a, avg RPE n/a, avg load n/a, tonnage n/a, avg tonnage/session n/a
 
 ## Volume Block v4 / Week 3
 
+Comparison baseline: Volume Block v4 / Week 2
+
 ### Squat family
 
-- Sessions: 1
-- Total sets: 4
-- Avg sets/session: 4
-- Avg RPE: 8.25
-- Avg load: 154.4kg
-- Tonnage: 2437.5kg
-- Avg tonnage/session: 2437.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 4 | 11 | ↓ 7 |
+| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Avg RPE | 8.25 | 6.64 | ↑ 1.61 |
+| Avg load | 154.4kg | 139.3kg | ↑ 15.1kg |
+| Tonnage | 2437.5kg | 7432.5kg | ↓ 4995kg |
+| Avg tonnage/session | 2437.5kg | 2477.5kg | ↓ 40kg |
+
 - Top single: 162.5kg x 1 @ 8
+- Previous top single: 160kg x 1 @ 7.50
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 155kg x 5 @ 9
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE +1.61, avg load +15.1kg, tonnage -4995kg, avg tonnage/session -40kg
-- Main-lift change: top single +2.5kg, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 5 @ 7.50
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 1
-- Total sets: 4
-- Avg sets/session: 4
-- Avg RPE: 7.62
-- Avg load: 104.4kg
-- Tonnage: 1930kg
-- Avg tonnage/session: 1930kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 4 | ↓ 3 |
+| Total sets | 4 | 14 | ↓ 10 |
+| Avg sets/session | 4 | 3.50 | ↑ 0.50 |
+| Avg RPE | 7.62 | 7.82 | ↓ 0.20 |
+| Avg load | 104.4kg | 94.5kg | ↑ 9.9kg |
+| Tonnage | 1930kg | 6665kg | ↓ 4735kg |
+| Avg tonnage/session | 1930kg | 1666.2kg | ↑ 263.8kg |
+
 - Top single: 115kg x 1 @ 7
+- Previous top single: 122.5kg x 1 @ 8.50
+- Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 102.5kg x 6 @ 8.50
-- Change vs previous scorecards: avg sets/session +0.50, avg RPE -0.20, avg load +9.9kg, tonnage -4735kg, avg tonnage/session +263.8kg
-- Main-lift change: top single -7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 110kg x 5 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Volume Block v4 / Week 2
 
+Comparison baseline: Volume Block v4 / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 6.64
-- Avg load: 139.3kg
-- Tonnage: 7432.5kg
-- Avg tonnage/session: 2477.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 1 | ↑ 2 |
+| Total sets | 11 | 3 | ↑ 8 |
+| Avg sets/session | 3.67 | 3 | ↑ 0.67 |
+| Avg RPE | 6.64 | 6.50 | ↑ 0.14 |
+| Avg load | 139.3kg | 135kg | ↑ 4.3kg |
+| Tonnage | 7432.5kg | 2430kg | ↑ 5002.5kg |
+| Avg tonnage/session | 2477.5kg | 2430kg | ↑ 47.5kg |
+
 - Top single: 160kg x 1 @ 7.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 150kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.67, avg RPE +0.14, avg load +4.3kg, tonnage +5002.5kg, avg tonnage/session +47.5kg
+- Previous top work set: 140kg x 6 @ 6
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 7.82
-- Avg load: 94.5kg
-- Tonnage: 6665kg
-- Avg tonnage/session: 1666.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 1 | ↑ 3 |
+| Total sets | 14 | 3 | ↑ 11 |
+| Avg sets/session | 3.50 | 3 | ↑ 0.50 |
+| Avg RPE | 7.82 | 6.33 | ↑ 1.49 |
+| Avg load | 94.5kg | 102.5kg | ↓ 8kg |
+| Tonnage | 6665kg | 1845kg | ↑ 4820kg |
+| Avg tonnage/session | 1666.2kg | 1845kg | ↓ 178.8kg |
+
 - Top single: 122.5kg x 1 @ 8.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 110kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.50, avg RPE +1.49, avg load -8kg, tonnage +4820kg, avg tonnage/session -178.8kg
+- Previous top work set: 105kg x 6 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 6.96
-- Avg load: 149.8kg
-- Tonnage: 8632.5kg
-- Avg tonnage/session: 2877.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 1 | ↑ 2 |
+| Total sets | 12 | 4 | ↑ 8 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 6.96 | 7.75 | ↓ 0.79 |
+| Avg load | 149.8kg | 165kg | ↓ 15.2kg |
+| Tonnage | 8632.5kg | 2580kg | ↑ 6052.5kg |
+| Avg tonnage/session | 2877.5kg | 2580kg | ↑ 297.5kg |
+
 - Top single: 185kg x 1 @ 8
+- Previous top single: 180kg x 1 @ 8
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 167.5kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.79, avg load -15.2kg, tonnage +6052.5kg, avg tonnage/session +297.5kg
-- Main-lift change: top single +5kg, top work set +7.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 160kg x 5 @ 7.50
+- Top work-set delta: ↑ 7.5kg (only meaningful when the rep scheme is comparable)
 
 ## Volume Block v4 / Week 1
 
+Comparison baseline: Volume Block v3 / Week 1
+
 ### Squat family
 
-- Sessions: 1
-- Total sets: 3
-- Avg sets/session: 3
-- Avg RPE: 6.50
-- Avg load: 135kg
-- Tonnage: 2430kg
-- Avg tonnage/session: 2430kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 2 | ↓ 1 |
+| Total sets | 3 | 9 | ↓ 6 |
+| Avg sets/session | 3 | 4.50 | ↓ 1.50 |
+| Avg RPE | 6.50 | 7.28 | ↓ 0.78 |
+| Avg load | 135kg | 137.8kg | ↓ 2.8kg |
+| Tonnage | 2430kg | 5580kg | ↓ 3150kg |
+| Avg tonnage/session | 2430kg | 2790kg | ↓ 360kg |
+
 - Top single: -
+- Previous top single: 155kg x 1 @ 7.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 140kg x 6 @ 6
-- Change vs previous scorecards: avg sets/session -1.50, avg RPE -0.78, avg load -2.8kg, tonnage -3150kg, avg tonnage/session -360kg
+- Previous top work set: 145kg x 5 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 1
-- Total sets: 3
-- Avg sets/session: 3
-- Avg RPE: 6.33
-- Avg load: 102.5kg
-- Tonnage: 1845kg
-- Avg tonnage/session: 1845kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 3 | 13 | ↓ 10 |
+| Avg sets/session | 3 | 4.33 | ↓ 1.33 |
+| Avg RPE | 6.33 | 7.73 | ↓ 1.40 |
+| Avg load | 102.5kg | 94.2kg | ↑ 8.3kg |
+| Tonnage | 1845kg | 6020kg | ↓ 4175kg |
+| Avg tonnage/session | 1845kg | 2006.7kg | ↓ 161.7kg |
+
 - Top single: -
+- Previous top single: 120kg x 1 @ 7.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 105kg x 6 @ 7
-- Change vs previous scorecards: avg sets/session -1.33, avg RPE -1.40, avg load +8.3kg, tonnage -4175kg, avg tonnage/session -161.7kg
+- Previous top work set: 112.5kg x 5 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 1
-- Total sets: 4
-- Avg sets/session: 4
-- Avg RPE: 7.75
-- Avg load: 165kg
-- Tonnage: 2580kg
-- Avg tonnage/session: 2580kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 2 | ↓ 1 |
+| Total sets | 4 | 8 | ↓ 4 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.75 | 7.19 | ↑ 0.56 |
+| Avg load | 165kg | 140kg | ↑ 25kg |
+| Tonnage | 2580kg | 5320kg | ↓ 2740kg |
+| Avg tonnage/session | 2580kg | 2660kg | ↓ 80kg |
+
 - Top single: 180kg x 1 @ 8
+- Previous top single: 160kg x 1 @ 6.50
+- Top single delta: ↑ 20kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.56, avg load +25kg, tonnage -2740kg, avg tonnage/session -80kg
-- Main-lift change: top single +20kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 4 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Volume Block v3 / Week 1
 
+Comparison baseline: Volume Block v2 / Week 3
+
 ### Squat family
 
-- Sessions: 2
-- Total sets: 9
-- Avg sets/session: 4.50
-- Avg RPE: 7.28
-- Avg load: 137.8kg
-- Tonnage: 5580kg
-- Avg tonnage/session: 2790kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 9 | 11 | ↓ 2 |
+| Avg sets/session | 4.50 | 3.67 | ↑ 0.83 |
+| Avg RPE | 7.28 | 7 | ↑ 0.28 |
+| Avg load | 137.8kg | 130.7kg | ↑ 7.1kg |
+| Tonnage | 5580kg | 6190kg | ↓ 610kg |
+| Avg tonnage/session | 2790kg | 2063.3kg | ↑ 726.7kg |
+
 - Top single: 155kg x 1 @ 7.50
+- Previous top single: 157.5kg x 1 @ 9
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 145kg x 5 @ 8
-- Change vs previous scorecards: avg sets/session +0.83, avg RPE +0.28, avg load +7.1kg, tonnage -610kg, avg tonnage/session +726.7kg
-- Main-lift change: top single -2.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 142.5kg x 5 @ 9
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.73
-- Avg load: 94.2kg
-- Tonnage: 6020kg
-- Avg tonnage/session: 2006.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 4 | ↓ 1 |
+| Total sets | 13 | 14 | ↓ 1 |
+| Avg sets/session | 4.33 | 3.50 | ↑ 0.83 |
+| Avg RPE | 7.73 | 8 | ↓ 0.27 |
+| Avg load | 94.2kg | 92kg | ↑ 2.2kg |
+| Tonnage | 6020kg | 6364.5kg | ↓ 344.5kg |
+| Avg tonnage/session | 2006.7kg | 1591.1kg | ↑ 415.6kg |
+
 - Top single: 120kg x 1 @ 7.50
+- Previous top single: 122kg x 1 @ 9
+- Top single delta: ↓ 2kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.83, avg RPE -0.27, avg load +2.2kg, tonnage -344.5kg, avg tonnage/session +415.6kg
-- Main-lift change: top single -2kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 4 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 2
-- Total sets: 8
-- Avg sets/session: 4
-- Avg RPE: 7.19
-- Avg load: 140kg
-- Tonnage: 5320kg
-- Avg tonnage/session: 2660kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 2 | → 0 |
+| Total sets | 8 | 7 | ↑ 1 |
+| Avg sets/session | 4 | 3.50 | ↑ 0.50 |
+| Avg RPE | 7.19 | 6.79 | ↑ 0.40 |
+| Avg load | 140kg | 163.9kg | ↓ 23.9kg |
+| Tonnage | 5320kg | 4047.5kg | ↑ 1272.5kg |
+| Avg tonnage/session | 2660kg | 2023.8kg | ↑ 636.2kg |
+
 - Top single: 160kg x 1 @ 6.50
+- Previous top single: 180kg x 1 @ 8.50
+- Top single delta: ↓ 20kg (only meaningful when the variation is comparable)
 - Top work set: 150kg x 4 @ 7
-- Change vs previous scorecards: avg sets/session +0.50, avg RPE +0.40, avg load -23.9kg, tonnage +1272.5kg, avg tonnage/session +636.2kg
-- Main-lift change: top single -20kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 165kg x 3 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Volume Block v2 / Week 3
 
+Comparison baseline: Volume Block v2 / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7
-- Avg load: 130.7kg
-- Tonnage: 6190kg
-- Avg tonnage/session: 2063.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 10 | ↑ 1 |
+| Avg sets/session | 3.67 | 3.33 | ↑ 0.34 |
+| Avg RPE | 7 | 7.40 | ↓ 0.40 |
+| Avg load | 130.7kg | 125.8kg | ↑ 4.9kg |
+| Tonnage | 6190kg | 6020kg | ↑ 170kg |
+| Avg tonnage/session | 2063.3kg | 2006.7kg | ↑ 56.6kg |
+
 - Top single: 157.5kg x 1 @ 9
+- Previous top single: 155kg x 1 @ 8
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 142.5kg x 5 @ 9
-- Change vs previous scorecards: avg sets/session +0.34, avg RPE -0.40, avg load +4.9kg, tonnage +170kg, avg tonnage/session +56.6kg
-- Main-lift change: top single +2.5kg, top work set +10kg (only when the same rep scheme is comparable)
+- Previous top work set: 132.5kg x 5 @ 7.50
+- Top work-set delta: ↑ 10kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 8
-- Avg load: 92kg
-- Tonnage: 6364.5kg
-- Avg tonnage/session: 1591.1kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 15 | ↓ 1 |
+| Avg sets/session | 3.50 | 3.75 | ↓ 0.25 |
+| Avg RPE | 8 | 7.50 | ↑ 0.50 |
+| Avg load | 92kg | 89.7kg | ↑ 2.3kg |
+| Tonnage | 6364.5kg | 8315kg | ↓ 1950.5kg |
+| Avg tonnage/session | 1591.1kg | 2078.8kg | ↓ 487.7kg |
+
 - Top single: 122kg x 1 @ 9
+- Previous top single: 120kg x 1 @ 8
+- Top single delta: ↑ 2kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 4 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.25, avg RPE +0.50, avg load +2.3kg, tonnage -1950.5kg, avg tonnage/session -487.7kg
-- Main-lift change: top single +2kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 102.5kg x 8 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 2
-- Total sets: 7
-- Avg sets/session: 3.50
-- Avg RPE: 6.79
-- Avg load: 163.9kg
-- Tonnage: 4047.5kg
-- Avg tonnage/session: 2023.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 7 | 10 | ↓ 3 |
+| Avg sets/session | 3.50 | 3.33 | ↑ 0.17 |
+| Avg RPE | 6.79 | 7.40 | ↓ 0.61 |
+| Avg load | 163.9kg | 143kg | ↑ 20.9kg |
+| Tonnage | 4047.5kg | 7085kg | ↓ 3037.5kg |
+| Avg tonnage/session | 2023.8kg | 2361.7kg | ↓ 337.9kg |
+
 - Top single: 180kg x 1 @ 8.50
+- Previous top single: 177.5kg x 1 @ 8
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 165kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session +0.17, avg RPE -0.61, avg load +20.9kg, tonnage -3037.5kg, avg tonnage/session -337.9kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 152.5kg x 5 @ 6.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Volume Block v2 / Week 2
 
+Comparison baseline: Ultra Frequency Volume Block / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 7.40
-- Avg load: 125.8kg
-- Tonnage: 6020kg
-- Avg tonnage/session: 2006.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 5 | ↓ 2 |
+| Total sets | 10 | 20 | ↓ 10 |
+| Avg sets/session | 3.33 | 4 | ↓ 0.67 |
+| Avg RPE | 7.40 | 8.50 | ↓ 1.10 |
+| Avg load | 125.8kg | 113.6kg | ↑ 12.2kg |
+| Tonnage | 6020kg | 9412.5kg | ↓ 3392.5kg |
+| Avg tonnage/session | 2006.7kg | 1882.5kg | ↑ 124.2kg |
+
 - Top single: 155kg x 1 @ 8
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 132.5kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session -0.67, avg RPE -1.10, avg load +12.2kg, tonnage -3392.5kg, avg tonnage/session +124.2kg
-- Main-lift change: top single n/a, top work set +7.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 125kg x 5 @ 9
+- Top work-set delta: ↑ 7.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 7.50
-- Avg load: 89.7kg
-- Tonnage: 8315kg
-- Avg tonnage/session: 2078.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 5 | ↓ 1 |
+| Total sets | 15 | 19 | ↓ 4 |
+| Avg sets/session | 3.75 | 3.80 | ↓ 0.05 |
+| Avg RPE | 7.50 | 7.91 | ↓ 0.41 |
+| Avg load | 89.7kg | 90.7kg | ↓ 1kg |
+| Tonnage | 8315kg | 7952.5kg | ↑ 362.5kg |
+| Avg tonnage/session | 2078.8kg | 1590.5kg | ↑ 488.3kg |
+
 - Top single: 120kg x 1 @ 8
+- Previous top single: 115kg x 1 @ 7
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 102.5kg x 8 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.05, avg RPE -0.41, avg load -1kg, tonnage +362.5kg, avg tonnage/session +488.3kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 110kg x 4 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 7.40
-- Avg load: 143kg
-- Tonnage: 7085kg
-- Avg tonnage/session: 2361.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 5 | ↓ 2 |
+| Total sets | 10 | 19 | ↓ 9 |
+| Avg sets/session | 3.33 | 3.80 | ↓ 0.47 |
+| Avg RPE | 7.40 | 6.50 | ↑ 0.90 |
+| Avg load | 143kg | 132.1kg | ↑ 10.9kg |
+| Tonnage | 7085kg | 11800kg | ↓ 4715kg |
+| Avg tonnage/session | 2361.7kg | 2360kg | ↑ 1.7kg |
+
 - Top single: 177.5kg x 1 @ 8
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 152.5kg x 5 @ 6.50
-- Change vs previous scorecards: avg sets/session -0.47, avg RPE +0.90, avg load +10.9kg, tonnage -4715kg, avg tonnage/session +1.7kg
+- Previous top work set: 145kg x 3 @ -
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Ultra Frequency Volume Block / Week 1
 
+Comparison baseline: Ultra Frequency Building Block / Week 4
+
 ### Squat family
 
-- Sessions: 5
-- Total sets: 20
-- Avg sets/session: 4
-- Avg RPE: 8.50
-- Avg load: 113.6kg
-- Tonnage: 9412.5kg
-- Avg tonnage/session: 1882.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 20 | 7 | ↑ 13 |
+| Avg sets/session | 4 | 1.40 | ↑ 2.60 |
+| Avg RPE | 8.50 | 8.14 | ↑ 0.36 |
+| Avg load | 113.6kg | 146.8kg | ↓ 33.2kg |
+| Tonnage | 9412.5kg | 1547.5kg | ↑ 7865kg |
+| Avg tonnage/session | 1882.5kg | 309.5kg | ↑ 1573kg |
+
 - Top single: -
+- Previous top single: 160kg x 1 @ 9.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 125kg x 5 @ 9
-- Change vs previous scorecards: avg sets/session +2.60, avg RPE +0.36, avg load -33.2kg, tonnage +7865kg, avg tonnage/session +1573kg
+- Previous top work set: 130kg x 3 @ 6.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 19
-- Avg sets/session: 3.80
-- Avg RPE: 7.91
-- Avg load: 90.7kg
-- Tonnage: 7952.5kg
-- Avg tonnage/session: 1590.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 19 | 16 | ↑ 3 |
+| Avg sets/session | 3.80 | 3.20 | ↑ 0.60 |
+| Avg RPE | 7.91 | 8.38 | ↓ 0.47 |
+| Avg load | 90.7kg | 103kg | ↓ 12.3kg |
+| Tonnage | 7952.5kg | 3287.5kg | ↑ 4665kg |
+| Avg tonnage/session | 1590.5kg | 657.5kg | ↑ 933kg |
+
 - Top single: 115kg x 1 @ 7
+- Previous top single: 130kg x 1 @ 9.50
+- Top single delta: ↓ 15kg (only meaningful when the variation is comparable)
 - Top work set: 110kg x 4 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.60, avg RPE -0.47, avg load -12.3kg, tonnage +4665kg, avg tonnage/session +933kg
-- Main-lift change: top single -15kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 2 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 5
-- Total sets: 19
-- Avg sets/session: 3.80
-- Avg RPE: 6.50
-- Avg load: 132.1kg
-- Tonnage: 11800kg
-- Avg tonnage/session: 2360kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 19 | 9 | ↑ 10 |
+| Avg sets/session | 3.80 | 1.80 | ↑ 2 |
+| Avg RPE | 6.50 | 7.89 | ↓ 1.39 |
+| Avg load | 132.1kg | 149.4kg | ↓ 17.3kg |
+| Tonnage | 11800kg | 3380kg | ↑ 8420kg |
+| Avg tonnage/session | 2360kg | 676kg | ↑ 1684kg |
+
 - Top single: -
+- Previous top single: 185kg x 1 @ 9
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 145kg x 3 @ -
-- Change vs previous scorecards: avg sets/session +2, avg RPE -1.39, avg load -17.3kg, tonnage +8420kg, avg tonnage/session +1684kg
+- Previous top work set: 155kg x 2 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Ultra Frequency Building Block / Week 4
 
+Comparison baseline: Ultra Frequency Building Block / Week 3
+
 ### Squat family
 
-- Sessions: 5
-- Total sets: 7
-- Avg sets/session: 1.40
-- Avg RPE: 8.14
-- Avg load: 146.8kg
-- Tonnage: 1547.5kg
-- Avg tonnage/session: 309.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 7 | 21 | ↓ 14 |
+| Avg sets/session | 1.40 | 4.20 | ↓ 2.80 |
+| Avg RPE | 8.14 | 7.05 | ↑ 1.09 |
+| Avg load | 146.8kg | 130.4kg | ↑ 16.4kg |
+| Tonnage | 1547.5kg | 9722.5kg | ↓ 8175kg |
+| Avg tonnage/session | 309.5kg | 1944.5kg | ↓ 1635kg |
+
 - Top single: 160kg x 1 @ 9.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 130kg x 3 @ 6.50
-- Change vs previous scorecards: avg sets/session -2.80, avg RPE +1.09, avg load +16.4kg, tonnage -8175kg, avg tonnage/session -1635kg
-- Main-lift change: top single n/a, top work set -17.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 147.5kg x 3 @ 6
+- Top work-set delta: ↓ 17.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 16
-- Avg sets/session: 3.20
-- Avg RPE: 8.38
-- Avg load: 103kg
-- Tonnage: 3287.5kg
-- Avg tonnage/session: 657.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 16 | 20 | ↓ 4 |
+| Avg sets/session | 3.20 | 4 | ↓ 0.80 |
+| Avg RPE | 8.38 | 7 | ↑ 1.38 |
+| Avg load | 103kg | 97.1kg | ↑ 5.9kg |
+| Tonnage | 3287.5kg | 7120kg | ↓ 3832.5kg |
+| Avg tonnage/session | 657.5kg | 1424kg | ↓ 766.5kg |
+
 - Top single: 130kg x 1 @ 9.50
+- Previous top single: 120kg x 1 @ 8
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session -0.80, avg RPE +1.38, avg load +5.9kg, tonnage -3832.5kg, avg tonnage/session -766.5kg
-- Main-lift change: top single +10kg, top work set -5kg (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 2 @ 8
+- Top work-set delta: ↓ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 5
-- Total sets: 9
-- Avg sets/session: 1.80
-- Avg RPE: 7.89
-- Avg load: 149.4kg
-- Tonnage: 3380kg
-- Avg tonnage/session: 676kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 9 | 19 | ↓ 10 |
+| Avg sets/session | 1.80 | 3.80 | ↓ 2 |
+| Avg RPE | 7.89 | 7.21 | ↑ 0.68 |
+| Avg load | 149.4kg | 141.6kg | ↑ 7.8kg |
+| Tonnage | 3380kg | 10095kg | ↓ 6715kg |
+| Avg tonnage/session | 676kg | 2019kg | ↓ 1343kg |
+
 - Top single: 185kg x 1 @ 9
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 7
-- Change vs previous scorecards: avg sets/session -2, avg RPE +0.68, avg load +7.8kg, tonnage -6715kg, avg tonnage/session -1343kg
-- Main-lift change: top single n/a, top work set -15kg (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 8.50
+- Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
 
 ## Ultra Frequency Building Block / Week 3
 
+Comparison baseline: Ultra Frequency Building Block / Week 2
+
 ### Squat family
 
-- Sessions: 5
-- Total sets: 21
-- Avg sets/session: 4.20
-- Avg RPE: 7.05
-- Avg load: 130.4kg
-- Tonnage: 9722.5kg
-- Avg tonnage/session: 1944.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 21 | 21 | → 0 |
+| Avg sets/session | 4.20 | 4.20 | → 0 |
+| Avg RPE | 7.05 | 6.83 | ↑ 0.22 |
+| Avg load | 130.4kg | 129.6kg | ↑ 0.8kg |
+| Tonnage | 9722.5kg | 10111kg | ↓ 388.5kg |
+| Avg tonnage/session | 1944.5kg | 2022.2kg | ↓ 77.7kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 147.5kg x 3 @ 6
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.22, avg load +0.8kg, tonnage -388.5kg, avg tonnage/session -77.7kg
-- Main-lift change: top single n/a, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 142.5kg x 3 @ 7.50
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 20
-- Avg sets/session: 4
-- Avg RPE: 7
-- Avg load: 97.1kg
-- Tonnage: 7120kg
-- Avg tonnage/session: 1424kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 20 | 20 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7 | 6.68 | ↑ 0.32 |
+| Avg load | 97.1kg | 95.7kg | ↑ 1.4kg |
+| Tonnage | 7120kg | 8052kg | ↓ 932kg |
+| Avg tonnage/session | 1424kg | 1610.4kg | ↓ 186.4kg |
+
 - Top single: 120kg x 1 @ 8
+- Previous top single: 117.5kg x 1 @ 7
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.32, avg load +1.4kg, tonnage -932kg, avg tonnage/session -186.4kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 5
-- Total sets: 19
-- Avg sets/session: 3.80
-- Avg RPE: 7.21
-- Avg load: 141.6kg
-- Tonnage: 10095kg
-- Avg tonnage/session: 2019kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 19 | 19 | → 0 |
+| Avg sets/session | 3.80 | 3.80 | → 0 |
+| Avg RPE | 7.21 | 7.03 | ↑ 0.18 |
+| Avg load | 141.6kg | 140.8kg | ↑ 0.8kg |
+| Tonnage | 10095kg | 10455kg | ↓ 360kg |
+| Avg tonnage/session | 2019kg | 2091kg | ↓ 72kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.18, avg load +0.8kg, tonnage -360kg, avg tonnage/session -72kg
-- Main-lift change: top single n/a, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 7.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ## Ultra Frequency Building Block / Week 2
 
+Comparison baseline: Ultra Frequency Building Block / Week 1
+
 ### Squat family
 
-- Sessions: 5
-- Total sets: 21
-- Avg sets/session: 4.20
-- Avg RPE: 6.83
-- Avg load: 129.6kg
-- Tonnage: 10111kg
-- Avg tonnage/session: 2022.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 21 | 21 | → 0 |
+| Avg sets/session | 4.20 | 4.20 | → 0 |
+| Avg RPE | 6.83 | 6.26 | ↑ 0.57 |
+| Avg load | 129.6kg | 121kg | ↑ 8.6kg |
+| Tonnage | 10111kg | 9518kg | ↑ 593kg |
+| Avg tonnage/session | 2022.2kg | 1903.6kg | ↑ 118.6kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 142.5kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.57, avg load +8.6kg, tonnage +593kg, avg tonnage/session +118.6kg
-- Main-lift change: top single n/a, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 140kg x 3 @ 7
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 20
-- Avg sets/session: 4
-- Avg RPE: 6.68
-- Avg load: 95.7kg
-- Tonnage: 8052kg
-- Avg tonnage/session: 1610.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 20 | 20 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 6.68 | 6.33 | ↑ 0.35 |
+| Avg load | 95.7kg | 90.2kg | ↑ 5.5kg |
+| Tonnage | 8052kg | 7870kg | ↑ 182kg |
+| Avg tonnage/session | 1610.4kg | 1574kg | ↑ 36.4kg |
+
 - Top single: 117.5kg x 1 @ 7
+- Previous top single: 115kg x 1 @ 7
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.35, avg load +5.5kg, tonnage +182kg, avg tonnage/session +36.4kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 105kg x 4 @ 6
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 5
-- Total sets: 19
-- Avg sets/session: 3.80
-- Avg RPE: 7.03
-- Avg load: 140.8kg
-- Tonnage: 10455kg
-- Avg tonnage/session: 2091kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 19 | 19 | → 0 |
+| Avg sets/session | 3.80 | 3.80 | → 0 |
+| Avg RPE | 7.03 | 6.47 | ↑ 0.56 |
+| Avg load | 140.8kg | 131.1kg | ↑ 9.7kg |
+| Tonnage | 10455kg | 10555kg | ↓ 100kg |
+| Avg tonnage/session | 2091kg | 2111kg | ↓ 20kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.56, avg load +9.7kg, tonnage -100kg, avg tonnage/session -20kg
+- Previous top work set: 150kg x 3 @ 6.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Ultra Frequency Building Block / Week 1
 
+Comparison baseline: Transmutation Block / Week 4
+
 ### Squat family
 
-- Sessions: 5
-- Total sets: 21
-- Avg sets/session: 4.20
-- Avg RPE: 6.26
-- Avg load: 121kg
-- Tonnage: 9518kg
-- Avg tonnage/session: 1903.6kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 3 | ↑ 2 |
+| Total sets | 21 | 10 | ↑ 11 |
+| Avg sets/session | 4.20 | 3.33 | ↑ 0.87 |
+| Avg RPE | 6.26 | 8.40 | ↓ 2.14 |
+| Avg load | 121kg | 145.8kg | ↓ 24.8kg |
+| Tonnage | 9518kg | 3442.5kg | ↑ 6075.5kg |
+| Avg tonnage/session | 1903.6kg | 1147.5kg | ↑ 756.1kg |
+
 - Top single: -
+- Previous top single: 165kg x 1 @ 9.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 140kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session +0.87, avg RPE -2.14, avg load -24.8kg, tonnage +6075.5kg, avg tonnage/session +756.1kg
+- Previous top work set: 155kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 20
-- Avg sets/session: 4
-- Avg RPE: 6.33
-- Avg load: 90.2kg
-- Tonnage: 7870kg
-- Avg tonnage/session: 1574kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 4 | ↑ 1 |
+| Total sets | 20 | 12 | ↑ 8 |
+| Avg sets/session | 4 | 3 | ↑ 1 |
+| Avg RPE | 6.33 | 8.65 | ↓ 2.32 |
+| Avg load | 90.2kg | 100.2kg | ↓ 10kg |
+| Tonnage | 7870kg | 3327.5kg | ↑ 4542.5kg |
+| Avg tonnage/session | 1574kg | 831.9kg | ↑ 742.1kg |
+
 - Top single: 115kg x 1 @ 7
+- Previous top single: 130kg x 1 @ 9.50
+- Top single delta: ↓ 15kg (only meaningful when the variation is comparable)
 - Top work set: 105kg x 4 @ 6
-- Change vs previous scorecards: avg sets/session +1, avg RPE -2.32, avg load -10kg, tonnage +4542.5kg, avg tonnage/session +742.1kg
-- Main-lift change: top single -15kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 120kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 5
-- Total sets: 19
-- Avg sets/session: 3.80
-- Avg RPE: 6.47
-- Avg load: 131.1kg
-- Tonnage: 10555kg
-- Avg tonnage/session: 2111kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 3 | ↑ 2 |
+| Total sets | 19 | 15 | ↑ 4 |
+| Avg sets/session | 3.80 | 5 | ↓ 1.20 |
+| Avg RPE | 6.47 | 8.23 | ↓ 1.76 |
+| Avg load | 131.1kg | 146.3kg | ↓ 15.2kg |
+| Tonnage | 10555kg | 5975kg | ↑ 4580kg |
+| Avg tonnage/session | 2111kg | 1991.7kg | ↑ 119.3kg |
+
 - Top single: -
+- Previous top single: 190kg x 1 @ 9.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 150kg x 3 @ 6.50
-- Change vs previous scorecards: avg sets/session -1.20, avg RPE -1.76, avg load -15.2kg, tonnage +4580kg, avg tonnage/session +119.3kg
+- Previous top work set: 130kg x 5 @ -
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Transmutation Block / Week 4
 
+Comparison baseline: Transmutation Block / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 8.40
-- Avg load: 145.8kg
-- Tonnage: 3442.5kg
-- Avg tonnage/session: 1147.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 12 | ↓ 2 |
+| Avg sets/session | 3.33 | 4 | ↓ 0.67 |
+| Avg RPE | 8.40 | 8.21 | ↑ 0.19 |
+| Avg load | 145.8kg | 142.1kg | ↑ 3.7kg |
+| Tonnage | 3442.5kg | 5080kg | ↓ 1637.5kg |
+| Avg tonnage/session | 1147.5kg | 1693.3kg | ↓ 545.8kg |
+
 - Top single: 165kg x 1 @ 9.50
+- Previous top single: 160kg x 1 @ 8.50
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.67, avg RPE +0.19, avg load +3.7kg, tonnage -1637.5kg, avg tonnage/session -545.8kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 3 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 12
-- Avg sets/session: 3
-- Avg RPE: 8.65
-- Avg load: 100.2kg
-- Tonnage: 3327.5kg
-- Avg tonnage/session: 831.9kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 12 | 15 | ↓ 3 |
+| Avg sets/session | 3 | 3.75 | ↓ 0.75 |
+| Avg RPE | 8.65 | 8.12 | ↑ 0.53 |
+| Avg load | 100.2kg | 100kg | ↑ 0.2kg |
+| Tonnage | 3327.5kg | 4860kg | ↓ 1532.5kg |
+| Avg tonnage/session | 831.9kg | 1215kg | ↓ 383.1kg |
+
 - Top single: 130kg x 1 @ 9.50
+- Previous top single: 127.5kg x 1 @ 9
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 120kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.75, avg RPE +0.53, avg load +0.2kg, tonnage -1532.5kg, avg tonnage/session -383.1kg
-- Main-lift change: top single +2.5kg, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 3 @ 8
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 15
-- Avg sets/session: 5
-- Avg RPE: 8.23
-- Avg load: 146.3kg
-- Tonnage: 5975kg
-- Avg tonnage/session: 1991.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 15 | 11 | ↑ 4 |
+| Avg sets/session | 5 | 3.67 | ↑ 1.33 |
+| Avg RPE | 8.23 | 8.18 | ↑ 0.05 |
+| Avg load | 146.3kg | 147.5kg | ↓ 1.2kg |
+| Tonnage | 5975kg | 5705kg | ↑ 270kg |
+| Avg tonnage/session | 1991.7kg | 1901.7kg | ↑ 90kg |
+
 - Top single: 190kg x 1 @ 9.50
+- Previous top single: 185kg x 1 @ 9
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 130kg x 5 @ -
-- Change vs previous scorecards: avg sets/session +1.33, avg RPE +0.05, avg load -1.2kg, tonnage +270kg, avg tonnage/session +90kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 172.5kg x 2 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Transmutation Block / Week 3
 
+Comparison baseline: Transmutation Block / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.21
-- Avg load: 142.1kg
-- Tonnage: 5080kg
-- Avg tonnage/session: 1693.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8.21 | 7.83 | ↑ 0.38 |
+| Avg load | 142.1kg | 137.9kg | ↑ 4.2kg |
+| Tonnage | 5080kg | 5930kg | ↓ 850kg |
+| Avg tonnage/session | 1693.3kg | 1976.7kg | ↓ 283.4kg |
+
 - Top single: 160kg x 1 @ 8.50
+- Previous top single: 155kg x 1 @ 9
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 150kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.38, avg load +4.2kg, tonnage -850kg, avg tonnage/session -283.4kg
-- Main-lift change: top single +5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 147.5kg x 3 @ 8
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.12
-- Avg load: 100kg
-- Tonnage: 4860kg
-- Avg tonnage/session: 1215kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 15 | → 0 |
+| Avg sets/session | 3.75 | 3.75 | → 0 |
+| Avg RPE | 8.12 | 7.73 | ↑ 0.39 |
+| Avg load | 100kg | 101.6kg | ↓ 1.6kg |
+| Tonnage | 4860kg | 5455kg | ↓ 595kg |
+| Avg tonnage/session | 1215kg | 1363.8kg | ↓ 148.8kg |
+
 - Top single: 127.5kg x 1 @ 9
+- Previous top single: 122.5kg x 1 @ 9
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.39, avg load -1.6kg, tonnage -595kg, avg tonnage/session -148.8kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 4 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 8.18
-- Avg load: 147.5kg
-- Tonnage: 5705kg
-- Avg tonnage/session: 1901.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 11 | → 0 |
+| Avg sets/session | 3.67 | 3.67 | → 0 |
+| Avg RPE | 8.18 | 7.36 | ↑ 0.82 |
+| Avg load | 147.5kg | 143.2kg | ↑ 4.3kg |
+| Tonnage | 5705kg | 5902.5kg | ↓ 197.5kg |
+| Avg tonnage/session | 1901.7kg | 1967.5kg | ↓ 65.8kg |
+
 - Top single: 185kg x 1 @ 9
+- Previous top single: 177.5kg x 1 @ 8
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 172.5kg x 2 @ 10
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.82, avg load +4.3kg, tonnage -197.5kg, avg tonnage/session -65.8kg
-- Main-lift change: top single +7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 167.5kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Transmutation Block / Week 2
 
+Comparison baseline: Transmutation Block / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.83
-- Avg load: 137.9kg
-- Tonnage: 5930kg
-- Avg tonnage/session: 1976.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 14 | ↓ 2 |
+| Avg sets/session | 4 | 4.67 | ↓ 0.67 |
+| Avg RPE | 7.83 | 6.71 | ↑ 1.12 |
+| Avg load | 137.9kg | 127.7kg | ↑ 10.2kg |
+| Tonnage | 5930kg | 6119kg | ↓ 189kg |
+| Avg tonnage/session | 1976.7kg | 2039.7kg | ↓ 63kg |
+
 - Top single: 155kg x 1 @ 9
+- Previous top single: 147.5kg x 1 @ 8
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 147.5kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session -0.67, avg RPE +1.12, avg load +10.2kg, tonnage -189kg, avg tonnage/session -63kg
-- Main-lift change: top single +7.5kg, top work set +9.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 138kg x 3 @ 7
+- Top work-set delta: ↑ 9.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 7.73
-- Avg load: 101.6kg
-- Tonnage: 5455kg
-- Avg tonnage/session: 1363.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 17 | ↓ 2 |
+| Avg sets/session | 3.75 | 4.25 | ↓ 0.50 |
+| Avg RPE | 7.73 | 6.86 | ↑ 0.87 |
+| Avg load | 101.6kg | 93.5kg | ↑ 8.1kg |
+| Tonnage | 5455kg | 7280kg | ↓ 1825kg |
+| Avg tonnage/session | 1363.8kg | 1820kg | ↓ 456.2kg |
+
 - Top single: 122.5kg x 1 @ 9
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 4 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.50, avg RPE +0.87, avg load +8.1kg, tonnage -1825kg, avg tonnage/session -456.2kg
-- Main-lift change: top single n/a, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 4 @ 7.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.36
-- Avg load: 143.2kg
-- Tonnage: 5902.5kg
-- Avg tonnage/session: 1967.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 7.36 | 6.75 | ↑ 0.61 |
+| Avg load | 143.2kg | 133.8kg | ↑ 9.4kg |
+| Tonnage | 5902.5kg | 7110kg | ↓ 1207.5kg |
+| Avg tonnage/session | 1967.5kg | 2370kg | ↓ 402.5kg |
+
 - Top single: 177.5kg x 1 @ 8
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 167.5kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.61, avg load +9.4kg, tonnage -1207.5kg, avg tonnage/session -402.5kg
-- Main-lift change: top single n/a, top work set +7.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 160kg x 3 @ 7.50
+- Top work-set delta: ↑ 7.5kg (only meaningful when the rep scheme is comparable)
 
 ## Transmutation Block / Week 1
 
+Comparison baseline: Test Week / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 14
-- Avg sets/session: 4.67
-- Avg RPE: 6.71
-- Avg load: 127.7kg
-- Tonnage: 6119kg
-- Avg tonnage/session: 2039.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 14 | 4 | ↑ 10 |
+| Avg sets/session | 4.67 | 2 | ↑ 2.67 |
+| Avg RPE | 6.71 | 6 | ↑ 0.71 |
+| Avg load | 127.7kg | 126.9kg | ↑ 0.8kg |
+| Tonnage | 6119kg | 867.5kg | ↑ 5251.5kg |
+| Avg tonnage/session | 2039.7kg | 433.8kg | ↑ 1605.9kg |
+
 - Top single: 147.5kg x 1 @ 8
+- Previous top single: 147.5kg x 1 @ 6
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 138kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session +2.67, avg RPE +0.71, avg load +0.8kg, tonnage +5251.5kg, avg tonnage/session +1605.9kg
-- Main-lift change: top single 0kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 120kg x 2 @ -
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 17
-- Avg sets/session: 4.25
-- Avg RPE: 6.86
-- Avg load: 93.5kg
-- Tonnage: 7280kg
-- Avg tonnage/session: 1820kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 2 | ↑ 2 |
+| Total sets | 17 | 4 | ↑ 13 |
+| Avg sets/session | 4.25 | 2 | ↑ 2.25 |
+| Avg RPE | 6.86 | 6 | ↑ 0.86 |
+| Avg load | 93.5kg | 99.4kg | ↓ 5.9kg |
+| Tonnage | 7280kg | 682.5kg | ↑ 6597.5kg |
+| Avg tonnage/session | 1820kg | 341.2kg | ↑ 1478.8kg |
+
 - Top single: -
+- Previous top single: 112.5kg x 1 @ 6
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 4 @ 7.50
-- Change vs previous scorecards: avg sets/session +2.25, avg RPE +0.86, avg load -5.9kg, tonnage +6597.5kg, avg tonnage/session +1478.8kg
+- Previous top work set: 95kg x 2 @ -
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 6.75
-- Avg load: 133.8kg
-- Tonnage: 7110kg
-- Avg tonnage/session: 2370kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 1 | ↑ 2 |
+| Total sets | 12 | 3 | ↑ 9 |
+| Avg sets/session | 4 | 3 | ↑ 1 |
+| Avg RPE | 6.75 | 6 | ↑ 0.75 |
+| Avg load | 133.8kg | 140kg | ↓ 6.2kg |
+| Tonnage | 7110kg | 420kg | ↑ 6690kg |
+| Avg tonnage/session | 2370kg | 420kg | ↑ 1950kg |
+
 - Top single: -
+- Previous top single: 140kg x 1 @ 6
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 160kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session +1, avg RPE +0.75, avg load -6.2kg, tonnage +6690kg, avg tonnage/session +1950kg
+- Previous top work set: -
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Test Week / Week 1
 
+Comparison baseline: Strength Block v4 / Week 1
+
 ### Squat family
 
-- Sessions: 2
-- Total sets: 4
-- Avg sets/session: 2
-- Avg RPE: 6
-- Avg load: 126.9kg
-- Tonnage: 867.5kg
-- Avg tonnage/session: 433.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 2 | → 0 |
+| Total sets | 4 | 8 | ↓ 4 |
+| Avg sets/session | 2 | 4 | ↓ 2 |
+| Avg RPE | 6 | 7.44 | ↓ 1.44 |
+| Avg load | 126.9kg | 144.1kg | ↓ 17.2kg |
+| Tonnage | 867.5kg | 3127.5kg | ↓ 2260kg |
+| Avg tonnage/session | 433.8kg | 1563.8kg | ↓ 1130kg |
+
 - Top single: 147.5kg x 1 @ 6
+- Previous top single: 165kg x 1 @ 8.50
+- Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
 - Top work set: 120kg x 2 @ -
-- Change vs previous scorecards: avg sets/session -2, avg RPE -1.44, avg load -17.2kg, tonnage -2260kg, avg tonnage/session -1130kg
-- Main-lift change: top single -17.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 145kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 2
-- Total sets: 4
-- Avg sets/session: 2
-- Avg RPE: 6
-- Avg load: 99.4kg
-- Tonnage: 682.5kg
-- Avg tonnage/session: 341.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 2 | → 0 |
+| Total sets | 4 | 7 | ↓ 3 |
+| Avg sets/session | 2 | 3.50 | ↓ 1.50 |
+| Avg RPE | 6 | 7.64 | ↓ 1.64 |
+| Avg load | 99.4kg | 82.5kg | ↑ 16.9kg |
+| Tonnage | 682.5kg | 2250kg | ↓ 1567.5kg |
+| Avg tonnage/session | 341.2kg | 1125kg | ↓ 783.8kg |
+
 - Top single: 112.5kg x 1 @ 6
+- Previous top single: 115kg x 1 @ 7
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 95kg x 2 @ -
-- Change vs previous scorecards: avg sets/session -1.50, avg RPE -1.64, avg load +16.9kg, tonnage -1567.5kg, avg tonnage/session -783.8kg
-- Main-lift change: top single -2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 107.5kg x 4 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 1
-- Total sets: 3
-- Avg sets/session: 3
-- Avg RPE: 6
-- Avg load: 140kg
-- Tonnage: 420kg
-- Avg tonnage/session: 420kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 2 | ↓ 1 |
+| Total sets | 3 | 8 | ↓ 5 |
+| Avg sets/session | 3 | 4 | ↓ 1 |
+| Avg RPE | 6 | 7.06 | ↓ 1.06 |
+| Avg load | 140kg | 151.9kg | ↓ 11.9kg |
+| Tonnage | 420kg | 4520kg | ↓ 4100kg |
+| Avg tonnage/session | 420kg | 2260kg | ↓ 1840kg |
+
 - Top single: 140kg x 1 @ 6
+- Previous top single: 170kg x 1 @ 7
+- Top single delta: ↓ 30kg (only meaningful when the variation is comparable)
 - Top work set: -
-- Change vs previous scorecards: avg sets/session -1, avg RPE -1.06, avg load -11.9kg, tonnage -4100kg, avg tonnage/session -1840kg
-- Main-lift change: top single -30kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 160kg x 3 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Strength Block v4 / Week 1
 
+Comparison baseline: Strength Block v2 / Week 4
+
 ### Squat family
 
-- Sessions: 2
-- Total sets: 8
-- Avg sets/session: 4
-- Avg RPE: 7.44
-- Avg load: 144.1kg
-- Tonnage: 3127.5kg
-- Avg tonnage/session: 1563.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 8 | 12 | ↓ 4 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.44 | 7.21 | ↑ 0.23 |
+| Avg load | 144.1kg | 127.3kg | ↑ 16.8kg |
+| Tonnage | 3127.5kg | 8205kg | ↓ 5077.5kg |
+| Avg tonnage/session | 1563.8kg | 2735kg | ↓ 1171.2kg |
+
 - Top single: 165kg x 1 @ 8.50
+- Previous top single: 150kg x 1 @ 8
+- Top single delta: ↑ 15kg (only meaningful when the variation is comparable)
 - Top work set: 145kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.23, avg load +16.8kg, tonnage -5077.5kg, avg tonnage/session -1171.2kg
-- Main-lift change: top single +15kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 135kg x 8 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 2
-- Total sets: 7
-- Avg sets/session: 3.50
-- Avg RPE: 7.64
-- Avg load: 82.5kg
-- Tonnage: 2250kg
-- Avg tonnage/session: 1125kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 4 | ↓ 2 |
+| Total sets | 7 | 14 | ↓ 7 |
+| Avg sets/session | 3.50 | 3.50 | → 0 |
+| Avg RPE | 7.64 | 8.89 | ↓ 1.25 |
+| Avg load | 82.5kg | 95.4kg | ↓ 12.9kg |
+| Tonnage | 2250kg | 7057.5kg | ↓ 4807.5kg |
+| Avg tonnage/session | 1125kg | 1764.4kg | ↓ 639.4kg |
+
 - Top single: 115kg x 1 @ 7
+- Previous top single: 122.5kg x 1 @ 9
+- Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 107.5kg x 4 @ 7
-- Change vs previous scorecards: avg sets/session 0, avg RPE -1.25, avg load -12.9kg, tonnage -4807.5kg, avg tonnage/session -639.4kg
-- Main-lift change: top single -7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 110kg x 8 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 2
-- Total sets: 8
-- Avg sets/session: 4
-- Avg RPE: 7.06
-- Avg load: 151.9kg
-- Tonnage: 4520kg
-- Avg tonnage/session: 2260kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 8 | 10 | ↓ 2 |
+| Avg sets/session | 4 | 3.33 | ↑ 0.67 |
+| Avg RPE | 7.06 | 7.45 | ↓ 0.39 |
+| Avg load | 151.9kg | 142.5kg | ↑ 9.4kg |
+| Tonnage | 4520kg | 6930kg | ↓ 2410kg |
+| Avg tonnage/session | 2260kg | 2310kg | ↓ 50kg |
+
 - Top single: 170kg x 1 @ 7
+- Previous top single: 180kg x 1 @ 7.50
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session +0.67, avg RPE -0.39, avg load +9.4kg, tonnage -2410kg, avg tonnage/session -50kg
-- Main-lift change: top single -10kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 160kg x 5 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Strength Block v2 / Week 4
 
+Comparison baseline: Strength Block v2 / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.21
-- Avg load: 127.3kg
-- Tonnage: 8205kg
-- Avg tonnage/session: 2735kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 9 | ↑ 3 |
+| Avg sets/session | 4 | 3 | ↑ 1 |
+| Avg RPE | 7.21 | 8.62 | ↓ 1.41 |
+| Avg load | 127.3kg | 137.2kg | ↓ 9.9kg |
+| Tonnage | 8205kg | 4875kg | ↑ 3330kg |
+| Avg tonnage/session | 2735kg | 1625kg | ↑ 1110kg |
+
 - Top single: 150kg x 1 @ 8
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 135kg x 8 @ 8.50
-- Change vs previous scorecards: avg sets/session +1, avg RPE -1.41, avg load -9.9kg, tonnage +3330kg, avg tonnage/session +1110kg
+- Previous top work set: 155kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 8.89
-- Avg load: 95.4kg
-- Tonnage: 7057.5kg
-- Avg tonnage/session: 1764.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 14 | → 0 |
+| Avg sets/session | 3.50 | 3.50 | → 0 |
+| Avg RPE | 8.89 | 8.96 | ↓ 0.07 |
+| Avg load | 95.4kg | 101.1kg | ↓ 5.7kg |
+| Tonnage | 7057.5kg | 5330kg | ↑ 1727.5kg |
+| Avg tonnage/session | 1764.4kg | 1332.5kg | ↑ 431.9kg |
+
 - Top single: 122.5kg x 1 @ 9
+- Previous top single: 127.5kg x 1 @ 8.50
+- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
 - Top work set: 110kg x 8 @ 10
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.07, avg load -5.7kg, tonnage +1727.5kg, avg tonnage/session +431.9kg
-- Main-lift change: top single -5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 122.5kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 7.45
-- Avg load: 142.5kg
-- Tonnage: 6930kg
-- Avg tonnage/session: 2310kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 10 | → 0 |
+| Avg sets/session | 3.33 | 3.33 | → 0 |
+| Avg RPE | 7.45 | 8.15 | ↓ 0.70 |
+| Avg load | 142.5kg | 160.2kg | ↓ 17.7kg |
+| Tonnage | 6930kg | 5627.5kg | ↑ 1302.5kg |
+| Avg tonnage/session | 2310kg | 1875.8kg | ↑ 434.2kg |
+
 - Top single: 180kg x 1 @ 7.50
+- Previous top single: 180kg x 1 @ 7
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.70, avg load -17.7kg, tonnage +1302.5kg, avg tonnage/session +434.2kg
-- Main-lift change: top single 0kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 182.5kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Strength Block v2 / Week 3
 
+Comparison baseline: Strength Block v2 / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 9
-- Avg sets/session: 3
-- Avg RPE: 8.62
-- Avg load: 137.2kg
-- Tonnage: 4875kg
-- Avg tonnage/session: 1625kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 9 | 10 | ↓ 1 |
+| Avg sets/session | 3 | 3.33 | ↓ 0.33 |
+| Avg RPE | 8.62 | 8.05 | ↑ 0.57 |
+| Avg load | 137.2kg | 139kg | ↓ 1.8kg |
+| Tonnage | 4875kg | 4370kg | ↑ 505kg |
+| Avg tonnage/session | 1625kg | 1456.7kg | ↑ 168.3kg |
+
 - Top single: -
+- Previous top single: 160kg x 1 @ 9.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 155kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.57, avg load -1.8kg, tonnage +505kg, avg tonnage/session +168.3kg
-- Main-lift change: top single n/a, top work set +10kg (only when the same rep scheme is comparable)
+- Previous top work set: 145kg x 3 @ 8.50
+- Top work-set delta: ↑ 10kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 8.96
-- Avg load: 101.1kg
-- Tonnage: 5330kg
-- Avg tonnage/session: 1332.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 14 | → 0 |
+| Avg sets/session | 3.50 | 3.50 | → 0 |
+| Avg RPE | 8.96 | 8.68 | ↑ 0.28 |
+| Avg load | 101.1kg | 99.3kg | ↑ 1.8kg |
+| Tonnage | 5330kg | 5035kg | ↑ 295kg |
+| Avg tonnage/session | 1332.5kg | 1258.8kg | ↑ 73.7kg |
+
 - Top single: 127.5kg x 1 @ 8.50
+- Previous top single: 130kg x 1 @ 9.50
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 122.5kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.28, avg load +1.8kg, tonnage +295kg, avg tonnage/session +73.7kg
-- Main-lift change: top single -2.5kg, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 3 @ 9
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 8.15
-- Avg load: 160.2kg
-- Tonnage: 5627.5kg
-- Avg tonnage/session: 1875.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 10 | 7 | ↑ 3 |
+| Avg sets/session | 3.33 | 3.50 | ↓ 0.17 |
+| Avg RPE | 8.15 | 7.10 | ↑ 1.05 |
+| Avg load | 160.2kg | 169.3kg | ↓ 9.1kg |
+| Tonnage | 5627.5kg | 3195kg | ↑ 2432.5kg |
+| Avg tonnage/session | 1875.8kg | 1597.5kg | ↑ 278.3kg |
+
 - Top single: 180kg x 1 @ 7
+- Previous top single: 180kg x 1 @ 7
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 182.5kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.17, avg RPE +1.05, avg load -9.1kg, tonnage +2432.5kg, avg tonnage/session +278.3kg
-- Main-lift change: top single 0kg, top work set +12.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 3 @ 7
+- Top work-set delta: ↑ 12.5kg (only meaningful when the rep scheme is comparable)
 
 ## Strength Block v2 / Week 2
 
+Comparison baseline: Strength Block v2 / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 8.05
-- Avg load: 139kg
-- Tonnage: 4370kg
-- Avg tonnage/session: 1456.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 10 | → 0 |
+| Avg sets/session | 3.33 | 3.33 | → 0 |
+| Avg RPE | 8.05 | 7.95 | ↑ 0.10 |
+| Avg load | 139kg | 134.2kg | ↑ 4.8kg |
+| Tonnage | 4370kg | 4092.5kg | ↑ 277.5kg |
+| Avg tonnage/session | 1456.7kg | 1364.2kg | ↑ 92.5kg |
+
 - Top single: 160kg x 1 @ 9.50
+- Previous top single: 155kg x 1 @ 9.50
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 145kg x 3 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.10, avg load +4.8kg, tonnage +277.5kg, avg tonnage/session +92.5kg
-- Main-lift change: top single +5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 142.5kg x 3 @ 8.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 8.68
-- Avg load: 99.3kg
-- Tonnage: 5035kg
-- Avg tonnage/session: 1258.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 14 | → 0 |
+| Avg sets/session | 3.50 | 3.50 | → 0 |
+| Avg RPE | 8.68 | 7.89 | ↑ 0.79 |
+| Avg load | 99.3kg | 97.1kg | ↑ 2.2kg |
+| Tonnage | 5035kg | 4902.5kg | ↑ 132.5kg |
+| Avg tonnage/session | 1258.8kg | 1225.6kg | ↑ 33.2kg |
+
 - Top single: 130kg x 1 @ 9.50
+- Previous top single: 122.5kg x 1 @ 8
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 3 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.79, avg load +2.2kg, tonnage +132.5kg, avg tonnage/session +33.2kg
-- Main-lift change: top single +7.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 3 @ 8
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 2
-- Total sets: 7
-- Avg sets/session: 3.50
-- Avg RPE: 7.10
-- Avg load: 169.3kg
-- Tonnage: 3195kg
-- Avg tonnage/session: 1597.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 7 | 12 | ↓ 5 |
+| Avg sets/session | 3.50 | 4 | ↓ 0.50 |
+| Avg RPE | 7.10 | 7.54 | ↓ 0.44 |
+| Avg load | 169.3kg | 152.1kg | ↑ 17.2kg |
+| Tonnage | 3195kg | 6535kg | ↓ 3340kg |
+| Avg tonnage/session | 1597.5kg | 2178.3kg | ↓ 580.8kg |
+
 - Top single: 180kg x 1 @ 7
+- Previous top single: 190kg x 1 @ 8.50
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session -0.50, avg RPE -0.44, avg load +17.2kg, tonnage -3340kg, avg tonnage/session -580.8kg
-- Main-lift change: top single -10kg, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 165kg x 3 @ 6.50
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ## Strength Block v2 / Week 1
 
+Comparison baseline: Peaking Block v4 / Week 4
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 7.95
-- Avg load: 134.2kg
-- Tonnage: 4092.5kg
-- Avg tonnage/session: 1364.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 9 | ↑ 1 |
+| Avg sets/session | 3.33 | 3 | ↑ 0.33 |
+| Avg RPE | 7.95 | 7.11 | ↑ 0.84 |
+| Avg load | 134.2kg | 149.2kg | ↓ 15kg |
+| Tonnage | 4092.5kg | 2020kg | ↑ 2072.5kg |
+| Avg tonnage/session | 1364.2kg | 673.3kg | ↑ 690.9kg |
+
 - Top single: 155kg x 1 @ 9.50
+- Previous top single: 177.5kg x 1 @ 9.50
+- Top single delta: ↓ 22.5kg (only meaningful when the variation is comparable)
 - Top work set: 142.5kg x 3 @ 8.50
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE +0.84, avg load -15kg, tonnage +2072.5kg, avg tonnage/session +690.9kg
-- Main-lift change: top single -22.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 140kg x 2 @ 6
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 7.89
-- Avg load: 97.1kg
-- Tonnage: 4902.5kg
-- Avg tonnage/session: 1225.6kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 11 | ↑ 3 |
+| Avg sets/session | 3.50 | 2.75 | ↑ 0.75 |
+| Avg RPE | 7.89 | 8.05 | ↓ 0.16 |
+| Avg load | 97.1kg | 98.6kg | ↓ 1.5kg |
+| Tonnage | 4902.5kg | 2680kg | ↑ 2222.5kg |
+| Avg tonnage/session | 1225.6kg | 670kg | ↑ 555.6kg |
+
 - Top single: 122.5kg x 1 @ 8
+- Previous top single: 135kg x 1 @ 9.50
+- Top single delta: ↓ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session +0.75, avg RPE -0.16, avg load -1.5kg, tonnage +2222.5kg, avg tonnage/session +555.6kg
-- Main-lift change: top single -12.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 2 @ 6
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.54
-- Avg load: 152.1kg
-- Tonnage: 6535kg
-- Avg tonnage/session: 2178.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 8 | ↑ 4 |
+| Avg sets/session | 4 | 2.67 | ↑ 1.33 |
+| Avg RPE | 7.54 | 7.50 | ↑ 0.04 |
+| Avg load | 152.1kg | 150kg | ↑ 2.1kg |
+| Tonnage | 6535kg | 2660kg | ↑ 3875kg |
+| Avg tonnage/session | 2178.3kg | 886.7kg | ↑ 1291.6kg |
+
 - Top single: 190kg x 1 @ 8.50
+- Previous top single: 195kg x 1 @ 9.50
+- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
 - Top work set: 165kg x 3 @ 6.50
-- Change vs previous scorecards: avg sets/session +1.33, avg RPE +0.04, avg load +2.1kg, tonnage +3875kg, avg tonnage/session +1291.6kg
-- Main-lift change: top single -5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 125kg x 5 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Peaking Block v4 / Week 4
 
+Comparison baseline: Peaking Block v4 / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 9
-- Avg sets/session: 3
-- Avg RPE: 7.11
-- Avg load: 149.2kg
-- Tonnage: 2020kg
-- Avg tonnage/session: 673.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 9 | 13 | ↓ 4 |
+| Avg sets/session | 3 | 4.33 | ↓ 1.33 |
+| Avg RPE | 7.11 | 7.81 | ↓ 0.70 |
+| Avg load | 149.2kg | 128.5kg | ↑ 20.7kg |
+| Tonnage | 2020kg | 6765kg | ↓ 4745kg |
+| Avg tonnage/session | 673.3kg | 2255kg | ↓ 1581.7kg |
+
 - Top single: 177.5kg x 1 @ 9.50
+- Previous top single: 165kg x 1 @ 9.50
+- Top single delta: ↑ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 140kg x 2 @ 6
-- Change vs previous scorecards: avg sets/session -1.33, avg RPE -0.70, avg load +20.7kg, tonnage -4745kg, avg tonnage/session -1581.7kg
-- Main-lift change: top single +12.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 155kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 11
-- Avg sets/session: 2.75
-- Avg RPE: 8.05
-- Avg load: 98.6kg
-- Tonnage: 2680kg
-- Avg tonnage/session: 670kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 11 | 13 | ↓ 2 |
+| Avg sets/session | 2.75 | 3.25 | ↓ 0.50 |
+| Avg RPE | 8.05 | 8.88 | ↓ 0.83 |
+| Avg load | 98.6kg | 99.1kg | ↓ 0.5kg |
+| Tonnage | 2680kg | 4928kg | ↓ 2248kg |
+| Avg tonnage/session | 670kg | 1232kg | ↓ 562kg |
+
 - Top single: 135kg x 1 @ 9.50
+- Previous top single: 130kg x 1 @ 8.50
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 2 @ 6
-- Change vs previous scorecards: avg sets/session -0.50, avg RPE -0.83, avg load -0.5kg, tonnage -2248kg, avg tonnage/session -562kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 125kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 8
-- Avg sets/session: 2.67
-- Avg RPE: 7.50
-- Avg load: 150kg
-- Tonnage: 2660kg
-- Avg tonnage/session: 886.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 8 | 9 | ↓ 1 |
+| Avg sets/session | 2.67 | 3 | ↓ 0.33 |
+| Avg RPE | 7.50 | 7.67 | ↓ 0.17 |
+| Avg load | 150kg | 158.9kg | ↓ 8.9kg |
+| Tonnage | 2660kg | 4620kg | ↓ 1960kg |
+| Avg tonnage/session | 886.7kg | 1540kg | ↓ 653.3kg |
+
 - Top single: 195kg x 1 @ 9.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 125kg x 5 @ 7.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE -0.17, avg load -8.9kg, tonnage -1960kg, avg tonnage/session -653.3kg
+- Previous top work set: 180kg x 3 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Peaking Block v4 / Week 3
 
+Comparison baseline: Peaking Block v4 / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.81
-- Avg load: 128.5kg
-- Tonnage: 6765kg
-- Avg tonnage/session: 2255kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 13 | → 0 |
+| Avg sets/session | 4.33 | 4.33 | → 0 |
+| Avg RPE | 7.81 | 8.08 | ↓ 0.27 |
+| Avg load | 128.5kg | 124.4kg | ↑ 4.1kg |
+| Tonnage | 6765kg | 6502.5kg | ↑ 262.5kg |
+| Avg tonnage/session | 2255kg | 2167.5kg | ↑ 87.5kg |
+
 - Top single: 165kg x 1 @ 9.50
+- Previous top single: 162.5kg x 1 @ 9
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 155kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.27, avg load +4.1kg, tonnage +262.5kg, avg tonnage/session +87.5kg
-- Main-lift change: top single +2.5kg, top work set +15kg (only when the same rep scheme is comparable)
+- Previous top work set: 140kg x 3 @ 7.50
+- Top work-set delta: ↑ 15kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 13
-- Avg sets/session: 3.25
-- Avg RPE: 8.88
-- Avg load: 99.1kg
-- Tonnage: 4928kg
-- Avg tonnage/session: 1232kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 5 | ↓ 1 |
+| Total sets | 13 | 17 | ↓ 4 |
+| Avg sets/session | 3.25 | 3.40 | ↓ 0.15 |
+| Avg RPE | 8.88 | 8.74 | ↑ 0.14 |
+| Avg load | 99.1kg | 96.2kg | ↑ 2.9kg |
+| Tonnage | 4928kg | 7457.5kg | ↓ 2529.5kg |
+| Avg tonnage/session | 1232kg | 1491.5kg | ↓ 259.5kg |
+
 - Top single: 130kg x 1 @ 8.50
+- Previous top single: 125kg x 1 @ 8.50
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 125kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.15, avg RPE +0.14, avg load +2.9kg, tonnage -2529.5kg, avg tonnage/session -259.5kg
-- Main-lift change: top single +5kg, top work set +12.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 3 @ 8
+- Top work-set delta: ↑ 12.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 9
-- Avg sets/session: 3
-- Avg RPE: 7.67
-- Avg load: 158.9kg
-- Tonnage: 4620kg
-- Avg tonnage/session: 1540kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 9 | 9 | → 0 |
+| Avg sets/session | 3 | 3 | → 0 |
+| Avg RPE | 7.67 | 7.56 | ↑ 0.11 |
+| Avg load | 158.9kg | 158.9kg | → 0kg |
+| Tonnage | 4620kg | 4295kg | ↑ 325kg |
+| Avg tonnage/session | 1540kg | 1431.7kg | ↑ 108.3kg |
+
 - Top single: -
+- Previous top single: 185kg x 1 @ 8.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 180kg x 3 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.11, avg load 0kg, tonnage +325kg, avg tonnage/session +108.3kg
+- Previous top work set: 170kg x 2 @ 6.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Peaking Block v4 / Week 2
 
+Comparison baseline: Peaking Block v3 / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 8.08
-- Avg load: 124.4kg
-- Tonnage: 6502.5kg
-- Avg tonnage/session: 2167.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 13 | → 0 |
+| Avg sets/session | 4.33 | 4.33 | → 0 |
+| Avg RPE | 8.08 | 7.04 | ↑ 1.04 |
+| Avg load | 124.4kg | 135kg | ↓ 10.6kg |
+| Tonnage | 6502.5kg | 4665kg | ↑ 1837.5kg |
+| Avg tonnage/session | 2167.5kg | 1555kg | ↑ 612.5kg |
+
 - Top single: 162.5kg x 1 @ 9
+- Previous top single: 160kg x 1 @ 9
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 140kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +1.04, avg load -10.6kg, tonnage +1837.5kg, avg tonnage/session +612.5kg
-- Main-lift change: top single +2.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 137.5kg x 3 @ 7
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 17
-- Avg sets/session: 3.40
-- Avg RPE: 8.74
-- Avg load: 96.2kg
-- Tonnage: 7457.5kg
-- Avg tonnage/session: 1491.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 4 | ↑ 1 |
+| Total sets | 17 | 14 | ↑ 3 |
+| Avg sets/session | 3.40 | 3.50 | ↓ 0.10 |
+| Avg RPE | 8.74 | 7.89 | ↑ 0.85 |
+| Avg load | 96.2kg | 96.1kg | ↑ 0.1kg |
+| Tonnage | 7457.5kg | 5487.5kg | ↑ 1970kg |
+| Avg tonnage/session | 1491.5kg | 1371.9kg | ↑ 119.6kg |
+
 - Top single: 125kg x 1 @ 8.50
+- Previous top single: 125kg x 1 @ 8
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session -0.10, avg RPE +0.85, avg load +0.1kg, tonnage +1970kg, avg tonnage/session +119.6kg
-- Main-lift change: top single 0kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 3 @ 7
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 9
-- Avg sets/session: 3
-- Avg RPE: 7.56
-- Avg load: 158.9kg
-- Tonnage: 4295kg
-- Avg tonnage/session: 1431.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 9 | 11 | ↓ 2 |
+| Avg sets/session | 3 | 3.67 | ↓ 0.67 |
+| Avg RPE | 7.56 | 7.55 | ↑ 0.01 |
+| Avg load | 158.9kg | 159.1kg | ↓ 0.2kg |
+| Tonnage | 4295kg | 5670kg | ↓ 1375kg |
+| Avg tonnage/session | 1431.7kg | 1890kg | ↓ 458.3kg |
+
 - Top single: 185kg x 1 @ 8.50
+- Previous top single: 190kg x 1 @ 9.50
+- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 6.50
-- Change vs previous scorecards: avg sets/session -0.67, avg RPE +0.01, avg load -0.2kg, tonnage -1375kg, avg tonnage/session -458.3kg
-- Main-lift change: top single -5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Peaking Block v3 / Week 1
 
+Comparison baseline: Mad Power Variation 1 / Week 4
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.04
-- Avg load: 135kg
-- Tonnage: 4665kg
-- Avg tonnage/session: 1555kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 10 | ↑ 3 |
+| Avg sets/session | 4.33 | 3.33 | ↑ 1 |
+| Avg RPE | 7.04 | 8 | ↓ 0.96 |
+| Avg load | 135kg | 128.8kg | ↑ 6.2kg |
+| Tonnage | 4665kg | 3602.5kg | ↑ 1062.5kg |
+| Avg tonnage/session | 1555kg | 1200.8kg | ↑ 354.2kg |
+
 - Top single: 160kg x 1 @ 9
+- Previous top single: 155kg x 1 @ 10
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 137.5kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session +1, avg RPE -0.96, avg load +6.2kg, tonnage +1062.5kg, avg tonnage/session +354.2kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 147.5kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 7.89
-- Avg load: 96.1kg
-- Tonnage: 5487.5kg
-- Avg tonnage/session: 1371.9kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 16 | ↓ 2 |
+| Avg sets/session | 3.50 | 4 | ↓ 0.50 |
+| Avg RPE | 7.89 | 9.47 | ↓ 1.58 |
+| Avg load | 96.1kg | 92.2kg | ↑ 3.9kg |
+| Tonnage | 5487.5kg | 7137.5kg | ↓ 1650kg |
+| Avg tonnage/session | 1371.9kg | 1784.4kg | ↓ 412.5kg |
+
 - Top single: 125kg x 1 @ 8
+- Previous top single: 127.5kg x 1 @ 10
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session -0.50, avg RPE -1.58, avg load +3.9kg, tonnage -1650kg, avg tonnage/session -412.5kg
-- Main-lift change: top single -2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 2 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.55
-- Avg load: 159.1kg
-- Tonnage: 5670kg
-- Avg tonnage/session: 1890kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 7.55 | 7.12 | ↑ 0.43 |
+| Avg load | 159.1kg | 148.5kg | ↑ 10.6kg |
+| Tonnage | 5670kg | 4570kg | ↑ 1100kg |
+| Avg tonnage/session | 1890kg | 1523.3kg | ↑ 366.7kg |
+
 - Top single: 190kg x 1 @ 9.50
+- Previous top single: 190kg x 1 @ 10
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.43, avg load +10.6kg, tonnage +1100kg, avg tonnage/session +366.7kg
-- Main-lift change: top single 0kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power Variation 1 / Week 4
 
+Comparison baseline: Mad Power Variation 1 / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 8
-- Avg load: 128.8kg
-- Tonnage: 3602.5kg
-- Avg tonnage/session: 1200.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 12 | ↓ 2 |
+| Avg sets/session | 3.33 | 4 | ↓ 0.67 |
+| Avg RPE | 8 | 7.75 | ↑ 0.25 |
+| Avg load | 128.8kg | 126.5kg | ↑ 2.3kg |
+| Tonnage | 3602.5kg | 4597.5kg | ↓ 995kg |
+| Avg tonnage/session | 1200.8kg | 1532.5kg | ↓ 331.7kg |
+
 - Top single: 155kg x 1 @ 10
+- Previous top single: 152.5kg x 1 @ 8.50
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 147.5kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.67, avg RPE +0.25, avg load +2.3kg, tonnage -995kg, avg tonnage/session -331.7kg
-- Main-lift change: top single +2.5kg, top work set +7.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 140kg x 2 @ 7
+- Top work-set delta: ↑ 7.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 9.47
-- Avg load: 92.2kg
-- Tonnage: 7137.5kg
-- Avg tonnage/session: 1784.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 18 | ↓ 2 |
+| Avg sets/session | 4 | 4.50 | ↓ 0.50 |
+| Avg RPE | 9.47 | 8.81 | ↑ 0.66 |
+| Avg load | 92.2kg | 93.3kg | ↓ 1.1kg |
+| Tonnage | 7137.5kg | 8103.5kg | ↓ 966kg |
+| Avg tonnage/session | 1784.4kg | 2025.9kg | ↓ 241.5kg |
+
 - Top single: 127.5kg x 1 @ 10
+- Previous top single: 122.5kg x 1 @ 9
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 2 @ 10
-- Change vs previous scorecards: avg sets/session -0.50, avg RPE +0.66, avg load -1.1kg, tonnage -966kg, avg tonnage/session -241.5kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 3 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.12
-- Avg load: 148.5kg
-- Tonnage: 4570kg
-- Avg tonnage/session: 1523.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 13 | ↓ 1 |
+| Avg sets/session | 4 | 4.33 | ↓ 0.33 |
+| Avg RPE | 7.12 | 7.54 | ↓ 0.42 |
+| Avg load | 148.5kg | 147.9kg | ↑ 0.6kg |
+| Tonnage | 4570kg | 5547.5kg | ↓ 977.5kg |
+| Avg tonnage/session | 1523.3kg | 1849.2kg | ↓ 325.9kg |
+
 - Top single: 190kg x 1 @ 10
+- Previous top single: 180kg x 1 @ 9
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE -0.42, avg load +0.6kg, tonnage -977.5kg, avg tonnage/session -325.9kg
-- Main-lift change: top single +10kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 165kg x 3 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power Variation 1 / Week 3
 
+Comparison baseline: Mad Power Variation 1 / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.75
-- Avg load: 126.5kg
-- Tonnage: 4597.5kg
-- Avg tonnage/session: 1532.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.75 | 8.21 | ↓ 0.46 |
+| Avg load | 126.5kg | 122.7kg | ↑ 3.8kg |
+| Tonnage | 4597.5kg | 5697.5kg | ↓ 1100kg |
+| Avg tonnage/session | 1532.5kg | 1899.2kg | ↓ 366.7kg |
+
 - Top single: 152.5kg x 1 @ 8.50
+- Previous top single: 140kg x 1 @ 6.50
+- Top single delta: ↑ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 140kg x 2 @ 7
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.46, avg load +3.8kg, tonnage -1100kg, avg tonnage/session -366.7kg
-- Main-lift change: top single +12.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 140kg x 3 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 18
-- Avg sets/session: 4.50
-- Avg RPE: 8.81
-- Avg load: 93.3kg
-- Tonnage: 8103.5kg
-- Avg tonnage/session: 2025.9kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 18 | 18 | → 0 |
+| Avg sets/session | 4.50 | 4.50 | → 0 |
+| Avg RPE | 8.81 | 8.75 | ↑ 0.06 |
+| Avg load | 93.3kg | 91.4kg | ↑ 1.9kg |
+| Tonnage | 8103.5kg | 8651.5kg | ↓ 548kg |
+| Avg tonnage/session | 2025.9kg | 2162.9kg | ↓ 137kg |
+
 - Top single: 122.5kg x 1 @ 9
+- Previous top single: 120kg x 1 @ 8
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 3 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.06, avg load +1.9kg, tonnage -548kg, avg tonnage/session -137kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 110kg x 4 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.54
-- Avg load: 147.9kg
-- Tonnage: 5547.5kg
-- Avg tonnage/session: 1849.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 14 | ↓ 1 |
+| Avg sets/session | 4.33 | 4.67 | ↓ 0.34 |
+| Avg RPE | 7.54 | 7 | ↑ 0.54 |
+| Avg load | 147.9kg | 148.6kg | ↓ 0.7kg |
+| Tonnage | 5547.5kg | 6100kg | ↓ 552.5kg |
+| Avg tonnage/session | 1849.2kg | 2033.3kg | ↓ 184.1kg |
+
 - Top single: 180kg x 1 @ 9
+- Previous top single: 175kg x 1 @ 7.50
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 165kg x 3 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.34, avg RPE +0.54, avg load -0.7kg, tonnage -552.5kg, avg tonnage/session -184.1kg
-- Main-lift change: top single +5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 162.5kg x 3 @ 7
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power Variation 1 / Week 2
 
+Comparison baseline: Mad Power Variation 1 / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.21
-- Avg load: 122.7kg
-- Tonnage: 5697.5kg
-- Avg tonnage/session: 1899.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 13 | ↓ 1 |
+| Avg sets/session | 4 | 4.33 | ↓ 0.33 |
+| Avg RPE | 8.21 | 7.65 | ↑ 0.56 |
+| Avg load | 122.7kg | 126.2kg | ↓ 3.5kg |
+| Tonnage | 5697.5kg | 7055kg | ↓ 1357.5kg |
+| Avg tonnage/session | 1899.2kg | 2351.7kg | ↓ 452.5kg |
+
 - Top single: 140kg x 1 @ 6.50
+- Previous top single: 137.5kg x 1 @ 6
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 140kg x 3 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.56, avg load -3.5kg, tonnage -1357.5kg, avg tonnage/session -452.5kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 135kg x 5 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 18
-- Avg sets/session: 4.50
-- Avg RPE: 8.75
-- Avg load: 91.4kg
-- Tonnage: 8651.5kg
-- Avg tonnage/session: 2162.9kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 18 | 18 | → 0 |
+| Avg sets/session | 4.50 | 4.50 | → 0 |
+| Avg RPE | 8.75 | 8.47 | ↑ 0.28 |
+| Avg load | 91.4kg | 89.6kg | ↑ 1.8kg |
+| Tonnage | 8651.5kg | 9267.5kg | ↓ 616kg |
+| Avg tonnage/session | 2162.9kg | 2316.9kg | ↓ 154kg |
+
 - Top single: 120kg x 1 @ 8
+- Previous top single: 115kg x 1 @ 7
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 110kg x 4 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.28, avg load +1.8kg, tonnage -616kg, avg tonnage/session -154kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 107.5kg x 5 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 14
-- Avg sets/session: 4.67
-- Avg RPE: 7
-- Avg load: 148.6kg
-- Tonnage: 6100kg
-- Avg tonnage/session: 2033.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 14 | 12 | ↑ 2 |
+| Avg sets/session | 4.67 | 4 | ↑ 0.67 |
+| Avg RPE | 7 | 8.12 | ↓ 1.12 |
+| Avg load | 148.6kg | 147.1kg | ↑ 1.5kg |
+| Tonnage | 6100kg | 5530kg | ↑ 570kg |
+| Avg tonnage/session | 2033.3kg | 1843.3kg | ↑ 190kg |
+
 - Top single: 175kg x 1 @ 7.50
+- Previous top single: 160kg x 1 @ 6
+- Top single delta: ↑ 15kg (only meaningful when the variation is comparable)
 - Top work set: 162.5kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session +0.67, avg RPE -1.12, avg load +1.5kg, tonnage +570kg, avg tonnage/session +190kg
-- Main-lift change: top single +15kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 160kg x 4 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power Variation 1 / Week 1
 
+Comparison baseline: Mad Power 6 weeks v1 / Week 6
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.65
-- Avg load: 126.2kg
-- Tonnage: 7055kg
-- Avg tonnage/session: 2351.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 11 | ↑ 2 |
+| Avg sets/session | 4.33 | 3.67 | ↑ 0.66 |
+| Avg RPE | 7.65 | 7.82 | ↓ 0.17 |
+| Avg load | 126.2kg | 137kg | ↓ 10.8kg |
+| Tonnage | 7055kg | 3617.5kg | ↑ 3437.5kg |
+| Avg tonnage/session | 2351.7kg | 1205.8kg | ↑ 1145.9kg |
+
 - Top single: 137.5kg x 1 @ 6
+- Previous top single: 160kg x 1 @ 7
+- Top single delta: ↓ 22.5kg (only meaningful when the variation is comparable)
 - Top work set: 135kg x 5 @ 8
-- Change vs previous scorecards: avg sets/session +0.66, avg RPE -0.17, avg load -10.8kg, tonnage +3437.5kg, avg tonnage/session +1145.9kg
-- Main-lift change: top single -22.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 145kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 18
-- Avg sets/session: 4.50
-- Avg RPE: 8.47
-- Avg load: 89.6kg
-- Tonnage: 9267.5kg
-- Avg tonnage/session: 2316.9kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 18 | 16 | ↑ 2 |
+| Avg sets/session | 4.50 | 4 | ↑ 0.50 |
+| Avg RPE | 8.47 | 9.23 | ↓ 0.76 |
+| Avg load | 89.6kg | 92kg | ↓ 2.4kg |
+| Tonnage | 9267.5kg | 7617.5kg | ↑ 1650kg |
+| Avg tonnage/session | 2316.9kg | 1904.4kg | ↑ 412.5kg |
+
 - Top single: 115kg x 1 @ 7
+- Previous top single: 125kg x 1 @ 10
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
 - Top work set: 107.5kg x 5 @ 9
-- Change vs previous scorecards: avg sets/session +0.50, avg RPE -0.76, avg load -2.4kg, tonnage +1650kg, avg tonnage/session +412.5kg
-- Main-lift change: top single -10kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 2 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.12
-- Avg load: 147.1kg
-- Tonnage: 5530kg
-- Avg tonnage/session: 1843.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 10 | ↑ 2 |
+| Avg sets/session | 4 | 3.33 | ↑ 0.67 |
+| Avg RPE | 8.12 | 8.50 | ↓ 0.38 |
+| Avg load | 147.1kg | 152kg | ↓ 4.9kg |
+| Tonnage | 5530kg | 5275kg | ↑ 255kg |
+| Avg tonnage/session | 1843.3kg | 1758.3kg | ↑ 85kg |
+
 - Top single: 160kg x 1 @ 6
+- Previous top single: 180kg x 1 @ 9
+- Top single delta: ↓ 20kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 4 @ 9
-- Change vs previous scorecards: avg sets/session +0.67, avg RPE -0.38, avg load -4.9kg, tonnage +255kg, avg tonnage/session +85kg
-- Main-lift change: top single -20kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 weeks v1 / Week 6
 
+Comparison baseline: Mad Power 6 weeks v1 / Week 5
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.82
-- Avg load: 137kg
-- Tonnage: 3617.5kg
-- Avg tonnage/session: 1205.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 7.82 | 8.17 | ↓ 0.35 |
+| Avg load | 137kg | 134kg | ↑ 3kg |
+| Tonnage | 3617.5kg | 5282.5kg | ↓ 1665kg |
+| Avg tonnage/session | 1205.8kg | 1760.8kg | ↓ 555kg |
+
 - Top single: 160kg x 1 @ 7
+- Previous top single: 152.5kg x 1 @ 8.50
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 145kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE -0.35, avg load +3kg, tonnage -1665kg, avg tonnage/session -555kg
-- Main-lift change: top single +7.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 142.5kg x 2 @ 7.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 9.23
-- Avg load: 92kg
-- Tonnage: 7617.5kg
-- Avg tonnage/session: 1904.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 17 | ↓ 1 |
+| Avg sets/session | 4 | 4.25 | ↓ 0.25 |
+| Avg RPE | 9.23 | 9.20 | ↑ 0.03 |
+| Avg load | 92kg | 92.1kg | ↓ 0.1kg |
+| Tonnage | 7617.5kg | 7737.5kg | ↓ 120kg |
+| Avg tonnage/session | 1904.4kg | 1934.4kg | ↓ 30kg |
+
 - Top single: 125kg x 1 @ 10
+- Previous top single: 122.5kg x 1 @ 9
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 2 @ 10
-- Change vs previous scorecards: avg sets/session -0.25, avg RPE +0.03, avg load -0.1kg, tonnage -120kg, avg tonnage/session -30kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 3 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 8.50
-- Avg load: 152kg
-- Tonnage: 5275kg
-- Avg tonnage/session: 1758.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 11 | ↓ 1 |
+| Avg sets/session | 3.33 | 3.67 | ↓ 0.34 |
+| Avg RPE | 8.50 | 8 | ↑ 0.50 |
+| Avg load | 152kg | 151.1kg | ↑ 0.9kg |
+| Tonnage | 5275kg | 6675kg | ↓ 1400kg |
+| Avg tonnage/session | 1758.3kg | 2225kg | ↓ 466.7kg |
+
 - Top single: 180kg x 1 @ 9
+- Previous top single: 185kg x 1 @ 9
+- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.34, avg RPE +0.50, avg load +0.9kg, tonnage -1400kg, avg tonnage/session -466.7kg
-- Main-lift change: top single -5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 weeks v1 / Week 5
 
+Comparison baseline: Mad Power 6 weeks v1 / Week 4
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.17
-- Avg load: 134kg
-- Tonnage: 5282.5kg
-- Avg tonnage/session: 1760.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8.17 | 8 | ↑ 0.17 |
+| Avg load | 134kg | 129.4kg | ↑ 4.6kg |
+| Tonnage | 5282.5kg | 6605kg | ↓ 1322.5kg |
+| Avg tonnage/session | 1760.8kg | 2201.7kg | ↓ 440.9kg |
+
 - Top single: 152.5kg x 1 @ 8.50
+- Previous top single: 145kg x 1 @ 7
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 142.5kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.17, avg load +4.6kg, tonnage -1322.5kg, avg tonnage/session -440.9kg
-- Main-lift change: top single +7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 137.5kg x 4 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 17
-- Avg sets/session: 4.25
-- Avg RPE: 9.20
-- Avg load: 92.1kg
-- Tonnage: 7737.5kg
-- Avg tonnage/session: 1934.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 17 | 17 | → 0 |
+| Avg sets/session | 4.25 | 4.25 | → 0 |
+| Avg RPE | 9.20 | 8.94 | ↑ 0.26 |
+| Avg load | 92.1kg | 89kg | ↑ 3.1kg |
+| Tonnage | 7737.5kg | 8267.5kg | ↓ 530kg |
+| Avg tonnage/session | 1934.4kg | 2066.9kg | ↓ 132.5kg |
+
 - Top single: 122.5kg x 1 @ 9
+- Previous top single: 117.5kg x 1 @ 8
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 3 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.26, avg load +3.1kg, tonnage -530kg, avg tonnage/session -132.5kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 110kg x 4 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 8
-- Avg load: 151.1kg
-- Tonnage: 6675kg
-- Avg tonnage/session: 2225kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 11 | → 0 |
+| Avg sets/session | 3.67 | 3.67 | → 0 |
+| Avg RPE | 8 | 7.50 | ↑ 0.50 |
+| Avg load | 151.1kg | 148kg | ↑ 3.1kg |
+| Tonnage | 6675kg | 6965kg | ↓ 290kg |
+| Avg tonnage/session | 2225kg | 2321.7kg | ↓ 96.7kg |
+
 - Top single: 185kg x 1 @ 9
+- Previous top single: 175kg x 1 @ 8
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.50, avg load +3.1kg, tonnage -290kg, avg tonnage/session -96.7kg
-- Main-lift change: top single +10kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 167.5kg x 3 @ 9
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 weeks v1 / Week 4
 
+Comparison baseline: Mad Power 6 weeks v1 / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8
-- Avg load: 129.4kg
-- Tonnage: 6605kg
-- Avg tonnage/session: 2201.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8 | 7.79 | ↑ 0.21 |
+| Avg load | 129.4kg | 124.8kg | ↑ 4.6kg |
+| Tonnage | 6605kg | 7402.5kg | ↓ 797.5kg |
+| Avg tonnage/session | 2201.7kg | 2467.5kg | ↓ 265.8kg |
+
 - Top single: 145kg x 1 @ 7
+- Previous top single: 137.5kg x 1 @ 6
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 137.5kg x 4 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.21, avg load +4.6kg, tonnage -797.5kg, avg tonnage/session -265.8kg
-- Main-lift change: top single +7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 135kg x 5 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 17
-- Avg sets/session: 4.25
-- Avg RPE: 8.94
-- Avg load: 89kg
-- Tonnage: 8267.5kg
-- Avg tonnage/session: 2066.9kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 17 | 17 | → 0 |
+| Avg sets/session | 4.25 | 4.25 | → 0 |
+| Avg RPE | 8.94 | 8.94 | → 0 |
+| Avg load | 89kg | 88.1kg | ↑ 0.9kg |
+| Tonnage | 8267.5kg | 9276kg | ↓ 1008.5kg |
+| Avg tonnage/session | 2066.9kg | 2319kg | ↓ 252.1kg |
+
 - Top single: 117.5kg x 1 @ 8
+- Previous top single: 111kg x 1 @ 6
+- Top single delta: ↑ 6.5kg (only meaningful when the variation is comparable)
 - Top work set: 110kg x 4 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE 0, avg load +0.9kg, tonnage -1008.5kg, avg tonnage/session -252.1kg
-- Main-lift change: top single +6.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 107.5kg x 4 @ 7.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.50
-- Avg load: 148kg
-- Tonnage: 6965kg
-- Avg tonnage/session: 2321.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 11 | → 0 |
+| Avg sets/session | 3.67 | 3.67 | → 0 |
+| Avg RPE | 7.50 | 7.36 | ↑ 0.14 |
+| Avg load | 148kg | 145.7kg | ↑ 2.3kg |
+| Tonnage | 6965kg | 7047.5kg | ↓ 82.5kg |
+| Avg tonnage/session | 2321.7kg | 2349.2kg | ↓ 27.5kg |
+
 - Top single: 175kg x 1 @ 8
+- Previous top single: 172.5kg x 1 @ 7
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 167.5kg x 3 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.14, avg load +2.3kg, tonnage -82.5kg, avg tonnage/session -27.5kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 162.5kg x 4 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 weeks v1 / Week 3
 
+Comparison baseline: Mad Power 6 weeks v1 / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.79
-- Avg load: 124.8kg
-- Tonnage: 7402.5kg
-- Avg tonnage/session: 2467.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.79 | 8 | ↓ 0.21 |
+| Avg load | 124.8kg | 119kg | ↑ 5.8kg |
+| Tonnage | 7402.5kg | 8227.5kg | ↓ 825kg |
+| Avg tonnage/session | 2467.5kg | 2742.5kg | ↓ 275kg |
+
 - Top single: 137.5kg x 1 @ 6
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 135kg x 5 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.21, avg load +5.8kg, tonnage -825kg, avg tonnage/session -275kg
+- Previous top work set: 140kg x 2 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 17
-- Avg sets/session: 4.25
-- Avg RPE: 8.94
-- Avg load: 88.1kg
-- Tonnage: 9276kg
-- Avg tonnage/session: 2319kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 17 | 17 | → 0 |
+| Avg sets/session | 4.25 | 4.25 | → 0 |
+| Avg RPE | 8.94 | 8.91 | ↑ 0.03 |
+| Avg load | 88.1kg | 85kg | ↑ 3.1kg |
+| Tonnage | 9276kg | 10066kg | ↓ 790kg |
+| Avg tonnage/session | 2319kg | 2516.5kg | ↓ 197.5kg |
+
 - Top single: 111kg x 1 @ 6
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 107.5kg x 4 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.03, avg load +3.1kg, tonnage -790kg, avg tonnage/session -197.5kg
+- Previous top work set: 110kg x 3 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.36
-- Avg load: 145.7kg
-- Tonnage: 7047.5kg
-- Avg tonnage/session: 2349.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 11 | → 0 |
+| Avg sets/session | 3.67 | 3.67 | → 0 |
+| Avg RPE | 7.36 | 7.23 | ↑ 0.13 |
+| Avg load | 145.7kg | 143kg | ↑ 2.7kg |
+| Tonnage | 7047.5kg | 7695kg | ↓ 647.5kg |
+| Avg tonnage/session | 2349.2kg | 2565kg | ↓ 215.8kg |
+
 - Top single: 172.5kg x 1 @ 7
+- Previous top single: 160kg x 1 @ 6
+- Top single delta: ↑ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 162.5kg x 4 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.13, avg load +2.7kg, tonnage -647.5kg, avg tonnage/session -215.8kg
-- Main-lift change: top single +12.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 weeks v1 / Week 2
 
+Comparison baseline: Mad Power 6 weeks v1 / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8
-- Avg load: 119kg
-- Tonnage: 8227.5kg
-- Avg tonnage/session: 2742.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8 | 8.12 | ↓ 0.12 |
+| Avg load | 119kg | 114.6kg | ↑ 4.4kg |
+| Tonnage | 8227.5kg | 8000kg | ↑ 227.5kg |
+| Avg tonnage/session | 2742.5kg | 2666.7kg | ↑ 75.8kg |
+
 - Top single: -
+- Previous top single: 140kg x 1 @ 7
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 140kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.12, avg load +4.4kg, tonnage +227.5kg, avg tonnage/session +75.8kg
+- Previous top work set: 115kg x 7 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 17
-- Avg sets/session: 4.25
-- Avg RPE: 8.91
-- Avg load: 85kg
-- Tonnage: 10066kg
-- Avg tonnage/session: 2516.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 5 | ↓ 1 |
+| Total sets | 17 | 19 | ↓ 2 |
+| Avg sets/session | 4.25 | 3.80 | ↑ 0.45 |
+| Avg RPE | 8.91 | 8.87 | ↑ 0.04 |
+| Avg load | 85kg | 82.5kg | ↑ 2.5kg |
+| Tonnage | 10066kg | 13222.5kg | ↓ 3156.5kg |
+| Avg tonnage/session | 2516.5kg | 2644.5kg | ↓ 128kg |
+
 - Top single: -
+- Previous top single: 115kg x 1 @ 7
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 110kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session +0.45, avg RPE +0.04, avg load +2.5kg, tonnage -3156.5kg, avg tonnage/session -128kg
+- Previous top work set: 100kg x 7 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.23
-- Avg load: 143kg
-- Tonnage: 7695kg
-- Avg tonnage/session: 2565kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 11 | → 0 |
+| Avg sets/session | 3.67 | 3.67 | → 0 |
+| Avg RPE | 7.23 | 7 | ↑ 0.23 |
+| Avg load | 143kg | 138.4kg | ↑ 4.6kg |
+| Tonnage | 7695kg | 7842.5kg | ↓ 147.5kg |
+| Avg tonnage/session | 2565kg | 2614.2kg | ↓ 49.2kg |
+
 - Top single: 160kg x 1 @ 6
+- Previous top single: 170kg x 1 @ 7.50
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.23, avg load +4.6kg, tonnage -147.5kg, avg tonnage/session -49.2kg
-- Main-lift change: top single -10kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 6 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 weeks v1 / Week 1
 
+Comparison baseline: Mad Power 6 Weeks v2 / Week 6
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.12
-- Avg load: 114.6kg
-- Tonnage: 8000kg
-- Avg tonnage/session: 2666.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 13 | ↓ 1 |
+| Avg sets/session | 4 | 4.33 | ↓ 0.33 |
+| Avg RPE | 8.12 | 7.79 | ↑ 0.33 |
+| Avg load | 114.6kg | 138.1kg | ↓ 23.5kg |
+| Tonnage | 8000kg | 4540kg | ↑ 3460kg |
+| Avg tonnage/session | 2666.7kg | 1513.3kg | ↑ 1153.4kg |
+
 - Top single: 140kg x 1 @ 7
+- Previous top single: 170kg x 1 @ 9.50
+- Top single delta: ↓ 30kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 7 @ 7.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.33, avg load -23.5kg, tonnage +3460kg, avg tonnage/session +1153.4kg
-- Main-lift change: top single -30kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 155kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 19
-- Avg sets/session: 3.80
-- Avg RPE: 8.87
-- Avg load: 82.5kg
-- Tonnage: 13222.5kg
-- Avg tonnage/session: 2644.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 4 | ↑ 1 |
+| Total sets | 19 | 15 | ↑ 4 |
+| Avg sets/session | 3.80 | 3.75 | ↑ 0.05 |
+| Avg RPE | 8.87 | 8.29 | ↑ 0.58 |
+| Avg load | 82.5kg | 97.6kg | ↓ 15.1kg |
+| Tonnage | 13222.5kg | 4668.5kg | ↑ 8554kg |
+| Avg tonnage/session | 2644.5kg | 1167.1kg | ↑ 1477.4kg |
+
 - Top single: 115kg x 1 @ 7
+- Previous top single: 130kg x 1 @ 10
+- Top single delta: ↓ 15kg (only meaningful when the variation is comparable)
 - Top work set: 100kg x 7 @ 8
-- Change vs previous scorecards: avg sets/session +0.05, avg RPE +0.58, avg load -15.1kg, tonnage +8554kg, avg tonnage/session +1477.4kg
-- Main-lift change: top single -15kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 2 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7
-- Avg load: 138.4kg
-- Tonnage: 7842.5kg
-- Avg tonnage/session: 2614.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 11 | → 0 |
+| Avg sets/session | 3.67 | 3.67 | → 0 |
+| Avg RPE | 7 | 7.93 | ↓ 0.93 |
+| Avg load | 138.4kg | 149.3kg | ↓ 10.9kg |
+| Tonnage | 7842.5kg | 6612.5kg | ↑ 1230kg |
+| Avg tonnage/session | 2614.2kg | 2204.2kg | ↑ 410kg |
+
 - Top single: 170kg x 1 @ 7.50
+- Previous top single: 190kg x 1 @ 9.50
+- Top single delta: ↓ 20kg (only meaningful when the variation is comparable)
 - Top work set: 150kg x 6 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.93, avg load -10.9kg, tonnage +1230kg, avg tonnage/session +410kg
-- Main-lift change: top single -20kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 175kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 Weeks v2 / Week 6
 
+Comparison baseline: Mad Power 6 Weeks v2 / Week 5
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.79
-- Avg load: 138.1kg
-- Tonnage: 4540kg
-- Avg tonnage/session: 1513.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 12 | ↑ 1 |
+| Avg sets/session | 4.33 | 4 | ↑ 0.33 |
+| Avg RPE | 7.79 | 8 | ↓ 0.21 |
+| Avg load | 138.1kg | 140.2kg | ↓ 2.1kg |
+| Tonnage | 4540kg | 3862.5kg | ↑ 677.5kg |
+| Avg tonnage/session | 1513.3kg | 1287.5kg | ↑ 225.8kg |
+
 - Top single: 170kg x 1 @ 9.50
+- Previous top single: 152.5kg x 1 @ 7.50
+- Top single delta: ↑ 17.5kg (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE -0.21, avg load -2.1kg, tonnage +677.5kg, avg tonnage/session +225.8kg
-- Main-lift change: top single +17.5kg, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 2 @ 8
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.29
-- Avg load: 97.6kg
-- Tonnage: 4668.5kg
-- Avg tonnage/session: 1167.1kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 15 | → 0 |
+| Avg sets/session | 3.75 | 3.75 | → 0 |
+| Avg RPE | 8.29 | 8.17 | ↑ 0.12 |
+| Avg load | 97.6kg | 97.9kg | ↓ 0.3kg |
+| Tonnage | 4668.5kg | 4078.5kg | ↑ 590kg |
+| Avg tonnage/session | 1167.1kg | 1019.6kg | ↑ 147.5kg |
+
 - Top single: 130kg x 1 @ 10
+- Previous top single: 120kg x 1 @ 8
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.12, avg load -0.3kg, tonnage +590kg, avg tonnage/session +147.5kg
-- Main-lift change: top single +10kg, top work set -2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 2 @ 9.50
+- Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.93
-- Avg load: 149.3kg
-- Tonnage: 6612.5kg
-- Avg tonnage/session: 2204.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 7.93 | 8.12 | ↓ 0.19 |
+| Avg load | 149.3kg | 149.6kg | ↓ 0.3kg |
+| Tonnage | 6612.5kg | 6675kg | ↓ 62.5kg |
+| Avg tonnage/session | 2204.2kg | 2225kg | ↓ 20.8kg |
+
 - Top single: 190kg x 1 @ 9.50
+- Previous top single: 185kg x 1 @ 10
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 175kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE -0.19, avg load -0.3kg, tonnage -62.5kg, avg tonnage/session -20.8kg
-- Main-lift change: top single +5kg, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 8
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 Weeks v2 / Week 5
 
+Comparison baseline: Mad Power 6 Weeks v2 / Week 4
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8
-- Avg load: 140.2kg
-- Tonnage: 3862.5kg
-- Avg tonnage/session: 1287.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8 | 7.79 | ↑ 0.21 |
+| Avg load | 140.2kg | 137.1kg | ↑ 3.1kg |
+| Tonnage | 3862.5kg | 5290kg | ↓ 1427.5kg |
+| Avg tonnage/session | 1287.5kg | 1763.3kg | ↓ 475.8kg |
+
 - Top single: 152.5kg x 1 @ 7.50
+- Previous top single: 140kg x 1 @ 7.50
+- Top single delta: ↑ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 150kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.21, avg load +3.1kg, tonnage -1427.5kg, avg tonnage/session -475.8kg
-- Main-lift change: top single +12.5kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 2 @ 8.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.17
-- Avg load: 97.9kg
-- Tonnage: 4078.5kg
-- Avg tonnage/session: 1019.6kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 15 | → 0 |
+| Avg sets/session | 3.75 | 3.75 | → 0 |
+| Avg RPE | 8.17 | 8.30 | ↓ 0.13 |
+| Avg load | 97.9kg | 95.7kg | ↑ 2.2kg |
+| Tonnage | 4078.5kg | 5576kg | ↓ 1497.5kg |
+| Avg tonnage/session | 1019.6kg | 1394kg | ↓ 374.4kg |
+
 - Top single: 120kg x 1 @ 8
+- Previous top single: 113.5kg x 1 @ 8.50
+- Top single delta: ↑ 6.5kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 2 @ 9.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.13, avg load +2.2kg, tonnage -1497.5kg, avg tonnage/session -374.4kg
-- Main-lift change: top single +6.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 2 @ 7.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.12
-- Avg load: 149.6kg
-- Tonnage: 6675kg
-- Avg tonnage/session: 2225kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8.12 | 7.44 | ↑ 0.68 |
+| Avg load | 149.6kg | 146kg | ↑ 3.6kg |
+| Tonnage | 6675kg | 7407.5kg | ↓ 732.5kg |
+| Avg tonnage/session | 2225kg | 2469.2kg | ↓ 244.2kg |
+
 - Top single: 185kg x 1 @ 10
+- Previous top single: 175kg x 1 @ 8
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.68, avg load +3.6kg, tonnage -732.5kg, avg tonnage/session -244.2kg
-- Main-lift change: top single +10kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 162.5kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 Weeks v2 / Week 4
 
+Comparison baseline: Mad Power 6 Weeks v2 / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.79
-- Avg load: 137.1kg
-- Tonnage: 5290kg
-- Avg tonnage/session: 1763.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.79 | 7.38 | ↑ 0.41 |
+| Avg load | 137.1kg | 136kg | ↑ 1.1kg |
+| Tonnage | 5290kg | 5097.5kg | ↑ 192.5kg |
+| Avg tonnage/session | 1763.3kg | 1699.2kg | ↑ 64.1kg |
+
 - Top single: 140kg x 1 @ 7.50
+- Previous top single: 140kg x 1 @ 8
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 150kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.41, avg load +1.1kg, tonnage +192.5kg, avg tonnage/session +64.1kg
-- Main-lift change: top single 0kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 2 @ 7.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.30
-- Avg load: 95.7kg
-- Tonnage: 5576kg
-- Avg tonnage/session: 1394kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 16 | ↓ 1 |
+| Avg sets/session | 3.75 | 4 | ↓ 0.25 |
+| Avg RPE | 8.30 | 7.81 | ↑ 0.49 |
+| Avg load | 95.7kg | 94.9kg | ↑ 0.8kg |
+| Tonnage | 5576kg | 5910.5kg | ↓ 334.5kg |
+| Avg tonnage/session | 1394kg | 1477.6kg | ↓ 83.6kg |
+
 - Top single: 113.5kg x 1 @ 8.50
+- Previous top single: 112.5kg x 1 @ 7.50
+- Top single delta: ↑ 1kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session -0.25, avg RPE +0.49, avg load +0.8kg, tonnage -334.5kg, avg tonnage/session -83.6kg
-- Main-lift change: top single +1kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 2 @ 8
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.44
-- Avg load: 146kg
-- Tonnage: 7407.5kg
-- Avg tonnage/session: 2469.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.44 | 7 | ↑ 0.44 |
+| Avg load | 146kg | 144kg | ↑ 2kg |
+| Tonnage | 7407.5kg | 7102.5kg | ↑ 305kg |
+| Avg tonnage/session | 2469.2kg | 2367.5kg | ↑ 101.7kg |
+
 - Top single: 175kg x 1 @ 8
+- Previous top single: 175kg x 1 @ 7.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 162.5kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.44, avg load +2kg, tonnage +305kg, avg tonnage/session +101.7kg
-- Main-lift change: top single 0kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 162.5kg x 3 @ 7.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 Weeks v2 / Week 3
 
+Comparison baseline: Mad Power 6 Weeks v2 / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.38
-- Avg load: 136kg
-- Tonnage: 5097.5kg
-- Avg tonnage/session: 1699.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.38 | 7.38 | → 0 |
+| Avg load | 136kg | 129.8kg | ↑ 6.2kg |
+| Tonnage | 5097.5kg | 6130kg | ↓ 1032.5kg |
+| Avg tonnage/session | 1699.2kg | 2043.3kg | ↓ 344.1kg |
+
 - Top single: 140kg x 1 @ 8
+- Previous top single: 130kg x 1 @ 7
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 150kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE 0, avg load +6.2kg, tonnage -1032.5kg, avg tonnage/session -344.1kg
-- Main-lift change: top single +10kg, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 145kg x 2 @ 7.50
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 7.81
-- Avg load: 94.9kg
-- Tonnage: 5910.5kg
-- Avg tonnage/session: 1477.6kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 15 | ↑ 1 |
+| Avg sets/session | 4 | 3.75 | ↑ 0.25 |
+| Avg RPE | 7.81 | 8.37 | ↓ 0.56 |
+| Avg load | 94.9kg | 93.3kg | ↑ 1.6kg |
+| Tonnage | 5910.5kg | 5885.5kg | ↑ 25kg |
+| Avg tonnage/session | 1477.6kg | 1471.4kg | ↑ 6.2kg |
+
 - Top single: 112.5kg x 1 @ 7.50
+- Previous top single: 112.5kg x 1 @ 8
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session +0.25, avg RPE -0.56, avg load +1.6kg, tonnage +25kg, avg tonnage/session +6.2kg
-- Main-lift change: top single 0kg, top work set -1.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 116.5kg x 2 @ 9
+- Top work-set delta: ↓ 1.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7
-- Avg load: 144kg
-- Tonnage: 7102.5kg
-- Avg tonnage/session: 2367.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7 | 7.77 | ↓ 0.77 |
+| Avg load | 144kg | 139.6kg | ↑ 4.4kg |
+| Tonnage | 7102.5kg | 7710kg | ↓ 607.5kg |
+| Avg tonnage/session | 2367.5kg | 2570kg | ↓ 202.5kg |
+
 - Top single: 175kg x 1 @ 7.50
+- Previous top single: 172.5kg x 1 @ 7.50
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 162.5kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.77, avg load +4.4kg, tonnage -607.5kg, avg tonnage/session -202.5kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 155kg x 4 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 Weeks v2 / Week 2
 
+Comparison baseline: Mad Power 6 Weeks v2 / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.38
-- Avg load: 129.8kg
-- Tonnage: 6130kg
-- Avg tonnage/session: 2043.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 12 | 8 | ↑ 4 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.38 | 7.62 | ↓ 0.24 |
+| Avg load | 129.8kg | 120.6kg | ↑ 9.2kg |
+| Tonnage | 6130kg | 3925kg | ↑ 2205kg |
+| Avg tonnage/session | 2043.3kg | 1962.5kg | ↑ 80.8kg |
+
 - Top single: 130kg x 1 @ 7
+- Previous top single: 120kg x 1 @ 6
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 145kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.24, avg load +9.2kg, tonnage +2205kg, avg tonnage/session +80.8kg
-- Main-lift change: top single +10kg, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 140kg x 2 @ 10
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.37
-- Avg load: 93.3kg
-- Tonnage: 5885.5kg
-- Avg tonnage/session: 1471.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 15 | → 0 |
+| Avg sets/session | 3.75 | 3.75 | → 0 |
+| Avg RPE | 8.37 | 7.96 | ↑ 0.41 |
+| Avg load | 93.3kg | 86kg | ↑ 7.3kg |
+| Tonnage | 5885.5kg | 6627.5kg | ↓ 742kg |
+| Avg tonnage/session | 1471.4kg | 1656.9kg | ↓ 185.5kg |
+
 - Top single: 112.5kg x 1 @ 8
+- Previous top single: 120kg x 1 @ 9
+- Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 116.5kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.41, avg load +7.3kg, tonnage -742kg, avg tonnage/session -185.5kg
-- Main-lift change: top single -7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.77
-- Avg load: 139.6kg
-- Tonnage: 7710kg
-- Avg tonnage/session: 2570kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 12 | 8 | ↑ 4 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.77 | 7.88 | ↓ 0.11 |
+| Avg load | 139.6kg | 152.2kg | ↓ 12.6kg |
+| Tonnage | 7710kg | 4717.5kg | ↑ 2992.5kg |
+| Avg tonnage/session | 2570kg | 2358.8kg | ↑ 211.2kg |
+
 - Top single: 172.5kg x 1 @ 7.50
+- Previous top single: 172.5kg x 1 @ 7.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 155kg x 4 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.11, avg load -12.6kg, tonnage +2992.5kg, avg tonnage/session +211.2kg
-- Main-lift change: top single 0kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 5 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 6 Weeks v2 / Week 1
 
+Comparison baseline: Mad Power 5 Weeks v3 / Week 5
+
 ### Squat family
 
-- Sessions: 2
-- Total sets: 8
-- Avg sets/session: 4
-- Avg RPE: 7.62
-- Avg load: 120.6kg
-- Tonnage: 3925kg
-- Avg tonnage/session: 1962.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 8 | 12 | ↓ 4 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.62 | 7.62 | → 0 |
+| Avg load | 120.6kg | 137.5kg | ↓ 16.9kg |
+| Tonnage | 3925kg | 6260kg | ↓ 2335kg |
+| Avg tonnage/session | 1962.5kg | 2086.7kg | ↓ 124.2kg |
+
 - Top single: 120kg x 1 @ 6
+- Previous top single: 170kg x 1 @ 9.50
+- Top single delta: ↓ 50kg (only meaningful when the variation is comparable)
 - Top work set: 140kg x 2 @ 10
-- Change vs previous scorecards: avg sets/session 0, avg RPE 0, avg load -16.9kg, tonnage -2335kg, avg tonnage/session -124.2kg
-- Main-lift change: top single -50kg, top work set -15kg (only when the same rep scheme is comparable)
+- Previous top work set: 155kg x 2 @ 9.50
+- Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 7.96
-- Avg load: 86kg
-- Tonnage: 6627.5kg
-- Avg tonnage/session: 1656.9kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 14 | ↑ 1 |
+| Avg sets/session | 3.75 | 3.50 | ↑ 0.25 |
+| Avg RPE | 7.96 | 8.92 | ↓ 0.96 |
+| Avg load | 86kg | 100.9kg | ↓ 14.9kg |
+| Tonnage | 6627.5kg | 4827.5kg | ↑ 1800kg |
+| Avg tonnage/session | 1656.9kg | 1206.9kg | ↑ 450kg |
+
 - Top single: 120kg x 1 @ 9
+- Previous top single: 132.5kg x 1 @ 10
+- Top single delta: ↓ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.25, avg RPE -0.96, avg load -14.9kg, tonnage +1800kg, avg tonnage/session +450kg
-- Main-lift change: top single -12.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 122.5kg x 2 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 2
-- Total sets: 8
-- Avg sets/session: 4
-- Avg RPE: 7.88
-- Avg load: 152.2kg
-- Tonnage: 4717.5kg
-- Avg tonnage/session: 2358.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 8 | 11 | ↓ 3 |
+| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Avg RPE | 7.88 | 8.79 | ↓ 0.91 |
+| Avg load | 152.2kg | 140kg | ↑ 12.2kg |
+| Tonnage | 4717.5kg | 7040kg | ↓ 2322.5kg |
+| Avg tonnage/session | 2358.8kg | 2346.7kg | ↑ 12.1kg |
+
 - Top single: 172.5kg x 1 @ 7.50
+- Previous top single: 190kg x 1 @ 9
+- Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
 - Top work set: 150kg x 5 @ 8
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE -0.91, avg load +12.2kg, tonnage -2322.5kg, avg tonnage/session +12.1kg
-- Main-lift change: top single -17.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 180kg x 2 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v3 / Week 5
 
+Comparison baseline: Mad Power 5 Weeks v3 / Week 4
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.62
-- Avg load: 137.5kg
-- Tonnage: 6260kg
-- Avg tonnage/session: 2086.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 13 | ↓ 1 |
+| Avg sets/session | 4 | 4.33 | ↓ 0.33 |
+| Avg RPE | 7.62 | 7.62 | → 0 |
+| Avg load | 137.5kg | 137.1kg | ↑ 0.4kg |
+| Tonnage | 6260kg | 4955kg | ↑ 1305kg |
+| Avg tonnage/session | 2086.7kg | 1651.7kg | ↑ 435kg |
+
 - Top single: 170kg x 1 @ 9.50
+- Previous top single: 157.5kg x 1 @ 9
+- Top single delta: ↑ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE 0, avg load +0.4kg, tonnage +1305kg, avg tonnage/session +435kg
-- Main-lift change: top single +12.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 152.5kg x 2 @ 8
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 8.92
-- Avg load: 100.9kg
-- Tonnage: 4827.5kg
-- Avg tonnage/session: 1206.9kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 15 | ↓ 1 |
+| Avg sets/session | 3.50 | 3.75 | ↓ 0.25 |
+| Avg RPE | 8.92 | 8.33 | ↑ 0.59 |
+| Avg load | 100.9kg | 101kg | ↓ 0.1kg |
+| Tonnage | 4827.5kg | 4635kg | ↑ 192.5kg |
+| Avg tonnage/session | 1206.9kg | 1158.8kg | ↑ 48.1kg |
+
 - Top single: 132.5kg x 1 @ 10
+- Previous top single: 125kg x 1 @ 9
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 122.5kg x 2 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.25, avg RPE +0.59, avg load -0.1kg, tonnage +192.5kg, avg tonnage/session +48.1kg
-- Main-lift change: top single +7.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 120kg x 2 @ 9
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 8.79
-- Avg load: 140kg
-- Tonnage: 7040kg
-- Avg tonnage/session: 2346.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 8.79 | 8.25 | ↑ 0.54 |
+| Avg load | 140kg | 143.1kg | ↓ 3.1kg |
+| Tonnage | 7040kg | 7317.5kg | ↓ 277.5kg |
+| Avg tonnage/session | 2346.7kg | 2439.2kg | ↓ 92.5kg |
+
 - Top single: 190kg x 1 @ 9
+- Previous top single: 185kg x 1 @ 9
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 180kg x 2 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.54, avg load -3.1kg, tonnage -277.5kg, avg tonnage/session -92.5kg
-- Main-lift change: top single +5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 177.5kg x 2 @ 9
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v3 / Week 4
 
+Comparison baseline: Mad Power 5 Weeks v3 / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.62
-- Avg load: 137.1kg
-- Tonnage: 4955kg
-- Avg tonnage/session: 1651.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 12 | ↑ 1 |
+| Avg sets/session | 4.33 | 4 | ↑ 0.33 |
+| Avg RPE | 7.62 | 8.50 | ↓ 0.88 |
+| Avg load | 137.1kg | 135.4kg | ↑ 1.7kg |
+| Tonnage | 4955kg | 5835kg | ↓ 880kg |
+| Avg tonnage/session | 1651.7kg | 1945kg | ↓ 293.3kg |
+
 - Top single: 157.5kg x 1 @ 9
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 152.5kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE -0.88, avg load +1.7kg, tonnage -880kg, avg tonnage/session -293.3kg
-- Main-lift change: top single n/a, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 2 @ 8.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.33
-- Avg load: 101kg
-- Tonnage: 4635kg
-- Avg tonnage/session: 1158.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 16 | ↓ 1 |
+| Avg sets/session | 3.75 | 4 | ↓ 0.25 |
+| Avg RPE | 8.33 | 8.54 | ↓ 0.21 |
+| Avg load | 101kg | 99.2kg | ↑ 1.8kg |
+| Tonnage | 4635kg | 6365kg | ↓ 1730kg |
+| Avg tonnage/session | 1158.8kg | 1591.2kg | ↓ 432.4kg |
+
 - Top single: 125kg x 1 @ 9
+- Previous top single: 115kg x 1 @ 8
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 120kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.25, avg RPE -0.21, avg load +1.8kg, tonnage -1730kg, avg tonnage/session -432.4kg
-- Main-lift change: top single +10kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 120kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.25
-- Avg load: 143.1kg
-- Tonnage: 7317.5kg
-- Avg tonnage/session: 2439.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8.25 | 8.19 | ↑ 0.06 |
+| Avg load | 143.1kg | 136kg | ↑ 7.1kg |
+| Tonnage | 7317.5kg | 7972.5kg | ↓ 655kg |
+| Avg tonnage/session | 2439.2kg | 2657.5kg | ↓ 218.3kg |
+
 - Top single: 185kg x 1 @ 9
+- Previous top single: 182.5kg x 1 @ 8.50
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 177.5kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.06, avg load +7.1kg, tonnage -655kg, avg tonnage/session -218.3kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 3 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v3 / Week 3
 
+Comparison baseline: Mad Power 5 Weeks v3 / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.50
-- Avg load: 135.4kg
-- Tonnage: 5835kg
-- Avg tonnage/session: 1945kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 13 | ↓ 1 |
+| Avg sets/session | 4 | 4.33 | ↓ 0.33 |
+| Avg RPE | 8.50 | 8.12 | ↑ 0.38 |
+| Avg load | 135.4kg | 132.3kg | ↑ 3.1kg |
+| Tonnage | 5835kg | 7735kg | ↓ 1900kg |
+| Avg tonnage/session | 1945kg | 2578.3kg | ↓ 633.3kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 150kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.38, avg load +3.1kg, tonnage -1900kg, avg tonnage/session -633.3kg
+- Previous top work set: 147.5kg x 3 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 8.54
-- Avg load: 99.2kg
-- Tonnage: 6365kg
-- Avg tonnage/session: 1591.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 15 | ↑ 1 |
+| Avg sets/session | 4 | 3.75 | ↑ 0.25 |
+| Avg RPE | 8.54 | 8.54 | → 0 |
+| Avg load | 99.2kg | 98.1kg | ↑ 1.1kg |
+| Tonnage | 6365kg | 5977.5kg | ↑ 387.5kg |
+| Avg tonnage/session | 1591.2kg | 1494.4kg | ↑ 96.8kg |
+
 - Top single: 115kg x 1 @ 8
+- Previous top single: 115kg x 1 @ 8.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 120kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session +0.25, avg RPE 0, avg load +1.1kg, tonnage +387.5kg, avg tonnage/session +96.8kg
-- Main-lift change: top single 0kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 118.5kg x 2 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.19
-- Avg load: 136kg
-- Tonnage: 7972.5kg
-- Avg tonnage/session: 2657.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 11 | ↑ 1 |
+| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Avg RPE | 8.19 | 8.79 | ↓ 0.60 |
+| Avg load | 136kg | 150.9kg | ↓ 14.9kg |
+| Tonnage | 7972.5kg | 7702.5kg | ↑ 270kg |
+| Avg tonnage/session | 2657.5kg | 2567.5kg | ↑ 90kg |
+
 - Top single: 182.5kg x 1 @ 8.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 170kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE -0.60, avg load -14.9kg, tonnage +270kg, avg tonnage/session +90kg
+- Previous top work set: 177.5kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v3 / Week 2
 
+Comparison baseline: Mad Power 5 Weeks v3 / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 8.12
-- Avg load: 132.3kg
-- Tonnage: 7735kg
-- Avg tonnage/session: 2578.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 12 | ↑ 1 |
+| Avg sets/session | 4.33 | 4 | ↑ 0.33 |
+| Avg RPE | 8.12 | 7.38 | ↑ 0.74 |
+| Avg load | 132.3kg | 129.3kg | ↑ 3kg |
+| Tonnage | 7735kg | 7634.5kg | ↑ 100.5kg |
+| Avg tonnage/session | 2578.3kg | 2544.8kg | ↑ 33.5kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 147.5kg x 3 @ 8.50
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE +0.74, avg load +3kg, tonnage +100.5kg, avg tonnage/session +33.5kg
+- Previous top work set: 140kg x 4 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.54
-- Avg load: 98.1kg
-- Tonnage: 5977.5kg
-- Avg tonnage/session: 1494.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 15 | → 0 |
+| Avg sets/session | 3.75 | 3.75 | → 0 |
+| Avg RPE | 8.54 | 7.75 | ↑ 0.79 |
+| Avg load | 98.1kg | 95.3kg | ↑ 2.8kg |
+| Tonnage | 5977.5kg | 6820kg | ↓ 842.5kg |
+| Avg tonnage/session | 1494.4kg | 1705kg | ↓ 210.6kg |
+
 - Top single: 115kg x 1 @ 8.50
+- Previous top single: 115kg x 1 @ 8.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 118.5kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.79, avg load +2.8kg, tonnage -842.5kg, avg tonnage/session -210.6kg
-- Main-lift change: top single 0kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 8.79
-- Avg load: 150.9kg
-- Tonnage: 7702.5kg
-- Avg tonnage/session: 2567.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 8.79 | 8.81 | ↓ 0.02 |
+| Avg load | 150.9kg | 148.3kg | ↑ 2.6kg |
+| Tonnage | 7702.5kg | 9175kg | ↓ 1472.5kg |
+| Avg tonnage/session | 2567.5kg | 3058.3kg | ↓ 490.8kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 177.5kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE -0.02, avg load +2.6kg, tonnage -1472.5kg, avg tonnage/session -490.8kg
-- Main-lift change: top single n/a, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 175kg x 2 @ 9
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v3 / Week 1
 
+Comparison baseline: Mad Power 5 Weeks v2 / Week 5
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.38
-- Avg load: 129.3kg
-- Tonnage: 7634.5kg
-- Avg tonnage/session: 2544.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.38 | 8.25 | ↓ 0.87 |
+| Avg load | 129.3kg | 140.6kg | ↓ 11.3kg |
+| Tonnage | 7634.5kg | 6057.5kg | ↑ 1577kg |
+| Avg tonnage/session | 2544.8kg | 2019.2kg | ↑ 525.6kg |
+
 - Top single: -
+- Previous top single: 170kg x 1 @ 9.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 140kg x 4 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.87, avg load -11.3kg, tonnage +1577kg, avg tonnage/session +525.6kg
+- Previous top work set: 155kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 7.75
-- Avg load: 95.3kg
-- Tonnage: 6820kg
-- Avg tonnage/session: 1705kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 14 | ↑ 1 |
+| Avg sets/session | 3.75 | 3.50 | ↑ 0.25 |
+| Avg RPE | 7.75 | 9 | ↓ 1.25 |
+| Avg load | 95.3kg | 100.4kg | ↓ 5.1kg |
+| Tonnage | 6820kg | 4535kg | ↑ 2285kg |
+| Avg tonnage/session | 1705kg | 1133.8kg | ↑ 571.2kg |
+
 - Top single: 115kg x 1 @ 8.50
+- Previous top single: 130kg x 1 @ 10
+- Top single delta: ↓ 15kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.25, avg RPE -1.25, avg load -5.1kg, tonnage +2285kg, avg tonnage/session +571.2kg
-- Main-lift change: top single -15kg, top work set -7.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 120kg x 3 @ 9.50
+- Top work-set delta: ↓ 7.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.81
-- Avg load: 148.3kg
-- Tonnage: 9175kg
-- Avg tonnage/session: 3058.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 11 | ↑ 1 |
+| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Avg RPE | 8.81 | 7.57 | ↑ 1.24 |
+| Avg load | 148.3kg | 151.4kg | ↓ 3.1kg |
+| Tonnage | 9175kg | 7450kg | ↑ 1725kg |
+| Avg tonnage/session | 3058.3kg | 2483.3kg | ↑ 575kg |
+
 - Top single: -
+- Previous top single: 200kg x 1 @ 9
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 175kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE +1.24, avg load -3.1kg, tonnage +1725kg, avg tonnage/session +575kg
-- Main-lift change: top single n/a, top work set -2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 177.5kg x 2 @ 8.50
+- Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v2 / Week 5
 
+Comparison baseline: Mad Power 5 Weeks v2 / Week 4
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.25
-- Avg load: 140.6kg
-- Tonnage: 6057.5kg
-- Avg tonnage/session: 2019.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8.25 | 8.17 | ↑ 0.08 |
+| Avg load | 140.6kg | 142.2kg | ↓ 1.6kg |
+| Tonnage | 6057.5kg | 4905.5kg | ↑ 1152kg |
+| Avg tonnage/session | 2019.2kg | 1635.2kg | ↑ 384kg |
+
 - Top single: 170kg x 1 @ 9.50
+- Previous top single: 160kg x 1 @ 9
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.08, avg load -1.6kg, tonnage +1152kg, avg tonnage/session +384kg
-- Main-lift change: top single +10kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 155kg x 2 @ 9
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 14
-- Avg sets/session: 3.50
-- Avg RPE: 9
-- Avg load: 100.4kg
-- Tonnage: 4535kg
-- Avg tonnage/session: 1133.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 15 | ↓ 1 |
+| Avg sets/session | 3.50 | 3.75 | ↓ 0.25 |
+| Avg RPE | 9 | 9.04 | ↓ 0.04 |
+| Avg load | 100.4kg | 99.7kg | ↑ 0.7kg |
+| Tonnage | 4535kg | 4722.5kg | ↓ 187.5kg |
+| Avg tonnage/session | 1133.8kg | 1180.6kg | ↓ 46.8kg |
+
 - Top single: 130kg x 1 @ 10
+- Previous top single: 122.5kg x 1 @ 9
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 120kg x 3 @ 9.50
-- Change vs previous scorecards: avg sets/session -0.25, avg RPE -0.04, avg load +0.7kg, tonnage -187.5kg, avg tonnage/session -46.8kg
-- Main-lift change: top single +7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.57
-- Avg load: 151.4kg
-- Tonnage: 7450kg
-- Avg tonnage/session: 2483.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 13 | ↓ 2 |
+| Avg sets/session | 3.67 | 4.33 | ↓ 0.66 |
+| Avg RPE | 7.57 | 8.61 | ↓ 1.04 |
+| Avg load | 151.4kg | 152.9kg | ↓ 1.5kg |
+| Tonnage | 7450kg | 9130kg | ↓ 1680kg |
+| Avg tonnage/session | 2483.3kg | 3043.3kg | ↓ 560kg |
+
 - Top single: 200kg x 1 @ 9
+- Previous top single: 185kg x 1 @ 9
+- Top single delta: ↑ 15kg (only meaningful when the variation is comparable)
 - Top work set: 177.5kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.66, avg RPE -1.04, avg load -1.5kg, tonnage -1680kg, avg tonnage/session -560kg
-- Main-lift change: top single +15kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 177.5kg x 2 @ 8
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v2 / Week 4
 
+Comparison baseline: Mad Power 5 Weeks v2 / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.17
-- Avg load: 142.2kg
-- Tonnage: 4905.5kg
-- Avg tonnage/session: 1635.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 13 | ↓ 1 |
+| Avg sets/session | 4 | 4.33 | ↓ 0.33 |
+| Avg RPE | 8.17 | 7.50 | ↑ 0.67 |
+| Avg load | 142.2kg | 135.1kg | ↑ 7.1kg |
+| Tonnage | 4905.5kg | 7075.5kg | ↓ 2170kg |
+| Avg tonnage/session | 1635.2kg | 2358.5kg | ↓ 723.3kg |
+
 - Top single: 160kg x 1 @ 9
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.67, avg load +7.1kg, tonnage -2170kg, avg tonnage/session -723.3kg
-- Main-lift change: top single n/a, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 150kg x 2 @ 8
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 9.04
-- Avg load: 99.7kg
-- Tonnage: 4722.5kg
-- Avg tonnage/session: 1180.6kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 16 | ↓ 1 |
+| Avg sets/session | 3.75 | 4 | ↓ 0.25 |
+| Avg RPE | 9.04 | 8.96 | ↑ 0.08 |
+| Avg load | 99.7kg | 96.5kg | ↑ 3.2kg |
+| Tonnage | 4722.5kg | 7102kg | ↓ 2379.5kg |
+| Avg tonnage/session | 1180.6kg | 1775.5kg | ↓ 594.9kg |
+
 - Top single: 122.5kg x 1 @ 9
+- Previous top single: 112.5kg x 1 @ 8.50
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.25, avg RPE +0.08, avg load +3.2kg, tonnage -2379.5kg, avg tonnage/session -594.9kg
-- Main-lift change: top single +10kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 2 @ 8.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 8.61
-- Avg load: 152.9kg
-- Tonnage: 9130kg
-- Avg tonnage/session: 3043.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 12 | ↑ 1 |
+| Avg sets/session | 4.33 | 4 | ↑ 0.33 |
+| Avg RPE | 8.61 | 7.31 | ↑ 1.30 |
+| Avg load | 152.9kg | 153.3kg | ↓ 0.4kg |
+| Tonnage | 9130kg | 8690kg | ↑ 440kg |
+| Avg tonnage/session | 3043.3kg | 2896.7kg | ↑ 146.6kg |
+
 - Top single: 185kg x 1 @ 9
+- Previous top single: 180kg x 1 @ 7.50
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 177.5kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE +1.30, avg load -0.4kg, tonnage +440kg, avg tonnage/session +146.6kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v2 / Week 3
 
+Comparison baseline: Mad Power 5 Weeks v2 / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.50
-- Avg load: 135.1kg
-- Tonnage: 7075.5kg
-- Avg tonnage/session: 2358.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 13 | → 0 |
+| Avg sets/session | 4.33 | 4.33 | → 0 |
+| Avg RPE | 7.50 | 7.65 | ↓ 0.15 |
+| Avg load | 135.1kg | 129.7kg | ↑ 5.4kg |
+| Tonnage | 7075.5kg | 7290.5kg | ↓ 215kg |
+| Avg tonnage/session | 2358.5kg | 2430.2kg | ↓ 71.7kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 150kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.15, avg load +5.4kg, tonnage -215kg, avg tonnage/session -71.7kg
-- Main-lift change: top single n/a, top work set -2kg (only when the same rep scheme is comparable)
+- Previous top work set: 152kg x 2 @ 9.50
+- Top work-set delta: ↓ 2kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 8.96
-- Avg load: 96.5kg
-- Tonnage: 7102kg
-- Avg tonnage/session: 1775.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 16 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8.96 | 8.58 | ↑ 0.38 |
+| Avg load | 96.5kg | 94.9kg | ↑ 1.6kg |
+| Tonnage | 7102kg | 7188.5kg | ↓ 86.5kg |
+| Avg tonnage/session | 1775.5kg | 1797.1kg | ↓ 21.6kg |
+
 - Top single: 112.5kg x 1 @ 8.50
+- Previous top single: 112.5kg x 1 @ 9
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.38, avg load +1.6kg, tonnage -86.5kg, avg tonnage/session -21.6kg
-- Main-lift change: top single 0kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 2 @ 9
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.31
-- Avg load: 153.3kg
-- Tonnage: 8690kg
-- Avg tonnage/session: 2896.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.31 | 6.81 | ↑ 0.50 |
+| Avg load | 153.3kg | 149.8kg | ↑ 3.5kg |
+| Tonnage | 8690kg | 8632.5kg | ↑ 57.5kg |
+| Avg tonnage/session | 2896.7kg | 2877.5kg | ↑ 19.2kg |
+
 - Top single: 180kg x 1 @ 7.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 170kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.50, avg load +3.5kg, tonnage +57.5kg, avg tonnage/session +19.2kg
+- Previous top work set: 175kg x 2 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v2 / Week 2
 
+Comparison baseline: Mad Power 5 Weeks v2 / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 7.65
-- Avg load: 129.7kg
-- Tonnage: 7290.5kg
-- Avg tonnage/session: 2430.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 12 | ↑ 1 |
+| Avg sets/session | 4.33 | 4 | ↑ 0.33 |
+| Avg RPE | 7.65 | 7.17 | ↑ 0.48 |
+| Avg load | 129.7kg | 129kg | ↑ 0.7kg |
+| Tonnage | 7290.5kg | 7475kg | ↓ 184.5kg |
+| Avg tonnage/session | 2430.2kg | 2491.7kg | ↓ 61.5kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 152kg x 2 @ 9.50
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE +0.48, avg load +0.7kg, tonnage -184.5kg, avg tonnage/session -61.5kg
+- Previous top work set: 145kg x 3 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 8.58
-- Avg load: 94.9kg
-- Tonnage: 7188.5kg
-- Avg tonnage/session: 1797.1kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 16 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8.58 | 7.46 | ↑ 1.12 |
+| Avg load | 94.9kg | 94.1kg | ↑ 0.8kg |
+| Tonnage | 7188.5kg | 8080kg | ↓ 891.5kg |
+| Avg tonnage/session | 1797.1kg | 2020kg | ↓ 222.9kg |
+
 - Top single: 112.5kg x 1 @ 9
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +1.12, avg load +0.8kg, tonnage -891.5kg, avg tonnage/session -222.9kg
+- Previous top work set: 112.5kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 6.81
-- Avg load: 149.8kg
-- Tonnage: 8632.5kg
-- Avg tonnage/session: 2877.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 6.81 | 6.69 | ↑ 0.12 |
+| Avg load | 149.8kg | 147kg | ↑ 2.8kg |
+| Tonnage | 8632.5kg | 9847.5kg | ↓ 1215kg |
+| Avg tonnage/session | 2877.5kg | 3282.5kg | ↓ 405kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 175kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.12, avg load +2.8kg, tonnage -1215kg, avg tonnage/session -405kg
-- Main-lift change: top single n/a, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 175kg x 2 @ 7.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks v2 / Week 1
 
+Comparison baseline: Mad Power 5 Weeks / Week 5
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.17
-- Avg load: 129kg
-- Tonnage: 7475kg
-- Avg tonnage/session: 2491.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 11 | ↑ 1 |
+| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Avg RPE | 7.17 | 8 | ↓ 0.83 |
+| Avg load | 129kg | 138.4kg | ↓ 9.4kg |
+| Tonnage | 7475kg | 4452.5kg | ↑ 3022.5kg |
+| Avg tonnage/session | 2491.7kg | 1484.2kg | ↑ 1007.5kg |
+
 - Top single: -
+- Previous top single: 172.5kg x 1 @ 10
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 145kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE -0.83, avg load -9.4kg, tonnage +3022.5kg, avg tonnage/session +1007.5kg
+- Previous top work set: 155kg x 2 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 7.46
-- Avg load: 94.1kg
-- Tonnage: 8080kg
-- Avg tonnage/session: 2020kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 15 | ↑ 1 |
+| Avg sets/session | 4 | 3.75 | ↑ 0.25 |
+| Avg RPE | 7.46 | 8.42 | ↓ 0.96 |
+| Avg load | 94.1kg | 98.7kg | ↓ 4.6kg |
+| Tonnage | 8080kg | 5400kg | ↑ 2680kg |
+| Avg tonnage/session | 2020kg | 1350kg | ↑ 670kg |
+
 - Top single: -
+- Previous top single: 130kg x 1 @ 10
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.25, avg RPE -0.96, avg load -4.6kg, tonnage +2680kg, avg tonnage/session +670kg
+- Previous top work set: 120kg x 2 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 6.69
-- Avg load: 147kg
-- Tonnage: 9847.5kg
-- Avg tonnage/session: 3282.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 11 | ↑ 1 |
+| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Avg RPE | 6.69 | 7.43 | ↓ 0.74 |
+| Avg load | 147kg | 148.2kg | ↓ 1.2kg |
+| Tonnage | 9847.5kg | 7772.5kg | ↑ 2075kg |
+| Avg tonnage/session | 3282.5kg | 2590.8kg | ↑ 691.7kg |
+
 - Top single: -
+- Previous top single: 197.5kg x 1 @ 8.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 175kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE -0.74, avg load -1.2kg, tonnage +2075kg, avg tonnage/session +691.7kg
-- Main-lift change: top single n/a, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 172.5kg x 2 @ 8.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks / Week 5
 
+Comparison baseline: Mad Power 5 Weeks / Week 4
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 8
-- Avg load: 138.4kg
-- Tonnage: 4452.5kg
-- Avg tonnage/session: 1484.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 8 | 7.92 | ↑ 0.08 |
+| Avg load | 138.4kg | 139.6kg | ↓ 1.2kg |
+| Tonnage | 4452.5kg | 4782.5kg | ↓ 330kg |
+| Avg tonnage/session | 1484.2kg | 1594.2kg | ↓ 110kg |
+
 - Top single: 172.5kg x 1 @ 10
+- Previous top single: 160kg x 1 @ 8
+- Top single delta: ↑ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 10
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.08, avg load -1.2kg, tonnage -330kg, avg tonnage/session -110kg
-- Main-lift change: top single +12.5kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 155kg x 2 @ 9.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.42
-- Avg load: 98.7kg
-- Tonnage: 5400kg
-- Avg tonnage/session: 1350kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 15 | → 0 |
+| Avg sets/session | 3.75 | 3.75 | → 0 |
+| Avg RPE | 8.42 | 8.12 | ↑ 0.30 |
+| Avg load | 98.7kg | 99kg | ↓ 0.3kg |
+| Tonnage | 5400kg | 4782.5kg | ↑ 617.5kg |
+| Avg tonnage/session | 1350kg | 1195.6kg | ↑ 154.4kg |
+
 - Top single: 130kg x 1 @ 10
+- Previous top single: 122.5kg x 1 @ 8.50
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 120kg x 2 @ 10
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.30, avg load -0.3kg, tonnage +617.5kg, avg tonnage/session +154.4kg
-- Main-lift change: top single +7.5kg, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 117.5kg x 2 @ 8.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.43
-- Avg load: 148.2kg
-- Tonnage: 7772.5kg
-- Avg tonnage/session: 2590.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 7.43 | 7.25 | ↑ 0.18 |
+| Avg load | 148.2kg | 148.8kg | ↓ 0.6kg |
+| Tonnage | 7772.5kg | 8217.5kg | ↓ 445kg |
+| Avg tonnage/session | 2590.8kg | 2739.2kg | ↓ 148.4kg |
+
 - Top single: 197.5kg x 1 @ 8.50
+- Previous top single: 180kg x 1 @ 8.50
+- Top single delta: ↑ 17.5kg (only meaningful when the variation is comparable)
 - Top work set: 172.5kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.18, avg load -0.6kg, tonnage -445kg, avg tonnage/session -148.4kg
-- Main-lift change: top single +17.5kg, top work set -2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 175kg x 2 @ 8.50
+- Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks / Week 4
 
+Comparison baseline: Mad Power 5 Weeks / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.92
-- Avg load: 139.6kg
-- Tonnage: 4782.5kg
-- Avg tonnage/session: 1594.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.92 | 7.46 | ↑ 0.46 |
+| Avg load | 139.6kg | 124kg | ↑ 15.6kg |
+| Tonnage | 4782.5kg | 8027.5kg | ↓ 3245kg |
+| Avg tonnage/session | 1594.2kg | 2675.8kg | ↓ 1081.6kg |
+
 - Top single: 160kg x 1 @ 8
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 9.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.46, avg load +15.6kg, tonnage -3245kg, avg tonnage/session -1081.6kg
-- Main-lift change: top single n/a, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 155kg x 2 @ 8.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 8.12
-- Avg load: 99kg
-- Tonnage: 4782.5kg
-- Avg tonnage/session: 1195.6kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 16 | ↓ 1 |
+| Avg sets/session | 3.75 | 4 | ↓ 0.25 |
+| Avg RPE | 8.12 | 7.96 | ↑ 0.16 |
+| Avg load | 99kg | 97.2kg | ↑ 1.8kg |
+| Tonnage | 4782.5kg | 5209kg | ↓ 426.5kg |
+| Avg tonnage/session | 1195.6kg | 1302.2kg | ↓ 106.6kg |
+
 - Top single: 122.5kg x 1 @ 8.50
+- Previous top single: 115kg x 1 @ 8
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.25, avg RPE +0.16, avg load +1.8kg, tonnage -426.5kg, avg tonnage/session -106.6kg
-- Main-lift change: top single +7.5kg, top work set -2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 120kg x 2 @ 9.50
+- Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.25
-- Avg load: 148.8kg
-- Tonnage: 8217.5kg
-- Avg tonnage/session: 2739.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 13 | ↓ 1 |
+| Avg sets/session | 4 | 4.33 | ↓ 0.33 |
+| Avg RPE | 7.25 | 6.62 | ↑ 0.63 |
+| Avg load | 148.8kg | 139.2kg | ↑ 9.6kg |
+| Tonnage | 8217.5kg | 8905kg | ↓ 687.5kg |
+| Avg tonnage/session | 2739.2kg | 2968.3kg | ↓ 229.1kg |
+
 - Top single: 180kg x 1 @ 8.50
+- Previous top single: 175kg x 1 @ 7.50
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 175kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.63, avg load +9.6kg, tonnage -687.5kg, avg tonnage/session -229.1kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 165kg x 3 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks / Week 3
 
+Comparison baseline: Mad Power 5 Weeks / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.46
-- Avg load: 124kg
-- Tonnage: 8027.5kg
-- Avg tonnage/session: 2675.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.46 | 7.12 | ↑ 0.34 |
+| Avg load | 124kg | 135.5kg | ↓ 11.5kg |
+| Tonnage | 8027.5kg | 5684kg | ↑ 2343.5kg |
+| Avg tonnage/session | 2675.8kg | 1894.7kg | ↑ 781.1kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 155kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.34, avg load -11.5kg, tonnage +2343.5kg, avg tonnage/session +781.1kg
-- Main-lift change: top single n/a, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 152.5kg x 2 @ 7.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 7.96
-- Avg load: 97.2kg
-- Tonnage: 5209kg
-- Avg tonnage/session: 1302.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 15 | ↑ 1 |
+| Avg sets/session | 4 | 3.75 | ↑ 0.25 |
+| Avg RPE | 7.96 | 7 | ↑ 0.96 |
+| Avg load | 97.2kg | 95.2kg | ↑ 2kg |
+| Tonnage | 5209kg | 5361.5kg | ↓ 152.5kg |
+| Avg tonnage/session | 1302.2kg | 1340.4kg | ↓ 38.2kg |
+
 - Top single: 115kg x 1 @ 8
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 120kg x 2 @ 9.50
-- Change vs previous scorecards: avg sets/session +0.25, avg RPE +0.96, avg load +2kg, tonnage -152.5kg, avg tonnage/session -38.2kg
-- Main-lift change: top single n/a, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 2 @ 7.50
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 13
-- Avg sets/session: 4.33
-- Avg RPE: 6.62
-- Avg load: 139.2kg
-- Tonnage: 8905kg
-- Avg tonnage/session: 2968.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 12 | ↑ 1 |
+| Avg sets/session | 4.33 | 4 | ↑ 0.33 |
+| Avg RPE | 6.62 | 7 | ↓ 0.38 |
+| Avg load | 139.2kg | 145.2kg | ↓ 6kg |
+| Tonnage | 8905kg | 8502.5kg | ↑ 402.5kg |
+| Avg tonnage/session | 2968.3kg | 2834.2kg | ↑ 134.1kg |
+
 - Top single: 175kg x 1 @ 7.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 165kg x 3 @ 7
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE -0.38, avg load -6kg, tonnage +402.5kg, avg tonnage/session +134.1kg
+- Previous top work set: 170kg x 2 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks / Week 2
 
+Comparison baseline: Mad Power 5 Weeks / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.12
-- Avg load: 135.5kg
-- Tonnage: 5684kg
-- Avg tonnage/session: 1894.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.12 | 6.92 | ↑ 0.20 |
+| Avg load | 135.5kg | 129.4kg | ↑ 6.1kg |
+| Tonnage | 5684kg | 7344kg | ↓ 1660kg |
+| Avg tonnage/session | 1894.7kg | 2448kg | ↓ 553.3kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 152.5kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.20, avg load +6.1kg, tonnage -1660kg, avg tonnage/session -553.3kg
+- Previous top work set: 145kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 7
-- Avg load: 95.2kg
-- Tonnage: 5361.5kg
-- Avg tonnage/session: 1340.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 15 | → 0 |
+| Avg sets/session | 3.75 | 3.75 | → 0 |
+| Avg RPE | 7 | 7.50 | ↓ 0.50 |
+| Avg load | 95.2kg | 91.5kg | ↑ 3.7kg |
+| Tonnage | 5361.5kg | 7097.5kg | ↓ 1736kg |
+| Avg tonnage/session | 1340.4kg | 1774.4kg | ↓ 434kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 115kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.50, avg load +3.7kg, tonnage -1736kg, avg tonnage/session -434kg
+- Previous top work set: 110kg x 3 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7
-- Avg load: 145.2kg
-- Tonnage: 8502.5kg
-- Avg tonnage/session: 2834.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7 | 6.88 | ↑ 0.12 |
+| Avg load | 145.2kg | 140.4kg | ↑ 4.8kg |
+| Tonnage | 8502.5kg | 9765kg | ↓ 1262.5kg |
+| Avg tonnage/session | 2834.2kg | 3255kg | ↓ 420.8kg |
+
 - Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 7
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.12, avg load +4.8kg, tonnage -1262.5kg, avg tonnage/session -420.8kg
-- Main-lift change: top single n/a, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 7.50
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 5 Weeks / Week 1
 
+Comparison baseline: Mad Power 2 Weeks / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 6.92
-- Avg load: 129.4kg
-- Tonnage: 7344kg
-- Avg tonnage/session: 2448kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 6.92 | 7.88 | ↓ 0.96 |
+| Avg load | 129.4kg | 134.6kg | ↓ 5.2kg |
+| Tonnage | 7344kg | 4785kg | ↑ 2559kg |
+| Avg tonnage/session | 2448kg | 1595kg | ↑ 853kg |
+
 - Top single: -
+- Previous top single: 152.5kg x 1 @ 8
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 145kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.96, avg load -5.2kg, tonnage +2559kg, avg tonnage/session +853kg
+- Previous top work set: 147.5kg x 2 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 15
-- Avg sets/session: 3.75
-- Avg RPE: 7.50
-- Avg load: 91.5kg
-- Tonnage: 7097.5kg
-- Avg tonnage/session: 1774.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 5 | ↓ 1 |
+| Total sets | 15 | 17 | ↓ 2 |
+| Avg sets/session | 3.75 | 3.40 | ↑ 0.35 |
+| Avg RPE | 7.50 | 9.12 | ↓ 1.62 |
+| Avg load | 91.5kg | 96.3kg | ↓ 4.8kg |
+| Tonnage | 7097.5kg | 7120.5kg | ↓ 23kg |
+| Avg tonnage/session | 1774.4kg | 1424.1kg | ↑ 350.3kg |
+
 - Top single: -
+- Previous top single: 122.5kg x 1 @ 9
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 110kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session +0.35, avg RPE -1.62, avg load -4.8kg, tonnage -23kg, avg tonnage/session +350.3kg
+- Previous top work set: 116.5kg x 2 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 6.88
-- Avg load: 140.4kg
-- Tonnage: 9765kg
-- Avg tonnage/session: 3255kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 6.88 | 8.12 | ↓ 1.24 |
+| Avg load | 140.4kg | 158.8kg | ↓ 18.4kg |
+| Tonnage | 9765kg | 6010kg | ↑ 3755kg |
+| Avg tonnage/session | 3255kg | 2003.3kg | ↑ 1251.7kg |
+
 - Top single: -
+- Previous top single: 185kg x 1 @ 10
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 7.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -1.24, avg load -18.4kg, tonnage +3755kg, avg tonnage/session +1251.7kg
+- Previous top work set: 165kg x 3 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 2 Weeks / Week 2
 
+Comparison baseline: Mad Power 2 Weeks / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.88
-- Avg load: 134.6kg
-- Tonnage: 4785kg
-- Avg tonnage/session: 1595kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.88 | 7.62 | ↑ 0.26 |
+| Avg load | 134.6kg | 129.8kg | ↑ 4.8kg |
+| Tonnage | 4785kg | 5567.5kg | ↓ 782.5kg |
+| Avg tonnage/session | 1595kg | 1855.8kg | ↓ 260.8kg |
+
 - Top single: 152.5kg x 1 @ 8
+- Previous top single: 145kg x 1 @ 7.50
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 147.5kg x 2 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.26, avg load +4.8kg, tonnage -782.5kg, avg tonnage/session -260.8kg
-- Main-lift change: top single +7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 137.5kg x 3 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 17
-- Avg sets/session: 3.40
-- Avg RPE: 9.12
-- Avg load: 96.3kg
-- Tonnage: 7120.5kg
-- Avg tonnage/session: 1424.1kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 5 | → 0 |
+| Total sets | 17 | 18 | ↓ 1 |
+| Avg sets/session | 3.40 | 3.60 | ↓ 0.20 |
+| Avg RPE | 9.12 | 8.75 | ↑ 0.37 |
+| Avg load | 96.3kg | 91.8kg | ↑ 4.5kg |
+| Tonnage | 7120.5kg | 8910kg | ↓ 1789.5kg |
+| Avg tonnage/session | 1424.1kg | 1782kg | ↓ 357.9kg |
+
 - Top single: 122.5kg x 1 @ 9
+- Previous top single: 117.5kg x 1 @ 8
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 116.5kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session -0.20, avg RPE +0.37, avg load +4.5kg, tonnage -1789.5kg, avg tonnage/session -357.9kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 110kg x 5 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.12
-- Avg load: 158.8kg
-- Tonnage: 6010kg
-- Avg tonnage/session: 2003.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 8.12 | 8.75 | ↓ 0.63 |
+| Avg load | 158.8kg | 149.8kg | ↑ 9kg |
+| Tonnage | 6010kg | 6747.5kg | ↓ 737.5kg |
+| Avg tonnage/session | 2003.3kg | 2249.2kg | ↓ 245.9kg |
+
 - Top single: 185kg x 1 @ 10
+- Previous top single: 180kg x 1 @ 8
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 165kg x 3 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.63, avg load +9kg, tonnage -737.5kg, avg tonnage/session -245.9kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 160kg x 5 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power 2 Weeks / Week 1
 
+Comparison baseline: Mad Power / Week 4
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.62
-- Avg load: 129.8kg
-- Tonnage: 5567.5kg
-- Avg tonnage/session: 1855.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 10 | ↑ 2 |
+| Avg sets/session | 4 | 3.33 | ↑ 0.67 |
+| Avg RPE | 7.62 | 8 | ↓ 0.38 |
+| Avg load | 129.8kg | 122.5kg | ↑ 7.3kg |
+| Tonnage | 5567.5kg | 2980kg | ↑ 2587.5kg |
+| Avg tonnage/session | 1855.8kg | 993.3kg | ↑ 862.5kg |
+
 - Top single: 145kg x 1 @ 7.50
+- Previous top single: 155kg x 1 @ 10
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
 - Top work set: 137.5kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session +0.67, avg RPE -0.38, avg load +7.3kg, tonnage +2587.5kg, avg tonnage/session +862.5kg
-- Main-lift change: top single -10kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 145kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 5
-- Total sets: 18
-- Avg sets/session: 3.60
-- Avg RPE: 8.75
-- Avg load: 91.8kg
-- Tonnage: 8910kg
-- Avg tonnage/session: 1782kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 5 | 4 | ↑ 1 |
+| Total sets | 18 | 18 | → 0 |
+| Avg sets/session | 3.60 | 4.50 | ↓ 0.90 |
+| Avg RPE | 8.75 | 8.94 | ↓ 0.19 |
+| Avg load | 91.8kg | 91.7kg | ↑ 0.1kg |
+| Tonnage | 8910kg | 7931kg | ↑ 979kg |
+| Avg tonnage/session | 1782kg | 1982.8kg | ↓ 200.8kg |
+
 - Top single: 117.5kg x 1 @ 8
+- Previous top single: 128.5kg x 1 @ 10
+- Top single delta: ↓ 11kg (only meaningful when the variation is comparable)
 - Top work set: 110kg x 5 @ 9
-- Change vs previous scorecards: avg sets/session -0.90, avg RPE -0.19, avg load +0.1kg, tonnage +979kg, avg tonnage/session -200.8kg
-- Main-lift change: top single -11kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 120kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 8.75
-- Avg load: 149.8kg
-- Tonnage: 6747.5kg
-- Avg tonnage/session: 2249.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 10 | ↑ 2 |
+| Avg sets/session | 4 | 3.33 | ↑ 0.67 |
+| Avg RPE | 8.75 | 8.30 | ↑ 0.45 |
+| Avg load | 149.8kg | 143.8kg | ↑ 6kg |
+| Tonnage | 6747.5kg | 5867.5kg | ↑ 880kg |
+| Avg tonnage/session | 2249.2kg | 1955.8kg | ↑ 293.4kg |
+
 - Top single: 180kg x 1 @ 8
+- Previous top single: 180kg x 1 @ 10
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 5 @ 9
-- Change vs previous scorecards: avg sets/session +0.67, avg RPE +0.45, avg load +6kg, tonnage +880kg, avg tonnage/session +293.4kg
-- Main-lift change: top single 0kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 165kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power / Week 4
 
+Comparison baseline: Mad Power / Week 3
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 8
-- Avg load: 122.5kg
-- Tonnage: 2980kg
-- Avg tonnage/session: 993.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 12 | ↓ 2 |
+| Avg sets/session | 3.33 | 4 | ↓ 0.67 |
+| Avg RPE | 8 | 7.88 | ↑ 0.12 |
+| Avg load | 122.5kg | 127.3kg | ↓ 4.8kg |
+| Tonnage | 2980kg | 4302.5kg | ↓ 1322.5kg |
+| Avg tonnage/session | 993.3kg | 1434.2kg | ↓ 440.9kg |
+
 - Top single: 155kg x 1 @ 10
+- Previous top single: 152.5kg x 1 @ 8.50
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 145kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.67, avg RPE +0.12, avg load -4.8kg, tonnage -1322.5kg, avg tonnage/session -440.9kg
-- Main-lift change: top single +2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 140kg x 3 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 18
-- Avg sets/session: 4.50
-- Avg RPE: 8.94
-- Avg load: 91.7kg
-- Tonnage: 7931kg
-- Avg tonnage/session: 1982.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 18 | 20 | ↓ 2 |
+| Avg sets/session | 4.50 | 5 | ↓ 0.50 |
+| Avg RPE | 8.94 | 8.43 | ↑ 0.51 |
+| Avg load | 91.7kg | 92.1kg | ↓ 0.4kg |
+| Tonnage | 7931kg | 8806.5kg | ↓ 875.5kg |
+| Avg tonnage/session | 1982.8kg | 2201.6kg | ↓ 218.8kg |
+
 - Top single: 128.5kg x 1 @ 10
+- Previous top single: 125kg x 1 @ 9.50
+- Top single delta: ↑ 3.5kg (only meaningful when the variation is comparable)
 - Top work set: 120kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.50, avg RPE +0.51, avg load -0.4kg, tonnage -875.5kg, avg tonnage/session -218.8kg
-- Main-lift change: top single +3.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 3 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 10
-- Avg sets/session: 3.33
-- Avg RPE: 8.30
-- Avg load: 143.8kg
-- Tonnage: 5867.5kg
-- Avg tonnage/session: 1955.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 11 | ↓ 1 |
+| Avg sets/session | 3.33 | 3.67 | ↓ 0.34 |
+| Avg RPE | 8.30 | 8 | ↑ 0.30 |
+| Avg load | 143.8kg | 143.6kg | ↑ 0.2kg |
+| Tonnage | 5867.5kg | 6590kg | ↓ 722.5kg |
+| Avg tonnage/session | 1955.8kg | 2196.7kg | ↓ 240.9kg |
+
 - Top single: 180kg x 1 @ 10
+- Previous top single: 180kg x 1 @ 8.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 165kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.34, avg RPE +0.30, avg load +0.2kg, tonnage -722.5kg, avg tonnage/session -240.9kg
-- Main-lift change: top single 0kg, top work set -5kg (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 9
+- Top work-set delta: ↓ 5kg (only meaningful when the rep scheme is comparable)
 
 ## Mad Power / Week 3
 
+Comparison baseline: Mad Power / Week 2
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.88
-- Avg load: 127.3kg
-- Tonnage: 4302.5kg
-- Avg tonnage/session: 1434.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 12 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 7.88 | 7.92 | ↓ 0.04 |
+| Avg load | 127.3kg | 116.5kg | ↑ 10.8kg |
+| Tonnage | 4302.5kg | 4877.5kg | ↓ 575kg |
+| Avg tonnage/session | 1434.2kg | 1625.8kg | ↓ 191.6kg |
+
 - Top single: 152.5kg x 1 @ 8.50
+- Previous top single: 140kg x 1 @ 7
+- Top single delta: ↑ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 140kg x 3 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE -0.04, avg load +10.8kg, tonnage -575kg, avg tonnage/session -191.6kg
-- Main-lift change: top single +12.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 135kg x 4 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 20
-- Avg sets/session: 5
-- Avg RPE: 8.43
-- Avg load: 92.1kg
-- Tonnage: 8806.5kg
-- Avg tonnage/session: 2201.6kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 20 | 20 | → 0 |
+| Avg sets/session | 5 | 5 | → 0 |
+| Avg RPE | 8.43 | 8.08 | ↑ 0.35 |
+| Avg load | 92.1kg | 89kg | ↑ 3.1kg |
+| Tonnage | 8806.5kg | 9192.5kg | ↓ 386kg |
+| Avg tonnage/session | 2201.6kg | 2298.1kg | ↓ 96.5kg |
+
 - Top single: 125kg x 1 @ 9.50
+- Previous top single: 117.5kg x 1 @ 7
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 3 @ 9
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.35, avg load +3.1kg, tonnage -386kg, avg tonnage/session -96.5kg
-- Main-lift change: top single +7.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 110kg x 4 @ 8.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 8
-- Avg load: 143.6kg
-- Tonnage: 6590kg
-- Avg tonnage/session: 2196.7kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 8 | 7.17 | ↑ 0.83 |
+| Avg load | 143.6kg | 139.6kg | ↑ 4kg |
+| Tonnage | 6590kg | 6915kg | ↓ 325kg |
+| Avg tonnage/session | 2196.7kg | 2305kg | ↓ 108.3kg |
+
 - Top single: 180kg x 1 @ 8.50
+- Previous top single: 175kg x 1 @ 7.50
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session -0.33, avg RPE +0.83, avg load +4kg, tonnage -325kg, avg tonnage/session -108.3kg
-- Main-lift change: top single +5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 160kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power / Week 2
 
+Comparison baseline: Mad Power / Week 1
+
 ### Squat family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.92
-- Avg load: 116.5kg
-- Tonnage: 4877.5kg
-- Avg tonnage/session: 1625.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 12 | 11 | ↑ 1 |
+| Avg sets/session | 4 | 5.50 | ↓ 1.50 |
+| Avg RPE | 7.92 | 7.55 | ↑ 0.37 |
+| Avg load | 116.5kg | 114.3kg | ↑ 2.2kg |
+| Tonnage | 4877.5kg | 6235kg | ↓ 1357.5kg |
+| Avg tonnage/session | 1625.8kg | 3117.5kg | ↓ 1491.7kg |
+
 - Top single: 140kg x 1 @ 7
+- Previous top single: 130kg x 1 @ 6
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 135kg x 4 @ 8
-- Change vs previous scorecards: avg sets/session -1.50, avg RPE +0.37, avg load +2.2kg, tonnage -1357.5kg, avg tonnage/session -1491.7kg
-- Main-lift change: top single +10kg, top work set 0kg (only when the same rep scheme is comparable)
+- Previous top work set: 135kg x 4 @ 8
+- Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 20
-- Avg sets/session: 5
-- Avg RPE: 8.08
-- Avg load: 89kg
-- Tonnage: 9192.5kg
-- Avg tonnage/session: 2298.1kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 20 | 20 | → 0 |
+| Avg sets/session | 5 | 5 | → 0 |
+| Avg RPE | 8.08 | 7.97 | ↑ 0.11 |
+| Avg load | 89kg | 92.9kg | ↓ 3.9kg |
+| Tonnage | 9192.5kg | 8985kg | ↑ 207.5kg |
+| Avg tonnage/session | 2298.1kg | 2246.2kg | ↑ 51.9kg |
+
 - Top single: 117.5kg x 1 @ 7
+- Previous top single: 120kg x 1 @ 8.50
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 110kg x 4 @ 8.50
-- Change vs previous scorecards: avg sets/session 0, avg RPE +0.11, avg load -3.9kg, tonnage +207.5kg, avg tonnage/session +51.9kg
-- Main-lift change: top single -2.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 112.5kg x 3 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 12
-- Avg sets/session: 4
-- Avg RPE: 7.17
-- Avg load: 139.6kg
-- Tonnage: 6915kg
-- Avg tonnage/session: 2305kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 12 | 11 | ↑ 1 |
+| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Avg RPE | 7.17 | 7.50 | ↓ 0.33 |
+| Avg load | 139.6kg | 131.8kg | ↑ 7.8kg |
+| Tonnage | 6915kg | 5680kg | ↑ 1235kg |
+| Avg tonnage/session | 2305kg | 1893.3kg | ↑ 411.7kg |
+
 - Top single: 175kg x 1 @ 7.50
+- Previous top single: 160kg x 1 @ -
+- Top single delta: ↑ 15kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 3 @ 7.50
-- Change vs previous scorecards: avg sets/session +0.33, avg RPE -0.33, avg load +7.8kg, tonnage +1235kg, avg tonnage/session +411.7kg
-- Main-lift change: top single +15kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 160kg x 4 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Mad Power / Week 1
 
+Comparison baseline: Holiday Summer Camp / Week 2
+
 ### Squat family
 
-- Sessions: 2
-- Total sets: 11
-- Avg sets/session: 5.50
-- Avg RPE: 7.55
-- Avg load: 114.3kg
-- Tonnage: 6235kg
-- Avg tonnage/session: 3117.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 2 | → 0 |
+| Total sets | 11 | 9 | ↑ 2 |
+| Avg sets/session | 5.50 | 4.50 | ↑ 1 |
+| Avg RPE | 7.55 | 7.94 | ↓ 0.39 |
+| Avg load | 114.3kg | 138.3kg | ↓ 24kg |
+| Tonnage | 6235kg | 4290kg | ↑ 1945kg |
+| Avg tonnage/session | 3117.5kg | 2145kg | ↑ 972.5kg |
+
 - Top single: 130kg x 1 @ 6
+- Previous top single: 152.5kg x 1 @ 8.50
+- Top single delta: ↓ 22.5kg (only meaningful when the variation is comparable)
 - Top work set: 135kg x 4 @ 8
-- Change vs previous scorecards: avg sets/session +1, avg RPE -0.39, avg load -24kg, tonnage +1945kg, avg tonnage/session +972.5kg
-- Main-lift change: top single -22.5kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 145kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 20
-- Avg sets/session: 5
-- Avg RPE: 7.97
-- Avg load: 92.9kg
-- Tonnage: 8985kg
-- Avg tonnage/session: 2246.2kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 2 | ↑ 2 |
+| Total sets | 20 | 9 | ↑ 11 |
+| Avg sets/session | 5 | 4.50 | ↑ 0.50 |
+| Avg RPE | 7.97 | 9.33 | ↓ 1.36 |
+| Avg load | 92.9kg | 109.7kg | ↓ 16.8kg |
+| Tonnage | 8985kg | 3305kg | ↑ 5680kg |
+| Avg tonnage/session | 2246.2kg | 1652.5kg | ↑ 593.7kg |
+
 - Top single: 120kg x 1 @ 8.50
+- Previous top single: 120kg x 1 @ 9.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 3 @ 8
-- Change vs previous scorecards: avg sets/session +0.50, avg RPE -1.36, avg load -16.8kg, tonnage +5680kg, avg tonnage/session +593.7kg
-- Main-lift change: top single 0kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 115kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.50
-- Avg load: 131.8kg
-- Tonnage: 5680kg
-- Avg tonnage/session: 1893.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 11 | 7 | ↑ 4 |
+| Avg sets/session | 3.67 | 3.50 | ↑ 0.17 |
+| Avg RPE | 7.50 | 7.79 | ↓ 0.29 |
+| Avg load | 131.8kg | 165kg | ↓ 33.2kg |
+| Tonnage | 5680kg | 2930kg | ↑ 2750kg |
+| Avg tonnage/session | 1893.3kg | 1465kg | ↑ 428.3kg |
+
 - Top single: 160kg x 1 @ -
+- Previous top single: 180kg x 1 @ 9.50
+- Top single delta: ↓ 20kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 4 @ 9
-- Change vs previous scorecards: avg sets/session +0.17, avg RPE -0.29, avg load -33.2kg, tonnage +2750kg, avg tonnage/session +428.3kg
-- Main-lift change: top single -20kg, top work set n/a (only when the same rep scheme is comparable)
+- Previous top work set: 175kg x 2 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ## Holiday Summer Camp / Week 2
 
+Comparison baseline: Holiday Summer Camp / Week 1
+
 ### Squat family
 
-- Sessions: 2
-- Total sets: 9
-- Avg sets/session: 4.50
-- Avg RPE: 7.94
-- Avg load: 138.3kg
-- Tonnage: 4290kg
-- Avg tonnage/session: 2145kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 4 | ↓ 2 |
+| Total sets | 9 | 16 | ↓ 7 |
+| Avg sets/session | 4.50 | 4 | ↑ 0.50 |
+| Avg RPE | 7.94 | 7.27 | ↑ 0.67 |
+| Avg load | 138.3kg | 125kg | ↑ 13.3kg |
+| Tonnage | 4290kg | 10655kg | ↓ 6365kg |
+| Avg tonnage/session | 2145kg | 2663.8kg | ↓ 518.8kg |
+
 - Top single: 152.5kg x 1 @ 8.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 145kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session +0.50, avg RPE +0.67, avg load +13.3kg, tonnage -6365kg, avg tonnage/session -518.8kg
-- Main-lift change: top single n/a, top work set +2.5kg (only when the same rep scheme is comparable)
+- Previous top work set: 142.5kg x 2 @ 8
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
-- Sessions: 2
-- Total sets: 9
-- Avg sets/session: 4.50
-- Avg RPE: 9.33
-- Avg load: 109.7kg
-- Tonnage: 3305kg
-- Avg tonnage/session: 1652.5kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 4 | ↓ 2 |
+| Total sets | 9 | 16 | ↓ 7 |
+| Avg sets/session | 4.50 | 4 | ↑ 0.50 |
+| Avg RPE | 9.33 | 8.61 | ↑ 0.72 |
+| Avg load | 109.7kg | 103.3kg | ↑ 6.4kg |
+| Tonnage | 3305kg | 8833.5kg | ↓ 5528.5kg |
+| Avg tonnage/session | 1652.5kg | 2208.4kg | ↓ 555.9kg |
+
 - Top single: 120kg x 1 @ 9.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 115kg x 2 @ 9
-- Change vs previous scorecards: avg sets/session +0.50, avg RPE +0.72, avg load +6.4kg, tonnage -5528.5kg, avg tonnage/session -555.9kg
+- Previous top work set: 110kg x 6 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
-- Sessions: 2
-- Total sets: 7
-- Avg sets/session: 3.50
-- Avg RPE: 7.79
-- Avg load: 165kg
-- Tonnage: 2930kg
-- Avg tonnage/session: 1465kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 7 | 11 | ↓ 4 |
+| Avg sets/session | 3.50 | 3.67 | ↓ 0.17 |
+| Avg RPE | 7.79 | 7.45 | ↑ 0.34 |
+| Avg load | 165kg | 145.7kg | ↑ 19.3kg |
+| Tonnage | 2930kg | 7795kg | ↓ 4865kg |
+| Avg tonnage/session | 1465kg | 2598.3kg | ↓ 1133.3kg |
+
 - Top single: 180kg x 1 @ 9.50
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 175kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session -0.17, avg RPE +0.34, avg load +19.3kg, tonnage -4865kg, avg tonnage/session -1133.3kg
-- Main-lift change: top single n/a, top work set +5kg (only when the same rep scheme is comparable)
+- Previous top work set: 170kg x 2 @ 8
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ## Holiday Summer Camp / Week 1
 
 ### Squat family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 7.27
-- Avg load: 125kg
-- Tonnage: 10655kg
-- Avg tonnage/session: 2663.8kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | - | n/a |
+| Total sets | 16 | - | n/a |
+| Avg sets/session | 4 | - | n/a |
+| Avg RPE | 7.27 | - | n/a |
+| Avg load | 125kg | - | n/a |
+| Tonnage | 10655kg | - | n/a |
+| Avg tonnage/session | 2663.8kg | - | n/a |
+
 - Top single: -
 - Top work set: 142.5kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session n/a, avg RPE n/a, avg load n/a, tonnage n/a, avg tonnage/session n/a
 
 ### Bench family
 
-- Sessions: 4
-- Total sets: 16
-- Avg sets/session: 4
-- Avg RPE: 8.61
-- Avg load: 103.3kg
-- Tonnage: 8833.5kg
-- Avg tonnage/session: 2208.4kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | - | n/a |
+| Total sets | 16 | - | n/a |
+| Avg sets/session | 4 | - | n/a |
+| Avg RPE | 8.61 | - | n/a |
+| Avg load | 103.3kg | - | n/a |
+| Tonnage | 8833.5kg | - | n/a |
+| Avg tonnage/session | 2208.4kg | - | n/a |
+
 - Top single: -
 - Top work set: 110kg x 6 @ 10
-- Change vs previous scorecards: avg sets/session n/a, avg RPE n/a, avg load n/a, tonnage n/a, avg tonnage/session n/a
 
 ### Deadlift family
 
-- Sessions: 3
-- Total sets: 11
-- Avg sets/session: 3.67
-- Avg RPE: 7.45
-- Avg load: 145.7kg
-- Tonnage: 7795kg
-- Avg tonnage/session: 2598.3kg
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | - | n/a |
+| Total sets | 11 | - | n/a |
+| Avg sets/session | 3.67 | - | n/a |
+| Avg RPE | 7.45 | - | n/a |
+| Avg load | 145.7kg | - | n/a |
+| Tonnage | 7795kg | - | n/a |
+| Avg tonnage/session | 2598.3kg | - | n/a |
+
 - Top single: -
 - Top work set: 170kg x 2 @ 8
-- Change vs previous scorecards: avg sets/session n/a, avg RPE n/a, avg load n/a, tonnage n/a, avg tonnage/session n/a
