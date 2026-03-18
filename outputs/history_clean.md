@@ -2,6 +2,40 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## Scorecard — Strength Block v4 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 2
+- Total sets: 8
+- Avg sets/session: 4.0
+- Avg RPE: 7.44
+- Avg load: 144.1kg
+- Tonnage: 3127.5kg
+- Progress marker: single 165.0x1 @ 8.5; work 145.0x3 @ 7.5
+
+### Bench family
+
+- Sessions: 2
+- Total sets: 7
+- Avg sets/session: 3.5
+- Avg RPE: 7.64
+- Avg load: 82.5kg
+- Tonnage: 2250.0kg
+- Progress marker: single 115.0x1 @ 7.0; work 107.5x4 @ 7.0
+
+### Deadlift family
+
+- Sessions: 2
+- Total sets: 8
+- Avg sets/session: 4.0
+- Avg RPE: 7.06
+- Avg load: 151.9kg
+- Tonnage: 4520.0kg
+- Progress marker: single 170.0x1 @ 7.0; work 160.0x3 @ 7.0
+
 ## 2026-03-18
 
 **Week 1 · Day 3**
@@ -93,6 +127,40 @@ Finished: 2026-03-16 10:12:03
   Set 1: 25.0kg x 5 @ RPE 7.5 [target RPE: 8-8.5]
   Set 2: 25.0kg x 5 @ RPE 8.5 [target RPE: 8-8.5]
   Set 3: 22.5kg x 5 @ RPE 8 [target RPE: 8-8.5]
+
+## Scorecard — Volume Block v5 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 2
+- Total sets: 6
+- Avg sets/session: 3.0
+- Avg RPE: 6.92
+- Avg load: 135.0kg
+- Tonnage: 4470.0kg
+- Progress marker: work 140.0x6 @ 7.0
+
+### Bench family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 7.8
+- Avg load: 93.0kg
+- Tonnage: 4320.0kg
+- Progress marker: single 125.0x1 @ 8.5; work 117.5x5 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 7.85
+- Avg load: 159.5kg
+- Tonnage: 6827.5kg
+- Progress marker: single 190.0x1 @ 9.0; work 170.0x5 @ 7.5
 
 ## 2026-03-14
 
@@ -210,6 +278,30 @@ Finished: 2026-03-10 10:07:48
   Set 2: 5.0kg x 15 @ RPE 7.5 [target RPE: 7.5-8]
   Set 3: 5.0kg x 15 @ RPE 8 [target RPE: 7.5-8]
 
+## Scorecard — Volume Block v4 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 1
+- Total sets: 4
+- Avg sets/session: 4.0
+- Avg RPE: 8.25
+- Avg load: 154.4kg
+- Tonnage: 2437.5kg
+- Progress marker: single 162.5x1 @ 8.0; work 155.0x5 @ 9.0
+
+### Bench family
+
+- Sessions: 1
+- Total sets: 4
+- Avg sets/session: 4.0
+- Avg RPE: 7.62
+- Avg load: 104.4kg
+- Tonnage: 1930.0kg
+- Progress marker: single 115.0x1 @ 7.0; work 102.5x6 @ 8.5
+
 ## 2026-03-09
 
 **Week 3 · Day 1**
@@ -240,6 +332,40 @@ Finished: 2026-03-09 10:14:39
   Set 1: 22.5kg x 6 @ RPE 7 [target RPE: 7.5-8]
   Set 2: 22.5kg x 6 @ RPE 7.5 [target RPE: 7.5-8]
   Set 3: 22.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
+
+## Scorecard — Volume Block v4 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 6.64
+- Avg load: 139.3kg
+- Tonnage: 7432.5kg
+- Progress marker: single 160.0x1 @ 7.5; work 150.0x5 @ 7.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 7.82
+- Avg load: 94.5kg
+- Tonnage: 6665.0kg
+- Progress marker: single 122.5x1 @ 8.5; work 110.0x5 @ 7.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 6.96
+- Avg load: 149.8kg
+- Tonnage: 8632.5kg
+- Progress marker: single 185.0x1 @ 8.0; work 167.5x5 @ 7.5
 
 ## 2026-03-07
 
@@ -397,6 +523,40 @@ Finished: 2026-03-02 10:03:42
   Set 2: 20.0kg x 6 @ RPE 8
   Set 3: 20.0kg x 6 @ RPE 9
 
+## Scorecard — Volume Block v4 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 1
+- Total sets: 3
+- Avg sets/session: 3.0
+- Avg RPE: 6.5
+- Avg load: 135.0kg
+- Tonnage: 2430.0kg
+- Progress marker: work 140.0x6 @ 6.0
+
+### Bench family
+
+- Sessions: 1
+- Total sets: 3
+- Avg sets/session: 3.0
+- Avg RPE: 6.33
+- Avg load: 102.5kg
+- Tonnage: 1845.0kg
+- Progress marker: work 105.0x6 @ 7.0
+
+### Deadlift family
+
+- Sessions: 1
+- Total sets: 4
+- Avg sets/session: 4.0
+- Avg RPE: 7.75
+- Avg load: 165.0kg
+- Tonnage: 2580.0kg
+- Progress marker: single 180.0x1 @ 8.0; work 160.0x5 @ 7.5
+
 ## 2026-02-28
 
 **Week 1 · Day 5**
@@ -420,6 +580,40 @@ Finished: 2026-02-28 11:52:15
   Set 1: 100.0kg x 6 @ RPE 6 [target RPE: 6-6.5]
   Set 2: 102.5kg x 6 @ RPE 6 [target RPE: 6-6.5]
   Set 3: 105.0kg x 6 @ RPE 7 [target RPE: 6-6.5]
+
+## Scorecard — Volume Block v3 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 2
+- Total sets: 9
+- Avg sets/session: 4.5
+- Avg RPE: 7.28
+- Avg load: 137.8kg
+- Tonnage: 5580.0kg
+- Progress marker: single 155.0x1 @ 7.5; work 145.0x5 @ 8.0
+
+### Bench family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.73
+- Avg load: 94.2kg
+- Tonnage: 6020.0kg
+- Progress marker: single 120.0x1 @ 7.5; work 112.5x5 @ 7.5
+
+### Deadlift family
+
+- Sessions: 2
+- Total sets: 8
+- Avg sets/session: 4.0
+- Avg RPE: 7.19
+- Avg load: 140.0kg
+- Tonnage: 5320.0kg
+- Progress marker: single 160.0x1 @ 6.5; work 150.0x4 @ 7.0
 
 ## 2026-02-26
 
@@ -555,6 +749,40 @@ Finished: 2026-02-23 10:27:40
   Set 1: 35.0kg x 15 @ RPE 6 [target RPE: 8]
   Set 2: 40.0kg x 15 @ RPE 7 [target RPE: 8]
   Set 3: 42.5kg x 15 @ RPE 8 [target RPE: 8]
+
+## Scorecard — Peaking Block v4 / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 9
+- Avg sets/session: 3.0
+- Avg RPE: 7.11
+- Avg load: 149.2kg
+- Tonnage: 2020.0kg
+- Progress marker: single 177.5x1 @ 9.5; work 140.0x2 @ 6.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 11
+- Avg sets/session: 2.75
+- Avg RPE: 8.05
+- Avg load: 98.6kg
+- Tonnage: 2680.0kg
+- Progress marker: single 135.0x1 @ 9.5; work 112.5x2 @ 6.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 8
+- Avg sets/session: 2.67
+- Avg RPE: 7.5
+- Avg load: 150.0kg
+- Tonnage: 2660.0kg
+- Progress marker: single 195.0x1 @ 9.5; work 125.0x5 @ 7.5
 
 ## 2026-02-21
 
@@ -697,6 +925,40 @@ Finished: 2026-02-16 10:39:01
   Set 1: 40.0kg x 15 @ RPE 6 [target RPE: 7]
   Set 2: 45.0kg x 5 @ RPE 7 [target: 15 reps, target RPE: 7]
   Set 3: 40.0kg x 10 @ RPE 8 [target: 15 reps, target RPE: 7]
+
+## Scorecard — Peaking Block v4 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.81
+- Avg load: 128.5kg
+- Tonnage: 6765.0kg
+- Progress marker: single 165.0x1 @ 9.5; work 155.0x3 @ 9.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 13
+- Avg sets/session: 3.25
+- Avg RPE: 8.88
+- Avg load: 99.1kg
+- Tonnage: 4928.0kg
+- Progress marker: single 130.0x1 @ 8.5; work 125.0x3 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 9
+- Avg sets/session: 3.0
+- Avg RPE: 7.67
+- Avg load: 158.9kg
+- Tonnage: 4620.0kg
+- Progress marker: work 180.0x3 @ 9.0
 
 ## 2026-02-14
 
@@ -853,6 +1115,40 @@ Finished: 2026-02-09 15:28:21
   Set 1: 35.0kg x 15 @ RPE 7 [target RPE: 8]
   Set 2: 35.0kg x 15 @ RPE 7 [target RPE: 8]
   Set 3: 35.0kg x 15 @ RPE 7.5 [target RPE: 8]
+
+## Scorecard — Peaking Block v4 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 8.08
+- Avg load: 124.4kg
+- Tonnage: 6502.5kg
+- Progress marker: single 162.5x1 @ 9.0; work 140.0x3 @ 7.5
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 17
+- Avg sets/session: 3.4
+- Avg RPE: 8.74
+- Avg load: 96.2kg
+- Tonnage: 7457.5kg
+- Progress marker: single 125.0x1 @ 8.5; work 112.5x3 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 9
+- Avg sets/session: 3.0
+- Avg RPE: 7.56
+- Avg load: 158.9kg
+- Tonnage: 4295.0kg
+- Progress marker: single 185.0x1 @ 8.5; work 170.0x2 @ 6.5
 
 ## 2026-02-07
 
@@ -1036,6 +1332,40 @@ Finished: 2026-02-01 11:01:32
   Set 2: 10.0kg x 12 @ RPE 9 [target: 15 reps, target RPE: 7.5]
   Set 3: 10.0kg x 11 @ RPE 9 [target: 15 reps, target RPE: 7.5]
 
+## Scorecard — Peaking Block v3 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.04
+- Avg load: 135.0kg
+- Tonnage: 4665.0kg
+- Progress marker: single 160.0x1 @ 9.0; work 137.5x3 @ 7.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 7.89
+- Avg load: 96.1kg
+- Tonnage: 5487.5kg
+- Progress marker: single 125.0x1 @ 8.0; work 112.5x3 @ 7.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.55
+- Avg load: 159.1kg
+- Tonnage: 5670.0kg
+- Progress marker: single 190.0x1 @ 9.5; work 170.0x3 @ 7.5
+
 ## 2026-01-31
 
 **Week 1 · Day 5**
@@ -1195,6 +1525,40 @@ Finished: 2026-01-26 10:13:24
   Set 1: 10.0kg x 15 @ RPE 8.5 [target: 12 reps, target RPE: 7]
   Set 2: 12.5kg x 11 @ RPE 9.5 [target: 12 reps, target RPE: 7]
   Set 3: 12.5kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 7]
+
+## Scorecard — Strength Block v2 / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.21
+- Avg load: 127.3kg
+- Tonnage: 8205.0kg
+- Progress marker: single 150.0x1 @ 8.0; work 135.0x8 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 8.89
+- Avg load: 95.4kg
+- Tonnage: 7057.5kg
+- Progress marker: single 122.5x1 @ 9.0; work 110.0x8 @ 10.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 7.45
+- Avg load: 142.5kg
+- Tonnage: 6930.0kg
+- Progress marker: single 180.0x1 @ 7.5; work 160.0x5 @ 7.5
 
 ## 2026-01-24
 
@@ -1364,6 +1728,40 @@ Finished: 2026-01-19 10:24:19
   Set 2: 40.0kg x 11 @ RPE 9 [target: 15 reps, target RPE: 8]
   Set 3: 37.5kg x 15 @ RPE 8.5 [target RPE: 8]
 
+## Scorecard — Strength Block v2 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 9
+- Avg sets/session: 3.0
+- Avg RPE: 8.62
+- Avg load: 137.2kg
+- Tonnage: 4875.0kg
+- Progress marker: work 155.0x3 @ 9.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 8.96
+- Avg load: 101.1kg
+- Tonnage: 5330.0kg
+- Progress marker: single 127.5x1 @ 8.5; work 122.5x3 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 8.15
+- Avg load: 160.2kg
+- Tonnage: 5627.5kg
+- Progress marker: single 180.0x1 @ 7.0; work 182.5x3 @ 9.5
+
 ## 2026-01-17
 
 **Week 3 · Day 5**
@@ -1525,6 +1923,40 @@ Finished: 2026-01-12 10:21:55
   Set 2: 40.0kg x 9
   Set 3: 35.0kg x 15
 
+## Scorecard — Strength Block v2 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 8.05
+- Avg load: 139.0kg
+- Tonnage: 4370.0kg
+- Progress marker: single 160.0x1 @ 9.5; work 145.0x3 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 8.68
+- Avg load: 99.3kg
+- Tonnage: 5035.0kg
+- Progress marker: single 130.0x1 @ 9.5; work 117.5x3 @ 9.0
+
+### Deadlift family
+
+- Sessions: 2
+- Total sets: 7
+- Avg sets/session: 3.5
+- Avg RPE: 7.1
+- Avg load: 169.3kg
+- Tonnage: 3195.0kg
+- Progress marker: single 180.0x1 @ 7.0; work 170.0x3 @ 7.0
+
 ## 2026-01-10
 
 **Week 2 · Day 5**
@@ -1681,6 +2113,40 @@ Finished: 2026-01-05 10:09:55
   Set 2: 0kg x 12 @ RPE 7 [target RPE: 9]
   Set 3: 0kg x 12 @ RPE 7 [target RPE: 9]
   Set 4: 0kg x 12 @ RPE 7.5 [target RPE: 9]
+
+## Scorecard — Strength Block v2 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 7.95
+- Avg load: 134.2kg
+- Tonnage: 4092.5kg
+- Progress marker: single 155.0x1 @ 9.5; work 142.5x3 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 7.89
+- Avg load: 97.1kg
+- Tonnage: 4902.5kg
+- Progress marker: single 122.5x1 @ 8.0; work 115.0x3 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.54
+- Avg load: 152.1kg
+- Tonnage: 6535.0kg
+- Progress marker: single 190.0x1 @ 8.5; work 165.0x3 @ 6.5
 
 ## 2026-01-03
 
@@ -1851,6 +2317,40 @@ Finished: 2025-12-29 10:20:42
   Set 2: 0kg x 10 [target RPE: 8]
   Set 3: 0kg x 10 [target RPE: 8]
 
+## Scorecard — Volume Block v2 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.0
+- Avg load: 130.7kg
+- Tonnage: 6190.0kg
+- Progress marker: single 157.5x1 @ 9.0; work 142.5x5 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 8.0
+- Avg load: 92.0kg
+- Tonnage: 6364.5kg
+- Progress marker: single 122.0x1 @ 9.0; work 115.0x4 @ 9.5
+
+### Deadlift family
+
+- Sessions: 2
+- Total sets: 7
+- Avg sets/session: 3.5
+- Avg RPE: 6.79
+- Avg load: 163.9kg
+- Tonnage: 4047.5kg
+- Progress marker: single 180.0x1 @ 8.5; work 165.0x3 @ 7.0
+
 ## 2025-12-27
 
 **Week 3 · Day 5**
@@ -1982,6 +2482,40 @@ Finished: 2025-12-21 10:14:05
   Set 2: 17.5kg x 10 @ RPE 8 [target RPE: 8]
   Set 3: 17.5kg x 10 @ RPE 9.5 [target RPE: 8]
   Set 4: 15.0kg x 10 @ RPE 8 [target RPE: 8]
+
+## Scorecard — Volume Block v2 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 7.4
+- Avg load: 125.8kg
+- Tonnage: 6020.0kg
+- Progress marker: single 155.0x1 @ 8.0; work 132.5x5 @ 7.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 7.5
+- Avg load: 89.7kg
+- Tonnage: 8315.0kg
+- Progress marker: single 120.0x1 @ 8.0; work 102.5x8 @ 8.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 7.4
+- Avg load: 143.0kg
+- Tonnage: 7085.0kg
+- Progress marker: single 177.5x1 @ 8.0; work 152.5x5 @ 6.5
 
 ## 2025-12-20
 
@@ -2131,6 +2665,40 @@ Finished: 2025-12-15 10:16:18
   Set 2: 15.0kg x 11 [target: 10 reps, target RPE: 8.5]
   Set 3: 15.0kg x 11 [target: 10 reps, target RPE: 8.5]
   Set 4: 15.0kg x 11 [target: 10 reps, target RPE: 8.5]
+
+## Scorecard — Ultra Frequency Volume Block / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 5
+- Total sets: 20
+- Avg sets/session: 4.0
+- Avg RPE: 8.5
+- Avg load: 113.6kg
+- Tonnage: 9412.5kg
+- Progress marker: work 125.0x5 @ 9.0
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 19
+- Avg sets/session: 3.8
+- Avg RPE: 7.91
+- Avg load: 90.7kg
+- Tonnage: 7952.5kg
+- Progress marker: single 115.0x1 @ 7.0; work 110.0x4 @ 7.5
+
+### Deadlift family
+
+- Sessions: 5
+- Total sets: 19
+- Avg sets/session: 3.8
+- Avg RPE: 6.5
+- Avg load: 132.1kg
+- Tonnage: 11800.0kg
+- Progress marker: work 145.0x3 @ None
 
 ## 2025-12-13
 
@@ -2363,6 +2931,40 @@ Finished: 2025-12-04 10:16:27
 
   Set 1: 185.0kg x 1 @ RPE 8.5
 
+## Scorecard — Test Week / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 2
+- Total sets: 4
+- Avg sets/session: 2.0
+- Avg RPE: 6.0
+- Avg load: 126.9kg
+- Tonnage: 867.5kg
+- Progress marker: single 147.5x1 @ 6.0; work 120.0x2 @ None
+
+### Bench family
+
+- Sessions: 2
+- Total sets: 4
+- Avg sets/session: 2.0
+- Avg RPE: 6.0
+- Avg load: 99.4kg
+- Tonnage: 682.5kg
+- Progress marker: single 112.5x1 @ 6.0; work 95.0x2 @ None
+
+### Deadlift family
+
+- Sessions: 1
+- Total sets: 3
+- Avg sets/session: 3.0
+- Avg RPE: 6.0
+- Avg load: 140.0kg
+- Tonnage: 420.0kg
+- Progress marker: single 140.0x1 @ 6.0
+
 ## 2025-12-01
 
 **Week 1 · Day 2**
@@ -2398,6 +3000,40 @@ Finished: 2025-11-29 11:24:30
   Set 1: 140.0kg x 1 @ RPE 6 [target RPE: 70]
   Set 2: 140.0kg x 1 @ RPE 6 [target RPE: 70]
   Set 3: 140.0kg x 1 @ RPE 6 [target RPE: 70]
+
+## Scorecard — Transmutation Block / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 8.4
+- Avg load: 145.8kg
+- Tonnage: 3442.5kg
+- Progress marker: single 165.0x1 @ 9.5; work 155.0x2 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 12
+- Avg sets/session: 3.0
+- Avg RPE: 8.65
+- Avg load: 100.2kg
+- Tonnage: 3327.5kg
+- Progress marker: single 130.0x1 @ 9.5; work 120.0x3 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 15
+- Avg sets/session: 5.0
+- Avg RPE: 8.23
+- Avg load: 146.3kg
+- Tonnage: 5975.0kg
+- Progress marker: single 190.0x1 @ 9.5; work 130.0x5 @ None
 
 ## 2025-11-27
 
@@ -2556,6 +3192,40 @@ Finished: 2025-11-22 10:12:38
   Set 2: 22.5kg x 11 [target RPE: 9]
   Set 3: 22.5kg x 11 [target RPE: 9]
   Set 4: 22.5kg x 10 [target RPE: 9]
+
+## Scorecard — Transmutation Block / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.21
+- Avg load: 142.1kg
+- Tonnage: 5080.0kg
+- Progress marker: single 160.0x1 @ 8.5; work 150.0x3 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.12
+- Avg load: 100.0kg
+- Tonnage: 4860.0kg
+- Progress marker: single 127.5x1 @ 9.0; work 115.0x3 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 8.18
+- Avg load: 147.5kg
+- Tonnage: 5705.0kg
+- Progress marker: single 185.0x1 @ 9.0; work 172.5x2 @ 10.0
 
 ## 2025-11-20
 
@@ -2716,6 +3386,40 @@ Finished: 2025-11-15 10:07:44
   Set 3: 22.5kg x 10 [target RPE: 9]
   Set 4: 22.5kg x 10 [target RPE: 9]
 
+## Scorecard — Transmutation Block / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.83
+- Avg load: 137.9kg
+- Tonnage: 5930.0kg
+- Progress marker: single 155.0x1 @ 9.0; work 147.5x3 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 7.73
+- Avg load: 101.6kg
+- Tonnage: 5455.0kg
+- Progress marker: single 122.5x1 @ 9.0; work 112.5x4 @ 8.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.36
+- Avg load: 143.2kg
+- Tonnage: 5902.5kg
+- Progress marker: single 177.5x1 @ 8.0; work 167.5x3 @ 9.5
+
 ## 2025-11-13
 
 **Week 2 · Day 5**
@@ -2874,6 +3578,40 @@ Finished: 2025-11-08 09:01:09
   Set 2: 20.0kg x 13 [target RPE: 9]
   Set 3: 20.0kg x 11 [target RPE: 9]
   Set 4: 20.0kg x 10 [target RPE: 9]
+
+## Scorecard — Transmutation Block / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 14
+- Avg sets/session: 4.67
+- Avg RPE: 6.71
+- Avg load: 127.7kg
+- Tonnage: 6119.0kg
+- Progress marker: single 147.5x1 @ 8.0; work 138.0x3 @ 7.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 17
+- Avg sets/session: 4.25
+- Avg RPE: 6.86
+- Avg load: 93.5kg
+- Tonnage: 7280.0kg
+- Progress marker: work 112.5x4 @ 7.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 6.75
+- Avg load: 133.8kg
+- Tonnage: 7110.0kg
+- Progress marker: work 160.0x3 @ 7.5
 
 ## 2025-11-06
 
@@ -3039,6 +3777,40 @@ Finished: 2025-11-01 08:53:40
   Set 2: 20.0kg x 12 [target RPE: 9]
   Set 3: 20.0kg x 11 [target RPE: 9]
   Set 4: 20.0kg x 10 [target RPE: 9]
+
+## Scorecard — Ultra Frequency Building Block / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 5
+- Total sets: 7
+- Avg sets/session: 1.4
+- Avg RPE: 8.14
+- Avg load: 146.8kg
+- Tonnage: 1547.5kg
+- Progress marker: single 160.0x1 @ 9.5; work 130.0x3 @ 6.5
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 16
+- Avg sets/session: 3.2
+- Avg RPE: 8.38
+- Avg load: 103.0kg
+- Tonnage: 3287.5kg
+- Progress marker: single 130.0x1 @ 9.5; work 112.5x2 @ 7.5
+
+### Deadlift family
+
+- Sessions: 5
+- Total sets: 9
+- Avg sets/session: 1.8
+- Avg RPE: 7.89
+- Avg load: 149.4kg
+- Tonnage: 3380.0kg
+- Progress marker: single 185.0x1 @ 9.0; work 155.0x2 @ 7.0
 
 ## 2025-10-30
 
@@ -3244,6 +4016,40 @@ Finished: 2025-10-25 10:07:31
   Set 2: 20.0kg x 12 [target RPE: 9]
   Set 3: 20.0kg x 10 [target RPE: 9]
   Set 4: 20.0kg x 9 [target RPE: 9]
+
+## Scorecard — Ultra Frequency Building Block / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 5
+- Total sets: 21
+- Avg sets/session: 4.2
+- Avg RPE: 7.05
+- Avg load: 130.4kg
+- Tonnage: 9722.5kg
+- Progress marker: work 147.5x3 @ 6.0
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 20
+- Avg sets/session: 4.0
+- Avg RPE: 7.0
+- Avg load: 97.1kg
+- Tonnage: 7120.0kg
+- Progress marker: single 120.0x1 @ 8.0; work 117.5x2 @ 8.0
+
+### Deadlift family
+
+- Sessions: 5
+- Total sets: 19
+- Avg sets/session: 3.8
+- Avg RPE: 7.21
+- Avg load: 141.6kg
+- Tonnage: 10095.0kg
+- Progress marker: work 170.0x2 @ 8.5
 
 ## 2025-10-24
 
@@ -3464,6 +4270,40 @@ Finished: 2025-10-18 16:47:29
   Set 3: 20.0kg x 9 [target RPE: 9]
   Set 4: 20.0kg x 8 [target RPE: 9]
 
+## Scorecard — Ultra Frequency Building Block / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 5
+- Total sets: 21
+- Avg sets/session: 4.2
+- Avg RPE: 6.83
+- Avg load: 129.6kg
+- Tonnage: 10111.0kg
+- Progress marker: work 142.5x3 @ 7.5
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 20
+- Avg sets/session: 4.0
+- Avg RPE: 6.68
+- Avg load: 95.7kg
+- Tonnage: 8052.0kg
+- Progress marker: single 117.5x1 @ 7.0; work 115.0x3 @ 7.5
+
+### Deadlift family
+
+- Sessions: 5
+- Total sets: 19
+- Avg sets/session: 3.8
+- Avg RPE: 7.03
+- Avg load: 140.8kg
+- Tonnage: 10455.0kg
+- Progress marker: work 170.0x2 @ 7.5
+
 ## 2025-10-16
 
 **Week 2 · Day 5**
@@ -3670,6 +4510,40 @@ Finished: 2025-10-11 16:51:44
   Set 3: 20.0kg x 9 [target RPE: 9]
   Set 4: 20.0kg x 8 [target RPE: 9]
 
+## Scorecard — Ultra Frequency Building Block / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 5
+- Total sets: 21
+- Avg sets/session: 4.2
+- Avg RPE: 6.26
+- Avg load: 121.0kg
+- Tonnage: 9518.0kg
+- Progress marker: work 140.0x3 @ 7.0
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 20
+- Avg sets/session: 4.0
+- Avg RPE: 6.33
+- Avg load: 90.2kg
+- Tonnage: 7870.0kg
+- Progress marker: single 115.0x1 @ 7.0; work 105.0x4 @ 6.0
+
+### Deadlift family
+
+- Sessions: 5
+- Total sets: 19
+- Avg sets/session: 3.8
+- Avg RPE: 6.47
+- Avg load: 131.1kg
+- Tonnage: 10555.0kg
+- Progress marker: work 150.0x3 @ 6.5
+
 ## 2025-10-09
 
 **Week 1 · Day 5**
@@ -3867,6 +4741,40 @@ Finished: 2025-10-04 09:44:05
   Set 3: 20.0kg x 10 [target RPE: 9]
   Set 4: 20.0kg x 10 [target RPE: 9]
 
+## Scorecard — Mad Power 5 Weeks v3 / Week 5
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.62
+- Avg load: 137.5kg
+- Tonnage: 6260.0kg
+- Progress marker: single 170.0x1 @ 9.5; work 155.0x2 @ 9.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 8.92
+- Avg load: 100.9kg
+- Tonnage: 4827.5kg
+- Progress marker: single 132.5x1 @ 10.0; work 122.5x2 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 8.79
+- Avg load: 140.0kg
+- Tonnage: 7040.0kg
+- Progress marker: single 190.0x1 @ 9.0; work 180.0x2 @ 9.5
+
 ## 2025-10-02
 
 **Week 5 · Day 5**
@@ -3998,6 +4906,40 @@ Finished: 2025-09-27 09:52:59
   Set 2: 102.5kg x 9 [target RPE: 9]
   Set 3: 102.5kg x 9 [target RPE: 9]
   Set 4: 102.5kg x 8 [target RPE: 9]
+
+## Scorecard — Mad Power 5 Weeks v3 / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.62
+- Avg load: 137.1kg
+- Tonnage: 4955.0kg
+- Progress marker: single 157.5x1 @ 9.0; work 152.5x2 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.33
+- Avg load: 101.0kg
+- Tonnage: 4635.0kg
+- Progress marker: single 125.0x1 @ 9.0; work 120.0x2 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.25
+- Avg load: 143.1kg
+- Tonnage: 7317.5kg
+- Progress marker: single 185.0x1 @ 9.0; work 177.5x2 @ 9.0
 
 ## 2025-09-25
 
@@ -4133,6 +5075,40 @@ Finished: 2025-09-20 09:47:40
   Set 2: 102.5kg x 10 [target RPE: 9]
   Set 3: 102.5kg x 8 [target RPE: 9]
   Set 4: 102.5kg x 7 [target RPE: 9]
+
+## Scorecard — Mad Power 5 Weeks v3 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.5
+- Avg load: 135.4kg
+- Tonnage: 5835.0kg
+- Progress marker: work 150.0x2 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 8.54
+- Avg load: 99.2kg
+- Tonnage: 6365.0kg
+- Progress marker: single 115.0x1 @ 8.0; work 120.0x3 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.19
+- Avg load: 136.0kg
+- Tonnage: 7972.5kg
+- Progress marker: single 182.5x1 @ 8.5; work 170.0x3 @ 8.0
 
 ## 2025-09-18
 
@@ -4272,6 +5248,40 @@ Finished: 2025-09-13 09:56:07
   Set 3: 100.0kg x 10 [target RPE: 9]
   Set 4: 100.0kg x 10 [target RPE: 9]
 
+## Scorecard — Mad Power 5 Weeks v3 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 8.12
+- Avg load: 132.3kg
+- Tonnage: 7735.0kg
+- Progress marker: work 147.5x3 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.54
+- Avg load: 98.1kg
+- Tonnage: 5977.5kg
+- Progress marker: single 115.0x1 @ 8.5; work 118.5x2 @ 8.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 8.79
+- Avg load: 150.9kg
+- Tonnage: 7702.5kg
+- Progress marker: work 177.5x2 @ 9.0
+
 ## 2025-09-11
 
 **Week 2 · Day 5**
@@ -4408,6 +5418,40 @@ Finished: 2025-09-06 09:56:43
   Set 3: 130.0kg x 8 [target RPE: 9]
   Set 4: 130.0kg x 8 [target RPE: 9]
 
+## Scorecard — Mad Power 5 Weeks v3 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.38
+- Avg load: 129.3kg
+- Tonnage: 7634.5kg
+- Progress marker: work 140.0x4 @ 7.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 7.75
+- Avg load: 95.3kg
+- Tonnage: 6820.0kg
+- Progress marker: single 115.0x1 @ 8.5; work 112.5x3 @ 7.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.81
+- Avg load: 148.3kg
+- Tonnage: 9175.0kg
+- Progress marker: work 175.0x2 @ 9.0
+
 ## 2025-09-04
 
 **Week 1 · Day 5**
@@ -4542,6 +5586,40 @@ Finished: 2025-08-30 09:50:30
   Set 3: 130.0kg x 7 [target RPE: 9]
   Set 4: 130.0kg x 7 [target RPE: 9]
 
+## Scorecard — Mad Power 5 Weeks v2 / Week 5
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.25
+- Avg load: 140.6kg
+- Tonnage: 6057.5kg
+- Progress marker: single 170.0x1 @ 9.5; work 155.0x2 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 14
+- Avg sets/session: 3.5
+- Avg RPE: 9.0
+- Avg load: 100.4kg
+- Tonnage: 4535.0kg
+- Progress marker: single 130.0x1 @ 10.0; work 120.0x3 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.57
+- Avg load: 151.4kg
+- Tonnage: 7450.0kg
+- Progress marker: single 200.0x1 @ 9.0; work 177.5x2 @ 8.5
+
 ## 2025-08-28
 
 **Week 5 · Day 5**
@@ -4673,6 +5751,40 @@ Finished: 2025-08-23 10:01:50
   Set 2: 130.0kg x 9 [target RPE: 9]
   Set 3: 130.0kg x 9 [target RPE: 9]
   Set 4: 130.0kg x 8 [target RPE: 9]
+
+## Scorecard — Mad Power 5 Weeks v2 / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.17
+- Avg load: 142.2kg
+- Tonnage: 4905.5kg
+- Progress marker: single 160.0x1 @ 9.0; work 155.0x2 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 9.04
+- Avg load: 99.7kg
+- Tonnage: 4722.5kg
+- Progress marker: single 122.5x1 @ 9.0; work 117.5x2 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 8.61
+- Avg load: 152.9kg
+- Tonnage: 9130.0kg
+- Progress marker: single 185.0x1 @ 9.0; work 177.5x2 @ 8.0
 
 ## 2025-08-21
 
@@ -4815,6 +5927,40 @@ Finished: 2025-08-15 15:56:02
   Set 3: 100.0kg x 9 @ RPE 9.5
   Set 4: 100.0kg x 7 @ RPE 9.5
 
+## Scorecard — Mad Power 5 Weeks v2 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.5
+- Avg load: 135.1kg
+- Tonnage: 7075.5kg
+- Progress marker: work 150.0x2 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 8.96
+- Avg load: 96.5kg
+- Tonnage: 7102.0kg
+- Progress marker: single 112.5x1 @ 8.5; work 117.5x2 @ 8.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.31
+- Avg load: 153.3kg
+- Tonnage: 8690.0kg
+- Progress marker: single 180.0x1 @ 7.5; work 170.0x3 @ 7.5
+
 ## 2025-08-14
 
 **Week 3 · Day 5**
@@ -4956,6 +6102,40 @@ Finished: 2025-08-08 14:40:49
   Set 3: 130.0kg x 10 @ RPE 9.5
   Set 4: 130.0kg x 10 @ RPE 9.5
 
+## Scorecard — Mad Power 5 Weeks v2 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.65
+- Avg load: 129.7kg
+- Tonnage: 7290.5kg
+- Progress marker: work 152.0x2 @ 9.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 8.58
+- Avg load: 94.9kg
+- Tonnage: 7188.5kg
+- Progress marker: single 112.5x1 @ 9.0; work 117.5x2 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 6.81
+- Avg load: 149.8kg
+- Tonnage: 8632.5kg
+- Progress marker: work 175.0x2 @ 7.5
+
 ## 2025-08-07
 
 **Week 2 · Day 5**
@@ -5087,6 +6267,40 @@ Finished: 2025-08-02 16:34:07
   Set 3: 125.0kg x 8 [target RPE: 9]
   Set 4: 125.0kg x 8 [target RPE: 9]
 
+## Scorecard — Mad Power 5 Weeks v2 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.17
+- Avg load: 129.0kg
+- Tonnage: 7475.0kg
+- Progress marker: work 145.0x3 @ 7.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 7.46
+- Avg load: 94.1kg
+- Tonnage: 8080.0kg
+- Progress marker: work 112.5x3 @ 7.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 6.69
+- Avg load: 147.0kg
+- Tonnage: 9847.5kg
+- Progress marker: work 175.0x2 @ 7.5
+
 ## 2025-07-31
 
 **Week 1 · Day 5**
@@ -5214,6 +6428,40 @@ Finished: 2025-07-27 22:39:03
   Set 2: 125.0kg x 9 [target RPE: 9]
   Set 3: 125.0kg x 8 [target RPE: 9]
   Set 4: 125.0kg x 8 [target RPE: 9]
+
+## Scorecard — Mad Power 5 Weeks / Week 5
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 8.0
+- Avg load: 138.4kg
+- Tonnage: 4452.5kg
+- Progress marker: single 172.5x1 @ 10.0; work 155.0x2 @ 10.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.42
+- Avg load: 98.7kg
+- Tonnage: 5400.0kg
+- Progress marker: single 130.0x1 @ 10.0; work 120.0x2 @ 10.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.43
+- Avg load: 148.2kg
+- Tonnage: 7772.5kg
+- Progress marker: single 197.5x1 @ 8.5; work 172.5x2 @ 8.5
 
 ## 2025-07-25
 
@@ -5346,6 +6594,40 @@ Finished: 2025-07-19 10:33:36
   Set 2: 125.0kg x 9 [target RPE: 9]
   Set 3: 125.0kg x 8 [target RPE: 9]
   Set 4: 125.0kg x 8 [target RPE: 9]
+
+## Scorecard — Mad Power 5 Weeks / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.92
+- Avg load: 139.6kg
+- Tonnage: 4782.5kg
+- Progress marker: single 160.0x1 @ 8.0; work 155.0x2 @ 9.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.12
+- Avg load: 99.0kg
+- Tonnage: 4782.5kg
+- Progress marker: single 122.5x1 @ 8.5; work 117.5x2 @ 8.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.25
+- Avg load: 148.8kg
+- Tonnage: 8217.5kg
+- Progress marker: single 180.0x1 @ 8.5; work 175.0x2 @ 8.5
 
 ## 2025-07-17
 
@@ -5480,6 +6762,40 @@ Finished: 2025-07-12 10:22:54
   Set 2: 125.0kg x 9 [target RPE: 9]
   Set 3: 125.0kg x 8 [target RPE: 9]
   Set 4: 125.0kg x 8 [target RPE: 9]
+
+## Scorecard — Mad Power 5 Weeks / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.46
+- Avg load: 124.0kg
+- Tonnage: 8027.5kg
+- Progress marker: work 155.0x2 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 7.96
+- Avg load: 97.2kg
+- Tonnage: 5209.0kg
+- Progress marker: single 115.0x1 @ 8.0; work 120.0x2 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 6.62
+- Avg load: 139.2kg
+- Tonnage: 8905.0kg
+- Progress marker: single 175.0x1 @ 7.5; work 165.0x3 @ 7.0
 
 ## 2025-07-10
 
@@ -5617,6 +6933,40 @@ Finished: 2025-07-05 10:27:01
   Set 3: 125.0kg x 8 [target RPE: 9]
   Set 4: 125.0kg x 8 [target RPE: 9]
 
+## Scorecard — Mad Power 5 Weeks / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.12
+- Avg load: 135.5kg
+- Tonnage: 5684.0kg
+- Progress marker: work 152.5x2 @ 7.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 7.0
+- Avg load: 95.2kg
+- Tonnage: 5361.5kg
+- Progress marker: work 115.0x2 @ 7.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.0
+- Avg load: 145.2kg
+- Tonnage: 8502.5kg
+- Progress marker: work 170.0x2 @ 7.0
+
 ## 2025-07-03
 
 **Week 2 · Day 5**
@@ -5751,6 +7101,40 @@ Finished: 2025-06-28 10:25:08
   Set 3: 125.0kg x 8 [target RPE: 9]
   Set 4: 125.0kg x 8 [target RPE: 9]
 
+## Scorecard — Mad Power 5 Weeks / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 6.92
+- Avg load: 129.4kg
+- Tonnage: 7344.0kg
+- Progress marker: work 145.0x3 @ 7.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 7.5
+- Avg load: 91.5kg
+- Tonnage: 7097.5kg
+- Progress marker: work 110.0x3 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 6.88
+- Avg load: 140.4kg
+- Tonnage: 9765.0kg
+- Progress marker: work 170.0x2 @ 7.5
+
 ## 2025-06-26
 
 **Week 1 · Day 5**
@@ -5884,6 +7268,40 @@ Finished: 2025-06-21 10:17:04
   Set 2: 120.0kg x 10 [target RPE: 9]
   Set 3: 120.0kg x 9 [target RPE: 9]
   Set 4: 120.0kg x 9 [target RPE: 9]
+
+## Scorecard — Mad Power 6 Weeks v2 / Week 6
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.79
+- Avg load: 138.1kg
+- Tonnage: 4540.0kg
+- Progress marker: single 170.0x1 @ 9.5; work 155.0x2 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.29
+- Avg load: 97.6kg
+- Tonnage: 4668.5kg
+- Progress marker: single 130.0x1 @ 10.0; work 115.0x2 @ 7.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.93
+- Avg load: 149.3kg
+- Tonnage: 6612.5kg
+- Progress marker: single 190.0x1 @ 9.5; work 175.0x2 @ 9.0
 
 ## 2025-06-19
 
@@ -6020,6 +7438,40 @@ Finished: 2025-06-14 10:31:33
   Set 3: 120.0kg x 8 [target RPE: 9]
   Set 4: 120.0kg x 8 [target RPE: 9]
 
+## Scorecard — Mad Power 6 Weeks v2 / Week 5
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.0
+- Avg load: 140.2kg
+- Tonnage: 3862.5kg
+- Progress marker: single 152.5x1 @ 7.5; work 150.0x2 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.17
+- Avg load: 97.9kg
+- Tonnage: 4078.5kg
+- Progress marker: single 120.0x1 @ 8.0; work 117.5x2 @ 9.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.12
+- Avg load: 149.6kg
+- Tonnage: 6675.0kg
+- Progress marker: single 185.0x1 @ 10.0; work 170.0x2 @ 8.0
+
 ## 2025-06-12
 
 **Week 5 · Day 5**
@@ -6154,6 +7606,40 @@ Finished: 2025-06-07 10:23:59
   Set 3: 120.0kg x 8 [target RPE: 9]
   Set 4: 120.0kg x 8 [target RPE: 9]
 
+## Scorecard — Mad Power 6 Weeks v2 / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.79
+- Avg load: 137.1kg
+- Tonnage: 5290.0kg
+- Progress marker: single 140.0x1 @ 7.5; work 150.0x2 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.3
+- Avg load: 95.7kg
+- Tonnage: 5576.0kg
+- Progress marker: single 113.5x1 @ 8.5; work 115.0x2 @ 7.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.44
+- Avg load: 146.0kg
+- Tonnage: 7407.5kg
+- Progress marker: single 175.0x1 @ 8.0; work 162.5x3 @ 7.5
+
 ## 2025-06-05
 
 **Week 4 · Day 5**
@@ -6287,6 +7773,40 @@ Finished: 2025-05-31 10:13:19
   Set 2: 120.0kg x 8 [target RPE: 9]
   Set 3: 120.0kg x 8 [target RPE: 9]
   Set 4: 120.0kg x 8 [target RPE: 9]
+
+## Scorecard — Mad Power 6 Weeks v2 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.38
+- Avg load: 136.0kg
+- Tonnage: 5097.5kg
+- Progress marker: single 140.0x1 @ 8.0; work 150.0x2 @ 7.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 7.81
+- Avg load: 94.9kg
+- Tonnage: 5910.5kg
+- Progress marker: single 112.5x1 @ 7.5; work 115.0x2 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.0
+- Avg load: 144.0kg
+- Tonnage: 7102.5kg
+- Progress marker: single 175.0x1 @ 7.5; work 162.5x3 @ 7.5
 
 ## 2025-05-29
 
@@ -6429,6 +7949,40 @@ Finished: 2025-05-24 10:22:43
   Set 3: 120.0kg x 8 [target RPE: 9]
   Set 4: 120.0kg x 6 [target RPE: 9]
 
+## Scorecard — Mad Power 6 Weeks v2 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.38
+- Avg load: 129.8kg
+- Tonnage: 6130.0kg
+- Progress marker: single 130.0x1 @ 7.0; work 145.0x2 @ 7.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 8.37
+- Avg load: 93.3kg
+- Tonnage: 5885.5kg
+- Progress marker: single 112.5x1 @ 8.0; work 116.5x2 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.77
+- Avg load: 139.6kg
+- Tonnage: 7710.0kg
+- Progress marker: single 172.5x1 @ 7.5; work 155.0x4 @ 7.5
+
 ## 2025-05-22
 
 **Week 2 · Day 5**
@@ -6562,6 +8116,40 @@ Finished: 2025-05-17 10:45:35
   Set 2: 120.0kg x 6 @ RPE 8 [target RPE: 9]
   Set 3: 120.0kg x 6 @ RPE 8 [target RPE: 9]
   Set 4: 110.0kg x 8 [target RPE: 9]
+
+## Scorecard — Mad Power 6 Weeks v2 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 2
+- Total sets: 8
+- Avg sets/session: 4.0
+- Avg RPE: 7.62
+- Avg load: 120.6kg
+- Tonnage: 3925.0kg
+- Progress marker: single 120.0x1 @ 6.0; work 140.0x2 @ 10.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 15
+- Avg sets/session: 3.75
+- Avg RPE: 7.96
+- Avg load: 86.0kg
+- Tonnage: 6627.5kg
+- Progress marker: single 120.0x1 @ 9.0; work 112.5x3 @ 7.5
+
+### Deadlift family
+
+- Sessions: 2
+- Total sets: 8
+- Avg sets/session: 4.0
+- Avg RPE: 7.88
+- Avg load: 152.2kg
+- Tonnage: 4717.5kg
+- Progress marker: single 172.5x1 @ 7.5; work 150.0x5 @ 8.0
 
 ## 2025-05-15
 
@@ -6706,6 +8294,40 @@ Finished: 2025-05-12 08:12:31
 ### Romanian Deadlift (Barbell)
 
 
+## Scorecard — Holiday Summer Camp / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 2
+- Total sets: 9
+- Avg sets/session: 4.5
+- Avg RPE: 7.94
+- Avg load: 138.3kg
+- Tonnage: 4290.0kg
+- Progress marker: single 152.5x1 @ 8.5; work 145.0x2 @ 9.0
+
+### Bench family
+
+- Sessions: 2
+- Total sets: 9
+- Avg sets/session: 4.5
+- Avg RPE: 9.33
+- Avg load: 109.7kg
+- Tonnage: 3305.0kg
+- Progress marker: single 120.0x1 @ 9.5; work 115.0x2 @ 9.0
+
+### Deadlift family
+
+- Sessions: 2
+- Total sets: 7
+- Avg sets/session: 3.5
+- Avg RPE: 7.79
+- Avg load: 165.0kg
+- Tonnage: 2930.0kg
+- Progress marker: single 180.0x1 @ 9.5; work 175.0x2 @ 8.0
+
 ## 2025-05-08
 
 **Week 2 · Day 2**
@@ -6758,6 +8380,40 @@ Finished: 2025-05-04 12:13:58
   Set 1: 175.0kg x 2 @ RPE 8 [target RPE: 8]
   Set 2: 160.0kg x 3 @ RPE 8 [target RPE: 7]
   Set 3: 160.0kg x 3 @ RPE 8 [target RPE: 7]
+
+## Scorecard — Holiday Summer Camp / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 7.27
+- Avg load: 125.0kg
+- Tonnage: 10655.0kg
+- Progress marker: work 142.5x2 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 8.61
+- Avg load: 103.3kg
+- Tonnage: 8833.5kg
+- Progress marker: work 110.0x6 @ 10.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.45
+- Avg load: 145.7kg
+- Tonnage: 7795.0kg
+- Progress marker: work 170.0x2 @ 8.0
 
 ## 2025-05-02
 
@@ -6876,6 +8532,40 @@ Finished: 2025-04-26 10:27:49
   Set 2: 40.0kg x 12 [target RPE: 10]
   Set 3: 40.0kg x 10 [target RPE: 10]
   Set 4: 37.5kg x 12 [target RPE: 10]
+
+## Scorecard — Mad Power 2 Weeks / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.88
+- Avg load: 134.6kg
+- Tonnage: 4785.0kg
+- Progress marker: single 152.5x1 @ 8.0; work 147.5x2 @ 8.5
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 17
+- Avg sets/session: 3.4
+- Avg RPE: 9.12
+- Avg load: 96.3kg
+- Tonnage: 7120.5kg
+- Progress marker: single 122.5x1 @ 9.0; work 116.5x2 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.12
+- Avg load: 158.8kg
+- Tonnage: 6010.0kg
+- Progress marker: single 185.0x1 @ 10.0; work 165.0x3 @ 8.5
 
 ## 2025-04-24
 
@@ -7018,6 +8708,40 @@ Finished: 2025-04-18 10:23:47
 
 ### Leg Curl
 
+
+## Scorecard — Mad Power 2 Weeks / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.62
+- Avg load: 129.8kg
+- Tonnage: 5567.5kg
+- Progress marker: single 145.0x1 @ 7.5; work 137.5x3 @ 8.0
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 18
+- Avg sets/session: 3.6
+- Avg RPE: 8.75
+- Avg load: 91.8kg
+- Tonnage: 8910.0kg
+- Progress marker: single 117.5x1 @ 8.0; work 110.0x5 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.75
+- Avg load: 149.8kg
+- Tonnage: 6747.5kg
+- Progress marker: single 180.0x1 @ 8.0; work 160.0x5 @ 9.0
 
 ## 2025-04-17
 
@@ -7166,6 +8890,40 @@ Finished: 2025-04-12 10:14:22
   Set 3: 35.0kg x 12 [target RPE: 8-10]
   Set 4: 35.0kg x 11 [target RPE: 8-10]
 
+## Scorecard — Mad Power 6 weeks v1 / Week 6
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.82
+- Avg load: 137.0kg
+- Tonnage: 3617.5kg
+- Progress marker: single 160.0x1 @ 7.0; work 145.0x2 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 9.23
+- Avg load: 92.0kg
+- Tonnage: 7617.5kg
+- Progress marker: single 125.0x1 @ 10.0; work 117.5x2 @ 10.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 8.5
+- Avg load: 152.0kg
+- Tonnage: 5275.0kg
+- Progress marker: single 180.0x1 @ 9.0; work 170.0x2 @ 8.5
+
 ## 2025-04-11
 
 **Week 6 · Day 5**
@@ -7306,6 +9064,40 @@ Finished: 2025-04-05 10:27:35
   Set 2: 37.5kg x 10 [target RPE: 9-10]
   Set 3: 35.0kg x 10 [target RPE: 9-10]
   Set 4: 35.0kg x 10 [target RPE: 9-10]
+
+## Scorecard — Mad Power 6 weeks v1 / Week 5
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.17
+- Avg load: 134.0kg
+- Tonnage: 5282.5kg
+- Progress marker: single 152.5x1 @ 8.5; work 142.5x2 @ 7.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 17
+- Avg sets/session: 4.25
+- Avg RPE: 9.2
+- Avg load: 92.1kg
+- Tonnage: 7737.5kg
+- Progress marker: single 122.5x1 @ 9.0; work 112.5x3 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 8.0
+- Avg load: 151.1kg
+- Tonnage: 6675.0kg
+- Progress marker: single 185.0x1 @ 9.0; work 170.0x3 @ 9.5
 
 ## 2025-04-03
 
@@ -7452,6 +9244,40 @@ Finished: 2025-03-29 10:17:43
   Set 3: 37.5kg x 11 @ RPE 10 [target RPE: 9-10]
   Set 4: 35.0kg x 12 @ RPE 10 [target RPE: 9-10]
 
+## Scorecard — Mad Power 6 weeks v1 / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.0
+- Avg load: 129.4kg
+- Tonnage: 6605.0kg
+- Progress marker: single 145.0x1 @ 7.0; work 137.5x4 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 17
+- Avg sets/session: 4.25
+- Avg RPE: 8.94
+- Avg load: 89.0kg
+- Tonnage: 8267.5kg
+- Progress marker: single 117.5x1 @ 8.0; work 110.0x4 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.5
+- Avg load: 148.0kg
+- Tonnage: 6965.0kg
+- Progress marker: single 175.0x1 @ 8.0; work 167.5x3 @ 9.0
+
 ## 2025-03-27
 
 **Week 4 · Day 5**
@@ -7596,6 +9422,40 @@ Finished: 2025-03-22 10:25:58
   Set 2: 35.0kg x 12 @ RPE 10 [target RPE: 9-10]
   Set 3: 32.5kg x 13 @ RPE 10 [target RPE: 9-10]
   Set 4: 32.5kg x 13 @ RPE 10 [target RPE: 9-10]
+
+## Scorecard — Mad Power 6 weeks v1 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.79
+- Avg load: 124.8kg
+- Tonnage: 7402.5kg
+- Progress marker: single 137.5x1 @ 6.0; work 135.0x5 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 17
+- Avg sets/session: 4.25
+- Avg RPE: 8.94
+- Avg load: 88.1kg
+- Tonnage: 9276.0kg
+- Progress marker: single 111.0x1 @ 6.0; work 107.5x4 @ 7.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.36
+- Avg load: 145.7kg
+- Tonnage: 7047.5kg
+- Progress marker: single 172.5x1 @ 7.0; work 162.5x4 @ 8.0
 
 ## 2025-03-20
 
@@ -7742,6 +9602,40 @@ Finished: 2025-03-15 10:24:28
   Set 3: 30.0kg x 13 @ RPE 10 [target RPE: 9-10]
   Set 4: 30.0kg x 14 @ RPE 10 [target RPE: 9-10]
 
+## Scorecard — Mad Power 6 weeks v1 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.0
+- Avg load: 119.0kg
+- Tonnage: 8227.5kg
+- Progress marker: work 140.0x2 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 17
+- Avg sets/session: 4.25
+- Avg RPE: 8.91
+- Avg load: 85.0kg
+- Tonnage: 10066.0kg
+- Progress marker: work 110.0x3 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.23
+- Avg load: 143.0kg
+- Tonnage: 7695.0kg
+- Progress marker: single 160.0x1 @ 6.0; work 170.0x2 @ 7.5
+
 ## 2025-03-13
 
 **Week 2 · Day 5**
@@ -7886,6 +9780,40 @@ Finished: 2025-03-08 10:27:05
   Set 2: 32.5kg x 10 @ RPE 10 [target RPE: 9-10]
   Set 3: 30.0kg x 10 @ RPE 10 [target RPE: 9-10]
   Set 4: 30.0kg x 10 @ RPE 10 [target RPE: 9-10]
+
+## Scorecard — Mad Power 6 weeks v1 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.12
+- Avg load: 114.6kg
+- Tonnage: 8000.0kg
+- Progress marker: single 140.0x1 @ 7.0; work 115.0x7 @ 7.5
+
+### Bench family
+
+- Sessions: 5
+- Total sets: 19
+- Avg sets/session: 3.8
+- Avg RPE: 8.87
+- Avg load: 82.5kg
+- Tonnage: 13222.5kg
+- Progress marker: single 115.0x1 @ 7.0; work 100.0x7 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.0
+- Avg load: 138.4kg
+- Tonnage: 7842.5kg
+- Progress marker: single 170.0x1 @ 7.5; work 150.0x6 @ 8.0
 
 ## 2025-03-06
 
@@ -8063,6 +9991,40 @@ Finished: 2025-02-22 10:32:13
   Set 3: 140.0kg x 9 @ RPE 9.5
   Set 4: 145.0kg x 9 @ RPE 9.5
 
+## Scorecard — Mad Power Variation 1 / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 8.0
+- Avg load: 128.8kg
+- Tonnage: 3602.5kg
+- Progress marker: single 155.0x1 @ 10.0; work 147.5x2 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 16
+- Avg sets/session: 4.0
+- Avg RPE: 9.47
+- Avg load: 92.2kg
+- Tonnage: 7137.5kg
+- Progress marker: single 127.5x1 @ 10.0; work 117.5x2 @ 10.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.12
+- Avg load: 148.5kg
+- Tonnage: 4570.0kg
+- Progress marker: single 190.0x1 @ 10.0; work 170.0x2 @ 8.0
+
 ## 2025-02-20
 
 **Week 4 · Day 5**
@@ -8218,6 +10180,40 @@ Finished: 2025-02-15 10:29:02
   Set 3: 32.5kg x 11 [target RPE: 10]
   Set 4: 32.5kg x 10 [target RPE: 10]
 
+## Scorecard — Mad Power Variation 1 / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.75
+- Avg load: 126.5kg
+- Tonnage: 4597.5kg
+- Progress marker: single 152.5x1 @ 8.5; work 140.0x2 @ 7.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 18
+- Avg sets/session: 4.5
+- Avg RPE: 8.81
+- Avg load: 93.3kg
+- Tonnage: 8103.5kg
+- Progress marker: single 122.5x1 @ 9.0; work 115.0x3 @ 8.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.54
+- Avg load: 147.9kg
+- Tonnage: 5547.5kg
+- Progress marker: single 180.0x1 @ 9.0; work 165.0x3 @ 8.5
+
 ## 2025-02-13
 
 **Week 3 · Day 5**
@@ -8362,6 +10358,40 @@ Finished: 2025-02-08 10:16:10
   Set 2: 31.0kg x 12 @ RPE 10 [target RPE: 10]
   Set 3: 31.0kg x 10 @ RPE 9.5 [target RPE: 10]
   Set 4: 30.0kg x 12 @ RPE 10 [target RPE: 10]
+
+## Scorecard — Mad Power Variation 1 / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.21
+- Avg load: 122.7kg
+- Tonnage: 5697.5kg
+- Progress marker: single 140.0x1 @ 6.5; work 140.0x3 @ 8.5
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 18
+- Avg sets/session: 4.5
+- Avg RPE: 8.75
+- Avg load: 91.4kg
+- Tonnage: 8651.5kg
+- Progress marker: single 120.0x1 @ 8.0; work 110.0x4 @ 8.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 14
+- Avg sets/session: 4.67
+- Avg RPE: 7.0
+- Avg load: 148.6kg
+- Tonnage: 6100.0kg
+- Progress marker: single 175.0x1 @ 7.5; work 162.5x3 @ 7.0
 
 ## 2025-02-06
 
@@ -8508,6 +10538,40 @@ Finished: 2025-02-01 10:30:06
   Set 2: 32.5kg x 10 @ RPE 9.5 [target RPE: 10]
   Set 3: 32.5kg x 10 @ RPE 9.5 [target RPE: 10]
   Set 4: 30.0kg x 8 @ RPE 10 [target RPE: 10]
+
+## Scorecard — Mad Power Variation 1 / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 13
+- Avg sets/session: 4.33
+- Avg RPE: 7.65
+- Avg load: 126.2kg
+- Tonnage: 7055.0kg
+- Progress marker: single 137.5x1 @ 6.0; work 135.0x5 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 18
+- Avg sets/session: 4.5
+- Avg RPE: 8.47
+- Avg load: 89.6kg
+- Tonnage: 9267.5kg
+- Progress marker: single 115.0x1 @ 7.0; work 107.5x5 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 8.12
+- Avg load: 147.1kg
+- Tonnage: 5530.0kg
+- Progress marker: single 160.0x1 @ 6.0; work 160.0x4 @ 9.0
 
 ## 2025-01-30
 
@@ -8676,6 +10740,40 @@ Finished: 2025-01-25 10:18:03
   Set 4: 30.0kg x 7 [target RPE: 10]
   Set 5: 15.0kg x 11 [target RPE: 10]
 
+## Scorecard — Mad Power / Week 4
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 8.0
+- Avg load: 122.5kg
+- Tonnage: 2980.0kg
+- Progress marker: single 155.0x1 @ 10.0; work 145.0x2 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 18
+- Avg sets/session: 4.5
+- Avg RPE: 8.94
+- Avg load: 91.7kg
+- Tonnage: 7931.0kg
+- Progress marker: single 128.5x1 @ 10.0; work 120.0x2 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 10
+- Avg sets/session: 3.33
+- Avg RPE: 8.3
+- Avg load: 143.8kg
+- Tonnage: 5867.5kg
+- Progress marker: single 180.0x1 @ 10.0; work 165.0x2 @ 9.0
+
 ## 2025-01-23
 
 **Week 4 · Day 5**
@@ -8835,6 +10933,40 @@ Finished: 2025-01-18 10:44:40
   Set 1: 35.0kg x 10 @ RPE 10 [target RPE: 10]
   Set 2: 32.5kg x 12 @ RPE 10 [target RPE: 10]
   Set 3: 30.0kg x 14 @ RPE 10 [target RPE: 10]
+
+## Scorecard — Mad Power / Week 3
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.88
+- Avg load: 127.3kg
+- Tonnage: 4302.5kg
+- Progress marker: single 152.5x1 @ 8.5; work 140.0x3 @ 9.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 20
+- Avg sets/session: 5.0
+- Avg RPE: 8.43
+- Avg load: 92.1kg
+- Tonnage: 8806.5kg
+- Progress marker: single 125.0x1 @ 9.5; work 115.0x3 @ 9.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 8.0
+- Avg load: 143.6kg
+- Tonnage: 6590.0kg
+- Progress marker: single 180.0x1 @ 8.5; work 170.0x2 @ 9.0
 
 ## 2025-01-16
 
@@ -9001,6 +11133,40 @@ Finished: 2025-01-11 10:26:16
   Set 2: 32.5kg x 11 @ RPE 10
   Set 3: 30.0kg x 12 @ RPE 10
 
+## Scorecard — Mad Power / Week 2
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.92
+- Avg load: 116.5kg
+- Tonnage: 4877.5kg
+- Progress marker: single 140.0x1 @ 7.0; work 135.0x4 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 20
+- Avg sets/session: 5.0
+- Avg RPE: 8.08
+- Avg load: 89.0kg
+- Tonnage: 9192.5kg
+- Progress marker: single 117.5x1 @ 7.0; work 110.0x4 @ 8.5
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 12
+- Avg sets/session: 4.0
+- Avg RPE: 7.17
+- Avg load: 139.6kg
+- Tonnage: 6915.0kg
+- Progress marker: single 175.0x1 @ 7.5; work 160.0x3 @ 7.5
+
 ## 2025-01-09
 
 **Week 2 · Day 5**
@@ -9166,6 +11332,40 @@ Finished: 2025-01-04 10:37:48
   Set 1: 100.0kg x 10
   Set 2: 110.0kg x 10
   Set 3: 110.0kg x 10
+
+## Scorecard — Mad Power / Week 1
+
+- Uses movement families. Bench family includes incline DB bench and Spoto; deadlift family includes paused deadlift and RDL.
+
+### Squat family
+
+- Sessions: 2
+- Total sets: 11
+- Avg sets/session: 5.5
+- Avg RPE: 7.55
+- Avg load: 114.3kg
+- Tonnage: 6235.0kg
+- Progress marker: single 130.0x1 @ 6.0; work 135.0x4 @ 8.0
+
+### Bench family
+
+- Sessions: 4
+- Total sets: 20
+- Avg sets/session: 5.0
+- Avg RPE: 7.97
+- Avg load: 92.9kg
+- Tonnage: 8985.0kg
+- Progress marker: single 120.0x1 @ 8.5; work 112.5x3 @ 8.0
+
+### Deadlift family
+
+- Sessions: 3
+- Total sets: 11
+- Avg sets/session: 3.67
+- Avg RPE: 7.5
+- Avg load: 131.8kg
+- Tonnage: 5680.0kg
+- Progress marker: single 160.0x1 @ None; work 160.0x4 @ 9.0
 
 ## 2025-01-02
 
