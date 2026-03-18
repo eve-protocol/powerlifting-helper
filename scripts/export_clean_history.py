@@ -111,10 +111,11 @@ def fmt_num(x, digits=1):
 def fmt_delta(x, digits=1, suffix=''):
     if x is None:
         return 'n/a'
-    sign = '+' if x > 0 else ''
-    if round(x, digits).is_integer():
-        return f"{sign}{int(round(x, digits))}{suffix}"
-    return f"{sign}{x:.{digits}f}{suffix}"
+    arrow = '↑' if x > 0 else ('↓' if x < 0 else '→')
+    abs_x = abs(x)
+    if round(abs_x, digits).is_integer():
+        return f"{arrow} {int(round(abs_x, digits))}{suffix}"
+    return f"{arrow} {abs_x:.{digits}f}{suffix}"
 
 
 def format_set(set_data, set_num):
@@ -301,29 +302,45 @@ def render_scorecard_file(output_path, title, subtitle, scorecards):
 
     periods = list(scorecards.keys())
     add_deltas(scorecards, periods)
+    period_label = title.split()[0].lower()
 
-    for period in periods:
+    for idx, period in enumerate(periods):
+        prev_period = periods[idx + 1] if idx + 1 < len(periods) else None
         lines.append(f"## {period}")
         lines.append("")
+        if prev_period:
+            lines.append(f"Comparison baseline: {prev_period}")
+            lines.append("")
         for family in ('squat', 'bench', 'deadlift'):
             s = scorecards.get(period, {}).get(family)
             if not s:
                 continue
+            prev_s = scorecards.get(prev_period, {}).get(family) if prev_period else None
             d = s['delta']
             lines.append(f"### {FAMILY_LABELS[family]}")
             lines.append("")
-            lines.append(f"- Sessions: {s['sessions']}")
-            lines.append(f"- Total sets: {s['sets']}")
-            lines.append(f"- Avg sets/session: {fmt_num(s['avg_sets'], 2)}")
-            lines.append(f"- Avg RPE: {fmt_num(s['avg_rpe'], 2)}")
-            lines.append(f"- Avg load: {fmt_num(s['avg_load'], 1)}kg")
-            lines.append(f"- Tonnage: {fmt_num(s['tonnage'], 1)}kg")
-            lines.append(f"- Avg tonnage/session: {fmt_num(s['avg_tonnage_per_session'], 1)}kg")
+            lines.append("| Metric | Current | Previous | Delta |")
+            lines.append("|---|---:|---:|---:|")
+            rows = [
+                ("Sessions", fmt_num(s['sessions'], 0), fmt_num(prev_s['sessions'], 0) if prev_s else '-', fmt_delta((s['sessions'] - prev_s['sessions']) if prev_s else None, 0)),
+                ("Total sets", fmt_num(s['sets'], 0), fmt_num(prev_s['sets'], 0) if prev_s else '-', fmt_delta((s['sets'] - prev_s['sets']) if prev_s else None, 0)),
+                ("Avg sets/session", fmt_num(s['avg_sets'], 2), fmt_num(prev_s['avg_sets'], 2) if prev_s else '-', fmt_delta(d['avg_sets'], 2)),
+                ("Avg RPE", fmt_num(s['avg_rpe'], 2), fmt_num(prev_s['avg_rpe'], 2) if prev_s and prev_s['avg_rpe'] is not None else '-', fmt_delta(d['avg_rpe'], 2)),
+                ("Avg load", f"{fmt_num(s['avg_load'], 1)}kg", f"{fmt_num(prev_s['avg_load'], 1)}kg" if prev_s and prev_s['avg_load'] is not None else '-', fmt_delta(d['avg_load'], 1, 'kg')),
+                ("Tonnage", f"{fmt_num(s['tonnage'], 1)}kg", f"{fmt_num(prev_s['tonnage'], 1)}kg" if prev_s else '-', fmt_delta(d['tonnage'], 1, 'kg')),
+                ("Avg tonnage/session", f"{fmt_num(s['avg_tonnage_per_session'], 1)}kg", f"{fmt_num(prev_s['avg_tonnage_per_session'], 1)}kg" if prev_s and prev_s['avg_tonnage_per_session'] is not None else '-', fmt_delta(d['avg_tonnage_per_session'], 1, 'kg')),
+            ]
+            for metric, cur, prev, delta in rows:
+                lines.append(f"| {metric} | {cur} | {prev} | {delta} |")
+            lines.append("")
             lines.append(f"- Top single: {top_marker_text(s['top_single'])}")
+            if prev_s:
+                lines.append(f"- Previous top single: {top_marker_text(prev_s['top_single'])}")
+                lines.append(f"- Top single delta: {fmt_delta(d['top_single'], 1, 'kg')} (only meaningful when the variation is comparable)")
             lines.append(f"- Top work set: {top_marker_text(s['top_work'])}")
-            lines.append(f"- Change vs previous {title.split()[-1].lower()}: avg sets/session {fmt_delta(d['avg_sets'], 2)}, avg RPE {fmt_delta(d['avg_rpe'], 2)}, avg load {fmt_delta(d['avg_load'], 1, 'kg')}, tonnage {fmt_delta(d['tonnage'], 1, 'kg')}, avg tonnage/session {fmt_delta(d['avg_tonnage_per_session'], 1, 'kg')}")
-            if d['top_single'] is not None or d['top_work'] is not None:
-                lines.append(f"- Main-lift change: top single {fmt_delta(d['top_single'], 1, 'kg')}, top work set {fmt_delta(d['top_work'], 1, 'kg')} (only when the same rep scheme is comparable)")
+            if prev_s:
+                lines.append(f"- Previous top work set: {top_marker_text(prev_s['top_work'])}")
+                lines.append(f"- Top work-set delta: {fmt_delta(d['top_work'], 1, 'kg')} (only meaningful when the rep scheme is comparable)")
             lines.append("")
 
     output_path.write_text('\n'.join(lines))
