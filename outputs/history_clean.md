@@ -2,6 +2,31 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-03-21
+
+**Week 1 · Day 5**
+Finished: 2026-03-21 10:03:57
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 187.5kg x 1 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 2: 170.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 3: 170.0kg x 3 @ RPE 6.5 [target RPE: 7.5-8]
+  Set 4: 172.5kg x 3 @ RPE 6.5 [target RPE: 7.5-8]
+  Set 5: 175.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
+
+### Squat (Low Bar)
+
+  Set 1: 140.0kg x 5 @ RPE 6.5 [target RPE: 6-6.5]
+  Set 2: 140.0kg x 5 @ RPE 6 [target RPE: 6-6.5]
+  Set 3: 142.5kg x 5 @ RPE 6 [target RPE: 6-6.5]
+
+### Spoto Press
+
+  Set 1: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
+  Set 2: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
+  Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
+
 ## 2026-03-19
 
 **Week 1 · Day 4**
