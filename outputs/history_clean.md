@@ -2,6 +2,37 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-03-24
+
+**Week 2 · Day 2**
+Finished: 2026-03-24 10:02:03
+
+### Sumo Deadlift (Paused)
+
+  Set 1: 170.0kg x 1 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 2: 160.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 3: 160.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 7-7.5]
+  Set 5: 160.0kg x 3 @ RPE 7 [target RPE: 7-7.5]
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 3: 47.5kg x 6 @ RPE 9 [target RPE: 7.5-8]
+
+### Lateral Raise (Dumbbell)
+
+  Set 1: 10.0kg x 15 @ RPE 8.5 [target: 12 reps, target RPE: 8-8.5]
+  Set 2: 10.0kg x 13 @ RPE 8.5 [target: 12 reps, target RPE: 8-8.5]
+  Set 3: 10.0kg x 11 @ RPE 8.5 [target: 12 reps, target RPE: 8-8.5]
+
+### Rear Delt Fly (Dumbbell)
+
+  Set 1: 6.0kg x 12 @ RPE 8 [target RPE: 8-8.5]
+  Set 2: 6.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 8-8.5]
+  Set 3: 6.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 8-8.5]
+
 ## 2026-03-23
 
 **Week 2 · Day 1**
