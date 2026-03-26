@@ -19,7 +19,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W13 | 7 (-4) | 7 (-5) | 8 (-5) |
+| 2026-W13 | 7 (-4) | 12 (=) | 8 (-5) |
 | 2026-W12 | 11 (+1) | 12 (+1) | 13 (+3) |
 | 2026-W11 | 10 (-1) | 11 (=) | 10 (-2) |
 | 2026-W10 | 11 (-4) | 11 (-2) | 12 (=) |
@@ -37,7 +37,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W13  │   2750kg (-2486) │   2262kg (-1480) │   4610kg (-2158)
+2026-W13  │   2750kg (-2486) │   3787kg   (+45) │   4610kg (-2158)
 2026-W12  │   5236kg (-1671) │   3742kg  (-580) │   6768kg   (-51)
 2026-W11  │   6907kg  (-523) │   4322kg  (-447) │   6819kg (-1798)
 2026-W10  │   7430kg (-3460) │   4769kg (-1243) │   8617kg  (+717)
@@ -71,7 +71,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Bench Volume (kg)**
 ```
-2026-W13 │█████░░░░░░░░░░░░░░░░░░░░│ 2,262kg
+2026-W13 │████████░░░░░░░░░░░░░░░░░│ 3,787kg
 2026-W12 │████████░░░░░░░░░░░░░░░░░│ 3,742kg
 2026-W11 │█████████░░░░░░░░░░░░░░░░│ 4,322kg
 2026-W10 │██████████░░░░░░░░░░░░░░░│ 4,769kg
@@ -107,7 +107,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ## 2026-W13
 
-**Weekly Summary:** Squat: 7 sets / 2,750kg | Bench: 7 sets / 2,262kg | Deadlift: 8 sets / 4,610kg
+**Weekly Summary:** Squat: 7 sets / 2,750kg | Bench: 12 sets / 3,787kg | Deadlift: 8 sets / 4,610kg
 
 ### 2026-03-23 (Monday)
 
@@ -178,6 +178,37 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 1: 12 × 50kg @ RPE 8 [target_reps=10, target_intensity=[8, 8.5]RPE_range]
 - Set 2: 10 × 55kg @ RPE 8 [target_reps=10, target_intensity=[8, 8.5]RPE_range]
 - Set 3: 10 × 55kg @ RPE 9 [target_reps=10, target_intensity=[8, 8.5]RPE_range]
+
+### 2026-03-26 (Thursday)
+
+**Bench Press (Barbell)**
+- Set 1: 1 × 127kg @ RPE 8.5 [target_reps=1, target_intensity=[8, 8.5]RPE_range]
+- Set 2: 3 × 117kg @ RPE 8 [target_reps=3, target_intensity=[8, 8.5]RPE_range]
+- Set 3: 3 × 117kg @ RPE 8.5 [target_reps=3, target_intensity=[8, 8.5]RPE_range]
+- Set 4: 3 × 117kg @ RPE 9 [target_reps=3, target_intensity=[8, 8.5]RPE_range]
+- Set 5: 3 × 115kg @ RPE 8.5 [target_reps=3, target_intensity=[8, 8.5]RPE_range]
+
+**Pull-Up (Weighted)**
+- Set 1: 5 × 25kg @ RPE 8 [target_reps=5, target_intensity=[8.5, 9]RPE_range]
+- Set 2: 5 × 25kg @ RPE 8.5 [target_reps=5, target_intensity=[8.5, 9]RPE_range]
+- Set 3: 5 × 25kg @ RPE 8.5 [target_reps=5, target_intensity=[8.5, 9]RPE_range]
+- Set 4: 5 × 25kg @ RPE 9 [target_reps=5, target_intensity=[8.5, 9]RPE_range]
+
+**Overhead Tricep Extension (Cable)**
+- Set 1: 13 × 30kg @ RPE 8 [target_reps=10, target_intensity=[8.5, 9]RPE_range]
+- Set 2: 8 × 32kg @ RPE 8 [target_reps=10, target_intensity=[8.5, 9]RPE_range]
+- Set 3: 10 × 30kg @ RPE 8.5 [target_reps=10, target_intensity=[8.5, 9]RPE_range]
+- Set 4: 8 × 30kg @ RPE 9 [target_reps=10, target_intensity=[8.5, 9]RPE_range]
+
+**Leg Curl**
+- Set 1: 10 × 35kg @ RPE 8 [target_reps=10, target_intensity=[8, 8.5]RPE_range]
+- Set 2: 8 × 35kg @ RPE 9 [target_reps=10, target_intensity=[8, 8.5]RPE_range]
+- Set 3: 10 × 32kg @ RPE 8.5 [target_reps=10, target_intensity=[8, 8.5]RPE_range]
+
+**Bicep Curl (EZ Bar)**
+- Set 1: 10 × 20kg @ RPE 7.5 [target_reps=10, target_intensity=[8.5, 9]RPE_range]
+- Set 2: 10 × 22kg @ RPE 8 [target_reps=10, target_intensity=[8.5, 9]RPE_range]
+- Set 3: 9 × 22kg @ RPE 9 [target_reps=10, target_intensity=[8.5, 9]RPE_range]
 
 ---
 
