@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-01-12 to 2026-03-30
+**Period:** 2026-01-12 to 2026-03-31
 ---
 
 ## Format Guide
