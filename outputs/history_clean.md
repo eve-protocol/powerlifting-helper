@@ -2,6 +2,35 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-01
+
+**Week 3 · Day 3**
+Finished: 2026-04-01 10:05:23
+
+### Tempo Squat (Barbell)
+
+  Set 1: 140.0kg x 3 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 3: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
+
+### Romanian Deadlift (Barbell)
+
+  Set 1: 140.0kg x 6 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 140.0kg x 6 @ RPE 8 [target RPE: 7.5-8]
+  Set 3: 140.0kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
+
+### Leg Extension
+
+  Set 1: 65.0kg x 12 @ RPE 8 [target RPE: 8-8.5]
+  Set 2: 65.0kg x 12 @ RPE 8.5 [target RPE: 8-8.5]
+  Set 3: 65.0kg x 12 @ RPE 8 [target RPE: 8-8.5]
+
+### Standing T Bar Row
+
+  Set 1: 50.0kg x 12 @ RPE 8 [target: 10 reps, target RPE: 8-8.5]
+  Set 2: 55.0kg x 10 @ RPE 8 [target RPE: 8-8.5]
+  Set 3: 55.0kg x 10 @ RPE 9 [target RPE: 8-8.5]
+
 ## 2026-03-31
 
 **Week 3 · Day 2**
