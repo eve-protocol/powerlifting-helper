@@ -2,6 +2,45 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-02
+
+**Week 3 · Day 4**
+Finished: 2026-04-02 09:47:04
+
+### Bench Press (Barbell)
+
+  Set 1: 130.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5]
+  Set 2: 127.5kg x 3 @ RPE 9.5 [target RPE: 9-9.5]
+  Set 3: 120.0kg x 3 @ RPE 9 [target RPE: 7.5-8]
+  Set 4: 117.5kg x 3 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 5: 117.5kg x 3 @ RPE 8.5 [target RPE: 7.5-8]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 8 [target RPE: 8.5-9]
+  Set 2: 25.0kg x 5 @ RPE 9 [target RPE: 8.5-9]
+  Set 3: 25.0kg x 5 @ RPE 9.5 [target RPE: 8.5-9]
+  Set 4: 25.0kg x 5 @ RPE 10 [target RPE: 8.5-9]
+
+### Overhead Tricep Extension (Cable)
+
+  Set 1: 30.0kg x 12 @ RPE 8 [target: 10 reps, target RPE: 8.5-9]
+  Set 2: 30.0kg x 10 @ RPE 8 [target RPE: 8.5-9]
+  Set 3: 30.0kg x 10 @ RPE 8.5 [target RPE: 8.5-9]
+  Set 4: 30.0kg x 6 @ RPE 9 [target: 10 reps, target RPE: 8.5-9]
+
+### Leg Curl
+
+  Set 1: 35.0kg x 12 @ RPE 8.5 [target: 10 reps, target RPE: 8-8.5]
+  Set 2: 35.0kg x 12 @ RPE 9 [target: 10 reps, target RPE: 8-8.5]
+  Set 3: 35.0kg x 9 @ RPE 9.5 [target: 10 reps, target RPE: 8-8.5]
+
+### Bicep Curl (EZ Bar)
+
+  Set 1: 22.5kg x 10 @ RPE 8 [target RPE: 8.5-9]
+  Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 8.5-9]
+  Set 3: 22.5kg x 10 @ RPE 8.5 [target RPE: 8.5-9]
+
 ## 2026-04-01
 
 **Week 3 · Day 3**
