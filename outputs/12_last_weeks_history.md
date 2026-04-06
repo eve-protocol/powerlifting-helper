@@ -19,6 +19,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
+| 2026-W15 | 3 (-7) | 3 (-8) | 0 (-13) |
 | 2026-W14 | 10 (=) | 11 (-1) | 13 (=) |
 | 2026-W13 | 10 (-1) | 12 (=) | 13 (=) |
 | 2026-W12 | 11 (+1) | 12 (+1) | 13 (+3) |
@@ -36,6 +37,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
+2026-W15  │    760kg (-4155) │    780kg (-2923) │      0kg (-7052)
 2026-W14  │   4915kg   (+45) │   3703kg   (-84) │   7052kg  (+143)
 2026-W13  │   4870kg  (-366) │   3787kg   (+45) │   6909kg  (+141)
 2026-W12  │   5236kg (-1671) │   3742kg  (-580) │   6768kg   (-51)
@@ -53,6 +55,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Squat Volume (kg)**
 ```
+2026-W15 │█░░░░░░░░░░░░░░░░░░░░░░░░│ 760kg
 2026-W14 │███████████░░░░░░░░░░░░░░│ 4,915kg
 2026-W13 │██████████░░░░░░░░░░░░░░░│ 4,870kg
 2026-W12 │███████████░░░░░░░░░░░░░░│ 5,236kg
@@ -68,6 +71,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Bench Volume (kg)**
 ```
+2026-W15 │█░░░░░░░░░░░░░░░░░░░░░░░░│ 780kg
 2026-W14 │████████░░░░░░░░░░░░░░░░░│ 3,703kg
 2026-W13 │████████░░░░░░░░░░░░░░░░░│ 3,787kg
 2026-W12 │████████░░░░░░░░░░░░░░░░░│ 3,742kg
@@ -83,6 +87,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Deadlift Volume (kg)**
 ```
+2026-W15 │░░░░░░░░░░░░░░░░░░░░░░░░░│ 0kg
 2026-W14 │███████████████░░░░░░░░░░│ 7,052kg
 2026-W13 │███████████████░░░░░░░░░░│ 6,909kg
 2026-W12 │███████████████░░░░░░░░░░│ 6,768kg
@@ -99,6 +104,34 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ---
 
 ## 📋 Detailed Training Log
+
+## 2026-W15
+
+**Weekly Summary:** Squat: 3 sets / 760kg | Bench: 3 sets / 780kg | Deadlift: 0 sets / 0kg
+
+### 2026-04-06 (Monday)
+
+**Squat (Low Bar)**
+- Set 1: 1 × 160kg @ RPE 8 [target_reps=1, target_intensity=[8, 8.5]RPE_range]
+- Set 2: 2 × 150kg @ RPE 8 [target_reps=2, target_intensity=[7.5, 8]RPE_range]
+- Set 3: 2 × 150kg @ RPE 7 [target_reps=2, target_intensity=[7.5, 8]RPE_range]
+
+**Bench Press (Paused)**
+- Set 1: 1 × 120kg @ RPE 8 [target_reps=1, target_intensity=[7, 7.5]RPE_range]
+- Set 2: 3 × 110kg @ RPE 7.5 [target_reps=3, target_intensity=[7, 7.5]RPE_range]
+- Set 3: 3 × 110kg @ RPE 8 [target_reps=3, target_intensity=[7, 7.5]RPE_range]
+
+**Pull-Up (Weighted)**
+- Set 1: 5 × 25kg @ RPE 8 [target_reps=5, target_intensity=[7.5, 8]RPE_range]
+- Set 2: 5 × 25kg @ RPE 8.5 [target_reps=5, target_intensity=[7.5, 8]RPE_range]
+- Set 3: 5 × 25kg @ RPE 9.5 [target_reps=5, target_intensity=[7.5, 8]RPE_range]
+
+**Rear Delt Fly (Dumbbell)**
+- Set 1: 20 × 6kg @ RPE 7 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+- Set 2: 18 × 7kg @ RPE 8 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+- Set 3: 17 × 7kg @ RPE 8 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+
+---
 
 ## 2026-W14
 
