@@ -2,6 +2,32 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-08
+
+**Week 1 · Day 3**
+Finished: 2026-04-08 09:51:03
+
+### Squat (Low Bar)
+
+  Set 1: 145.0kg x 3 @ RPE 8 [target RPE: 6.5-7]
+  Set 2: 150.0kg x 3 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 3: 150.0kg x 3 @ RPE 7 [target RPE: 6.5-7]
+  Set 4: 130.0kg x 3 [target RPE: 6.5-7]
+  Set 5: 130.0kg x 3 [target RPE: 6.5-7]
+  Set 6: 130.0kg x 3 [target RPE: 6.5-7]
+
+### Leg Extension
+
+  Set 1: 65.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 2: 65.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 3: 65.0kg x 12 @ RPE 8 [target RPE: 7.5-8]
+
+### Standing T Bar Row
+
+  Set 1: 55.0kg x 12 @ RPE 8 [target: 10 reps, target RPE: 7.5-8]
+  Set 2: 60.0kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 3: 60.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
+
 ## 2026-04-07
 
 **Week 1 · Day 2**
