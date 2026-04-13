@@ -31,6 +31,14 @@ Finished: 2026-04-13 10:01:11
 
 ## 2026-04-11
 
+### Health / Recovery
+
+- Steps: 15123
+- Distance: 12.35 km
+- Total kcal burned: 3651
+- Resting heart rate: 44 bpm
+- Sleep: 7.33 h asleep (7.38 h in bed, deep 1.98 h, REM 1.07 h, awake 0.05 h)
+
 **Week 1 · Day 5**
 Finished: 2026-04-11 09:59:25
 
@@ -52,6 +60,14 @@ Finished: 2026-04-11 09:59:25
   Set 2: 115.0kg x 7 @ RPE 9 [target: 3 reps, target RPE: 6-6.5]
 
 ## 2026-04-09
+
+### Health / Recovery
+
+- Steps: 4834
+- Distance: 3.98 km
+- Total kcal burned: 2809
+- Resting heart rate: 47 bpm
+- Sleep: 7.12 h asleep (7.42 h in bed, deep 1.10 h, REM 1.02 h, awake 0.30 h)
 
 **Week 1 · Day 4**
 Finished: 2026-04-09 09:29:57
@@ -83,6 +99,15 @@ Finished: 2026-04-09 09:29:57
 
 ## 2026-04-08
 
+### Health / Recovery
+
+- Steps: 4529
+- Distance: 4.25 km
+- Total kcal burned: 2536
+- Weight: 79.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.67 h asleep (7.25 h in bed, deep 0.95 h, REM 0.70 h, awake 0.58 h)
+
 **Week 1 · Day 3**
 Finished: 2026-04-08 09:51:03
 
@@ -108,6 +133,15 @@ Finished: 2026-04-08 09:51:03
   Set 3: 60.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
 
 ## 2026-04-07
+
+### Health / Recovery
+
+- Steps: 7700
+- Distance: 6.69 km
+- Total kcal burned: 2595
+- Weight: 79.2 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.75 h asleep (7.33 h in bed, deep 1 h, REM 1.33 h, awake 0.58 h)
 
 **Week 1 · Day 2**
 Finished: 2026-04-07 10:02:00
@@ -135,6 +169,15 @@ Finished: 2026-04-07 10:02:00
   Set 4: 10.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 7.5-8]
 
 ## 2026-04-06
+
+### Health / Recovery
+
+- Steps: 7375
+- Distance: 6.24 km
+- Total kcal burned: 2983
+- Weight: 79.4 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.23 h asleep (7.82 h in bed, deep 1.25 h, REM 1.13 h, awake 0.58 h)
 
 **Week 1 · Day 1**
 Finished: 2026-04-06 10:02:59
@@ -165,6 +208,14 @@ Finished: 2026-04-06 10:02:59
 
 ## 2026-04-04
 
+### Health / Recovery
+
+- Steps: 10087
+- Distance: 8.19 km
+- Total kcal burned: 2805
+- Resting heart rate: 46 bpm
+- Sleep: 7.53 h asleep (7.55 h in bed, deep 1.32 h, REM 1.33 h, awake 0.02 h)
+
 **Week 3 · Day 5**
 Finished: 2026-04-04 09:56:17
 
@@ -189,6 +240,15 @@ Finished: 2026-04-04 09:56:17
   Set 3: 112.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
 
 ## 2026-04-02
+
+### Health / Recovery
+
+- Steps: 9315
+- Distance: 7.56 km
+- Total kcal burned: 2684
+- Weight: 79.3 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.12 h asleep (7.22 h in bed, deep 1.10 h, REM 1.55 h, awake 0.10 h)
 
 **Week 3 · Day 4**
 Finished: 2026-04-02 09:47:04
@@ -229,6 +289,15 @@ Finished: 2026-04-02 09:47:04
 
 ## 2026-04-01
 
+### Health / Recovery
+
+- Steps: 4043
+- Distance: 3.27 km
+- Total kcal burned: 2616
+- Weight: 79.2 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.23 h asleep (7.45 h in bed, deep 1.20 h, REM 0.90 h, awake 0.22 h)
+
 **Week 3 · Day 3**
 Finished: 2026-04-01 10:05:23
 
@@ -257,6 +326,15 @@ Finished: 2026-04-01 10:05:23
   Set 3: 55.0kg x 10 @ RPE 9 [target RPE: 8-8.5]
 
 ## 2026-03-31
+
+### Health / Recovery
+
+- Steps: 7351
+- Distance: 6.02 km
+- Total kcal burned: 2524
+- Weight: 79.6 kg
+- Resting heart rate: 46 bpm
+- Sleep: 6.36 h asleep (6.86 h in bed, deep 0.93 h, REM 0.35 h, awake 0.50 h)
 
 **Week 3 · Day 2**
 Finished: 2026-03-31 10:00:00
@@ -289,6 +367,15 @@ Finished: 2026-03-31 10:00:00
 
 ## 2026-03-30
 
+### Health / Recovery
+
+- Steps: 4235
+- Distance: 3.82 km
+- Total kcal burned: 2623
+- Weight: 79.6 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.52 h asleep (7.72 h in bed, deep 1.10 h, REM 0.93 h, awake 0.20 h)
+
 **Week 3 · Day 1**
 Finished: 2026-03-30 10:09:15
 
@@ -320,6 +407,14 @@ Finished: 2026-03-30 10:09:15
 
 ## 2026-03-28
 
+### Health / Recovery
+
+- Steps: 12900
+- Distance: 10.55 km
+- Total kcal burned: 3134
+- Resting heart rate: 45 bpm
+- Sleep: 7.28 h asleep (7.40 h in bed, deep 1.67 h, REM 1.30 h, awake 0.12 h)
+
 **Week 2 · Day 5**
 Finished: 2026-03-28 10:03:01
 
@@ -344,6 +439,14 @@ Finished: 2026-03-28 10:03:01
   Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
 
 ## 2026-03-26
+
+### Health / Recovery
+
+- Steps: 7376
+- Distance: 6.03 km
+- Total kcal burned: 2505
+- Resting heart rate: 45 bpm
+- Sleep: 7.22 h asleep (7.70 h in bed, deep 1.35 h, REM 1.17 h, awake 0.48 h)
 
 **Week 2 · Day 4**
 Finished: 2026-03-26 09:55:32
@@ -384,6 +487,15 @@ Finished: 2026-03-26 09:55:32
 
 ## 2026-03-25
 
+### Health / Recovery
+
+- Steps: 4115
+- Distance: 3.33 km
+- Total kcal burned: 2628
+- Weight: 79.6 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.75 h asleep (7.05 h in bed, deep 0.82 h, REM 1.28 h, awake 0.30 h)
+
 **Week 2 · Day 3**
 Finished: 2026-03-25 10:05:56
 
@@ -412,6 +524,15 @@ Finished: 2026-03-25 10:05:56
   Set 3: 55.0kg x 10 @ RPE 9 [target RPE: 8-8.5]
 
 ## 2026-03-24
+
+### Health / Recovery
+
+- Steps: 4490
+- Distance: 3.86 km
+- Total kcal burned: 2576
+- Weight: 79.8 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.15 h asleep (7.53 h in bed, deep 0.78 h, REM 1.53 h, awake 0.38 h)
 
 **Week 2 · Day 2**
 Finished: 2026-03-24 10:02:03
@@ -443,6 +564,15 @@ Finished: 2026-03-24 10:02:03
   Set 3: 6.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 8-8.5]
 
 ## 2026-03-23
+
+### Health / Recovery
+
+- Steps: 8389
+- Distance: 6.80 km
+- Total kcal burned: 2609
+- Weight: 78.8 kg
+- Resting heart rate: 41 bpm
+- Sleep: 8.22 h asleep (8.33 h in bed, deep 1.95 h, REM 2.08 h, awake 0.12 h)
 
 **Week 2 · Day 1**
 Finished: 2026-03-23 09:59:05
@@ -476,6 +606,14 @@ Finished: 2026-03-23 09:59:05
 
 ## 2026-03-21
 
+### Health / Recovery
+
+- Steps: 17130
+- Distance: 13.87 km
+- Total kcal burned: 3037
+- Resting heart rate: 45 bpm
+- Sleep: 7.62 h asleep (7.64 h in bed, deep 1.07 h, REM 1.52 h, awake 0.02 h)
+
 **Week 1 · Day 5**
 Finished: 2026-03-21 10:03:57
 
@@ -500,6 +638,14 @@ Finished: 2026-03-21 10:03:57
   Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
 
 ## 2026-03-19
+
+### Health / Recovery
+
+- Steps: 6439
+- Distance: 5.22 km
+- Total kcal burned: 2759
+- Resting heart rate: 46 bpm
+- Sleep: 6.23 h asleep (6.77 h in bed, deep 0.55 h, REM 0.77 h, awake 0.53 h)
 
 **Week 1 · Day 4**
 Finished: 2026-03-19 09:35:38
@@ -540,6 +686,15 @@ Finished: 2026-03-19 09:35:38
 
 ## 2026-03-18
 
+### Health / Recovery
+
+- Steps: 2399
+- Distance: 2.49 km
+- Total kcal burned: 2474
+- Weight: 79.2 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.85 h asleep (7.18 h in bed, deep 0.98 h, REM 1.28 h, awake 0.33 h)
+
 **Week 1 · Day 3**
 Finished: 2026-03-18 13:17:46
 
@@ -568,6 +723,15 @@ Finished: 2026-03-18 13:17:46
   Set 3: 50.0kg x 10 @ RPE 8 [target RPE: 8-8.5]
 
 ## 2026-03-17
+
+### Health / Recovery
+
+- Steps: 11939
+- Distance: 9.67 km
+- Total kcal burned: 3191
+- Weight: 78.8 kg
+- Resting heart rate: 46 bpm
+- Sleep: 5.58 h asleep (5.92 h in bed, deep 1.03 h, REM 1.02 h, awake 0.33 h)
 
 **Week 1 · Day 2**
 Finished: 2026-03-17 08:51:11
@@ -599,6 +763,15 @@ Finished: 2026-03-17 08:51:11
   Set 3: 6.0kg x 12 @ RPE 7.5 [target RPE: 8-8.5]
 
 ## 2026-03-16
+
+### Health / Recovery
+
+- Steps: 4151
+- Distance: 3.48 km
+- Total kcal burned: 2537
+- Weight: 79.3 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.02 h asleep (7.35 h in bed, deep 0.95 h, REM 0.90 h, awake 0.33 h)
 
 **Week 1 · Day 1**
 Finished: 2026-03-16 10:12:03
@@ -632,6 +805,14 @@ Finished: 2026-03-16 10:12:03
 
 ## 2026-03-14
 
+### Health / Recovery
+
+- Steps: 16702
+- Distance: 13.57 km
+- Total kcal burned: 3490
+- Resting heart rate: 46 bpm
+- Sleep: 7.07 h asleep (7.17 h in bed, deep 0.93 h, REM 1.23 h, awake 0.10 h)
+
 **Week 3 · Day 5**
 Finished: 2026-03-14 09:54:12
 
@@ -655,6 +836,14 @@ Finished: 2026-03-14 09:54:12
   Set 3: 107.5kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
 
 ## 2026-03-12
+
+### Health / Recovery
+
+- Steps: 4737
+- Distance: 3.85 km
+- Total kcal burned: 2588
+- Resting heart rate: 47 bpm
+- Sleep: 6.90 h asleep (7.13 h in bed, deep 0.53 h, REM 1.52 h, awake 0.23 h)
 
 **Week 3 · Day 4**
 Finished: 2026-03-12 09:35:07
@@ -692,6 +881,13 @@ Finished: 2026-03-12 09:35:07
 
 ## 2026-03-11
 
+### Health / Recovery
+
+- Steps: 2356
+- Distance: 1.35 km
+- Total kcal burned: 1849
+- Weight: 79.1 kg
+
 **Week 3 · Day 3**
 Finished: 2026-03-11 09:57:00
 
@@ -717,6 +913,13 @@ Finished: 2026-03-11 09:57:00
   Set 2: 50.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
 
 ## 2026-03-10
+
+### Health / Recovery
+
+- Steps: 1217
+- Distance: 0.64 km
+- Total kcal burned: 1913
+- Weight: 79.3 kg
 
 **Week 3 · Day 2**
 Finished: 2026-03-10 10:07:48
@@ -747,6 +950,13 @@ Finished: 2026-03-10 10:07:48
   Set 3: 5.0kg x 15 @ RPE 8 [target RPE: 7.5-8]
 
 ## 2026-03-09
+
+### Health / Recovery
+
+- Steps: 1886
+- Distance: 1 km
+- Total kcal burned: 1786
+- Weight: 78.9 kg
 
 **Week 3 · Day 1**
 Finished: 2026-03-09 10:14:39
@@ -779,6 +989,12 @@ Finished: 2026-03-09 10:14:39
 
 ## 2026-03-07
 
+### Health / Recovery
+
+- Steps: 12066
+- Distance: 8.35 km
+- Total kcal burned: 2178
+
 **Week 2 · Day 5**
 Finished: 2026-03-07 10:06:07
 
@@ -802,6 +1018,12 @@ Finished: 2026-03-07 10:06:07
   Set 3: 105.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
 
 ## 2026-03-05
+
+### Health / Recovery
+
+- Steps: 3533
+- Distance: 2.20 km
+- Total kcal burned: 1785
 
 **Week 2 · Day 4**
 Finished: 2026-03-05 08:04:27
@@ -843,6 +1065,13 @@ Finished: 2026-03-05 08:04:27
 
 ## 2026-03-04
 
+### Health / Recovery
+
+- Steps: 4663
+- Distance: 3.02 km
+- Total kcal burned: 1807
+- Weight: 78.4 kg
+
 **Week 2 · Day 3**
 Finished: 2026-03-04 09:58:05
 
@@ -874,6 +1103,13 @@ Finished: 2026-03-04 09:58:05
 
 ## 2026-03-03
 
+### Health / Recovery
+
+- Steps: 4727
+- Distance: 3.25 km
+- Total kcal burned: 1883
+- Weight: 78.4 kg
+
 **Week 2 · Day 2**
 Finished: 2026-03-03 09:51:22
 
@@ -903,6 +1139,13 @@ Finished: 2026-03-03 09:51:22
   Set 3: 15.0kg x 12 @ RPE 8.5 [target: 15 reps, target RPE: 7.5-8]
 
 ## 2026-03-02
+
+### Health / Recovery
+
+- Steps: 2221
+- Distance: 1.31 km
+- Total kcal burned: 1798
+- Weight: 79.1 kg
 
 **Week 2 · Day 1**
 Finished: 2026-03-02 10:03:42
@@ -935,6 +1178,12 @@ Finished: 2026-03-02 10:03:42
 
 ## 2026-02-28
 
+### Health / Recovery
+
+- Steps: 12678
+- Distance: 8.81 km
+- Total kcal burned: 2110
+
 **Week 1 · Day 5**
 Finished: 2026-02-28 11:52:15
 
@@ -958,6 +1207,12 @@ Finished: 2026-02-28 11:52:15
   Set 3: 105.0kg x 6 @ RPE 7 [target RPE: 6-6.5]
 
 ## 2026-02-26
+
+### Health / Recovery
+
+- Steps: 1962
+- Distance: 1.13 km
+- Total kcal burned: 1781
 
 **Week 1 · Day 4**
 Finished: 2026-02-26 09:38:49
@@ -989,6 +1244,13 @@ Finished: 2026-02-26 09:38:49
   Set 3: 25.0kg x 12 @ RPE 7.5 [target RPE: 9]
 
 ## 2026-02-25
+
+### Health / Recovery
+
+- Steps: 5343
+- Distance: 3.62 km
+- Total kcal burned: 1888
+- Weight: 79.5 kg
 
 **Week 1 · Day 3**
 Finished: 2026-02-25 09:58:39
@@ -1030,6 +1292,13 @@ Finished: 2026-02-25 09:58:39
 
 ## 2026-02-24
 
+### Health / Recovery
+
+- Steps: 2075
+- Distance: 1.21 km
+- Total kcal burned: 1729
+- Weight: 79.3 kg
+
 **Week 1 · Day 2**
 Finished: 2026-02-24 10:07:47
 
@@ -1060,6 +1329,13 @@ Finished: 2026-02-24 10:07:47
   Set 3: 10.0kg x 10 @ RPE 8 [target: 15 reps, target RPE: 8]
 
 ## 2026-02-23
+
+### Health / Recovery
+
+- Steps: 15238
+- Distance: 10.75 km
+- Total kcal burned: 2090
+- Weight: 79.1 kg
 
 **Week 1 · Day 1**
 Finished: 2026-02-23 10:27:40
@@ -1094,6 +1370,12 @@ Finished: 2026-02-23 10:27:40
 
 ## 2026-02-21
 
+### Health / Recovery
+
+- Steps: 16085
+- Distance: 11.13 km
+- Total kcal burned: 2171
+
 **Week 4 · Day 5**
 Finished: 2026-02-21 15:24:55
 
@@ -1114,6 +1396,12 @@ Finished: 2026-02-21 15:24:55
   Set 2: 195.0kg x 1 @ RPE 9.5 [target RPE: 9]
 
 ## 2026-02-19
+
+### Health / Recovery
+
+- Steps: 2349
+- Distance: 1.32 km
+- Total kcal burned: 1727
 
 **Week 4 · Day 4**
 Finished: 2026-02-19 09:42:09
@@ -1143,6 +1431,13 @@ Finished: 2026-02-19 09:42:09
   Set 3: 25.0kg x 13 @ RPE 7 [target: 12 reps, target RPE: 7]
 
 ## 2026-02-18
+
+### Health / Recovery
+
+- Steps: 6318
+- Distance: 4.23 km
+- Total kcal burned: 1870
+- Weight: 79.1 kg
 
 **Week 4 · Day 3**
 Finished: 2026-02-18 10:20:23
@@ -1179,6 +1474,13 @@ Finished: 2026-02-18 10:20:23
 
 ## 2026-02-17
 
+### Health / Recovery
+
+- Steps: 7796
+- Distance: 5.12 km
+- Total kcal burned: 1861
+- Weight: 78.5 kg
+
 **Week 4 · Day 2**
 Finished: 2026-02-17 10:01:57
 
@@ -1208,6 +1510,13 @@ Finished: 2026-02-17 10:01:57
 
 ## 2026-02-16
 
+### Health / Recovery
+
+- Steps: 5819
+- Distance: 3.85 km
+- Total kcal burned: 1928
+- Weight: 78.3 kg
+
 **Week 4 · Day 1**
 Finished: 2026-02-16 10:39:01
 
@@ -1235,6 +1544,12 @@ Finished: 2026-02-16 10:39:01
   Set 3: 40.0kg x 10 @ RPE 8 [target: 15 reps, target RPE: 7]
 
 ## 2026-02-14
+
+### Health / Recovery
+
+- Steps: 9881
+- Distance: 6.78 km
+- Total kcal burned: 2048
 
 **Week 3 · Day 5**
 Finished: 2026-02-14 17:32:54
@@ -1266,6 +1581,12 @@ Finished: 2026-02-14 17:32:54
 
 ## 2026-02-12
 
+### Health / Recovery
+
+- Steps: 13515
+- Distance: 9.54 km
+- Total kcal burned: 2001
+
 **Week 3 · Day 4**
 Finished: 2026-02-12 15:10:28
 
@@ -1295,6 +1616,12 @@ Finished: 2026-02-12 15:10:28
   Set 3: 0kg x 11 @ RPE 9.5 [target: 12 reps, target RPE: 8]
 
 ## 2026-02-11
+
+### Health / Recovery
+
+- Steps: 23359
+- Distance: 16.35 km
+- Total kcal burned: 2590
 
 **Week 3 · Day 3**
 Finished: 2026-02-11 18:03:56
@@ -1332,6 +1659,12 @@ Finished: 2026-02-11 18:03:56
 
 ## 2026-02-10
 
+### Health / Recovery
+
+- Steps: 12220
+- Distance: 8.46 km
+- Total kcal burned: 2173
+
 **Week 3 · Day 2**
 Finished: 2026-02-10 15:12:02
 
@@ -1361,6 +1694,12 @@ Finished: 2026-02-10 15:12:02
   Set 4: 10.0kg x 10 @ RPE 9.5 [target: 15 reps, target RPE: 8]
 
 ## 2026-02-09
+
+### Health / Recovery
+
+- Steps: 10888
+- Distance: 7.60 km
+- Total kcal burned: 2192
 
 **Week 3 · Day 1**
 Finished: 2026-02-09 15:28:21
@@ -1392,6 +1731,12 @@ Finished: 2026-02-09 15:28:21
 
 ## 2026-02-07
 
+### Health / Recovery
+
+- Steps: 15358
+- Distance: 10.39 km
+- Total kcal burned: 1926
+
 **Week 2 · Day 5**
 Finished: 2026-02-07 17:06:42
 
@@ -1420,6 +1765,12 @@ Finished: 2026-02-07 17:06:42
   Set 3: 0kg x 12 @ RPE 8 [target RPE: 7.5]
 
 ## 2026-02-07
+
+### Health / Recovery
+
+- Steps: 15358
+- Distance: 10.39 km
+- Total kcal burned: 1926
 
 **Week 2 · Day 4**
 Finished: 2026-02-07 03:19:23
@@ -1452,6 +1803,12 @@ Finished: 2026-02-07 03:19:23
 
 ## 2026-02-05
 
+### Health / Recovery
+
+- Steps: 8850
+- Distance: 6.03 km
+- Total kcal burned: 1807
+
 **Feb 4 Workout**
 Finished: 2026-02-05 03:09:50
 
@@ -1468,6 +1825,12 @@ Finished: 2026-02-05 03:09:50
   Set 3: 100.0kg x 5 @ RPE 7.5
 
 ## 2026-02-04
+
+### Health / Recovery
+
+- Steps: 4941
+- Distance: 3.09 km
+- Total kcal burned: 1879
 
 **Week 2 · Day 3**
 Finished: 2026-02-04 00:39:28
@@ -1512,6 +1875,12 @@ Finished: 2026-02-04 00:39:28
 
 ## 2026-02-02
 
+### Health / Recovery
+
+- Steps: 6444
+- Distance: 4.34 km
+- Total kcal burned: 2595
+
 **Week 2 · Day 2**
 Finished: 2026-02-02 10:05:07
 
@@ -1542,6 +1911,13 @@ Finished: 2026-02-02 10:05:07
   Set 4: 37.5kg x 15 @ RPE 8.5 [target RPE: 7.5]
 
 ## 2026-02-01
+
+### Health / Recovery
+
+- Steps: 24995
+- Distance: 17.64 km
+- Total kcal burned: 2586
+- Weight: 78.2 kg
 
 **Week 2 · Day 1**
 Finished: 2026-02-01 11:01:32
@@ -1574,6 +1950,13 @@ Finished: 2026-02-01 11:01:32
 
 ## 2026-01-31
 
+### Health / Recovery
+
+- Steps: 2843
+- Distance: 1.72 km
+- Total kcal burned: 1701
+- Weight: 78.8 kg
+
 **Week 1 · Day 5**
 Finished: 2026-01-31 10:17:12
 
@@ -1605,6 +1988,12 @@ Finished: 2026-01-31 10:17:12
   Set 4: 135.0kg x 3 @ RPE 6.5
 
 ## 2026-01-29
+
+### Health / Recovery
+
+- Steps: 3502
+- Distance: 2.23 km
+- Total kcal burned: 1666
 
 **Week 1 · Day 4**
 Finished: 2026-01-29 09:57:58
@@ -1642,6 +2031,13 @@ Finished: 2026-01-29 09:57:58
 
 ## 2026-01-28
 
+### Health / Recovery
+
+- Steps: 1640
+- Distance: 0.98 km
+- Total kcal burned: 1702
+- Weight: 77.3 kg
+
 **Week 1 · Day 3**
 Finished: 2026-01-28 10:13:19
 
@@ -1672,6 +2068,12 @@ Finished: 2026-01-28 10:13:19
 
 ## 2026-01-27
 
+### Health / Recovery
+
+- Steps: 2441
+- Distance: 1.40 km
+- Total kcal burned: 1761
+
 **Week 1 · Day 2**
 Finished: 2026-01-27 10:14:41
 
@@ -1700,6 +2102,13 @@ Finished: 2026-01-27 10:14:41
   Set 3: 27.5kg x 4 @ RPE 8 [target RPE: 8]
 
 ## 2026-01-26
+
+### Health / Recovery
+
+- Steps: 2108
+- Distance: 1.23 km
+- Total kcal burned: 1820
+- Weight: 77.5 kg
 
 **Week 1 · Day 1**
 Finished: 2026-01-26 10:13:24
@@ -1734,6 +2143,12 @@ Finished: 2026-01-26 10:13:24
 
 ## 2026-01-24
 
+### Health / Recovery
+
+- Steps: 11035
+- Distance: 7.46 km
+- Total kcal burned: 1757
+
 **Week 4 · Day 5**
 Finished: 2026-01-24 10:20:41
 
@@ -1764,6 +2179,13 @@ Finished: 2026-01-24 10:20:41
   Set 4: 25.0kg x 12 @ RPE 9.5 [target RPE: 9]
 
 ## 2026-01-22
+
+### Health / Recovery
+
+- Steps: 2076
+- Distance: 1.14 km
+- Total kcal burned: 1690
+- Weight: 78.2 kg
 
 **Week 4 · Day 4**
 Finished: 2026-01-22 09:44:04
@@ -1796,6 +2218,13 @@ Finished: 2026-01-22 09:44:04
   Set 4: 25.0kg x 10 @ RPE 10 [target: 15 reps, target RPE: 9]
 
 ## 2026-01-21
+
+### Health / Recovery
+
+- Steps: 2226
+- Distance: 1.39 km
+- Total kcal burned: 1757
+- Weight: 78.2 kg
 
 **Week 4 · Day 3**
 Finished: 2026-01-21 10:38:49
@@ -1840,6 +2269,13 @@ Finished: 2026-01-21 10:38:49
 
 ## 2026-01-20
 
+### Health / Recovery
+
+- Steps: 2692
+- Distance: 1.59 km
+- Total kcal burned: 1732
+- Weight: 77.9 kg
+
 **Week 4 · Day 2**
 Finished: 2026-01-20 10:33:08
 
@@ -1870,6 +2306,13 @@ Finished: 2026-01-20 10:33:08
   Set 4: 10.0kg x 8 @ RPE 9.5 [target: 15 reps, target RPE: 8]
 
 ## 2026-01-19
+
+### Health / Recovery
+
+- Steps: 2128
+- Distance: 1.22 km
+- Total kcal burned: 1714
+- Weight: 77.9 kg
 
 **Week 4 · Day 1**
 Finished: 2026-01-19 10:24:19
@@ -1902,6 +2345,12 @@ Finished: 2026-01-19 10:24:19
 
 ## 2026-01-17
 
+### Health / Recovery
+
+- Steps: 10290
+- Distance: 7.02 km
+- Total kcal burned: 1943
+
 **Week 3 · Day 5**
 Finished: 2026-01-17 10:12:26
 
@@ -1932,6 +2381,12 @@ Finished: 2026-01-17 10:12:26
   Set 4: 27.5kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
 ## 2026-01-15
+
+### Health / Recovery
+
+- Steps: 2247
+- Distance: 1.31 km
+- Total kcal burned: 1786
 
 **Week 3 · Day 4**
 Finished: 2026-01-15 09:49:26
@@ -1964,6 +2419,13 @@ Finished: 2026-01-15 09:49:26
   Set 4: 25.0kg x 8 @ RPE 10 [target: 12 reps, target RPE: 9]
 
 ## 2026-01-14
+
+### Health / Recovery
+
+- Steps: 3121
+- Distance: 1.77 km
+- Total kcal burned: 1751
+- Weight: 78.2 kg
 
 **Week 3 · Day 3**
 Finished: 2026-01-14 10:33:10
@@ -2004,6 +2466,13 @@ Finished: 2026-01-14 10:33:10
 
 ## 2026-01-13
 
+### Health / Recovery
+
+- Steps: 2598
+- Distance: 1.54 km
+- Total kcal burned: 1824
+- Weight: 77.7 kg
+
 **Week 3 · Day 2**
 Finished: 2026-01-13 09:58:20
 
@@ -2034,6 +2503,13 @@ Finished: 2026-01-13 09:58:20
 
 ## 2026-01-12
 
+### Health / Recovery
+
+- Steps: 1532
+- Distance: 0.87 km
+- Total kcal burned: 1750
+- Weight: 77.7 kg
+
 **Week 3 · Day 1**
 Finished: 2026-01-12 10:21:55
 
@@ -2062,6 +2538,12 @@ Finished: 2026-01-12 10:21:55
   Set 3: 35.0kg x 15
 
 ## 2026-01-10
+
+### Health / Recovery
+
+- Steps: 11163
+- Distance: 7.76 km
+- Total kcal burned: 2040
 
 **Week 2 · Day 5**
 Finished: 2026-01-10 10:23:39
@@ -2094,6 +2576,13 @@ Finished: 2026-01-10 10:23:39
 
 ## 2026-01-08
 
+### Health / Recovery
+
+- Steps: 6430
+- Distance: 4.55 km
+- Total kcal burned: 1897
+- Weight: 78.5 kg
+
 **Week 2 · Day 4**
 Finished: 2026-01-08 11:55:00
 
@@ -2120,6 +2609,13 @@ Finished: 2026-01-08 11:55:00
   Set 4: 25.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
 ## 2026-01-07
+
+### Health / Recovery
+
+- Steps: 2123
+- Distance: 1.34 km
+- Total kcal burned: 1849
+- Weight: 78.4 kg
 
 **Week 2 · Day 3**
 Finished: 2026-01-07 10:32:35
@@ -2158,6 +2654,13 @@ Finished: 2026-01-07 10:32:35
 
 ## 2026-01-06
 
+### Health / Recovery
+
+- Steps: 1819
+- Distance: 1.09 km
+- Total kcal burned: 1818
+- Weight: 78.5 kg
+
 **Week 2 · Day 2**
 Finished: 2026-01-06 10:14:40
 
@@ -2189,6 +2692,13 @@ Finished: 2026-01-06 10:14:40
 
 ## 2026-01-05
 
+### Health / Recovery
+
+- Steps: 2893
+- Distance: 1.82 km
+- Total kcal burned: 1830
+- Weight: 78.2 kg
+
 **Week 2 · Day 1**
 Finished: 2026-01-05 10:09:55
 
@@ -2219,6 +2729,12 @@ Finished: 2026-01-05 10:09:55
   Set 4: 0kg x 12 @ RPE 7.5 [target RPE: 9]
 
 ## 2026-01-03
+
+### Health / Recovery
+
+- Steps: 13830
+- Distance: 9.66 km
+- Total kcal burned: 2096
 
 **Week 1 · Day 5**
 Finished: 2026-01-03 10:18:26
@@ -2252,6 +2768,12 @@ Finished: 2026-01-03 10:18:26
 
 ## 2026-01-01
 
+### Health / Recovery
+
+- Steps: 3899
+- Distance: 2.46 km
+- Total kcal burned: 1662
+
 **Week 1 · Day 4**
 Finished: 2026-01-01 09:48:28
 
@@ -2284,6 +2806,13 @@ Finished: 2026-01-01 09:48:28
   Set 4: 20.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 9]
 
 ## 2025-12-31
+
+### Health / Recovery
+
+- Steps: 15115
+- Distance: 10.60 km
+- Total kcal burned: 2247
+- Weight: 77.9 kg
 
 **Week 1 · Day 3**
 Finished: 2025-12-31 10:25:31
@@ -2324,6 +2853,13 @@ Finished: 2025-12-31 10:25:31
 
 ## 2025-12-30
 
+### Health / Recovery
+
+- Steps: 5312
+- Distance: 3.53 km
+- Total kcal burned: 1946
+- Weight: 77.3 kg
+
 **Week 1 · Day 2**
 Finished: 2025-12-30 10:30:21
 
@@ -2359,6 +2895,13 @@ Finished: 2025-12-30 10:30:21
 
 ## 2025-12-29
 
+### Health / Recovery
+
+- Steps: 3875
+- Distance: 2.60 km
+- Total kcal burned: 1725
+- Weight: 77.4 kg
+
 **Week 1 · Day 1**
 Finished: 2025-12-29 10:20:42
 
@@ -2388,6 +2931,12 @@ Finished: 2025-12-29 10:20:42
   Set 3: 0kg x 10 [target RPE: 8]
 
 ## 2025-12-27
+
+### Health / Recovery
+
+- Steps: 10988
+- Distance: 7.76 km
+- Total kcal burned: 1981
 
 **Week 3 · Day 5**
 Finished: 2025-12-27 10:19:11
@@ -2426,6 +2975,12 @@ Finished: 2025-12-27 10:19:11
 
 ## 2025-12-24
 
+### Health / Recovery
+
+- Steps: 18690
+- Distance: 12.80 km
+- Total kcal burned: 2164
+
 **Week 3 · Day 4**
 Finished: 2025-12-24 09:48:58
 
@@ -2459,6 +3014,12 @@ Finished: 2025-12-24 09:48:58
 
 ## 2025-12-22
 
+### Health / Recovery
+
+- Steps: 15705
+- Distance: 10.62 km
+- Total kcal burned: 2123
+
 **Week 3 · Day 2**
 Finished: 2025-12-22 18:53:06
 
@@ -2488,6 +3049,13 @@ Finished: 2025-12-22 18:53:06
   Set 4: 12.5kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
 ## 2025-12-21
+
+### Health / Recovery
+
+- Steps: 2892
+- Distance: 1.68 km
+- Total kcal burned: 2347
+- Weight: 77.8 kg
 
 **Week 3 · Day 1**
 Finished: 2025-12-21 10:14:05
@@ -2521,6 +3089,13 @@ Finished: 2025-12-21 10:14:05
 
 ## 2025-12-20
 
+### Health / Recovery
+
+- Steps: 10587
+- Distance: 7.39 km
+- Total kcal burned: 1827
+- Weight: 77.8 kg
+
 **Week 2 · Day 5**
 Finished: 2025-12-20 10:14:33
 
@@ -2544,6 +3119,13 @@ Finished: 2025-12-20 10:14:33
   Set 3: 95.0kg x 8 @ RPE 7 [target RPE: 70]
 
 ## 2025-12-18
+
+### Health / Recovery
+
+- Steps: 1901
+- Distance: 1.13 km
+- Total kcal burned: 1737
+- Weight: 77.5 kg
 
 **Week 2 · Day 4**
 Finished: 2025-12-18 09:55:48
@@ -2577,6 +3159,13 @@ Finished: 2025-12-18 09:55:48
 
 ## 2025-12-17
 
+### Health / Recovery
+
+- Steps: 3382
+- Distance: 2.14 km
+- Total kcal burned: 1700
+- Weight: 77.2 kg
+
 **Week 2 · Day 3**
 Finished: 2025-12-17 10:03:51
 
@@ -2606,6 +3195,13 @@ Finished: 2025-12-17 10:03:51
   Set 4: 20.0kg x 8 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
 ## 2025-12-16
+
+### Health / Recovery
+
+- Steps: 2120
+- Distance: 1.23 km
+- Total kcal burned: 1768
+- Weight: 77.5 kg
 
 **Week 2 · Day 2**
 Finished: 2025-12-16 09:53:22
@@ -2638,6 +3234,13 @@ Finished: 2025-12-16 09:53:22
 
 ## 2025-12-15
 
+### Health / Recovery
+
+- Steps: 2741
+- Distance: 1.63 km
+- Total kcal burned: 1737
+- Weight: 77.5 kg
+
 **Week 2 · Day 1**
 Finished: 2025-12-15 10:16:18
 
@@ -2669,6 +3272,12 @@ Finished: 2025-12-15 10:16:18
   Set 4: 15.0kg x 11 [target: 10 reps, target RPE: 8.5]
 
 ## 2025-12-13
+
+### Health / Recovery
+
+- Steps: 13473
+- Distance: 9.33 km
+- Total kcal burned: 1830
 
 **Week 1 · Day 5**
 Finished: 2025-12-13 10:17:24
@@ -2709,6 +3318,12 @@ Finished: 2025-12-13 10:17:24
 
 ## 2025-12-11
 
+### Health / Recovery
+
+- Steps: 6398
+- Distance: 4.32 km
+- Total kcal burned: 1940
+
 **Week 1 · Day 4**
 Finished: 2025-12-11 09:21:10
 
@@ -2747,6 +3362,13 @@ Finished: 2025-12-11 09:21:10
 
 ## 2025-12-10
 
+### Health / Recovery
+
+- Steps: 2144
+- Distance: 1.32 km
+- Total kcal burned: 1811
+- Weight: 77 kg
+
 **Week 1 · Day 3**
 Finished: 2025-12-10 09:58:19
 
@@ -2784,6 +3406,12 @@ Finished: 2025-12-10 09:58:19
   Set 4: 20.0kg x 10 [target RPE: 9]
 
 ## 2025-12-09
+
+### Health / Recovery
+
+- Steps: 2722
+- Distance: 1.67 km
+- Total kcal burned: 1742
 
 **Week 1 · Day 2**
 Finished: 2025-12-09 09:34:20
@@ -2825,6 +3453,13 @@ Finished: 2025-12-09 09:34:20
 
 ## 2025-12-08
 
+### Health / Recovery
+
+- Steps: 2316
+- Distance: 1.40 km
+- Total kcal burned: 1791
+- Weight: 77.6 kg
+
 **Week 1 · Day 1**
 Finished: 2025-12-08 09:52:51
 
@@ -2865,6 +3500,13 @@ Finished: 2025-12-08 09:52:51
 
 ## 2025-12-05
 
+### Health / Recovery
+
+- Steps: 3259
+- Distance: 1.97 km
+- Total kcal burned: 1650
+- Weight: 77.4 kg
+
 **Dec 5 Workout**
 Finished: 2025-12-05 12:20:19
 
@@ -2881,6 +3523,12 @@ Finished: 2025-12-05 12:20:19
   Set 1: 140.0kg x 11 @ RPE 8.5
 
 ## 2025-12-04
+
+### Health / Recovery
+
+- Steps: 2578
+- Distance: 1.59 km
+- Total kcal burned: 1807
 
 **Dec 4 Workout**
 Finished: 2025-12-04 10:16:27
@@ -2901,6 +3549,13 @@ Finished: 2025-12-04 10:16:27
 
 ## 2025-12-01
 
+### Health / Recovery
+
+- Steps: 8422
+- Distance: 5.91 km
+- Total kcal burned: 2045
+- Weight: 77.6 kg
+
 **Week 1 · Day 2**
 Finished: 2025-12-01 10:08:50
 
@@ -2917,6 +3572,12 @@ Finished: 2025-12-01 10:08:50
   Set 3: 95.0kg x 2 [target RPE: 70]
 
 ## 2025-11-29
+
+### Health / Recovery
+
+- Steps: 14269
+- Distance: 9.88 km
+- Total kcal burned: 2273
 
 **Week 1 · Day 1**
 Finished: 2025-11-29 11:24:30
@@ -2936,6 +3597,12 @@ Finished: 2025-11-29 11:24:30
   Set 3: 140.0kg x 1 @ RPE 6 [target RPE: 70]
 
 ## 2025-11-27
+
+### Health / Recovery
+
+- Steps: 1516
+- Distance: 0.85 km
+- Total kcal burned: 1791
 
 **Week 4 · Day 5**
 Finished: 2025-11-27 10:02:52
@@ -2965,6 +3632,13 @@ Finished: 2025-11-27 10:02:52
   Set 3: 70.0kg x 8 @ RPE 6 [target RPE: 9]
 
 ## 2025-11-26
+
+### Health / Recovery
+
+- Steps: 2912
+- Distance: 1.85 km
+- Total kcal burned: 1763
+- Weight: 78 kg
 
 **Week 4 · Day 4**
 Finished: 2025-11-26 10:09:26
@@ -3001,6 +3675,13 @@ Finished: 2025-11-26 10:09:26
 
 ## 2025-11-25
 
+### Health / Recovery
+
+- Steps: 7559
+- Distance: 5.10 km
+- Total kcal burned: 1915
+- Weight: 77.7 kg
+
 **Week 4 · Day 3**
 Finished: 2025-11-25 09:03:18
 
@@ -3031,6 +3712,12 @@ Finished: 2025-11-25 09:03:18
   Set 4: 45.0kg x 13 [target RPE: 9]
 
 ## 2025-11-24
+
+### Health / Recovery
+
+- Steps: 13315
+- Distance: 9.15 km
+- Total kcal burned: 2073
 
 **Week 4 · Day 2**
 Finished: 2025-11-24 09:41:24
@@ -3064,6 +3751,12 @@ Finished: 2025-11-24 09:41:24
 
 ## 2025-11-22
 
+### Health / Recovery
+
+- Steps: 12104
+- Distance: 8.25 km
+- Total kcal burned: 2131
+
 **Week 4 · Day 1**
 Finished: 2025-11-22 10:12:38
 
@@ -3095,6 +3788,12 @@ Finished: 2025-11-22 10:12:38
 
 ## 2025-11-20
 
+### Health / Recovery
+
+- Steps: 2370
+- Distance: 1.39 km
+- Total kcal burned: 1732
+
 **Week 3 · Day 5**
 Finished: 2025-11-20 09:38:41
 
@@ -3124,6 +3823,12 @@ Finished: 2025-11-20 09:38:41
   Set 3: 70.0kg x 8 @ RPE 6 [target RPE: 9]
 
 ## 2025-11-19
+
+### Health / Recovery
+
+- Steps: 3560
+- Distance: 2.31 km
+- Total kcal burned: 2019
 
 **Week 3 · Day 4**
 Finished: 2025-11-19 09:32:39
@@ -3157,6 +3862,12 @@ Finished: 2025-11-19 09:32:39
 
 ## 2025-11-18
 
+### Health / Recovery
+
+- Steps: 1628
+- Distance: 0.96 km
+- Total kcal burned: 1802
+
 **Week 3 · Day 3**
 Finished: 2025-11-18 10:03:42
 
@@ -3187,6 +3898,12 @@ Finished: 2025-11-18 10:03:42
   Set 4: 45.0kg x 13 [target RPE: 9]
 
 ## 2025-11-17
+
+### Health / Recovery
+
+- Steps: 2367
+- Distance: 1.50 km
+- Total kcal burned: 1748
 
 **Week 3 · Day 2**
 Finished: 2025-11-17 09:37:25
@@ -3221,6 +3938,12 @@ Finished: 2025-11-17 09:37:25
 
 ## 2025-11-15
 
+### Health / Recovery
+
+- Steps: 11392
+- Distance: 7.70 km
+- Total kcal burned: 1986
+
 **Week 3 · Day 1**
 Finished: 2025-11-15 10:07:44
 
@@ -3254,6 +3977,12 @@ Finished: 2025-11-15 10:07:44
 
 ## 2025-11-13
 
+### Health / Recovery
+
+- Steps: 3045
+- Distance: 1.82 km
+- Total kcal burned: 1726
+
 **Week 2 · Day 5**
 Finished: 2025-11-13 09:45:07
 
@@ -3283,6 +4012,12 @@ Finished: 2025-11-13 09:45:07
   Set 3: 70.0kg x 8 @ RPE 6 [target RPE: 9]
 
 ## 2025-11-12
+
+### Health / Recovery
+
+- Steps: 1625
+- Distance: 0.90 km
+- Total kcal burned: 1764
 
 **Week 2 · Day 4**
 Finished: 2025-11-12 09:19:28
@@ -3317,6 +4052,10 @@ Finished: 2025-11-12 09:19:28
 
 ## 2025-11-11
 
+### Health / Recovery
+
+- Total kcal burned: 1650
+
 **Week 2 · Day 3**
 Finished: 2025-11-11 09:51:42
 
@@ -3346,6 +4085,13 @@ Finished: 2025-11-11 09:51:42
   Set 4: 50.0kg x 12 [target RPE: 9]
 
 ## 2025-11-09
+
+### Health / Recovery
+
+- Steps: 15131
+- Distance: 12.26 km
+- Total kcal burned: 1650
+- Sleep: 5.55 h asleep (5.63 h in bed, deep 0.78 h, REM 1.07 h, awake 0.08 h)
 
 **Week 2 · Day 2**
 Finished: 2025-11-09 08:38:18
@@ -3380,6 +4126,13 @@ Finished: 2025-11-09 08:38:18
 
 ## 2025-11-08
 
+### Health / Recovery
+
+- Steps: 20196
+- Distance: 16.36 km
+- Total kcal burned: 1650
+- Sleep: 5.93 h asleep (6.18 h in bed, deep 1.42 h, REM 0.70 h, awake 0.25 h)
+
 **Week 2 · Day 1**
 Finished: 2025-11-08 09:01:09
 
@@ -3413,6 +4166,13 @@ Finished: 2025-11-08 09:01:09
 
 ## 2025-11-06
 
+### Health / Recovery
+
+- Steps: 5014
+- Distance: 4.11 km
+- Total kcal burned: 1650
+- Sleep: 6.07 h asleep (6.37 h in bed, deep 0.93 h, REM 1.02 h, awake 0.30 h)
+
 **Week 1 · Day 5**
 Finished: 2025-11-06 08:44:50
 
@@ -3444,6 +4204,13 @@ Finished: 2025-11-06 08:44:50
   Set 3: 70.0kg x 8 [target RPE: 9]
 
 ## 2025-11-05
+
+### Health / Recovery
+
+- Steps: 5630
+- Distance: 4.57 km
+- Total kcal burned: 1650
+- Sleep: 6.38 h asleep (6.40 h in bed, deep 1.13 h, REM 1.20 h, awake 0.02 h)
 
 **Week 1 · Day 4**
 Finished: 2025-11-05 08:41:35
@@ -3478,6 +4245,13 @@ Finished: 2025-11-05 08:41:35
 
 ## 2025-11-04
 
+### Health / Recovery
+
+- Steps: 4655
+- Distance: 3.82 km
+- Total kcal burned: 1650
+- Sleep: 6.32 h asleep (6.40 h in bed, deep 0.72 h, REM 1.57 h, awake 0.08 h)
+
 **Week 1 · Day 3**
 Finished: 2025-11-04 08:52:11
 
@@ -3508,6 +4282,12 @@ Finished: 2025-11-04 08:52:11
   Set 4: 47.5kg x 12 [target RPE: 9]
 
 ## 2025-11-03
+
+### Health / Recovery
+
+- Steps: 21095
+- Distance: 16.66 km
+- Total kcal burned: 2026
 
 **Week 1 · Day 2**
 Finished: 2025-11-03 08:23:50
@@ -3544,6 +4324,12 @@ Finished: 2025-11-03 08:23:50
 
 ## 2025-11-01
 
+### Health / Recovery
+
+- Steps: 15902
+- Distance: 10.64 km
+- Total kcal burned: 2404
+
 **Week 1 · Day 1**
 Finished: 2025-11-01 08:53:40
 
@@ -3578,6 +4364,12 @@ Finished: 2025-11-01 08:53:40
 
 ## 2025-10-30
 
+### Health / Recovery
+
+- Steps: 1411
+- Distance: 0.72 km
+- Total kcal burned: 1780
+
 **Week 4 · Day 5**
 Finished: 2025-10-30 08:57:17
 
@@ -3609,6 +4401,12 @@ Finished: 2025-10-30 08:57:17
   Set 3: 75.0kg x 8 @ RPE 7 [target RPE: 9]
 
 ## 2025-10-29
+
+### Health / Recovery
+
+- Steps: 1940
+- Distance: 1.22 km
+- Total kcal burned: 1742
 
 **Week 4 · Day 4**
 Finished: 2025-10-29 08:35:19
@@ -3644,6 +4442,12 @@ Finished: 2025-10-29 08:35:19
 
 ## 2025-10-28
 
+### Health / Recovery
+
+- Steps: 1277
+- Distance: 0.70 km
+- Total kcal burned: 1820
+
 **Week 4 · Day 3**
 Finished: 2025-10-28 09:05:11
 
@@ -3678,6 +4482,12 @@ Finished: 2025-10-28 09:05:11
 
 ## 2025-10-27
 
+### Health / Recovery
+
+- Steps: 2185
+- Distance: 1.24 km
+- Total kcal burned: 1718
+
 **Week 4 · Day 2**
 Finished: 2025-10-27 08:29:28
 
@@ -3711,6 +4521,12 @@ Finished: 2025-10-27 08:29:28
   Set 4: 12.5kg x 12 [target RPE: 9]
 
 ## 2025-10-26
+
+### Health / Recovery
+
+- Steps: 12730
+- Distance: 8.91 km
+- Total kcal burned: 2169
 
 **Oct 26 Workout**
 Finished: 2025-10-26 09:34:56
@@ -3748,6 +4564,12 @@ Finished: 2025-10-26 09:34:56
 
 ## 2025-10-25
 
+### Health / Recovery
+
+- Steps: 11020
+- Distance: 7.76 km
+- Total kcal burned: 2029
+
 **Week 4 · Day 1**
 Finished: 2025-10-25 10:07:31
 
@@ -3782,6 +4604,12 @@ Finished: 2025-10-25 10:07:31
   Set 4: 20.0kg x 9 [target RPE: 9]
 
 ## 2025-10-24
+
+### Health / Recovery
+
+- Steps: 6749
+- Distance: 4.68 km
+- Total kcal burned: 1954
 
 **Week 3 · Day 5**
 Finished: 2025-10-24 07:44:37
@@ -3823,6 +4651,12 @@ Finished: 2025-10-24 07:44:37
 
 ## 2025-10-23
 
+### Health / Recovery
+
+- Steps: 3656
+- Distance: 2.18 km
+- Total kcal burned: 1733
+
 **Week 3 · Day 4**
 Finished: 2025-10-23 07:31:57
 
@@ -3861,6 +4695,10 @@ Finished: 2025-10-23 07:31:57
   Set 4: 12.5kg x 7 [target RPE: 9]
 
 ## 2025-10-20
+
+### Health / Recovery
+
+- Total kcal burned: 1650
 
 **Week 3 · Day 3**
 Finished: 2025-10-20 14:30:17
@@ -4537,6 +5375,10 @@ Finished: 2025-09-27 09:52:59
 
 ## 2025-09-25
 
+### Health / Recovery
+
+- Total kcal burned: 1650
+
 **Week 4 · Day 5**
 Finished: 2025-09-25 09:57:18
 
@@ -4569,6 +5411,12 @@ Finished: 2025-09-25 09:57:18
 
 ## 2025-09-24
 
+### Health / Recovery
+
+- Steps: 520
+- Distance: 0.22 km
+- Total kcal burned: 1839
+
 **Week 4 · Day 4**
 Finished: 2025-09-24 09:49:58
 
@@ -4590,6 +5438,12 @@ Finished: 2025-09-24 09:49:58
 
 
 ## 2025-09-23
+
+### Health / Recovery
+
+- Steps: 1129
+- Distance: 0.63 km
+- Total kcal burned: 1852
 
 **Week 4 · Day 3**
 Finished: 2025-09-23 09:46:41
@@ -4614,6 +5468,12 @@ Finished: 2025-09-23 09:46:41
 
 
 ## 2025-09-22
+
+### Health / Recovery
+
+- Steps: 6127
+- Distance: 4.19 km
+- Total kcal burned: 2040
 
 **Week 4 · Day 2**
 Finished: 2025-09-22 09:26:24
@@ -4646,6 +5506,12 @@ Finished: 2025-09-22 09:26:24
 
 ## 2025-09-20
 
+### Health / Recovery
+
+- Steps: 19988
+- Distance: 13.95 km
+- Total kcal burned: 2284
+
 **Week 4 · Day 1**
 Finished: 2025-09-20 09:47:40
 
@@ -4671,6 +5537,12 @@ Finished: 2025-09-20 09:47:40
   Set 4: 102.5kg x 7 [target RPE: 9]
 
 ## 2025-09-18
+
+### Health / Recovery
+
+- Steps: 4254
+- Distance: 2.84 km
+- Total kcal burned: 1845
 
 **Week 3 · Day 5**
 Finished: 2025-09-18 09:43:46
@@ -4708,6 +5580,12 @@ Finished: 2025-09-18 09:43:46
 
 ## 2025-09-17
 
+### Health / Recovery
+
+- Steps: 624
+- Distance: 0.32 km
+- Total kcal burned: 1842
+
 **Week 3 · Day 4**
 Finished: 2025-09-17 09:43:24
 
@@ -4728,6 +5606,12 @@ Finished: 2025-09-17 09:43:24
 
 
 ## 2025-09-16
+
+### Health / Recovery
+
+- Steps: 1118
+- Distance: 0.61 km
+- Total kcal burned: 1772
 
 **Week 3 · Day 3**
 Finished: 2025-09-16 09:50:05
@@ -4752,6 +5636,12 @@ Finished: 2025-09-16 09:50:05
 
 
 ## 2025-09-15
+
+### Health / Recovery
+
+- Steps: 1124
+- Distance: 0.62 km
+- Total kcal burned: 1663
 
 **Week 3 · Day 2**
 Finished: 2025-09-15 09:24:16
@@ -4784,6 +5674,12 @@ Finished: 2025-09-15 09:24:16
 
 ## 2025-09-13
 
+### Health / Recovery
+
+- Steps: 12035
+- Distance: 8.04 km
+- Total kcal burned: 2017
+
 **Week 3 · Day 1**
 Finished: 2025-09-13 09:56:07
 
@@ -4809,6 +5705,12 @@ Finished: 2025-09-13 09:56:07
   Set 4: 100.0kg x 10 [target RPE: 9]
 
 ## 2025-09-11
+
+### Health / Recovery
+
+- Steps: 1509
+- Distance: 0.79 km
+- Total kcal burned: 1816
 
 **Week 2 · Day 5**
 Finished: 2025-09-11 09:30:37
@@ -4841,6 +5743,12 @@ Finished: 2025-09-11 09:30:37
 
 ## 2025-09-10
 
+### Health / Recovery
+
+- Steps: 1910
+- Distance: 1.11 km
+- Total kcal burned: 1650
+
 **Week 2 · Day 4**
 Finished: 2025-09-10 10:01:50
 
@@ -4863,6 +5771,12 @@ Finished: 2025-09-10 10:01:50
 
 
 ## 2025-09-09
+
+### Health / Recovery
+
+- Steps: 3051
+- Distance: 1.95 km
+- Total kcal burned: 1785
 
 **Week 2 · Day 3**
 Finished: 2025-09-09 09:43:18
@@ -4887,6 +5801,12 @@ Finished: 2025-09-09 09:43:18
 
 
 ## 2025-09-08
+
+### Health / Recovery
+
+- Steps: 753
+- Distance: 0.43 km
+- Total kcal burned: 1661
 
 **Week 2 · Day 2**
 Finished: 2025-09-08 09:26:26
@@ -4919,6 +5839,12 @@ Finished: 2025-09-08 09:26:26
 
 ## 2025-09-06
 
+### Health / Recovery
+
+- Steps: 3497
+- Distance: 2.34 km
+- Total kcal burned: 1788
+
 **Week 2 · Day 1**
 Finished: 2025-09-06 09:56:43
 
@@ -4945,6 +5871,12 @@ Finished: 2025-09-06 09:56:43
   Set 4: 130.0kg x 8 [target RPE: 9]
 
 ## 2025-09-04
+
+### Health / Recovery
+
+- Steps: 4357
+- Distance: 2.92 km
+- Total kcal burned: 1795
 
 **Week 1 · Day 5**
 Finished: 2025-09-04 09:55:54
@@ -4978,6 +5910,12 @@ Finished: 2025-09-04 09:55:54
 
 ## 2025-09-03
 
+### Health / Recovery
+
+- Steps: 1328
+- Distance: 0.76 km
+- Total kcal burned: 1785
+
 **Week 1 · Day 4**
 Finished: 2025-09-03 09:52:35
 
@@ -4998,6 +5936,12 @@ Finished: 2025-09-03 09:52:35
 
 
 ## 2025-09-02
+
+### Health / Recovery
+
+- Steps: 2310
+- Distance: 1.40 km
+- Total kcal burned: 1692
 
 **Week 1 · Day 3**
 Finished: 2025-09-02 09:42:56
@@ -5022,6 +5966,12 @@ Finished: 2025-09-02 09:42:56
 
 
 ## 2025-09-01
+
+### Health / Recovery
+
+- Steps: 2271
+- Distance: 1.42 km
+- Total kcal burned: 1838
 
 **Week 1 · Day 2**
 Finished: 2025-09-01 09:19:54
@@ -5054,6 +6004,12 @@ Finished: 2025-09-01 09:19:54
 
 ## 2025-08-30
 
+### Health / Recovery
+
+- Steps: 12265
+- Distance: 8.41 km
+- Total kcal burned: 1930
+
 **Week 1 · Day 1**
 Finished: 2025-08-30 09:50:30
 
@@ -5079,6 +6035,12 @@ Finished: 2025-08-30 09:50:30
   Set 4: 130.0kg x 7 [target RPE: 9]
 
 ## 2025-08-28
+
+### Health / Recovery
+
+- Steps: 1821
+- Distance: 1.16 km
+- Total kcal burned: 1865
 
 **Week 5 · Day 5**
 Finished: 2025-08-28 09:55:01
@@ -5112,6 +6074,12 @@ Finished: 2025-08-28 09:55:01
 
 ## 2025-08-27
 
+### Health / Recovery
+
+- Steps: 2422
+- Distance: 1.54 km
+- Total kcal burned: 1773
+
 **Week 5 · Day 4**
 Finished: 2025-08-27 09:50:26
 
@@ -5132,6 +6100,12 @@ Finished: 2025-08-27 09:50:26
 
 
 ## 2025-08-26
+
+### Health / Recovery
+
+- Steps: 2324
+- Distance: 1.45 km
+- Total kcal burned: 1774
 
 **Week 5 · Day 3**
 Finished: 2025-08-26 09:47:34
@@ -5155,6 +6129,12 @@ Finished: 2025-08-26 09:47:34
 
 
 ## 2025-08-25
+
+### Health / Recovery
+
+- Steps: 1798
+- Distance: 1.08 km
+- Total kcal burned: 1650
 
 **Week 5 · Day 2**
 Finished: 2025-08-25 09:37:54
@@ -5186,6 +6166,12 @@ Finished: 2025-08-25 09:37:54
 
 ## 2025-08-23
 
+### Health / Recovery
+
+- Steps: 10756
+- Distance: 7.28 km
+- Total kcal burned: 2210
+
 **Week 5 · Day 1**
 Finished: 2025-08-23 10:01:50
 
@@ -5211,6 +6197,12 @@ Finished: 2025-08-23 10:01:50
   Set 4: 130.0kg x 8 [target RPE: 9]
 
 ## 2025-08-21
+
+### Health / Recovery
+
+- Steps: 8026
+- Distance: 5.49 km
+- Total kcal burned: 2023
 
 **Week 4 · Day 5**
 Finished: 2025-08-21 08:44:21
@@ -5245,6 +6237,12 @@ Finished: 2025-08-21 08:44:21
 
 ## 2025-08-20
 
+### Health / Recovery
+
+- Steps: 2191
+- Distance: 1.42 km
+- Total kcal burned: 1810
+
 **Week 4 · Day 4**
 Finished: 2025-08-20 09:34:15
 
@@ -5265,6 +6263,12 @@ Finished: 2025-08-20 09:34:15
 
 
 ## 2025-08-19
+
+### Health / Recovery
+
+- Steps: 3347
+- Distance: 1.98 km
+- Total kcal burned: 1868
 
 **Week 4 · Day 3**
 Finished: 2025-08-19 09:29:37
@@ -5290,6 +6294,12 @@ Finished: 2025-08-19 09:29:37
 
 ## 2025-08-17
 
+### Health / Recovery
+
+- Steps: 8141
+- Distance: 5.58 km
+- Total kcal burned: 1918
+
 **Week 4 · Day 2**
 Finished: 2025-08-17 15:51:02
 
@@ -5314,6 +6324,12 @@ Finished: 2025-08-17 15:51:02
 
 
 ## 2025-08-16
+
+### Health / Recovery
+
+- Steps: 13049
+- Distance: 8.91 km
+- Total kcal burned: 1673
 
 **Week 4 · Day 1**
 Finished: 2025-08-16 16:07:41
@@ -5341,6 +6357,12 @@ Finished: 2025-08-16 16:07:41
 
 ## 2025-08-15
 
+### Health / Recovery
+
+- Steps: 27574
+- Distance: 19.62 km
+- Total kcal burned: 2737
+
 **Aug 15 Workout**
 Finished: 2025-08-15 15:56:02
 
@@ -5352,6 +6374,12 @@ Finished: 2025-08-15 15:56:02
   Set 4: 100.0kg x 7 @ RPE 9.5
 
 ## 2025-08-14
+
+### Health / Recovery
+
+- Steps: 18275
+- Distance: 12.95 km
+- Total kcal burned: 2535
 
 **Week 3 · Day 5**
 Finished: 2025-08-14 14:49:37
@@ -5381,6 +6409,12 @@ Finished: 2025-08-14 14:49:37
 
 ## 2025-08-13
 
+### Health / Recovery
+
+- Steps: 13453
+- Distance: 9.45 km
+- Total kcal burned: 2328
+
 **Week 3 · Day 4**
 Finished: 2025-08-13 14:50:07
 
@@ -5401,6 +6435,12 @@ Finished: 2025-08-13 14:50:07
 
 
 ## 2025-08-12
+
+### Health / Recovery
+
+- Steps: 12595
+- Distance: 8.84 km
+- Total kcal burned: 2187
 
 **Week 3 · Day 3**
 Finished: 2025-08-12 14:53:32
@@ -5425,6 +6465,12 @@ Finished: 2025-08-12 14:53:32
 
 
 ## 2025-08-11
+
+### Health / Recovery
+
+- Steps: 11379
+- Distance: 8.13 km
+- Total kcal burned: 2148
 
 **Week 3 · Day 2**
 Finished: 2025-08-11 14:30:35
@@ -5455,6 +6501,12 @@ Finished: 2025-08-11 14:30:35
 
 ## 2025-08-10
 
+### Health / Recovery
+
+- Steps: 5040
+- Distance: 3.60 km
+- Total kcal burned: 1858
+
 **Week 3 · Day 1**
 Finished: 2025-08-10 16:23:41
 
@@ -5482,6 +6534,12 @@ Finished: 2025-08-10 16:23:41
 
 ## 2025-08-08
 
+### Health / Recovery
+
+- Steps: 13493
+- Distance: 9.51 km
+- Total kcal burned: 2248
+
 **Aug 8 Workout**
 Finished: 2025-08-08 14:40:49
 
@@ -5493,6 +6551,12 @@ Finished: 2025-08-08 14:40:49
   Set 4: 130.0kg x 10 @ RPE 9.5
 
 ## 2025-08-07
+
+### Health / Recovery
+
+- Steps: 11362
+- Distance: 8.06 km
+- Total kcal burned: 2134
 
 **Week 2 · Day 5**
 Finished: 2025-08-07 14:46:21
@@ -5521,6 +6585,12 @@ Finished: 2025-08-07 14:46:21
 
 ## 2025-08-06
 
+### Health / Recovery
+
+- Steps: 14021
+- Distance: 9.84 km
+- Total kcal burned: 1650
+
 **Week 2 · Day 4**
 Finished: 2025-08-06 14:53:07
 
@@ -5541,6 +6611,12 @@ Finished: 2025-08-06 14:53:07
 
 
 ## 2025-08-05
+
+### Health / Recovery
+
+- Steps: 14191
+- Distance: 9.83 km
+- Total kcal burned: 2175
 
 **Week 2 · Day 3**
 Finished: 2025-08-05 14:54:51
@@ -5565,6 +6641,12 @@ Finished: 2025-08-05 14:54:51
 
 
 ## 2025-08-04
+
+### Health / Recovery
+
+- Steps: 13628
+- Distance: 9.63 km
+- Total kcal burned: 2359
 
 **Week 2 · Day 2**
 Finished: 2025-08-04 14:26:18
@@ -5597,6 +6679,12 @@ Finished: 2025-08-04 14:26:18
 
 ## 2025-08-02
 
+### Health / Recovery
+
+- Steps: 23219
+- Distance: 16.46 km
+- Total kcal burned: 2472
+
 **Week 2 · Day 1**
 Finished: 2025-08-02 16:34:07
 
@@ -5625,6 +6713,12 @@ Finished: 2025-08-02 16:34:07
 
 ## 2025-07-31
 
+### Health / Recovery
+
+- Steps: 6007
+- Distance: 4.18 km
+- Total kcal burned: 1928
+
 **Week 1 · Day 5**
 Finished: 2025-07-31 17:17:00
 
@@ -5651,6 +6745,12 @@ Finished: 2025-07-31 17:17:00
 
 ## 2025-07-30
 
+### Health / Recovery
+
+- Steps: 11387
+- Distance: 7.52 km
+- Total kcal burned: 2087
+
 **Week 1 · Day 4**
 Finished: 2025-07-30 17:16:31
 
@@ -5671,6 +6771,12 @@ Finished: 2025-07-30 17:16:31
 
 
 ## 2025-07-29
+
+### Health / Recovery
+
+- Steps: 6769
+- Distance: 4.49 km
+- Total kcal burned: 1778
 
 **Week 1 · Day 3**
 Finished: 2025-07-29 14:57:32
@@ -5695,6 +6801,12 @@ Finished: 2025-07-29 14:57:32
 
 
 ## 2025-07-28
+
+### Health / Recovery
+
+- Steps: 16781
+- Distance: 11.45 km
+- Total kcal burned: 2094
 
 **Week 1 · Day 2**
 Finished: 2025-07-28 15:47:04
@@ -5727,6 +6839,12 @@ Finished: 2025-07-28 15:47:04
 
 ## 2025-07-27
 
+### Health / Recovery
+
+- Steps: 16748
+- Distance: 11.39 km
+- Total kcal burned: 2051
+
 **Week 1 · Day 1**
 Finished: 2025-07-27 22:39:03
 
@@ -5752,6 +6870,10 @@ Finished: 2025-07-27 22:39:03
   Set 4: 125.0kg x 8 [target RPE: 9]
 
 ## 2025-07-25
+
+### Health / Recovery
+
+- Total kcal burned: 1650
 
 **Week 5 · Day 5**
 Finished: 2025-07-25 15:05:07
@@ -5806,6 +6928,12 @@ Finished: 2025-07-23 10:18:52
 
 ## 2025-07-22
 
+### Health / Recovery
+
+- Steps: 592
+- Distance: 0.25 km
+- Total kcal burned: 2365
+
 **Week 5 · Day 3**
 Finished: 2025-07-22 10:07:58
 
@@ -5828,6 +6956,12 @@ Finished: 2025-07-22 10:07:58
 
 
 ## 2025-07-21
+
+### Health / Recovery
+
+- Steps: 837
+- Distance: 0.38 km
+- Total kcal burned: 1783
 
 **Week 5 · Day 2**
 Finished: 2025-07-21 10:11:38
@@ -5860,6 +6994,12 @@ Finished: 2025-07-21 10:11:38
 
 ## 2025-07-19
 
+### Health / Recovery
+
+- Steps: 11034
+- Distance: 7.48 km
+- Total kcal burned: 2095
+
 **Week 5 · Day 1**
 Finished: 2025-07-19 10:33:36
 
@@ -5884,6 +7024,12 @@ Finished: 2025-07-19 10:33:36
   Set 4: 125.0kg x 8 [target RPE: 9]
 
 ## 2025-07-17
+
+### Health / Recovery
+
+- Steps: 1897
+- Distance: 1.22 km
+- Total kcal burned: 1908
 
 **Week 4 · Day 5**
 Finished: 2025-07-17 10:11:45
@@ -5917,6 +7063,12 @@ Finished: 2025-07-17 10:11:45
 
 ## 2025-07-16
 
+### Health / Recovery
+
+- Steps: 4656
+- Distance: 3.25 km
+- Total kcal burned: 1814
+
 **Week 4 · Day 4**
 Finished: 2025-07-16 10:34:09
 
@@ -5937,6 +7089,12 @@ Finished: 2025-07-16 10:34:09
 
 
 ## 2025-07-15
+
+### Health / Recovery
+
+- Steps: 470
+- Distance: 0.21 km
+- Total kcal burned: 1897
 
 **Week 4 · Day 3**
 Finished: 2025-07-15 10:12:53
@@ -5961,6 +7119,12 @@ Finished: 2025-07-15 10:12:53
 
 
 ## 2025-07-14
+
+### Health / Recovery
+
+- Steps: 2712
+- Distance: 1.61 km
+- Total kcal burned: 1677
 
 **Week 4 · Day 2**
 Finished: 2025-07-14 09:55:09
@@ -5993,6 +7157,12 @@ Finished: 2025-07-14 09:55:09
 
 ## 2025-07-12
 
+### Health / Recovery
+
+- Steps: 1830
+- Distance: 1.11 km
+- Total kcal burned: 1759
+
 **Week 4 · Day 1**
 Finished: 2025-07-12 10:22:54
 
@@ -6018,6 +7188,12 @@ Finished: 2025-07-12 10:22:54
   Set 4: 125.0kg x 8 [target RPE: 9]
 
 ## 2025-07-10
+
+### Health / Recovery
+
+- Steps: 1444
+- Distance: 0.83 km
+- Total kcal burned: 1743
 
 **Week 3 · Day 5**
 Finished: 2025-07-10 10:21:46
@@ -6052,6 +7228,12 @@ Finished: 2025-07-10 10:21:46
 
 ## 2025-07-09
 
+### Health / Recovery
+
+- Steps: 564
+- Distance: 0.23 km
+- Total kcal burned: 1819
+
 **Week 3 · Day 4**
 Finished: 2025-07-09 10:22:30
 
@@ -6072,6 +7254,12 @@ Finished: 2025-07-09 10:22:30
 
 
 ## 2025-07-08
+
+### Health / Recovery
+
+- Steps: 1074
+- Distance: 0.60 km
+- Total kcal burned: 1693
 
 **Week 3 · Day 3**
 Finished: 2025-07-08 10:14:22
@@ -6097,6 +7285,12 @@ Finished: 2025-07-08 10:14:22
 
 
 ## 2025-07-07
+
+### Health / Recovery
+
+- Steps: 765
+- Distance: 0.45 km
+- Total kcal burned: 1686
 
 **Week 3 · Day 2**
 Finished: 2025-07-07 09:58:37
@@ -6129,6 +7323,12 @@ Finished: 2025-07-07 09:58:37
 
 ## 2025-07-05
 
+### Health / Recovery
+
+- Steps: 7183
+- Distance: 4.65 km
+- Total kcal burned: 1863
+
 **Week 3 · Day 1**
 Finished: 2025-07-05 10:27:01
 
@@ -6154,6 +7354,12 @@ Finished: 2025-07-05 10:27:01
   Set 4: 125.0kg x 8 [target RPE: 9]
 
 ## 2025-07-03
+
+### Health / Recovery
+
+- Steps: 3776
+- Distance: 2.43 km
+- Total kcal burned: 1788
 
 **Week 2 · Day 5**
 Finished: 2025-07-03 10:15:25
@@ -6187,6 +7393,12 @@ Finished: 2025-07-03 10:15:25
 
 ## 2025-07-02
 
+### Health / Recovery
+
+- Steps: 2741
+- Distance: 1.71 km
+- Total kcal burned: 1741
+
 **Week 2 · Day 4**
 Finished: 2025-07-02 10:15:56
 
@@ -6207,6 +7419,12 @@ Finished: 2025-07-02 10:15:56
 
 
 ## 2025-07-01
+
+### Health / Recovery
+
+- Steps: 1034
+- Distance: 0.63 km
+- Total kcal burned: 1787
 
 **Week 2 · Day 3**
 Finished: 2025-07-01 10:09:07
@@ -6231,6 +7449,12 @@ Finished: 2025-07-01 10:09:07
 
 
 ## 2025-06-30
+
+### Health / Recovery
+
+- Steps: 3057
+- Distance: 1.82 km
+- Total kcal burned: 1696
 
 **Week 2 · Day 2**
 Finished: 2025-06-30 09:53:01
@@ -6263,6 +7487,12 @@ Finished: 2025-06-30 09:53:01
 
 ## 2025-06-28
 
+### Health / Recovery
+
+- Steps: 9767
+- Distance: 6.61 km
+- Total kcal burned: 1862
+
 **Week 2 · Day 1**
 Finished: 2025-06-28 10:25:08
 
@@ -6288,6 +7518,12 @@ Finished: 2025-06-28 10:25:08
   Set 4: 125.0kg x 8 [target RPE: 9]
 
 ## 2025-06-26
+
+### Health / Recovery
+
+- Steps: 2766
+- Distance: 1.75 km
+- Total kcal burned: 1692
 
 **Week 1 · Day 5**
 Finished: 2025-06-26 10:08:12
@@ -6321,6 +7557,12 @@ Finished: 2025-06-26 10:08:12
 
 ## 2025-06-25
 
+### Health / Recovery
+
+- Steps: 4658
+- Distance: 3.28 km
+- Total kcal burned: 1746
+
 **Week 1 · Day 4**
 Finished: 2025-06-25 10:20:53
 
@@ -6341,6 +7583,12 @@ Finished: 2025-06-25 10:20:53
 
 
 ## 2025-06-24
+
+### Health / Recovery
+
+- Steps: 3268
+- Distance: 2 km
+- Total kcal burned: 1716
 
 **Week 1 · Day 3**
 Finished: 2025-06-24 10:13:15
@@ -6365,6 +7613,12 @@ Finished: 2025-06-24 10:13:15
 
 
 ## 2025-06-23
+
+### Health / Recovery
+
+- Steps: 2749
+- Distance: 1.69 km
+- Total kcal burned: 1683
 
 **Week 1 · Day 2**
 Finished: 2025-06-23 09:45:47
@@ -6397,6 +7651,12 @@ Finished: 2025-06-23 09:45:47
 
 ## 2025-06-21
 
+### Health / Recovery
+
+- Steps: 5145
+- Distance: 3.35 km
+- Total kcal burned: 1812
+
 **Week 1 · Day 1**
 Finished: 2025-06-21 10:17:04
 
@@ -6422,6 +7682,11 @@ Finished: 2025-06-21 10:17:04
   Set 4: 120.0kg x 9 [target RPE: 9]
 
 ## 2025-06-19
+
+### Health / Recovery
+
+- Steps: 2876
+- Distance: 1.66 km
 
 **Week 6 · Day 5**
 Finished: 2025-06-19 10:27:10
@@ -6455,6 +7720,11 @@ Finished: 2025-06-19 10:27:10
 
 ## 2025-06-18
 
+### Health / Recovery
+
+- Steps: 2287
+- Distance: 1.29 km
+
 **Week 6 · Day 4**
 Finished: 2025-06-18 10:39:32
 
@@ -6475,6 +7745,11 @@ Finished: 2025-06-18 10:39:32
 
 
 ## 2025-06-17
+
+### Health / Recovery
+
+- Steps: 2040
+- Distance: 1.11 km
 
 **Week 6 · Day 3**
 Finished: 2025-06-17 10:14:41
@@ -6499,6 +7774,11 @@ Finished: 2025-06-17 10:14:41
 
 
 ## 2025-06-16
+
+### Health / Recovery
+
+- Steps: 4130
+- Distance: 2.55 km
 
 **Week 6 · Day 2**
 Finished: 2025-06-16 09:57:41
@@ -6531,6 +7811,11 @@ Finished: 2025-06-16 09:57:41
 
 ## 2025-06-14
 
+### Health / Recovery
+
+- Steps: 3248
+- Distance: 1.95 km
+
 **Week 6 · Day 1**
 Finished: 2025-06-14 10:31:33
 
@@ -6557,6 +7842,11 @@ Finished: 2025-06-14 10:31:33
   Set 4: 120.0kg x 8 [target RPE: 9]
 
 ## 2025-06-12
+
+### Health / Recovery
+
+- Steps: 2538
+- Distance: 1.46 km
 
 **Week 5 · Day 5**
 Finished: 2025-06-12 10:27:02
@@ -6590,6 +7880,11 @@ Finished: 2025-06-12 10:27:02
 
 ## 2025-06-11
 
+### Health / Recovery
+
+- Steps: 4118
+- Distance: 2.45 km
+
 **Week 5 · Day 4**
 Finished: 2025-06-11 10:29:43
 
@@ -6610,6 +7905,11 @@ Finished: 2025-06-11 10:29:43
 
 
 ## 2025-06-10
+
+### Health / Recovery
+
+- Steps: 5091
+- Distance: 3.29 km
 
 **Week 5 · Day 3**
 Finished: 2025-06-10 10:28:00
@@ -6634,6 +7934,11 @@ Finished: 2025-06-10 10:28:00
 
 
 ## 2025-06-09
+
+### Health / Recovery
+
+- Steps: 2620
+- Distance: 1.46 km
 
 **Week 5 · Day 2**
 Finished: 2025-06-09 09:54:37
@@ -6666,6 +7971,11 @@ Finished: 2025-06-09 09:54:37
 
 ## 2025-06-07
 
+### Health / Recovery
+
+- Steps: 7341
+- Distance: 4.71 km
+
 **Week 5 · Day 1**
 Finished: 2025-06-07 10:23:59
 
@@ -6691,6 +8001,11 @@ Finished: 2025-06-07 10:23:59
   Set 4: 120.0kg x 8 [target RPE: 9]
 
 ## 2025-06-05
+
+### Health / Recovery
+
+- Steps: 5614
+- Distance: 3.51 km
 
 **Week 4 · Day 5**
 Finished: 2025-06-05 10:04:06
@@ -6724,6 +8039,11 @@ Finished: 2025-06-05 10:04:06
 
 ## 2025-06-04
 
+### Health / Recovery
+
+- Steps: 3398
+- Distance: 1.93 km
+
 **Week 4 · Day 4**
 Finished: 2025-06-04 10:36:59
 
@@ -6744,6 +8064,11 @@ Finished: 2025-06-04 10:36:59
 
 
 ## 2025-06-03
+
+### Health / Recovery
+
+- Steps: 4907
+- Distance: 3.22 km
 
 **Week 4 · Day 3**
 Finished: 2025-06-03 10:29:03
@@ -6768,6 +8093,11 @@ Finished: 2025-06-03 10:29:03
 
 
 ## 2025-06-02
+
+### Health / Recovery
+
+- Steps: 3577
+- Distance: 2.17 km
 
 **Week 4 · Day 2**
 Finished: 2025-06-02 09:57:14
@@ -6800,6 +8130,11 @@ Finished: 2025-06-02 09:57:14
 
 ## 2025-05-31
 
+### Health / Recovery
+
+- Steps: 10085
+- Distance: 6.47 km
+
 **Week 4 · Day 1**
 Finished: 2025-05-31 10:13:19
 
@@ -6825,6 +8160,11 @@ Finished: 2025-05-31 10:13:19
   Set 4: 120.0kg x 8 [target RPE: 9]
 
 ## 2025-05-29
+
+### Health / Recovery
+
+- Steps: 2805
+- Distance: 1.61 km
 
 **Week 3 · Day 5**
 Finished: 2025-05-29 10:19:51
@@ -6858,6 +8198,11 @@ Finished: 2025-05-29 10:19:51
 
 ## 2025-05-28
 
+### Health / Recovery
+
+- Steps: 2931
+- Distance: 1.76 km
+
 **Week 3 · Day 4**
 Finished: 2025-05-28 10:12:16
 
@@ -6877,6 +8222,11 @@ Finished: 2025-05-28 10:12:16
 
 
 ## 2025-05-27
+
+### Health / Recovery
+
+- Steps: 7535
+- Distance: 4.83 km
 
 **Week 3 · Day 3**
 Finished: 2025-05-27 10:05:56
@@ -6909,6 +8259,11 @@ Finished: 2025-05-27 10:05:56
 
 ## 2025-05-26
 
+### Health / Recovery
+
+- Steps: 2892
+- Distance: 1.52 km
+
 **Week 3 · Day 2**
 Finished: 2025-05-26 09:45:33
 
@@ -6940,6 +8295,11 @@ Finished: 2025-05-26 09:45:33
   Set 3: 70.0kg x 10 [target RPE: 9-10]
 
 ## 2025-05-24
+
+### Health / Recovery
+
+- Steps: 12623
+- Distance: 8.11 km
 
 **Week 3 · Day 1**
 Finished: 2025-05-24 10:22:43

@@ -10,18 +10,18 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 33 | 166 | ↓ 133 |
-| Total sets | 123 | 641 | ↓ 518 |
-| Avg sets/session | 3.73 | 3.86 | ↓ 0.13 |
-| Avg RPE | 7.47 | 7.66 | ↓ 0.19 |
-| Avg load | 135.5kg | 130.4kg | ↑ 5.1kg |
-| Tonnage | 64380kg | 312712kg | ↓ 248332kg |
-| Avg tonnage/session | 1950.9kg | 1883.8kg | ↑ 67.1kg |
+| Sessions | 44 | 166 | ↓ 122 |
+| Total sets | 160 | 641 | ↓ 481 |
+| Avg sets/session | 3.64 | 3.86 | ↓ 0.22 |
+| Avg RPE | 7.48 | 7.66 | ↓ 0.18 |
+| Avg load | 138kg | 130.4kg | ↑ 7.6kg |
+| Tonnage | 81495kg | 312712kg | ↓ 231217kg |
+| Avg tonnage/session | 1852.2kg | 1883.8kg | ↓ 31.6kg |
 
 - Top single: 177.5kg x 1 @ 9.50
 - Previous top single: 172.5kg x 1 @ 10
 - Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
-- Top work set: 155kg x 5 @ 9
+- Top work set: 160kg x 3 @ 9.50
 - Previous top work set: 155kg x 2 @ 8.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -29,18 +29,18 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 46 | 213 | ↓ 167 |
-| Total sets | 159 | 824 | ↓ 665 |
+| Sessions | 61 | 213 | ↓ 152 |
+| Total sets | 211 | 824 | ↓ 613 |
 | Avg sets/session | 3.46 | 3.87 | ↓ 0.41 |
-| Avg RPE | 8.11 | 8.30 | ↓ 0.19 |
-| Avg load | 97.4kg | 94.5kg | ↑ 2.9kg |
-| Tonnage | 65683kg | 351010kg | ↓ 285327kg |
-| Avg tonnage/session | 1427.9kg | 1647.9kg | ↓ 220kg |
+| Avg RPE | 8.09 | 8.30 | ↓ 0.21 |
+| Avg load | 98.9kg | 94.5kg | ↑ 4.4kg |
+| Tonnage | 84110.5kg | 351010kg | ↓ 266899.5kg |
+| Avg tonnage/session | 1378.9kg | 1647.9kg | ↓ 269kg |
 
 - Top single: 135kg x 1 @ 9.50
 - Previous top single: 132.5kg x 1 @ 10
 - Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
-- Top work set: 125kg x 3 @ 9.50
+- Top work set: 127.5kg x 3 @ 9.50
 - Previous top work set: 122.5kg x 2 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -48,20 +48,34 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 34 | 161 | ↓ 127 |
-| Total sets | 118 | 606 | ↓ 488 |
-| Avg sets/session | 3.47 | 3.76 | ↓ 0.29 |
-| Avg RPE | 7.50 | 7.57 | ↓ 0.07 |
-| Avg load | 153.2kg | 145.2kg | ↑ 8kg |
-| Tonnage | 67532.5kg | 365842.5kg | ↓ 298310kg |
-| Avg tonnage/session | 1986.2kg | 2272.3kg | ↓ 286.1kg |
+| Sessions | 43 | 161 | ↓ 118 |
+| Total sets | 159 | 606 | ↓ 447 |
+| Avg sets/session | 3.70 | 3.76 | ↓ 0.06 |
+| Avg RPE | 7.55 | 7.57 | ↓ 0.02 |
+| Avg load | 155.7kg | 145.2kg | ↑ 10.5kg |
+| Tonnage | 87055kg | 365842.5kg | ↓ 278787.5kg |
+| Avg tonnage/session | 2024.5kg | 2272.3kg | ↓ 247.8kg |
 
 - Top single: 195kg x 1 @ 9.50
 - Previous top single: 200kg x 1 @ 9
 - Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
-- Top work set: 182.5kg x 3 @ 9.50
+- Top work set: 185kg x 2 @ 9
 - Previous top work set: 180kg x 2 @ 9.50
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 102 | 198 | ↓ 96 |
+| Avg steps/day | 7779 | 7391 | ↑ 388 |
+| Avg distance/day | 5.68km | 5.05km | ↑ 0.63km |
+| Avg kcal/day | 2157 | 1897 | ↑ 260 |
+| Avg bodyweight | 79kg | 77.7kg | ↑ 1.2kg |
+| Avg resting HR | 44.9bpm | - | n/a |
+| Avg sleep | 7.32h | 6.82h | ↑ 0.50h |
+
+- Latest health date in period: 2026-04-12
 
 ## 2025
 
@@ -123,6 +137,20 @@ Comparison baseline: 2024
 - Top work set: 180kg x 2 @ 9.50
 - Previous top work set: 125kg x 3 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 198 | - | n/a |
+| Avg steps/day | 7391 | - | n/a |
+| Avg distance/day | 5.05km | - | n/a |
+| Avg kcal/day | 1897 | - | n/a |
+| Avg bodyweight | 77.7kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | 6.82h | - | n/a |
+
+- Latest health date in period: 2025-12-31
 
 ## 2024
 
