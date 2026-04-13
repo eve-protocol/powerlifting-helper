@@ -4,10 +4,24 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+      day: "monday"
+      time: "03:00"
+      timezone: "Asia/Tokyo"
     open-pull-requests-limit: 5
+    groups:
+      github-actions-dependencies:
+        patterns:
+          - "*"
 
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "weekly"
+      day: "monday"
+      time: "03:05"
+      timezone: "Asia/Tokyo"
     open-pull-requests-limit: 5
+    groups:
+      python-dependencies:
+        patterns:
+          - "*"
