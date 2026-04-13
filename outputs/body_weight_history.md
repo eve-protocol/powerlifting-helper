@@ -1,5 +1,7 @@
 # Body Weight History
 
+![Body Weight History](body_weight_history.svg)
+
 ## Export Metadata
 
 - Source: Zepp Life body export

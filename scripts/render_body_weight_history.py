@@ -41,6 +41,8 @@ def summarize(rows):
 
 def render(body_metadata, rows, output_path: Path):
     lines = ["# Body Weight History", ""]
+    if (output_path.parent / "body_weight_history.svg").exists():
+        lines.extend(["![Body Weight History](body_weight_history.svg)", ""])
     if body_metadata:
         lines.extend([
             "## Export Metadata",
