@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download Health Connect export ZIP from Google Drive via service-account secrets."""
+"""Download a file from Google Drive via service-account secrets."""
 
 from __future__ import annotations
 
@@ -31,10 +31,12 @@ def main():
     parser.add_argument("--file-id", default=os.environ.get("HEALTH_CONNECT_DRIVE_FILE_ID"), required=False)
     parser.add_argument("--output", required=True)
     parser.add_argument("--metadata-output")
+    parser.add_argument("--file-id-env", default="HEALTH_CONNECT_DRIVE_FILE_ID")
     args = parser.parse_args()
 
-    if not args.file_id:
-        raise SystemExit("Missing --file-id or HEALTH_CONNECT_DRIVE_FILE_ID")
+    file_id = args.file_id or os.environ.get(args.file_id_env)
+    if not file_id:
+        raise SystemExit(f"Missing --file-id or {args.file_id_env}")
 
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -43,7 +45,7 @@ def main():
     headers = {"Authorization": f"Bearer {creds.token}"}
 
     meta_resp = requests.get(
-        DRIVE_FILE_URL.format(file_id=args.file_id),
+        DRIVE_FILE_URL.format(file_id=file_id),
         headers=headers,
         params={"fields": "id,name,mimeType,size,modifiedTime"},
         timeout=60,
@@ -52,7 +54,7 @@ def main():
     metadata = meta_resp.json()
 
     file_resp = requests.get(
-        DRIVE_FILE_URL.format(file_id=args.file_id),
+        DRIVE_FILE_URL.format(file_id=file_id),
         headers=headers,
         params={"alt": "media"},
         stream=True,

@@ -67,11 +67,11 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 102 | 198 | ↓ 96 |
+| Days with data | 102 | 275 | ↓ 173 |
 | Avg steps/day | 7779 | 7391 | ↑ 388 |
 | Avg distance/day | 5.68km | 5.05km | ↑ 0.63km |
 | Avg kcal/day | 2157 | 1897 | ↑ 260 |
-| Avg bodyweight | 79kg | 77.7kg | ↑ 1.2kg |
+| Avg bodyweight | 79kg | 76.8kg | ↑ 2.1kg |
 | Avg resting HR | 44.9bpm | - | n/a |
 | Avg sleep | 7.32h | 6.82h | ↑ 0.50h |
 
@@ -142,11 +142,11 @@ Comparison baseline: 2024
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 198 | - | n/a |
+| Days with data | 275 | 235 | ↑ 40 |
 | Avg steps/day | 7391 | - | n/a |
 | Avg distance/day | 5.05km | - | n/a |
 | Avg kcal/day | 1897 | - | n/a |
-| Avg bodyweight | 77.7kg | - | n/a |
+| Avg bodyweight | 76.8kg | 73.9kg | ↑ 2.9kg |
 | Avg resting HR | -bpm | - | n/a |
 | Avg sleep | 6.82h | - | n/a |
 
@@ -198,3 +198,17 @@ Comparison baseline: 2024
 
 - Top single: -
 - Top work set: 125kg x 3 @ 7
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 235 | - | n/a |
+| Avg steps/day | - | - | n/a |
+| Avg distance/day | -km | - | n/a |
+| Avg kcal/day | - | - | n/a |
+| Avg bodyweight | 73.9kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2024-12-21

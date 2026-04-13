@@ -142,11 +142,11 @@ Comparison baseline: 2025-Q4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 90 | 73 | ↑ 17 |
+| Days with data | 90 | 82 | ↑ 8 |
 | Avg steps/day | 7716 | 8692 | ↓ 976 |
 | Avg distance/day | 5.53km | 6.07km | ↓ 0.54km |
 | Avg kcal/day | 2090 | 1904 | ↑ 186 |
-| Avg bodyweight | 78.9kg | 77.8kg | ↑ 1.1kg |
+| Avg bodyweight | 78.9kg | 77.4kg | ↑ 1.5kg |
 | Avg resting HR | 44.9bpm | - | n/a |
 | Avg sleep | 7.27h | 6.82h | ↑ 0.45h |
 
@@ -217,11 +217,11 @@ Comparison baseline: 2025-Q3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 73 | 86 | ↓ 13 |
+| Days with data | 82 | 92 | ↓ 10 |
 | Avg steps/day | 8692 | 7003 | ↑ 1689 |
 | Avg distance/day | 6.07km | 4.78km | ↑ 1.29km |
 | Avg kcal/day | 1904 | 1908 | ↓ 4 |
-| Avg bodyweight | 77.8kg | - | n/a |
+| Avg bodyweight | 77.4kg | 77kg | ↑ 0.3kg |
 | Avg resting HR | -bpm | - | n/a |
 | Avg sleep | 6.82h | - | n/a |
 
@@ -292,15 +292,15 @@ Comparison baseline: 2025-Q2
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 86 | 39 | ↑ 47 |
+| Days with data | 92 | 74 | ↑ 18 |
 | Avg steps/day | 7003 | 5850 | ↑ 1153 |
 | Avg distance/day | 4.78km | 3.76km | ↑ 1.02km |
 | Avg kcal/day | 1908 | 1770 | ↑ 138 |
-| Avg bodyweight | -kg | 76.5kg | n/a |
+| Avg bodyweight | 77kg | 76.6kg | ↑ 0.5kg |
 | Avg resting HR | -bpm | - | n/a |
 | Avg sleep | -h | - | n/a |
 
-- Latest health date in period: 2025-09-25
+- Latest health date in period: 2025-09-30
 
 ## 2025-Q2
 
@@ -367,11 +367,11 @@ Comparison baseline: 2025-Q1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 39 | - | n/a |
+| Days with data | 74 | 27 | ↑ 47 |
 | Avg steps/day | 5850 | - | n/a |
 | Avg distance/day | 3.76km | - | n/a |
 | Avg kcal/day | 1770 | - | n/a |
-| Avg bodyweight | 76.5kg | - | n/a |
+| Avg bodyweight | 76.6kg | 75.9kg | ↑ 0.7kg |
 | Avg resting HR | -bpm | - | n/a |
 | Avg sleep | -h | - | n/a |
 
@@ -438,6 +438,20 @@ Comparison baseline: 2024-Q4
 - Previous top work set: 125kg x 3 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 27 | 64 | ↓ 37 |
+| Avg steps/day | - | - | n/a |
+| Avg distance/day | -km | - | n/a |
+| Avg kcal/day | - | - | n/a |
+| Avg bodyweight | 75.9kg | 74.3kg | ↑ 1.6kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-03-29
+
 ## 2024-Q4
 
 ### Squat family
@@ -484,3 +498,17 @@ Comparison baseline: 2024-Q4
 
 - Top single: -
 - Top work set: 125kg x 3 @ 7
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 64 | - | n/a |
+| Avg steps/day | - | - | n/a |
+| Avg distance/day | -km | - | n/a |
+| Avg kcal/day | - | - | n/a |
+| Avg bodyweight | 74.3kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2024-12-21

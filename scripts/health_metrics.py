@@ -73,10 +73,58 @@ def fmt_delta(x, digits=1, suffix=""):
 
 def load_health_daily(repo_root: Path) -> Dict[str, dict]:
     path = repo_root / "values" / "health_daily.json"
-    if not path.exists():
-        return {}
-    data = json.loads(path.read_text())
-    return {row["date"]: row for row in data.get("days", [])}
+    health_daily = {}
+    if path.exists():
+        data = json.loads(path.read_text())
+        health_daily = {row["date"]: row for row in data.get("days", [])}
+
+    body_path = repo_root / "values" / "body_weight_history.json"
+    if body_path.exists():
+        body_data = json.loads(body_path.read_text())
+        for row in body_data.get("days", []):
+            date_str = row["date"]
+            if date_str not in health_daily:
+                health_daily[date_str] = {
+                    "date": date_str,
+                    "steps": None,
+                    "distance_km": None,
+                    "total_kcal_burned": None,
+                    "weight_kg": row.get("weight_kg"),
+                    "resting_hr_bpm": None,
+                    "sleep": None,
+                    "sources": {
+                        "steps": None,
+                        "distance": None,
+                        "total_kcal_burned": None,
+                        "weight": {
+                            "time": row.get("measured_at"),
+                            "weight_kg": row.get("weight_kg"),
+                            "package_name": "com.xiaomi.hm.health",
+                            "app_name": "Zepp Life",
+                        },
+                        "resting_hr": None,
+                        "sleep": None,
+                    },
+                    "available_sources": {
+                        "steps": [],
+                        "distance": [],
+                        "total_kcal_burned": [],
+                    },
+                    "freshness": {
+                        "latest_date_in_export": body_data.get("metadata", {}).get("latest_date_in_export"),
+                        "warning": None,
+                    },
+                }
+            elif health_daily[date_str].get("weight_kg") is None and row.get("weight_kg") is not None:
+                health_daily[date_str]["weight_kg"] = row.get("weight_kg")
+                health_daily[date_str].setdefault("sources", {})["weight"] = {
+                    "time": row.get("measured_at"),
+                    "weight_kg": row.get("weight_kg"),
+                    "package_name": "com.xiaomi.hm.health",
+                    "app_name": "Zepp Life",
+                }
+
+    return health_daily
 
 
 def format_health_summary_block(day: Optional[dict]) -> List[str]:
