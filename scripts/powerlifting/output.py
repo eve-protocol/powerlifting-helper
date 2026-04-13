@@ -12,6 +12,36 @@ from .visualization import (
     generate_volume_bar_chart,
 )
 
+RPE_VALUES = [10, 9.5, 9, 8.5, 8, 7.5, 7, 6.5, 6]
+
+
+def _collect_big3_trends(workouts):
+    """Return sorted weeks plus Big 3 weekly best-e1RM series."""
+    trend_series = {
+        'Squat': analyze_trends(workouts, [BIG3_MAIN[0]], 'weekly'),
+        'Bench': analyze_trends(workouts, [BIG3_MAIN[1]], 'weekly'),
+        'Deadlift': analyze_trends(workouts, [BIG3_MAIN[2]], 'weekly'),
+    }
+    all_weeks = set().union(*(series.keys() for series in trend_series.values()))
+    sorted_weeks = sorted(all_weeks)[-10:]
+    data_series = {
+        lift: [series.get(week, 0) for week in sorted_weeks]
+        for lift, series in trend_series.items()
+    }
+    return sorted_weeks, data_series
+
+
+def _collect_big3_volumes(workouts):
+    """Return recent Big 3 weekly volume buckets for charting."""
+    volume_series = {
+        'Squat': calculate_training_volume(workouts, LIFT_CATEGORIES['Squat'], 'weekly'),
+        'Bench': calculate_training_volume(workouts, LIFT_CATEGORIES['Bench'], 'weekly'),
+        'Deadlift': calculate_training_volume(workouts, LIFT_CATEGORIES['Deadlift'], 'weekly'),
+    }
+    all_weeks = set().union(*(series.keys() for series in volume_series.values()))
+    sorted_weeks = sorted(all_weeks, reverse=True)[:10]
+    return sorted_weeks, volume_series
+
 
 def print_color_legend():
     """Print a legend explaining the date colors."""
@@ -75,17 +105,13 @@ def print_volume_summary(workouts):
     c = COLORS
     print(f"\n{c['cyan']}📈 WEEKLY TRAINING VOLUME (Last 10 Weeks){c['reset']}")
     
-    # Get volume for each category
-    squat_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Squat'], 'weekly')
-    bench_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Bench'], 'weekly')
-    deadlift_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Deadlift'], 'weekly')
-    
-    # Get all weeks and sort
-    all_weeks = set(squat_vol.keys()) | set(bench_vol.keys()) | set(deadlift_vol.keys())
-    sorted_weeks = sorted(all_weeks, reverse=True)[:10]  # Last 10 weeks
-    
-    # Generate and print ASCII chart
-    chart_lines = generate_volume_bar_chart(squat_vol, bench_vol, deadlift_vol, sorted_weeks)
+    sorted_weeks, volume_series = _collect_big3_volumes(workouts)
+    chart_lines = generate_volume_bar_chart(
+        volume_series['Squat'],
+        volume_series['Bench'],
+        volume_series['Deadlift'],
+        sorted_weeks,
+    )
     for line in chart_lines:
         print(line)
 
@@ -95,22 +121,7 @@ def print_trends(workouts):
     c = COLORS
     print(f"\n{c['cyan']}📉 BIG 3 TRENDS (Best e1RM per Week){c['reset']}")
     
-    # Get trends for main lifts only
-    squat_trends = analyze_trends(workouts, [BIG3_MAIN[0]], 'weekly')
-    bench_trends = analyze_trends(workouts, [BIG3_MAIN[1]], 'weekly')
-    deadlift_trends = analyze_trends(workouts, [BIG3_MAIN[2]], 'weekly')
-    
-    all_weeks = set(squat_trends.keys()) | set(bench_trends.keys()) | set(deadlift_trends.keys())
-    sorted_weeks = sorted(all_weeks)[-10:]  # Last 10 weeks, oldest to newest
-    
-    # Prepare data series
-    data_series = {
-        'Squat': [squat_trends.get(w, 0) for w in sorted_weeks],
-        'Bench': [bench_trends.get(w, 0) for w in sorted_weeks],
-        'Deadlift': [deadlift_trends.get(w, 0) for w in sorted_weeks]
-    }
-    
-    # Generate and print ASCII graph
+    sorted_weeks, data_series = _collect_big3_trends(workouts)
     graph_lines = generate_ascii_line_graph(data_series, sorted_weeks)
     for line in graph_lines:
         print(line)
@@ -154,9 +165,8 @@ def print_personal_rpe_table(workouts):
         print("-" * 60)
         
         # Header
-        rpe_values = [10, 9.5, 9, 8.5, 8, 7.5, 7, 6.5, 6]
         header = f"{'Reps':>6}"
-        for rpe in rpe_values:
+        for rpe in RPE_VALUES:
             header += f"  {rpe:>5}"
         print(header)
         print("-" * 60)
@@ -164,7 +174,7 @@ def print_personal_rpe_table(workouts):
         # Rows
         for reps in sorted(table.keys()):
             row = f"{reps:>4}RM"
-            for rpe in rpe_values:
+            for rpe in RPE_VALUES:
                 if rpe in table[reps]:
                     pct = table[reps][rpe]
                     row += f"  {pct:5.1f}%"
@@ -180,8 +190,6 @@ def generate_markdown_rpe_table(workouts):
     lines.append("")
     lines.append("*Calculated from your actual training data (minimum 2 data points per cell)*")
     lines.append("")
-    
-    rpe_values = [10, 9.5, 9, 8.5, 8, 7.5, 7, 6.5, 6]
     
     for lift_name in BIG3_MAIN:
         result = calculate_personal_rpe_table(workouts, lift_name)
@@ -199,7 +207,7 @@ def generate_markdown_rpe_table(workouts):
         # Header
         header = "| Reps |"
         separator = "|------|"
-        for rpe in rpe_values:
+        for rpe in RPE_VALUES:
             header += f" @{rpe} |"
             separator += "------|"
         lines.append(header)
@@ -208,7 +216,7 @@ def generate_markdown_rpe_table(workouts):
         # Rows
         for reps in sorted(table.keys()):
             row = f"| {reps}RM |"
-            for rpe in rpe_values:
+            for rpe in RPE_VALUES:
                 if rpe in table[reps]:
                     pct = table[reps][rpe]
                     count = data_counts[reps].get(rpe, 0)
@@ -286,19 +294,7 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
     lines.append("## 📈 Trends (Best e1RM per Week)")
     lines.append("")
     
-    squat_trends = analyze_trends(workouts, [BIG3_MAIN[0]], 'weekly')
-    bench_trends = analyze_trends(workouts, [BIG3_MAIN[1]], 'weekly')
-    deadlift_trends = analyze_trends(workouts, [BIG3_MAIN[2]], 'weekly')
-    
-    all_weeks = set(squat_trends.keys()) | set(bench_trends.keys()) | set(deadlift_trends.keys())
-    sorted_weeks = sorted(all_weeks)[-10:]  # Last 10 weeks, oldest to newest
-    
-    # Generate ASCII graph data
-    data_series = {
-        'Squat': [squat_trends.get(w, 0) for w in sorted_weeks],
-        'Bench': [bench_trends.get(w, 0) for w in sorted_weeks],
-        'Deadlift': [deadlift_trends.get(w, 0) for w in sorted_weeks]
-    }
+    sorted_weeks, data_series = _collect_big3_trends(workouts)
     
     lines.append("```")
     graph_lines = generate_ascii_line_graph(data_series, sorted_weeks)
@@ -310,15 +306,15 @@ def generate_markdown_report(workouts, all_maxes, stats, output_path):
     lines.append("## 🏋️ Weekly Training Volume")
     lines.append("")
     
-    squat_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Squat'], 'weekly')
-    bench_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Bench'], 'weekly')
-    deadlift_vol = calculate_training_volume(workouts, LIFT_CATEGORIES['Deadlift'], 'weekly')
-    
-    all_vol_weeks = set(squat_vol.keys()) | set(bench_vol.keys()) | set(deadlift_vol.keys())
-    sorted_vol_weeks = sorted(all_vol_weeks, reverse=True)[:10]
-    
+    sorted_vol_weeks, volume_series = _collect_big3_volumes(workouts)
+
     lines.append("```")
-    vol_chart_lines = generate_volume_bar_chart(squat_vol, bench_vol, deadlift_vol, sorted_vol_weeks)
+    vol_chart_lines = generate_volume_bar_chart(
+        volume_series['Squat'],
+        volume_series['Bench'],
+        volume_series['Deadlift'],
+        sorted_vol_weeks,
+    )
     lines.extend(vol_chart_lines)
     lines.append("```")
     lines.append("")

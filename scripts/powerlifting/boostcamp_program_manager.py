@@ -8,14 +8,13 @@ Usage:
     python boostcamp_program_manager.py create strength_block_v4.yaml
 """
 
+import os
+import sys
+import time
+import uuid
+
 import requests
 import yaml
-import uuid
-import sys
-import os
-import time
-import json
-from pathlib import Path
 
 # Configuration
 BASE_URL = "https://newapi.boostcamp.app/api"
@@ -177,18 +176,26 @@ class BoostcampManager:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
         }
         
-        # Load refresh token
+        self.refresh_token = self._load_refresh_token(refresh_token_path)
+        self._authenticate()
+
+    def _load_refresh_token(self, refresh_token_path=None):
+        """Load refresh token from env first, then from disk."""
+        env_token = os.environ.get("BOOSTCAMP_REFRESH_TOKEN", "").strip()
+        if env_token:
+            return env_token
+
         if refresh_token_path is None:
             refresh_token_path = REFRESH_TOKEN_FILE
-        
+
         if os.path.exists(refresh_token_path):
             with open(refresh_token_path, 'r') as f:
-                self.refresh_token = f.read().strip()
-        else:
-            raise Exception(f"Refresh token file not found: {refresh_token_path}")
-        
-        # Authenticate
-        self._authenticate()
+                return f.read().strip()
+
+        raise Exception(
+            "Refresh token not found. Set BOOSTCAMP_REFRESH_TOKEN or create "
+            f"{refresh_token_path}"
+        )
     
     def _authenticate(self):
         """Exchange refresh token for access token"""
