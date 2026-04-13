@@ -6,6 +6,11 @@ import time
 from pathlib import Path
 
 try:
+    from common.files import write_json_if_changed
+except ModuleNotFoundError:
+    from scripts.common.files import write_json_if_changed
+
+try:
     import requests
 except ImportError:
     requests = None  # Will error only if --fetch is used
@@ -148,10 +153,10 @@ def fetch_history(token, output_file='history.json', timezone_offset=9):
     
     # Save to file
     try:
-        data = response.json()
-        with open(output_file, 'w') as f:
-            json.dump(data, f, indent=2)
-        print(f"✓ History saved to {output_file} ({len(data.get('data', {}))} days)")
+        data = _normalize_history_payload(response.json())
+        changed = write_json_if_changed(output_file, data)
+        verb = "saved" if changed else "unchanged"
+        print(f"✓ History {verb} at {output_file} ({len(data.get('data', {}))} days)")
         return True
     except (json.JSONDecodeError, IOError) as e:
         print(f"Error: Failed to save history - {e}")
@@ -162,6 +167,21 @@ def load_history(filepath='history.json'):
     """Load history JSON file."""
     with open(filepath, 'r') as f:
         return json.load(f)
+
+
+def _normalize_history_payload(data):
+    """Remove volatile API fields so saved history is stable across identical fetches."""
+    if not isinstance(data, dict):
+        return data
+
+    normalized = dict(data)
+    normalized.pop('requestId', None)
+
+    day_map = normalized.get('data')
+    if isinstance(day_map, dict):
+        normalized['data'] = {date_key: day_map[date_key] for date_key in sorted(day_map)}
+
+    return normalized
 
 
 def fetch_program(program_id, token):
@@ -290,4 +310,3 @@ def load_config(config_path):
     """Load boostcamp_conf.json configuration file."""
     with open(config_path, 'r') as f:
         return json.load(f)
-
