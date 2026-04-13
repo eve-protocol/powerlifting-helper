@@ -30,7 +30,7 @@ jobs:
           cache: "pip"
 
       - name: Install dependencies
-        run: pip install requests google-auth pyzipper
+        run: pip install -r requirements.txt
 
       - name: Create refresh token file
         run: echo "${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}" > scripts/.boostcamp_refresh_token

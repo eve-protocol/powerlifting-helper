@@ -38,7 +38,7 @@ python scripts/parse_history.py -o /tmp/workout-data/
 
 ## Setup
 
-1. Install dependencies: `pip install requests google-auth`
+1. Install dependencies: `pip install -r requirements.txt`
 2. Get your Boostcamp refresh token from browser DevTools
 3. Save it to `scripts/.boostcamp_refresh_token`
 4. If you want CI Health Connect ingestion, add these GitHub secrets:
