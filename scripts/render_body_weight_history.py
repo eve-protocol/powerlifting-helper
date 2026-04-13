@@ -25,14 +25,19 @@ def load_days(path: Path):
 
 
 def summarize(rows):
-    weights = [row.get("weight_kg") for row in rows if row.get("weight_kg") is not None]
-    if not weights:
+    valid_rows = [row for row in rows if row.get("weight_kg") is not None]
+    weights = [row.get("weight_kg") for row in valid_rows]
+    if not valid_rows:
         return None
+    low_row = min(valid_rows, key=lambda row: row["weight_kg"])
+    high_row = max(valid_rows, key=lambda row: row["weight_kg"])
     return {
         "days": len(weights),
         "avg": sum(weights) / len(weights),
-        "min": min(weights),
-        "max": max(weights),
+        "min": low_row["weight_kg"],
+        "min_date": low_row["date"],
+        "max": high_row["weight_kg"],
+        "max_date": high_row["date"],
         "start": weights[0],
         "end": weights[-1],
         "delta": weights[-1] - weights[0],
@@ -41,8 +46,6 @@ def summarize(rows):
 
 def render(body_metadata, rows, output_path: Path):
     lines = ["# Body Weight History", ""]
-    if (output_path.parent / "body_weight_history.svg").exists():
-        lines.extend(["![Body Weight History](body_weight_history.svg)", ""])
     if body_metadata:
         lines.extend([
             "## Export Metadata",
@@ -59,8 +62,8 @@ def render(body_metadata, rows, output_path: Path):
             "## Overall Summary",
             "",
             f"- Average bodyweight: {fmt(overall['avg'])} kg",
-            f"- Lowest bodyweight: {fmt(overall['min'])} kg",
-            f"- Highest bodyweight: {fmt(overall['max'])} kg",
+            f"- Lowest bodyweight: {fmt(overall['min'])} kg on {overall['min_date']}",
+            f"- Highest bodyweight: {fmt(overall['max'])} kg on {overall['max_date']}",
             f"- First logged day: {rows[0]['date']} ({fmt(overall['start'])} kg)",
             f"- Last logged day: {rows[-1]['date']} ({fmt(overall['end'])} kg)",
             f"- Net change across export: {fmt(overall['delta'])} kg",
@@ -73,20 +76,20 @@ def render(body_metadata, rows, output_path: Path):
         yearly[row["date"][:4]].append(row)
         monthly[row["date"][:7]].append(row)
 
-    lines.extend(["## Yearly Summary", "", "| Year | Days | Avg | Low | High | Start | End | Delta |", "|---|---:|---:|---:|---:|---:|---:|---:|"])
+    lines.extend(["## Yearly Summary", "", "| Year | Days | Avg | Low | High | Start | End | Delta |", "|---|---:|---:|---|---|---:|---:|---:|"])
     for year in sorted(yearly):
         s = summarize(yearly[year])
         if not s:
             continue
-        lines.append(f"| {year} | {s['days']} | {fmt(s['avg'])} kg | {fmt(s['min'])} kg | {fmt(s['max'])} kg | {fmt(s['start'])} kg | {fmt(s['end'])} kg | {fmt(s['delta'])} kg |")
+        lines.append(f"| {year} | {s['days']} | {fmt(s['avg'])} kg | {fmt(s['min'])} kg ({s['min_date']}) | {fmt(s['max'])} kg ({s['max_date']}) | {fmt(s['start'])} kg | {fmt(s['end'])} kg | {fmt(s['delta'])} kg |")
     lines.append("")
 
-    lines.extend(["## Month-by-Month Summary", "", "| Month | Days | Avg | Low | High | Start | End | Delta |", "|---|---:|---:|---:|---:|---:|---:|---:|"])
+    lines.extend(["## Month-by-Month Summary", "", "| Month | Days | Avg | Low | High | Start | End | Delta |", "|---|---:|---:|---|---|---:|---:|---:|"])
     for month in sorted(monthly):
         s = summarize(monthly[month])
         if not s:
             continue
-        lines.append(f"| {month} | {s['days']} | {fmt(s['avg'])} kg | {fmt(s['min'])} kg | {fmt(s['max'])} kg | {fmt(s['start'])} kg | {fmt(s['end'])} kg | {fmt(s['delta'])} kg |")
+        lines.append(f"| {month} | {s['days']} | {fmt(s['avg'])} kg | {fmt(s['min'])} kg ({s['min_date']}) | {fmt(s['max'])} kg ({s['max_date']}) | {fmt(s['start'])} kg | {fmt(s['end'])} kg | {fmt(s['delta'])} kg |")
     lines.append("")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
