@@ -22,13 +22,30 @@ jobs:
           python-version: "3.13"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests google-auth
 
       - name: Create refresh token file
         run: echo "${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}" > scripts/.boostcamp_refresh_token
 
       - name: Fetch and parse history
         run: python scripts/parse_history.py --fetch
+
+      - name: Fetch Health Connect export
+        env:
+          GOOGLE_SERVICE_ACCOUNT_PROJECT_ID: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_PROJECT_ID }}
+          GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL }}
+          GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY_ID: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY_ID }}
+          GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY }}
+          HEALTH_CONNECT_DRIVE_FILE_ID: ${{ secrets.HEALTH_CONNECT_DRIVE_FILE_ID }}
+        run: |
+          python scripts/fetch_health_connect.py \
+            --output /tmp/health-connect.zip \
+            --metadata-output /tmp/health-connect-meta.json
+          unzip -q -o /tmp/health-connect.zip -d /tmp/health-connect
+          python scripts/export_health_daily.py \
+            --db /tmp/health-connect/health_connect_export.db \
+            --metadata /tmp/health-connect-meta.json \
+            --output values/health_daily.json
 
       - name: Generate 12-week history
         run: python scripts/generate_12_weeks.py
@@ -46,6 +63,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add values/history.json outputs/history.md outputs/12_last_weeks_history.md outputs/rpe_table.md outputs/history_clean.md
+          git add values/history.json values/health_daily.json outputs/history.md outputs/12_last_weeks_history.md outputs/rpe_table.md outputs/history_clean.md outputs/scorecard_weekly.md outputs/scorecard_monthly.md outputs/scorecard_quarterly.md outputs/scorecard_yearly.md
           git diff --staged --quiet || git commit -m "Update workout history [skip ci]"
           git push

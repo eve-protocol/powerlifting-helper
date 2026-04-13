@@ -20,7 +20,18 @@ import json
 import re
 from pathlib import Path
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta
+
+from health_metrics import (
+    add_health_deltas,
+    load_health_daily,
+    period_month,
+    period_quarter,
+    period_year,
+    render_health_scorecard_section,
+    summarize_health_group,
+    format_health_summary_block,
+)
 
 LBS_TO_KG = 0.453592
 WEEK_DAY_RE = re.compile(r'Week\s+(\d+)\s+·\s+Day\s+(\d+)')
@@ -293,7 +304,7 @@ def top_marker_text(marker):
     return f"{fmt_num(marker['weight_kg'])}kg x {marker['reps']} @ {fmt_num(marker['rpe'], 2)}"
 
 
-def render_scorecard_file(output_path, title, subtitle, scorecards):
+def render_scorecard_file(output_path, title, subtitle, scorecards, health_scorecards=None):
     lines = []
     lines.append(f"# {title}")
     lines.append("")
@@ -302,7 +313,8 @@ def render_scorecard_file(output_path, title, subtitle, scorecards):
 
     periods = list(scorecards.keys())
     add_deltas(scorecards, periods)
-    period_label = title.split()[0].lower()
+    if health_scorecards:
+        add_health_deltas(health_scorecards, periods)
 
     for idx, period in enumerate(periods):
         prev_period = periods[idx + 1] if idx + 1 < len(periods) else None
@@ -343,10 +355,16 @@ def render_scorecard_file(output_path, title, subtitle, scorecards):
                 lines.append(f"- Top work-set delta: {fmt_delta(d['top_work'], 1, 'kg')} (only meaningful when the rep scheme is comparable)")
             lines.append("")
 
+        render_health_scorecard_section(
+            lines,
+            health_scorecards.get(period) if health_scorecards else None,
+            health_scorecards.get(prev_period) if health_scorecards and prev_period else None,
+        )
+
     output_path.write_text('\n'.join(lines))
 
 
-def render_clean_history(output_path, workouts):
+def render_clean_history(output_path, workouts, health_daily):
     lines = []
     lines.append("# Clean Training History")
     lines.append("")
@@ -356,6 +374,7 @@ def render_clean_history(output_path, workouts):
     for workout in workouts:
         lines.append(f"## {workout['date']}")
         lines.append("")
+        lines.extend(format_health_summary_block(health_daily.get(workout['date'])))
         lines.append(f"**{workout['title']}**")
         if workout['finished_at']:
             lines.append(f"Finished: {workout['finished_at']}")
@@ -384,37 +403,69 @@ def generate_exports():
 
     workouts = build_workouts(data)
     entries = extract_family_entries(workouts)
+    health_daily = load_health_daily(repo_path)
 
-    render_clean_history(outputs / 'history_clean.md', workouts)
+    render_clean_history(outputs / 'history_clean.md', workouts, health_daily)
 
     weekly = compute_period_scorecards(entries, 'week_label')
     monthly = compute_period_scorecards(entries, 'month')
     quarterly = compute_period_scorecards(entries, 'quarter')
     yearly = compute_period_scorecards(entries, 'year')
 
+    week_ranges = {}
+    for w in workouts:
+        if not w.get('week'):
+            continue
+        key = f"{w['block_name']} / Week {w['week']}"
+        d = w['date_obj']
+        current = week_ranges.get(key)
+        week_ranges[key] = (d, d) if not current else (min(current[0], d), max(current[1], d))
+
+    weekly_health = {}
+    for key, (start_d, end_d) in week_ranges.items():
+        rows = [row for ds, row in health_daily.items() if start_d.isoformat() <= ds <= end_d.isoformat()]
+        summary = summarize_health_group(rows)
+        if summary:
+            weekly_health[key] = summary
+
+    monthly_health = {}
+    quarterly_health = {}
+    yearly_health = {}
+    for row in health_daily.values():
+        monthly_health.setdefault(period_month(row['date']), []).append(row)
+        quarterly_health.setdefault(period_quarter(row['date']), []).append(row)
+        yearly_health.setdefault(period_year(row['date']), []).append(row)
+    monthly_health = {k: summarize_health_group(v) for k, v in monthly_health.items()}
+    quarterly_health = {k: summarize_health_group(v) for k, v in quarterly_health.items()}
+    yearly_health = {k: summarize_health_group(v) for k, v in yearly_health.items()}
+
     render_scorecard_file(
         outputs / 'scorecard_weekly.md',
         'Weekly Scorecards',
         '*Auto-generated from history.json - movement-family scorecards by training week*',
         weekly,
+        weekly_health,
     )
     render_scorecard_file(
         outputs / 'scorecard_monthly.md',
         'Monthly Scorecards',
         '*Auto-generated from history.json - movement-family scorecards by calendar month*',
         monthly,
+        monthly_health,
     )
     render_scorecard_file(
         outputs / 'scorecard_quarterly.md',
         'Quarterly Scorecards',
         '*Auto-generated from history.json - movement-family scorecards by calendar quarter*',
         quarterly,
+        quarterly_health,
     )
     render_scorecard_file(
         outputs / 'scorecard_yearly.md',
         'Yearly Scorecards',
         '*Auto-generated from history.json - movement-family scorecards by calendar year*',
         yearly,
+        yearly_health,
     )
 
     print(f"Generated clean history: {outputs / 'history_clean.md'}")

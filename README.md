@@ -12,7 +12,17 @@ Tools for fetching and analyzing workout data from Boostcamp.
 Data files are saved to the `values/` directory at the project root:
 
 - `values/history.json` - Workout history
+- `values/health_daily.json` - Normalized daily Health Connect metrics (Garmin-first)
 - `values/<program_name>.json` - Program details (e.g., `strength_block_v3.json`)
+
+Rendered markdown outputs are saved to `outputs/`, including:
+
+- `outputs/history_clean.md`
+- `outputs/12_last_weeks_history.md`
+- `outputs/scorecard_weekly.md`
+- `outputs/scorecard_monthly.md`
+- `outputs/scorecard_quarterly.md`
+- `outputs/scorecard_yearly.md`
 
 ### Custom Output Directory
 
@@ -25,7 +35,13 @@ python scripts/parse_history.py -o /tmp/workout-data/
 
 ## Setup
 
-1. Install dependencies: `pip install requests`
+1. Install dependencies: `pip install requests google-auth`
 2. Get your Boostcamp refresh token from browser DevTools
 3. Save it to `scripts/.boostcamp_refresh_token`
-4. Run the scripts
+4. If you want CI Health Connect ingestion, add these GitHub secrets:
+   - `GOOGLE_SERVICE_ACCOUNT_PROJECT_ID`
+   - `GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL`
+   - `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY_ID`
+   - `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY`
+   - `HEALTH_CONNECT_DRIVE_FILE_ID`
+5. Run the scripts

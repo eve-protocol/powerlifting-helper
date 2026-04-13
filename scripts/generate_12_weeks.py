@@ -9,6 +9,9 @@ import os
 import sys
 from datetime import datetime, timedelta
 from collections import defaultdict
+from pathlib import Path
+
+from health_metrics import load_health_daily, format_health_summary_block
 
 # Constants for weight conversion
 LBS_TO_KG = 0.453592
@@ -189,7 +192,7 @@ def parse_workout_data(data, start_date, end_date):
     return weeks
 
 
-def generate_markdown(weeks, start_date, end_date):
+def generate_markdown(weeks, start_date, end_date, health_daily):
     """Generate AI-readable markdown from parsed workout data."""
     lines = []
     lines.append("# Last 12 Weeks Training History")
@@ -327,7 +330,8 @@ def generate_markdown(weeks, start_date, end_date):
             day_name = get_day_name(date_str)
             lines.append(f"### {date_str} ({day_name})")
             lines.append("")
-            
+            lines.extend(format_health_summary_block(health_daily.get(date_str)))
+
             exercises = week_data['days'][date_str]
             
             for ex in exercises:
@@ -371,9 +375,10 @@ def main():
     
     # Parse data
     weeks = parse_workout_data(data, start_date, end_date)
-    
+    health_daily = load_health_daily(Path(project_root))
+
     # Generate markdown
-    markdown = generate_markdown(weeks, start_date, end_date)
+    markdown = generate_markdown(weeks, start_date, end_date, health_daily)
     
     # Write output
     with open(output_file, 'w') as f:
