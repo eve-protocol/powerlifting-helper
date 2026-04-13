@@ -2,8 +2,6 @@
 
 from pathlib import Path
 
-import yaml
-
 PROGRAMS_DIR = Path("programs")
 OUTPUTS_DIR = Path("outputs")
 
@@ -15,6 +13,8 @@ def iter_program_files(programs_dir=PROGRAMS_DIR):
 
 def load_program_file(path):
     """Load one YAML program file."""
+    import yaml
+
     return yaml.safe_load(Path(path).read_text(encoding="utf-8"))
 
 
