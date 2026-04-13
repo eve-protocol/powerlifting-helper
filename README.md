@@ -39,9 +39,6 @@ python scripts/parse_history.py -o /tmp/workout-data/
 2. Get your Boostcamp refresh token from browser DevTools
 3. Save it to `scripts/.boostcamp_refresh_token`
 4. If you want CI Health Connect ingestion, add these GitHub secrets:
-   - `GOOGLE_SERVICE_ACCOUNT_PROJECT_ID`
-   - `GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL`
-   - `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY_ID`
-   - `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY`
+   - `GOOGLE_SERVICE_ACCOUNT_JSON`
    - `HEALTH_CONNECT_DRIVE_FILE_ID`
 5. Run the scripts

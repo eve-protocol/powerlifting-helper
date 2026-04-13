@@ -13,24 +13,14 @@ from google.oauth2 import service_account
 from google.auth.transport.requests import Request
 
 SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
-TOKEN_URI = "https://oauth2.googleapis.com/token"
 DRIVE_FILE_URL = "https://www.googleapis.com/drive/v3/files/{file_id}"
 
 
 def build_credentials_from_env():
-    project_id = os.environ["GOOGLE_SERVICE_ACCOUNT_PROJECT_ID"]
-    client_email = os.environ["GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL"]
-    private_key_id = os.environ["GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY_ID"]
-    private_key = os.environ["GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY"].replace("\\n", "\n")
-
-    info = {
-        "type": "service_account",
-        "project_id": project_id,
-        "private_key_id": private_key_id,
-        "private_key": private_key,
-        "client_email": client_email,
-        "token_uri": TOKEN_URI,
-    }
+    raw = os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    info = json.loads(raw)
+    if "private_key" in info and isinstance(info["private_key"], str):
+        info["private_key"] = info["private_key"].replace("\\n", "\n")
     creds = service_account.Credentials.from_service_account_info(info, scopes=SCOPES)
     creds.refresh(Request())
     return creds
