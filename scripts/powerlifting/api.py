@@ -3,6 +3,7 @@
 import json
 import os
 import time
+from pathlib import Path
 
 try:
     import requests
@@ -72,24 +73,28 @@ def get_access_token(script_dir):
     """
     if not _check_requests():
         return None
-    
-    refresh_token_file = os.path.join(script_dir, DEFAULT_REFRESH_TOKEN_FILE)
-    
-    if not os.path.exists(refresh_token_file):
-        print(f"Error: Refresh token file not found: {refresh_token_file}")
-        print("\nTo set up authentication:")
-        print("1. Open https://www.boostcamp.app in your browser")
-        print("2. Login if needed")
-        print("3. Open DevTools (F12) → Application → Local Storage")
-        print("4. Find the 'refreshToken' in the USER_INFO key")
-        print(f"5. Save it to: {refresh_token_file}")
-        return None
-    
-    with open(refresh_token_file, 'r') as f:
-        refresh_token = f.read().strip()
-    
+
+    env_token = os.environ.get('BOOSTCAMP_REFRESH_TOKEN', '').strip()
+    if env_token:
+        refresh_token = env_token
+        refresh_token_file = None
+    else:
+        refresh_token_file = Path(script_dir) / DEFAULT_REFRESH_TOKEN_FILE
+
+        if not refresh_token_file.exists():
+            print(f"Error: Refresh token file not found: {refresh_token_file}")
+            print("\nTo set up authentication:")
+            print("1. Open https://www.boostcamp.app in your browser")
+            print("2. Login if needed")
+            print("3. Open DevTools (F12) → Application → Local Storage")
+            print("4. Find the 'refreshToken' in the USER_INFO key")
+            print(f"5. Save it to: {refresh_token_file}")
+            return None
+
+        refresh_token = refresh_token_file.read_text().strip()
+
     if not refresh_token:
-        print(f"Error: Refresh token file is empty: {refresh_token_file}")
+        print(f"Error: Refresh token source is empty: {refresh_token_file or 'BOOSTCAMP_REFRESH_TOKEN'}")
         return None
     
     print("🔑 Refreshing access token...")
@@ -101,9 +106,8 @@ def get_access_token(script_dir):
         return None
     
     # Save new refresh token if it was rotated
-    if new_refresh_token and new_refresh_token != refresh_token:
-        with open(refresh_token_file, 'w') as f:
-            f.write(new_refresh_token)
+    if refresh_token_file and new_refresh_token and new_refresh_token != refresh_token:
+        refresh_token_file.write_text(new_refresh_token)
         print("   (Refresh token updated)")
     
     print("✅ Token refreshed successfully!")
@@ -183,6 +187,21 @@ def fetch_program(program_id, token):
     return response.json()
 
 
+def fetch_created_programs(token, page_size=200):
+    """Fetch the user's created programs from Boostcamp."""
+    if not _check_requests():
+        return []
+
+    headers = _get_headers(token)
+    timestamp = int(time.time() * 1000)
+    payload = {'pagination': {'current': 1, 'pageSize': page_size}}
+    url = f"{BOOSTCAMP_PROGRAMS_LIST_URL}?_={timestamp}"
+    response = requests.post(url, headers=headers, json=payload, timeout=30)
+    response.raise_for_status()
+    data = response.json()
+    return data.get('data', {}).get('rows', [])
+
+
 def fetch_user_programs(token):
     """Fetch list of all user's programs from Boostcamp API.
     
@@ -205,12 +224,7 @@ def fetch_user_programs(token):
     
     # Fetch created programs
     try:
-        payload = {'pagination': {'current': 1, 'pageSize': 200}}
-        url = f"{BOOSTCAMP_PROGRAMS_LIST_URL}?_={timestamp}"
-        response = requests.post(url, headers=headers, json=payload, timeout=30)
-        response.raise_for_status()
-        data = response.json()
-        for prog in data.get('data', {}).get('rows', []):
+        for prog in fetch_created_programs(token):
             all_programs[prog.get('id')] = prog
     except Exception as e:
         print(f"   Warning: Could not fetch created programs: {e}")

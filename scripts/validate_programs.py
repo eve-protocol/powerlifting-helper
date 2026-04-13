@@ -6,7 +6,8 @@ Exits with error if any file is invalid.
 
 import sys
 import yaml
-from pathlib import Path
+
+from powerlifting.programs import PROGRAMS_DIR, iter_program_files, load_program_file
 
 REQUIRED_FIELDS = ['name', 'description', 'weeks', 'days_per_week', 'workouts']
 REQUIRED_WORKOUT_FIELDS = ['week', 'day', 'name', 'exercises']
@@ -104,8 +105,7 @@ def validate_program(file_path):
     errors = []
     
     try:
-        with open(file_path, 'r') as f:
-            data = yaml.safe_load(f)
+        data = load_program_file(file_path)
     except yaml.YAMLError as e:
         return [f"YAML parsing error: {e}"]
     except Exception as e:
@@ -137,13 +137,13 @@ def validate_program(file_path):
 
 
 def main():
-    programs_dir = Path("programs")
-    
+    programs_dir = PROGRAMS_DIR
+
     if not programs_dir.exists():
         print("❌ Programs directory not found")
         sys.exit(1)
     
-    yaml_files = list(programs_dir.glob("*.yaml")) + list(programs_dir.glob("*.yml"))
+    yaml_files = iter_program_files(programs_dir)
     
     if not yaml_files:
         print("ℹ️ No YAML files found in programs/ directory")

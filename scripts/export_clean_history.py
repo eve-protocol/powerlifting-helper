@@ -24,6 +24,8 @@ from datetime import datetime, timedelta
 
 from health_metrics import (
     add_health_deltas,
+    fmt_delta,
+    fmt_num,
     load_health_daily,
     period_month,
     period_quarter,
@@ -32,68 +34,15 @@ from health_metrics import (
     summarize_health_group,
     format_health_summary_block,
 )
+from powerlifting.exercises import MAIN_LIFT_VARIATIONS, get_exercise_family, lbs_to_kg
 
-LBS_TO_KG = 0.453592
 WEEK_DAY_RE = re.compile(r'Week\s+(\d+)\s+·\s+Day\s+(\d+)')
-
-EXACT_FAMILY_MAP = {
-    # squat family
-    'Squat (Low Bar)': 'squat',
-    'Squat (Paused)': 'squat',
-    'High Bar Squat (Barbell)': 'squat',
-    'Tempo Squat (Barbell)': 'squat',
-    'Tempo Squat High Bar (Barbell)': 'squat',
-    'Box Squat (Barbell)': 'squat',
-    # bench family
-    'Bench Press (Barbell)': 'bench',
-    'Bench Press (Paused)': 'bench',
-    'Bench Press (Close Grip)': 'bench',
-    'Bench Press (Smith Machine)': 'bench',
-    'Larsen Press (Barbell)': 'bench',
-    'Spoto Press': 'bench',
-    'Incline Bench Press (Dumbbell)': 'bench',
-    'Incline Bench Press (Smith Machine)': 'bench',
-    # deadlift family
-    'Deadlift (Barbell)': 'deadlift',
-    'Deadlift (Paused)': 'deadlift',
-    'Deadlift (Deficit)': 'deadlift',
-    'Block Pull (Barbell)': 'deadlift',
-    'Sumo Deadlift (Barbell)': 'deadlift',
-    'Sumo Deadlift (Paused)': 'deadlift',
-    'Sumo Deadlift (Banded)': 'deadlift',
-    'Romanian Deadlift (Barbell)': 'deadlift',
-    'Sumo Romanian Deadlift': 'deadlift',
-}
-
-MAIN_LIFT_VARIATIONS = {
-    'squat': {
-        'Squat (Low Bar)', 'Squat (Paused)', 'High Bar Squat (Barbell)',
-        'Tempo Squat (Barbell)', 'Tempo Squat High Bar (Barbell)', 'Box Squat (Barbell)'
-    },
-    'bench': {
-        'Bench Press (Barbell)', 'Bench Press (Paused)', 'Bench Press (Close Grip)',
-        'Larsen Press (Barbell)', 'Spoto Press', 'Incline Bench Press (Dumbbell)',
-        'Incline Bench Press (Smith Machine)', 'Bench Press (Smith Machine)'
-    },
-    'deadlift': {
-        'Deadlift (Barbell)', 'Deadlift (Paused)', 'Deadlift (Deficit)',
-        'Block Pull (Barbell)', 'Sumo Deadlift (Barbell)', 'Sumo Deadlift (Paused)',
-        'Sumo Deadlift (Banded)', 'Romanian Deadlift (Barbell)', 'Sumo Romanian Deadlift'
-    }
-}
 
 FAMILY_LABELS = {
     'squat': 'Squat family',
     'bench': 'Bench family',
     'deadlift': 'Deadlift family',
 }
-
-
-def lbs_to_kg(lbs):
-    if lbs is None or lbs == 0:
-        return 0
-    kg = float(lbs) * LBS_TO_KG
-    return round(kg * 2) / 2
 
 
 def parse_week_day(title):
@@ -105,32 +54,8 @@ def parse_week_day(title):
     return int(m.group(1)), int(m.group(2))
 
 
-def get_family(exercise_name):
-    return EXACT_FAMILY_MAP.get(exercise_name)
-
-
-def fmt_num(x, digits=1):
-    if x is None:
-        return '-'
-    if isinstance(x, int):
-        return str(x)
-    if round(x, digits).is_integer():
-        return str(int(round(x, digits)))
-    return f"{x:.{digits}f}"
-
-
-def fmt_delta(x, digits=1, suffix=''):
-    if x is None:
-        return 'n/a'
-    arrow = '↑' if x > 0 else ('↓' if x < 0 else '→')
-    abs_x = abs(x)
-    if round(abs_x, digits).is_integer():
-        return f"{arrow} {int(round(abs_x, digits))}{suffix}"
-    return f"{arrow} {abs_x:.{digits}f}{suffix}"
-
-
 def format_set(set_data, set_num):
-    weight_kg = lbs_to_kg(set_data.get('archived_weight'))
+    weight_kg = lbs_to_kg(set_data.get('archived_weight'), rounding=0.5)
     reps = set_data.get('archived_reps', 0)
     rpe = set_data.get('archived_rpe') or set_data.get('previous_rpe') or '-'
 
@@ -192,13 +117,13 @@ def extract_family_entries(workouts):
         session_key = (workout['date'], workout['title'])
         for record in workout['records']:
             exercise_name = record.get('name', 'Unknown')
-            family = get_family(exercise_name)
+            family = get_exercise_family(exercise_name)
             if not family:
                 continue
             for set_data in record.get('sets', []):
                 if set_data.get('skipped', False):
                     continue
-                weight_kg = lbs_to_kg(set_data.get('archived_weight'))
+                weight_kg = lbs_to_kg(set_data.get('archived_weight'), rounding=0.5)
                 reps = set_data.get('archived_reps', 0)
                 rpe = set_data.get('archived_rpe') or set_data.get('previous_rpe')
                 if not reps or not weight_kg:

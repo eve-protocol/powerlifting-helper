@@ -14,12 +14,13 @@ import time
 import uuid
 
 import requests
-import yaml
+
+from .api import refresh_access_token
+from .constants import BOOSTCAMP_PROGRAM_DETAIL_URL, BOOSTCAMP_PROGRAMS_LIST_URL, DEFAULT_REFRESH_TOKEN_FILE
+from .programs import load_program_file
 
 # Configuration
 BASE_URL = "https://newapi.boostcamp.app/api"
-REFRESH_TOKEN_FILE = ".boostcamp_refresh_token"
-FIREBASE_API_KEY = "AIzaSyAEJcoGF-5ueF3bvaujcJm2PUV7RHKQwTw"
 
 # Video URL mapping for common exercises
 VIDEO_URLS = {
@@ -69,6 +70,60 @@ def create_set(target_reps, rpe_min, rpe_max):
     }
 
 
+def normalize_target_reps(target):
+    """Normalize YAML set targets to an integer rep target for Boostcamp."""
+    if isinstance(target, str) and 'AMRAP' in target.upper():
+        try:
+            return int(target.upper().replace('AMRAP', '').replace('-', '').strip() or 5)
+        except Exception:
+            return 5
+    return int(target) if isinstance(target, (int, str)) else 5
+
+
+def resolve_video_url(exercise_name):
+    """Resolve exercise demo video URL with case-insensitive fallback."""
+    video_url = VIDEO_URLS.get(exercise_name, "")
+    if video_url:
+        return video_url
+
+    exercise_name_lower = exercise_name.lower()
+    for name, url in VIDEO_URLS.items():
+        if name.lower() == exercise_name_lower:
+            return url
+    return ""
+
+
+def create_exercise_payload(ex_data):
+    """Convert one YAML exercise entry to Boostcamp API payload format."""
+    sets = []
+    for set_data in ex_data.get('sets', []):
+        target = normalize_target_reps(set_data['target'])
+        rpe = set_data['rpe']
+        sets.append(create_set(target, rpe[0], rpe[1]))
+
+    return {
+        "id": generate_uuid(),
+        "name": ex_data['name'],
+        "type": ex_data.get('type', 'Barbell'),
+        "muscles": ex_data.get('muscles', []),
+        "sets": sets,
+        "video": resolve_video_url(ex_data['name']),
+        "alternatives": [],
+        "create_from": "web"
+    }
+
+
+def summarize_program_row(row, source):
+    """Return a normalized program summary row."""
+    return {
+        'id': row.get('id'),
+        'name': row.get('title', 'Unknown'),
+        'description': row.get('description', ''),
+        'weeks': len(row.get('weeks', [])),
+        'source': source,
+    }
+
+
 def yaml_to_boostcamp_format(yaml_data, existing_id=None, existing_slug=None):
     """Convert YAML program data to Boostcamp API format"""
     
@@ -76,45 +131,10 @@ def yaml_to_boostcamp_format(yaml_data, existing_id=None, existing_slug=None):
     max_week = 0
     
     for workout_data in yaml_data.get('workouts', []):
-        exercises = []
         week_idx = workout_data['week'] - 1  # Boostcamp uses 0-indexed weeks
         day_idx = workout_data['day'] - 1     # Boostcamp uses 0-indexed days
         max_week = max(max_week, workout_data['week'])
-        
-        for ex_data in workout_data.get('exercises', []):
-            sets = []
-            for set_data in ex_data.get('sets', []):
-                target = set_data['target']
-                rpe = set_data['rpe']
-                
-                if isinstance(target, str) and 'AMRAP' in target.upper():
-                    # AMRAP sets - use the number after AMRAP or default to 5
-                    try:
-                        amrap_target = int(target.upper().replace('AMRAP', '').replace('-', '').strip() or 5)
-                    except:
-                        amrap_target = 5
-                    sets.append(create_set(amrap_target, rpe[0], rpe[1]))
-                else:
-                    sets.append(create_set(int(target), rpe[0], rpe[1]))
-            
-            # Get video URL - try exact match first, then case-insensitive
-            video_url = VIDEO_URLS.get(ex_data['name'], "")
-            if not video_url:
-                for name, url in VIDEO_URLS.items():
-                    if name.lower() == ex_data['name'].lower():
-                        video_url = url
-                        break
-            
-            exercises.append({
-                "id": generate_uuid(),
-                "name": ex_data['name'],
-                "type": ex_data.get('type', 'Barbell'),
-                "muscles": ex_data.get('muscles', []),
-                "sets": sets,
-                "video": video_url,
-                "alternatives": [],
-                "create_from": "web"
-            })
+        exercises = [create_exercise_payload(ex_data) for ex_data in workout_data.get('exercises', [])]
         
         workouts.append({
             "week": week_idx,
@@ -168,6 +188,8 @@ class BoostcampManager:
     def __init__(self, refresh_token_path=None):
         self.access_token = None
         self.refresh_token = None
+        self.refresh_token_path = None
+        self.refresh_token_from_env = False
         self.headers = {
             "Content-Type": "application/json; charset=UTF-8",
             "Accept": "*/*",
@@ -183,10 +205,13 @@ class BoostcampManager:
         """Load refresh token from env first, then from disk."""
         env_token = os.environ.get("BOOSTCAMP_REFRESH_TOKEN", "").strip()
         if env_token:
+            self.refresh_token_from_env = True
             return env_token
 
         if refresh_token_path is None:
-            refresh_token_path = REFRESH_TOKEN_FILE
+            refresh_token_path = DEFAULT_REFRESH_TOKEN_FILE
+
+        self.refresh_token_path = refresh_token_path
 
         if os.path.exists(refresh_token_path):
             with open(refresh_token_path, 'r') as f:
@@ -196,33 +221,53 @@ class BoostcampManager:
             "Refresh token not found. Set BOOSTCAMP_REFRESH_TOKEN or create "
             f"{refresh_token_path}"
         )
+
+    def _save_refresh_token(self, refresh_token):
+        """Persist a rotated refresh token only when using a file-backed token."""
+        if self.refresh_token_from_env or not self.refresh_token_path:
+            return
+        with open(self.refresh_token_path, 'w') as f:
+            f.write(refresh_token)
+
+    @staticmethod
+    def _timestamp_params():
+        return {"_": int(time.time() * 1000)}
+
+    def _post_json(self, url, payload, timeout=30):
+        response = requests.post(
+            url,
+            headers=self.headers,
+            params=self._timestamp_params(),
+            json=payload,
+            timeout=timeout,
+        )
+        response.raise_for_status()
+        return response.json()
+
+    def _request_json(self, url, payload, error_message, timeout=30, show_response=False):
+        """POST JSON and return parsed response, or None with a friendly error."""
+        try:
+            return self._post_json(url, payload, timeout=timeout)
+        except Exception as e:
+            print(f"   {error_message}: {e}")
+            if show_response and hasattr(e, 'response') and e.response:
+                print(f"   Response: {e.response.text[:500]}")
+            return None
     
     def _authenticate(self):
         """Exchange refresh token for access token"""
-        url = f"https://securetoken.googleapis.com/v1/token?key={FIREBASE_API_KEY}"
-        payload = {
-            "grant_type": "refresh_token",
-            "refresh_token": self.refresh_token
-        }
-        
         try:
-            resp = requests.post(url, data=payload, timeout=30)
-            resp.raise_for_status()
-            data = resp.json()
-            
-            self.access_token = data.get('id_token')
-            new_refresh_token = data.get('refresh_token')
-            
+            self.access_token, new_refresh_token = refresh_access_token(self.refresh_token)
+
             if not self.access_token:
                 raise Exception("No access token received from Firebase")
-            
+
             # Update headers with token
             self.headers["Authorization"] = f"FirebaseIdToken:{self.access_token}"
-            
+
             # Save new refresh token if rotated
             if new_refresh_token and new_refresh_token != self.refresh_token:
-                with open(REFRESH_TOKEN_FILE, 'w') as f:
-                    f.write(new_refresh_token)
+                self._save_refresh_token(new_refresh_token)
                 self.refresh_token = new_refresh_token
                 print("   (Refresh token updated)")
             
@@ -234,67 +279,41 @@ class BoostcampManager:
     def list_programs(self):
         """List all user's programs from both endpoints"""
         all_programs = {}
-        timestamp = int(time.time() * 1000)
-        
-        # Fetch created programs from user_programs/list
-        url = f"{BASE_URL}/www/user_programs/list"
-        payload = {
-            "sorter": {"order": "desc"},
-            "filters": {
-                "search": "",
-                "equipments": [],
-                "difficulties": [],
-                "days_per_week": [],
-                "goals": []
-            },
-            "pagination": {"current": 1, "pageSize": 100}
-        }
-        
-        try:
-            resp = requests.post(url, headers=self.headers, params={"_": timestamp}, 
-                               json=payload, timeout=30)
-            resp.raise_for_status()
-            data = resp.json()
-            
+
+        endpoints = [
+            (
+                f"{BASE_URL}/www/user_programs/list",
+                {
+                    "sorter": {"order": "desc"},
+                    "filters": {
+                        "search": "",
+                        "equipments": [],
+                        "difficulties": [],
+                        "days_per_week": [],
+                        "goals": []
+                    },
+                    "pagination": {"current": 1, "pageSize": 100}
+                },
+                "user_programs/list",
+            ),
+            (
+                BOOSTCAMP_PROGRAMS_LIST_URL,
+                {"pagination": {"current": 1, "pageSize": 200}},
+                "programs/user_programs/list",
+            ),
+        ]
+
+        for url, payload, source in endpoints:
+            data = self._request_json(url, payload, f"Warning: Could not fetch from {source}")
+            if not data:
+                continue
+
             rows = data.get('data', {}).get('rows', [])
-            print(f"   Found {len(rows)} programs in user_programs/list")
-            
+            print(f"   Found {len(rows)} programs in {source}")
+
             for row in rows:
                 if isinstance(row, dict) and 'title' in row:
-                    all_programs[row.get('id')] = {
-                        'id': row.get('id'),
-                        'name': row.get('title', 'Unknown'),
-                        'description': row.get('description', ''),
-                        'weeks': len(row.get('weeks', [])),
-                        'source': 'user_programs/list'
-                    }
-        except Exception as e:
-            print(f"   Warning: Could not fetch from user_programs/list: {e}")
-        
-        # Fetch from programs/user_programs/list
-        url2 = f"{BASE_URL}/www/programs/user_programs/list"
-        payload2 = {"pagination": {"current": 1, "pageSize": 200}}
-        
-        try:
-            resp = requests.post(url2, headers=self.headers, params={"_": timestamp}, 
-                               json=payload2, timeout=30)
-            resp.raise_for_status()
-            data = resp.json()
-            
-            rows = data.get('data', {}).get('rows', [])
-            print(f"   Found {len(rows)} programs in programs/user_programs/list")
-            
-            for row in rows:
-                if isinstance(row, dict) and 'title' in row:
-                    all_programs[row.get('id')] = {
-                        'id': row.get('id'),
-                        'name': row.get('title', 'Unknown'),
-                        'description': row.get('description', ''),
-                        'weeks': len(row.get('weeks', [])),
-                        'source': 'programs/user_programs/list'
-                    }
-        except Exception as e:
-            print(f"   Warning: Could not fetch from programs/user_programs/list: {e}")
+                    all_programs[row.get('id')] = summarize_program_row(row, source)
         
         return list(all_programs.values())
     
@@ -323,56 +342,39 @@ class BoostcampManager:
     
     def get_program_details(self, program_id):
         """Get full program details"""
-        url = f"{BASE_URL}/www/programs/user_program/share_detail"
-        timestamp = int(time.time() * 1000)
         payload = {"program_id": program_id}
-        
-        try:
-            resp = requests.post(url, headers=self.headers, params={"_": timestamp}, 
-                               json=payload, timeout=30)
-            resp.raise_for_status()
-            return resp.json()
-        except Exception as e:
-            print(f"   Error getting program details: {e}")
-            return None
+        return self._request_json(
+            BOOSTCAMP_PROGRAM_DETAIL_URL,
+            payload,
+            "Error getting program details",
+        )
     
     def create_program(self, program_data):
         """Create a new program using new_create endpoint"""
         url = f"{BASE_URL}/www/programs/user_program/new_create"
-        timestamp = int(time.time() * 1000)
-        
-        try:
-            resp = requests.post(url, headers=self.headers, params={"_": timestamp}, 
-                               json=program_data, timeout=60)
-            resp.raise_for_status()
-            return resp.json()
-        except Exception as e:
-            print(f"   Error creating program: {e}")
-            if hasattr(e, 'response') and e.response:
-                print(f"   Response: {e.response.text[:500]}")
-            return None
+        return self._request_json(
+            url,
+            program_data,
+            "Error creating program",
+            timeout=60,
+            show_response=True,
+        )
     
     def update_program(self, program_data):
         """Update an existing program"""
         url = f"{BASE_URL}/www/programs/user_program/update"
-        timestamp = int(time.time() * 1000)
-        
-        try:
-            resp = requests.post(url, headers=self.headers, params={"_": timestamp}, 
-                               json=program_data, timeout=60)
-            resp.raise_for_status()
-            return resp.json()
-        except Exception as e:
-            print(f"   Error updating program: {e}")
-            if hasattr(e, 'response') and e.response:
-                print(f"   Response: {e.response.text[:500]}")
-            return None
+        return self._request_json(
+            url,
+            program_data,
+            "Error updating program",
+            timeout=60,
+            show_response=True,
+        )
     
     def sync_program(self, yaml_file, force=False):
         """Sync a YAML program to Boostcamp (create or update)"""
         # Load YAML
-        with open(yaml_file, 'r') as f:
-            yaml_data = yaml.safe_load(f)
+        yaml_data = load_program_file(yaml_file)
         
         program_name = yaml_data['name']
         print(f"\n🔄 Syncing program: {program_name}")

@@ -7,11 +7,9 @@ implementation so the sync logic only lives in one place.
 """
 
 import sys
-from pathlib import Path
 
 from powerlifting.boostcamp_program_manager import BoostcampManager
-
-PROGRAMS_DIR = Path(__file__).resolve().parent.parent / "programs"
+from powerlifting.programs import PROGRAMS_DIR, iter_program_files
 
 
 def main():
@@ -22,7 +20,7 @@ def main():
         print("❌ Programs directory not found")
         sys.exit(1)
 
-    yaml_files = sorted(PROGRAMS_DIR.glob("*.yaml"))
+    yaml_files = iter_program_files(PROGRAMS_DIR)
     if not yaml_files:
         print("ℹ️ No YAML files found")
         sys.exit(0)

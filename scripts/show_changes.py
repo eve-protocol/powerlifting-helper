@@ -4,93 +4,10 @@ Show what changes would be made to Boostcamp programs.
 Compares actual workout content (exercises, sets, RPE values).
 """
 
-import os
-import sys
-import requests
-import yaml
-import time
 from pathlib import Path
 
-BASE_URL = "https://newapi.boostcamp.app/api"
-FIREBASE_API_KEY = "AIzaSyAEJcoGF-5ueF3bvaujcJm2PUV7RHKQwTw"
-
-HEADERS = {
-    "Content-Type": "application/json; charset=UTF-8",
-    "Accept": "application/json",
-    "Origin": "https://www.boostcamp.app",
-    "Referer": "https://www.boostcamp.app/"
-}
-
-
-def get_access_token():
-    """Get access token from environment or file"""
-    env_token = os.environ.get('BOOSTCAMP_REFRESH_TOKEN')
-    if env_token:
-        refresh_token = env_token.strip()
-    else:
-        token_file = Path(__file__).parent / '.boostcamp_refresh_token'
-        if token_file.exists():
-            refresh_token = token_file.read_text().strip()
-        else:
-            return None
-    
-    url = f"https://securetoken.googleapis.com/v1/token?key={FIREBASE_API_KEY}"
-    payload = {"grant_type": "refresh_token", "refresh_token": refresh_token}
-    
-    try:
-        resp = requests.post(url, data=payload, timeout=30)
-        resp.raise_for_status()
-        return resp.json().get('id_token')
-    except Exception as e:
-        print(f"❌ Auth failed: {e}")
-        return None
-
-
-def fetch_program_list(access_token):
-    """Fetch list of user programs"""
-    headers = HEADERS.copy()
-    headers["Authorization"] = f"FirebaseIdToken:{access_token}"
-    
-    url = f"{BASE_URL}/www/programs/user_programs/list"
-    payload = {"pagination": {"current": 1, "pageSize": 200}}
-    
-    resp = requests.post(url, headers=headers, params={"_": int(time.time()*1000)},
-                       json=payload, timeout=30)
-    resp.raise_for_status()
-    return resp.json().get('data', {}).get('rows', [])
-
-
-def fetch_program_detail(access_token, program_id):
-    """Fetch full program details"""
-    headers = HEADERS.copy()
-    headers["Authorization"] = f"FirebaseIdToken:{access_token}"
-    
-    url = f"{BASE_URL}/www/programs/user_program/share_detail"
-    payload = {"program_id": program_id}
-    
-    resp = requests.post(url, headers=headers, params={"_": int(time.time()*1000)},
-                       json=payload, timeout=30)
-    resp.raise_for_status()
-    return resp.json().get('data', {})
-
-
-def load_local_programs():
-    """Load all local YAML program files with full content"""
-    programs_dir = Path("programs")
-    programs = {}
-    
-    if not programs_dir.exists():
-        return programs
-    
-    for yaml_file in programs_dir.glob("*.yaml"):
-        try:
-            with open(yaml_file, 'r') as f:
-                data = yaml.safe_load(f)
-                programs[data['name']] = data
-        except Exception as e:
-            print(f"⚠️ Error loading {yaml_file}: {e}")
-    
-    return programs
+from powerlifting.api import fetch_created_programs, fetch_program, get_access_token
+from powerlifting.programs import load_programs_by_name
 
 
 def extract_exercise_key(exercise):
@@ -154,14 +71,18 @@ def main():
     print("=" * 60)
     print()
     
-    local_programs = load_local_programs()
+    try:
+        local_programs = load_programs_by_name()
+    except Exception as e:
+        print(f"⚠️ Error loading local programs: {e}")
+        return
     
     if not local_programs:
         print("ℹ️ No local program files found")
         return
     
     print("🔑 Authenticating...")
-    access_token = get_access_token()
+    access_token = get_access_token(Path(__file__).parent)
     if not access_token:
         print("❌ Failed to authenticate")
         return
@@ -169,7 +90,7 @@ def main():
     
     print("🔍 Fetching programs from Boostcamp...")
     try:
-        remote_list = fetch_program_list(access_token)
+        remote_list = fetch_created_programs(access_token)
         
         # Build lookup of non-deleted programs
         remote_programs = {}
@@ -201,7 +122,7 @@ def main():
             
             # Fetch full remote details for comparison
             try:
-                remote_detail = fetch_program_detail(access_token, remote_prog['id'])
+                remote_detail = fetch_program(remote_prog['id'], access_token).get('data', {})
                 differences = compare_programs(yaml_data, remote_detail)
                 
                 if differences:
@@ -237,7 +158,6 @@ def main():
             print(f"   ✅ {name}")
         print()
     
-    total = len(creates) + len(updates) + len(unchanged)
     print(f"📋 Summary: {len(creates)} new, {len(updates)} updates, {len(unchanged)} unchanged")
 
 
