@@ -20,9 +20,9 @@ Rendered markdown outputs are saved to `outputs/`, including:
 
 - `outputs/history_clean.md`
 - `outputs/12_last_weeks_history.md`
-- `outputs/body_weight_history.md`
 - `outputs/body_weight_timeline.md`
-- `outputs/body_weight_timeline_chart.png`
+- `outputs/body_weight_timeline_chart_e1rm.png`
+- `outputs/body_weight_timeline_chart_actual.png`
 - `outputs/scorecard_weekly.md`
 - `outputs/scorecard_monthly.md`
 - `outputs/scorecard_quarterly.md`

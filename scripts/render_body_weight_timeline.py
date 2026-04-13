@@ -68,7 +68,8 @@ def load_monthly_strength(repo: Path):
     lines = (repo / "outputs" / "history_clean.md").read_text().splitlines()
     current_date = None
     current_lift = None
-    monthly_best = defaultdict(lambda: {"squat": None, "bench": None, "deadlift": None})
+    monthly_best_e1rm = defaultdict(lambda: {"squat": None, "bench": None, "deadlift": None})
+    monthly_best_actual = defaultdict(lambda: {"squat": None, "bench": None, "deadlift": None})
     lift_map = {
         "Squat (Low Bar)": "squat",
         "Bench Press (Paused)": "bench",
@@ -91,26 +92,38 @@ def load_monthly_strength(repo: Path):
             continue
         if current_lift and line.startswith("Set "):
             m = re.search(r": ([\d.]+)kg x (\d+)(?: @ RPE ([\d.]+))?", line)
-            if not m or not m.group(3):
+            if not m:
                 continue
-            value = estimate_1rm(float(m.group(1)), int(m.group(2)), float(m.group(3)))
+            weight = float(m.group(1))
+            reps = int(m.group(2))
+            rpe = float(m.group(3)) if m.group(3) else None
             month = current_date[:7]
-            cur = monthly_best[month][current_lift]
-            monthly_best[month][current_lift] = value if cur is None or value > cur else cur
+            if reps == 1:
+                cur_actual = monthly_best_actual[month][current_lift]
+                monthly_best_actual[month][current_lift] = weight if cur_actual is None or weight > cur_actual else cur_actual
+            if rpe is not None:
+                value = estimate_1rm(weight, reps, rpe)
+                cur = monthly_best_e1rm[month][current_lift]
+                monthly_best_e1rm[month][current_lift] = value if cur is None or value > cur else cur
 
-    return monthly_best
+    return monthly_best_e1rm, monthly_best_actual
 
 
-def build_trend_svg(monthly_bodyweight, monthly_strength):
+def build_trend_svg(monthly_bodyweight, monthly_strength, title_suffix):
     months = sorted(m for m in monthly_bodyweight if any(monthly_strength.get(m, {}).values()))
     if not months:
         return None
 
+    first_month = next(iter(monthly_strength))
+    squat_label = next(k for k in monthly_strength[first_month] if 'squat' in k.lower())
+    bench_label = next(k for k in monthly_strength[first_month] if 'bench' in k.lower())
+    deadlift_label = next(k for k in monthly_strength[first_month] if 'deadlift' in k.lower())
+
     series = {
         "Bodyweight": [monthly_bodyweight[m]["avg"] for m in months],
-        "Squat e1RM": [monthly_strength.get(m, {}).get("squat") for m in months],
-        "Bench e1RM": [monthly_strength.get(m, {}).get("bench") for m in months],
-        "Deadlift e1RM": [monthly_strength.get(m, {}).get("deadlift") for m in months],
+        squat_label: [monthly_strength.get(m, {}).get(squat_label) for m in months],
+        bench_label: [monthly_strength.get(m, {}).get(bench_label) for m in months],
+        deadlift_label: [monthly_strength.get(m, {}).get(deadlift_label) for m in months],
     }
     baselines = {name: next((v for v in values if v is not None), None) for name, values in series.items()}
     normalized = {
@@ -139,16 +152,16 @@ def build_trend_svg(monthly_bodyweight, monthly_strength):
 
     colors = {
         "Bodyweight": "#111827",
-        "Squat e1RM": "#2563eb",
-        "Bench e1RM": "#16a34a",
-        "Deadlift e1RM": "#dc2626",
+        squat_label: "#2563eb",
+        bench_label: "#16a34a",
+        deadlift_label: "#dc2626",
     }
 
     svg = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" viewBox="0 0 980 420">',
         '<style>text{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#333}.small{font-size:12px}.label{font-size:14px;font-weight:600}.title{font-size:18px;font-weight:700}.grid{stroke:#e5e7eb;stroke-width:1}.axis{stroke:#666;stroke-width:1.5}.bw{stroke:#111827;fill:none;stroke-width:2.5}.sq{stroke:#2563eb;fill:none;stroke-width:2.5}.bp{stroke:#16a34a;fill:none;stroke-width:2.5}.dl{stroke:#dc2626;fill:none;stroke-width:2.5}</style>',
         '<rect x="0" y="0" width="980" height="420" fill="white"/>',
-        f'<text class="title" x="{left}" y="20">Bodyweight vs strength trend, monthly, normalized to first available month = 100</text>',
+        f'<text class="title" x="{left}" y="20">Bodyweight vs strength trend, monthly, normalized to first available month = 100 ({title_suffix})</text>',
     ]
 
     for tick in range(y_min, y_max + 1, 2):
@@ -165,7 +178,7 @@ def build_trend_svg(monthly_bodyweight, monthly_strength):
     svg.append(f'<line class="axis" x1="{left}" y1="{height-bottom}" x2="{width-right}" y2="{height-bottom}" />')
     svg.append(f'<line class="axis" x1="{left}" y1="{top}" x2="{left}" y2="{height-bottom}" />')
 
-    class_map = {"Bodyweight": "bw", "Squat e1RM": "sq", "Bench e1RM": "bp", "Deadlift e1RM": "dl"}
+    class_map = {"Bodyweight": "bw", squat_label: "sq", bench_label: "bp", deadlift_label: "dl"}
     for name, values in normalized.items():
         pts = [f"{x_pos(i):.1f},{y_pos(v):.1f}" for i, v in enumerate(values) if v is not None]
         if len(pts) >= 2:
@@ -173,7 +186,7 @@ def build_trend_svg(monthly_bodyweight, monthly_strength):
 
     legend_y = 36
     legend_x = left
-    for idx, name in enumerate(["Bodyweight", "Squat e1RM", "Bench e1RM", "Deadlift e1RM"]):
+    for idx, name in enumerate(["Bodyweight", squat_label, bench_label, deadlift_label]):
         x = legend_x + idx * 210
         svg.append(f'<line x1="{x}" y1="{legend_y}" x2="{x+22}" y2="{legend_y}" stroke="{colors[name]}" stroke-width="3" />')
         svg.append(f'<text class="small" x="{x+28}" y="{legend_y+4}">{name}</text>')
@@ -196,6 +209,31 @@ def render_png_from_svg(svg_text: str, output_path: Path):
         )
 
 
+def chart_block(lines, outputs: Path, monthly_bodyweight, monthly_strength, filename: str, heading: str, description: str, title_suffix: str, legend_labels: dict[str, str]):
+    renamed_strength = {
+        month: {
+            legend_labels["squat"]: values.get("squat"),
+            legend_labels["bench"]: values.get("bench"),
+            legend_labels["deadlift"]: values.get("deadlift"),
+        }
+        for month, values in monthly_strength.items()
+    }
+    svg = build_trend_svg(monthly_bodyweight, renamed_strength, title_suffix)
+    if not svg:
+        return
+    png_path = outputs / filename
+    render_png_from_svg(svg, png_path)
+    lines.extend([
+        heading,
+        "",
+        description,
+        "It is normalized so the first available month for each series = 100, which makes trend comparison easier than mixing kg scales.",
+        "",
+        f"![{heading.strip('# ').lower()}]({filename})",
+        "",
+    ])
+
+
 def main():
     repo = Path(__file__).resolve().parents[1]
     merged = load_health_daily(repo)
@@ -206,7 +244,7 @@ def main():
     monthly = defaultdict(list)
     for row in rows:
         monthly[row["date"][:7]].append(row)
-    monthly_strength = load_monthly_strength(repo)
+    monthly_e1rm, monthly_actual = load_monthly_strength(repo)
     monthly_bodyweight = {month: summarize(month_rows) for month, month_rows in monthly.items()}
 
     lines = [
@@ -216,19 +254,28 @@ def main():
         "",
     ]
 
-    trend_svg = build_trend_svg(monthly_bodyweight, monthly_strength)
-    if trend_svg:
-        png_path = outputs / "body_weight_timeline_chart.png"
-        render_png_from_svg(trend_svg, png_path)
-        lines.extend([
-            "## Trend Chart",
-            "",
-            "This chart compares monthly average bodyweight to monthly best estimated 1RM, e1RM, for squat, bench, and deadlift.",
-            "It is normalized so the first available month for each series = 100, which makes trend comparison easier than mixing kg scales.",
-            "",
-            "![Bodyweight vs strength trend](body_weight_timeline_chart.png)",
-            "",
-        ])
+    chart_block(
+        lines,
+        outputs,
+        monthly_bodyweight,
+        monthly_e1rm,
+        "body_weight_timeline_chart_e1rm.png",
+        "## Trend Chart, e1RM",
+        "This chart compares monthly average bodyweight to monthly best estimated 1RM, e1RM, for squat, bench, and deadlift.",
+        "e1RM",
+        {"squat": "Squat e1RM", "bench": "Bench e1RM", "deadlift": "Deadlift e1RM"},
+    )
+    chart_block(
+        lines,
+        outputs,
+        monthly_bodyweight,
+        monthly_actual,
+        "body_weight_timeline_chart_actual.png",
+        "## Trend Chart, actual top singles",
+        "This chart compares monthly average bodyweight to monthly best actual single, 1 rep logged weight, for squat, bench, and deadlift.",
+        "actual 1RM proxy, top single",
+        {"squat": "Squat actual single", "bench": "Bench actual single", "deadlift": "Deadlift actual single"},
+    )
 
     overall = summarize(rows)
     if overall:
@@ -248,8 +295,8 @@ def main():
     lines.extend([
         "## Month-by-Month Summary",
         "",
-        "| Month | Days | Avg | Low | High | Start | End | Delta | Main source | Best squat e1RM | Best bench e1RM | Best deadlift e1RM |",
-        "|---|---:|---:|---|---|---:|---:|---:|---|---:|---:|---:|",
+        "| Month | Days | Avg | Low | High | Start | End | Delta | Main source | Best squat single | Best squat e1RM | Best bench single | Best bench e1RM | Best deadlift single | Best deadlift e1RM |",
+        "|---|---:|---:|---|---|---:|---:|---:|---|---:|---:|---:|---:|---:|---:|",
     ])
     for month in sorted(monthly):
         s = summarize(monthly[month])
@@ -259,9 +306,10 @@ def main():
         for row in monthly[month]:
             sources[source_label(row)] += 1
         main_source = max(sources.items(), key=lambda kv: kv[1])[0] if sources else "-"
-        strength = monthly_strength.get(month, {})
+        e1 = monthly_e1rm.get(month, {})
+        actual = monthly_actual.get(month, {})
         lines.append(
-            f"| {month} | {s['days']} | {fmt(s['avg'])} kg | {fmt(s['min'])} kg ({s['min_date']}) | {fmt(s['max'])} kg ({s['max_date']}) | {fmt(s['start'])} kg | {fmt(s['end'])} kg | {fmt_signed(s['delta'])} kg | {main_source} | {fmt(strength.get('squat'))} kg | {fmt(strength.get('bench'))} kg | {fmt(strength.get('deadlift'))} kg |"
+            f"| {month} | {s['days']} | {fmt(s['avg'])} kg | {fmt(s['min'])} kg ({s['min_date']}) | {fmt(s['max'])} kg ({s['max_date']}) | {fmt(s['start'])} kg | {fmt(s['end'])} kg | {fmt_signed(s['delta'])} kg | {main_source} | {fmt(actual.get('squat'))} kg | {fmt(e1.get('squat'))} kg | {fmt(actual.get('bench'))} kg | {fmt(e1.get('bench'))} kg | {fmt(actual.get('deadlift'))} kg | {fmt(e1.get('deadlift'))} kg |"
         )
     lines.extend([
         "",
