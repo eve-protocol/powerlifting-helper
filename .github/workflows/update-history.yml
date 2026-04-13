@@ -32,10 +32,7 @@ jobs:
 
       - name: Fetch Health Connect export
         env:
-          GOOGLE_SERVICE_ACCOUNT_PROJECT_ID: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_PROJECT_ID }}
-          GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL }}
-          GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY_ID: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY_ID }}
-          GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
           HEALTH_CONNECT_DRIVE_FILE_ID: ${{ secrets.HEALTH_CONNECT_DRIVE_FILE_ID }}
         run: |
           python scripts/fetch_health_connect.py \
