@@ -6,6 +6,20 @@ from datetime import datetime
 from .e1rm import calculate_e1rm_brzycki, calculate_e1rm_rpe_adjusted
 
 
+def _matches_filters(exercise_name, exercise_filters):
+    """Return True when an exercise matches any configured substring filter."""
+    return any(f.lower() in exercise_name.lower() for f in exercise_filters)
+
+
+def _get_period_key(date_str, period):
+    """Build a weekly or monthly aggregation key from a workout date string."""
+    date = datetime.strptime(date_str, '%Y-%m-%d')
+    if period == 'weekly':
+        iso = date.isocalendar()
+        return f"{iso[0]}-W{iso[1]:02d}"
+    return f"{date.year}-{date.month:02d}"
+
+
 def parse_all_workouts(data, use_personal_rpe=True):
     """Parse ALL workout data from Boostcamp format (no time filter).
     
@@ -154,21 +168,14 @@ def calculate_training_volume(workouts, exercise_filters, period='weekly'):
     
     for w in workouts:
         name = w['name']
-        
-        # Filter
-        if not any(f.lower() in name.lower() for f in exercise_filters):
+
+        if not _matches_filters(name, exercise_filters):
             continue
-        
+
         try:
-            date = datetime.strptime(w['date'], '%Y-%m-%d')
+            key = _get_period_key(w['date'], period)
         except ValueError:
             continue
-        
-        if period == 'weekly':
-            # ISO week number
-            key = f"{date.isocalendar()[0]}-W{date.isocalendar()[1]:02d}"
-        else:  # monthly
-            key = f"{date.year}-{date.month:02d}"
         
         volume[key]['total_kg'] += w['weight'] * w['reps']
         volume[key]['total_reps'] += w['reps']
@@ -194,20 +201,14 @@ def analyze_trends(workouts, exercise_filters, period='weekly'):
     
     for w in workouts:
         name = w['name']
-        
-        # Filter
-        if not any(f.lower() in name.lower() for f in exercise_filters):
+
+        if not _matches_filters(name, exercise_filters):
             continue
-        
+
         try:
-            date = datetime.strptime(w['date'], '%Y-%m-%d')
+            key = _get_period_key(w['date'], period)
         except ValueError:
             continue
-        
-        if period == 'weekly':
-            key = f"{date.isocalendar()[0]}-W{date.isocalendar()[1]:02d}"
-        else:  # monthly
-            key = f"{date.year}-{date.month:02d}"
         
         if w['e1rm'] > trends[key]:
             trends[key] = w['e1rm']
