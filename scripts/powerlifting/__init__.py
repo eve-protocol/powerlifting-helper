@@ -28,9 +28,18 @@ from .api import (
     fetch_history,
     load_history,
     fetch_program,
+    fetch_created_programs,
     fetch_user_programs,
     resolve_programs_by_name,
     load_config,
+)
+from .exercises import (
+    EXERCISE_FAMILY_MAP,
+    MAIN_LIFT_VARIATIONS as EXERCISE_MAIN_LIFT_VARIATIONS,
+    TRACKED_BODYWEIGHT_TIMELINE_EXERCISES,
+    classify_family,
+    get_exercise_family,
+    lbs_to_kg,
 )
 from .parser import (
     parse_all_workouts,
@@ -69,7 +78,11 @@ __all__ = [
     'calculate_personal_rpe_table', 'get_best_recent_e1rm',
     # API
     'refresh_access_token', 'get_access_token', 'fetch_history', 'load_history',
-    'fetch_program', 'fetch_user_programs', 'resolve_programs_by_name', 'load_config',
+    'fetch_program', 'fetch_created_programs', 'fetch_user_programs', 'resolve_programs_by_name', 'load_config',
+    # Exercise helpers
+    'EXERCISE_FAMILY_MAP', 'EXERCISE_MAIN_LIFT_VARIATIONS',
+    'TRACKED_BODYWEIGHT_TIMELINE_EXERCISES', 'classify_family',
+    'get_exercise_family', 'lbs_to_kg',
     # Parser
     'parse_all_workouts', 'find_all_rep_maxes', 'calculate_training_volume',
     'analyze_trends', 'get_summary_stats',
