@@ -2,6 +2,33 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-13
+
+**Week 2 · Day 1**
+Finished: 2026-04-13 10:01:11
+
+### Squat (Low Bar)
+
+  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 8.5-9]
+  Set 2: 155.0kg x 2 @ RPE 8 [target RPE: 7.5-8]
+  Set 3: 152.5kg x 2 @ RPE 8 [target RPE: 7.5-8]
+
+### Bench Press (Paused)
+
+  Set 1: 120.0kg x 1 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 7-7.5]
+  Set 3: 112.5kg x 3 @ RPE 8.5 [target RPE: 7-7.5]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 8 [target RPE: 7.5-8]
+  Set 2: 25.0kg x 5 @ RPE 8.5 [target RPE: 7.5-8]
+
+### Rear Delt Fly (Dumbbell)
+
+  Set 1: 7.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
+  Set 2: 7.0kg x 20 @ RPE 9.5 [target: 12 reps, target RPE: 7-7.5]
+
 ## 2026-04-11
 
 **Week 1 · Day 5**
