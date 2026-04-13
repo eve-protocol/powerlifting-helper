@@ -1770,7 +1770,7 @@ Comparison baseline: Peaking Block v6 / Week 2
 | Avg distance/day | 5.91km | 2.58km | ↑ 3.33km |
 | Avg kcal/day | 1950 | 1328 | ↑ 622 |
 | Avg bodyweight | 77.8kg | - | n/a |
-| Avg resting HR | 44bpm | 44bpm | → 0bpm |
+| Avg resting HR | 44bpm | 42bpm | ↑ 2bpm |
 | Avg sleep | 7.87h | 7.73h | ↑ 0.14h |
 
 - Latest health date in period: 2026-01-03
@@ -1826,7 +1826,7 @@ Comparison baseline: Peaking Block v6 / Week 1
 | Avg distance/day | 2.58km | 5.97km | ↓ 3.39km |
 | Avg kcal/day | 1328 | 2784 | ↓ 1456 |
 | Avg bodyweight | -kg | 79.5kg | n/a |
-| Avg resting HR | 44bpm | 45bpm | ↓ 1bpm |
+| Avg resting HR | 42bpm | 45bpm | ↓ 3bpm |
 | Avg sleep | 7.73h | 7.25h | ↑ 0.48h |
 
 - Latest health date in period: 2026-04-13
