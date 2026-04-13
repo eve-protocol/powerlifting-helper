@@ -12,28 +12,13 @@ from collections import defaultdict
 from pathlib import Path
 
 from health_metrics import load_health_daily, format_health_summary_block
-
-# Constants for weight conversion
-LBS_TO_KG = 0.453592
-
-# Big 3 lift patterns for matching
-SQUAT_PATTERNS = ['squat']
-BENCH_PATTERNS = ['bench']
-DEADLIFT_PATTERNS = ['deadlift']
+from powerlifting.exercises import classify_family, lbs_to_kg
 
 
 def load_history(filepath):
     """Load history.json file."""
     with open(filepath, 'r') as f:
         return json.load(f)
-
-
-def convert_lbs_to_kg(lbs):
-    """Convert pounds to kg with proper rounding."""
-    if lbs is None or lbs == 0:
-        return 0
-    kg = float(lbs) * LBS_TO_KG
-    return round(kg)
 
 
 def get_last_12_weeks_dates():
@@ -58,12 +43,6 @@ def get_day_name(date_str):
     return dt.strftime('%A')
 
 
-def matches_lift(exercise_name, patterns):
-    """Check if exercise name matches any pattern."""
-    name_lower = exercise_name.lower()
-    return any(p in name_lower for p in patterns)
-
-
 def format_target_info(set_data):
     """Format target info (percentage/RPE/reps)."""
     parts = []
@@ -85,7 +64,7 @@ def format_target_info(set_data):
             parts.append(f"target_intensity={intensity}{intensity_unit}")
     
     if target_weight:
-        target_kg = convert_lbs_to_kg(target_weight)
+        target_kg = lbs_to_kg(target_weight, rounding=1)
         if target_kg > 0:
             parts.append(f"target_weight={target_kg}kg")
     
@@ -150,7 +129,7 @@ def parse_workout_data(data, start_date, end_date):
                     archived_reps = s.get('archived_reps', s.get('amount', 0))
                     archived_rpe = s.get('archived_rpe')
                     
-                    weight_kg = convert_lbs_to_kg(archived_weight)
+                    weight_kg = lbs_to_kg(archived_weight, rounding=1)
                     
                     try:
                         reps = int(archived_reps) if archived_reps else 0
@@ -173,15 +152,10 @@ def parse_workout_data(data, start_date, end_date):
                     
                     # Track Big 3 stats
                     set_volume = weight_kg * reps
-                    if matches_lift(exercise_name, SQUAT_PATTERNS):
-                        weeks[week_key]['stats']['squat']['sets'] += 1
-                        weeks[week_key]['stats']['squat']['volume'] += set_volume
-                    elif matches_lift(exercise_name, BENCH_PATTERNS):
-                        weeks[week_key]['stats']['bench']['sets'] += 1
-                        weeks[week_key]['stats']['bench']['volume'] += set_volume
-                    elif matches_lift(exercise_name, DEADLIFT_PATTERNS):
-                        weeks[week_key]['stats']['deadlift']['sets'] += 1
-                        weeks[week_key]['stats']['deadlift']['volume'] += set_volume
+                    family = classify_family(exercise_name)
+                    if family in ('squat', 'bench', 'deadlift'):
+                        weeks[week_key]['stats'][family]['sets'] += 1
+                        weeks[week_key]['stats'][family]['volume'] += set_volume
                 
                 if sets_data:
                     weeks[week_key]['days'][date_str].append({

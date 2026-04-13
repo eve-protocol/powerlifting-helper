@@ -3,12 +3,12 @@
 
 from __future__ import annotations
 
-import json
 import re
 from collections import defaultdict
 from pathlib import Path
 
 from health_metrics import load_health_daily
+from powerlifting.exercises import TRACKED_BODYWEIGHT_TIMELINE_EXERCISES, get_exercise_family
 
 
 def fmt(x, digits=1):
@@ -68,13 +68,6 @@ def load_monthly_strength(repo: Path):
     current_lift = None
     monthly_best_e1rm = defaultdict(lambda: {"squat": None, "bench": None, "deadlift": None})
     monthly_best_actual = defaultdict(lambda: {"squat": None, "bench": None, "deadlift": None})
-    lift_map = {
-        "Squat (Low Bar)": "squat",
-        "Bench Press (Paused)": "bench",
-        "Bench Press (Barbell)": "bench",
-        "Sumo Deadlift (Barbell)": "deadlift",
-        "Sumo Deadlift (Paused)": "deadlift",
-    }
 
     for raw in lines:
         line = raw.strip()
@@ -86,7 +79,10 @@ def load_monthly_strength(repo: Path):
         if not current_date:
             continue
         if line.startswith("### "):
-            current_lift = lift_map.get(line[4:])
+            exercise_name = line[4:]
+            current_lift = None
+            if exercise_name in TRACKED_BODYWEIGHT_TIMELINE_EXERCISES:
+                current_lift = get_exercise_family(exercise_name)
             continue
         if current_lift and line.startswith("Set "):
             m = re.search(r": ([\d.]+)kg x (\d+)(?: @ RPE ([\d.]+))?", line)
@@ -118,7 +114,6 @@ def main():
     for row in rows:
         monthly[row["date"][:7]].append(row)
     monthly_e1rm, monthly_actual = load_monthly_strength(repo)
-    monthly_bodyweight = {month: summarize(month_rows) for month, month_rows in monthly.items()}
 
     lines = [
         "# Merged Body Weight Timeline",

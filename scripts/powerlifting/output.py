@@ -45,7 +45,6 @@ def _collect_big3_volumes(workouts):
 
 def print_color_legend():
     """Print a legend explaining the date colors."""
-    r = COLORS['reset']
     print(f"\nLegend: ", end="")
     print(f"🟢 <3mo  ", end="")
     print(f"🟡 3-6mo  ", end="")
@@ -195,7 +194,6 @@ def generate_markdown_rpe_table(workouts):
         result = calculate_personal_rpe_table(workouts, lift_name)
         table = result['table']
         ref_e1rm = result['reference_e1rm']
-        data_counts = result['data_counts']
         
         if not table:
             continue
@@ -219,7 +217,6 @@ def generate_markdown_rpe_table(workouts):
             for rpe in RPE_VALUES:
                 if rpe in table[reps]:
                     pct = table[reps][rpe]
-                    count = data_counts[reps].get(rpe, 0)
                     row += f" {pct:.0f}% |"
                 else:
                     row += " - |"
