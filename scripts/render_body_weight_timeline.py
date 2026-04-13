@@ -5,6 +5,8 @@ from __future__ import annotations
 
 import json
 import re
+import subprocess
+import tempfile
 from collections import defaultdict
 from pathlib import Path
 
@@ -182,6 +184,18 @@ def build_trend_svg(monthly_bodyweight, monthly_strength):
     return "\n".join(svg)
 
 
+def render_png_from_svg(svg_text: str, output_path: Path):
+    with tempfile.TemporaryDirectory() as tmpdir:
+        svg_path = Path(tmpdir) / "trend.svg"
+        svg_path.write_text(svg_text)
+        subprocess.run(
+            ["ffmpeg", "-y", "-i", str(svg_path), str(output_path)],
+            check=True,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+
+
 def main():
     repo = Path(__file__).resolve().parents[1]
     merged = load_health_daily(repo)
@@ -204,13 +218,15 @@ def main():
 
     trend_svg = build_trend_svg(monthly_bodyweight, monthly_strength)
     if trend_svg:
+        png_path = outputs / "body_weight_timeline_chart.png"
+        render_png_from_svg(trend_svg, png_path)
         lines.extend([
             "## Trend Chart",
             "",
             "This chart compares monthly average bodyweight to monthly best estimated 1RM, e1RM, for squat, bench, and deadlift.",
             "It is normalized so the first available month for each series = 100, which makes trend comparison easier than mixing kg scales.",
             "",
-            trend_svg,
+            "![Bodyweight vs strength trend](body_weight_timeline_chart.png)",
             "",
         ])
 

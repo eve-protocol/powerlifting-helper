@@ -7,61 +7,7 @@ This view merges old Zepp/Xiaomi scale history with newer Health Connect / VeSyn
 This chart compares monthly average bodyweight to monthly best estimated 1RM, e1RM, for squat, bench, and deadlift.
 It is normalized so the first available month for each series = 100, which makes trend comparison easier than mixing kg scales.
 
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" viewBox="0 0 980 420">
-<style>text{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#333}.small{font-size:12px}.label{font-size:14px;font-weight:600}.title{font-size:18px;font-weight:700}.grid{stroke:#e5e7eb;stroke-width:1}.axis{stroke:#666;stroke-width:1.5}.bw{stroke:#111827;fill:none;stroke-width:2.5}.sq{stroke:#2563eb;fill:none;stroke-width:2.5}.bp{stroke:#16a34a;fill:none;stroke-width:2.5}.dl{stroke:#dc2626;fill:none;stroke-width:2.5}</style>
-<rect x="0" y="0" width="980" height="420" fill="white"/>
-<text class="title" x="70" y="20">Bodyweight vs strength trend, monthly, normalized to first available month = 100</text>
-<line class="grid" x1="70" y1="365.0" x2="960" y2="365.0" />
-<text class="small" x="62" y="369.0" text-anchor="end">97</text>
-<line class="grid" x1="70" y1="334.5" x2="960" y2="334.5" />
-<text class="small" x="62" y="338.5" text-anchor="end">99</text>
-<line class="grid" x1="70" y1="304.1" x2="960" y2="304.1" />
-<text class="small" x="62" y="308.1" text-anchor="end">101</text>
-<line class="grid" x1="70" y1="273.6" x2="960" y2="273.6" />
-<text class="small" x="62" y="277.6" text-anchor="end">103</text>
-<line class="grid" x1="70" y1="243.2" x2="960" y2="243.2" />
-<text class="small" x="62" y="247.2" text-anchor="end">105</text>
-<line class="grid" x1="70" y1="212.7" x2="960" y2="212.7" />
-<text class="small" x="62" y="216.7" text-anchor="end">107</text>
-<line class="grid" x1="70" y1="182.3" x2="960" y2="182.3" />
-<text class="small" x="62" y="186.3" text-anchor="end">109</text>
-<line class="grid" x1="70" y1="151.8" x2="960" y2="151.8" />
-<text class="small" x="62" y="155.8" text-anchor="end">111</text>
-<line class="grid" x1="70" y1="121.4" x2="960" y2="121.4" />
-<text class="small" x="62" y="125.4" text-anchor="end">113</text>
-<line class="grid" x1="70" y1="90.9" x2="960" y2="90.9" />
-<text class="small" x="62" y="94.9" text-anchor="end">115</text>
-<line class="grid" x1="70" y1="60.5" x2="960" y2="60.5" />
-<text class="small" x="62" y="64.5" text-anchor="end">117</text>
-<line class="grid" x1="70" y1="30.0" x2="960" y2="30.0" />
-<text class="small" x="62" y="34.0" text-anchor="end">119</text>
-<line class="grid" x1="70.0" y1="30" x2="70.0" y2="365" />
-<text class="small" x="70.0" y="383" text-anchor="middle">2024-12</text>
-<line class="grid" x1="125.6" y1="30" x2="125.6" y2="365" />
-<text class="small" x="125.6" y="383" text-anchor="middle">2025-01</text>
-<line class="grid" x1="459.4" y1="30" x2="459.4" y2="365" />
-<text class="small" x="459.4" y="383" text-anchor="middle">2025-07</text>
-<line class="grid" x1="793.1" y1="30" x2="793.1" y2="365" />
-<text class="small" x="793.1" y="383" text-anchor="middle">2026-01</text>
-<line class="grid" x1="960.0" y1="30" x2="960.0" y2="365" />
-<text class="small" x="960.0" y="383" text-anchor="middle">2026-04</text>
-<line class="axis" x1="70" y1="365" x2="960" y2="365" />
-<line class="axis" x1="70" y1="30" x2="70" y2="365" />
-<polyline class="bw" points="70.0,319.3 125.6,281.5 181.2,271.5 236.9,284.8 292.5,268.0 348.1,274.1 403.8,261.2 459.4,265.3 515.0,257.4 570.6,251.4 626.2,264.8 681.9,246.1 737.5,243.7 793.1,232.9 848.8,217.3 904.4,207.7 960.0,205.3" />
-<polyline class="sq" points="70.0,319.3 125.6,273.9 181.2,289.2 236.9,269.6 292.5,137.6 348.1,212.4 403.8,161.9 459.4,166.6 515.0,164.2 570.6,164.2 626.2,132.1 681.9,183.8 737.5,158.0 793.1,151.7 848.8,87.5 904.4,62.8 960.0,131.3" />
-<polyline class="bp" points="70.0,319.3 125.6,297.1 181.2,307.7 236.9,317.4 292.5,295.1 348.1,295.1 403.8,283.5 459.4,238.1 515.0,159.8 570.6,253.6 626.2,246.8 681.9,241.5 737.5,136.6 793.1,225.5 848.8,183.0 904.4,228.9 960.0,152.1" />
-<polyline class="dl" points="125.6,319.3 181.2,312.2 236.9,283.6 292.5,299.2 348.1,296.6 403.8,271.9 459.4,174.8 515.0,179.7 570.6,262.8 626.2,304.4 681.9,287.5 737.5,217.0 793.1,238.1 848.8,246.6 904.4,186.2 960.0,251.5" />
-<line x1="70" y1="36" x2="92" y2="36" stroke="#111827" stroke-width="3" />
-<text class="small" x="98" y="40">Bodyweight</text>
-<line x1="280" y1="36" x2="302" y2="36" stroke="#2563eb" stroke-width="3" />
-<text class="small" x="308" y="40">Squat e1RM</text>
-<line x1="490" y1="36" x2="512" y2="36" stroke="#16a34a" stroke-width="3" />
-<text class="small" x="518" y="40">Bench e1RM</text>
-<line x1="700" y1="36" x2="722" y2="36" stroke="#dc2626" stroke-width="3" />
-<text class="small" x="728" y="40">Deadlift e1RM</text>
-<text class="label" x="490.0" y="408" text-anchor="middle">Month</text>
-<text class="label" x="22" y="210.0" text-anchor="middle" transform="rotate(-90 22 210.0)">Index, first available month = 100</text>
-</svg>
+![Bodyweight vs strength trend](body_weight_timeline_chart.png)
 
 ## Overall Summary
 
