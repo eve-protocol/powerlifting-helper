@@ -24,6 +24,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests google-auth pyzipper
 
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Create refresh token file
         run: echo "${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}" > scripts/.boostcamp_refresh_token
 
