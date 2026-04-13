@@ -7,3 +7,5 @@ __pycache__
 
 # CI-generated health data (privacy-sensitive, do not commit)
 values/health_daily.json
+values/body_weight_history.json
+values/garmin_daily.json

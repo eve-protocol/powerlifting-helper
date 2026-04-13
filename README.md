@@ -13,8 +13,8 @@ Data files are saved to the `values/` directory at the project root:
 
 - `values/history.json` - Workout history
 - `values/health_daily.json` - Normalized daily Health Connect metrics (Garmin-first), generated transiently in CI and not committed
-- `values/body_weight_history.json` - Long-range bodyweight history extracted from Zepp/Xiaomi scale export when configured
-- `values/garmin_daily.json` - Historical Garmin daily wellness/sleep backfill extracted from Garmin GDPR export when configured
+- `values/body_weight_history.json` - Long-range bodyweight history extracted from Zepp/Xiaomi scale export, typically provided at CI/runtime from a private data repo
+- `values/garmin_daily.json` - Historical Garmin daily wellness/sleep backfill, typically provided at CI/runtime from a private data repo
 - `values/<program_name>.json` - Program details (e.g., `strength_block_v3.json`)
 
 Rendered markdown outputs are saved to `outputs/`, including:
@@ -44,7 +44,10 @@ python scripts/parse_history.py -o /tmp/workout-data/
 4. If you want CI Health Connect ingestion, add these GitHub secrets:
    - `GOOGLE_SERVICE_ACCOUNT_JSON`
    - `HEALTH_CONNECT_DRIVE_FILE_ID`
-   - Static historical backfills are committed in-repo by default:
+   - For private static historical backfills via a separate private repo:
+     - `PRIVATE_DATA_REPO` (example: `eve-protocol/powerlifting-helper-private-data`)
+     - `PRIVATE_DATA_REPO_TOKEN` (token with read access to that private repo)
+   - The private data repo should contain:
      - `values/body_weight_history.json` for legacy Zepp/Xiaomi scale history
      - `values/garmin_daily.json` for Garmin GDPR export backfill
    - Only Health Connect is fetched dynamically in CI.
