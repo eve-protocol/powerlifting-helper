@@ -5,8 +5,6 @@ from __future__ import annotations
 
 import json
 import re
-import subprocess
-import tempfile
 from collections import defaultdict
 from pathlib import Path
 
@@ -109,131 +107,6 @@ def load_monthly_strength(repo: Path):
     return monthly_best_e1rm, monthly_best_actual
 
 
-def build_trend_svg(monthly_bodyweight, monthly_strength, title_suffix):
-    months = sorted(m for m in monthly_bodyweight if any(monthly_strength.get(m, {}).values()))
-    if not months:
-        return None
-
-    first_month = next(iter(monthly_strength))
-    squat_label = next(k for k in monthly_strength[first_month] if 'squat' in k.lower())
-    bench_label = next(k for k in monthly_strength[first_month] if 'bench' in k.lower())
-    deadlift_label = next(k for k in monthly_strength[first_month] if 'deadlift' in k.lower())
-
-    series = {
-        "Bodyweight": [monthly_bodyweight[m]["avg"] for m in months],
-        squat_label: [monthly_strength.get(m, {}).get(squat_label) for m in months],
-        bench_label: [monthly_strength.get(m, {}).get(bench_label) for m in months],
-        deadlift_label: [monthly_strength.get(m, {}).get(deadlift_label) for m in months],
-    }
-    baselines = {name: next((v for v in values if v is not None), None) for name, values in series.items()}
-    normalized = {
-        name: [None if v is None or baselines[name] in (None, 0) else (v / baselines[name]) * 100 for v in values]
-        for name, values in series.items()
-    }
-
-    all_vals = [v for values in normalized.values() for v in values if v is not None]
-    if not all_vals:
-        return None
-
-    width, height = 980, 420
-    left, right, top, bottom = 70, 20, 30, 55
-    plot_w = width - left - right
-    plot_h = height - top - bottom
-    y_min = int(min(all_vals) - 3)
-    y_max = int(max(all_vals) + 3)
-    if y_max <= y_min:
-        y_max = y_min + 10
-
-    def x_pos(idx):
-        return left + (idx / max(len(months) - 1, 1)) * plot_w
-
-    def y_pos(val):
-        return top + (1 - ((val - y_min) / (y_max - y_min))) * plot_h
-
-    colors = {
-        "Bodyweight": "#111827",
-        squat_label: "#2563eb",
-        bench_label: "#16a34a",
-        deadlift_label: "#dc2626",
-    }
-
-    svg = [
-        '<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" viewBox="0 0 980 420">',
-        '<style>text{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#333}.small{font-size:12px}.label{font-size:14px;font-weight:600}.title{font-size:18px;font-weight:700}.grid{stroke:#e5e7eb;stroke-width:1}.axis{stroke:#666;stroke-width:1.5}.bw{stroke:#111827;fill:none;stroke-width:2.5}.sq{stroke:#2563eb;fill:none;stroke-width:2.5}.bp{stroke:#16a34a;fill:none;stroke-width:2.5}.dl{stroke:#dc2626;fill:none;stroke-width:2.5}</style>',
-        '<rect x="0" y="0" width="980" height="420" fill="white"/>',
-        f'<text class="title" x="{left}" y="20">Bodyweight vs strength trend, monthly, normalized to first available month = 100 ({title_suffix})</text>',
-    ]
-
-    for tick in range(y_min, y_max + 1, 2):
-        yp = y_pos(tick)
-        svg.append(f'<line class="grid" x1="{left}" y1="{yp:.1f}" x2="{width-right}" y2="{yp:.1f}" />')
-        svg.append(f'<text class="small" x="{left-8}" y="{yp+4:.1f}" text-anchor="end">{tick}</text>')
-
-    for idx, month in enumerate(months):
-        xp = x_pos(idx)
-        if month.endswith("-01") or month.endswith("-07") or idx == 0 or idx == len(months) - 1:
-            svg.append(f'<line class="grid" x1="{xp:.1f}" y1="{top}" x2="{xp:.1f}" y2="{height-bottom}" />')
-            svg.append(f'<text class="small" x="{xp:.1f}" y="{height-bottom+18}" text-anchor="middle">{month}</text>')
-
-    svg.append(f'<line class="axis" x1="{left}" y1="{height-bottom}" x2="{width-right}" y2="{height-bottom}" />')
-    svg.append(f'<line class="axis" x1="{left}" y1="{top}" x2="{left}" y2="{height-bottom}" />')
-
-    class_map = {"Bodyweight": "bw", squat_label: "sq", bench_label: "bp", deadlift_label: "dl"}
-    for name, values in normalized.items():
-        pts = [f"{x_pos(i):.1f},{y_pos(v):.1f}" for i, v in enumerate(values) if v is not None]
-        if len(pts) >= 2:
-            svg.append(f'<polyline class="{class_map[name]}" points="{" ".join(pts)}" />')
-
-    legend_y = 36
-    legend_x = left
-    for idx, name in enumerate(["Bodyweight", squat_label, bench_label, deadlift_label]):
-        x = legend_x + idx * 210
-        svg.append(f'<line x1="{x}" y1="{legend_y}" x2="{x+22}" y2="{legend_y}" stroke="{colors[name]}" stroke-width="3" />')
-        svg.append(f'<text class="small" x="{x+28}" y="{legend_y+4}">{name}</text>')
-
-    svg.append(f'<text class="label" x="{width/2:.1f}" y="{height-12}" text-anchor="middle">Month</text>')
-    svg.append(f'<text class="label" x="22" y="{height/2:.1f}" text-anchor="middle" transform="rotate(-90 22 {height/2:.1f})">Index, first available month = 100</text>')
-    svg.append('</svg>')
-    return "\n".join(svg)
-
-
-def render_png_from_svg(svg_text: str, output_path: Path):
-    with tempfile.TemporaryDirectory() as tmpdir:
-        svg_path = Path(tmpdir) / "trend.svg"
-        svg_path.write_text(svg_text)
-        subprocess.run(
-            ["ffmpeg", "-y", "-i", str(svg_path), str(output_path)],
-            check=True,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
-        )
-
-
-def chart_block(lines, outputs: Path, monthly_bodyweight, monthly_strength, filename: str, heading: str, description: str, title_suffix: str, legend_labels: dict[str, str]):
-    renamed_strength = {
-        month: {
-            legend_labels["squat"]: values.get("squat"),
-            legend_labels["bench"]: values.get("bench"),
-            legend_labels["deadlift"]: values.get("deadlift"),
-        }
-        for month, values in monthly_strength.items()
-    }
-    svg = build_trend_svg(monthly_bodyweight, renamed_strength, title_suffix)
-    if not svg:
-        return
-    png_path = outputs / filename
-    render_png_from_svg(svg, png_path)
-    lines.extend([
-        heading,
-        "",
-        description,
-        "It is normalized so the first available month for each series = 100, which makes trend comparison easier than mixing kg scales.",
-        "",
-        f"![{heading.strip('# ').lower()}]({filename})",
-        "",
-    ])
-
-
 def main():
     repo = Path(__file__).resolve().parents[1]
     merged = load_health_daily(repo)
@@ -253,29 +126,6 @@ def main():
         "This view merges old Zepp/Xiaomi scale history with newer Health Connect / VeSync weight entries.",
         "",
     ]
-
-    chart_block(
-        lines,
-        outputs,
-        monthly_bodyweight,
-        monthly_e1rm,
-        "body_weight_timeline_chart_e1rm.png",
-        "## Trend Chart, e1RM",
-        "This chart compares monthly average bodyweight to monthly best estimated 1RM, e1RM, for squat, bench, and deadlift.",
-        "e1RM",
-        {"squat": "Squat e1RM", "bench": "Bench e1RM", "deadlift": "Deadlift e1RM"},
-    )
-    chart_block(
-        lines,
-        outputs,
-        monthly_bodyweight,
-        monthly_actual,
-        "body_weight_timeline_chart_actual.png",
-        "## Trend Chart, actual top singles",
-        "This chart compares monthly average bodyweight to monthly best actual single, 1 rep logged weight, for squat, bench, and deadlift.",
-        "actual 1RM proxy, top single",
-        {"squat": "Squat actual single", "bench": "Bench actual single", "deadlift": "Deadlift actual single"},
-    )
 
     overall = summarize(rows)
     if overall:

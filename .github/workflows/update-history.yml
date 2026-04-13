@@ -24,9 +24,6 @@ jobs:
       - name: Install dependencies
         run: pip install requests google-auth pyzipper
 
-      - name: Install ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
-
       - name: Create refresh token file
         run: echo "${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}" > scripts/.boostcamp_refresh_token
 
@@ -104,7 +101,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          rm -f outputs/body_weight_history.svg outputs/body_weight_timeline.csv outputs/body_weight_history.md
-          git add -A values/history.json values/body_weight_history.json values/garmin_daily.json outputs/history.md outputs/12_last_weeks_history.md outputs/rpe_table.md outputs/history_clean.md outputs/body_weight_timeline.md outputs/body_weight_timeline_chart_e1rm.png outputs/body_weight_timeline_chart_actual.png outputs/scorecard_weekly.md outputs/scorecard_monthly.md outputs/scorecard_quarterly.md outputs/scorecard_yearly.md scripts
+          rm -f outputs/body_weight_history.svg outputs/body_weight_timeline.csv outputs/body_weight_history.md outputs/body_weight_timeline_chart_e1rm.png outputs/body_weight_timeline_chart_actual.png
+          git add -A values/history.json values/body_weight_history.json values/garmin_daily.json outputs/history.md outputs/12_last_weeks_history.md outputs/rpe_table.md outputs/history_clean.md outputs/body_weight_timeline.md outputs/scorecard_weekly.md outputs/scorecard_monthly.md outputs/scorecard_quarterly.md outputs/scorecard_yearly.md scripts
           git diff --staged --quiet || git commit -m "Update workout history [skip ci]"
           git push

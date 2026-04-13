@@ -2,20 +2,6 @@
 
 This view merges old Zepp/Xiaomi scale history with newer Health Connect / VeSync weight entries.
 
-## Trend Chart, e1RM
-
-This chart compares monthly average bodyweight to monthly best estimated 1RM, e1RM, for squat, bench, and deadlift.
-It is normalized so the first available month for each series = 100, which makes trend comparison easier than mixing kg scales.
-
-![trend chart, e1rm](body_weight_timeline_chart_e1rm.png)
-
-## Trend Chart, actual top singles
-
-This chart compares monthly average bodyweight to monthly best actual single, 1 rep logged weight, for squat, bench, and deadlift.
-It is normalized so the first available month for each series = 100, which makes trend comparison easier than mixing kg scales.
-
-![trend chart, actual top singles](body_weight_timeline_chart_actual.png)
-
 ## Overall Summary
 
 - Logged days: 684
