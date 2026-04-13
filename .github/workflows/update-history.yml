@@ -60,6 +60,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add values/history.json values/health_daily.json outputs/history.md outputs/12_last_weeks_history.md outputs/rpe_table.md outputs/history_clean.md outputs/scorecard_weekly.md outputs/scorecard_monthly.md outputs/scorecard_quarterly.md outputs/scorecard_yearly.md
+          git add values/history.json outputs/history.md outputs/12_last_weeks_history.md outputs/rpe_table.md outputs/history_clean.md outputs/scorecard_weekly.md outputs/scorecard_monthly.md outputs/scorecard_quarterly.md outputs/scorecard_yearly.md
           git diff --staged --quiet || git commit -m "Update workout history [skip ci]"
           git push

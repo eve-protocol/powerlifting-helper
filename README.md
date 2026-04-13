@@ -12,7 +12,7 @@ Tools for fetching and analyzing workout data from Boostcamp.
 Data files are saved to the `values/` directory at the project root:
 
 - `values/history.json` - Workout history
-- `values/health_daily.json` - Normalized daily Health Connect metrics (Garmin-first)
+- `values/health_daily.json` - Normalized daily Health Connect metrics (Garmin-first), generated transiently in CI and not committed
 - `values/<program_name>.json` - Program details (e.g., `strength_block_v3.json`)
 
 Rendered markdown outputs are saved to `outputs/`, including:

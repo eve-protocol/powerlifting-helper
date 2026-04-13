@@ -4,3 +4,6 @@
 
 # Virtual environment
 __pycache__
+
+# CI-generated health data (privacy-sensitive, do not commit)
+values/health_daily.json
