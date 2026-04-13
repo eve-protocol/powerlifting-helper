@@ -59,6 +59,20 @@ Comparison baseline: Volume Block v4 / Week 3
 - Top single: 190kg x 1 @ 9
 - Top work set: 170kg x 5 @ 7.50
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 5 | 1 | ↑ 4 |
+| Avg steps/day | 5635 | 1886 | ↑ 3749 |
+| Avg distance/day | 4.40km | 1km | ↑ 3.40km |
+| Avg kcal/day | 2401 | 1786 | ↑ 615 |
+| Avg bodyweight | 79.3kg | 78.9kg | ↑ 0.4kg |
+| Avg resting HR | 46.3bpm | - | n/a |
+| Avg sleep | 7.16h | - | n/a |
+
+- Latest health date in period: 2026-03-14
+
 ## Volume Block v4 / Week 3
 
 Comparison baseline: Volume Block v4 / Week 2
@@ -100,6 +114,20 @@ Comparison baseline: Volume Block v4 / Week 2
 - Top work set: 102.5kg x 6 @ 8.50
 - Previous top work set: 110kg x 5 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 1 | 6 | ↓ 5 |
+| Avg steps/day | 1886 | 4856 | ↓ 2970 |
+| Avg distance/day | 1km | 3.22km | ↓ 2.22km |
+| Avg kcal/day | 1786 | 1860 | ↓ 74 |
+| Avg bodyweight | 78.9kg | 78.8kg | ↑ 0.1kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-03-09
 
 ## Volume Block v4 / Week 2
 
@@ -162,6 +190,20 @@ Comparison baseline: Volume Block v4 / Week 1
 - Previous top work set: 160kg x 5 @ 7.50
 - Top work-set delta: ↑ 7.5kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 1 | ↑ 5 |
+| Avg steps/day | 4856 | 12678 | ↓ 7822 |
+| Avg distance/day | 3.22km | 8.81km | ↓ 5.59km |
+| Avg kcal/day | 1860 | 2110 | ↓ 250 |
+| Avg bodyweight | 78.8kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-03-07
+
 ## Volume Block v4 / Week 1
 
 Comparison baseline: Volume Block v3 / Week 1
@@ -222,6 +264,20 @@ Comparison baseline: Volume Block v3 / Week 1
 - Top work set: 160kg x 5 @ 7.50
 - Previous top work set: 150kg x 4 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 1 | 4 | ↓ 3 |
+| Avg steps/day | 12678 | 6154 | ↑ 6524 |
+| Avg distance/day | 8.81km | 4.18km | ↑ 4.63km |
+| Avg kcal/day | 2110 | 1872 | ↑ 238 |
+| Avg bodyweight | -kg | 79.3kg | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-02-28
 
 ## Volume Block v3 / Week 1
 
@@ -284,6 +340,20 @@ Comparison baseline: Volume Block v2 / Week 3
 - Previous top work set: 165kg x 3 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 4 | 7 | ↓ 3 |
+| Avg steps/day | 6154 | 16786 | ↓ 10632 |
+| Avg distance/day | 4.18km | 11.48km | ↓ 7.30km |
+| Avg kcal/day | 1872 | 2245 | ↓ 373 |
+| Avg bodyweight | 79.3kg | 77.8kg | ↑ 1.5kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-02-26
+
 ## Volume Block v2 / Week 3
 
 Comparison baseline: Volume Block v2 / Week 2
@@ -344,6 +414,20 @@ Comparison baseline: Volume Block v2 / Week 2
 - Top work set: 165kg x 3 @ 7
 - Previous top work set: 152.5kg x 5 @ 6.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 7 | 6 | ↑ 1 |
+| Avg steps/day | 16786 | 4358 | ↑ 12428 |
+| Avg distance/day | 11.48km | 2.87km | ↑ 8.61km |
+| Avg kcal/day | 2245 | 1777 | ↑ 468 |
+| Avg bodyweight | 77.8kg | 77.6kg | ↑ 0.3kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-12-27
 
 ## Volume Block v2 / Week 2
 
@@ -406,6 +490,20 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 - Previous top work set: 145kg x 3 @ -
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 4358 | 5235 | ↓ 877 |
+| Avg distance/day | 2.87km | 3.51km | ↓ 0.64km |
+| Avg kcal/day | 1777 | 1829 | ↓ 52 |
+| Avg bodyweight | 77.6kg | 77.7kg | ↓ 0.1kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-12-20
+
 ## Ultra Frequency Volume Block / Week 1
 
 Comparison baseline: Ultra Frequency Building Block / Week 4
@@ -466,6 +564,20 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 - Top work set: 145kg x 3 @ -
 - Previous top work set: 155kg x 2 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 5235 | 5094 | ↑ 141 |
+| Avg distance/day | 3.51km | 3.43km | ↑ 0.08km |
+| Avg kcal/day | 1829 | 1876 | ↓ 47 |
+| Avg bodyweight | 77.7kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-12-13
 
 ## Ultra Frequency Building Block / Week 4
 
@@ -528,6 +640,20 @@ Comparison baseline: Ultra Frequency Building Block / Week 3
 - Previous top work set: 170kg x 2 @ 8.50
 - Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 5 | ↑ 1 |
+| Avg steps/day | 5094 | 4462 | ↑ 632 |
+| Avg distance/day | 3.43km | 3km | ↑ 0.43km |
+| Avg kcal/day | 1876 | 1802 | ↑ 74 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-10-30
+
 ## Ultra Frequency Building Block / Week 3
 
 Comparison baseline: Ultra Frequency Building Block / Week 2
@@ -588,6 +714,20 @@ Comparison baseline: Ultra Frequency Building Block / Week 2
 - Top work set: 170kg x 2 @ 8.50
 - Previous top work set: 170kg x 2 @ 7.50
 - Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 5 | - | n/a |
+| Avg steps/day | 4462 | - | n/a |
+| Avg distance/day | 3km | - | n/a |
+| Avg kcal/day | 1802 | - | n/a |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-10-24
 
 ## Ultra Frequency Building Block / Week 2
 
@@ -772,6 +912,20 @@ Comparison baseline: Transmutation Block / Week 3
 - Previous top work set: 172.5kg x 2 @ 10
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 9172 | 6552 | ↑ 2620 |
+| Avg distance/day | 6.21km | 4.36km | ↑ 1.85km |
+| Avg kcal/day | 1961 | 1905 | ↑ 56 |
+| Avg bodyweight | 77.8kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-11-27
+
 ## Transmutation Block / Week 3
 
 Comparison baseline: Transmutation Block / Week 2
@@ -832,6 +986,20 @@ Comparison baseline: Transmutation Block / Week 2
 - Top work set: 172.5kg x 2 @ 10
 - Previous top work set: 167.5kg x 3 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 6552 | 8469 | ↓ 1917 |
+| Avg distance/day | 4.36km | 6.65km | ↓ 2.29km |
+| Avg kcal/day | 1905 | 1682 | ↑ 223 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | 6.73h | n/a |
+
+- Latest health date in period: 2025-11-20
 
 ## Transmutation Block / Week 2
 
@@ -894,6 +1062,20 @@ Comparison baseline: Transmutation Block / Week 1
 - Previous top work set: 160kg x 3 @ 7.50
 - Top work-set delta: ↑ 7.5kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 8469 | 12143 | ↓ 3674 |
+| Avg distance/day | 6.65km | 9.01km | ↓ 2.36km |
+| Avg kcal/day | 1682 | 1927 | ↓ 245 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | 6.73h | 6.56h | ↑ 0.17h |
+
+- Latest health date in period: 2025-11-13
+
 ## Transmutation Block / Week 1
 
 Comparison baseline: Test Week / Week 1
@@ -955,7 +1137,171 @@ Comparison baseline: Test Week / Week 1
 - Previous top work set: -
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 3 | ↑ 3 |
+| Avg steps/day | 12143 | 11806 | ↑ 337 |
+| Avg distance/day | 9.01km | 8.19km | ↑ 0.82km |
+| Avg kcal/day | 1927 | 2098 | ↓ 171 |
+| Avg bodyweight | -kg | 78.2kg | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | 6.56h | - | n/a |
+
+- Latest health date in period: 2025-11-06
+
 ## Test Week / Week 1
+
+Comparison baseline: Strength Block v4 / Week 3
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 4 | 10 | ↓ 6 |
+| Avg sets/session | 2 | 3.33 | ↓ 1.33 |
+| Avg RPE | 6 | 7.60 | ↓ 1.60 |
+| Avg load | 126.9kg | 146.8kg | ↓ 19.9kg |
+| Tonnage | 867.5kg | 4917.5kg | ↓ 4050kg |
+| Avg tonnage/session | 433.8kg | 1639.2kg | ↓ 1205.4kg |
+
+- Top single: 147.5kg x 1 @ 6
+- Previous top single: 165kg x 1 @ 8.50
+- Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
+- Top work set: 120kg x 2 @ -
+- Previous top work set: 160kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 2 | 4 | ↓ 2 |
+| Total sets | 4 | 14 | ↓ 10 |
+| Avg sets/session | 2 | 3.50 | ↓ 1.50 |
+| Avg RPE | 6 | 8.29 | ↓ 2.29 |
+| Avg load | 99.4kg | 101.2kg | ↓ 1.8kg |
+| Tonnage | 682.5kg | 5422.5kg | ↓ 4740kg |
+| Avg tonnage/session | 341.2kg | 1355.6kg | ↓ 1014.4kg |
+
+- Top single: 112.5kg x 1 @ 6
+- Previous top single: 130kg x 1 @ 8.50
+- Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
+- Top work set: 95kg x 2 @ -
+- Previous top work set: 127.5kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 3 | 13 | ↓ 10 |
+| Avg sets/session | 3 | 4.33 | ↓ 1.33 |
+| Avg RPE | 6 | 8.08 | ↓ 2.08 |
+| Avg load | 140kg | 162.9kg | ↓ 22.9kg |
+| Tonnage | 420kg | 7052.5kg | ↓ 6632.5kg |
+| Avg tonnage/session | 420kg | 2350.8kg | ↓ 1930.8kg |
+
+- Top single: 140kg x 1 @ 6
+- Previous top single: 180kg x 1 @ 7
+- Top single delta: ↓ 40kg (only meaningful when the variation is comparable)
+- Top work set: -
+- Previous top work set: 185kg x 2 @ 9
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 3 | 6 | ↓ 3 |
+| Avg steps/day | 11806 | 7306 | ↑ 4500 |
+| Avg distance/day | 8.19km | 6km | ↑ 2.19km |
+| Avg kcal/day | 2098 | 2625 | ↓ 527 |
+| Avg bodyweight | 78.2kg | 79.5kg | ↓ 1.3kg |
+| Avg resting HR | -bpm | 45.5bpm | n/a |
+| Avg sleep | -h | 7.20h | n/a |
+
+- Latest health date in period: 2025-12-01
+
+## Strength Block v4 / Week 3
+
+Comparison baseline: Strength Block v4 / Week 2
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 10 | → 0 |
+| Avg sets/session | 3.33 | 3.33 | → 0 |
+| Avg RPE | 7.60 | 7.80 | ↓ 0.20 |
+| Avg load | 146.8kg | 145.5kg | ↑ 1.3kg |
+| Tonnage | 4917.5kg | 4880kg | ↑ 37.5kg |
+| Avg tonnage/session | 1639.2kg | 1626.7kg | ↑ 12.5kg |
+
+- Top single: 165kg x 1 @ 8.50
+- Previous top single: 167.5kg x 1 @ 9
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 160kg x 3 @ 9.50
+- Previous top work set: 147.5kg x 3 @ 7.50
+- Top work-set delta: ↑ 12.5kg (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 14 | 15 | ↓ 1 |
+| Avg sets/session | 3.50 | 3.75 | ↓ 0.25 |
+| Avg RPE | 8.29 | 8.13 | ↑ 0.16 |
+| Avg load | 101.2kg | 101kg | ↑ 0.2kg |
+| Tonnage | 5422.5kg | 5467.5kg | ↓ 45kg |
+| Avg tonnage/session | 1355.6kg | 1366.9kg | ↓ 11.3kg |
+
+- Top single: 130kg x 1 @ 8.50
+- Previous top single: 127.5kg x 1 @ 8.50
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 127.5kg x 3 @ 9.50
+- Previous top work set: 117.5kg x 3 @ 8
+- Top work-set delta: ↑ 10kg (only meaningful when the rep scheme is comparable)
+
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 13 | → 0 |
+| Avg sets/session | 4.33 | 4.33 | → 0 |
+| Avg RPE | 8.08 | 7.50 | ↑ 0.58 |
+| Avg load | 162.9kg | 163.3kg | ↓ 0.4kg |
+| Tonnage | 7052.5kg | 6912.5kg | ↑ 140kg |
+| Avg tonnage/session | 2350.8kg | 2304.2kg | ↑ 46.6kg |
+
+- Top single: 180kg x 1 @ 7
+- Previous top single: 187.5kg x 1 @ 8.50
+- Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
+- Top work set: 185kg x 2 @ 9
+- Previous top work set: 177.5kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 7306 | 7808 | ↓ 502 |
+| Avg distance/day | 6km | 6.39km | ↓ 0.39km |
+| Avg kcal/day | 2625 | 2640 | ↓ 15 |
+| Avg bodyweight | 79.5kg | 79.6kg | ↓ 0.1kg |
+| Avg resting HR | 45.5bpm | 44bpm | ↑ 1.5bpm |
+| Avg sleep | 7.20h | 7.12h | ↑ 0.08h |
+
+- Latest health date in period: 2026-04-04
+
+## Strength Block v4 / Week 2
 
 Comparison baseline: Strength Block v4 / Week 1
 
@@ -963,58 +1309,72 @@ Comparison baseline: Strength Block v4 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 2 | → 0 |
-| Total sets | 4 | 8 | ↓ 4 |
-| Avg sets/session | 2 | 4 | ↓ 2 |
-| Avg RPE | 6 | 7.44 | ↓ 1.44 |
-| Avg load | 126.9kg | 144.1kg | ↓ 17.2kg |
-| Tonnage | 867.5kg | 3127.5kg | ↓ 2260kg |
-| Avg tonnage/session | 433.8kg | 1563.8kg | ↓ 1130kg |
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 10 | 11 | ↓ 1 |
+| Avg sets/session | 3.33 | 3.67 | ↓ 0.34 |
+| Avg RPE | 7.80 | 7.09 | ↑ 0.71 |
+| Avg load | 145.5kg | 143.2kg | ↑ 2.3kg |
+| Tonnage | 4880kg | 5240kg | ↓ 360kg |
+| Avg tonnage/session | 1626.7kg | 1746.7kg | ↓ 120kg |
 
-- Top single: 147.5kg x 1 @ 6
+- Top single: 167.5kg x 1 @ 9
 - Previous top single: 165kg x 1 @ 8.50
-- Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
-- Top work set: 120kg x 2 @ -
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 147.5kg x 3 @ 7.50
 - Previous top work set: 145kg x 3 @ 7.50
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 2 | → 0 |
-| Total sets | 4 | 7 | ↓ 3 |
-| Avg sets/session | 2 | 3.50 | ↓ 1.50 |
-| Avg RPE | 6 | 7.64 | ↓ 1.64 |
-| Avg load | 99.4kg | 82.5kg | ↑ 16.9kg |
-| Tonnage | 682.5kg | 2250kg | ↓ 1567.5kg |
-| Avg tonnage/session | 341.2kg | 1125kg | ↓ 783.8kg |
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 15 | → 0 |
+| Avg sets/session | 3.75 | 3.75 | → 0 |
+| Avg RPE | 8.13 | 7.63 | ↑ 0.50 |
+| Avg load | 101kg | 99.5kg | ↑ 1.5kg |
+| Tonnage | 5467.5kg | 5405kg | ↑ 62.5kg |
+| Avg tonnage/session | 1366.9kg | 1351.2kg | ↑ 15.7kg |
 
-- Top single: 112.5kg x 1 @ 6
-- Previous top single: 115kg x 1 @ 7
-- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
-- Top work set: 95kg x 2 @ -
-- Previous top work set: 107.5kg x 4 @ 7
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top single: 127.5kg x 1 @ 8.50
+- Previous top single: 125kg x 1 @ 8
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 117.5kg x 3 @ 8
+- Previous top work set: 115kg x 3 @ 7.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 2 | ↓ 1 |
-| Total sets | 3 | 8 | ↓ 5 |
-| Avg sets/session | 3 | 4 | ↓ 1 |
-| Avg RPE | 6 | 7.06 | ↓ 1.06 |
-| Avg load | 140kg | 151.9kg | ↓ 11.9kg |
-| Tonnage | 420kg | 4520kg | ↓ 4100kg |
-| Avg tonnage/session | 420kg | 2260kg | ↓ 1840kg |
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 13 | → 0 |
+| Avg sets/session | 4.33 | 4.33 | → 0 |
+| Avg RPE | 7.50 | 7.15 | ↑ 0.35 |
+| Avg load | 163.3kg | 160.8kg | ↑ 2.5kg |
+| Tonnage | 6912.5kg | 6770kg | ↑ 142.5kg |
+| Avg tonnage/session | 2304.2kg | 2256.7kg | ↑ 47.5kg |
 
-- Top single: 140kg x 1 @ 6
-- Previous top single: 170kg x 1 @ 7
-- Top single delta: ↓ 30kg (only meaningful when the variation is comparable)
-- Top work set: -
-- Previous top work set: 160kg x 3 @ 7
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top single: 187.5kg x 1 @ 8.50
+- Previous top single: 187.5kg x 1 @ 8.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
+- Top work set: 177.5kg x 3 @ 7.50
+- Previous top work set: 175kg x 3 @ 7.50
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 7808 | 8376 | ↓ 568 |
+| Avg distance/day | 6.39km | 6.91km | ↓ 0.52km |
+| Avg kcal/day | 2640 | 2773 | ↓ 133 |
+| Avg bodyweight | 79.6kg | 79.3kg | ↑ 0.3kg |
+| Avg resting HR | 44bpm | 45bpm | ↓ 1bpm |
+| Avg sleep | 7.12h | 6.98h | ↑ 0.14h |
+
+- Latest health date in period: 2026-03-28
 
 ## Strength Block v4 / Week 1
 
@@ -1024,13 +1384,13 @@ Comparison baseline: Strength Block v2 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 3 | ↓ 1 |
-| Total sets | 8 | 12 | ↓ 4 |
-| Avg sets/session | 4 | 4 | → 0 |
-| Avg RPE | 7.44 | 7.21 | ↑ 0.23 |
-| Avg load | 144.1kg | 127.3kg | ↑ 16.8kg |
-| Tonnage | 3127.5kg | 8205kg | ↓ 5077.5kg |
-| Avg tonnage/session | 1563.8kg | 2735kg | ↓ 1171.2kg |
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 11 | 12 | ↓ 1 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 7.09 | 7.21 | ↓ 0.12 |
+| Avg load | 143.2kg | 127.3kg | ↑ 15.9kg |
+| Tonnage | 5240kg | 8205kg | ↓ 2965kg |
+| Avg tonnage/session | 1746.7kg | 2735kg | ↓ 988.3kg |
 
 - Top single: 165kg x 1 @ 8.50
 - Previous top single: 150kg x 1 @ 8
@@ -1043,18 +1403,18 @@ Comparison baseline: Strength Block v2 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 4 | ↓ 2 |
-| Total sets | 7 | 14 | ↓ 7 |
-| Avg sets/session | 3.50 | 3.50 | → 0 |
-| Avg RPE | 7.64 | 8.89 | ↓ 1.25 |
-| Avg load | 82.5kg | 95.4kg | ↓ 12.9kg |
-| Tonnage | 2250kg | 7057.5kg | ↓ 4807.5kg |
-| Avg tonnage/session | 1125kg | 1764.4kg | ↓ 639.4kg |
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 15 | 14 | ↑ 1 |
+| Avg sets/session | 3.75 | 3.50 | ↑ 0.25 |
+| Avg RPE | 7.63 | 8.89 | ↓ 1.26 |
+| Avg load | 99.5kg | 95.4kg | ↑ 4.1kg |
+| Tonnage | 5405kg | 7057.5kg | ↓ 1652.5kg |
+| Avg tonnage/session | 1351.2kg | 1764.4kg | ↓ 413.2kg |
 
-- Top single: 115kg x 1 @ 7
+- Top single: 125kg x 1 @ 8
 - Previous top single: 122.5kg x 1 @ 9
-- Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
-- Top work set: 107.5kg x 4 @ 7
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 115kg x 3 @ 7.50
 - Previous top work set: 110kg x 8 @ 10
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -1062,20 +1422,34 @@ Comparison baseline: Strength Block v2 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 3 | ↓ 1 |
-| Total sets | 8 | 10 | ↓ 2 |
-| Avg sets/session | 4 | 3.33 | ↑ 0.67 |
-| Avg RPE | 7.06 | 7.45 | ↓ 0.39 |
-| Avg load | 151.9kg | 142.5kg | ↑ 9.4kg |
-| Tonnage | 4520kg | 6930kg | ↓ 2410kg |
-| Avg tonnage/session | 2260kg | 2310kg | ↓ 50kg |
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 13 | 10 | ↑ 3 |
+| Avg sets/session | 4.33 | 3.33 | ↑ 1 |
+| Avg RPE | 7.15 | 7.45 | ↓ 0.30 |
+| Avg load | 160.8kg | 142.5kg | ↑ 18.3kg |
+| Tonnage | 6770kg | 6930kg | ↓ 160kg |
+| Avg tonnage/session | 2256.7kg | 2310kg | ↓ 53.3kg |
 
-- Top single: 170kg x 1 @ 7
+- Top single: 187.5kg x 1 @ 8.50
 - Previous top single: 180kg x 1 @ 7.50
-- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
-- Top work set: 160kg x 3 @ 7
+- Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
+- Top work set: 175kg x 3 @ 7.50
 - Previous top work set: 160kg x 5 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 8376 | 4034 | ↑ 4342 |
+| Avg distance/day | 6.91km | 2.59km | ↑ 4.32km |
+| Avg kcal/day | 2773 | 1735 | ↑ 1038 |
+| Avg bodyweight | 79.3kg | 78.2kg | ↑ 1.1kg |
+| Avg resting HR | 45bpm | - | n/a |
+| Avg sleep | 6.98h | - | n/a |
+
+- Latest health date in period: 2026-03-21
 
 ## Strength Block v2 / Week 4
 
@@ -1138,6 +1512,20 @@ Comparison baseline: Strength Block v2 / Week 3
 - Previous top work set: 182.5kg x 3 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 4034 | 3758 | ↑ 276 |
+| Avg distance/day | 2.59km | 2.38km | ↑ 0.21km |
+| Avg kcal/day | 1735 | 1814 | ↓ 79 |
+| Avg bodyweight | 78.2kg | 77.9kg | ↑ 0.3kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-01-24
+
 ## Strength Block v2 / Week 3
 
 Comparison baseline: Strength Block v2 / Week 2
@@ -1198,6 +1586,20 @@ Comparison baseline: Strength Block v2 / Week 2
 - Top work set: 182.5kg x 3 @ 9.50
 - Previous top work set: 170kg x 3 @ 7
 - Top work-set delta: ↑ 12.5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 3758 | 4457 | ↓ 699 |
+| Avg distance/day | 2.38km | 3.01km | ↓ 0.63km |
+| Avg kcal/day | 1814 | 1854 | ↓ 40 |
+| Avg bodyweight | 77.9kg | 78.5kg | ↓ 0.6kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-01-17
 
 ## Strength Block v2 / Week 2
 
@@ -1260,7 +1662,134 @@ Comparison baseline: Strength Block v2 / Week 1
 - Previous top work set: 165kg x 3 @ 6.50
 - Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 4457 | 8554 | ↓ 4097 |
+| Avg distance/day | 3.01km | 5.91km | ↓ 2.90km |
+| Avg kcal/day | 1854 | 1950 | ↓ 96 |
+| Avg bodyweight | 78.5kg | 77.8kg | ↑ 0.7kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-01-10
+
 ## Strength Block v2 / Week 1
+
+Comparison baseline: Peaking Block v6 / Week 2
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 1 | ↑ 2 |
+| Total sets | 10 | 3 | ↑ 7 |
+| Avg sets/session | 3.33 | 3 | ↑ 0.33 |
+| Avg RPE | 7.95 | 8.17 | ↓ 0.22 |
+| Avg load | 134.2kg | 157.5kg | ↓ 23.3kg |
+| Tonnage | 4092.5kg | 780kg | ↑ 3312.5kg |
+| Avg tonnage/session | 1364.2kg | 780kg | ↑ 584.2kg |
+
+- Top single: 155kg x 1 @ 9.50
+- Previous top single: 165kg x 1 @ 8.50
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
+- Top work set: 142.5kg x 3 @ 8.50
+- Previous top work set: 155kg x 2 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 1 | ↑ 3 |
+| Total sets | 14 | 3 | ↑ 11 |
+| Avg sets/session | 3.50 | 3 | ↑ 0.50 |
+| Avg RPE | 7.89 | 8 | ↓ 0.11 |
+| Avg load | 97.1kg | 115kg | ↓ 17.9kg |
+| Tonnage | 4902.5kg | 795kg | ↑ 4107.5kg |
+| Avg tonnage/session | 1225.6kg | 795kg | ↑ 430.6kg |
+
+- Top single: 122.5kg x 1 @ 8
+- Previous top single: 120kg x 1 @ 7.50
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 115kg x 3 @ 8
+- Previous top work set: 112.5kg x 3 @ 8
+- Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
+
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | - | n/a |
+| Total sets | 12 | - | n/a |
+| Avg sets/session | 4 | - | n/a |
+| Avg RPE | 7.54 | - | n/a |
+| Avg load | 152.1kg | - | n/a |
+| Tonnage | 6535kg | - | n/a |
+| Avg tonnage/session | 2178.3kg | - | n/a |
+
+- Top single: 190kg x 1 @ 8.50
+- Top work set: 165kg x 3 @ 6.50
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | - | n/a |
+| Avg steps/day | 8554 | - | n/a |
+| Avg distance/day | 5.91km | - | n/a |
+| Avg kcal/day | 1950 | - | n/a |
+| Avg bodyweight | 77.8kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-01-03
+
+## Peaking Block v6 / Week 2
+
+Comparison baseline: Peaking Block v6 / Week 1
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 3 | 11 | ↓ 8 |
+| Avg sets/session | 3 | 3.67 | ↓ 0.67 |
+| Avg RPE | 8.17 | 7.38 | ↑ 0.79 |
+| Avg load | 157.5kg | 144.1kg | ↑ 13.4kg |
+| Tonnage | 780kg | 4425kg | ↓ 3645kg |
+| Avg tonnage/session | 780kg | 1475kg | ↓ 695kg |
+
+- Top single: 165kg x 1 @ 8.50
+- Previous top single: 160kg x 1 @ 8
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
+- Top work set: 155kg x 2 @ 8
+- Previous top work set: 150kg x 3 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 4 | ↓ 3 |
+| Total sets | 3 | 12 | ↓ 9 |
+| Avg sets/session | 3 | 3 | → 0 |
+| Avg RPE | 8 | 7.96 | ↑ 0.04 |
+| Avg load | 115kg | 99.6kg | ↑ 15.4kg |
+| Tonnage | 795kg | 3587.5kg | ↓ 2792.5kg |
+| Avg tonnage/session | 795kg | 896.9kg | ↓ 101.9kg |
+
+- Top single: 120kg x 1 @ 7.50
+- Previous top single: 130kg x 1 @ 8.50
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
+- Top work set: 112.5kg x 3 @ 8
+- Previous top work set: 122.5kg x 2 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+## Peaking Block v6 / Week 1
 
 Comparison baseline: Peaking Block v4 / Week 4
 
@@ -1269,17 +1798,17 @@ Comparison baseline: Peaking Block v4 / Week 4
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Sessions | 3 | 3 | → 0 |
-| Total sets | 10 | 9 | ↑ 1 |
-| Avg sets/session | 3.33 | 3 | ↑ 0.33 |
-| Avg RPE | 7.95 | 7.11 | ↑ 0.84 |
-| Avg load | 134.2kg | 149.2kg | ↓ 15kg |
-| Tonnage | 4092.5kg | 2020kg | ↑ 2072.5kg |
-| Avg tonnage/session | 1364.2kg | 673.3kg | ↑ 690.9kg |
+| Total sets | 11 | 9 | ↑ 2 |
+| Avg sets/session | 3.67 | 3 | ↑ 0.67 |
+| Avg RPE | 7.38 | 7.11 | ↑ 0.27 |
+| Avg load | 144.1kg | 149.2kg | ↓ 5.1kg |
+| Tonnage | 4425kg | 2020kg | ↑ 2405kg |
+| Avg tonnage/session | 1475kg | 673.3kg | ↑ 801.7kg |
 
-- Top single: 155kg x 1 @ 9.50
+- Top single: 160kg x 1 @ 8
 - Previous top single: 177.5kg x 1 @ 9.50
-- Top single delta: ↓ 22.5kg (only meaningful when the variation is comparable)
-- Top work set: 142.5kg x 3 @ 8.50
+- Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
+- Top work set: 150kg x 3 @ 7
 - Previous top work set: 140kg x 2 @ 6
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -1288,38 +1817,52 @@ Comparison baseline: Peaking Block v4 / Week 4
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Sessions | 4 | 4 | → 0 |
-| Total sets | 14 | 11 | ↑ 3 |
-| Avg sets/session | 3.50 | 2.75 | ↑ 0.75 |
-| Avg RPE | 7.89 | 8.05 | ↓ 0.16 |
-| Avg load | 97.1kg | 98.6kg | ↓ 1.5kg |
-| Tonnage | 4902.5kg | 2680kg | ↑ 2222.5kg |
-| Avg tonnage/session | 1225.6kg | 670kg | ↑ 555.6kg |
+| Total sets | 12 | 11 | ↑ 1 |
+| Avg sets/session | 3 | 2.75 | ↑ 0.25 |
+| Avg RPE | 7.96 | 8.05 | ↓ 0.09 |
+| Avg load | 99.6kg | 98.6kg | ↑ 1kg |
+| Tonnage | 3587.5kg | 2680kg | ↑ 907.5kg |
+| Avg tonnage/session | 896.9kg | 670kg | ↑ 226.9kg |
 
-- Top single: 122.5kg x 1 @ 8
+- Top single: 130kg x 1 @ 8.50
 - Previous top single: 135kg x 1 @ 9.50
-- Top single delta: ↓ 12.5kg (only meaningful when the variation is comparable)
-- Top work set: 115kg x 3 @ 8
+- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
+- Top work set: 122.5kg x 2 @ 8
 - Previous top work set: 112.5kg x 2 @ 6
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↑ 10kg (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 3 | → 0 |
-| Total sets | 12 | 8 | ↑ 4 |
-| Avg sets/session | 4 | 2.67 | ↑ 1.33 |
-| Avg RPE | 7.54 | 7.50 | ↑ 0.04 |
-| Avg load | 152.1kg | 150kg | ↑ 2.1kg |
-| Tonnage | 6535kg | 2660kg | ↑ 3875kg |
-| Avg tonnage/session | 2178.3kg | 886.7kg | ↑ 1291.6kg |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 10 | 8 | ↑ 2 |
+| Avg sets/session | 5 | 2.67 | ↑ 2.33 |
+| Avg RPE | 7.72 | 7.50 | ↑ 0.22 |
+| Avg load | 157.2kg | 150kg | ↑ 7.2kg |
+| Tonnage | 3307.5kg | 2660kg | ↑ 647.5kg |
+| Avg tonnage/session | 1653.8kg | 886.7kg | ↑ 767.1kg |
 
-- Top single: 190kg x 1 @ 8.50
+- Top single: 187.5kg x 1 @ 8.50
 - Previous top single: 195kg x 1 @ 9.50
-- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
-- Top work set: 165kg x 3 @ 6.50
+- Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
+- Top work set: 177.5kg x 2 @ 7.50
 - Previous top work set: 125kg x 5 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 7067 | 7442 | ↓ 375 |
+| Avg distance/day | 5.97km | 5.01km | ↑ 0.96km |
+| Avg kcal/day | 2784 | 1885 | ↑ 899 |
+| Avg bodyweight | 79.5kg | 78.8kg | ↑ 0.7kg |
+| Avg resting HR | 45bpm | - | n/a |
+| Avg sleep | 7.25h | - | n/a |
+
+- Latest health date in period: 2026-04-11
 
 ## Peaking Block v4 / Week 4
 
@@ -1382,6 +1925,20 @@ Comparison baseline: Peaking Block v4 / Week 3
 - Previous top work set: 180kg x 3 @ 9
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 7442 | 13119 | ↓ 5677 |
+| Avg distance/day | 5.01km | 9.14km | ↓ 4.13km |
+| Avg kcal/day | 1885 | 2117 | ↓ 232 |
+| Avg bodyweight | 78.8kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-02-21
+
 ## Peaking Block v4 / Week 3
 
 Comparison baseline: Peaking Block v4 / Week 2
@@ -1442,6 +1999,20 @@ Comparison baseline: Peaking Block v4 / Week 2
 - Top work set: 180kg x 3 @ 9
 - Previous top work set: 170kg x 2 @ 6.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 7 | ↓ 1 |
+| Avg steps/day | 13119 | 11326 | ↑ 1793 |
+| Avg distance/day | 9.14km | 7.78km | ↑ 1.36km |
+| Avg kcal/day | 2117 | 2101 | ↑ 16 |
+| Avg bodyweight | -kg | 78.2kg | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-02-14
 
 ## Peaking Block v4 / Week 2
 
@@ -1504,6 +2075,20 @@ Comparison baseline: Peaking Block v3 / Week 1
 - Previous top work set: 170kg x 3 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 7 | 6 | ↑ 1 |
+| Avg steps/day | 11326 | 2513 | ↑ 8813 |
+| Avg distance/day | 7.78km | 1.52km | ↑ 6.26km |
+| Avg kcal/day | 2101 | 1717 | ↑ 384 |
+| Avg bodyweight | 78.2kg | 77.9kg | ↑ 0.3kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-02-07
+
 ## Peaking Block v3 / Week 1
 
 Comparison baseline: Mad Power Variation 1 / Week 4
@@ -1564,6 +2149,20 @@ Comparison baseline: Mad Power Variation 1 / Week 4
 - Top work set: 170kg x 3 @ 7.50
 - Previous top work set: 170kg x 2 @ 8
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | - | n/a |
+| Avg steps/day | 2513 | - | n/a |
+| Avg distance/day | 1.52km | - | n/a |
+| Avg kcal/day | 1717 | - | n/a |
+| Avg bodyweight | 77.9kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-01-31
 
 ## Mad Power Variation 1 / Week 4
 
@@ -2236,6 +2835,20 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 5
 - Previous top work set: 170kg x 2 @ 8
 - Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 5033 | 4334 | ↑ 699 |
+| Avg distance/day | 3.15km | 2.68km | ↑ 0.47km |
+| Avg kcal/day | - | - | n/a |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-06-19
+
 ## Mad Power 6 Weeks v2 / Week 5
 
 Comparison baseline: Mad Power 6 Weeks v2 / Week 4
@@ -2296,6 +2909,20 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 4
 - Top work set: 170kg x 2 @ 8
 - Previous top work set: 162.5kg x 3 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 4334 | 8066 | ↓ 3732 |
+| Avg distance/day | 2.68km | 5.16km | ↓ 2.48km |
+| Avg kcal/day | - | - | n/a |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-06-12
 
 ## Mad Power 6 Weeks v2 / Week 4
 
@@ -2358,6 +2985,20 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 3
 - Previous top work set: 162.5kg x 3 @ 7.50
 - Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 8066 | 7491 | ↑ 575 |
+| Avg distance/day | 5.16km | 4.74km | ↑ 0.42km |
+| Avg kcal/day | - | - | n/a |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-06-05
+
 ## Mad Power 6 Weeks v2 / Week 3
 
 Comparison baseline: Mad Power 6 Weeks v2 / Week 2
@@ -2418,6 +3059,20 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 2
 - Top work set: 162.5kg x 3 @ 7.50
 - Previous top work set: 155kg x 4 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | - | n/a |
+| Avg steps/day | 7491 | - | n/a |
+| Avg distance/day | 4.74km | - | n/a |
+| Avg kcal/day | - | - | n/a |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-05-29
 
 ## Mad Power 6 Weeks v2 / Week 2
 
@@ -2663,6 +3318,20 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 3
 - Previous top work set: 170kg x 3 @ 8
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 8829 | 5360 | ↑ 3469 |
+| Avg distance/day | 6.04km | 3.56km | ↑ 2.48km |
+| Avg kcal/day | 1972 | 1886 | ↑ 86 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-09-25
+
 ## Mad Power 5 Weeks v3 / Week 3
 
 Comparison baseline: Mad Power 5 Weeks v3 / Week 2
@@ -2723,6 +3392,20 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 2
 - Top work set: 170kg x 3 @ 8
 - Previous top work set: 177.5kg x 2 @ 9
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 5360 | 4816 | ↑ 544 |
+| Avg distance/day | 3.56km | 3.19km | ↑ 0.37km |
+| Avg kcal/day | 1886 | 1816 | ↑ 70 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-09-18
 
 ## Mad Power 5 Weeks v3 / Week 2
 
@@ -2785,6 +3468,20 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 1
 - Previous top work set: 175kg x 2 @ 9
 - Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 4816 | 6674 | ↓ 1858 |
+| Avg distance/day | 3.19km | 4.51km | ↓ 1.32km |
+| Avg kcal/day | 1816 | 1835 | ↓ 19 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-09-11
+
 ## Mad Power 5 Weeks v3 / Week 1
 
 Comparison baseline: Mad Power 5 Weeks v2 / Week 5
@@ -2845,6 +3542,20 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 5
 - Top work set: 175kg x 2 @ 9
 - Previous top work set: 177.5kg x 2 @ 8.50
 - Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 6674 | 3574 | ↑ 3100 |
+| Avg distance/day | 4.51km | 2.36km | ↑ 2.15km |
+| Avg kcal/day | 1835 | 1829 | ↑ 6 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-09-04
 
 ## Mad Power 5 Weeks v2 / Week 5
 
@@ -2907,6 +3618,20 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 4
 - Previous top work set: 177.5kg x 2 @ 8
 - Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 3574 | 6907 | ↓ 3333 |
+| Avg distance/day | 2.36km | 4.69km | ↓ 2.33km |
+| Avg kcal/day | 1829 | 1870 | ↓ 41 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-08-28
+
 ## Mad Power 5 Weeks v2 / Week 4
 
 Comparison baseline: Mad Power 5 Weeks v2 / Week 3
@@ -2967,6 +3692,20 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 3
 - Top work set: 177.5kg x 2 @ 8
 - Previous top work set: 170kg x 3 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 5 | ↑ 1 |
+| Avg steps/day | 6907 | 12148 | ↓ 5241 |
+| Avg distance/day | 4.69km | 8.59km | ↓ 3.90km |
+| Avg kcal/day | 1870 | 2211 | ↓ 341 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-08-21
 
 ## Mad Power 5 Weeks v2 / Week 3
 
@@ -3029,6 +3768,20 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 2
 - Previous top work set: 175kg x 2 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 5 | 6 | ↓ 1 |
+| Avg steps/day | 12148 | 15054 | ↓ 2906 |
+| Avg distance/day | 8.59km | 10.52km | ↓ 1.93km |
+| Avg kcal/day | 2211 | 2130 | ↑ 81 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-08-14
+
 ## Mad Power 5 Weeks v2 / Week 2
 
 Comparison baseline: Mad Power 5 Weeks v2 / Week 1
@@ -3089,6 +3842,20 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 1
 - Top work set: 175kg x 2 @ 7.50
 - Previous top work set: 175kg x 2 @ 7.50
 - Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 5 | ↑ 1 |
+| Avg steps/day | 15054 | 11538 | ↑ 3516 |
+| Avg distance/day | 10.52km | 7.80km | ↑ 2.72km |
+| Avg kcal/day | 2130 | 1988 | ↑ 142 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-08-07
 
 ## Mad Power 5 Weeks v2 / Week 1
 
@@ -3151,6 +3918,20 @@ Comparison baseline: Mad Power 5 Weeks / Week 5
 - Previous top work set: 172.5kg x 2 @ 8.50
 - Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 5 | 6 | ↓ 1 |
+| Avg steps/day | 11538 | 4768 | ↑ 6770 |
+| Avg distance/day | 7.80km | 3.18km | ↑ 4.62km |
+| Avg kcal/day | 1988 | 1890 | ↑ 98 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-07-31
+
 ## Mad Power 5 Weeks / Week 5
 
 Comparison baseline: Mad Power 5 Weeks / Week 4
@@ -3211,6 +3992,20 @@ Comparison baseline: Mad Power 5 Weeks / Week 4
 - Top work set: 172.5kg x 2 @ 8.50
 - Previous top work set: 175kg x 2 @ 8.50
 - Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 4768 | 3534 | ↑ 1234 |
+| Avg distance/day | 3.18km | 2.34km | ↑ 0.84km |
+| Avg kcal/day | 1890 | 1806 | ↑ 84 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-07-25
 
 ## Mad Power 5 Weeks / Week 4
 
@@ -3273,6 +4068,20 @@ Comparison baseline: Mad Power 5 Weeks / Week 3
 - Previous top work set: 165kg x 3 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 3534 | 3337 | ↑ 197 |
+| Avg distance/day | 2.34km | 2.19km | ↑ 0.15km |
+| Avg kcal/day | 1806 | 1786 | ↑ 20 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-07-17
+
 ## Mad Power 5 Weeks / Week 3
 
 Comparison baseline: Mad Power 5 Weeks / Week 2
@@ -3333,6 +4142,20 @@ Comparison baseline: Mad Power 5 Weeks / Week 2
 - Top work set: 165kg x 3 @ 7
 - Previous top work set: 170kg x 2 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 3337 | 5719 | ↓ 2382 |
+| Avg distance/day | 2.19km | 3.83km | ↓ 1.64km |
+| Avg kcal/day | 1786 | 1796 | ↓ 10 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-07-10
 
 ## Mad Power 5 Weeks / Week 2
 
@@ -3395,6 +4218,20 @@ Comparison baseline: Mad Power 5 Weeks / Week 1
 - Previous top work set: 170kg x 2 @ 7.50
 - Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 5719 | 5466 | ↑ 253 |
+| Avg distance/day | 3.83km | 3.65km | ↑ 0.18km |
+| Avg kcal/day | 1796 | 1749 | ↑ 47 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-07-03
+
 ## Mad Power 5 Weeks / Week 1
 
 Comparison baseline: Mad Power 2 Weeks / Week 2
@@ -3455,6 +4292,20 @@ Comparison baseline: Mad Power 2 Weeks / Week 2
 - Top work set: 170kg x 2 @ 7.50
 - Previous top work set: 165kg x 3 @ 8.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | - | n/a |
+| Avg steps/day | 5466 | - | n/a |
+| Avg distance/day | 3.65km | - | n/a |
+| Avg kcal/day | 1749 | - | n/a |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-06-26
 
 ## Mad Power 2 Weeks / Week 2
 

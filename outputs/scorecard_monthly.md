@@ -2,6 +2,81 @@
 
 *Auto-generated from history.json - movement-family scorecards by calendar month*
 
+## 2026-04
+
+Comparison baseline: 2026-03
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 6 | 13 | ↓ 7 |
+| Total sets | 20 | 46 | ↓ 26 |
+| Avg sets/session | 3.33 | 3.54 | ↓ 0.21 |
+| Avg RPE | 7.41 | 7.33 | ↑ 0.08 |
+| Avg load | 145kg | 143.8kg | ↑ 1.2kg |
+| Tonnage | 8577.5kg | 26005kg | ↓ 17427.5kg |
+| Avg tonnage/session | 1429.6kg | 2000.4kg | ↓ 570.8kg |
+
+- Top single: 165kg x 1 @ 8.50
+- Previous top single: 167.5kg x 1 @ 9
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 155kg x 2 @ 8
+- Previous top work set: 160kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 7 | 18 | ↓ 11 |
+| Total sets | 23 | 64 | ↓ 41 |
+| Avg sets/session | 3.29 | 3.56 | ↓ 0.27 |
+| Avg RPE | 8.13 | 7.86 | ↑ 0.27 |
+| Avg load | 108.4kg | 96kg | ↑ 12.4kg |
+| Tonnage | 7660kg | 25932.5kg | ↓ 18272.5kg |
+| Avg tonnage/session | 1094.3kg | 1440.7kg | ↓ 346.4kg |
+
+- Top single: 130kg x 1 @ 8.50
+- Previous top single: 127.5kg x 1 @ 8.50
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 127.5kg x 3 @ 9.50
+- Previous top work set: 117.5kg x 5 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 13 | ↓ 9 |
+| Total sets | 18 | 53 | ↓ 35 |
+| Avg sets/session | 4.50 | 4.08 | ↑ 0.42 |
+| Avg RPE | 8 | 7.38 | ↑ 0.62 |
+| Avg load | 159.9kg | 158.8kg | ↑ 1.1kg |
+| Tonnage | 8267.5kg | 31235kg | ↓ 22967.5kg |
+| Avg tonnage/session | 2066.9kg | 2402.7kg | ↓ 335.8kg |
+
+- Top single: 187.5kg x 1 @ 8.50
+- Previous top single: 190kg x 1 @ 9
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 185kg x 2 @ 9
+- Previous top work set: 177.5kg x 3 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 12 | 31 | ↓ 19 |
+| Avg steps/day | 8255 | 8289 | ↓ 34 |
+| Avg distance/day | 6.82km | 6.47km | ↑ 0.35km |
+| Avg kcal/day | 2658 | 2424 | ↑ 234 |
+| Avg bodyweight | 79.6kg | 79.5kg | ↑ 0.1kg |
+| Avg resting HR | 44.9bpm | 44.9bpm | ↑ 0bpm |
+| Avg sleep | 7.38h | 7.27h | ↑ 0.11h |
+
+- Latest health date in period: 2026-04-12
+
 ## 2026-03
 
 Comparison baseline: 2026-02
@@ -10,36 +85,36 @@ Comparison baseline: 2026-02
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 8 | 12 | ↓ 4 |
-| Total sets | 29 | 47 | ↓ 18 |
-| Avg sets/session | 3.62 | 3.92 | ↓ 0.30 |
-| Avg RPE | 7.14 | 7.56 | ↓ 0.42 |
-| Avg load | 141.8kg | 133.5kg | ↑ 8.3kg |
-| Tonnage | 17467.5kg | 23297.5kg | ↓ 5830kg |
-| Avg tonnage/session | 2183.4kg | 1941.5kg | ↑ 241.9kg |
+| Sessions | 13 | 12 | ↑ 1 |
+| Total sets | 46 | 47 | ↓ 1 |
+| Avg sets/session | 3.54 | 3.92 | ↓ 0.38 |
+| Avg RPE | 7.33 | 7.56 | ↓ 0.23 |
+| Avg load | 143.8kg | 133.5kg | ↑ 10.3kg |
+| Tonnage | 26005kg | 23297.5kg | ↑ 2707.5kg |
+| Avg tonnage/session | 2000.4kg | 1941.5kg | ↑ 58.9kg |
 
-- Top single: 165kg x 1 @ 8.50
+- Top single: 167.5kg x 1 @ 9
 - Previous top single: 177.5kg x 1 @ 9.50
-- Top single delta: ↓ 12.5kg (only meaningful when the variation is comparable)
-- Top work set: 155kg x 5 @ 9
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
+- Top work set: 160kg x 3 @ 9.50
 - Previous top work set: 155kg x 3 @ 9.50
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 10 | 18 | ↓ 8 |
-| Total sets | 35 | 60 | ↓ 25 |
-| Avg sets/session | 3.50 | 3.33 | ↑ 0.17 |
-| Avg RPE | 7.76 | 7.87 | ↓ 0.11 |
-| Avg load | 92.8kg | 97.6kg | ↓ 4.8kg |
-| Tonnage | 15165kg | 24505.5kg | ↓ 9340.5kg |
-| Avg tonnage/session | 1516.5kg | 1361.4kg | ↑ 155.1kg |
+| Sessions | 18 | 18 | → 0 |
+| Total sets | 64 | 60 | ↑ 4 |
+| Avg sets/session | 3.56 | 3.33 | ↑ 0.23 |
+| Avg RPE | 7.86 | 7.87 | ↓ 0.01 |
+| Avg load | 96kg | 97.6kg | ↓ 1.6kg |
+| Tonnage | 25932.5kg | 24505.5kg | ↑ 1427kg |
+| Avg tonnage/session | 1440.7kg | 1361.4kg | ↑ 79.3kg |
 
-- Top single: 125kg x 1 @ 8.50
+- Top single: 127.5kg x 1 @ 8.50
 - Previous top single: 135kg x 1 @ 9.50
-- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
+- Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 117.5kg x 5 @ 9.50
 - Previous top work set: 125kg x 3 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
@@ -48,20 +123,34 @@ Comparison baseline: 2026-02
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 8 | 13 | ↓ 5 |
-| Total sets | 30 | 41 | ↓ 11 |
-| Avg sets/session | 3.75 | 3.15 | ↑ 0.60 |
-| Avg RPE | 7.28 | 7.49 | ↓ 0.21 |
-| Avg load | 153.6kg | 149.8kg | ↑ 3.8kg |
-| Tonnage | 19980kg | 20975kg | ↓ 995kg |
-| Avg tonnage/session | 2497.5kg | 1613.5kg | ↑ 884kg |
+| Sessions | 13 | 13 | → 0 |
+| Total sets | 53 | 41 | ↑ 12 |
+| Avg sets/session | 4.08 | 3.15 | ↑ 0.93 |
+| Avg RPE | 7.38 | 7.49 | ↓ 0.11 |
+| Avg load | 158.8kg | 149.8kg | ↑ 9kg |
+| Tonnage | 31235kg | 20975kg | ↑ 10260kg |
+| Avg tonnage/session | 2402.7kg | 1613.5kg | ↑ 789.2kg |
 
 - Top single: 190kg x 1 @ 9
 - Previous top single: 195kg x 1 @ 9.50
 - Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
-- Top work set: 170kg x 5 @ 7.50
+- Top work set: 177.5kg x 3 @ 7.50
 - Previous top work set: 180kg x 3 @ 9
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 31 | 28 | ↑ 3 |
+| Avg steps/day | 8289 | 9894 | ↓ 1605 |
+| Avg distance/day | 6.47km | 6.80km | ↓ 0.33km |
+| Avg kcal/day | 2424 | 2011 | ↑ 413 |
+| Avg bodyweight | 79.5kg | 79kg | ↑ 0.5kg |
+| Avg resting HR | 44.9bpm | - | n/a |
+| Avg sleep | 7.27h | - | n/a |
+
+- Latest health date in period: 2026-03-31
 
 ## 2026-02
 
@@ -124,6 +213,20 @@ Comparison baseline: 2026-01
 - Previous top work set: 182.5kg x 3 @ 9.50
 - Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 28 | 31 | ↓ 3 |
+| Avg steps/day | 9894 | 5175 | ↑ 4719 |
+| Avg distance/day | 6.80km | 3.44km | ↑ 3.36km |
+| Avg kcal/day | 2011 | 1827 | ↑ 184 |
+| Avg bodyweight | 79kg | 78.2kg | ↑ 0.8kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-02-28
+
 ## 2026-01
 
 Comparison baseline: 2025-12
@@ -184,6 +287,20 @@ Comparison baseline: 2025-12
 - Top work set: 182.5kg x 3 @ 9.50
 - Previous top work set: 165kg x 3 @ 7
 - Top work-set delta: ↑ 17.5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 31 | 31 | → 0 |
+| Avg steps/day | 5175 | 9669 | ↓ 4494 |
+| Avg distance/day | 3.44km | 6.61km | ↓ 3.17km |
+| Avg kcal/day | 1827 | 1961 | ↓ 134 |
+| Avg bodyweight | 78.2kg | 77.7kg | ↑ 0.5kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2026-01-31
 
 ## 2025-12
 
@@ -246,6 +363,20 @@ Comparison baseline: 2025-11
 - Previous top work set: 172.5kg x 2 @ 10
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 31 | 30 | ↑ 1 |
+| Avg steps/day | 9669 | 9257 | ↑ 412 |
+| Avg distance/day | 6.61km | 6.66km | ↓ 0.05km |
+| Avg kcal/day | 1961 | 1875 | ↑ 86 |
+| Avg bodyweight | 77.7kg | 78.2kg | ↓ 0.5kg |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | 6.82h | n/a |
+
+- Latest health date in period: 2025-12-31
+
 ## 2025-11
 
 Comparison baseline: 2025-10
@@ -306,6 +437,20 @@ Comparison baseline: 2025-10
 - Top work set: 172.5kg x 2 @ 10
 - Previous top work set: 170kg x 2 @ 7.50
 - Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 30 | 12 | ↑ 18 |
+| Avg steps/day | 9257 | 4448 | ↑ 4809 |
+| Avg distance/day | 6.66km | 2.98km | ↑ 3.68km |
+| Avg kcal/day | 1875 | 1827 | ↑ 48 |
+| Avg bodyweight | 78.2kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | 6.82h | - | n/a |
+
+- Latest health date in period: 2025-11-30
 
 ## 2025-10
 
@@ -368,6 +513,20 @@ Comparison baseline: 2025-09
 - Previous top work set: 180kg x 2 @ 9.50
 - Top work-set delta: ↓ 10kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 12 | 25 | ↓ 13 |
+| Avg steps/day | 4448 | 5102 | ↓ 654 |
+| Avg distance/day | 2.98km | 3.41km | ↓ 0.43km |
+| Avg kcal/day | 1827 | 1857 | ↓ 30 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-10-31
+
 ## 2025-09
 
 Comparison baseline: 2025-08
@@ -428,6 +587,20 @@ Comparison baseline: 2025-08
 - Top work set: 180kg x 2 @ 9.50
 - Previous top work set: 177.5kg x 2 @ 8
 - Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 25 | 31 | ↓ 6 |
+| Avg steps/day | 5102 | 10526 | ↓ 5424 |
+| Avg distance/day | 3.41km | 7.31km | ↓ 3.90km |
+| Avg kcal/day | 1857 | 2020 | ↓ 163 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-09-25
 
 ## 2025-08
 
@@ -490,6 +663,20 @@ Comparison baseline: 2025-07
 - Previous top work set: 175kg x 2 @ 7.50
 - Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 31 | 30 | ↑ 1 |
+| Avg steps/day | 10526 | 4732 | ↑ 5794 |
+| Avg distance/day | 7.31km | 3.15km | ↑ 4.16km |
+| Avg kcal/day | 2020 | 1834 | ↑ 186 |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-08-31
+
 ## 2025-07
 
 Comparison baseline: 2025-06
@@ -550,6 +737,20 @@ Comparison baseline: 2025-06
 - Top work set: 175kg x 2 @ 7.50
 - Previous top work set: 175kg x 2 @ 9
 - Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 30 | 30 | → 0 |
+| Avg steps/day | 4732 | 5614 | ↓ 882 |
+| Avg distance/day | 3.15km | 3.63km | ↓ 0.48km |
+| Avg kcal/day | 1834 | 1770 | ↑ 64 |
+| Avg bodyweight | -kg | 76.5kg | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-07-31
 
 ## 2025-06
 
@@ -612,6 +813,20 @@ Comparison baseline: 2025-05
 - Previous top work set: 175kg x 2 @ 8
 - Top work-set delta: → 0kg (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 30 | 9 | ↑ 21 |
+| Avg steps/day | 5614 | 6637 | ↓ 1023 |
+| Avg distance/day | 3.63km | 4.20km | ↓ 0.57km |
+| Avg kcal/day | 1770 | - | n/a |
+| Avg bodyweight | 76.5kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-06-30
+
 ## 2025-05
 
 Comparison baseline: 2025-04
@@ -672,6 +887,20 @@ Comparison baseline: 2025-04
 - Top work set: 175kg x 2 @ 8
 - Previous top work set: 170kg x 3 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 9 | - | n/a |
+| Avg steps/day | 6637 | - | n/a |
+| Avg distance/day | 4.20km | - | n/a |
+| Avg kcal/day | - | - | n/a |
+| Avg bodyweight | -kg | - | n/a |
+| Avg resting HR | -bpm | - | n/a |
+| Avg sleep | -h | - | n/a |
+
+- Latest health date in period: 2025-05-31
 
 ## 2025-04
 
