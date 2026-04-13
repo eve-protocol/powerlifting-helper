@@ -67,15 +67,15 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 102 | 275 | ↓ 173 |
-| Avg steps/day | 7779 | 7391 | ↑ 388 |
-| Avg distance/day | 5.68km | 5.05km | ↑ 0.63km |
-| Avg kcal/day | 2157 | 1897 | ↑ 260 |
+| Days with data | 103 | 365 | ↓ 262 |
+| Avg steps/day | 7734 | 8049 | ↓ 315 |
+| Avg distance/day | 5.65km | 5.93km | ↓ 0.28km |
+| Avg kcal/day | 2149 | 2304 | ↓ 155 |
 | Avg bodyweight | 79kg | 76.8kg | ↑ 2.1kg |
-| Avg resting HR | 44.9bpm | - | n/a |
-| Avg sleep | 7.32h | 6.82h | ↑ 0.50h |
+| Avg resting HR | 45.3bpm | 43.1bpm | ↑ 2.2bpm |
+| Avg sleep | 7.07h | 7.33h | ↓ 0.26h |
 
-- Latest health date in period: 2026-04-12
+- Latest health date in period: 2026-04-13
 
 ## 2025
 
@@ -142,13 +142,13 @@ Comparison baseline: 2024
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 275 | 235 | ↑ 40 |
-| Avg steps/day | 7391 | - | n/a |
-| Avg distance/day | 5.05km | - | n/a |
-| Avg kcal/day | 1897 | - | n/a |
+| Days with data | 365 | 366 | ↓ 1 |
+| Avg steps/day | 8049 | 9221 | ↓ 1172 |
+| Avg distance/day | 5.93km | 7.28km | ↓ 1.35km |
+| Avg kcal/day | 2304 | 2643 | ↓ 339 |
 | Avg bodyweight | 76.8kg | 73.9kg | ↑ 2.9kg |
-| Avg resting HR | -bpm | - | n/a |
-| Avg sleep | 6.82h | - | n/a |
+| Avg resting HR | 43.1bpm | 41.5bpm | ↑ 1.5bpm |
+| Avg sleep | 7.33h | 7.39h | ↓ 0.06h |
 
 - Latest health date in period: 2025-12-31
 
@@ -203,12 +203,12 @@ Comparison baseline: 2024
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 235 | - | n/a |
-| Avg steps/day | - | - | n/a |
-| Avg distance/day | -km | - | n/a |
-| Avg kcal/day | - | - | n/a |
+| Days with data | 366 | - | n/a |
+| Avg steps/day | 9221 | - | n/a |
+| Avg distance/day | 7.28km | - | n/a |
+| Avg kcal/day | 2643 | - | n/a |
 | Avg bodyweight | 73.9kg | - | n/a |
-| Avg resting HR | -bpm | - | n/a |
-| Avg sleep | -h | - | n/a |
+| Avg resting HR | 41.5bpm | - | n/a |
+| Avg sleep | 7.39h | - | n/a |
 
-- Latest health date in period: 2024-12-21
+- Latest health date in period: 2024-12-31

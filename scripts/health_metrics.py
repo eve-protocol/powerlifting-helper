@@ -78,6 +78,57 @@ def load_health_daily(repo_root: Path) -> Dict[str, dict]:
         data = json.loads(path.read_text())
         health_daily = {row["date"]: row for row in data.get("days", [])}
 
+    garmin_path = repo_root / "values" / "garmin_daily.json"
+    if garmin_path.exists():
+        garmin_data = json.loads(garmin_path.read_text())
+        for row in garmin_data.get("days", []):
+            date_str = row["date"]
+            if date_str not in health_daily:
+                health_daily[date_str] = {
+                    "date": date_str,
+                    "steps": row.get("steps"),
+                    "distance_km": row.get("distance_km"),
+                    "total_kcal_burned": row.get("total_kcal_burned"),
+                    "weight_kg": None,
+                    "resting_hr_bpm": row.get("resting_hr_bpm"),
+                    "sleep": row.get("sleep"),
+                    "sources": {
+                        "steps": {"package_name": GARMIN_PACKAGE, "app_name": "Garmin Connect (GDPR export)", "steps": row.get("steps")},
+                        "distance": {"package_name": GARMIN_PACKAGE, "app_name": "Garmin Connect (GDPR export)", "distance_km": row.get("distance_km")},
+                        "total_kcal_burned": {"package_name": GARMIN_PACKAGE, "app_name": "Garmin Connect (GDPR export)", "total_kcal_burned": row.get("total_kcal_burned")},
+                        "weight": None,
+                        "resting_hr": {"package_name": GARMIN_PACKAGE, "app_name": "Garmin Connect (GDPR export)", "resting_hr_bpm": row.get("resting_hr_bpm")},
+                        "sleep": row.get("sleep"),
+                    },
+                    "available_sources": {
+                        "steps": [],
+                        "distance": [],
+                        "total_kcal_burned": [],
+                    },
+                    "freshness": {
+                        "latest_date_in_export": garmin_data.get("metadata", {}).get("latest_date_in_export"),
+                        "warning": None,
+                    },
+                }
+            else:
+                cur = health_daily[date_str]
+                for key in ["steps", "distance_km", "total_kcal_burned", "resting_hr_bpm"]:
+                    if cur.get(key) is None and row.get(key) is not None:
+                        cur[key] = row.get(key)
+                if cur.get("sleep") is None and row.get("sleep") is not None:
+                    cur["sleep"] = row.get("sleep")
+                cur.setdefault("sources", {})
+                if cur.get("steps") is not None and not cur["sources"].get("steps"):
+                    cur["sources"]["steps"] = {"package_name": GARMIN_PACKAGE, "app_name": "Garmin Connect (GDPR export)", "steps": row.get("steps")}
+                if cur.get("distance_km") is not None and not cur["sources"].get("distance"):
+                    cur["sources"]["distance"] = {"package_name": GARMIN_PACKAGE, "app_name": "Garmin Connect (GDPR export)", "distance_km": row.get("distance_km")}
+                if cur.get("total_kcal_burned") is not None and not cur["sources"].get("total_kcal_burned"):
+                    cur["sources"]["total_kcal_burned"] = {"package_name": GARMIN_PACKAGE, "app_name": "Garmin Connect (GDPR export)", "total_kcal_burned": row.get("total_kcal_burned")}
+                if cur.get("resting_hr_bpm") is not None and not cur["sources"].get("resting_hr"):
+                    cur["sources"]["resting_hr"] = {"package_name": GARMIN_PACKAGE, "app_name": "Garmin Connect (GDPR export)", "resting_hr_bpm": row.get("resting_hr_bpm")}
+                if cur.get("sleep") is not None and not cur["sources"].get("sleep"):
+                    cur["sources"]["sleep"] = row.get("sleep")
+
     body_path = repo_root / "values" / "body_weight_history.json"
     if body_path.exists():
         body_data = json.loads(body_path.read_text())

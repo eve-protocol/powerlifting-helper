@@ -64,6 +64,24 @@ jobs:
             --metadata /tmp/zepp-body-meta.json \
             --output values/body_weight_history.json
 
+      - name: Fetch Garmin historical export
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GARMIN_EXPORT_DRIVE_FILE_ID: ${{ secrets.GARMIN_EXPORT_DRIVE_FILE_ID }}
+        run: |
+          if [ -z "$GARMIN_EXPORT_DRIVE_FILE_ID" ]; then
+            echo "Skipping Garmin export fetch, missing GARMIN_EXPORT_DRIVE_FILE_ID"
+            exit 0
+          fi
+          python scripts/fetch_health_connect.py \
+            --file-id-env GARMIN_EXPORT_DRIVE_FILE_ID \
+            --output /tmp/garmin-export.zip \
+            --metadata-output /tmp/garmin-export-meta.json
+          python scripts/export_garmin_daily.py \
+            --zip /tmp/garmin-export.zip \
+            --metadata /tmp/garmin-export-meta.json \
+            --output values/garmin_daily.json
+
       - name: Generate 12-week history
         run: python scripts/generate_12_weeks.py
 
@@ -84,6 +102,6 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           rm -f outputs/body_weight_history.svg outputs/body_weight_timeline.csv outputs/body_weight_history.md
-          git add -A values/history.json values/body_weight_history.json outputs/history.md outputs/12_last_weeks_history.md outputs/rpe_table.md outputs/history_clean.md outputs/body_weight_timeline.md outputs/body_weight_timeline_chart_e1rm.png outputs/body_weight_timeline_chart_actual.png outputs/scorecard_weekly.md outputs/scorecard_monthly.md outputs/scorecard_quarterly.md outputs/scorecard_yearly.md scripts
+          git add -A values/history.json values/body_weight_history.json values/garmin_daily.json outputs/history.md outputs/12_last_weeks_history.md outputs/rpe_table.md outputs/history_clean.md outputs/body_weight_timeline.md outputs/body_weight_timeline_chart_e1rm.png outputs/body_weight_timeline_chart_actual.png outputs/scorecard_weekly.md outputs/scorecard_monthly.md outputs/scorecard_quarterly.md outputs/scorecard_yearly.md scripts
           git diff --staged --quiet || git commit -m "Update workout history [skip ci]"
           git push

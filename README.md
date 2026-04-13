@@ -14,6 +14,7 @@ Data files are saved to the `values/` directory at the project root:
 - `values/history.json` - Workout history
 - `values/health_daily.json` - Normalized daily Health Connect metrics (Garmin-first), generated transiently in CI and not committed
 - `values/body_weight_history.json` - Long-range bodyweight history extracted from Zepp/Xiaomi scale export when configured
+- `values/garmin_daily.json` - Historical Garmin daily wellness/sleep backfill extracted from Garmin GDPR export when configured
 - `values/<program_name>.json` - Program details (e.g., `strength_block_v3.json`)
 
 Rendered markdown outputs are saved to `outputs/`, including:
@@ -48,4 +49,6 @@ python scripts/parse_history.py -o /tmp/workout-data/
    - Optional for legacy Zepp/Xiaomi scale history:
      - `ZEPP_BODY_DRIVE_FILE_ID`
      - `ZEPP_BODY_ZIP_PASSWORD`
+   - Optional for historical Garmin export backfill:
+     - `GARMIN_EXPORT_DRIVE_FILE_ID`
 5. Run the scripts

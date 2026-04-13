@@ -4,6 +4,14 @@
 
 ## 2026-04-13
 
+### Health / Recovery
+
+- Steps: 3178
+- Distance: 2.58 km
+- Total kcal burned: 1328
+- Resting heart rate: 44 bpm
+- Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
+
 **Week 2 · Day 1**
 Finished: 2026-04-13 10:01:11
 
@@ -887,6 +895,8 @@ Finished: 2026-03-12 09:35:07
 - Distance: 1.35 km
 - Total kcal burned: 1849
 - Weight: 79.1 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.17 h asleep (7.50 h in bed, deep 0.88 h, REM 0.78 h, awake 0.33 h)
 
 **Week 3 · Day 3**
 Finished: 2026-03-11 09:57:00
@@ -920,6 +930,8 @@ Finished: 2026-03-11 09:57:00
 - Distance: 0.64 km
 - Total kcal burned: 1913
 - Weight: 79.3 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.85 h asleep (6.87 h in bed, deep 0.72 h, REM 1.05 h, awake 0.02 h)
 
 **Week 3 · Day 2**
 Finished: 2026-03-10 10:07:48
@@ -957,6 +969,8 @@ Finished: 2026-03-10 10:07:48
 - Distance: 1 km
 - Total kcal burned: 1786
 - Weight: 78.9 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.82 h asleep (7.82 h in bed, deep 1.17 h, REM 1.95 h, awake 0 h)
 
 **Week 3 · Day 1**
 Finished: 2026-03-09 10:14:39
@@ -994,6 +1008,8 @@ Finished: 2026-03-09 10:14:39
 - Steps: 12066
 - Distance: 8.35 km
 - Total kcal burned: 2178
+- Resting heart rate: 44 bpm
+- Sleep: 7.30 h asleep (7.35 h in bed, deep 1.10 h, REM 1.87 h, awake 0.05 h)
 
 **Week 2 · Day 5**
 Finished: 2026-03-07 10:06:07
@@ -1024,6 +1040,8 @@ Finished: 2026-03-07 10:06:07
 - Steps: 3533
 - Distance: 2.20 km
 - Total kcal burned: 1785
+- Resting heart rate: 44 bpm
+- Sleep: 6.28 h asleep (6.33 h in bed, deep 1.22 h, REM 0.67 h, awake 0.05 h)
 
 **Week 2 · Day 4**
 Finished: 2026-03-05 08:04:27
@@ -1071,6 +1089,8 @@ Finished: 2026-03-05 08:04:27
 - Distance: 3.02 km
 - Total kcal burned: 1807
 - Weight: 78.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.83 h asleep (7.18 h in bed, deep 0.57 h, REM 1.17 h, awake 0.35 h)
 
 **Week 2 · Day 3**
 Finished: 2026-03-04 09:58:05
@@ -1109,6 +1129,8 @@ Finished: 2026-03-04 09:58:05
 - Distance: 3.25 km
 - Total kcal burned: 1883
 - Weight: 78.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.12 h asleep (6.17 h in bed, deep 0.37 h, REM 1.35 h, awake 0.05 h)
 
 **Week 2 · Day 2**
 Finished: 2026-03-03 09:51:22
@@ -1146,6 +1168,8 @@ Finished: 2026-03-03 09:51:22
 - Distance: 1.31 km
 - Total kcal burned: 1798
 - Weight: 79.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.72 h asleep (7.82 h in bed, deep 1.37 h, REM 1.23 h, awake 0.10 h)
 
 **Week 2 · Day 1**
 Finished: 2026-03-02 10:03:42
@@ -1183,6 +1207,8 @@ Finished: 2026-03-02 10:03:42
 - Steps: 12678
 - Distance: 8.81 km
 - Total kcal burned: 2110
+- Resting heart rate: 43 bpm
+- Sleep: 8.02 h asleep (8.07 h in bed, deep 1.07 h, REM 1.82 h, awake 0.05 h)
 
 **Week 1 · Day 5**
 Finished: 2026-02-28 11:52:15
@@ -1213,6 +1239,8 @@ Finished: 2026-02-28 11:52:15
 - Steps: 1962
 - Distance: 1.13 km
 - Total kcal burned: 1781
+- Resting heart rate: 43 bpm
+- Sleep: 6.18 h asleep (6.72 h in bed, deep 1.07 h, REM 0.70 h, awake 0.53 h)
 
 **Week 1 · Day 4**
 Finished: 2026-02-26 09:38:49
@@ -1251,6 +1279,8 @@ Finished: 2026-02-26 09:38:49
 - Distance: 3.62 km
 - Total kcal burned: 1888
 - Weight: 79.5 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.22 h asleep (7.30 h in bed, deep 0.92 h, REM 1.75 h, awake 0.08 h)
 
 **Week 1 · Day 3**
 Finished: 2026-02-25 09:58:39
@@ -1298,6 +1328,8 @@ Finished: 2026-02-25 09:58:39
 - Distance: 1.21 km
 - Total kcal burned: 1729
 - Weight: 79.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.88 h asleep (7.50 h in bed, deep 0.95 h, REM 1.30 h, awake 0.62 h)
 
 **Week 1 · Day 2**
 Finished: 2026-02-24 10:07:47
@@ -1336,6 +1368,8 @@ Finished: 2026-02-24 10:07:47
 - Distance: 10.75 km
 - Total kcal burned: 2090
 - Weight: 79.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 4.92 h asleep (4.92 h in bed, deep 1.07 h, REM 0.58 h, awake 0 h)
 
 **Week 1 · Day 1**
 Finished: 2026-02-23 10:27:40
@@ -1375,6 +1409,8 @@ Finished: 2026-02-23 10:27:40
 - Steps: 16085
 - Distance: 11.13 km
 - Total kcal burned: 2171
+- Resting heart rate: 46 bpm
+- Sleep: 7.05 h asleep (7.38 h in bed, deep 1.50 h, REM 1.35 h, awake 0.33 h)
 
 **Week 4 · Day 5**
 Finished: 2026-02-21 15:24:55
@@ -1402,6 +1438,8 @@ Finished: 2026-02-21 15:24:55
 - Steps: 2349
 - Distance: 1.32 km
 - Total kcal burned: 1727
+- Resting heart rate: 46 bpm
+- Sleep: 7.18 h asleep (7.33 h in bed, deep 1.48 h, REM 0.90 h, awake 0.15 h)
 
 **Week 4 · Day 4**
 Finished: 2026-02-19 09:42:09
@@ -1438,6 +1476,8 @@ Finished: 2026-02-19 09:42:09
 - Distance: 4.23 km
 - Total kcal burned: 1870
 - Weight: 79.1 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.83 h asleep (8.05 h in bed, deep 1.47 h, REM 1.58 h, awake 0.22 h)
 
 **Week 4 · Day 3**
 Finished: 2026-02-18 10:20:23
@@ -1480,6 +1520,8 @@ Finished: 2026-02-18 10:20:23
 - Distance: 5.12 km
 - Total kcal burned: 1861
 - Weight: 78.5 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.72 h asleep (8.08 h in bed, deep 1.17 h, REM 1.13 h, awake 0.37 h)
 
 **Week 4 · Day 2**
 Finished: 2026-02-17 10:01:57
@@ -1516,6 +1558,8 @@ Finished: 2026-02-17 10:01:57
 - Distance: 3.85 km
 - Total kcal burned: 1928
 - Weight: 78.3 kg
+- Resting heart rate: 46 bpm
+- Sleep: 3.53 h asleep (3.73 h in bed, deep 1.43 h, REM 0 h, awake 0.20 h)
 
 **Week 4 · Day 1**
 Finished: 2026-02-16 10:39:01
@@ -1550,6 +1594,8 @@ Finished: 2026-02-16 10:39:01
 - Steps: 9881
 - Distance: 6.78 km
 - Total kcal burned: 2048
+- Resting heart rate: 45 bpm
+- Sleep: 6.92 h asleep (6.93 h in bed, deep 1.07 h, REM 1.48 h, awake 0.02 h)
 
 **Week 3 · Day 5**
 Finished: 2026-02-14 17:32:54
@@ -1586,6 +1632,8 @@ Finished: 2026-02-14 17:32:54
 - Steps: 13515
 - Distance: 9.54 km
 - Total kcal burned: 2001
+- Resting heart rate: 46 bpm
+- Sleep: 5.35 h asleep (5.40 h in bed, deep 1.20 h, REM 0.97 h, awake 0.05 h)
 
 **Week 3 · Day 4**
 Finished: 2026-02-12 15:10:28
@@ -1622,6 +1670,8 @@ Finished: 2026-02-12 15:10:28
 - Steps: 23359
 - Distance: 16.35 km
 - Total kcal burned: 2590
+- Resting heart rate: 47 bpm
+- Sleep: 7.97 h asleep (8.15 h in bed, deep 0.97 h, REM 1.30 h, awake 0.18 h)
 
 **Week 3 · Day 3**
 Finished: 2026-02-11 18:03:56
@@ -1664,6 +1714,8 @@ Finished: 2026-02-11 18:03:56
 - Steps: 12220
 - Distance: 8.46 km
 - Total kcal burned: 2173
+- Resting heart rate: 47 bpm
+- Sleep: 5.38 h asleep (5.47 h in bed, deep 0.92 h, REM 0.83 h, awake 0.08 h)
 
 **Week 3 · Day 2**
 Finished: 2026-02-10 15:12:02
@@ -1700,6 +1752,8 @@ Finished: 2026-02-10 15:12:02
 - Steps: 10888
 - Distance: 7.60 km
 - Total kcal burned: 2192
+- Resting heart rate: 48 bpm
+- Sleep: 5.97 h asleep (6.05 h in bed, deep 1.08 h, REM 0.78 h, awake 0.08 h)
 
 **Week 3 · Day 1**
 Finished: 2026-02-09 15:28:21
@@ -1736,6 +1790,8 @@ Finished: 2026-02-09 15:28:21
 - Steps: 15358
 - Distance: 10.39 km
 - Total kcal burned: 1926
+- Resting heart rate: 48 bpm
+- Sleep: 6.70 h asleep (6.83 h in bed, deep 1.15 h, REM 1.47 h, awake 0.13 h)
 
 **Week 2 · Day 5**
 Finished: 2026-02-07 17:06:42
@@ -1771,6 +1827,8 @@ Finished: 2026-02-07 17:06:42
 - Steps: 15358
 - Distance: 10.39 km
 - Total kcal burned: 1926
+- Resting heart rate: 48 bpm
+- Sleep: 6.70 h asleep (6.83 h in bed, deep 1.15 h, REM 1.47 h, awake 0.13 h)
 
 **Week 2 · Day 4**
 Finished: 2026-02-07 03:19:23
@@ -1808,6 +1866,8 @@ Finished: 2026-02-07 03:19:23
 - Steps: 8850
 - Distance: 6.03 km
 - Total kcal burned: 1807
+- Resting heart rate: 48 bpm
+- Sleep: 5.82 h asleep (5.82 h in bed, deep 0.87 h, REM 1.03 h, awake 0 h)
 
 **Feb 4 Workout**
 Finished: 2026-02-05 03:09:50
@@ -1831,6 +1891,8 @@ Finished: 2026-02-05 03:09:50
 - Steps: 4941
 - Distance: 3.09 km
 - Total kcal burned: 1879
+- Resting heart rate: 48 bpm
+- Sleep: 6.45 h asleep (6.50 h in bed, deep 0.83 h, REM 1.13 h, awake 0.05 h)
 
 **Week 2 · Day 3**
 Finished: 2026-02-04 00:39:28
@@ -1880,6 +1942,8 @@ Finished: 2026-02-04 00:39:28
 - Steps: 6444
 - Distance: 4.34 km
 - Total kcal burned: 2595
+- Resting heart rate: 47 bpm
+- Sleep: 4.82 h asleep (4.93 h in bed, deep 0.48 h, REM 0.57 h, awake 0.12 h)
 
 **Week 2 · Day 2**
 Finished: 2026-02-02 10:05:07
@@ -1918,6 +1982,8 @@ Finished: 2026-02-02 10:05:07
 - Distance: 17.64 km
 - Total kcal burned: 2586
 - Weight: 78.2 kg
+- Resting heart rate: 46 bpm
+- Sleep: 6.87 h asleep (7.07 h in bed, deep 0.92 h, REM 0.78 h, awake 0.20 h)
 
 **Week 2 · Day 1**
 Finished: 2026-02-01 11:01:32
@@ -1956,6 +2022,8 @@ Finished: 2026-02-01 11:01:32
 - Distance: 1.72 km
 - Total kcal burned: 1701
 - Weight: 78.8 kg
+- Resting heart rate: 46 bpm
+- Sleep: 3.87 h asleep (3.87 h in bed, deep 1.30 h, REM 0.68 h, awake 0 h)
 
 **Week 1 · Day 5**
 Finished: 2026-01-31 10:17:12
@@ -1994,6 +2062,8 @@ Finished: 2026-01-31 10:17:12
 - Steps: 3502
 - Distance: 2.23 km
 - Total kcal burned: 1666
+- Resting heart rate: 46 bpm
+- Sleep: 6.93 h asleep (7.35 h in bed, deep 1.15 h, REM 0.88 h, awake 0.42 h)
 
 **Week 1 · Day 4**
 Finished: 2026-01-29 09:57:58
@@ -2037,6 +2107,8 @@ Finished: 2026-01-29 09:57:58
 - Distance: 0.98 km
 - Total kcal burned: 1702
 - Weight: 77.3 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.40 h asleep (7.48 h in bed, deep 1.20 h, REM 1.82 h, awake 0.08 h)
 
 **Week 1 · Day 3**
 Finished: 2026-01-28 10:13:19
@@ -2073,6 +2145,8 @@ Finished: 2026-01-28 10:13:19
 - Steps: 2441
 - Distance: 1.40 km
 - Total kcal burned: 1761
+- Resting heart rate: 46 bpm
+- Sleep: 5.65 h asleep (6.18 h in bed, deep 0.80 h, REM 1.07 h, awake 0.53 h)
 
 **Week 1 · Day 2**
 Finished: 2026-01-27 10:14:41
@@ -2109,6 +2183,8 @@ Finished: 2026-01-27 10:14:41
 - Distance: 1.23 km
 - Total kcal burned: 1820
 - Weight: 77.5 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.33 h asleep (7.35 h in bed, deep 1.68 h, REM 1.48 h, awake 0.02 h)
 
 **Week 1 · Day 1**
 Finished: 2026-01-26 10:13:24
@@ -2148,6 +2224,8 @@ Finished: 2026-01-26 10:13:24
 - Steps: 11035
 - Distance: 7.46 km
 - Total kcal burned: 1757
+- Resting heart rate: 46 bpm
+- Sleep: 6.32 h asleep (6.70 h in bed, deep 1.22 h, REM 0.63 h, awake 0.38 h)
 
 **Week 4 · Day 5**
 Finished: 2026-01-24 10:20:41
@@ -2186,6 +2264,8 @@ Finished: 2026-01-24 10:20:41
 - Distance: 1.14 km
 - Total kcal burned: 1690
 - Weight: 78.2 kg
+- Resting heart rate: 46 bpm
+- Sleep: 6.80 h asleep (6.93 h in bed, deep 0.98 h, REM 1 h, awake 0.13 h)
 
 **Week 4 · Day 4**
 Finished: 2026-01-22 09:44:04
@@ -2225,6 +2305,8 @@ Finished: 2026-01-22 09:44:04
 - Distance: 1.39 km
 - Total kcal burned: 1757
 - Weight: 78.2 kg
+- Resting heart rate: 46 bpm
+- Sleep: 6.98 h asleep (7.05 h in bed, deep 1.33 h, REM 1.73 h, awake 0.07 h)
 
 **Week 4 · Day 3**
 Finished: 2026-01-21 10:38:49
@@ -2275,6 +2357,8 @@ Finished: 2026-01-21 10:38:49
 - Distance: 1.59 km
 - Total kcal burned: 1732
 - Weight: 77.9 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.73 h asleep (7.75 h in bed, deep 0.93 h, REM 1.88 h, awake 0.02 h)
 
 **Week 4 · Day 2**
 Finished: 2026-01-20 10:33:08
@@ -2313,6 +2397,8 @@ Finished: 2026-01-20 10:33:08
 - Distance: 1.22 km
 - Total kcal burned: 1714
 - Weight: 77.9 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.27 h asleep (7.55 h in bed, deep 1.18 h, REM 0.75 h, awake 0.28 h)
 
 **Week 4 · Day 1**
 Finished: 2026-01-19 10:24:19
@@ -2350,6 +2436,8 @@ Finished: 2026-01-19 10:24:19
 - Steps: 10290
 - Distance: 7.02 km
 - Total kcal burned: 1943
+- Resting heart rate: 46 bpm
+- Sleep: 7.23 h asleep (7.23 h in bed, deep 1.28 h, REM 1.37 h, awake 0 h)
 
 **Week 3 · Day 5**
 Finished: 2026-01-17 10:12:26
@@ -2387,6 +2475,8 @@ Finished: 2026-01-17 10:12:26
 - Steps: 2247
 - Distance: 1.31 km
 - Total kcal burned: 1786
+- Resting heart rate: 46 bpm
+- Sleep: 6.47 h asleep (6.52 h in bed, deep 0.53 h, REM 1.40 h, awake 0.05 h)
 
 **Week 3 · Day 4**
 Finished: 2026-01-15 09:49:26
@@ -2426,6 +2516,8 @@ Finished: 2026-01-15 09:49:26
 - Distance: 1.77 km
 - Total kcal burned: 1751
 - Weight: 78.2 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.22 h asleep (7.83 h in bed, deep 1.05 h, REM 1.80 h, awake 0.62 h)
 
 **Week 3 · Day 3**
 Finished: 2026-01-14 10:33:10
@@ -2472,6 +2564,8 @@ Finished: 2026-01-14 10:33:10
 - Distance: 1.54 km
 - Total kcal burned: 1824
 - Weight: 77.7 kg
+- Resting heart rate: 46 bpm
+- Sleep: 6.37 h asleep (6.50 h in bed, deep 0.75 h, REM 1.12 h, awake 0.13 h)
 
 **Week 3 · Day 2**
 Finished: 2026-01-13 09:58:20
@@ -2509,6 +2603,8 @@ Finished: 2026-01-13 09:58:20
 - Distance: 0.87 km
 - Total kcal burned: 1750
 - Weight: 77.7 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.67 h asleep (7.73 h in bed, deep 1.48 h, REM 1.15 h, awake 0.07 h)
 
 **Week 3 · Day 1**
 Finished: 2026-01-12 10:21:55
@@ -2544,6 +2640,8 @@ Finished: 2026-01-12 10:21:55
 - Steps: 11163
 - Distance: 7.76 km
 - Total kcal burned: 2040
+- Resting heart rate: 45 bpm
+- Sleep: 7.57 h asleep (7.75 h in bed, deep 1.20 h, REM 0.83 h, awake 0.18 h)
 
 **Week 2 · Day 5**
 Finished: 2026-01-10 10:23:39
@@ -2582,6 +2680,8 @@ Finished: 2026-01-10 10:23:39
 - Distance: 4.55 km
 - Total kcal burned: 1897
 - Weight: 78.5 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.12 h asleep (7.35 h in bed, deep 0.63 h, REM 1.22 h, awake 0.23 h)
 
 **Week 2 · Day 4**
 Finished: 2026-01-08 11:55:00
@@ -2616,6 +2716,8 @@ Finished: 2026-01-08 11:55:00
 - Distance: 1.34 km
 - Total kcal burned: 1849
 - Weight: 78.4 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.97 h asleep (7.10 h in bed, deep 1.02 h, REM 0.90 h, awake 0.13 h)
 
 **Week 2 · Day 3**
 Finished: 2026-01-07 10:32:35
@@ -2660,6 +2762,8 @@ Finished: 2026-01-07 10:32:35
 - Distance: 1.09 km
 - Total kcal burned: 1818
 - Weight: 78.5 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.70 h asleep (8.25 h in bed, deep 0.97 h, REM 1.10 h, awake 1.55 h)
 
 **Week 2 · Day 2**
 Finished: 2026-01-06 10:14:40
@@ -2698,6 +2802,8 @@ Finished: 2026-01-06 10:14:40
 - Distance: 1.82 km
 - Total kcal burned: 1830
 - Weight: 78.2 kg
+- Resting heart rate: 45 bpm
+- Sleep: 8.12 h asleep (8.42 h in bed, deep 1.12 h, REM 1.47 h, awake 0.30 h)
 
 **Week 2 · Day 1**
 Finished: 2026-01-05 10:09:55
@@ -2735,6 +2841,8 @@ Finished: 2026-01-05 10:09:55
 - Steps: 13830
 - Distance: 9.66 km
 - Total kcal burned: 2096
+- Resting heart rate: 45 bpm
+- Sleep: 7.58 h asleep (7.95 h in bed, deep 1.08 h, REM 1.03 h, awake 0.37 h)
 
 **Week 1 · Day 5**
 Finished: 2026-01-03 10:18:26
@@ -2773,6 +2881,8 @@ Finished: 2026-01-03 10:18:26
 - Steps: 3899
 - Distance: 2.46 km
 - Total kcal burned: 1662
+- Resting heart rate: 44 bpm
+- Sleep: 8.13 h asleep (8.32 h in bed, deep 1.02 h, REM 1.52 h, awake 0.18 h)
 
 **Week 1 · Day 4**
 Finished: 2026-01-01 09:48:28
@@ -2813,6 +2923,8 @@ Finished: 2026-01-01 09:48:28
 - Distance: 10.60 km
 - Total kcal burned: 2247
 - Weight: 77.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.50 h asleep (8.35 h in bed, deep 0.65 h, REM 0.95 h, awake 0.85 h)
 
 **Week 1 · Day 3**
 Finished: 2025-12-31 10:25:31
@@ -2859,6 +2971,8 @@ Finished: 2025-12-31 10:25:31
 - Distance: 3.53 km
 - Total kcal burned: 1946
 - Weight: 77.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.92 h asleep (8.20 h in bed, deep 0.72 h, REM 2.12 h, awake 0.28 h)
 
 **Week 1 · Day 2**
 Finished: 2025-12-30 10:30:21
@@ -2901,6 +3015,8 @@ Finished: 2025-12-30 10:30:21
 - Distance: 2.60 km
 - Total kcal burned: 1725
 - Weight: 77.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.50 h asleep (7.62 h in bed, deep 1.60 h, REM 1.42 h, awake 0.12 h)
 
 **Week 1 · Day 1**
 Finished: 2025-12-29 10:20:42
@@ -2937,6 +3053,8 @@ Finished: 2025-12-29 10:20:42
 - Steps: 10988
 - Distance: 7.76 km
 - Total kcal burned: 1981
+- Resting heart rate: 44 bpm
+- Sleep: 6.97 h asleep (7.57 h in bed, deep 1.67 h, REM 1.10 h, awake 0.60 h)
 
 **Week 3 · Day 5**
 Finished: 2025-12-27 10:19:11
@@ -2980,6 +3098,8 @@ Finished: 2025-12-27 10:19:11
 - Steps: 18690
 - Distance: 12.80 km
 - Total kcal burned: 2164
+- Resting heart rate: 45 bpm
+- Sleep: 8.30 h asleep (9.15 h in bed, deep 1.77 h, REM 1.45 h, awake 0.85 h)
 
 **Week 3 · Day 4**
 Finished: 2025-12-24 09:48:58
@@ -3019,6 +3139,8 @@ Finished: 2025-12-24 09:48:58
 - Steps: 15705
 - Distance: 10.62 km
 - Total kcal burned: 2123
+- Resting heart rate: 45 bpm
+- Sleep: 6 h asleep (6.03 h in bed, deep 1.23 h, REM 1.02 h, awake 0.03 h)
 
 **Week 3 · Day 2**
 Finished: 2025-12-22 18:53:06
@@ -3056,6 +3178,8 @@ Finished: 2025-12-22 18:53:06
 - Distance: 1.68 km
 - Total kcal burned: 2347
 - Weight: 77.8 kg
+- Resting heart rate: 45 bpm
+- Sleep: 8.03 h asleep (8.07 h in bed, deep 1.10 h, REM 1.58 h, awake 0.03 h)
 
 **Week 3 · Day 1**
 Finished: 2025-12-21 10:14:05
@@ -3095,6 +3219,8 @@ Finished: 2025-12-21 10:14:05
 - Distance: 7.39 km
 - Total kcal burned: 1827
 - Weight: 77.8 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.37 h asleep (7.58 h in bed, deep 1.27 h, REM 1.33 h, awake 0.22 h)
 
 **Week 2 · Day 5**
 Finished: 2025-12-20 10:14:33
@@ -3126,6 +3252,8 @@ Finished: 2025-12-20 10:14:33
 - Distance: 1.13 km
 - Total kcal burned: 1737
 - Weight: 77.5 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.22 h asleep (7.62 h in bed, deep 1.02 h, REM 1 h, awake 0.40 h)
 
 **Week 2 · Day 4**
 Finished: 2025-12-18 09:55:48
@@ -3165,6 +3293,8 @@ Finished: 2025-12-18 09:55:48
 - Distance: 2.14 km
 - Total kcal burned: 1700
 - Weight: 77.2 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.48 h asleep (8.15 h in bed, deep 1.10 h, REM 1.22 h, awake 0.67 h)
 
 **Week 2 · Day 3**
 Finished: 2025-12-17 10:03:51
@@ -3202,6 +3332,8 @@ Finished: 2025-12-17 10:03:51
 - Distance: 1.23 km
 - Total kcal burned: 1768
 - Weight: 77.5 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.27 h asleep (7.47 h in bed, deep 1.12 h, REM 0.83 h, awake 0.20 h)
 
 **Week 2 · Day 2**
 Finished: 2025-12-16 09:53:22
@@ -3240,6 +3372,8 @@ Finished: 2025-12-16 09:53:22
 - Distance: 1.63 km
 - Total kcal burned: 1737
 - Weight: 77.5 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.57 h asleep (7.58 h in bed, deep 1.77 h, REM 1.15 h, awake 0.02 h)
 
 **Week 2 · Day 1**
 Finished: 2025-12-15 10:16:18
@@ -3278,6 +3412,8 @@ Finished: 2025-12-15 10:16:18
 - Steps: 13473
 - Distance: 9.33 km
 - Total kcal burned: 1830
+- Resting heart rate: 44 bpm
+- Sleep: 7.08 h asleep (7.08 h in bed, deep 1.07 h, REM 1.57 h, awake 0 h)
 
 **Week 1 · Day 5**
 Finished: 2025-12-13 10:17:24
@@ -3323,6 +3459,8 @@ Finished: 2025-12-13 10:17:24
 - Steps: 6398
 - Distance: 4.32 km
 - Total kcal burned: 1940
+- Resting heart rate: 45 bpm
+- Sleep: 6.82 h asleep (6.87 h in bed, deep 1.05 h, REM 1.47 h, awake 0.05 h)
 
 **Week 1 · Day 4**
 Finished: 2025-12-11 09:21:10
@@ -3368,6 +3506,8 @@ Finished: 2025-12-11 09:21:10
 - Distance: 1.32 km
 - Total kcal burned: 1811
 - Weight: 77 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.32 h asleep (7.63 h in bed, deep 0.93 h, REM 1.40 h, awake 0.32 h)
 
 **Week 1 · Day 3**
 Finished: 2025-12-10 09:58:19
@@ -3412,6 +3552,8 @@ Finished: 2025-12-10 09:58:19
 - Steps: 2722
 - Distance: 1.67 km
 - Total kcal burned: 1742
+- Resting heart rate: 45 bpm
+- Sleep: 6.65 h asleep (6.67 h in bed, deep 0.80 h, REM 1.87 h, awake 0.02 h)
 
 **Week 1 · Day 2**
 Finished: 2025-12-09 09:34:20
@@ -3459,6 +3601,8 @@ Finished: 2025-12-09 09:34:20
 - Distance: 1.40 km
 - Total kcal burned: 1791
 - Weight: 77.6 kg
+- Resting heart rate: 45 bpm
+- Sleep: 8.13 h asleep (8.25 h in bed, deep 0.62 h, REM 1.48 h, awake 0.12 h)
 
 **Week 1 · Day 1**
 Finished: 2025-12-08 09:52:51
@@ -3506,6 +3650,8 @@ Finished: 2025-12-08 09:52:51
 - Distance: 1.97 km
 - Total kcal burned: 1650
 - Weight: 77.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.48 h asleep (7 h in bed, deep 1.05 h, REM 0.78 h, awake 0.52 h)
 
 **Dec 5 Workout**
 Finished: 2025-12-05 12:20:19
@@ -3529,6 +3675,8 @@ Finished: 2025-12-05 12:20:19
 - Steps: 2578
 - Distance: 1.59 km
 - Total kcal burned: 1807
+- Resting heart rate: 44 bpm
+- Sleep: 7.03 h asleep (7.03 h in bed, deep 1.57 h, REM 1.25 h, awake 0 h)
 
 **Dec 4 Workout**
 Finished: 2025-12-04 10:16:27
@@ -3555,6 +3703,8 @@ Finished: 2025-12-04 10:16:27
 - Distance: 5.91 km
 - Total kcal burned: 2045
 - Weight: 77.6 kg
+- Resting heart rate: 45 bpm
+- Sleep: 8.05 h asleep (8.32 h in bed, deep 1.72 h, REM 1.22 h, awake 0.27 h)
 
 **Week 1 · Day 2**
 Finished: 2025-12-01 10:08:50
@@ -3578,6 +3728,8 @@ Finished: 2025-12-01 10:08:50
 - Steps: 14269
 - Distance: 9.88 km
 - Total kcal burned: 2273
+- Resting heart rate: 44 bpm
+- Sleep: 7.45 h asleep (7.53 h in bed, deep 1.18 h, REM 1.43 h, awake 0.08 h)
 
 **Week 1 · Day 1**
 Finished: 2025-11-29 11:24:30
@@ -3603,6 +3755,8 @@ Finished: 2025-11-29 11:24:30
 - Steps: 1516
 - Distance: 0.85 km
 - Total kcal burned: 1791
+- Resting heart rate: 44 bpm
+- Sleep: 7.20 h asleep (7.60 h in bed, deep 1.18 h, REM 1.30 h, awake 0.40 h)
 
 **Week 4 · Day 5**
 Finished: 2025-11-27 10:02:52
@@ -3639,6 +3793,8 @@ Finished: 2025-11-27 10:02:52
 - Distance: 1.85 km
 - Total kcal burned: 1763
 - Weight: 78 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.28 h asleep (7.63 h in bed, deep 1.13 h, REM 1.08 h, awake 0.35 h)
 
 **Week 4 · Day 4**
 Finished: 2025-11-26 10:09:26
@@ -3681,6 +3837,8 @@ Finished: 2025-11-26 10:09:26
 - Distance: 5.10 km
 - Total kcal burned: 1915
 - Weight: 77.7 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.02 h asleep (7.23 h in bed, deep 0.75 h, REM 1.27 h, awake 0.22 h)
 
 **Week 4 · Day 3**
 Finished: 2025-11-25 09:03:18
@@ -3719,6 +3877,8 @@ Finished: 2025-11-25 09:03:18
 - Distance: 9.15 km
 - Total kcal burned: 2073
 - Weight: 78.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.98 h asleep (8.15 h in bed, deep 1.87 h, REM 1.63 h, awake 0.17 h)
 
 **Week 4 · Day 2**
 Finished: 2025-11-24 09:41:24
@@ -3758,6 +3918,8 @@ Finished: 2025-11-24 09:41:24
 - Distance: 8.25 km
 - Total kcal burned: 2131
 - Weight: 78.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.97 h asleep (8.32 h in bed, deep 1.22 h, REM 1.60 h, awake 0.35 h)
 
 **Week 4 · Day 1**
 Finished: 2025-11-22 10:12:38
@@ -3796,6 +3958,8 @@ Finished: 2025-11-22 10:12:38
 - Distance: 1.39 km
 - Total kcal burned: 1732
 - Weight: 77.8 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.45 h asleep (7.85 h in bed, deep 0.85 h, REM 1.17 h, awake 0.40 h)
 
 **Week 3 · Day 5**
 Finished: 2025-11-20 09:38:41
@@ -3833,6 +3997,8 @@ Finished: 2025-11-20 09:38:41
 - Distance: 2.31 km
 - Total kcal burned: 2019
 - Weight: 77.8 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.08 h asleep (7.15 h in bed, deep 0.95 h, REM 1.42 h, awake 0.07 h)
 
 **Week 3 · Day 4**
 Finished: 2025-11-19 09:32:39
@@ -3872,6 +4038,8 @@ Finished: 2025-11-19 09:32:39
 - Distance: 0.96 km
 - Total kcal burned: 1802
 - Weight: 77.8 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.65 h asleep (7.95 h in bed, deep 0.73 h, REM 1.18 h, awake 0.30 h)
 
 **Week 3 · Day 3**
 Finished: 2025-11-18 10:03:42
@@ -3910,6 +4078,8 @@ Finished: 2025-11-18 10:03:42
 - Distance: 1.50 km
 - Total kcal burned: 1748
 - Weight: 74.4 kg
+- Resting heart rate: 45 bpm
+- Sleep: 8.60 h asleep (8.85 h in bed, deep 1.23 h, REM 1.53 h, awake 0.25 h)
 
 **Week 3 · Day 2**
 Finished: 2025-11-17 09:37:25
@@ -3950,6 +4120,8 @@ Finished: 2025-11-17 09:37:25
 - Distance: 7.70 km
 - Total kcal burned: 1986
 - Weight: 77.4 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.20 h asleep (7.37 h in bed, deep 0.92 h, REM 1.45 h, awake 0.17 h)
 
 **Week 3 · Day 1**
 Finished: 2025-11-15 10:07:44
@@ -3990,6 +4162,8 @@ Finished: 2025-11-15 10:07:44
 - Distance: 1.82 km
 - Total kcal burned: 1726
 - Weight: 77.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.47 h asleep (7.53 h in bed, deep 1.17 h, REM 1.35 h, awake 0.07 h)
 
 **Week 2 · Day 5**
 Finished: 2025-11-13 09:45:07
@@ -4027,6 +4201,8 @@ Finished: 2025-11-13 09:45:07
 - Distance: 0.90 km
 - Total kcal burned: 1764
 - Weight: 77.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.02 h asleep (7.13 h in bed, deep 1.23 h, REM 1.30 h, awake 0.12 h)
 
 **Week 2 · Day 4**
 Finished: 2025-11-12 09:19:28
@@ -4063,8 +4239,12 @@ Finished: 2025-11-12 09:19:28
 
 ### Health / Recovery
 
+- Steps: 4666
+- Distance: 3.81 km
 - Total kcal burned: 1650
 - Weight: 77.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.20 h asleep (8.43 h in bed, deep 1.38 h, REM 1.32 h, awake 0.23 h)
 
 **Week 2 · Day 3**
 Finished: 2025-11-11 09:51:42
@@ -4102,6 +4282,7 @@ Finished: 2025-11-11 09:51:42
 - Distance: 12.26 km
 - Total kcal burned: 1650
 - Weight: 77.4 kg
+- Resting heart rate: 44 bpm
 - Sleep: 5.55 h asleep (5.63 h in bed, deep 0.78 h, REM 1.07 h, awake 0.08 h)
 
 **Week 2 · Day 2**
@@ -4143,6 +4324,7 @@ Finished: 2025-11-09 08:38:18
 - Distance: 16.36 km
 - Total kcal burned: 1650
 - Weight: 78 kg
+- Resting heart rate: 44 bpm
 - Sleep: 5.93 h asleep (6.18 h in bed, deep 1.42 h, REM 0.70 h, awake 0.25 h)
 
 **Week 2 · Day 1**
@@ -4184,6 +4366,7 @@ Finished: 2025-11-08 09:01:09
 - Distance: 4.11 km
 - Total kcal burned: 1650
 - Weight: 77.6 kg
+- Resting heart rate: 44 bpm
 - Sleep: 6.07 h asleep (6.37 h in bed, deep 0.93 h, REM 1.02 h, awake 0.30 h)
 
 **Week 1 · Day 5**
@@ -4224,6 +4407,7 @@ Finished: 2025-11-06 08:44:50
 - Distance: 4.57 km
 - Total kcal burned: 1650
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.38 h asleep (6.40 h in bed, deep 1.13 h, REM 1.20 h, awake 0.02 h)
 
 **Week 1 · Day 4**
@@ -4265,6 +4449,7 @@ Finished: 2025-11-05 08:41:35
 - Distance: 3.82 km
 - Total kcal burned: 1650
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.32 h asleep (6.40 h in bed, deep 0.72 h, REM 1.57 h, awake 0.08 h)
 
 **Week 1 · Day 3**
@@ -4304,6 +4489,8 @@ Finished: 2025-11-04 08:52:11
 - Distance: 16.66 km
 - Total kcal burned: 2026
 - Weight: 77.6 kg
+- Resting heart rate: 43 bpm
+- Sleep: 5.95 h asleep (5.95 h in bed, deep 1.25 h, REM 0.98 h, awake 0 h)
 
 **Week 1 · Day 2**
 Finished: 2025-11-03 08:23:50
@@ -4346,6 +4533,8 @@ Finished: 2025-11-03 08:23:50
 - Distance: 10.64 km
 - Total kcal burned: 2404
 - Weight: 78.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 5.63 h asleep (5.67 h in bed, deep 1.47 h, REM 0.82 h, awake 0.03 h)
 
 **Week 1 · Day 1**
 Finished: 2025-11-01 08:53:40
@@ -4387,6 +4576,8 @@ Finished: 2025-11-01 08:53:40
 - Distance: 0.72 km
 - Total kcal burned: 1780
 - Weight: 76.9 kg
+- Resting heart rate: 42 bpm
+- Sleep: 5.23 h asleep (5.47 h in bed, deep 1.12 h, REM 1.12 h, awake 0.23 h)
 
 **Week 4 · Day 5**
 Finished: 2025-10-30 08:57:17
@@ -4426,6 +4617,8 @@ Finished: 2025-10-30 08:57:17
 - Distance: 1.22 km
 - Total kcal burned: 1742
 - Weight: 76.9 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.23 h asleep (6.47 h in bed, deep 1.32 h, REM 0.57 h, awake 0.23 h)
 
 **Week 4 · Day 4**
 Finished: 2025-10-29 08:35:19
@@ -4467,6 +4660,8 @@ Finished: 2025-10-29 08:35:19
 - Distance: 0.70 km
 - Total kcal burned: 1820
 - Weight: 77.6 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.28 h asleep (7.72 h in bed, deep 1.70 h, REM 1.28 h, awake 0.43 h)
 
 **Week 4 · Day 3**
 Finished: 2025-10-28 09:05:11
@@ -4508,6 +4703,8 @@ Finished: 2025-10-28 09:05:11
 - Distance: 1.24 km
 - Total kcal burned: 1718
 - Weight: 77.6 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.47 h asleep (6.57 h in bed, deep 1.17 h, REM 1.48 h, awake 0.10 h)
 
 **Week 4 · Day 2**
 Finished: 2025-10-27 08:29:28
@@ -4549,6 +4746,8 @@ Finished: 2025-10-27 08:29:28
 - Distance: 8.91 km
 - Total kcal burned: 2169
 - Weight: 76.5 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.13 h asleep (6.13 h in bed, deep 1.25 h, REM 1.58 h, awake 0 h)
 
 **Oct 26 Workout**
 Finished: 2025-10-26 09:34:56
@@ -4592,6 +4791,8 @@ Finished: 2025-10-26 09:34:56
 - Distance: 7.76 km
 - Total kcal burned: 2029
 - Weight: 76.9 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.57 h asleep (7.75 h in bed, deep 1.38 h, REM 1.67 h, awake 0.18 h)
 
 **Week 4 · Day 1**
 Finished: 2025-10-25 10:07:31
@@ -4634,6 +4835,8 @@ Finished: 2025-10-25 10:07:31
 - Distance: 4.68 km
 - Total kcal burned: 1954
 - Weight: 74.8 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.68 h asleep (6.77 h in bed, deep 1.78 h, REM 0.88 h, awake 0.08 h)
 
 **Week 3 · Day 5**
 Finished: 2025-10-24 07:44:37
@@ -4681,6 +4884,8 @@ Finished: 2025-10-24 07:44:37
 - Distance: 2.18 km
 - Total kcal burned: 1733
 - Weight: 76.8 kg
+- Resting heart rate: 42 bpm
+- Sleep: 5.83 h asleep (6.28 h in bed, deep 2.13 h, REM 1.03 h, awake 0.45 h)
 
 **Week 3 · Day 4**
 Finished: 2025-10-23 07:31:57
@@ -4723,7 +4928,11 @@ Finished: 2025-10-23 07:31:57
 
 ### Health / Recovery
 
+- Steps: 5957
+- Distance: 4.34 km
 - Total kcal burned: 1650
+- Resting heart rate: 41 bpm
+- Sleep: 5.62 h asleep (6.12 h in bed, deep 0.77 h, REM 0.62 h, awake 0.50 h)
 
 **Week 3 · Day 3**
 Finished: 2025-10-20 14:30:17
@@ -4785,6 +4994,14 @@ Finished: 2025-10-20 14:30:17
 
 ## 2025-10-19
 
+### Health / Recovery
+
+- Steps: 13242
+- Distance: 10.81 km
+- Total kcal burned: 2818
+- Resting heart rate: 41 bpm
+- Sleep: 7.35 h asleep (8.10 h in bed, deep 0.50 h, REM 1.18 h, awake 0.75 h)
+
 **Week 3 · Day 2**
 Finished: 2025-10-19 16:20:13
 
@@ -4825,6 +5042,14 @@ Finished: 2025-10-19 16:20:13
 
 ## 2025-10-18
 
+### Health / Recovery
+
+- Steps: 30745
+- Distance: 25.99 km
+- Total kcal burned: 3436
+- Resting heart rate: 42 bpm
+- Sleep: 8.58 h asleep (8.80 h in bed, deep 1.60 h, REM 1.23 h, awake 0.22 h)
+
 **Week 3 · Day 1**
 Finished: 2025-10-18 16:47:29
 
@@ -4864,6 +5089,14 @@ Finished: 2025-10-18 16:47:29
   Set 4: 20.0kg x 8 [target RPE: 9]
 
 ## 2025-10-16
+
+### Health / Recovery
+
+- Steps: 6364
+- Distance: 5.15 km
+- Total kcal burned: 2399
+- Resting heart rate: 41 bpm
+- Sleep: 7.38 h asleep (7.53 h in bed, deep 1.92 h, REM 1.48 h, awake 0.15 h)
 
 **Week 2 · Day 5**
 Finished: 2025-10-16 14:18:05
@@ -4918,6 +5151,14 @@ Finished: 2025-10-16 14:18:05
 
 ## 2025-10-15
 
+### Health / Recovery
+
+- Steps: 7471
+- Distance: 6.05 km
+- Total kcal burned: 2470
+- Resting heart rate: 42 bpm
+- Sleep: 6.82 h asleep (7.15 h in bed, deep 1.43 h, REM 1.50 h, awake 0.33 h)
+
 **Week 2 · Day 4**
 Finished: 2025-10-15 13:56:21
 
@@ -4956,6 +5197,14 @@ Finished: 2025-10-15 13:56:21
 
 ## 2025-10-14
 
+### Health / Recovery
+
+- Steps: 10077
+- Distance: 8.17 km
+- Total kcal burned: 2663
+- Resting heart rate: 42 bpm
+- Sleep: 7.62 h asleep (8.47 h in bed, deep 0.87 h, REM 0.98 h, awake 0.85 h)
+
 **Week 2 · Day 3**
 Finished: 2025-10-14 16:28:40
 
@@ -4990,6 +5239,14 @@ Finished: 2025-10-14 16:28:40
   Set 4: 25.0kg x 9 [target RPE: 9]
 
 ## 2025-10-13
+
+### Health / Recovery
+
+- Steps: 15286
+- Distance: 12.53 km
+- Total kcal burned: 2967
+- Resting heart rate: 42 bpm
+- Sleep: 7.32 h asleep (7.67 h in bed, deep 0.67 h, REM 1.18 h, awake 0.35 h)
 
 **Week 2 · Day 2**
 Finished: 2025-10-13 16:04:37
@@ -5030,6 +5287,14 @@ Finished: 2025-10-13 16:04:37
   Set 4: 26.0kg x 7 [target RPE: 9]
 
 ## 2025-10-11
+
+### Health / Recovery
+
+- Steps: 13897
+- Distance: 11.28 km
+- Total kcal burned: 2744
+- Resting heart rate: 42 bpm
+- Sleep: 11.13 h asleep (12.02 h in bed, deep 2.37 h, REM 1.27 h, awake 0.88 h)
 
 **Week 2 · Day 1**
 Finished: 2025-10-11 16:51:44
@@ -5073,7 +5338,12 @@ Finished: 2025-10-11 16:51:44
 
 ### Health / Recovery
 
+- Steps: 11132
+- Distance: 9.02 km
+- Total kcal burned: 3280
 - Weight: 76.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 5.72 h asleep (5.77 h in bed, deep 0.87 h, REM 0.88 h, awake 0.05 h)
 
 **Week 1 · Day 5**
 Finished: 2025-10-09 09:38:37
@@ -5117,7 +5387,12 @@ Finished: 2025-10-09 09:38:37
 
 ### Health / Recovery
 
+- Steps: 7214
+- Distance: 5.96 km
+- Total kcal burned: 3036
 - Weight: 77.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.12 h asleep (7.52 h in bed, deep 1.18 h, REM 1.22 h, awake 0.40 h)
 
 **Week 1 · Day 4**
 Finished: 2025-10-08 09:13:44
@@ -5160,7 +5435,12 @@ Finished: 2025-10-08 09:13:44
 
 ### Health / Recovery
 
+- Steps: 3950
+- Distance: 3.27 km
+- Total kcal burned: 2863
 - Weight: 76.7 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.13 h asleep (6.37 h in bed, deep 0.30 h, REM 1.17 h, awake 0.23 h)
 
 **Week 1 · Day 3**
 Finished: 2025-10-07 09:36:54
@@ -5202,7 +5482,12 @@ Finished: 2025-10-07 09:36:54
 
 ### Health / Recovery
 
+- Steps: 4646
+- Distance: 3.77 km
+- Total kcal burned: 2668
 - Weight: 77.1 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.02 h asleep (7.15 h in bed, deep 1.65 h, REM 1.22 h, awake 0.13 h)
 
 **Week 1 · Day 2**
 Finished: 2025-10-06 09:16:58
@@ -5246,7 +5531,12 @@ Finished: 2025-10-06 09:16:58
 
 ### Health / Recovery
 
+- Steps: 20832
+- Distance: 16.93 km
+- Total kcal burned: 3119
 - Weight: 77.7 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.52 h asleep (7.85 h in bed, deep 1.25 h, REM 1.43 h, awake 0.33 h)
 
 **Week 1 · Day 1**
 Finished: 2025-10-04 09:44:05
@@ -5290,7 +5580,12 @@ Finished: 2025-10-04 09:44:05
 
 ### Health / Recovery
 
+- Steps: 4626
+- Distance: 3.77 km
+- Total kcal burned: 2359
 - Weight: 77.2 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.20 h asleep (7.22 h in bed, deep 1.75 h, REM 1.65 h, awake 0.02 h)
 
 **Week 5 · Day 5**
 Finished: 2025-10-02 09:53:28
@@ -5326,7 +5621,12 @@ Finished: 2025-10-02 09:53:28
 
 ### Health / Recovery
 
+- Steps: 7902
+- Distance: 6.43 km
+- Total kcal burned: 2591
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.47 h asleep (7.58 h in bed, deep 1.17 h, REM 1.37 h, awake 0.12 h)
 
 **Week 5 · Day 4**
 Finished: 2025-10-01 10:02:43
@@ -5351,7 +5651,12 @@ Finished: 2025-10-01 10:02:43
 
 ### Health / Recovery
 
+- Steps: 5579
+- Distance: 4.53 km
+- Total kcal burned: 2784
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.97 h asleep (7.03 h in bed, deep 0.87 h, REM 1.78 h, awake 0.07 h)
 
 **Week 5 · Day 3**
 Finished: 2025-09-30 09:45:59
@@ -5378,7 +5683,12 @@ Finished: 2025-09-30 09:45:59
 
 ### Health / Recovery
 
+- Steps: 3772
+- Distance: 3.08 km
+- Total kcal burned: 2419
 - Weight: 77.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.77 h asleep (7.20 h in bed, deep 1.05 h, REM 0.65 h, awake 0.43 h)
 
 **Week 5 · Day 2**
 Finished: 2025-09-29 18:45:00
@@ -5412,7 +5722,12 @@ Finished: 2025-09-29 18:45:00
 
 ### Health / Recovery
 
+- Steps: 18054
+- Distance: 14.64 km
+- Total kcal burned: 3037
 - Weight: 77.4 kg
+- Resting heart rate: 43 bpm
+- Sleep: 8.22 h asleep (8.37 h in bed, deep 1.70 h, REM 1.85 h, awake 0.15 h)
 
 **Week 5 · Day 1**
 Finished: 2025-09-27 09:52:59
@@ -5442,8 +5757,12 @@ Finished: 2025-09-27 09:52:59
 
 ### Health / Recovery
 
+- Steps: 4111
+- Distance: 3.34 km
 - Total kcal burned: 1650
 - Weight: 77 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7 h asleep (7.18 h in bed, deep 0.93 h, REM 1.12 h, awake 0.18 h)
 
 **Week 4 · Day 5**
 Finished: 2025-09-25 09:57:18
@@ -5483,6 +5802,8 @@ Finished: 2025-09-25 09:57:18
 - Distance: 0.22 km
 - Total kcal burned: 1839
 - Weight: 77 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.07 h asleep (7.17 h in bed, deep 1.42 h, REM 1.67 h, awake 0.10 h)
 
 **Week 4 · Day 4**
 Finished: 2025-09-24 09:49:58
@@ -5512,6 +5833,8 @@ Finished: 2025-09-24 09:49:58
 - Distance: 0.63 km
 - Total kcal burned: 1852
 - Weight: 76.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.80 h asleep (7.25 h in bed, deep 1.32 h, REM 0.80 h, awake 0.45 h)
 
 **Week 4 · Day 3**
 Finished: 2025-09-23 09:46:41
@@ -5543,6 +5866,8 @@ Finished: 2025-09-23 09:46:41
 - Distance: 4.19 km
 - Total kcal burned: 2040
 - Weight: 77.1 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.12 h asleep (7.17 h in bed, deep 0.97 h, REM 1.93 h, awake 0.05 h)
 
 **Week 4 · Day 2**
 Finished: 2025-09-22 09:26:24
@@ -5581,6 +5906,8 @@ Finished: 2025-09-22 09:26:24
 - Distance: 13.95 km
 - Total kcal burned: 2284
 - Weight: 77.2 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.17 h asleep (7.58 h in bed, deep 0.88 h, REM 1.87 h, awake 0.42 h)
 
 **Week 4 · Day 1**
 Finished: 2025-09-20 09:47:40
@@ -5614,6 +5941,8 @@ Finished: 2025-09-20 09:47:40
 - Distance: 2.84 km
 - Total kcal burned: 1845
 - Weight: 77.2 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.95 h asleep (7.37 h in bed, deep 1.08 h, REM 1.22 h, awake 0.42 h)
 
 **Week 3 · Day 5**
 Finished: 2025-09-18 09:43:46
@@ -5657,6 +5986,8 @@ Finished: 2025-09-18 09:43:46
 - Distance: 0.32 km
 - Total kcal burned: 1842
 - Weight: 77.2 kg
+- Resting heart rate: 44 bpm
+- Sleep: 5.98 h asleep (6.37 h in bed, deep 0.18 h, REM 1.08 h, awake 0.38 h)
 
 **Week 3 · Day 4**
 Finished: 2025-09-17 09:43:24
@@ -5685,6 +6016,8 @@ Finished: 2025-09-17 09:43:24
 - Distance: 0.61 km
 - Total kcal burned: 1772
 - Weight: 76.5 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.70 h asleep (8.13 h in bed, deep 0.63 h, REM 1.35 h, awake 0.43 h)
 
 **Week 3 · Day 3**
 Finished: 2025-09-16 09:50:05
@@ -5716,6 +6049,8 @@ Finished: 2025-09-16 09:50:05
 - Distance: 0.62 km
 - Total kcal burned: 1663
 - Weight: 77.5 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.93 h asleep (7.20 h in bed, deep 0.80 h, REM 0.85 h, awake 0.27 h)
 
 **Week 3 · Day 2**
 Finished: 2025-09-15 09:24:16
@@ -5754,6 +6089,8 @@ Finished: 2025-09-15 09:24:16
 - Distance: 8.04 km
 - Total kcal burned: 2017
 - Weight: 78.1 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.92 h asleep (7.93 h in bed, deep 1.08 h, REM 1.88 h, awake 0.02 h)
 
 **Week 3 · Day 1**
 Finished: 2025-09-13 09:56:07
@@ -5787,6 +6124,8 @@ Finished: 2025-09-13 09:56:07
 - Distance: 0.79 km
 - Total kcal burned: 1816
 - Weight: 77.6 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.63 h asleep (7.08 h in bed, deep 1.05 h, REM 0.80 h, awake 0.45 h)
 
 **Week 2 · Day 5**
 Finished: 2025-09-11 09:30:37
@@ -5825,6 +6164,8 @@ Finished: 2025-09-11 09:30:37
 - Distance: 1.11 km
 - Total kcal burned: 1650
 - Weight: 77.6 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.75 h asleep (8.50 h in bed, deep 0.75 h, REM 1.07 h, awake 0.75 h)
 
 **Week 2 · Day 4**
 Finished: 2025-09-10 10:01:50
@@ -5855,6 +6196,8 @@ Finished: 2025-09-10 10:01:50
 - Distance: 1.95 km
 - Total kcal burned: 1785
 - Weight: 77 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.18 h asleep (7.38 h in bed, deep 1.13 h, REM 0.97 h, awake 0.20 h)
 
 **Week 2 · Day 3**
 Finished: 2025-09-09 09:43:18
@@ -5886,6 +6229,8 @@ Finished: 2025-09-09 09:43:18
 - Distance: 0.43 km
 - Total kcal burned: 1661
 - Weight: 77.4 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.13 h asleep (7.52 h in bed, deep 0.57 h, REM 0.75 h, awake 0.38 h)
 
 **Week 2 · Day 2**
 Finished: 2025-09-08 09:26:26
@@ -5924,6 +6269,8 @@ Finished: 2025-09-08 09:26:26
 - Distance: 2.34 km
 - Total kcal burned: 1788
 - Weight: 77.9 kg
+- Resting heart rate: 42 bpm
+- Sleep: 8.08 h asleep (8.25 h in bed, deep 1.27 h, REM 1.07 h, awake 0.17 h)
 
 **Week 2 · Day 1**
 Finished: 2025-09-06 09:56:43
@@ -5958,6 +6305,8 @@ Finished: 2025-09-06 09:56:43
 - Distance: 2.92 km
 - Total kcal burned: 1795
 - Weight: 77.6 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.60 h asleep (7.68 h in bed, deep 1.45 h, REM 1.33 h, awake 0.08 h)
 
 **Week 1 · Day 5**
 Finished: 2025-09-04 09:55:54
@@ -5997,6 +6346,8 @@ Finished: 2025-09-04 09:55:54
 - Distance: 0.76 km
 - Total kcal burned: 1785
 - Weight: 77.6 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.43 h asleep (6.75 h in bed, deep 1.10 h, REM 1.60 h, awake 0.32 h)
 
 **Week 1 · Day 4**
 Finished: 2025-09-03 09:52:35
@@ -6025,6 +6376,8 @@ Finished: 2025-09-03 09:52:35
 - Distance: 1.40 km
 - Total kcal burned: 1692
 - Weight: 77.6 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.28 h asleep (7.78 h in bed, deep 0.78 h, REM 1.03 h, awake 0.50 h)
 
 **Week 1 · Day 3**
 Finished: 2025-09-02 09:42:56
@@ -6056,6 +6409,8 @@ Finished: 2025-09-02 09:42:56
 - Distance: 1.42 km
 - Total kcal burned: 1838
 - Weight: 77.6 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.35 h asleep (7.73 h in bed, deep 1.20 h, REM 0.87 h, awake 0.38 h)
 
 **Week 1 · Day 2**
 Finished: 2025-09-01 09:19:54
@@ -6094,6 +6449,8 @@ Finished: 2025-09-01 09:19:54
 - Distance: 8.41 km
 - Total kcal burned: 1930
 - Weight: 77.6 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.35 h asleep (7.55 h in bed, deep 0.88 h, REM 1.70 h, awake 0.20 h)
 
 **Week 1 · Day 1**
 Finished: 2025-08-30 09:50:30
@@ -6127,6 +6484,8 @@ Finished: 2025-08-30 09:50:30
 - Distance: 1.16 km
 - Total kcal burned: 1865
 - Weight: 77.3 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.22 h asleep (7.53 h in bed, deep 0.78 h, REM 0.85 h, awake 0.32 h)
 
 **Week 5 · Day 5**
 Finished: 2025-08-28 09:55:01
@@ -6166,6 +6525,8 @@ Finished: 2025-08-28 09:55:01
 - Distance: 1.54 km
 - Total kcal burned: 1773
 - Weight: 77.3 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.20 h asleep (7.50 h in bed, deep 1.33 h, REM 1.30 h, awake 0.30 h)
 
 **Week 5 · Day 4**
 Finished: 2025-08-27 09:50:26
@@ -6194,6 +6555,8 @@ Finished: 2025-08-27 09:50:26
 - Distance: 1.45 km
 - Total kcal burned: 1774
 - Weight: 77 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.53 h asleep (7.82 h in bed, deep 0.93 h, REM 1.60 h, awake 0.28 h)
 
 **Week 5 · Day 3**
 Finished: 2025-08-26 09:47:34
@@ -6224,6 +6587,8 @@ Finished: 2025-08-26 09:47:34
 - Distance: 1.08 km
 - Total kcal burned: 1650
 - Weight: 77 kg
+- Resting heart rate: 42 bpm
+- Sleep: 8.70 h asleep (9.08 h in bed, deep 1.57 h, REM 2.10 h, awake 0.38 h)
 
 **Week 5 · Day 2**
 Finished: 2025-08-25 09:37:54
@@ -6261,6 +6626,8 @@ Finished: 2025-08-25 09:37:54
 - Distance: 7.28 km
 - Total kcal burned: 2210
 - Weight: 77.5 kg
+- Resting heart rate: 42 bpm
+- Sleep: 8.33 h asleep (8.35 h in bed, deep 1.45 h, REM 1.75 h, awake 0.02 h)
 
 **Week 5 · Day 1**
 Finished: 2025-08-23 10:01:50
@@ -6294,6 +6661,8 @@ Finished: 2025-08-23 10:01:50
 - Distance: 5.49 km
 - Total kcal burned: 2023
 - Weight: 76.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.72 h asleep (7.12 h in bed, deep 1.23 h, REM 0.85 h, awake 0.40 h)
 
 **Week 4 · Day 5**
 Finished: 2025-08-21 08:44:21
@@ -6334,6 +6703,8 @@ Finished: 2025-08-21 08:44:21
 - Distance: 1.42 km
 - Total kcal burned: 1810
 - Weight: 76.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.92 h asleep (7.53 h in bed, deep 1.13 h, REM 1.17 h, awake 0.62 h)
 
 **Week 4 · Day 4**
 Finished: 2025-08-20 09:34:15
@@ -6362,6 +6733,8 @@ Finished: 2025-08-20 09:34:15
 - Distance: 1.98 km
 - Total kcal burned: 1868
 - Weight: 76.8 kg
+- Resting heart rate: 44 bpm
+- Sleep: 5.33 h asleep (5.35 h in bed, deep 1.60 h, REM 0.90 h, awake 0.02 h)
 
 **Week 4 · Day 3**
 Finished: 2025-08-19 09:29:37
@@ -6392,6 +6765,8 @@ Finished: 2025-08-19 09:29:37
 - Steps: 8141
 - Distance: 5.58 km
 - Total kcal burned: 1918
+- Resting heart rate: 45 bpm
+- Sleep: 5.75 h asleep (5.75 h in bed, deep 1.73 h, REM 1.28 h, awake 0 h)
 
 **Week 4 · Day 2**
 Finished: 2025-08-17 15:51:02
@@ -6423,6 +6798,8 @@ Finished: 2025-08-17 15:51:02
 - Steps: 13049
 - Distance: 8.91 km
 - Total kcal burned: 1673
+- Resting heart rate: 46 bpm
+- Sleep: 6.42 h asleep (6.45 h in bed, deep 0.93 h, REM 0.97 h, awake 0.03 h)
 
 **Week 4 · Day 1**
 Finished: 2025-08-16 16:07:41
@@ -6455,6 +6832,8 @@ Finished: 2025-08-16 16:07:41
 - Steps: 27574
 - Distance: 19.62 km
 - Total kcal burned: 2737
+- Resting heart rate: 45 bpm
+- Sleep: 6.58 h asleep (6.68 h in bed, deep 1.12 h, REM 1.02 h, awake 0.10 h)
 
 **Aug 15 Workout**
 Finished: 2025-08-15 15:56:02
@@ -6473,6 +6852,8 @@ Finished: 2025-08-15 15:56:02
 - Steps: 18275
 - Distance: 12.95 km
 - Total kcal burned: 2535
+- Resting heart rate: 45 bpm
+- Sleep: 6.25 h asleep (6.33 h in bed, deep 1.18 h, REM 0.95 h, awake 0.08 h)
 
 **Week 3 · Day 5**
 Finished: 2025-08-14 14:49:37
@@ -6507,6 +6888,8 @@ Finished: 2025-08-14 14:49:37
 - Steps: 13453
 - Distance: 9.45 km
 - Total kcal burned: 2328
+- Resting heart rate: 45 bpm
+- Sleep: 5.80 h asleep (5.98 h in bed, deep 1.12 h, REM 0.27 h, awake 0.18 h)
 
 **Week 3 · Day 4**
 Finished: 2025-08-13 14:50:07
@@ -6534,6 +6917,8 @@ Finished: 2025-08-13 14:50:07
 - Steps: 12595
 - Distance: 8.84 km
 - Total kcal burned: 2187
+- Resting heart rate: 44 bpm
+- Sleep: 5.65 h asleep (6.05 h in bed, deep 1.13 h, REM 0 h, awake 0.40 h)
 
 **Week 3 · Day 3**
 Finished: 2025-08-12 14:53:32
@@ -6564,6 +6949,8 @@ Finished: 2025-08-12 14:53:32
 - Steps: 11379
 - Distance: 8.13 km
 - Total kcal burned: 2148
+- Resting heart rate: 43 bpm
+- Sleep: 5.43 h asleep (5.58 h in bed, deep 1.02 h, REM 0.70 h, awake 0.15 h)
 
 **Week 3 · Day 2**
 Finished: 2025-08-11 14:30:35
@@ -6599,6 +6986,8 @@ Finished: 2025-08-11 14:30:35
 - Steps: 5040
 - Distance: 3.60 km
 - Total kcal burned: 1858
+- Resting heart rate: 43 bpm
+- Sleep: 5.80 h asleep (6.07 h in bed, deep 0.88 h, REM 0.75 h, awake 0.27 h)
 
 **Week 3 · Day 1**
 Finished: 2025-08-10 16:23:41
@@ -6632,6 +7021,8 @@ Finished: 2025-08-10 16:23:41
 - Steps: 13493
 - Distance: 9.51 km
 - Total kcal burned: 2248
+- Resting heart rate: 42 bpm
+- Sleep: 5.27 h asleep (6.22 h in bed, deep 0.88 h, REM 0.50 h, awake 0.95 h)
 
 **Aug 8 Workout**
 Finished: 2025-08-08 14:40:49
@@ -6650,6 +7041,8 @@ Finished: 2025-08-08 14:40:49
 - Steps: 11362
 - Distance: 8.06 km
 - Total kcal burned: 2134
+- Resting heart rate: 42 bpm
+- Sleep: 5.55 h asleep (5.55 h in bed, deep 1.07 h, REM 1.15 h, awake 0 h)
 
 **Week 2 · Day 5**
 Finished: 2025-08-07 14:46:21
@@ -6683,6 +7076,8 @@ Finished: 2025-08-07 14:46:21
 - Steps: 14021
 - Distance: 9.84 km
 - Total kcal burned: 1650
+- Resting heart rate: 41 bpm
+- Sleep: 5.27 h asleep (5.45 h in bed, deep 1.38 h, REM 0.95 h, awake 0.18 h)
 
 **Week 2 · Day 4**
 Finished: 2025-08-06 14:53:07
@@ -6710,6 +7105,8 @@ Finished: 2025-08-06 14:53:07
 - Steps: 14191
 - Distance: 9.83 km
 - Total kcal burned: 2175
+- Resting heart rate: 42 bpm
+- Sleep: 5.28 h asleep (5.37 h in bed, deep 1.07 h, REM 0.83 h, awake 0.08 h)
 
 **Week 2 · Day 3**
 Finished: 2025-08-05 14:54:51
@@ -6740,6 +7137,8 @@ Finished: 2025-08-05 14:54:51
 - Steps: 13628
 - Distance: 9.63 km
 - Total kcal burned: 2359
+- Resting heart rate: 42 bpm
+- Sleep: 5.05 h asleep (5.47 h in bed, deep 1.58 h, REM 0.30 h, awake 0.42 h)
 
 **Week 2 · Day 2**
 Finished: 2025-08-04 14:26:18
@@ -6777,6 +7176,8 @@ Finished: 2025-08-04 14:26:18
 - Steps: 23219
 - Distance: 16.46 km
 - Total kcal burned: 2472
+- Resting heart rate: 41 bpm
+- Sleep: 7.27 h asleep (7.58 h in bed, deep 0.78 h, REM 1.58 h, awake 0.32 h)
 
 **Week 2 · Day 1**
 Finished: 2025-08-02 16:34:07
@@ -6811,6 +7212,8 @@ Finished: 2025-08-02 16:34:07
 - Steps: 6007
 - Distance: 4.18 km
 - Total kcal burned: 1928
+- Resting heart rate: 41 bpm
+- Sleep: 7.88 h asleep (8.32 h in bed, deep 1.33 h, REM 1.77 h, awake 0.43 h)
 
 **Week 1 · Day 5**
 Finished: 2025-07-31 17:17:00
@@ -6843,6 +7246,8 @@ Finished: 2025-07-31 17:17:00
 - Steps: 11387
 - Distance: 7.52 km
 - Total kcal burned: 2087
+- Resting heart rate: 42 bpm
+- Sleep: 7.13 h asleep (8.10 h in bed, deep 0.77 h, REM 0.88 h, awake 0.97 h)
 
 **Week 1 · Day 4**
 Finished: 2025-07-30 17:16:31
@@ -6870,6 +7275,8 @@ Finished: 2025-07-30 17:16:31
 - Steps: 6769
 - Distance: 4.49 km
 - Total kcal burned: 1778
+- Resting heart rate: 41 bpm
+- Sleep: 6.82 h asleep (8.32 h in bed, deep 0.63 h, REM 0.65 h, awake 1.50 h)
 
 **Week 1 · Day 3**
 Finished: 2025-07-29 14:57:32
@@ -6900,6 +7307,8 @@ Finished: 2025-07-29 14:57:32
 - Steps: 16781
 - Distance: 11.45 km
 - Total kcal burned: 2094
+- Resting heart rate: 42 bpm
+- Sleep: 6.23 h asleep (6.97 h in bed, deep 1.02 h, REM 1.18 h, awake 0.73 h)
 
 **Week 1 · Day 2**
 Finished: 2025-07-28 15:47:04
@@ -6937,6 +7346,8 @@ Finished: 2025-07-28 15:47:04
 - Steps: 16748
 - Distance: 11.39 km
 - Total kcal burned: 2051
+- Resting heart rate: 42 bpm
+- Sleep: 9.17 h asleep (9.55 h in bed, deep 2.15 h, REM 2.08 h, awake 0.38 h)
 
 **Week 1 · Day 1**
 Finished: 2025-07-27 22:39:03
@@ -6966,7 +7377,11 @@ Finished: 2025-07-27 22:39:03
 
 ### Health / Recovery
 
+- Steps: 5993
+- Distance: 4.86 km
 - Total kcal burned: 1650
+- Resting heart rate: 43 bpm
+- Sleep: 8.13 h asleep (8.70 h in bed, deep 1.93 h, REM 1.40 h, awake 0.57 h)
 
 **Week 5 · Day 5**
 Finished: 2025-07-25 15:05:07
@@ -7002,7 +7417,12 @@ Finished: 2025-07-25 15:05:07
 
 ### Health / Recovery
 
+- Steps: 6115
+- Distance: 4.98 km
+- Total kcal burned: 3439
 - Weight: 76.3 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.15 h asleep (7.70 h in bed, deep 0.67 h, REM 1.65 h, awake 0.55 h)
 
 **Week 5 · Day 4**
 Finished: 2025-07-23 10:18:52
@@ -7031,6 +7451,8 @@ Finished: 2025-07-23 10:18:52
 - Distance: 0.25 km
 - Total kcal burned: 2365
 - Weight: 77 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.75 h asleep (7.18 h in bed, deep 0.72 h, REM 1 h, awake 0.43 h)
 
 **Week 5 · Day 3**
 Finished: 2025-07-22 10:07:58
@@ -7061,6 +7483,8 @@ Finished: 2025-07-22 10:07:58
 - Distance: 0.38 km
 - Total kcal burned: 1783
 - Weight: 77 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.05 h asleep (8.05 h in bed, deep 2.08 h, REM 1.47 h, awake 0 h)
 
 **Week 5 · Day 2**
 Finished: 2025-07-21 10:11:38
@@ -7099,6 +7523,8 @@ Finished: 2025-07-21 10:11:38
 - Distance: 7.48 km
 - Total kcal burned: 2095
 - Weight: 76.3 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.15 h asleep (8.25 h in bed, deep 1.50 h, REM 1.27 h, awake 0.10 h)
 
 **Week 5 · Day 1**
 Finished: 2025-07-19 10:33:36
@@ -7131,6 +7557,8 @@ Finished: 2025-07-19 10:33:36
 - Distance: 1.22 km
 - Total kcal burned: 1908
 - Weight: 76.6 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.20 h asleep (9 h in bed, deep 0.68 h, REM 1.93 h, awake 0.80 h)
 
 **Week 4 · Day 5**
 Finished: 2025-07-17 10:11:45
@@ -7170,6 +7598,8 @@ Finished: 2025-07-17 10:11:45
 - Distance: 3.25 km
 - Total kcal burned: 1814
 - Weight: 76.6 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.20 h asleep (7.75 h in bed, deep 0.83 h, REM 1.37 h, awake 0.55 h)
 
 **Week 4 · Day 4**
 Finished: 2025-07-16 10:34:09
@@ -7198,6 +7628,8 @@ Finished: 2025-07-16 10:34:09
 - Distance: 0.21 km
 - Total kcal burned: 1897
 - Weight: 76.2 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.53 h asleep (7.07 h in bed, deep 1.08 h, REM 0.63 h, awake 0.53 h)
 
 **Week 4 · Day 3**
 Finished: 2025-07-15 10:12:53
@@ -7229,6 +7661,8 @@ Finished: 2025-07-15 10:12:53
 - Distance: 1.61 km
 - Total kcal burned: 1677
 - Weight: 76.7 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.97 h asleep (7.42 h in bed, deep 1.22 h, REM 1.35 h, awake 0.45 h)
 
 **Week 4 · Day 2**
 Finished: 2025-07-14 09:55:09
@@ -7267,6 +7701,8 @@ Finished: 2025-07-14 09:55:09
 - Distance: 1.11 km
 - Total kcal burned: 1759
 - Weight: 77.1 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.30 h asleep (7.57 h in bed, deep 1.63 h, REM 0.97 h, awake 0.27 h)
 
 **Week 4 · Day 1**
 Finished: 2025-07-12 10:22:54
@@ -7300,6 +7736,8 @@ Finished: 2025-07-12 10:22:54
 - Distance: 0.83 km
 - Total kcal burned: 1743
 - Weight: 77.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.83 h asleep (7.23 h in bed, deep 1 h, REM 0.85 h, awake 0.40 h)
 
 **Week 3 · Day 5**
 Finished: 2025-07-10 10:21:46
@@ -7340,6 +7778,8 @@ Finished: 2025-07-10 10:21:46
 - Distance: 0.23 km
 - Total kcal burned: 1819
 - Weight: 76.8 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.43 h asleep (6.83 h in bed, deep 0.98 h, REM 1.05 h, awake 0.40 h)
 
 **Week 3 · Day 4**
 Finished: 2025-07-09 10:22:30
@@ -7368,6 +7808,8 @@ Finished: 2025-07-09 10:22:30
 - Distance: 0.60 km
 - Total kcal burned: 1693
 - Weight: 76.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.88 h asleep (7.82 h in bed, deep 1.13 h, REM 0.37 h, awake 0.93 h)
 
 **Week 3 · Day 3**
 Finished: 2025-07-08 10:14:22
@@ -7400,6 +7842,8 @@ Finished: 2025-07-08 10:14:22
 - Distance: 0.45 km
 - Total kcal burned: 1686
 - Weight: 76.8 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.25 h asleep (8.62 h in bed, deep 1.07 h, REM 1.52 h, awake 0.37 h)
 
 **Week 3 · Day 2**
 Finished: 2025-07-07 09:58:37
@@ -7438,6 +7882,8 @@ Finished: 2025-07-07 09:58:37
 - Distance: 4.65 km
 - Total kcal burned: 1863
 - Weight: 77.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.92 h asleep (8.03 h in bed, deep 1.68 h, REM 1.48 h, awake 0.12 h)
 
 **Week 3 · Day 1**
 Finished: 2025-07-05 10:27:01
@@ -7471,6 +7917,8 @@ Finished: 2025-07-05 10:27:01
 - Distance: 2.43 km
 - Total kcal burned: 1788
 - Weight: 76.2 kg
+- Resting heart rate: 43 bpm
+- Sleep: 4.27 h asleep (6.08 h in bed, deep 0.70 h, REM 0 h, awake 1.82 h)
 
 **Week 2 · Day 5**
 Finished: 2025-07-03 10:15:25
@@ -7510,6 +7958,8 @@ Finished: 2025-07-03 10:15:25
 - Distance: 1.71 km
 - Total kcal burned: 1741
 - Weight: 76.2 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.23 h asleep (7.32 h in bed, deep 0.87 h, REM 1.22 h, awake 0.08 h)
 
 **Week 2 · Day 4**
 Finished: 2025-07-02 10:15:56
@@ -7538,6 +7988,8 @@ Finished: 2025-07-02 10:15:56
 - Distance: 0.63 km
 - Total kcal burned: 1787
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 4.63 h asleep (5.30 h in bed, deep 0.55 h, REM 0.78 h, awake 0.67 h)
 
 **Week 2 · Day 3**
 Finished: 2025-07-01 10:09:07
@@ -7569,6 +8021,8 @@ Finished: 2025-07-01 10:09:07
 - Distance: 1.82 km
 - Total kcal burned: 1696
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.72 h asleep (8.12 h in bed, deep 1.37 h, REM 1.75 h, awake 0.40 h)
 
 **Week 2 · Day 2**
 Finished: 2025-06-30 09:53:01
@@ -7607,6 +8061,8 @@ Finished: 2025-06-30 09:53:01
 - Distance: 6.61 km
 - Total kcal burned: 1862
 - Weight: 77.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.45 h asleep (7.48 h in bed, deep 1.02 h, REM 1.77 h, awake 0.03 h)
 
 **Week 2 · Day 1**
 Finished: 2025-06-28 10:25:08
@@ -7640,6 +8096,8 @@ Finished: 2025-06-28 10:25:08
 - Distance: 1.75 km
 - Total kcal burned: 1692
 - Weight: 77.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 5.58 h asleep (6.30 h in bed, deep 0.82 h, REM 0.75 h, awake 0.72 h)
 
 **Week 1 · Day 5**
 Finished: 2025-06-26 10:08:12
@@ -7679,6 +8137,8 @@ Finished: 2025-06-26 10:08:12
 - Distance: 3.28 km
 - Total kcal burned: 1746
 - Weight: 77.3 kg
+- Resting heart rate: 42 bpm
+- Sleep: 5.68 h asleep (6.82 h in bed, deep 1.05 h, REM 1.47 h, awake 1.13 h)
 
 **Week 1 · Day 4**
 Finished: 2025-06-25 10:20:53
@@ -7707,6 +8167,8 @@ Finished: 2025-06-25 10:20:53
 - Distance: 2 km
 - Total kcal burned: 1716
 - Weight: 77.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.48 h asleep (6.97 h in bed, deep 1.17 h, REM 1.42 h, awake 0.48 h)
 
 **Week 1 · Day 3**
 Finished: 2025-06-24 10:13:15
@@ -7738,6 +8200,8 @@ Finished: 2025-06-24 10:13:15
 - Distance: 1.69 km
 - Total kcal burned: 1683
 - Weight: 77.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.68 h asleep (7.93 h in bed, deep 1.97 h, REM 1.82 h, awake 0.25 h)
 
 **Week 1 · Day 2**
 Finished: 2025-06-23 09:45:47
@@ -7776,6 +8240,8 @@ Finished: 2025-06-23 09:45:47
 - Distance: 3.35 km
 - Total kcal burned: 1812
 - Weight: 76.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.22 h asleep (7.68 h in bed, deep 1.45 h, REM 0.82 h, awake 0.47 h)
 
 **Week 1 · Day 1**
 Finished: 2025-06-21 10:17:04
@@ -7807,7 +8273,10 @@ Finished: 2025-06-21 10:17:04
 
 - Steps: 2876
 - Distance: 1.66 km
+- Total kcal burned: 2561
 - Weight: 76.5 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.68 h asleep (7.20 h in bed, deep 0.67 h, REM 0.67 h, awake 0.52 h)
 
 **Week 6 · Day 5**
 Finished: 2025-06-19 10:27:10
@@ -7845,7 +8314,10 @@ Finished: 2025-06-19 10:27:10
 
 - Steps: 2287
 - Distance: 1.29 km
+- Total kcal burned: 2682
 - Weight: 76.5 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.33 h asleep (7.40 h in bed, deep 0.68 h, REM 1.70 h, awake 0.07 h)
 
 **Week 6 · Day 4**
 Finished: 2025-06-18 10:39:32
@@ -7872,7 +8344,10 @@ Finished: 2025-06-18 10:39:32
 
 - Steps: 2040
 - Distance: 1.11 km
+- Total kcal burned: 2779
 - Weight: 76.5 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.15 h asleep (7.45 h in bed, deep 0.82 h, REM 1.25 h, awake 0.30 h)
 
 **Week 6 · Day 3**
 Finished: 2025-06-17 10:14:41
@@ -7902,7 +8377,10 @@ Finished: 2025-06-17 10:14:41
 
 - Steps: 4130
 - Distance: 2.55 km
+- Total kcal burned: 2699
 - Weight: 77 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.25 h asleep (8.32 h in bed, deep 1.48 h, REM 1.88 h, awake 0.07 h)
 
 **Week 6 · Day 2**
 Finished: 2025-06-16 09:57:41
@@ -7939,7 +8417,9 @@ Finished: 2025-06-16 09:57:41
 
 - Steps: 3248
 - Distance: 1.95 km
+- Total kcal burned: 2222
 - Weight: 77.6 kg
+- Resting heart rate: 44 bpm
 
 **Week 6 · Day 1**
 Finished: 2025-06-14 10:31:33
@@ -8037,7 +8517,10 @@ Finished: 2025-06-11 10:29:43
 
 - Steps: 5091
 - Distance: 3.29 km
+- Total kcal burned: 746
 - Weight: 76.9 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.05 h asleep (8.20 h in bed, deep 1.10 h, REM 0.98 h, awake 1.15 h)
 
 **Week 5 · Day 3**
 Finished: 2025-06-10 10:28:00
@@ -8067,7 +8550,10 @@ Finished: 2025-06-10 10:28:00
 
 - Steps: 2620
 - Distance: 1.46 km
+- Total kcal burned: 2752
 - Weight: 76.9 kg
+- Resting heart rate: 42 bpm
+- Sleep: 8.25 h asleep (8.32 h in bed, deep 1.72 h, REM 1.97 h, awake 0.07 h)
 
 **Week 5 · Day 2**
 Finished: 2025-06-09 09:54:37
@@ -8104,7 +8590,10 @@ Finished: 2025-06-09 09:54:37
 
 - Steps: 7341
 - Distance: 4.71 km
+- Total kcal burned: 3022
 - Weight: 77.3 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.52 h asleep (8.13 h in bed, deep 1.17 h, REM 0.67 h, awake 0.62 h)
 
 **Week 5 · Day 1**
 Finished: 2025-06-07 10:23:59
@@ -8136,7 +8625,10 @@ Finished: 2025-06-07 10:23:59
 
 - Steps: 5614
 - Distance: 3.51 km
+- Total kcal burned: 2757
 - Weight: 77.3 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.88 h asleep (7.40 h in bed, deep 0.98 h, REM 1.50 h, awake 0.52 h)
 
 **Week 4 · Day 5**
 Finished: 2025-06-05 10:04:06
@@ -8174,7 +8666,10 @@ Finished: 2025-06-05 10:04:06
 
 - Steps: 3398
 - Distance: 1.93 km
+- Total kcal burned: 2658
 - Weight: 76.8 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.37 h asleep (6.42 h in bed, deep 1.45 h, REM 1.15 h, awake 0.05 h)
 
 **Week 4 · Day 4**
 Finished: 2025-06-04 10:36:59
@@ -8201,7 +8696,10 @@ Finished: 2025-06-04 10:36:59
 
 - Steps: 4907
 - Distance: 3.22 km
+- Total kcal burned: 2739
 - Weight: 76.8 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.33 h asleep (7.63 h in bed, deep 0.92 h, REM 1.22 h, awake 0.30 h)
 
 **Week 4 · Day 3**
 Finished: 2025-06-03 10:29:03
@@ -8231,7 +8729,10 @@ Finished: 2025-06-03 10:29:03
 
 - Steps: 3577
 - Distance: 2.17 km
+- Total kcal burned: 2600
 - Weight: 77.5 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.65 h asleep (7.65 h in bed, deep 0.97 h, REM 1.35 h, awake 0 h)
 
 **Week 4 · Day 2**
 Finished: 2025-06-02 09:57:14
@@ -8268,7 +8769,10 @@ Finished: 2025-06-02 09:57:14
 
 - Steps: 10085
 - Distance: 6.47 km
+- Total kcal burned: 3141
 - Weight: 76.7 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.17 h asleep (6.50 h in bed, deep 0.80 h, REM 0.87 h, awake 0.33 h)
 
 **Week 4 · Day 1**
 Finished: 2025-05-31 10:13:19
@@ -8300,7 +8804,10 @@ Finished: 2025-05-31 10:13:19
 
 - Steps: 2805
 - Distance: 1.61 km
+- Total kcal burned: 2376
 - Weight: 76.6 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.03 h asleep (7.12 h in bed, deep 0.70 h, REM 2.03 h, awake 0.08 h)
 
 **Week 3 · Day 5**
 Finished: 2025-05-29 10:19:51
@@ -8338,7 +8845,10 @@ Finished: 2025-05-29 10:19:51
 
 - Steps: 2931
 - Distance: 1.76 km
+- Total kcal burned: 2511
 - Weight: 76.6 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.92 h asleep (8.08 h in bed, deep 0.73 h, REM 1.93 h, awake 0.17 h)
 
 **Week 3 · Day 4**
 Finished: 2025-05-28 10:12:16
@@ -8364,7 +8874,10 @@ Finished: 2025-05-28 10:12:16
 
 - Steps: 7535
 - Distance: 4.83 km
+- Total kcal burned: 2836
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.57 h asleep (7.98 h in bed, deep 1.10 h, REM 1.38 h, awake 0.42 h)
 
 **Week 3 · Day 3**
 Finished: 2025-05-27 10:05:56
@@ -8401,7 +8914,10 @@ Finished: 2025-05-27 10:05:56
 
 - Steps: 2892
 - Distance: 1.52 km
+- Total kcal burned: 2652
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.83 h asleep (7.88 h in bed, deep 1.27 h, REM 1.75 h, awake 0.05 h)
 
 **Week 3 · Day 2**
 Finished: 2025-05-26 09:45:33
@@ -8439,7 +8955,10 @@ Finished: 2025-05-26 09:45:33
 
 - Steps: 12623
 - Distance: 8.11 km
+- Total kcal burned: 3208
 - Weight: 77.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.85 h asleep (8.03 h in bed, deep 1.75 h, REM 1.52 h, awake 0.18 h)
 
 **Week 3 · Day 1**
 Finished: 2025-05-24 10:22:43
@@ -8469,7 +8988,12 @@ Finished: 2025-05-24 10:22:43
 
 ### Health / Recovery
 
+- Steps: 7672
+- Distance: 6.18 km
+- Total kcal burned: 2693
 - Weight: 76.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.25 h asleep (7.40 h in bed, deep 0.83 h, REM 1.12 h, awake 0.15 h)
 
 **Week 2 · Day 5**
 Finished: 2025-05-22 09:52:58
@@ -8505,7 +9029,12 @@ Finished: 2025-05-22 09:52:58
 
 ### Health / Recovery
 
+- Steps: 4006
+- Distance: 3.17 km
+- Total kcal burned: 2759
 - Weight: 76.5 kg
+- Resting heart rate: 43 bpm
+- Sleep: 8.12 h asleep (8.25 h in bed, deep 0.92 h, REM 1.52 h, awake 0.13 h)
 
 **Week 2 · Day 4**
 Finished: 2025-05-21 10:19:52
@@ -8530,7 +9059,12 @@ Finished: 2025-05-21 10:19:52
 
 ### Health / Recovery
 
+- Steps: 5979
+- Distance: 4.58 km
+- Total kcal burned: 3031
 - Weight: 76.4 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.15 h asleep (7.40 h in bed, deep 0.53 h, REM 1.83 h, awake 0.25 h)
 
 **Week 2 · Day 3**
 Finished: 2025-05-20 10:05:36
@@ -8558,7 +9092,12 @@ Finished: 2025-05-20 10:05:36
 
 ### Health / Recovery
 
+- Steps: 7754
+- Distance: 5.99 km
+- Total kcal burned: 2784
 - Weight: 76.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 8.02 h asleep (8.33 h in bed, deep 0.37 h, REM 1.65 h, awake 0.32 h)
 
 **Week 2 · Day 2**
 Finished: 2025-05-19 09:44:19
@@ -8593,7 +9132,12 @@ Finished: 2025-05-19 09:44:19
 
 ### Health / Recovery
 
+- Steps: 15424
+- Distance: 12.01 km
+- Total kcal burned: 3193
 - Weight: 77.6 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.30 h asleep (8.52 h in bed, deep 1.12 h, REM 1.58 h, awake 0.22 h)
 
 **Week 2 · Day 1**
 Finished: 2025-05-17 10:45:35
@@ -8620,6 +9164,14 @@ Finished: 2025-05-17 10:45:35
   Set 4: 110.0kg x 8 [target RPE: 9]
 
 ## 2025-05-15
+
+### Health / Recovery
+
+- Steps: 6291
+- Distance: 5.14 km
+- Total kcal burned: 2638
+- Resting heart rate: 44 bpm
+- Sleep: 6.83 h asleep (7.22 h in bed, deep 0.75 h, REM 0.77 h, awake 0.38 h)
 
 **Week 1 · Day 5**
 Finished: 2025-05-15 09:44:17
@@ -8655,7 +9207,12 @@ Finished: 2025-05-15 09:44:17
 
 ### Health / Recovery
 
+- Steps: 4497
+- Distance: 3.50 km
+- Total kcal burned: 2879
 - Weight: 76.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.75 h asleep (8.05 h in bed, deep 0.75 h, REM 1.28 h, awake 0.30 h)
 
 **Week 1 · Day 4**
 Finished: 2025-05-14 10:31:49
@@ -8686,7 +9243,12 @@ Finished: 2025-05-14 10:31:49
 
 ### Health / Recovery
 
+- Steps: 7429
+- Distance: 6.03 km
+- Total kcal burned: 2820
 - Weight: 76.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.87 h asleep (6.92 h in bed, deep 1.47 h, REM 1.02 h, awake 0.05 h)
 
 **Week 1 · Day 3**
 Finished: 2025-05-13 09:19:38
@@ -8714,7 +9276,12 @@ Finished: 2025-05-13 09:19:38
 
 ### Health / Recovery
 
+- Steps: 8624
+- Distance: 6.51 km
+- Total kcal burned: 2829
 - Weight: 71.8 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.08 h asleep (7.22 h in bed, deep 0.95 h, REM 1.03 h, awake 0.13 h)
 
 **Week 1 · Day 2**
 Finished: 2025-05-12 08:12:41
@@ -8750,7 +9317,12 @@ Finished: 2025-05-12 08:12:41
 
 ### Health / Recovery
 
+- Steps: 8624
+- Distance: 6.51 km
+- Total kcal burned: 2829
 - Weight: 71.8 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.08 h asleep (7.22 h in bed, deep 0.95 h, REM 1.03 h, awake 0.13 h)
 
 **Week 1 · Day 1**
 Finished: 2025-05-12 08:12:32
@@ -8768,7 +9340,12 @@ Finished: 2025-05-12 08:12:32
 
 ### Health / Recovery
 
+- Steps: 8624
+- Distance: 6.51 km
+- Total kcal burned: 2829
 - Weight: 71.8 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.08 h asleep (7.22 h in bed, deep 0.95 h, REM 1.03 h, awake 0.13 h)
 
 **Week 1 · Day 1**
 Finished: 2025-05-12 08:12:31
@@ -8783,6 +9360,14 @@ Finished: 2025-05-12 08:12:31
 
 
 ## 2025-05-08
+
+### Health / Recovery
+
+- Steps: 14821
+- Distance: 12.22 km
+- Total kcal burned: 2642
+- Resting heart rate: 42 bpm
+- Sleep: 4 h asleep (4.42 h in bed, deep 0.27 h, REM 0.08 h, awake 0.42 h)
 
 **Week 2 · Day 2**
 Finished: 2025-05-08 09:59:43
@@ -8812,6 +9397,14 @@ Finished: 2025-05-08 09:59:43
 
 ## 2025-05-04
 
+### Health / Recovery
+
+- Steps: 22611
+- Distance: 16.37 km
+- Total kcal burned: 3414
+- Resting heart rate: 40 bpm
+- Sleep: 6.98 h asleep (7.92 h in bed, deep 1.03 h, REM 1.27 h, awake 0.93 h)
+
 **Week 2 · Day 1**
 Finished: 2025-05-04 12:13:58
 
@@ -8836,6 +9429,14 @@ Finished: 2025-05-04 12:13:58
   Set 3: 160.0kg x 3 @ RPE 8 [target RPE: 7]
 
 ## 2025-05-02
+
+### Health / Recovery
+
+- Steps: 18696
+- Distance: 13.12 km
+- Total kcal burned: 2723
+- Resting heart rate: 40 bpm
+- Sleep: 7.27 h asleep (7.67 h in bed, deep 1.05 h, REM 1.40 h, awake 0.40 h)
 
 **Week 1 · Day 4**
 Finished: 2025-05-02 09:29:40
@@ -8862,6 +9463,14 @@ Finished: 2025-05-02 09:29:40
   Set 4: 152.5kg x 4 @ RPE 7 [target RPE: 7]
 
 ## 2025-04-30
+
+### Health / Recovery
+
+- Steps: 10792
+- Distance: 7.66 km
+- Total kcal burned: 2361
+- Resting heart rate: 42 bpm
+- Sleep: 6.72 h asleep (6.87 h in bed, deep 1.45 h, REM 1.23 h, awake 0.15 h)
 
 **Week 1 · Day 3**
 Finished: 2025-04-30 10:36:56
@@ -8891,7 +9500,12 @@ Finished: 2025-04-30 10:36:56
 
 ### Health / Recovery
 
+- Steps: 11852
+- Distance: 5.54 km
+- Total kcal burned: 4736
 - Weight: 76.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 0.28 h asleep (0.28 h in bed, deep 0 h, REM 0 h, awake 0 h)
 
 **Week 1 · Day 2**
 Finished: 2025-04-28 09:49:17
@@ -8929,7 +9543,12 @@ Finished: 2025-04-28 09:49:17
 
 ### Health / Recovery
 
+- Steps: 9924
+- Distance: 7.88 km
+- Total kcal burned: 2738
 - Weight: 76.8 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.88 h asleep (6.88 h in bed, deep 1.15 h, REM 1.45 h, awake 0 h)
 
 **Week 1 · Day 1**
 Finished: 2025-04-26 10:27:49
@@ -8965,7 +9584,12 @@ Finished: 2025-04-26 10:27:49
 
 ### Health / Recovery
 
+- Steps: 9998
+- Distance: 7.72 km
+- Total kcal burned: 2895
 - Weight: 76.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.47 h asleep (7.72 h in bed, deep 1 h, REM 1.82 h, awake 0.25 h)
 
 **Week 2 · Day 5**
 Finished: 2025-04-24 10:22:32
@@ -9001,7 +9625,12 @@ Finished: 2025-04-24 10:22:32
 
 ### Health / Recovery
 
+- Steps: 7294
+- Distance: 5.68 km
+- Total kcal burned: 2892
 - Weight: 76.4 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.95 h asleep (7.55 h in bed, deep 0.60 h, REM 0.97 h, awake 0.60 h)
 
 **Week 2 · Day 4**
 Finished: 2025-04-23 10:27:34
@@ -9031,7 +9660,12 @@ Finished: 2025-04-23 10:27:34
 
 ### Health / Recovery
 
+- Steps: 10494
+- Distance: 8.89 km
+- Total kcal burned: 2911
 - Weight: 77.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.70 h asleep (7.90 h in bed, deep 0.77 h, REM 1.75 h, awake 0.20 h)
 
 **Week 2 · Day 3**
 Finished: 2025-04-22 10:24:23
@@ -9059,7 +9693,12 @@ Finished: 2025-04-22 10:24:23
 
 ### Health / Recovery
 
+- Steps: 3247
+- Distance: 2.68 km
+- Total kcal burned: 2416
 - Weight: 77.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.90 h asleep (7.17 h in bed, deep 1.13 h, REM 0.75 h, awake 0.27 h)
 
 **Week 2 · Day 2**
 Finished: 2025-04-21 09:51:09
@@ -9094,7 +9733,12 @@ Finished: 2025-04-21 09:51:09
 
 ### Health / Recovery
 
+- Steps: 3545
+- Distance: 2.80 km
+- Total kcal burned: 2389
 - Weight: 77.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.17 h asleep (7.47 h in bed, deep 0.40 h, REM 1.82 h, awake 0.30 h)
 
 **Week 2 · Day 1**
 Finished: 2025-04-18 10:23:47
@@ -9127,7 +9771,12 @@ Finished: 2025-04-18 10:23:47
 
 ### Health / Recovery
 
+- Steps: 5748
+- Distance: 4.70 km
+- Total kcal burned: 2381
 - Weight: 77.3 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.83 h asleep (8.68 h in bed, deep 0.83 h, REM 0.82 h, awake 0.85 h)
 
 **Week 1 · Day 5**
 Finished: 2025-04-17 10:23:00
@@ -9163,7 +9812,12 @@ Finished: 2025-04-17 10:23:00
 
 ### Health / Recovery
 
+- Steps: 2812
+- Distance: 2.28 km
+- Total kcal burned: 2545
 - Weight: 77.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.88 h asleep (8.42 h in bed, deep 0.82 h, REM 1.30 h, awake 0.53 h)
 
 **Week 1 · Day 4**
 Finished: 2025-04-16 10:21:17
@@ -9194,7 +9848,12 @@ Finished: 2025-04-16 10:21:17
 
 ### Health / Recovery
 
+- Steps: 4540
+- Distance: 3.69 km
+- Total kcal burned: 2527
 - Weight: 71.3 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.30 h asleep (8.37 h in bed, deep 1.53 h, REM 2.15 h, awake 0.07 h)
 
 **Week 1 · Day 3**
 Finished: 2025-04-15 10:21:43
@@ -9222,7 +9881,12 @@ Finished: 2025-04-15 10:21:43
 
 ### Health / Recovery
 
+- Steps: 5570
+- Distance: 4.48 km
+- Total kcal burned: 2362
 - Weight: 77.6 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.15 h asleep (7.37 h in bed, deep 1.15 h, REM 0.95 h, awake 0.22 h)
 
 **Week 1 · Day 2**
 Finished: 2025-04-14 09:57:42
@@ -9254,6 +9918,14 @@ Finished: 2025-04-14 09:57:42
   Set 3: 67.5kg x 10 [target RPE: 9-10]
 
 ## 2025-04-12
+
+### Health / Recovery
+
+- Steps: 8890
+- Distance: 7.29 km
+- Total kcal burned: 2936
+- Resting heart rate: 43 bpm
+- Sleep: 7.05 h asleep (7.17 h in bed, deep 0.63 h, REM 1.13 h, awake 0.12 h)
 
 **Week 1 · Day 1**
 Finished: 2025-04-12 10:14:22
@@ -9290,7 +9962,12 @@ Finished: 2025-04-12 10:14:22
 
 ### Health / Recovery
 
+- Steps: 4340
+- Distance: 3.51 km
+- Total kcal burned: 2607
 - Weight: 75.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.08 h asleep (7.80 h in bed, deep 0.72 h, REM 0.80 h, awake 0.72 h)
 
 **Week 6 · Day 5**
 Finished: 2025-04-11 10:15:36
@@ -9323,7 +10000,12 @@ Finished: 2025-04-11 10:15:36
 
 ### Health / Recovery
 
+- Steps: 4071
+- Distance: 3.32 km
+- Total kcal burned: 2725
 - Weight: 76.4 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.43 h asleep (7.57 h in bed, deep 0.85 h, REM 1.08 h, awake 0.13 h)
 
 **Week 6 · Day 4**
 Finished: 2025-04-10 10:18:41
@@ -9348,7 +10030,12 @@ Finished: 2025-04-10 10:18:41
 
 ### Health / Recovery
 
+- Steps: 12040
+- Distance: 9.41 km
+- Total kcal burned: 3052
 - Weight: 76.4 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.83 h asleep (7.80 h in bed, deep 0.87 h, REM 0.83 h, awake 0.97 h)
 
 **Week 6 · Day 3**
 Finished: 2025-04-08 10:11:33
@@ -9376,7 +10063,12 @@ Finished: 2025-04-08 10:11:33
 
 ### Health / Recovery
 
+- Steps: 5208
+- Distance: 4.36 km
+- Total kcal burned: 2594
 - Weight: 76.7 kg
+- Resting heart rate: 41 bpm
+- Sleep: 8.15 h asleep (8.23 h in bed, deep 1.58 h, REM 1.95 h, awake 0.08 h)
 
 **Week 6 · Day 2**
 Finished: 2025-04-07 10:29:34
@@ -9416,7 +10108,12 @@ Finished: 2025-04-07 10:29:34
 
 ### Health / Recovery
 
+- Steps: 7583
+- Distance: 6.05 km
+- Total kcal burned: 3209
 - Weight: 75.8 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.38 h asleep (7.70 h in bed, deep 1.85 h, REM 0.83 h, awake 0.32 h)
 
 **Week 6 · Day 1**
 Finished: 2025-04-05 10:27:35
@@ -9451,7 +10148,12 @@ Finished: 2025-04-05 10:27:35
 
 ### Health / Recovery
 
+- Steps: 8203
+- Distance: 6.43 km
+- Total kcal burned: 2628
 - Weight: 75.8 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.53 h asleep (7.95 h in bed, deep 1.07 h, REM 0.90 h, awake 0.42 h)
 
 **Week 5 · Day 5**
 Finished: 2025-04-03 10:32:52
@@ -9486,7 +10188,12 @@ Finished: 2025-04-03 10:32:52
 
 ### Health / Recovery
 
+- Steps: 8056
+- Distance: 8.66 km
+- Total kcal burned: 2587
 - Weight: 76.5 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.22 h asleep (7.50 h in bed, deep 0.77 h, REM 1.15 h, awake 0.28 h)
 
 **Week 5 · Day 4**
 Finished: 2025-04-02 10:21:17
@@ -9512,7 +10219,12 @@ Finished: 2025-04-02 10:21:17
 
 ### Health / Recovery
 
+- Steps: 7610
+- Distance: 6.10 km
+- Total kcal burned: 2708
 - Weight: 76.1 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.40 h asleep (7.48 h in bed, deep 0.82 h, REM 1.03 h, awake 0.08 h)
 
 **Week 5 · Day 3**
 Finished: 2025-04-01 11:33:11
@@ -9537,6 +10249,14 @@ Finished: 2025-04-01 11:33:11
 
 
 ## 2025-03-31
+
+### Health / Recovery
+
+- Steps: 4024
+- Distance: 3.27 km
+- Total kcal burned: 2369
+- Resting heart rate: 41 bpm
+- Sleep: 8.22 h asleep (8.28 h in bed, deep 1.58 h, REM 2.10 h, awake 0.07 h)
 
 **Week 5 · Day 2**
 Finished: 2025-03-31 09:57:44
@@ -9577,7 +10297,12 @@ Finished: 2025-03-31 09:57:44
 
 ### Health / Recovery
 
+- Steps: 18629
+- Distance: 15.85 km
+- Total kcal burned: 3135
 - Weight: 76.2 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.98 h asleep (8.55 h in bed, deep 1.63 h, REM 1.55 h, awake 0.57 h)
 
 **Week 5 · Day 1**
 Finished: 2025-03-29 10:17:43
@@ -9609,6 +10334,14 @@ Finished: 2025-03-29 10:17:43
   Set 4: 35.0kg x 12 @ RPE 10 [target RPE: 9-10]
 
 ## 2025-03-27
+
+### Health / Recovery
+
+- Steps: 7475
+- Distance: 6.88 km
+- Total kcal burned: 2617
+- Resting heart rate: 42 bpm
+- Sleep: 7.52 h asleep (8.43 h in bed, deep 1.20 h, REM 1.78 h, awake 0.92 h)
 
 **Week 4 · Day 5**
 Finished: 2025-03-27 10:22:04
@@ -9643,7 +10376,12 @@ Finished: 2025-03-27 10:22:04
 
 ### Health / Recovery
 
+- Steps: 7511
+- Distance: 6.08 km
+- Total kcal burned: 2675
 - Weight: 75.2 kg
+- Resting heart rate: 41 bpm
+- Sleep: 6.70 h asleep (6.77 h in bed, deep 0.10 h, REM 0.95 h, awake 0.07 h)
 
 **Week 4 · Day 4**
 Finished: 2025-03-26 10:14:52
@@ -9669,7 +10407,12 @@ Finished: 2025-03-26 10:14:52
 
 ### Health / Recovery
 
+- Steps: 5466
+- Distance: 4.47 km
+- Total kcal burned: 2563
 - Weight: 75.7 kg
+- Resting heart rate: 41 bpm
+- Sleep: 6.92 h asleep (7.25 h in bed, deep 0.72 h, REM 1.45 h, awake 0.33 h)
 
 **Week 4 · Day 3**
 Finished: 2025-03-25 10:05:09
@@ -9694,6 +10437,14 @@ Finished: 2025-03-25 10:05:09
 
 
 ## 2025-03-24
+
+### Health / Recovery
+
+- Steps: 4303
+- Distance: 3.50 km
+- Total kcal burned: 2424
+- Resting heart rate: 41 bpm
+- Sleep: 7.68 h asleep (8 h in bed, deep 1.07 h, REM 1.80 h, awake 0.32 h)
 
 **Week 4 · Day 2**
 Finished: 2025-03-24 09:48:45
@@ -9734,7 +10485,12 @@ Finished: 2025-03-24 09:48:45
 
 ### Health / Recovery
 
+- Steps: 13810
+- Distance: 10.98 km
+- Total kcal burned: 3353
 - Weight: 75.1 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.73 h asleep (7.95 h in bed, deep 1.12 h, REM 1.40 h, awake 0.22 h)
 
 **Week 4 · Day 1**
 Finished: 2025-03-22 10:25:58
@@ -9767,6 +10523,14 @@ Finished: 2025-03-22 10:25:58
 
 ## 2025-03-20
 
+### Health / Recovery
+
+- Steps: 4582
+- Distance: 3.72 km
+- Total kcal burned: 2441
+- Resting heart rate: 42 bpm
+- Sleep: 7.22 h asleep (7.68 h in bed, deep 0.82 h, REM 1 h, awake 0.47 h)
+
 **Week 3 · Day 5**
 Finished: 2025-03-20 10:06:30
 
@@ -9798,6 +10562,14 @@ Finished: 2025-03-20 10:06:30
 
 ## 2025-03-19
 
+### Health / Recovery
+
+- Steps: 11324
+- Distance: 9.09 km
+- Total kcal burned: 2698
+- Resting heart rate: 42 bpm
+- Sleep: 7.53 h asleep (8.12 h in bed, deep 0.87 h, REM 1 h, awake 0.58 h)
+
 **Week 3 · Day 4**
 Finished: 2025-03-19 10:00:10
 
@@ -9819,6 +10591,14 @@ Finished: 2025-03-19 10:00:10
 
 
 ## 2025-03-18
+
+### Health / Recovery
+
+- Steps: 5150
+- Distance: 4.20 km
+- Total kcal burned: 2648
+- Resting heart rate: 42 bpm
+- Sleep: 6.87 h asleep (7.22 h in bed, deep 0.73 h, REM 1.92 h, awake 0.35 h)
 
 **Week 3 · Day 3**
 Finished: 2025-03-18 10:12:57
@@ -9843,6 +10623,14 @@ Finished: 2025-03-18 10:12:57
 
 
 ## 2025-03-17
+
+### Health / Recovery
+
+- Steps: 2102
+- Distance: 1.74 km
+- Total kcal burned: 2184
+- Resting heart rate: 42 bpm
+- Sleep: 8.02 h asleep (8.17 h in bed, deep 1.30 h, REM 1.23 h, awake 0.15 h)
 
 **Week 3 · Day 2**
 Finished: 2025-03-17 09:55:26
@@ -9881,6 +10669,14 @@ Finished: 2025-03-17 09:55:26
 
 ## 2025-03-15
 
+### Health / Recovery
+
+- Steps: 7655
+- Distance: 6.24 km
+- Total kcal burned: 2930
+- Resting heart rate: 42 bpm
+- Sleep: 7.88 h asleep (7.93 h in bed, deep 1.17 h, REM 1.30 h, awake 0.05 h)
+
 **Week 3 · Day 1**
 Finished: 2025-03-15 10:24:28
 
@@ -9911,6 +10707,14 @@ Finished: 2025-03-15 10:24:28
   Set 4: 30.0kg x 14 @ RPE 10 [target RPE: 9-10]
 
 ## 2025-03-13
+
+### Health / Recovery
+
+- Steps: 6848
+- Distance: 5.22 km
+- Total kcal burned: 2733
+- Resting heart rate: 43 bpm
+- Sleep: 6.88 h asleep (6.97 h in bed, deep 0.58 h, REM 1.50 h, awake 0.08 h)
 
 **Week 2 · Day 5**
 Finished: 2025-03-13 10:12:45
@@ -9945,7 +10749,12 @@ Finished: 2025-03-13 10:12:45
 
 ### Health / Recovery
 
+- Steps: 5445
+- Distance: 4.47 km
+- Total kcal burned: 2573
 - Weight: 75.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.03 h asleep (6.08 h in bed, deep 0.77 h, REM 1.43 h, awake 0.05 h)
 
 **Week 2 · Day 4**
 Finished: 2025-03-12 10:22:00
@@ -9968,6 +10777,14 @@ Finished: 2025-03-12 10:22:00
 
 
 ## 2025-03-11
+
+### Health / Recovery
+
+- Steps: 5216
+- Distance: 4.17 km
+- Total kcal burned: 2682
+- Resting heart rate: 42 bpm
+- Sleep: 7.03 h asleep (7.30 h in bed, deep 0.67 h, REM 1.02 h, awake 0.27 h)
 
 **Week 2 · Day 3**
 Finished: 2025-03-11 10:15:33
@@ -9995,7 +10812,12 @@ Finished: 2025-03-11 10:15:33
 
 ### Health / Recovery
 
+- Steps: 6521
+- Distance: 5.14 km
+- Total kcal burned: 2513
 - Weight: 76.5 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.30 h asleep (7.32 h in bed, deep 1.18 h, REM 1.42 h, awake 0.02 h)
 
 **Week 2 · Day 2**
 Finished: 2025-03-10 09:47:35
@@ -10036,7 +10858,12 @@ Finished: 2025-03-10 09:47:35
 
 ### Health / Recovery
 
+- Steps: 8673
+- Distance: 6.87 km
+- Total kcal burned: 2966
 - Weight: 76.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.02 h asleep (7.03 h in bed, deep 1.35 h, REM 1.20 h, awake 0.02 h)
 
 **Week 2 · Day 1**
 Finished: 2025-03-08 10:27:05
@@ -10071,7 +10898,12 @@ Finished: 2025-03-08 10:27:05
 
 ### Health / Recovery
 
+- Steps: 5472
+- Distance: 4.53 km
+- Total kcal burned: 2576
 - Weight: 75.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.75 h asleep (7.25 h in bed, deep 1.02 h, REM 1.08 h, awake 0.50 h)
 
 **Week 1 · Day 5**
 Finished: 2025-03-06 10:16:32
@@ -10104,6 +10936,14 @@ Finished: 2025-03-06 10:16:32
 
 ## 2025-03-05
 
+### Health / Recovery
+
+- Steps: 9291
+- Distance: 7.16 km
+- Total kcal burned: 2727
+- Resting heart rate: 44 bpm
+- Sleep: 7.23 h asleep (7.25 h in bed, deep 1.02 h, REM 1.57 h, awake 0.02 h)
+
 **Week 1 · Day 4**
 Finished: 2025-03-05 10:30:40
 
@@ -10125,6 +10965,14 @@ Finished: 2025-03-05 10:30:40
 
 
 ## 2025-03-04
+
+### Health / Recovery
+
+- Steps: 5172
+- Distance: 4.22 km
+- Total kcal burned: 2463
+- Resting heart rate: 43 bpm
+- Sleep: 7.73 h asleep (7.88 h in bed, deep 0.77 h, REM 1.97 h, awake 0.15 h)
 
 **Week 1 · Day 3**
 Finished: 2025-03-04 10:11:56
@@ -10149,6 +10997,14 @@ Finished: 2025-03-04 10:11:56
 
 
 ## 2025-03-03
+
+### Health / Recovery
+
+- Steps: 6781
+- Distance: 5.57 km
+- Total kcal burned: 2867
+- Resting heart rate: 43 bpm
+- Sleep: 7.78 h asleep (7.82 h in bed, deep 1.68 h, REM 1.68 h, awake 0.03 h)
 
 **Week 1 · Day 2**
 Finished: 2025-03-03 09:50:48
@@ -10187,6 +11043,14 @@ Finished: 2025-03-03 09:50:48
 
 ## 2025-03-01
 
+### Health / Recovery
+
+- Steps: 3462
+- Distance: 2.79 km
+- Total kcal burned: 2613
+- Resting heart rate: 43 bpm
+- Sleep: 7.85 h asleep (8.12 h in bed, deep 0.93 h, REM 1 h, awake 0.27 h)
+
 **Week 1 · Day 1**
 Finished: 2025-03-01 10:13:14
 
@@ -10223,6 +11087,14 @@ Finished: 2025-03-01 10:13:14
 
 ## 2025-02-22
 
+### Health / Recovery
+
+- Steps: 6138
+- Distance: 5.01 km
+- Total kcal burned: 2787
+- Resting heart rate: 44 bpm
+- Sleep: 7.07 h asleep (7.27 h in bed, deep 1.10 h, REM 0.80 h, awake 0.20 h)
+
 **Feb 22 Workout**
 Finished: 2025-02-22 10:32:13
 
@@ -10249,6 +11121,14 @@ Finished: 2025-02-22 10:32:13
 
 ## 2025-02-20
 
+### Health / Recovery
+
+- Steps: 6386
+- Distance: 5.26 km
+- Total kcal burned: 2681
+- Resting heart rate: 43 bpm
+- Sleep: 7.28 h asleep (7.90 h in bed, deep 1.15 h, REM 1.53 h, awake 0.62 h)
+
 **Week 4 · Day 5**
 Finished: 2025-02-20 10:34:43
 
@@ -10270,6 +11150,14 @@ Finished: 2025-02-20 10:34:43
 
 ## 2025-02-19
 
+### Health / Recovery
+
+- Steps: 4252
+- Distance: 3.54 km
+- Total kcal burned: 2561
+- Resting heart rate: 43 bpm
+- Sleep: 7.83 h asleep (8.33 h in bed, deep 0.42 h, REM 2.10 h, awake 0.50 h)
+
 **Week 4 · Day 4**
 Finished: 2025-02-19 11:01:26
 
@@ -10289,6 +11177,14 @@ Finished: 2025-02-19 11:01:26
 
 
 ## 2025-02-18
+
+### Health / Recovery
+
+- Steps: 5143
+- Distance: 3.96 km
+- Total kcal burned: 2628
+- Resting heart rate: 43 bpm
+- Sleep: 7.60 h asleep (8.33 h in bed, deep 0.73 h, REM 1.38 h, awake 0.73 h)
 
 **Week 4 · Day 3**
 Finished: 2025-02-18 10:14:08
@@ -10337,6 +11233,14 @@ Finished: 2025-02-18 10:14:08
 
 ## 2025-02-17
 
+### Health / Recovery
+
+- Steps: 4461
+- Distance: 3.64 km
+- Total kcal burned: 2652
+- Resting heart rate: 43 bpm
+- Sleep: 8.38 h asleep (8.47 h in bed, deep 1.30 h, REM 1.60 h, awake 0.08 h)
+
 **Week 4 · Day 2**
 Finished: 2025-02-17 10:12:57
 
@@ -10373,6 +11277,14 @@ Finished: 2025-02-17 10:12:57
 
 ## 2025-02-15
 
+### Health / Recovery
+
+- Steps: 12641
+- Distance: 9.94 km
+- Total kcal burned: 3148
+- Resting heart rate: 43 bpm
+- Sleep: 7.87 h asleep (7.92 h in bed, deep 1.25 h, REM 1.88 h, awake 0.05 h)
+
 **Week 4 · Day 1**
 Finished: 2025-02-15 10:29:02
 
@@ -10404,6 +11316,14 @@ Finished: 2025-02-15 10:29:02
 
 ## 2025-02-13
 
+### Health / Recovery
+
+- Steps: 3994
+- Distance: 3.19 km
+- Total kcal burned: 2582
+- Resting heart rate: 44 bpm
+- Sleep: 7.32 h asleep (7.47 h in bed, deep 0.93 h, REM 1.20 h, awake 0.15 h)
+
 **Week 3 · Day 5**
 Finished: 2025-02-13 10:10:54
 
@@ -10425,6 +11345,14 @@ Finished: 2025-02-13 10:10:54
 
 
 ## 2025-02-12
+
+### Health / Recovery
+
+- Steps: 5377
+- Distance: 4.39 km
+- Total kcal burned: 2511
+- Resting heart rate: 44 bpm
+- Sleep: 7.35 h asleep (7.80 h in bed, deep 0.53 h, REM 1.28 h, awake 0.45 h)
 
 **Week 3 · Day 4**
 Finished: 2025-02-12 10:37:33
@@ -10450,7 +11378,12 @@ Finished: 2025-02-12 10:37:33
 
 ### Health / Recovery
 
+- Steps: 4998
+- Distance: 4.18 km
+- Total kcal burned: 2709
 - Weight: 76.3 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.42 h asleep (7.53 h in bed, deep 0.95 h, REM 1.23 h, awake 0.12 h)
 
 **Week 3 · Day 3**
 Finished: 2025-02-11 10:21:09
@@ -10483,6 +11416,14 @@ Finished: 2025-02-11 10:21:09
   Set 4: 12.5kg x 11
 
 ## 2025-02-10
+
+### Health / Recovery
+
+- Steps: 5691
+- Distance: 4.65 km
+- Total kcal burned: 2534
+- Resting heart rate: 44 bpm
+- Sleep: 7.85 h asleep (8.18 h in bed, deep 1.32 h, REM 1.50 h, awake 0.33 h)
 
 **Week 3 · Day 2**
 Finished: 2025-02-10 09:54:19
@@ -10523,7 +11464,12 @@ Finished: 2025-02-10 09:54:19
 
 ### Health / Recovery
 
+- Steps: 16464
+- Distance: 12.89 km
+- Total kcal burned: 3286
 - Weight: 76.7 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.48 h asleep (7.68 h in bed, deep 1.02 h, REM 1.43 h, awake 0.20 h)
 
 **Week 3 · Day 1**
 Finished: 2025-02-08 10:16:10
@@ -10559,7 +11505,12 @@ Finished: 2025-02-08 10:16:10
 
 ### Health / Recovery
 
+- Steps: 4868
+- Distance: 3.86 km
+- Total kcal burned: 2504
 - Weight: 76.1 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.55 h asleep (7.10 h in bed, deep 0.57 h, REM 1.12 h, awake 0.55 h)
 
 **Week 2 · Day 5**
 Finished: 2025-02-06 09:53:14
@@ -10584,6 +11535,14 @@ Finished: 2025-02-06 09:53:14
 
 ## 2025-02-05
 
+### Health / Recovery
+
+- Steps: 4976
+- Distance: 4.01 km
+- Total kcal burned: 2593
+- Resting heart rate: 42 bpm
+- Sleep: 7.92 h asleep (7.97 h in bed, deep 1.10 h, REM 1.10 h, awake 0.05 h)
+
 **Week 2 · Day 4**
 Finished: 2025-02-05 10:25:16
 
@@ -10605,6 +11564,14 @@ Finished: 2025-02-05 10:25:16
 
 
 ## 2025-02-04
+
+### Health / Recovery
+
+- Steps: 4534
+- Distance: 3.76 km
+- Total kcal burned: 2605
+- Resting heart rate: 42 bpm
+- Sleep: 7.70 h asleep (7.70 h in bed, deep 1.35 h, REM 1.80 h, awake 0 h)
 
 **Week 2 · Day 3**
 Finished: 2025-02-04 10:11:39
@@ -10637,6 +11604,14 @@ Finished: 2025-02-04 10:11:39
   Set 4: 20.0kg x 11 @ RPE 10
 
 ## 2025-02-03
+
+### Health / Recovery
+
+- Steps: 5143
+- Distance: 4.34 km
+- Total kcal burned: 2537
+- Resting heart rate: 42 bpm
+- Sleep: 7.80 h asleep (8.10 h in bed, deep 1.18 h, REM 1.57 h, awake 0.30 h)
 
 **Week 2 · Day 2**
 Finished: 2025-02-03 10:02:15
@@ -10675,6 +11650,14 @@ Finished: 2025-02-03 10:02:15
 
 ## 2025-02-01
 
+### Health / Recovery
+
+- Steps: 8566
+- Distance: 6.79 km
+- Total kcal burned: 2963
+- Resting heart rate: 42 bpm
+- Sleep: 8.08 h asleep (8.38 h in bed, deep 1.58 h, REM 1.82 h, awake 0.30 h)
+
 **Week 2 · Day 1**
 Finished: 2025-02-01 10:30:06
 
@@ -10707,6 +11690,14 @@ Finished: 2025-02-01 10:30:06
 
 ## 2025-01-30
 
+### Health / Recovery
+
+- Steps: 3678
+- Distance: 3 km
+- Total kcal burned: 2467
+- Resting heart rate: 43 bpm
+- Sleep: 8.20 h asleep (8.32 h in bed, deep 1.07 h, REM 1.88 h, awake 0.12 h)
+
 **Week 1 · Day 5**
 Finished: 2025-01-30 09:58:36
 
@@ -10731,7 +11722,12 @@ Finished: 2025-01-30 09:58:36
 
 ### Health / Recovery
 
+- Steps: 5777
+- Distance: 4.60 km
+- Total kcal burned: 2668
 - Weight: 74.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.45 h asleep (7.63 h in bed, deep 0.85 h, REM 1.28 h, awake 0.18 h)
 
 **Week 1 · Day 4**
 Finished: 2025-01-29 10:28:19
@@ -10754,6 +11750,14 @@ Finished: 2025-01-29 10:28:19
 
 
 ## 2025-01-28
+
+### Health / Recovery
+
+- Steps: 5848
+- Distance: 4.78 km
+- Total kcal burned: 2723
+- Resting heart rate: 44 bpm
+- Sleep: 7.52 h asleep (7.90 h in bed, deep 1.42 h, REM 1.53 h, awake 0.38 h)
 
 **Week 1 · Day 3**
 Finished: 2025-01-28 10:34:11
@@ -10804,6 +11808,14 @@ Finished: 2025-01-28 10:34:11
 
 ## 2025-01-27
 
+### Health / Recovery
+
+- Steps: 9725
+- Distance: 7.95 km
+- Total kcal burned: 3279
+- Resting heart rate: 44 bpm
+- Sleep: 7.82 h asleep (8.62 h in bed, deep 1.43 h, REM 1.42 h, awake 0.80 h)
+
 **Week 1 · Day 2**
 Finished: 2025-01-27 10:19:13
 
@@ -10847,7 +11859,12 @@ Finished: 2025-01-27 10:19:13
 
 ### Health / Recovery
 
+- Steps: 16914
+- Distance: 12.87 km
+- Total kcal burned: 3489
 - Weight: 75.6 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.55 h asleep (7.63 h in bed, deep 0.85 h, REM 1.85 h, awake 0.08 h)
 
 **Week 1 · Day 1**
 Finished: 2025-01-25 10:18:03
@@ -10882,6 +11899,14 @@ Finished: 2025-01-25 10:18:03
 
 ## 2025-01-23
 
+### Health / Recovery
+
+- Steps: 5153
+- Distance: 4.19 km
+- Total kcal burned: 2633
+- Resting heart rate: 46 bpm
+- Sleep: 7.05 h asleep (7.27 h in bed, deep 0.92 h, REM 1.23 h, awake 0.22 h)
+
 **Week 4 · Day 5**
 Finished: 2025-01-23 10:14:15
 
@@ -10911,6 +11936,14 @@ Finished: 2025-01-23 10:14:15
 
 ## 2025-01-22
 
+### Health / Recovery
+
+- Steps: 9860
+- Distance: 7.40 km
+- Total kcal burned: 3023
+- Resting heart rate: 46 bpm
+- Sleep: 6.92 h asleep (6.95 h in bed, deep 0.97 h, REM 1.53 h, awake 0.03 h)
+
 **Week 4 · Day 4**
 Finished: 2025-01-22 10:14:37
 
@@ -10933,7 +11966,12 @@ Finished: 2025-01-22 10:14:37
 
 ### Health / Recovery
 
+- Steps: 5211
+- Distance: 4.22 km
+- Total kcal burned: 2712
 - Weight: 76 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.67 h asleep (7.75 h in bed, deep 0.77 h, REM 1.80 h, awake 0.08 h)
 
 **Week 4 · Day 3**
 Finished: 2025-01-21 10:16:39
@@ -10983,7 +12021,12 @@ Finished: 2025-01-21 10:16:39
 
 ### Health / Recovery
 
+- Steps: 6434
+- Distance: 5.75 km
+- Total kcal burned: 2608
 - Weight: 77.1 kg
+- Resting heart rate: 46 bpm
+- Sleep: 8.57 h asleep (8.73 h in bed, deep 1.15 h, REM 2.08 h, awake 0.17 h)
 
 **Week 4 · Day 2**
 Finished: 2025-01-20 10:11:06
@@ -11021,6 +12064,14 @@ Finished: 2025-01-20 10:11:06
 
 ## 2025-01-18
 
+### Health / Recovery
+
+- Steps: 14966
+- Distance: 11.77 km
+- Total kcal burned: 3423
+- Resting heart rate: 46 bpm
+- Sleep: 7.85 h asleep (8.28 h in bed, deep 1.03 h, REM 0.88 h, awake 0.43 h)
+
 **Week 4 · Day 1**
 Finished: 2025-01-18 10:44:40
 
@@ -11049,6 +12100,14 @@ Finished: 2025-01-18 10:44:40
   Set 3: 30.0kg x 14 @ RPE 10 [target RPE: 10]
 
 ## 2025-01-16
+
+### Health / Recovery
+
+- Steps: 5964
+- Distance: 4.72 km
+- Total kcal burned: 2740
+- Resting heart rate: 46 bpm
+- Sleep: 7.47 h asleep (7.82 h in bed, deep 0.97 h, REM 1.55 h, awake 0.35 h)
 
 **Week 3 · Day 5**
 Finished: 2025-01-16 10:12:03
@@ -11082,7 +12141,12 @@ Finished: 2025-01-16 10:12:03
 
 ### Health / Recovery
 
+- Steps: 7860
+- Distance: 6.70 km
+- Total kcal burned: 2686
 - Weight: 76.3 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.92 h asleep (7.22 h in bed, deep 0.95 h, REM 0.37 h, awake 0.30 h)
 
 **Week 3 · Day 4**
 Finished: 2025-01-15 10:34:16
@@ -11108,7 +12172,12 @@ Finished: 2025-01-15 10:34:16
 
 ### Health / Recovery
 
+- Steps: 7415
+- Distance: 6.20 km
+- Total kcal burned: 2761
 - Weight: 75.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.65 h asleep (8.90 h in bed, deep 0.98 h, REM 1.92 h, awake 0.25 h)
 
 **Week 3 · Day 3**
 Finished: 2025-01-14 10:19:02
@@ -11156,6 +12225,14 @@ Finished: 2025-01-14 10:19:02
 
 ## 2025-01-13
 
+### Health / Recovery
+
+- Steps: 6968
+- Distance: 5.54 km
+- Total kcal burned: 2816
+- Resting heart rate: 44 bpm
+- Sleep: 7.73 h asleep (8.02 h in bed, deep 0.68 h, REM 1.72 h, awake 0.28 h)
+
 **Week 3 · Day 2**
 Finished: 2025-01-13 09:49:38
 
@@ -11193,6 +12270,14 @@ Finished: 2025-01-13 09:49:38
 
 ## 2025-01-11
 
+### Health / Recovery
+
+- Steps: 8420
+- Distance: 6.34 km
+- Total kcal burned: 3163
+- Resting heart rate: 43 bpm
+- Sleep: 8.18 h asleep (8.20 h in bed, deep 1.52 h, REM 1.83 h, awake 0.02 h)
+
 **Week 3 · Day 1**
 Finished: 2025-01-11 10:26:16
 
@@ -11222,6 +12307,14 @@ Finished: 2025-01-11 10:26:16
   Set 3: 30.0kg x 12 @ RPE 10
 
 ## 2025-01-09
+
+### Health / Recovery
+
+- Steps: 4544
+- Distance: 3.72 km
+- Total kcal burned: 2837
+- Resting heart rate: 42 bpm
+- Sleep: 6.68 h asleep (6.93 h in bed, deep 0.75 h, REM 1 h, awake 0.25 h)
 
 **Week 2 · Day 5**
 Finished: 2025-01-09 10:22:48
@@ -11254,6 +12347,14 @@ Finished: 2025-01-09 10:22:48
 
 ## 2025-01-08
 
+### Health / Recovery
+
+- Steps: 5372
+- Distance: 4.32 km
+- Total kcal burned: 2617
+- Resting heart rate: 43 bpm
+- Sleep: 7.97 h asleep (8 h in bed, deep 0.90 h, REM 1.60 h, awake 0.03 h)
+
 **Week 2 · Day 4**
 Finished: 2025-01-08 10:13:29
 
@@ -11275,6 +12376,14 @@ Finished: 2025-01-08 10:13:29
 
 
 ## 2025-01-07
+
+### Health / Recovery
+
+- Steps: 4276
+- Distance: 3.50 km
+- Total kcal burned: 2578
+- Resting heart rate: 43 bpm
+- Sleep: 7.83 h asleep (8.18 h in bed, deep 0.87 h, REM 1.67 h, awake 0.35 h)
 
 **Week 2 · Day 3**
 Finished: 2025-01-07 10:13:01
@@ -11322,6 +12431,14 @@ Finished: 2025-01-07 10:13:01
 
 ## 2025-01-06
 
+### Health / Recovery
+
+- Steps: 4968
+- Distance: 4.16 km
+- Total kcal burned: 2543
+- Resting heart rate: 43 bpm
+- Sleep: 8.62 h asleep (8.97 h in bed, deep 0.75 h, REM 1.37 h, awake 0.35 h)
+
 **Week 2 · Day 2**
 Finished: 2025-01-06 09:42:17
 
@@ -11365,6 +12482,14 @@ Finished: 2025-01-06 09:42:17
 
 ## 2025-01-04
 
+### Health / Recovery
+
+- Steps: 8601
+- Distance: 6.74 km
+- Total kcal burned: 3086
+- Resting heart rate: 43 bpm
+- Sleep: 7.87 h asleep (7.88 h in bed, deep 1.48 h, REM 1.90 h, awake 0.02 h)
+
 **Week 2 · Day 1**
 Finished: 2025-01-04 10:37:48
 
@@ -11388,6 +12513,14 @@ Finished: 2025-01-04 10:37:48
   Set 3: 110.0kg x 10
 
 ## 2025-01-02
+
+### Health / Recovery
+
+- Steps: 5805
+- Distance: 4.66 km
+- Total kcal burned: 2619
+- Resting heart rate: 43 bpm
+- Sleep: 7.58 h asleep (7.85 h in bed, deep 1.05 h, REM 1.37 h, awake 0.27 h)
 
 **Week 1 · Day 5**
 Finished: 2025-01-02 10:10:15
@@ -11416,6 +12549,14 @@ Finished: 2025-01-02 10:10:15
 
 ## 2025-01-01
 
+### Health / Recovery
+
+- Steps: 13185
+- Distance: 10.55 km
+- Total kcal burned: 3153
+- Resting heart rate: 43 bpm
+- Sleep: 7.82 h asleep (7.93 h in bed, deep 1.17 h, REM 1.85 h, awake 0.12 h)
+
 **Week 1 · Day 4**
 Finished: 2025-01-01 10:22:45
 
@@ -11441,6 +12582,14 @@ Finished: 2025-01-01 10:22:45
   Set 4: 42.5kg x 6 [target RPE: 8]
 
 ## 2024-12-31
+
+### Health / Recovery
+
+- Steps: 9738
+- Distance: 7.27 km
+- Total kcal burned: 2817
+- Resting heart rate: 43 bpm
+- Sleep: 7.03 h asleep (7.27 h in bed, deep 0.77 h, REM 1.68 h, awake 0.23 h)
 
 **Week 1 · Day 3**
 Finished: 2024-12-31 10:27:33
@@ -11488,6 +12637,14 @@ Finished: 2024-12-31 10:27:33
 
 ## 2024-12-30
 
+### Health / Recovery
+
+- Steps: 5104
+- Distance: 4.19 km
+- Total kcal burned: 2732
+- Resting heart rate: 43 bpm
+- Sleep: 8.02 h asleep (8.27 h in bed, deep 0.78 h, REM 1.43 h, awake 0.25 h)
+
 **Week 1 · Day 2**
 Finished: 2024-12-30 10:32:59
 
@@ -11523,6 +12680,14 @@ Finished: 2024-12-30 10:32:59
   Set 3: 95.0kg x 8 @ RPE 8 [target RPE: 8]
 
 ## 2024-12-28
+
+### Health / Recovery
+
+- Steps: 13973
+- Distance: 11.06 km
+- Total kcal burned: 3148
+- Resting heart rate: 44 bpm
+- Sleep: 7.93 h asleep (8.02 h in bed, deep 1.13 h, REM 1.98 h, awake 0.08 h)
 
 **Week 1 · Day 1**
 Finished: 2024-12-28 14:49:30
