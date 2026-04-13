@@ -44,9 +44,8 @@ python scripts/parse_history.py -o /tmp/workout-data/
 4. If you want CI Health Connect ingestion, add these GitHub secrets:
    - `GOOGLE_SERVICE_ACCOUNT_JSON`
    - `HEALTH_CONNECT_DRIVE_FILE_ID`
-   - Optional for legacy Zepp/Xiaomi scale history:
-     - `ZEPP_BODY_DRIVE_FILE_ID`
-     - `ZEPP_BODY_ZIP_PASSWORD`
-   - Optional for historical Garmin export backfill:
-     - `GARMIN_EXPORT_DRIVE_FILE_ID`
+   - Static historical backfills are committed in-repo by default:
+     - `values/body_weight_history.json` for legacy Zepp/Xiaomi scale history
+     - `values/garmin_daily.json` for Garmin GDPR export backfill
+   - Only Health Connect is fetched dynamically in CI.
 5. Run the scripts
