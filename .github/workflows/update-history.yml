@@ -45,12 +45,15 @@ jobs:
             --output values/health_daily.json
 
       - name: Fetch Zepp body-weight export
-        if: ${{ secrets.ZEPP_BODY_DRIVE_FILE_ID != '' && secrets.ZEPP_BODY_ZIP_PASSWORD != '' }}
         env:
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
           ZEPP_BODY_DRIVE_FILE_ID: ${{ secrets.ZEPP_BODY_DRIVE_FILE_ID }}
           ZEPP_BODY_ZIP_PASSWORD: ${{ secrets.ZEPP_BODY_ZIP_PASSWORD }}
         run: |
+          if [ -z "$ZEPP_BODY_DRIVE_FILE_ID" ] || [ -z "$ZEPP_BODY_ZIP_PASSWORD" ]; then
+            echo "Skipping Zepp body-weight fetch, missing ZEPP_BODY_DRIVE_FILE_ID or ZEPP_BODY_ZIP_PASSWORD"
+            exit 0
+          fi
           python scripts/fetch_health_connect.py \
             --file-id-env ZEPP_BODY_DRIVE_FILE_ID \
             --output /tmp/zepp-body.zip \
