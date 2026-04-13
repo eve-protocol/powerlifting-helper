@@ -6,28 +6,8 @@ Compares actual workout content (exercises, sets, RPE values).
 
 from pathlib import Path
 
-import yaml
-
 from powerlifting.api import fetch_created_programs, fetch_program, get_access_token
-
-
-def load_local_programs():
-    """Load all local YAML program files with full content"""
-    programs_dir = Path("programs")
-    programs = {}
-    
-    if not programs_dir.exists():
-        return programs
-    
-    for yaml_file in programs_dir.glob("*.yaml"):
-        try:
-            with open(yaml_file, 'r') as f:
-                data = yaml.safe_load(f)
-                programs[data['name']] = data
-        except Exception as e:
-            print(f"⚠️ Error loading {yaml_file}: {e}")
-    
-    return programs
+from powerlifting.programs import load_programs_by_name
 
 
 def extract_exercise_key(exercise):
@@ -91,7 +71,11 @@ def main():
     print("=" * 60)
     print()
     
-    local_programs = load_local_programs()
+    try:
+        local_programs = load_programs_by_name()
+    except Exception as e:
+        print(f"⚠️ Error loading local programs: {e}")
+        return
     
     if not local_programs:
         print("ℹ️ No local program files found")

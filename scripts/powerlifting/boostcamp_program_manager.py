@@ -14,7 +14,8 @@ import time
 import uuid
 
 import requests
-import yaml
+
+from .programs import load_program_file
 
 # Configuration
 BASE_URL = "https://newapi.boostcamp.app/api"
@@ -371,8 +372,7 @@ class BoostcampManager:
     def sync_program(self, yaml_file, force=False):
         """Sync a YAML program to Boostcamp (create or update)"""
         # Load YAML
-        with open(yaml_file, 'r') as f:
-            yaml_data = yaml.safe_load(f)
+        yaml_data = load_program_file(yaml_file)
         
         program_name = yaml_data['name']
         print(f"\n🔄 Syncing program: {program_name}")

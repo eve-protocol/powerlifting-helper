@@ -24,6 +24,8 @@ from datetime import datetime, timedelta
 
 from health_metrics import (
     add_health_deltas,
+    fmt_delta,
+    fmt_num,
     load_health_daily,
     period_month,
     period_quarter,
@@ -50,26 +52,6 @@ def parse_week_day(title):
     if not m:
         return None, None
     return int(m.group(1)), int(m.group(2))
-
-
-def fmt_num(x, digits=1):
-    if x is None:
-        return '-'
-    if isinstance(x, int):
-        return str(x)
-    if round(x, digits).is_integer():
-        return str(int(round(x, digits)))
-    return f"{x:.{digits}f}"
-
-
-def fmt_delta(x, digits=1, suffix=''):
-    if x is None:
-        return 'n/a'
-    arrow = '↑' if x > 0 else ('↓' if x < 0 else '→')
-    abs_x = abs(x)
-    if round(abs_x, digits).is_integer():
-        return f"{arrow} {int(round(abs_x, digits))}{suffix}"
-    return f"{arrow} {abs_x:.{digits}f}{suffix}"
 
 
 def format_set(set_data, set_num):

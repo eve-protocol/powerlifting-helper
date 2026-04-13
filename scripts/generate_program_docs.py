@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """Generate markdown docs in /outputs from YAML programs in /programs."""
 
-from pathlib import Path
 from collections import defaultdict
-import yaml
 import re
 
-PROGRAMS_DIR = Path("programs")
-OUTPUTS_DIR = Path("outputs")
+from powerlifting.programs import (
+    OUTPUTS_DIR,
+    PROGRAMS_DIR,
+    format_program_set,
+    iter_program_files,
+    load_program_file,
+)
 
 
 def to_snake_case(name: str) -> str:
@@ -16,22 +19,10 @@ def to_snake_case(name: str) -> str:
     return s
 
 
-def format_set(set_data: dict) -> str:
-    target = set_data.get("target", "-")
-    rpe = set_data.get("rpe")
-    if isinstance(rpe, (list, tuple)) and len(rpe) == 2:
-        rpe_str = f"RPE {rpe[0]}-{rpe[1]}"
-    elif rpe is not None:
-        rpe_str = f"RPE {rpe}"
-    else:
-        rpe_str = "RPE -"
-    return f"{target} reps @ {rpe_str}"
-
-
 def summarize_sets(sets: list[dict]) -> str:
     if not sets:
         return "-"
-    return "; ".join(format_set(s) for s in sets)
+    return "; ".join(format_program_set(s) for s in sets)
 
 
 def render_program(program: dict) -> str:
@@ -88,14 +79,13 @@ def main() -> int:
 
     OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
 
-    yaml_files = sorted(list(PROGRAMS_DIR.glob("*.yaml")) + list(PROGRAMS_DIR.glob("*.yml")))
+    yaml_files = iter_program_files(PROGRAMS_DIR)
     if not yaml_files:
         print("No YAML programs found")
         return 0
 
     for yaml_file in yaml_files:
-        with yaml_file.open("r", encoding="utf-8") as f:
-            program = yaml.safe_load(f)
+        program = load_program_file(yaml_file)
 
         output_name = f"{to_snake_case(program.get('name', yaml_file.stem))}.md"
         output_path = OUTPUTS_DIR / output_name

@@ -4,6 +4,8 @@ from datetime import datetime
 import argparse
 import yaml
 
+from powerlifting.programs import get_program_path, load_program_file
+
 STATE_PATH = Path("state/training_state.yaml")
 
 
@@ -22,10 +24,10 @@ def next_block(state, current):
 
 
 def workouts_in_block(block_name: str) -> int:
-    path = Path("programs") / f"{block_name}.yaml"
+    path = get_program_path(block_name)
     if not path.exists():
         raise FileNotFoundError(f"Program file not found: {path}")
-    data = yaml.safe_load(path.read_text(encoding="utf-8"))
+    data = load_program_file(path)
     return len(data.get("workouts", []))
 
 

@@ -48,6 +48,15 @@ from .parser import (
     analyze_trends,
     get_summary_stats,
 )
+from .programs import (
+    OUTPUTS_DIR,
+    PROGRAMS_DIR,
+    format_program_set,
+    get_program_path,
+    iter_program_files,
+    load_program_file,
+    load_programs_by_name,
+)
 from .visualization import (
     generate_ascii_line_graph,
     generate_ascii_bar_chart,
@@ -86,6 +95,10 @@ __all__ = [
     # Parser
     'parse_all_workouts', 'find_all_rep_maxes', 'calculate_training_volume',
     'analyze_trends', 'get_summary_stats',
+    # Program helpers
+    'PROGRAMS_DIR', 'OUTPUTS_DIR', 'iter_program_files',
+    'load_program_file', 'load_programs_by_name', 'get_program_path',
+    'format_program_set',
     # Visualization
     'generate_ascii_line_graph', 'generate_ascii_bar_chart',
     'generate_volume_bar_chart', 'color_date', 'markdown_date_staleness',
