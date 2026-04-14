@@ -113,9 +113,10 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### Health / Recovery
 
-- Steps: 3178
-- Distance: 2.58 km
-- Total kcal burned: 1328
+- Steps: 4616
+- Distance: 3.75 km
+- Total kcal burned: 2370
+- Weight: 80 kg
 - Resting heart rate: 42 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
@@ -141,7 +142,11 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### Health / Recovery
 
-- Total kcal burned: 1672
+- Steps: 8304
+- Distance: 9.09 km
+- Total kcal burned: 2016
+- Resting heart rate: 43 bpm
+- Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
 
 **Sumo Deadlift (Paused)**
 - Set 1: 1 × 175kg @ RPE 8.5 [target_reps=1, target_intensity=[7.5, 8]RPE_range]
