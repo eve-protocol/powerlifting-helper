@@ -29,17 +29,17 @@ Comparison baseline: 2026-Q1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 8 | 54 | ↓ 46 |
-| Total sets | 26 | 188 | ↓ 162 |
-| Avg sets/session | 3.25 | 3.48 | ↓ 0.23 |
-| Avg RPE | 8.13 | 8.09 | ↑ 0.04 |
-| Avg load | 101.3kg | 97.8kg | ↑ 3.5kg |
-| Tonnage | 8372.5kg | 76450.5kg | ↓ 68078kg |
-| Avg tonnage/session | 1046.6kg | 1415.8kg | ↓ 369.2kg |
+| Sessions | 9 | 54 | ↓ 45 |
+| Total sets | 29 | 188 | ↓ 159 |
+| Avg sets/session | 3.22 | 3.48 | ↓ 0.26 |
+| Avg RPE | 8.19 | 8.09 | ↑ 0.10 |
+| Avg load | 103.9kg | 97.8kg | ↑ 6.1kg |
+| Tonnage | 8995kg | 76450.5kg | ↓ 67455.5kg |
+| Avg tonnage/session | 999.4kg | 1415.8kg | ↓ 416.4kg |
 
-- Top single: 130kg x 1 @ 8.50
+- Top single: 132.5kg x 1 @ 9.50
 - Previous top single: 135kg x 1 @ 9.50
-- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 127.5kg x 3 @ 9.50
 - Previous top work set: 125kg x 3 @ 9.50
 - Top work-set delta: ↑ 2.5kg (only meaningful when the rep scheme is comparable)

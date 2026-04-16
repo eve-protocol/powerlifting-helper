@@ -1,7 +1,7 @@
 # Historical RPE Tables
 
 Source: `values/history.json` parsed workout sets. Cells show best kg for exact (reps, integer RPE), with staleness emoji for the date of that best.
-Reference date: 2026-04-15
+Reference date: 2026-04-16
 
 > Legend: 🟢 <3mo • 🟡 3-6mo • 🟠 6-9mo • 🔴 9-12mo • 🟣 >1yr
 
@@ -30,7 +30,7 @@ Reference date: 2026-04-15
 | 2 | 122.5 🟠 | 120.0 🟠 | 122.5 🟢 | 120.0 🟢 | 112.5 🟢 |
 | 3 | 127.5 🟢 | 120.0 🟢 | 117.5 🟢 | 112.5 🟢 | 115.0 🟢 |
 | 4 | 115.0 🟡 | 112.5 🟡 | 112.5 🟡 | 107.5 🔴 | 105.0 🟡 |
-| 5 | 117.5 🟢 | 112.5 🟢 | 112.5 🟢 | 105.0 🟡 | 107.5 🟡 |
+| 5 | 117.5 🟢 | 112.5 🟢 | 112.5 🟢 | 105.0 🟠 | 107.5 🟡 |
 | 6 | 110.0 🔴 | 102.5 🟣 | 110.0 🟡 | 105.0 🟢 | 105.0 🟠 |
 | 7 | - | 115.0 🟢 | 102.5 🔴 | 100.0 🔴 | - |
 | 8 | 110.0 🟢 | - | 102.5 🟡 | - | - |
@@ -217,7 +217,7 @@ Reference date: 2026-04-15
 | 7 | - | - | - | - | - |
 | 8 | - | - | - | - | - |
 | 9 | - | - | - | - | - |
-| 10 | 80.0 🔴 | - | - | - | - |
+| 10 | 80.0 🟣 | - | - | - | - |
 
 ### Romanian Deadlift (Barbell)
 
