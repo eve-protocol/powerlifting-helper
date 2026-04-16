@@ -169,9 +169,10 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### Health / Recovery
 
-- Steps: 2977
-- Distance: 2.43 km
-- Total kcal burned: 1398
+- Steps: 3503
+- Distance: 2.86 km
+- Total kcal burned: 2282
+- Weight: 79.9 kg
 - Resting heart rate: 44 bpm
 - Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
 
@@ -197,7 +198,11 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### Health / Recovery
 
-- Total kcal burned: 1672
+- Steps: 3055
+- Distance: 2.47 km
+- Total kcal burned: 2356
+- Resting heart rate: 43 bpm
+- Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Bench Press (Barbell)**
 - Set 1: 1 × 132kg @ RPE 9.5 [target_reps=1, target_intensity=[8.5, 9]RPE_range]
