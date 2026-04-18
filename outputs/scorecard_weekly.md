@@ -478,7 +478,7 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 | Sessions | 3 | 5 | ↓ 2 |
 | Total sets | 10 | 19 | ↓ 9 |
 | Avg sets/session | 3.33 | 3.80 | ↓ 0.47 |
-| Avg RPE | 7.40 | 6.50 | ↑ 0.90 |
+| Avg RPE | 7.40 | 8.67 | ↓ 1.27 |
 | Avg load | 143kg | 132.1kg | ↑ 10.9kg |
 | Tonnage | 7085kg | 11800kg | ↓ 4715kg |
 | Avg tonnage/session | 2361.7kg | 2360kg | ↑ 1.7kg |
@@ -553,7 +553,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 19 | 9 | ↑ 10 |
 | Avg sets/session | 3.80 | 1.80 | ↑ 2 |
-| Avg RPE | 6.50 | 7.89 | ↓ 1.39 |
+| Avg RPE | 8.67 | 7.89 | ↑ 0.78 |
 | Avg load | 132.1kg | 149.4kg | ↓ 17.3kg |
 | Tonnage | 11800kg | 3380kg | ↑ 8420kg |
 | Avg tonnage/session | 2360kg | 676kg | ↑ 1684kg |
@@ -1753,7 +1753,7 @@ Comparison baseline: Peaking Block v6 / Week 2
 | Sessions | 3 | 2 | ↑ 1 |
 | Total sets | 12 | 12 | → 0 |
 | Avg sets/session | 4 | 6 | ↓ 2 |
-| Avg RPE | 7.54 | 7.33 | ↑ 0.21 |
+| Avg RPE | 7.54 | 8.25 | ↓ 0.71 |
 | Avg load | 152.1kg | 171.7kg | ↓ 19.6kg |
 | Tonnage | 6535kg | 2735kg | ↑ 3800kg |
 | Avg tonnage/session | 2178.3kg | 1367.5kg | ↑ 810.8kg |
@@ -1828,7 +1828,7 @@ Comparison baseline: Peaking Block v6 / Week 1
 | Sessions | 2 | 2 | → 0 |
 | Total sets | 12 | 10 | ↑ 2 |
 | Avg sets/session | 6 | 5 | ↑ 1 |
-| Avg RPE | 7.33 | 7.72 | ↓ 0.39 |
+| Avg RPE | 8.25 | 7.72 | ↑ 0.53 |
 | Avg load | 171.7kg | 157.2kg | ↑ 14.5kg |
 | Tonnage | 2735kg | 3307.5kg | ↓ 572.5kg |
 | Avg tonnage/session | 1367.5kg | 1653.8kg | ↓ 286.3kg |
