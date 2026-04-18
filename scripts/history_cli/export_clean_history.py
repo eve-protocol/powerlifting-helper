@@ -40,6 +40,7 @@ from powerlifting.exercises import (
     get_exercise_family,
     get_logged_rpe,
     get_logged_weight_kg,
+    is_failed_set,
 )
 
 WEEK_DAY_RE = re.compile(r'Week\s+(\d+)\s+·\s+Day\s+(\d+)')
@@ -72,6 +73,8 @@ def format_set(set_data, set_num):
         return None
 
     parts = [f"  Set {set_num}: {weight_kg}kg x {reps}"]
+    if is_failed_set(set_data):
+        parts.append("[failed]")
     if rpe != '-':
         parts.append(f"@ RPE {rpe}")
 
@@ -127,7 +130,7 @@ def extract_family_entries(workouts):
             if not family:
                 continue
             for set_data in record.get('sets', []):
-                if set_data.get('skipped', False):
+                if set_data.get('skipped', False) or is_failed_set(set_data):
                     continue
                 weight_kg = get_logged_weight_kg(set_data, rounding=0.5)
                 reps = get_completed_reps(set_data)

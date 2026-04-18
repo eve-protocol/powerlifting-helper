@@ -4,7 +4,7 @@ from collections import defaultdict
 from datetime import datetime
 
 from .e1rm import calculate_e1rm_brzycki, calculate_e1rm_rpe_adjusted
-from .exercises import get_completed_reps
+from .exercises import get_completed_reps, is_failed_set
 
 
 def _matches_filters(exercise_name, exercise_filters):
@@ -47,7 +47,7 @@ def parse_all_workouts(data, use_personal_rpe=True):
                 name = exercise.get('name', '')
                 
                 for s in exercise.get('sets', []):
-                    if s.get('skipped', False):
+                    if s.get('skipped', False) or is_failed_set(s):
                         continue
                     
                     archived_weight_lbs = s.get('archived_weight', 0)

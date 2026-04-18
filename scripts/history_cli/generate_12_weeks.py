@@ -16,7 +16,7 @@ try:
 except ModuleNotFoundError:
     from scripts.common.files import write_text_if_changed
 from health_metrics import load_health_daily, format_health_summary_block
-from powerlifting.exercises import classify_family, get_completed_reps, get_logged_weight_kg, lbs_to_kg
+from powerlifting.exercises import classify_family, get_completed_reps, get_logged_weight_kg, is_failed_set, lbs_to_kg
 
 
 def load_history(filepath):
@@ -151,20 +151,23 @@ def parse_workout_data(data, start_date, end_date):
                     target_info = format_target_info(s)
                     rpe_str = f"@ RPE {archived_rpe}" if archived_rpe else "@ RPE -"
                     
+                    failed = is_failed_set(s)
                     sets_data.append({
                         'reps': reps,
                         'weight_kg': weight_kg,
                         'rpe': archived_rpe,
                         'rpe_str': rpe_str,
-                        'target_info': target_info
+                        'target_info': target_info,
+                        'failed': failed,
                     })
                     
-                    # Track Big 3 stats
-                    set_volume = weight_kg * reps
-                    family = classify_family(exercise_name)
-                    if family in ('squat', 'bench', 'deadlift'):
-                        weeks[week_key]['stats'][family]['sets'] += 1
-                        weeks[week_key]['stats'][family]['volume'] += set_volume
+                    # Track Big 3 stats using successful sets only
+                    if not failed:
+                        set_volume = weight_kg * reps
+                        family = classify_family(exercise_name)
+                        if family in ('squat', 'bench', 'deadlift'):
+                            weeks[week_key]['stats'][family]['sets'] += 1
+                            weeks[week_key]['stats'][family]['volume'] += set_volume
                 
                 if sets_data:
                     weeks[week_key]['days'][date_str].append({
@@ -321,7 +324,8 @@ def generate_markdown(weeks, start_date, end_date, health_daily):
                 lines.append(f"**{ex['exercise']}**")
                 
                 for i, s in enumerate(ex['sets'], 1):
-                    lines.append(f"- Set {i}: {s['reps']} × {s['weight_kg']}kg {s['rpe_str']} [{s['target_info']}]")
+                    failed_tag = " [failed]" if s.get('failed') else ""
+                    lines.append(f"- Set {i}: {s['reps']} × {s['weight_kg']}kg{failed_tag} {s['rpe_str']} [{s['target_info']}]")
                 
                 lines.append("")
         

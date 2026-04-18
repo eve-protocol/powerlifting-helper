@@ -19,7 +19,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W16 | 9 (-2) | 11 (-1) | 12 (+2) |
+| 2026-W16 | 9 (-2) | 11 (-1) | 8 (-2) |
 | 2026-W15 | 11 (+1) | 12 (-2) | 10 (-3) |
 | 2026-W14 | 10 (=) | 14 (-1) | 13 (=) |
 | 2026-W13 | 10 (-1) | 15 (=) | 13 (=) |
@@ -37,7 +37,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W16  │   3742kg  (-683) │   3047kg  (-532) │   2735kg  (-566)
+2026-W16  │   3742kg  (-683) │   3047kg  (-532) │   2015kg (-1286)
 2026-W15  │   4425kg  (-490) │   3579kg (-1819) │   3301kg (-3751)
 2026-W14  │   4915kg   (+45) │   5398kg   (-49) │   7052kg  (+143)
 2026-W13  │   4870kg  (-366) │   5447kg   (+55) │   6909kg  (+141)
@@ -87,7 +87,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Deadlift Volume (kg)**
 ```
-2026-W16 │██████░░░░░░░░░░░░░░░░░░░│ 2,735kg
+2026-W16 │████░░░░░░░░░░░░░░░░░░░░░│ 2,015kg
 2026-W15 │███████░░░░░░░░░░░░░░░░░░│ 3,301kg
 2026-W14 │███████████████░░░░░░░░░░│ 7,052kg
 2026-W13 │███████████████░░░░░░░░░░│ 6,909kg
@@ -107,17 +107,16 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ## 2026-W16
 
-**Weekly Summary:** Squat: 9 sets / 3,742kg | Bench: 11 sets / 3,047kg | Deadlift: 12 sets / 2,735kg
+**Weekly Summary:** Squat: 9 sets / 3,742kg | Bench: 11 sets / 3,047kg | Deadlift: 8 sets / 2,015kg
 
 ### 2026-04-13 (Monday)
 
 ### Health / Recovery
 
-- Steps: 4616
-- Distance: 3.75 km
-- Total kcal burned: 2370
-- Weight: 80 kg
-- Resting heart rate: 42 bpm
+- Steps: 3178
+- Distance: 2.58 km
+- Total kcal burned: 1328
+- Resting heart rate: 44 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Squat (Low Bar)**
@@ -140,15 +139,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-14 (Tuesday)
 
-### Health / Recovery
-
-- Steps: 9341
-- Distance: 10.01 km
-- Total kcal burned: 2990
-- Weight: 80 kg
-- Resting heart rate: 43 bpm
-- Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
-
 **Sumo Deadlift (Paused)**
 - Set 1: 1 × 175kg @ RPE 8.5 [target_reps=1, target_intensity=[7.5, 8]RPE_range]
 - Set 2: 1 × 160kg @ RPE - [target_reps=3, target_intensity=[7, 7.5]RPE_range]
@@ -166,15 +156,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 2: 15 × 10kg @ RPE 8.5 [target_reps=12, target_intensity=[7.5, 8]RPE_range]
 
 ### 2026-04-15 (Wednesday)
-
-### Health / Recovery
-
-- Steps: 3503
-- Distance: 2.86 km
-- Total kcal burned: 2282
-- Weight: 79.9 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
 
 **Squat (Low Bar)**
 - Set 1: 3 × 147kg @ RPE 7 [target_reps=3, target_intensity=[6.5, 7]RPE_range]
@@ -195,14 +176,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 4: 10 × 55kg @ RPE 7.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range]
 
 ### 2026-04-16 (Thursday)
-
-### Health / Recovery
-
-- Steps: 3055
-- Distance: 2.47 km
-- Total kcal burned: 2356
-- Resting heart rate: 43 bpm
-- Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Bench Press (Barbell)**
 - Set 1: 1 × 132kg @ RPE 9.5 [target_reps=1, target_intensity=[8.5, 9]RPE_range]
@@ -227,16 +200,12 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-18 (Saturday)
 
-### Health / Recovery
-
-- Total kcal burned: 1672
-
 **Sumo Deadlift (Barbell)**
-- Set 1: 1 × 170kg @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]
-- Set 2: 1 × 170kg @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]
+- Set 1: 1 × 170kg [failed] @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]
+- Set 2: 1 × 170kg [failed] @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]
 - Set 3: 1 × 170kg @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]
-- Set 4: 1 × 190kg @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]
-- Set 5: 1 × 190kg @ RPE - [target_reps=1, target_intensity=[8.5, 9]RPE_range]
+- Set 4: 1 × 190kg [failed] @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]
+- Set 5: 1 × 190kg [failed] @ RPE - [target_reps=1, target_intensity=[8.5, 9]RPE_range]
 - Set 6: 2 × 175kg @ RPE 8 [target_reps=2, target_intensity=[7.5, 8]RPE_range]
 - Set 7: 2 × 180kg @ RPE 8.5 [target_reps=2, target_intensity=[7.5, 8]RPE_range]
 

@@ -3,13 +3,18 @@
 LBS_TO_KG = 0.453592
 
 
+def is_failed_set(set_data):
+    """Return True when Boostcamp marks the set as a failed attempt."""
+    return set_data.get('setStatus') == 'failure'
+
+
 def get_completed_reps(set_data):
     """Return completed reps for a set.
 
     Boostcamp can mark partial attempts with ``setStatus='failure'`` while still
-    storing the actually completed reps in ``archived_reps``. We want training
-    history, tonnage, and rep PR logic to count the reps that were actually
-    completed, not the attempted rep target in ``amount``.
+    storing the actually completed reps in ``archived_reps``. We use that field
+    for display so failed attempts can still show the actual bar weight/reps that
+    happened, while success-based analytics can exclude those sets separately.
     """
     archived_reps = set_data.get('archived_reps')
     if archived_reps not in (None, ''):
