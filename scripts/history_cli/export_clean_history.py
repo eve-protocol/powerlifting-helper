@@ -34,7 +34,13 @@ from health_metrics import (
     summarize_health_group,
     format_health_summary_block,
 )
-from powerlifting.exercises import MAIN_LIFT_VARIATIONS, get_exercise_family, lbs_to_kg
+from powerlifting.exercises import (
+    MAIN_LIFT_VARIATIONS,
+    get_completed_reps,
+    get_exercise_family,
+    get_logged_rpe,
+    get_logged_weight_kg,
+)
 
 WEEK_DAY_RE = re.compile(r'Week\s+(\d+)\s+·\s+Day\s+(\d+)')
 
@@ -55,9 +61,9 @@ def parse_week_day(title):
 
 
 def format_set(set_data, set_num):
-    weight_kg = lbs_to_kg(set_data.get('archived_weight'), rounding=0.5)
-    reps = set_data.get('archived_reps', 0)
-    rpe = set_data.get('archived_rpe') or set_data.get('previous_rpe') or '-'
+    weight_kg = get_logged_weight_kg(set_data, rounding=0.5)
+    reps = get_completed_reps(set_data)
+    rpe = get_logged_rpe(set_data) or '-'
 
     target_reps = set_data.get('target')
     target_rpe = set_data.get('intensity')
@@ -123,9 +129,9 @@ def extract_family_entries(workouts):
             for set_data in record.get('sets', []):
                 if set_data.get('skipped', False):
                     continue
-                weight_kg = lbs_to_kg(set_data.get('archived_weight'), rounding=0.5)
-                reps = set_data.get('archived_reps', 0)
-                rpe = set_data.get('archived_rpe') or set_data.get('previous_rpe')
+                weight_kg = get_logged_weight_kg(set_data, rounding=0.5)
+                reps = get_completed_reps(set_data)
+                rpe = get_logged_rpe(set_data)
                 if not reps or not weight_kg:
                     continue
                 entries.append({

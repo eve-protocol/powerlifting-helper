@@ -16,7 +16,7 @@ try:
 except ModuleNotFoundError:
     from scripts.common.files import write_text_if_changed
 from health_metrics import load_health_daily, format_health_summary_block
-from powerlifting.exercises import classify_family, lbs_to_kg
+from powerlifting.exercises import classify_family, get_completed_reps, get_logged_weight_kg, lbs_to_kg
 
 
 def load_history(filepath):
@@ -135,14 +135,13 @@ def parse_workout_data(data, start_date, end_date):
                     if s.get('skipped', False):
                         continue
                     
-                    archived_weight = s.get('archived_weight', 0)
-                    archived_reps = s.get('archived_reps', s.get('amount', 0))
                     archived_rpe = s.get('archived_rpe')
+                    completed_reps = get_completed_reps(s)
                     
-                    weight_kg = lbs_to_kg(archived_weight, rounding=1)
+                    weight_kg = get_logged_weight_kg(s, rounding=1)
                     
                     try:
-                        reps = int(archived_reps) if archived_reps else 0
+                        reps = int(completed_reps) if completed_reps else 0
                     except (ValueError, TypeError):
                         reps = 0
                     

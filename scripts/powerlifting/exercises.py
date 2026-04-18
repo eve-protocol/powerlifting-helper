@@ -2,6 +2,30 @@
 
 LBS_TO_KG = 0.453592
 
+
+def get_completed_reps(set_data):
+    """Return completed reps for a set.
+
+    Boostcamp can mark partial attempts with ``setStatus='failure'`` while still
+    storing the actually completed reps in ``archived_reps``. We want training
+    history, tonnage, and rep PR logic to count the reps that were actually
+    completed, not the attempted rep target in ``amount``.
+    """
+    archived_reps = set_data.get('archived_reps')
+    if archived_reps not in (None, ''):
+        return archived_reps
+    return set_data.get('amount', 0)
+
+
+def get_logged_rpe(set_data):
+    """Return the best available logged RPE for a set."""
+    return set_data.get('archived_rpe') or set_data.get('previous_rpe') or set_data.get('rpe')
+
+
+def get_logged_weight_kg(set_data, rounding=0.5):
+    """Return the logged set weight in kg from archived source-of-truth data."""
+    return lbs_to_kg(set_data.get('archived_weight'), rounding=rounding)
+
 EXERCISE_FAMILY_MAP = {
     # squat family
     'Squat (Low Bar)': 'squat',

@@ -4,6 +4,7 @@ from collections import defaultdict
 from datetime import datetime
 
 from .e1rm import calculate_e1rm_brzycki, calculate_e1rm_rpe_adjusted
+from .exercises import get_completed_reps
 
 
 def _matches_filters(exercise_name, exercise_filters):
@@ -50,12 +51,12 @@ def parse_all_workouts(data, use_personal_rpe=True):
                         continue
                     
                     archived_weight_lbs = s.get('archived_weight', 0)
-                    archived_reps = s.get('archived_reps', s.get('amount', 0))
+                    completed_reps = get_completed_reps(s)
                     rpe = s.get('archived_rpe', s.get('rpe', None))
                     
                     try:
                         weight = float(archived_weight_lbs) / 2.20462
-                        reps = int(archived_reps) if archived_reps else 0
+                        reps = int(completed_reps) if completed_reps else 0
                     except (ValueError, TypeError):
                         continue
                     
