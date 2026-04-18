@@ -113,10 +113,11 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### Health / Recovery
 
-- Steps: 3178
-- Distance: 2.58 km
-- Total kcal burned: 1328
-- Resting heart rate: 44 bpm
+- Steps: 4616
+- Distance: 3.75 km
+- Total kcal burned: 2370
+- Weight: 80 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Squat (Low Bar)**
@@ -139,6 +140,15 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-14 (Tuesday)
 
+### Health / Recovery
+
+- Steps: 9341
+- Distance: 10.01 km
+- Total kcal burned: 2990
+- Weight: 80 kg
+- Resting heart rate: 43 bpm
+- Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
+
 **Sumo Deadlift (Paused)**
 - Set 1: 1 × 175kg @ RPE 8.5 [target_reps=1, target_intensity=[7.5, 8]RPE_range]
 - Set 2: 1 × 160kg @ RPE - [target_reps=3, target_intensity=[7, 7.5]RPE_range]
@@ -156,6 +166,15 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 2: 15 × 10kg @ RPE 8.5 [target_reps=12, target_intensity=[7.5, 8]RPE_range]
 
 ### 2026-04-15 (Wednesday)
+
+### Health / Recovery
+
+- Steps: 3503
+- Distance: 2.86 km
+- Total kcal burned: 2282
+- Weight: 79.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
 
 **Squat (Low Bar)**
 - Set 1: 3 × 147kg @ RPE 7 [target_reps=3, target_intensity=[6.5, 7]RPE_range]
@@ -176,6 +195,14 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 4: 10 × 55kg @ RPE 7.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range]
 
 ### 2026-04-16 (Thursday)
+
+### Health / Recovery
+
+- Steps: 3055
+- Distance: 2.47 km
+- Total kcal burned: 2356
+- Resting heart rate: 43 bpm
+- Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Bench Press (Barbell)**
 - Set 1: 1 × 132kg @ RPE 9.5 [target_reps=1, target_intensity=[8.5, 9]RPE_range]
@@ -199,6 +226,10 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 2: 10 × 35kg @ RPE 8.5 [no_target]
 
 ### 2026-04-18 (Saturday)
+
+### Health / Recovery
+
+- Total kcal burned: 1672
 
 **Sumo Deadlift (Barbell)**
 - Set 1: 1 × 170kg [failed] @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]
