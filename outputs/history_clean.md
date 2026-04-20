@@ -2,6 +2,32 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-20
+
+### Health / Recovery
+
+- Total kcal burned: 1672
+
+**Week 3 · Day 1**
+Finished: 2026-04-20 10:03:11
+
+### Squat (Low Bar)
+
+  Set 1: 165.0kg x 1 @ RPE 9 [target RPE: 8.5-9]
+  Set 2: 160.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
+  Set 3: 160.0kg x 1 @ RPE 8.5 [target RPE: 7-7.5]
+
+### Bench Press (Paused)
+
+  Set 1: 125.0kg x 1 @ RPE 9 [target RPE: 8-8.5]
+  Set 2: 115.0kg x 2 @ RPE 7 [target RPE: 6.5-7]
+  Set 3: 115.0kg x 2 @ RPE 7.5 [target RPE: 6.5-7]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 8 [target RPE: 7-7.5]
+  Set 2: 25.0kg x 5 @ RPE 8 [target RPE: 7-7.5]
+
 ## 2026-04-18
 
 ### Health / Recovery
