@@ -1712,19 +1712,19 @@ Comparison baseline: Peaking Block v6 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 1 | ↑ 2 |
-| Total sets | 10 | 3 | ↑ 7 |
-| Avg sets/session | 3.33 | 3 | ↑ 0.33 |
-| Avg RPE | 7.95 | 8.50 | ↓ 0.55 |
-| Avg load | 134.2kg | 161.7kg | ↓ 27.5kg |
-| Tonnage | 4092.5kg | 485kg | ↑ 3607.5kg |
-| Avg tonnage/session | 1364.2kg | 485kg | ↑ 879.2kg |
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 10 | 5 | ↑ 5 |
+| Avg sets/session | 3.33 | 2.50 | ↑ 0.83 |
+| Avg RPE | 7.95 | 7.70 | ↑ 0.25 |
+| Avg load | 134.2kg | 155kg | ↓ 20.8kg |
+| Tonnage | 4092.5kg | 1065kg | ↑ 3027.5kg |
+| Avg tonnage/session | 1364.2kg | 532.5kg | ↑ 831.7kg |
 
 - Top single: 155kg x 1 @ 9.50
 - Previous top single: 165kg x 1 @ 9
 - Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
 - Top work set: 142.5kg x 3 @ 8.50
-- Previous top work set: -
+- Previous top work set: 145kg x 2 @ 6.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
@@ -1787,20 +1787,20 @@ Comparison baseline: Peaking Block v6 / Week 2
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 3 | ↓ 2 |
-| Total sets | 3 | 9 | ↓ 6 |
-| Avg sets/session | 3 | 3 | → 0 |
-| Avg RPE | 8.50 | 7.75 | ↑ 0.75 |
-| Avg load | 161.7kg | 147.2kg | ↑ 14.5kg |
-| Tonnage | 485kg | 3747.5kg | ↓ 3262.5kg |
-| Avg tonnage/session | 485kg | 1249.2kg | ↓ 764.2kg |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 5 | 9 | ↓ 4 |
+| Avg sets/session | 2.50 | 3 | ↓ 0.50 |
+| Avg RPE | 7.70 | 7.75 | ↓ 0.05 |
+| Avg load | 155kg | 147.2kg | ↑ 7.8kg |
+| Tonnage | 1065kg | 3747.5kg | ↓ 2682.5kg |
+| Avg tonnage/session | 532.5kg | 1249.2kg | ↓ 716.7kg |
 
 - Top single: 165kg x 1 @ 9
 - Previous top single: 165kg x 1 @ 8.50
 - Top single delta: → 0kg (only meaningful when the variation is comparable)
-- Top work set: -
+- Top work set: 145kg x 2 @ 6.50
 - Previous top work set: 155kg x 2 @ 8
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↓ 10kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 

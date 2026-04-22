@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-02-02 to 2026-04-21
+**Period:** 2026-02-02 to 2026-04-22
 ---
 
 ## Format Guide
@@ -19,7 +19,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W17 | 3 (-6) | 5 (-6) | 3 (-5) |
+| 2026-W17 | 5 (-4) | 5 (-6) | 3 (-5) |
 | 2026-W16 | 9 (-2) | 11 (-1) | 8 (-2) |
 | 2026-W15 | 11 (+1) | 12 (-2) | 10 (-3) |
 | 2026-W14 | 10 (=) | 14 (-1) | 13 (=) |
@@ -37,7 +37,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W17  │    485kg (-3257) │    985kg (-2062) │    835kg (-1180)
+2026-W17  │   1065kg (-2677) │    985kg (-2062) │    835kg (-1180)
 2026-W16  │   3742kg  (-683) │   3047kg  (-532) │   2015kg (-1286)
 2026-W15  │   4425kg  (-490) │   3579kg (-1819) │   3301kg (-3751)
 2026-W14  │   4915kg   (+45) │   5398kg   (-49) │   7052kg  (+143)
@@ -55,7 +55,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Squat Volume (kg)**
 ```
-2026-W17 │█░░░░░░░░░░░░░░░░░░░░░░░░│ 485kg
+2026-W17 │██░░░░░░░░░░░░░░░░░░░░░░░│ 1,065kg
 2026-W16 │████████░░░░░░░░░░░░░░░░░│ 3,742kg
 2026-W15 │██████████░░░░░░░░░░░░░░░│ 4,425kg
 2026-W14 │███████████░░░░░░░░░░░░░░│ 4,915kg
@@ -107,7 +107,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ## 2026-W17
 
-**Weekly Summary:** Squat: 3 sets / 485kg | Bench: 5 sets / 985kg | Deadlift: 3 sets / 835kg
+**Weekly Summary:** Squat: 5 sets / 1,065kg | Bench: 5 sets / 985kg | Deadlift: 3 sets / 835kg
 
 ### 2026-04-20 (Monday)
 
@@ -156,6 +156,12 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 **Lateral Raise (Dumbbell)**
 - Set 1: 15 × 10kg @ RPE 8 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
 - Set 2: 12 × 10kg @ RPE 8.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+
+### 2026-04-22 (Wednesday)
+
+**Squat (Low Bar)**
+- Set 1: 2 × 145kg @ RPE 6.5 [target_reps=2, target_intensity=[6, 6.5]RPE_range]
+- Set 2: 2 × 145kg @ RPE 6.5 [target_reps=2, target_intensity=[6, 6.5]RPE_range]
 
 ---
 

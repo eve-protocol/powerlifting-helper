@@ -191251,6 +191251,116 @@
         "type": 1,
         "name": "Peaking Block v6"
       }
+    ],
+    "2026-04-22": [
+      {
+        "program_id": "user-eff5832d-049f-4a7e-acdf-8f70acefaed1",
+        "id": "DajHmQP07hUgDN7V",
+        "user_id": "l8XHYRXwevhoJf4XffuZyECxgMP2",
+        "finished_at": "2026-04-22 21:13:57",
+        "day": 2,
+        "week": 2,
+        "workout": "{}",
+        "records": [
+          {
+            "id": "983fe447-c922-4b46-8d61-d351dd4eebfa",
+            "name": "Squat (Low Bar)",
+            "sets": [
+              {
+                "from": "app",
+                "value": "145",
+                "amount": "2",
+                "custom": false,
+                "source": "user",
+                "target": 2,
+                "skipped": false,
+                "intensity": [
+                  6,
+                  6.5
+                ],
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 6.5,
+                "previous_rpe": 9,
+                "archived_reps": 2,
+                "previous_reps": 1,
+                "intensity_unit": "RPE_range",
+                "archived_weight": 319.670277,
+                "previous_weight": 363.762729,
+                "support_distance": false
+              },
+              {
+                "from": "app",
+                "value": "145",
+                "amount": "2",
+                "custom": false,
+                "source": "user",
+                "target": 2,
+                "skipped": false,
+                "intensity": [
+                  6,
+                  6.5
+                ],
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 6.5,
+                "previous_rpe": 8,
+                "archived_reps": 2,
+                "previous_reps": 1,
+                "intensity_unit": "RPE_range",
+                "archived_weight": 319.670277,
+                "previous_weight": 352.739616,
+                "support_distance": false
+              }
+            ],
+            "type": "Barbell",
+            "uniq": "dd416512-47f9-4f2b-a806-f83ef143b407",
+            "video": "https://s3.boostcamp.app/master-exercise/3868392953.mp4",
+            "custom": false,
+            "source": "coach",
+            "muscles": [
+              "Legs"
+            ],
+            "target_type": "reps",
+            "alternatives": [],
+            "muscles_list": [
+              {
+                "muscle": "Quadriceps",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Glutes",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Hamstrings",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Adductors",
+                "percent": "50%"
+              },
+              {
+                "muscle": "Abs",
+                "percent": "50%"
+              }
+            ],
+            "support_distance": false
+          }
+        ],
+        "legacy": {},
+        "title": "Week 3 · Day 3",
+        "type": 1,
+        "name": "Peaking Block v6"
+      }
     ]
   },
   "code": 200

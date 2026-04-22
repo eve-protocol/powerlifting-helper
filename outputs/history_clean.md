@@ -2,6 +2,16 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-22
+
+**Week 3 · Day 3**
+Finished: 2026-04-22 21:13:57
+
+### Squat (Low Bar)
+
+  Set 1: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5]
+  Set 2: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5]
+
 ## 2026-04-21
 
 ### Health / Recovery
