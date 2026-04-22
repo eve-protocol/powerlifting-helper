@@ -2,6 +2,36 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-23
+
+### Health / Recovery
+
+- Total kcal burned: 14
+
+**Week 3 · Day 4**
+Finished: 2026-04-23 07:56:26
+
+### Bench Press (Barbell)
+
+  Set 1: 132.5kg x 1 @ RPE 8.5 [target RPE: 8.5-9]
+  Set 2: 125.0kg x 1 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 3: 125.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 2: 25.0kg x 5 @ RPE 8 [target RPE: 7-7.5]
+
+### Bicep Curl (EZ Bar)
+
+  Set 1: 15.0kg x 15 @ RPE 7 [target RPE: 6-6.5]
+  Set 2: 15.0kg x 15 @ RPE 8.5 [target RPE: 6-6.5]
+
+### Chest Fly (Machine)
+
+  Set 1: 70.0kg x 15 @ RPE 6
+  Set 2: 80.0kg x 15 @ RPE 7
+
 ## 2026-04-22
 
 ### Health / Recovery
