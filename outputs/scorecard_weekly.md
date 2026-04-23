@@ -1770,12 +1770,12 @@ Comparison baseline: Peaking Block v6 / Week 3
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Days with data | 6 | 4 | ↑ 2 |
-| Avg steps/day | 8554 | 16169 | ↓ 7615 |
-| Avg distance/day | 5.91km | 13.15km | ↓ 7.24km |
-| Avg kcal/day | 1950 | 2096 | ↓ 146 |
-| Avg bodyweight | 77.8kg | 79.5kg | ↓ 1.7kg |
-| Avg resting HR | 44bpm | 41.7bpm | ↑ 2.3bpm |
-| Avg sleep | 7.87h | 6.24h | ↑ 1.63h |
+| Avg steps/day | 8554 | 17688 | ↓ 9134 |
+| Avg distance/day | 5.91km | 14.37km | ↓ 8.46km |
+| Avg kcal/day | 1950 | 2768 | ↓ 818 |
+| Avg bodyweight | 77.8kg | 79.8kg | ↓ 2kg |
+| Avg resting HR | 44bpm | 42bpm | ↑ 2bpm |
+| Avg sleep | 7.87h | 6.21h | ↑ 1.66h |
 
 - Latest health date in period: 2026-01-03
 
@@ -1845,12 +1845,12 @@ Comparison baseline: Peaking Block v6 / Week 2
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Days with data | 4 | 6 | ↓ 2 |
-| Avg steps/day | 16169 | 6734 | ↑ 9435 |
-| Avg distance/day | 13.15km | 5.88km | ↑ 7.27km |
-| Avg kcal/day | 2096 | 2501 | ↓ 405 |
-| Avg bodyweight | 79.5kg | 80kg | ↓ 0.5kg |
-| Avg resting HR | 41.7bpm | 43bpm | ↓ 1.3bpm |
-| Avg sleep | 6.24h | 7.14h | ↓ 0.90h |
+| Avg steps/day | 17688 | 6734 | ↑ 10954 |
+| Avg distance/day | 14.37km | 5.88km | ↑ 8.49km |
+| Avg kcal/day | 2768 | 2501 | ↑ 267 |
+| Avg bodyweight | 79.8kg | 80kg | ↓ 0.1kg |
+| Avg resting HR | 42bpm | 43bpm | ↓ 1bpm |
+| Avg sleep | 6.21h | 7.14h | ↓ 0.93h |
 
 - Latest health date in period: 2026-04-23
 
