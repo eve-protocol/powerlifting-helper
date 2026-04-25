@@ -140,7 +140,7 @@ Comparison baseline: Volume Block v4 / Week 1
 | Sessions | 3 | 1 | ↑ 2 |
 | Total sets | 11 | 3 | ↑ 8 |
 | Avg sets/session | 3.67 | 3 | ↑ 0.67 |
-| Avg RPE | 6.64 | 6.50 | ↑ 0.14 |
+| Avg RPE | 6.64 | 6 | ↑ 0.64 |
 | Avg load | 139.3kg | 135kg | ↑ 4.3kg |
 | Tonnage | 7432.5kg | 2430kg | ↑ 5002.5kg |
 | Avg tonnage/session | 2477.5kg | 2430kg | ↑ 47.5kg |
@@ -215,7 +215,7 @@ Comparison baseline: Volume Block v3 / Week 1
 | Sessions | 1 | 2 | ↓ 1 |
 | Total sets | 3 | 9 | ↓ 6 |
 | Avg sets/session | 3 | 4.50 | ↓ 1.50 |
-| Avg RPE | 6.50 | 7.28 | ↓ 0.78 |
+| Avg RPE | 6 | 7.28 | ↓ 1.28 |
 | Avg load | 135kg | 137.8kg | ↓ 2.8kg |
 | Tonnage | 2430kg | 5580kg | ↓ 3150kg |
 | Avg tonnage/session | 2430kg | 2790kg | ↓ 360kg |
@@ -440,7 +440,7 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 | Sessions | 3 | 5 | ↓ 2 |
 | Total sets | 10 | 20 | ↓ 10 |
 | Avg sets/session | 3.33 | 4 | ↓ 0.67 |
-| Avg RPE | 7.40 | 8.50 | ↓ 1.10 |
+| Avg RPE | 7.40 | 7.50 | ↓ 0.10 |
 | Avg load | 125.8kg | 113.6kg | ↑ 12.2kg |
 | Tonnage | 6020kg | 9412.5kg | ↓ 3392.5kg |
 | Avg tonnage/session | 2006.7kg | 1882.5kg | ↑ 124.2kg |
@@ -449,7 +449,7 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 132.5kg x 5 @ 7.50
-- Previous top work set: 125kg x 5 @ 9
+- Previous top work set: 125kg x 5 @ -
 - Top work-set delta: ↑ 7.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
@@ -459,7 +459,7 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 | Sessions | 4 | 5 | ↓ 1 |
 | Total sets | 15 | 19 | ↓ 4 |
 | Avg sets/session | 3.75 | 3.80 | ↓ 0.05 |
-| Avg RPE | 7.50 | 7.91 | ↓ 0.41 |
+| Avg RPE | 7.50 | 7.78 | ↓ 0.28 |
 | Avg load | 89.7kg | 90.7kg | ↓ 1kg |
 | Tonnage | 8315kg | 7952.5kg | ↑ 362.5kg |
 | Avg tonnage/session | 2078.8kg | 1590.5kg | ↑ 488.3kg |
@@ -478,7 +478,7 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 | Sessions | 3 | 5 | ↓ 2 |
 | Total sets | 10 | 19 | ↓ 9 |
 | Avg sets/session | 3.33 | 3.80 | ↓ 0.47 |
-| Avg RPE | 7.40 | 8.67 | ↓ 1.27 |
+| Avg RPE | 7.40 | - | n/a |
 | Avg load | 143kg | 132.1kg | ↑ 10.9kg |
 | Tonnage | 7085kg | 11800kg | ↓ 4715kg |
 | Avg tonnage/session | 2361.7kg | 2360kg | ↑ 1.7kg |
@@ -515,7 +515,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 20 | 7 | ↑ 13 |
 | Avg sets/session | 4 | 1.40 | ↑ 2.60 |
-| Avg RPE | 8.50 | 8.14 | ↑ 0.36 |
+| Avg RPE | 7.50 | 8.14 | ↓ 0.64 |
 | Avg load | 113.6kg | 146.8kg | ↓ 33.2kg |
 | Tonnage | 9412.5kg | 1547.5kg | ↑ 7865kg |
 | Avg tonnage/session | 1882.5kg | 309.5kg | ↑ 1573kg |
@@ -523,7 +523,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 - Top single: -
 - Previous top single: 160kg x 1 @ 9.50
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 125kg x 5 @ 9
+- Top work set: 125kg x 5 @ -
 - Previous top work set: 130kg x 3 @ 6.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -534,7 +534,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 19 | 16 | ↑ 3 |
 | Avg sets/session | 3.80 | 3.20 | ↑ 0.60 |
-| Avg RPE | 7.91 | 8.38 | ↓ 0.47 |
+| Avg RPE | 7.78 | 8.38 | ↓ 0.60 |
 | Avg load | 90.7kg | 103kg | ↓ 12.3kg |
 | Tonnage | 7952.5kg | 3287.5kg | ↑ 4665kg |
 | Avg tonnage/session | 1590.5kg | 657.5kg | ↑ 933kg |
@@ -553,7 +553,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 19 | 9 | ↑ 10 |
 | Avg sets/session | 3.80 | 1.80 | ↑ 2 |
-| Avg RPE | 8.67 | 7.89 | ↑ 0.78 |
+| Avg RPE | - | 7.81 | n/a |
 | Avg load | 132.1kg | 149.4kg | ↓ 17.3kg |
 | Tonnage | 11800kg | 3380kg | ↑ 8420kg |
 | Avg tonnage/session | 2360kg | 676kg | ↑ 1684kg |
@@ -590,7 +590,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 3
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 7 | 21 | ↓ 14 |
 | Avg sets/session | 1.40 | 4.20 | ↓ 2.80 |
-| Avg RPE | 8.14 | 7.05 | ↑ 1.09 |
+| Avg RPE | 8.14 | 7.10 | ↑ 1.04 |
 | Avg load | 146.8kg | 130.4kg | ↑ 16.4kg |
 | Tonnage | 1547.5kg | 9722.5kg | ↓ 8175kg |
 | Avg tonnage/session | 309.5kg | 1944.5kg | ↓ 1635kg |
@@ -599,7 +599,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 3
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 130kg x 3 @ 6.50
-- Previous top work set: 147.5kg x 3 @ 6
+- Previous top work set: 147.5kg x 3 @ -
 - Top work-set delta: ↓ 17.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
@@ -628,7 +628,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 3
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 9 | 19 | ↓ 10 |
 | Avg sets/session | 1.80 | 3.80 | ↓ 2 |
-| Avg RPE | 7.89 | 7.21 | ↑ 0.68 |
+| Avg RPE | 7.81 | 7.21 | ↑ 0.60 |
 | Avg load | 149.4kg | 141.6kg | ↑ 7.8kg |
 | Tonnage | 3380kg | 10095kg | ↓ 6715kg |
 | Avg tonnage/session | 676kg | 2019kg | ↓ 1343kg |
@@ -665,7 +665,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 2
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 21 | 21 | → 0 |
 | Avg sets/session | 4.20 | 4.20 | → 0 |
-| Avg RPE | 7.05 | 6.83 | ↑ 0.22 |
+| Avg RPE | 7.10 | 6.83 | ↑ 0.27 |
 | Avg load | 130.4kg | 129.6kg | ↑ 0.8kg |
 | Tonnage | 9722.5kg | 10111kg | ↓ 388.5kg |
 | Avg tonnage/session | 1944.5kg | 2022.2kg | ↓ 77.7kg |
@@ -673,7 +673,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 2
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 147.5kg x 3 @ 6
+- Top work set: 147.5kg x 3 @ -
 - Previous top work set: 142.5kg x 3 @ 7.50
 - Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
@@ -759,7 +759,7 @@ Comparison baseline: Ultra Frequency Building Block / Week 1
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 20 | 20 | → 0 |
 | Avg sets/session | 4 | 4 | → 0 |
-| Avg RPE | 6.68 | 6.33 | ↑ 0.35 |
+| Avg RPE | 6.68 | 6.12 | ↑ 0.56 |
 | Avg load | 95.7kg | 90.2kg | ↑ 5.5kg |
 | Tonnage | 8052kg | 7870kg | ↑ 182kg |
 | Avg tonnage/session | 1610.4kg | 1574kg | ↑ 36.4kg |
@@ -834,7 +834,7 @@ Comparison baseline: Transmutation Block / Week 4
 | Sessions | 5 | 4 | ↑ 1 |
 | Total sets | 20 | 12 | ↑ 8 |
 | Avg sets/session | 4 | 3 | ↑ 1 |
-| Avg RPE | 6.33 | 8.65 | ↓ 2.32 |
+| Avg RPE | 6.12 | 8.61 | ↓ 2.49 |
 | Avg load | 90.2kg | 100.2kg | ↓ 10kg |
 | Tonnage | 7870kg | 3327.5kg | ↑ 4542.5kg |
 | Avg tonnage/session | 1574kg | 831.9kg | ↑ 742.1kg |
@@ -853,7 +853,7 @@ Comparison baseline: Transmutation Block / Week 4
 | Sessions | 5 | 3 | ↑ 2 |
 | Total sets | 19 | 15 | ↑ 4 |
 | Avg sets/session | 3.80 | 5 | ↓ 1.20 |
-| Avg RPE | 6.47 | 8.23 | ↓ 1.76 |
+| Avg RPE | 6.47 | 8.79 | ↓ 2.32 |
 | Avg load | 131.1kg | 146.3kg | ↓ 15.2kg |
 | Tonnage | 10555kg | 5975kg | ↑ 4580kg |
 | Avg tonnage/session | 2111kg | 1991.7kg | ↑ 119.3kg |
@@ -909,7 +909,7 @@ Comparison baseline: Transmutation Block / Week 3
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 12 | 15 | ↓ 3 |
 | Avg sets/session | 3 | 3.75 | ↓ 0.75 |
-| Avg RPE | 8.65 | 8.12 | ↑ 0.53 |
+| Avg RPE | 8.61 | 8.12 | ↑ 0.49 |
 | Avg load | 100.2kg | 100kg | ↑ 0.2kg |
 | Tonnage | 3327.5kg | 4860kg | ↓ 1532.5kg |
 | Avg tonnage/session | 831.9kg | 1215kg | ↓ 383.1kg |
@@ -928,7 +928,7 @@ Comparison baseline: Transmutation Block / Week 3
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 15 | 11 | ↑ 4 |
 | Avg sets/session | 5 | 3.67 | ↑ 1.33 |
-| Avg RPE | 8.23 | 8.18 | ↑ 0.05 |
+| Avg RPE | 8.79 | 8.18 | ↑ 0.61 |
 | Avg load | 146.3kg | 147.5kg | ↓ 1.2kg |
 | Tonnage | 5975kg | 5705kg | ↑ 270kg |
 | Avg tonnage/session | 1991.7kg | 1901.7kg | ↑ 90kg |
@@ -1415,7 +1415,7 @@ Comparison baseline: Strength Block v2 / Week 4
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 11 | 12 | ↓ 1 |
 | Avg sets/session | 3.67 | 4 | ↓ 0.33 |
-| Avg RPE | 7.09 | 7.21 | ↓ 0.12 |
+| Avg RPE | 7.09 | 7.14 | ↓ 0.05 |
 | Avg load | 143.2kg | 127.3kg | ↑ 15.9kg |
 | Tonnage | 5240kg | 8205kg | ↓ 2965kg |
 | Avg tonnage/session | 1746.7kg | 2735kg | ↓ 988.3kg |
@@ -1453,7 +1453,7 @@ Comparison baseline: Strength Block v2 / Week 4
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 13 | 10 | ↑ 3 |
 | Avg sets/session | 4.33 | 3.33 | ↑ 1 |
-| Avg RPE | 7.15 | 7.45 | ↓ 0.30 |
+| Avg RPE | 7.15 | 7.08 | ↑ 0.07 |
 | Avg load | 160.8kg | 142.5kg | ↑ 18.3kg |
 | Tonnage | 6770kg | 6930kg | ↓ 160kg |
 | Avg tonnage/session | 2256.7kg | 2310kg | ↓ 53.3kg |
@@ -1490,7 +1490,7 @@ Comparison baseline: Strength Block v2 / Week 3
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 9 | ↑ 3 |
 | Avg sets/session | 4 | 3 | ↑ 1 |
-| Avg RPE | 7.21 | 8.62 | ↓ 1.41 |
+| Avg RPE | 7.14 | 8.50 | ↓ 1.36 |
 | Avg load | 127.3kg | 137.2kg | ↓ 9.9kg |
 | Tonnage | 8205kg | 4875kg | ↑ 3330kg |
 | Avg tonnage/session | 2735kg | 1625kg | ↑ 1110kg |
@@ -1528,7 +1528,7 @@ Comparison baseline: Strength Block v2 / Week 3
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 10 | 10 | → 0 |
 | Avg sets/session | 3.33 | 3.33 | → 0 |
-| Avg RPE | 7.45 | 8.15 | ↓ 0.70 |
+| Avg RPE | 7.08 | 8.15 | ↓ 1.07 |
 | Avg load | 142.5kg | 160.2kg | ↓ 17.7kg |
 | Tonnage | 6930kg | 5627.5kg | ↑ 1302.5kg |
 | Avg tonnage/session | 2310kg | 1875.8kg | ↑ 434.2kg |
@@ -1565,7 +1565,7 @@ Comparison baseline: Strength Block v2 / Week 2
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 9 | 10 | ↓ 1 |
 | Avg sets/session | 3 | 3.33 | ↓ 0.33 |
-| Avg RPE | 8.62 | 8.05 | ↑ 0.57 |
+| Avg RPE | 8.50 | 8.05 | ↑ 0.45 |
 | Avg load | 137.2kg | 139kg | ↓ 1.8kg |
 | Tonnage | 4875kg | 4370kg | ↑ 505kg |
 | Avg tonnage/session | 1625kg | 1456.7kg | ↑ 168.3kg |
@@ -1603,13 +1603,13 @@ Comparison baseline: Strength Block v2 / Week 2
 | Sessions | 3 | 2 | ↑ 1 |
 | Total sets | 10 | 7 | ↑ 3 |
 | Avg sets/session | 3.33 | 3.50 | ↓ 0.17 |
-| Avg RPE | 8.15 | 7.10 | ↑ 1.05 |
+| Avg RPE | 8.15 | 7.12 | ↑ 1.03 |
 | Avg load | 160.2kg | 169.3kg | ↓ 9.1kg |
 | Tonnage | 5627.5kg | 3195kg | ↑ 2432.5kg |
 | Avg tonnage/session | 1875.8kg | 1597.5kg | ↑ 278.3kg |
 
 - Top single: 180kg x 1 @ 7
-- Previous top single: 180kg x 1 @ 7
+- Previous top single: 180kg x 1 @ -
 - Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 182.5kg x 3 @ 9.50
 - Previous top work set: 170kg x 3 @ 7
@@ -1640,7 +1640,7 @@ Comparison baseline: Strength Block v2 / Week 1
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 10 | 10 | → 0 |
 | Avg sets/session | 3.33 | 3.33 | → 0 |
-| Avg RPE | 8.05 | 7.95 | ↑ 0.10 |
+| Avg RPE | 8.05 | 7.89 | ↑ 0.16 |
 | Avg load | 139kg | 134.2kg | ↑ 4.8kg |
 | Tonnage | 4370kg | 4092.5kg | ↑ 277.5kg |
 | Avg tonnage/session | 1456.7kg | 1364.2kg | ↑ 92.5kg |
@@ -1678,12 +1678,12 @@ Comparison baseline: Strength Block v2 / Week 1
 | Sessions | 2 | 3 | ↓ 1 |
 | Total sets | 7 | 12 | ↓ 5 |
 | Avg sets/session | 3.50 | 4 | ↓ 0.50 |
-| Avg RPE | 7.10 | 7.54 | ↓ 0.44 |
+| Avg RPE | 7.12 | 7.72 | ↓ 0.60 |
 | Avg load | 169.3kg | 152.1kg | ↑ 17.2kg |
 | Tonnage | 3195kg | 6535kg | ↓ 3340kg |
 | Avg tonnage/session | 1597.5kg | 2178.3kg | ↓ 580.8kg |
 
-- Top single: 180kg x 1 @ 7
+- Top single: 180kg x 1 @ -
 - Previous top single: 190kg x 1 @ 8.50
 - Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
 - Top work set: 170kg x 3 @ 7
@@ -1715,7 +1715,7 @@ Comparison baseline: Peaking Block v6 / Week 3
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 10 | 7 | ↑ 3 |
 | Avg sets/session | 3.33 | 2.33 | ↑ 1 |
-| Avg RPE | 7.95 | 7.21 | ↑ 0.74 |
+| Avg RPE | 7.89 | 7.21 | ↑ 0.68 |
 | Avg load | 134.2kg | 150.7kg | ↓ 16.5kg |
 | Tonnage | 4092.5kg | 2185kg | ↑ 1907.5kg |
 | Avg tonnage/session | 1364.2kg | 728.3kg | ↑ 635.9kg |
@@ -1734,7 +1734,7 @@ Comparison baseline: Peaking Block v6 / Week 3
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 14 | 11 | ↑ 3 |
 | Avg sets/session | 3.50 | 2.75 | ↑ 0.75 |
-| Avg RPE | 7.89 | 7.82 | ↑ 0.07 |
+| Avg RPE | 7.89 | 7.75 | ↑ 0.14 |
 | Avg load | 97.1kg | 109.8kg | ↓ 12.7kg |
 | Tonnage | 4902.5kg | 2107.5kg | ↑ 2795kg |
 | Avg tonnage/session | 1225.6kg | 526.9kg | ↑ 698.7kg |
@@ -1753,13 +1753,13 @@ Comparison baseline: Peaking Block v6 / Week 3
 | Sessions | 3 | 2 | ↑ 1 |
 | Total sets | 12 | 5 | ↑ 7 |
 | Avg sets/session | 4 | 2.50 | ↑ 1.50 |
-| Avg RPE | 7.54 | 7.38 | ↑ 0.16 |
+| Avg RPE | 7.72 | 7.17 | ↑ 0.55 |
 | Avg load | 152.1kg | 174kg | ↓ 21.9kg |
 | Tonnage | 6535kg | 1200kg | ↑ 5335kg |
 | Avg tonnage/session | 2178.3kg | 600kg | ↑ 1578.3kg |
 
 - Top single: 190kg x 1 @ 8.50
-- Previous top single: 185kg x 1 @ 8
+- Previous top single: 185kg x 1 @ -
 - Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 165kg x 3 @ 6.50
 - Previous top work set: 165kg x 2 @ 6.50
@@ -1769,13 +1769,13 @@ Comparison baseline: Peaking Block v6 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 6 | 5 | ↑ 1 |
-| Avg steps/day | 8554 | 18060 | ↓ 9506 |
-| Avg distance/day | 5.91km | 14.66km | ↓ 8.75km |
-| Avg kcal/day | 1950 | 2666 | ↓ 716 |
-| Avg bodyweight | 77.8kg | 79.7kg | ↓ 1.9kg |
-| Avg resting HR | 44bpm | 41.8bpm | ↑ 2.2bpm |
-| Avg sleep | 7.87h | 6.61h | ↑ 1.26h |
+| Days with data | 6 | - | n/a |
+| Avg steps/day | 8554 | - | n/a |
+| Avg distance/day | 5.91km | - | n/a |
+| Avg kcal/day | 1950 | - | n/a |
+| Avg bodyweight | 77.8kg | - | n/a |
+| Avg resting HR | 44bpm | - | n/a |
+| Avg sleep | 7.87h | - | n/a |
 
 - Latest health date in period: 2026-01-03
 
@@ -1809,7 +1809,7 @@ Comparison baseline: Peaking Block v6 / Week 2
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 11 | 11 | → 0 |
 | Avg sets/session | 2.75 | 2.75 | → 0 |
-| Avg RPE | 7.82 | 8.05 | ↓ 0.23 |
+| Avg RPE | 7.75 | 8.05 | ↓ 0.30 |
 | Avg load | 109.8kg | 99.8kg | ↑ 10kg |
 | Tonnage | 2107.5kg | 3062.5kg | ↓ 955kg |
 | Avg tonnage/session | 526.9kg | 765.6kg | ↓ 238.7kg |
@@ -1828,31 +1828,17 @@ Comparison baseline: Peaking Block v6 / Week 2
 | Sessions | 2 | 2 | → 0 |
 | Total sets | 5 | 8 | ↓ 3 |
 | Avg sets/session | 2.50 | 4 | ↓ 1.50 |
-| Avg RPE | 7.38 | 8.21 | ↓ 0.83 |
+| Avg RPE | 7.17 | 8.50 | ↓ 1.33 |
 | Avg load | 174kg | 167.5kg | ↑ 6.5kg |
 | Tonnage | 1200kg | 2015kg | ↓ 815kg |
 | Avg tonnage/session | 600kg | 1007.5kg | ↓ 407.5kg |
 
-- Top single: 185kg x 1 @ 8
+- Top single: 185kg x 1 @ -
 - Previous top single: 175kg x 1 @ 8.50
 - Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
 - Top work set: 165kg x 2 @ 6.50
 - Previous top work set: 180kg x 2 @ 8.50
 - Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
-
-### Health / Recovery
-
-| Metric | Current | Previous | Delta |
-|---|---:|---:|---:|
-| Days with data | 5 | 6 | ↓ 1 |
-| Avg steps/day | 18060 | 6734 | ↑ 11326 |
-| Avg distance/day | 14.66km | 5.88km | ↑ 8.78km |
-| Avg kcal/day | 2666 | 2501 | ↑ 165 |
-| Avg bodyweight | 79.7kg | 80kg | ↓ 0.3kg |
-| Avg resting HR | 41.8bpm | 43bpm | ↓ 1.2bpm |
-| Avg sleep | 6.61h | 7.14h | ↓ 0.53h |
-
-- Latest health date in period: 2026-04-24
 
 ## Peaking Block v6 / Week 2
 
@@ -1865,7 +1851,7 @@ Comparison baseline: Peaking Block v6 / Week 1
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 9 | 11 | ↓ 2 |
 | Avg sets/session | 3 | 3.67 | ↓ 0.67 |
-| Avg RPE | 7.75 | 7.38 | ↑ 0.37 |
+| Avg RPE | 7.75 | 7.29 | ↑ 0.46 |
 | Avg load | 147.2kg | 144.1kg | ↑ 3.1kg |
 | Tonnage | 3747.5kg | 4425kg | ↓ 677.5kg |
 | Avg tonnage/session | 1249.2kg | 1475kg | ↓ 225.8kg |
@@ -1884,7 +1870,7 @@ Comparison baseline: Peaking Block v6 / Week 1
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 11 | 12 | ↓ 1 |
 | Avg sets/session | 2.75 | 3 | ↓ 0.25 |
-| Avg RPE | 8.05 | 7.96 | ↑ 0.09 |
+| Avg RPE | 8.05 | 7.91 | ↑ 0.14 |
 | Avg load | 99.8kg | 99.6kg | ↑ 0.2kg |
 | Tonnage | 3062.5kg | 3587.5kg | ↓ 525kg |
 | Avg tonnage/session | 765.6kg | 896.9kg | ↓ 131.3kg |
@@ -1903,7 +1889,7 @@ Comparison baseline: Peaking Block v6 / Week 1
 | Sessions | 2 | 2 | → 0 |
 | Total sets | 8 | 10 | ↓ 2 |
 | Avg sets/session | 4 | 5 | ↓ 1 |
-| Avg RPE | 8.21 | 7.72 | ↑ 0.49 |
+| Avg RPE | 8.50 | 7.86 | ↑ 0.64 |
 | Avg load | 167.5kg | 157.2kg | ↑ 10.3kg |
 | Tonnage | 2015kg | 3307.5kg | ↓ 1292.5kg |
 | Avg tonnage/session | 1007.5kg | 1653.8kg | ↓ 646.3kg |
@@ -1919,15 +1905,15 @@ Comparison baseline: Peaking Block v6 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 6 | 6 | → 0 |
-| Avg steps/day | 6734 | 7067 | ↓ 333 |
-| Avg distance/day | 5.88km | 5.97km | ↓ 0.09km |
-| Avg kcal/day | 2501 | 2784 | ↓ 283 |
-| Avg bodyweight | 80kg | 79.5kg | ↑ 0.5kg |
-| Avg resting HR | 43bpm | 45bpm | ↓ 2bpm |
-| Avg sleep | 7.14h | 7.25h | ↓ 0.11h |
+| Days with data | 1 | 6 | ↓ 5 |
+| Avg steps/day | 3178 | 7067 | ↓ 3889 |
+| Avg distance/day | 2.58km | 5.97km | ↓ 3.39km |
+| Avg kcal/day | 1328 | 2784 | ↓ 1456 |
+| Avg bodyweight | -kg | 79.5kg | n/a |
+| Avg resting HR | 44bpm | 45bpm | ↓ 1bpm |
+| Avg sleep | 7.73h | 7.25h | ↑ 0.48h |
 
-- Latest health date in period: 2026-04-18
+- Latest health date in period: 2026-04-13
 
 ## Peaking Block v6 / Week 1
 
@@ -1940,7 +1926,7 @@ Comparison baseline: Peaking Block v4 / Week 4
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 11 | 9 | ↑ 2 |
 | Avg sets/session | 3.67 | 3 | ↑ 0.67 |
-| Avg RPE | 7.38 | 7.11 | ↑ 0.27 |
+| Avg RPE | 7.29 | 7.11 | ↑ 0.18 |
 | Avg load | 144.1kg | 149.2kg | ↓ 5.1kg |
 | Tonnage | 4425kg | 2020kg | ↑ 2405kg |
 | Avg tonnage/session | 1475kg | 673.3kg | ↑ 801.7kg |
@@ -1959,7 +1945,7 @@ Comparison baseline: Peaking Block v4 / Week 4
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 12 | 11 | ↑ 1 |
 | Avg sets/session | 3 | 2.75 | ↑ 0.25 |
-| Avg RPE | 7.96 | 8.05 | ↓ 0.09 |
+| Avg RPE | 7.91 | 7.90 | ↑ 0.01 |
 | Avg load | 99.6kg | 98.6kg | ↑ 1kg |
 | Tonnage | 3587.5kg | 2680kg | ↑ 907.5kg |
 | Avg tonnage/session | 896.9kg | 670kg | ↑ 226.9kg |
@@ -1978,7 +1964,7 @@ Comparison baseline: Peaking Block v4 / Week 4
 | Sessions | 2 | 3 | ↓ 1 |
 | Total sets | 10 | 8 | ↑ 2 |
 | Avg sets/session | 5 | 2.67 | ↑ 2.33 |
-| Avg RPE | 7.72 | 7.50 | ↑ 0.22 |
+| Avg RPE | 7.86 | 7.12 | ↑ 0.74 |
 | Avg load | 157.2kg | 150kg | ↑ 7.2kg |
 | Tonnage | 3307.5kg | 2660kg | ↑ 647.5kg |
 | Avg tonnage/session | 1653.8kg | 886.7kg | ↑ 767.1kg |
@@ -1987,7 +1973,7 @@ Comparison baseline: Peaking Block v4 / Week 4
 - Previous top single: 195kg x 1 @ 9.50
 - Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 177.5kg x 2 @ 7.50
-- Previous top work set: 125kg x 5 @ 7.50
+- Previous top work set: 125kg x 5 @ -
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Health / Recovery
@@ -2034,7 +2020,7 @@ Comparison baseline: Peaking Block v4 / Week 3
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 11 | 13 | ↓ 2 |
 | Avg sets/session | 2.75 | 3.25 | ↓ 0.50 |
-| Avg RPE | 8.05 | 8.88 | ↓ 0.83 |
+| Avg RPE | 7.90 | 8.88 | ↓ 0.98 |
 | Avg load | 98.6kg | 99.1kg | ↓ 0.5kg |
 | Tonnage | 2680kg | 4928kg | ↓ 2248kg |
 | Avg tonnage/session | 670kg | 1232kg | ↓ 562kg |
@@ -2053,7 +2039,7 @@ Comparison baseline: Peaking Block v4 / Week 3
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 8 | 9 | ↓ 1 |
 | Avg sets/session | 2.67 | 3 | ↓ 0.33 |
-| Avg RPE | 7.50 | 7.67 | ↓ 0.17 |
+| Avg RPE | 7.12 | 7.67 | ↓ 0.55 |
 | Avg load | 150kg | 158.9kg | ↓ 8.9kg |
 | Tonnage | 2660kg | 4620kg | ↓ 1960kg |
 | Avg tonnage/session | 886.7kg | 1540kg | ↓ 653.3kg |
@@ -2061,7 +2047,7 @@ Comparison baseline: Peaking Block v4 / Week 3
 - Top single: 195kg x 1 @ 9.50
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 125kg x 5 @ 7.50
+- Top work set: 125kg x 5 @ -
 - Previous top work set: 180kg x 3 @ 9
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -2109,7 +2095,7 @@ Comparison baseline: Peaking Block v4 / Week 2
 | Sessions | 4 | 5 | ↓ 1 |
 | Total sets | 13 | 17 | ↓ 4 |
 | Avg sets/session | 3.25 | 3.40 | ↓ 0.15 |
-| Avg RPE | 8.88 | 8.74 | ↑ 0.14 |
+| Avg RPE | 8.88 | 8.89 | ↓ 0.01 |
 | Avg load | 99.1kg | 96.2kg | ↑ 2.9kg |
 | Tonnage | 4928kg | 7457.5kg | ↓ 2529.5kg |
 | Avg tonnage/session | 1232kg | 1491.5kg | ↓ 259.5kg |
@@ -2184,7 +2170,7 @@ Comparison baseline: Peaking Block v3 / Week 1
 | Sessions | 5 | 4 | ↑ 1 |
 | Total sets | 17 | 14 | ↑ 3 |
 | Avg sets/session | 3.40 | 3.50 | ↓ 0.10 |
-| Avg RPE | 8.74 | 7.89 | ↑ 0.85 |
+| Avg RPE | 8.89 | 8.04 | ↑ 0.85 |
 | Avg load | 96.2kg | 96.1kg | ↑ 0.1kg |
 | Tonnage | 7457.5kg | 5487.5kg | ↑ 1970kg |
 | Avg tonnage/session | 1491.5kg | 1371.9kg | ↑ 119.6kg |
@@ -2259,7 +2245,7 @@ Comparison baseline: Mad Power Variation 1 / Week 4
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 14 | 16 | ↓ 2 |
 | Avg sets/session | 3.50 | 4 | ↓ 0.50 |
-| Avg RPE | 7.89 | 9.47 | ↓ 1.58 |
+| Avg RPE | 8.04 | 9.43 | ↓ 1.39 |
 | Avg load | 96.1kg | 92.2kg | ↑ 3.9kg |
 | Tonnage | 5487.5kg | 7137.5kg | ↓ 1650kg |
 | Avg tonnage/session | 1371.9kg | 1784.4kg | ↓ 412.5kg |
@@ -2334,7 +2320,7 @@ Comparison baseline: Mad Power Variation 1 / Week 3
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 16 | 18 | ↓ 2 |
 | Avg sets/session | 4 | 4.50 | ↓ 0.50 |
-| Avg RPE | 9.47 | 8.81 | ↑ 0.66 |
+| Avg RPE | 9.43 | 8.81 | ↑ 0.62 |
 | Avg load | 92.2kg | 93.3kg | ↓ 1.1kg |
 | Tonnage | 7137.5kg | 8103.5kg | ↓ 966kg |
 | Avg tonnage/session | 1784.4kg | 2025.9kg | ↓ 241.5kg |
@@ -2353,7 +2339,7 @@ Comparison baseline: Mad Power Variation 1 / Week 3
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 13 | ↓ 1 |
 | Avg sets/session | 4 | 4.33 | ↓ 0.33 |
-| Avg RPE | 7.12 | 7.54 | ↓ 0.42 |
+| Avg RPE | 7.12 | 7.50 | ↓ 0.38 |
 | Avg load | 148.5kg | 147.9kg | ↑ 0.6kg |
 | Tonnage | 4570kg | 5547.5kg | ↓ 977.5kg |
 | Avg tonnage/session | 1523.3kg | 1849.2kg | ↓ 325.9kg |
@@ -2428,7 +2414,7 @@ Comparison baseline: Mad Power Variation 1 / Week 2
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 13 | 14 | ↓ 1 |
 | Avg sets/session | 4.33 | 4.67 | ↓ 0.34 |
-| Avg RPE | 7.54 | 7 | ↑ 0.54 |
+| Avg RPE | 7.50 | 7 | ↑ 0.50 |
 | Avg load | 147.9kg | 148.6kg | ↓ 0.7kg |
 | Tonnage | 5547.5kg | 6100kg | ↓ 552.5kg |
 | Avg tonnage/session | 1849.2kg | 2033.3kg | ↓ 184.1kg |
@@ -2540,13 +2526,13 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 6
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 13 | 11 | ↑ 2 |
 | Avg sets/session | 4.33 | 3.67 | ↑ 0.66 |
-| Avg RPE | 7.65 | 7.82 | ↓ 0.17 |
+| Avg RPE | 7.65 | 7.90 | ↓ 0.25 |
 | Avg load | 126.2kg | 137kg | ↓ 10.8kg |
 | Tonnage | 7055kg | 3617.5kg | ↑ 3437.5kg |
 | Avg tonnage/session | 2351.7kg | 1205.8kg | ↑ 1145.9kg |
 
 - Top single: 137.5kg x 1 @ 6
-- Previous top single: 160kg x 1 @ 7
+- Previous top single: 160kg x 1 @ -
 - Top single delta: ↓ 22.5kg (only meaningful when the variation is comparable)
 - Top work set: 135kg x 5 @ 8
 - Previous top work set: 145kg x 2 @ 9
@@ -2559,7 +2545,7 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 6
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 18 | 16 | ↑ 2 |
 | Avg sets/session | 4.50 | 4 | ↑ 0.50 |
-| Avg RPE | 8.47 | 9.23 | ↓ 0.76 |
+| Avg RPE | 8.47 | 9 | ↓ 0.53 |
 | Avg load | 89.6kg | 92kg | ↓ 2.4kg |
 | Tonnage | 9267.5kg | 7617.5kg | ↑ 1650kg |
 | Avg tonnage/session | 2316.9kg | 1904.4kg | ↑ 412.5kg |
@@ -2578,16 +2564,16 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 6
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 10 | ↑ 2 |
 | Avg sets/session | 4 | 3.33 | ↑ 0.67 |
-| Avg RPE | 8.12 | 8.50 | ↓ 0.38 |
+| Avg RPE | 8.12 | 8.40 | ↓ 0.28 |
 | Avg load | 147.1kg | 152kg | ↓ 4.9kg |
 | Tonnage | 5530kg | 5275kg | ↑ 255kg |
 | Avg tonnage/session | 1843.3kg | 1758.3kg | ↑ 85kg |
 
 - Top single: 160kg x 1 @ 6
-- Previous top single: 180kg x 1 @ 9
+- Previous top single: 180kg x 1 @ -
 - Top single delta: ↓ 20kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 4 @ 9
-- Previous top work set: 170kg x 2 @ 8.50
+- Previous top work set: 170kg x 2 @ -
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Health / Recovery
@@ -2615,12 +2601,12 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 5
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 11 | 12 | ↓ 1 |
 | Avg sets/session | 3.67 | 4 | ↓ 0.33 |
-| Avg RPE | 7.82 | 8.17 | ↓ 0.35 |
+| Avg RPE | 7.90 | 8.17 | ↓ 0.27 |
 | Avg load | 137kg | 134kg | ↑ 3kg |
 | Tonnage | 3617.5kg | 5282.5kg | ↓ 1665kg |
 | Avg tonnage/session | 1205.8kg | 1760.8kg | ↓ 555kg |
 
-- Top single: 160kg x 1 @ 7
+- Top single: 160kg x 1 @ -
 - Previous top single: 152.5kg x 1 @ 8.50
 - Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
 - Top work set: 145kg x 2 @ 9
@@ -2634,7 +2620,7 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 5
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 16 | 17 | ↓ 1 |
 | Avg sets/session | 4 | 4.25 | ↓ 0.25 |
-| Avg RPE | 9.23 | 9.20 | ↑ 0.03 |
+| Avg RPE | 9 | 9.14 | ↓ 0.14 |
 | Avg load | 92kg | 92.1kg | ↓ 0.1kg |
 | Tonnage | 7617.5kg | 7737.5kg | ↓ 120kg |
 | Avg tonnage/session | 1904.4kg | 1934.4kg | ↓ 30kg |
@@ -2653,15 +2639,15 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 5
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 10 | 11 | ↓ 1 |
 | Avg sets/session | 3.33 | 3.67 | ↓ 0.34 |
-| Avg RPE | 8.50 | 8 | ↑ 0.50 |
+| Avg RPE | 8.40 | 8 | ↑ 0.40 |
 | Avg load | 152kg | 151.1kg | ↑ 0.9kg |
 | Tonnage | 5275kg | 6675kg | ↓ 1400kg |
 | Avg tonnage/session | 1758.3kg | 2225kg | ↓ 466.7kg |
 
-- Top single: 180kg x 1 @ 9
+- Top single: 180kg x 1 @ -
 - Previous top single: 185kg x 1 @ 9
 - Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
-- Top work set: 170kg x 2 @ 8.50
+- Top work set: 170kg x 2 @ -
 - Previous top work set: 170kg x 3 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -2709,7 +2695,7 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 4
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 17 | 17 | → 0 |
 | Avg sets/session | 4.25 | 4.25 | → 0 |
-| Avg RPE | 9.20 | 8.94 | ↑ 0.26 |
+| Avg RPE | 9.14 | 8.80 | ↑ 0.34 |
 | Avg load | 92.1kg | 89kg | ↑ 3.1kg |
 | Tonnage | 7737.5kg | 8267.5kg | ↓ 530kg |
 | Avg tonnage/session | 1934.4kg | 2066.9kg | ↓ 132.5kg |
@@ -2784,7 +2770,7 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 3
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 17 | 17 | → 0 |
 | Avg sets/session | 4.25 | 4.25 | → 0 |
-| Avg RPE | 8.94 | 8.94 | → 0 |
+| Avg RPE | 8.80 | 8.94 | ↓ 0.14 |
 | Avg load | 89kg | 88.1kg | ↑ 0.9kg |
 | Tonnage | 8267.5kg | 9276kg | ↓ 1008.5kg |
 | Avg tonnage/session | 2066.9kg | 2319kg | ↓ 252.1kg |
@@ -2934,7 +2920,7 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 1
 | Sessions | 4 | 5 | ↓ 1 |
 | Total sets | 17 | 19 | ↓ 2 |
 | Avg sets/session | 4.25 | 3.80 | ↑ 0.45 |
-| Avg RPE | 8.91 | 8.87 | ↑ 0.04 |
+| Avg RPE | 8.91 | 8.78 | ↑ 0.13 |
 | Avg load | 85kg | 82.5kg | ↑ 2.5kg |
 | Tonnage | 10066kg | 13222.5kg | ↓ 3156.5kg |
 | Avg tonnage/session | 2516.5kg | 2644.5kg | ↓ 128kg |
@@ -3009,7 +2995,7 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 6
 | Sessions | 5 | 4 | ↑ 1 |
 | Total sets | 19 | 15 | ↑ 4 |
 | Avg sets/session | 3.80 | 3.75 | ↑ 0.05 |
-| Avg RPE | 8.87 | 8.29 | ↑ 0.58 |
+| Avg RPE | 8.78 | 8.29 | ↑ 0.49 |
 | Avg load | 82.5kg | 97.6kg | ↓ 15.1kg |
 | Tonnage | 13222.5kg | 4668.5kg | ↑ 8554kg |
 | Avg tonnage/session | 2644.5kg | 1167.1kg | ↑ 1477.4kg |
@@ -3159,7 +3145,7 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 4
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 15 | 15 | → 0 |
 | Avg sets/session | 3.75 | 3.75 | → 0 |
-| Avg RPE | 8.17 | 8.30 | ↓ 0.13 |
+| Avg RPE | 8.17 | 7.96 | ↑ 0.21 |
 | Avg load | 97.9kg | 95.7kg | ↑ 2.2kg |
 | Tonnage | 4078.5kg | 5576kg | ↓ 1497.5kg |
 | Avg tonnage/session | 1019.6kg | 1394kg | ↓ 374.4kg |
@@ -3234,7 +3220,7 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 3
 | Sessions | 4 | 4 | → 0 |
 | Total sets | 15 | 16 | ↓ 1 |
 | Avg sets/session | 3.75 | 4 | ↓ 0.25 |
-| Avg RPE | 8.30 | 7.81 | ↑ 0.49 |
+| Avg RPE | 7.96 | 7.81 | ↑ 0.15 |
 | Avg load | 95.7kg | 94.9kg | ↑ 0.8kg |
 | Tonnage | 5576kg | 5910.5kg | ↓ 334.5kg |
 | Avg tonnage/session | 1394kg | 1477.6kg | ↓ 83.6kg |
@@ -3328,7 +3314,7 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 2
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 12 | → 0 |
 | Avg sets/session | 4 | 4 | → 0 |
-| Avg RPE | 7 | 7.77 | ↓ 0.77 |
+| Avg RPE | 7 | 7.69 | ↓ 0.69 |
 | Avg load | 144kg | 139.6kg | ↑ 4.4kg |
 | Tonnage | 7102.5kg | 7710kg | ↓ 607.5kg |
 | Avg tonnage/session | 2367.5kg | 2570kg | ↓ 202.5kg |
@@ -3403,7 +3389,7 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 1
 | Sessions | 3 | 2 | ↑ 1 |
 | Total sets | 12 | 8 | ↑ 4 |
 | Avg sets/session | 4 | 4 | → 0 |
-| Avg RPE | 7.77 | 7.88 | ↓ 0.11 |
+| Avg RPE | 7.69 | 7.88 | ↓ 0.19 |
 | Avg load | 139.6kg | 152.2kg | ↓ 12.6kg |
 | Tonnage | 7710kg | 4717.5kg | ↑ 2992.5kg |
 | Avg tonnage/session | 2570kg | 2358.8kg | ↑ 211.2kg |
@@ -3478,13 +3464,13 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 5
 | Sessions | 2 | 3 | ↓ 1 |
 | Total sets | 8 | 11 | ↓ 3 |
 | Avg sets/session | 4 | 3.67 | ↑ 0.33 |
-| Avg RPE | 7.88 | 8.79 | ↓ 0.91 |
+| Avg RPE | 7.88 | 8.90 | ↓ 1.02 |
 | Avg load | 152.2kg | 140kg | ↑ 12.2kg |
 | Tonnage | 4717.5kg | 7040kg | ↓ 2322.5kg |
 | Avg tonnage/session | 2358.8kg | 2346.7kg | ↑ 12.1kg |
 
 - Top single: 172.5kg x 1 @ 7.50
-- Previous top single: 190kg x 1 @ 9
+- Previous top single: 190kg x 1 @ -
 - Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
 - Top work set: 150kg x 5 @ 8
 - Previous top work set: 180kg x 2 @ 9.50
@@ -3553,12 +3539,12 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 4
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 11 | 12 | ↓ 1 |
 | Avg sets/session | 3.67 | 4 | ↓ 0.33 |
-| Avg RPE | 8.79 | 8.25 | ↑ 0.54 |
+| Avg RPE | 8.90 | 8.25 | ↑ 0.65 |
 | Avg load | 140kg | 143.1kg | ↓ 3.1kg |
 | Tonnage | 7040kg | 7317.5kg | ↓ 277.5kg |
 | Avg tonnage/session | 2346.7kg | 2439.2kg | ↓ 92.5kg |
 
-- Top single: 190kg x 1 @ 9
+- Top single: 190kg x 1 @ -
 - Previous top single: 185kg x 1 @ 9
 - Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
 - Top work set: 180kg x 2 @ 9.50
@@ -3628,7 +3614,7 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 3
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 12 | → 0 |
 | Avg sets/session | 4 | 4 | → 0 |
-| Avg RPE | 8.25 | 8.19 | ↑ 0.06 |
+| Avg RPE | 8.25 | 8.07 | ↑ 0.18 |
 | Avg load | 143.1kg | 136kg | ↑ 7.1kg |
 | Tonnage | 7317.5kg | 7972.5kg | ↓ 655kg |
 | Avg tonnage/session | 2439.2kg | 2657.5kg | ↓ 218.3kg |
@@ -3703,7 +3689,7 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 2
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 11 | ↑ 1 |
 | Avg sets/session | 4 | 3.67 | ↑ 0.33 |
-| Avg RPE | 8.19 | 8.79 | ↓ 0.60 |
+| Avg RPE | 8.07 | 8.58 | ↓ 0.51 |
 | Avg load | 136kg | 150.9kg | ↓ 14.9kg |
 | Tonnage | 7972.5kg | 7702.5kg | ↑ 270kg |
 | Avg tonnage/session | 2657.5kg | 2567.5kg | ↑ 90kg |
@@ -3778,7 +3764,7 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 1
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 11 | 12 | ↓ 1 |
 | Avg sets/session | 3.67 | 4 | ↓ 0.33 |
-| Avg RPE | 8.79 | 8.81 | ↓ 0.02 |
+| Avg RPE | 8.58 | 8.81 | ↓ 0.23 |
 | Avg load | 150.9kg | 148.3kg | ↑ 2.6kg |
 | Tonnage | 7702.5kg | 9175kg | ↓ 1472.5kg |
 | Avg tonnage/session | 2567.5kg | 3058.3kg | ↓ 490.8kg |
@@ -3853,13 +3839,13 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 5
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 11 | ↑ 1 |
 | Avg sets/session | 4 | 3.67 | ↑ 0.33 |
-| Avg RPE | 8.81 | 7.57 | ↑ 1.24 |
+| Avg RPE | 8.81 | 8.33 | ↑ 0.48 |
 | Avg load | 148.3kg | 151.4kg | ↓ 3.1kg |
 | Tonnage | 9175kg | 7450kg | ↑ 1725kg |
 | Avg tonnage/session | 3058.3kg | 2483.3kg | ↑ 575kg |
 
 - Top single: -
-- Previous top single: 200kg x 1 @ 9
+- Previous top single: 200kg x 1 @ -
 - Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 175kg x 2 @ 9
 - Previous top work set: 177.5kg x 2 @ 8.50
@@ -3928,12 +3914,12 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 4
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 11 | 13 | ↓ 2 |
 | Avg sets/session | 3.67 | 4.33 | ↓ 0.66 |
-| Avg RPE | 7.57 | 8.61 | ↓ 1.04 |
+| Avg RPE | 8.33 | 8.61 | ↓ 0.28 |
 | Avg load | 151.4kg | 152.9kg | ↓ 1.5kg |
 | Tonnage | 7450kg | 9130kg | ↓ 1680kg |
 | Avg tonnage/session | 2483.3kg | 3043.3kg | ↓ 560kg |
 
-- Top single: 200kg x 1 @ 9
+- Top single: 200kg x 1 @ -
 - Previous top single: 185kg x 1 @ 9
 - Top single delta: ↑ 15kg (only meaningful when the variation is comparable)
 - Top work set: 177.5kg x 2 @ 8.50
@@ -4228,13 +4214,13 @@ Comparison baseline: Mad Power 5 Weeks / Week 5
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 11 | ↑ 1 |
 | Avg sets/session | 4 | 3.67 | ↑ 0.33 |
-| Avg RPE | 6.69 | 7.43 | ↓ 0.74 |
+| Avg RPE | 6.69 | 7.25 | ↓ 0.56 |
 | Avg load | 147kg | 148.2kg | ↓ 1.2kg |
 | Tonnage | 9847.5kg | 7772.5kg | ↑ 2075kg |
 | Avg tonnage/session | 3282.5kg | 2590.8kg | ↑ 691.7kg |
 
 - Top single: -
-- Previous top single: 197.5kg x 1 @ 8.50
+- Previous top single: 197.5kg x 1 @ -
 - Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 175kg x 2 @ 7.50
 - Previous top work set: 172.5kg x 2 @ 8.50
@@ -4303,12 +4289,12 @@ Comparison baseline: Mad Power 5 Weeks / Week 4
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 11 | 12 | ↓ 1 |
 | Avg sets/session | 3.67 | 4 | ↓ 0.33 |
-| Avg RPE | 7.43 | 7.25 | ↑ 0.18 |
+| Avg RPE | 7.25 | 7.25 | → 0 |
 | Avg load | 148.2kg | 148.8kg | ↓ 0.6kg |
 | Tonnage | 7772.5kg | 8217.5kg | ↓ 445kg |
 | Avg tonnage/session | 2590.8kg | 2739.2kg | ↓ 148.4kg |
 
-- Top single: 197.5kg x 1 @ 8.50
+- Top single: 197.5kg x 1 @ -
 - Previous top single: 180kg x 1 @ 8.50
 - Top single delta: ↑ 17.5kg (only meaningful when the variation is comparable)
 - Top work set: 172.5kg x 2 @ 8.50
@@ -4584,7 +4570,7 @@ Comparison baseline: Mad Power 2 Weeks / Week 2
 | Sessions | 4 | 5 | ↓ 1 |
 | Total sets | 15 | 17 | ↓ 2 |
 | Avg sets/session | 3.75 | 3.40 | ↑ 0.35 |
-| Avg RPE | 7.50 | 9.12 | ↓ 1.62 |
+| Avg RPE | 7.50 | 9 | ↓ 1.50 |
 | Avg load | 91.5kg | 96.3kg | ↓ 4.8kg |
 | Tonnage | 7097.5kg | 7120.5kg | ↓ 23kg |
 | Avg tonnage/session | 1774.4kg | 1424.1kg | ↑ 350.3kg |
@@ -4659,7 +4645,7 @@ Comparison baseline: Mad Power 2 Weeks / Week 1
 | Sessions | 5 | 5 | → 0 |
 | Total sets | 17 | 18 | ↓ 1 |
 | Avg sets/session | 3.40 | 3.60 | ↓ 0.20 |
-| Avg RPE | 9.12 | 8.75 | ↑ 0.37 |
+| Avg RPE | 9 | 8.75 | ↑ 0.25 |
 | Avg load | 96.3kg | 91.8kg | ↑ 4.5kg |
 | Tonnage | 7120.5kg | 8910kg | ↓ 1789.5kg |
 | Avg tonnage/session | 1424.1kg | 1782kg | ↓ 357.9kg |
@@ -4715,7 +4701,7 @@ Comparison baseline: Mad Power / Week 4
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 12 | 10 | ↑ 2 |
 | Avg sets/session | 4 | 3.33 | ↑ 0.67 |
-| Avg RPE | 7.62 | 8 | ↓ 0.38 |
+| Avg RPE | 7.62 | 8.11 | ↓ 0.49 |
 | Avg load | 129.8kg | 122.5kg | ↑ 7.3kg |
 | Tonnage | 5567.5kg | 2980kg | ↑ 2587.5kg |
 | Avg tonnage/session | 1855.8kg | 993.3kg | ↑ 862.5kg |
@@ -4790,7 +4776,7 @@ Comparison baseline: Mad Power / Week 3
 | Sessions | 3 | 3 | → 0 |
 | Total sets | 10 | 12 | ↓ 2 |
 | Avg sets/session | 3.33 | 4 | ↓ 0.67 |
-| Avg RPE | 8 | 7.88 | ↑ 0.12 |
+| Avg RPE | 8.11 | 7.88 | ↑ 0.23 |
 | Avg load | 122.5kg | 127.3kg | ↓ 4.8kg |
 | Tonnage | 2980kg | 4302.5kg | ↓ 1322.5kg |
 | Avg tonnage/session | 993.3kg | 1434.2kg | ↓ 440.9kg |
@@ -5034,7 +5020,7 @@ Comparison baseline: Holiday Summer Camp / Week 2
 | Sessions | 4 | 2 | ↑ 2 |
 | Total sets | 20 | 9 | ↑ 11 |
 | Avg sets/session | 5 | 4.50 | ↑ 0.50 |
-| Avg RPE | 7.97 | 9.33 | ↓ 1.36 |
+| Avg RPE | 7.97 | 9.38 | ↓ 1.41 |
 | Avg load | 92.9kg | 109.7kg | ↓ 16.8kg |
 | Tonnage | 8985kg | 3305kg | ↑ 5680kg |
 | Avg tonnage/session | 2246.2kg | 1652.5kg | ↑ 593.7kg |
@@ -5043,7 +5029,7 @@ Comparison baseline: Holiday Summer Camp / Week 2
 - Previous top single: 120kg x 1 @ 9.50
 - Top single delta: → 0kg (only meaningful when the variation is comparable)
 - Top work set: 112.5kg x 3 @ 8
-- Previous top work set: 115kg x 2 @ 9
+- Previous top work set: 115kg x 2 @ -
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
@@ -5053,7 +5039,7 @@ Comparison baseline: Holiday Summer Camp / Week 2
 | Sessions | 3 | 2 | ↑ 1 |
 | Total sets | 11 | 7 | ↑ 4 |
 | Avg sets/session | 3.67 | 3.50 | ↑ 0.17 |
-| Avg RPE | 7.50 | 7.79 | ↓ 0.29 |
+| Avg RPE | 7.50 | 7.75 | ↓ 0.25 |
 | Avg load | 131.8kg | 165kg | ↓ 33.2kg |
 | Tonnage | 5680kg | 2930kg | ↑ 2750kg |
 | Avg tonnage/session | 1893.3kg | 1465kg | ↑ 428.3kg |
@@ -5062,7 +5048,7 @@ Comparison baseline: Holiday Summer Camp / Week 2
 - Previous top single: 180kg x 1 @ 9.50
 - Top single delta: ↓ 20kg (only meaningful when the variation is comparable)
 - Top work set: 160kg x 4 @ 9
-- Previous top work set: 175kg x 2 @ 8
+- Previous top work set: 175kg x 2 @ -
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Health / Recovery
@@ -5109,7 +5095,7 @@ Comparison baseline: Holiday Summer Camp / Week 1
 | Sessions | 2 | 4 | ↓ 2 |
 | Total sets | 9 | 16 | ↓ 7 |
 | Avg sets/session | 4.50 | 4 | ↑ 0.50 |
-| Avg RPE | 9.33 | 8.61 | ↑ 0.72 |
+| Avg RPE | 9.38 | 8.61 | ↑ 0.77 |
 | Avg load | 109.7kg | 103.3kg | ↑ 6.4kg |
 | Tonnage | 3305kg | 8833.5kg | ↓ 5528.5kg |
 | Avg tonnage/session | 1652.5kg | 2208.4kg | ↓ 555.9kg |
@@ -5117,7 +5103,7 @@ Comparison baseline: Holiday Summer Camp / Week 1
 - Top single: 120kg x 1 @ 9.50
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 115kg x 2 @ 9
+- Top work set: 115kg x 2 @ -
 - Previous top work set: 110kg x 6 @ 10
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -5128,7 +5114,7 @@ Comparison baseline: Holiday Summer Camp / Week 1
 | Sessions | 2 | 3 | ↓ 1 |
 | Total sets | 7 | 11 | ↓ 4 |
 | Avg sets/session | 3.50 | 3.67 | ↓ 0.17 |
-| Avg RPE | 7.79 | 7.45 | ↑ 0.34 |
+| Avg RPE | 7.75 | 7.45 | ↑ 0.30 |
 | Avg load | 165kg | 145.7kg | ↑ 19.3kg |
 | Tonnage | 2930kg | 7795kg | ↓ 4865kg |
 | Avg tonnage/session | 1465kg | 2598.3kg | ↓ 1133.3kg |
@@ -5136,7 +5122,7 @@ Comparison baseline: Holiday Summer Camp / Week 1
 - Top single: 180kg x 1 @ 9.50
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 175kg x 2 @ 8
+- Top work set: 175kg x 2 @ -
 - Previous top work set: 170kg x 2 @ 8
 - Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 

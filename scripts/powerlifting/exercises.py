@@ -23,8 +23,19 @@ def get_completed_reps(set_data):
 
 
 def get_logged_rpe(set_data):
-    """Return the best available logged RPE for a set."""
-    return set_data.get('archived_rpe') or set_data.get('previous_rpe') or set_data.get('rpe')
+    """Return the RPE actually logged for this set.
+
+    Important: do not fall back to ``previous_rpe``.
+    Boostcamp carries that field forward as UI convenience/history, but it is not
+    evidence that the current set was rated. We only surface a set RPE when the
+    set itself has an explicit non-zero RPE entry.
+    """
+    for key in ('archived_rpe', 'rpe'):
+        value = set_data.get(key)
+        if value in (None, '', 0, '0'):
+            continue
+        return value
+    return None
 
 
 def get_logged_weight_kg(set_data, rounding=0.5):

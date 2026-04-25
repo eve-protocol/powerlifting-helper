@@ -14,8 +14,8 @@ Finished: 2026-04-25 08:14:33
   Set 3: 185.0kg x 1 [failed] [target RPE: 7-7.5]
   Set 4: 185.0kg x 1 [failed] [target RPE: 7-7.5]
   Set 5: 180.0kg x 1 [target RPE: 7-7.5]
-  Set 6: 185.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
-  Set 7: 190.0kg x 1 [failed] @ RPE 8.5 [target RPE: 7-7.5]
+  Set 6: 185.0kg x 1 [target RPE: 7-7.5]
+  Set 7: 190.0kg x 1 [failed] [target RPE: 7-7.5]
 
 ### Squat (Low Bar)
 
@@ -24,19 +24,11 @@ Finished: 2026-04-25 08:14:33
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 2 @ RPE 8.5 [target RPE: 6-6]
+  Set 1: 120.0kg x 2 [target RPE: 6-6]
   Set 2: 125.0kg x 2 @ RPE 6.5 [target RPE: 6-6]
   Set 3: 125.0kg x 2 @ RPE 7 [target RPE: 6-6]
 
 ## 2026-04-23
-
-### Health / Recovery
-
-- Steps: 22242
-- Distance: 18.03 km
-- Total kcal burned: 2703
-- Resting heart rate: 43 bpm
-- Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
 
 **Week 3 · Day 4**
 Finished: 2026-04-23 07:56:26
@@ -64,15 +56,6 @@ Finished: 2026-04-23 07:56:26
 
 ## 2026-04-22
 
-### Health / Recovery
-
-- Steps: 17049
-- Distance: 13.89 km
-- Total kcal burned: 2662
-- Weight: 80.5 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.33 h asleep (6.45 h in bed, deep 1.07 h, REM 0.98 h, awake 0.12 h)
-
 **Week 3 · Day 3**
 Finished: 2026-04-22 21:13:57
 
@@ -82,15 +65,6 @@ Finished: 2026-04-22 21:13:57
   Set 2: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5]
 
 ## 2026-04-21
-
-### Health / Recovery
-
-- Steps: 21385
-- Distance: 17.36 km
-- Total kcal burned: 3008
-- Weight: 79.8 kg
-- Resting heart rate: 43 bpm
-- Sleep: 4.58 h asleep (5.05 h in bed, deep 0.48 h, REM 0.28 h, awake 0.47 h)
 
 **Week 3 · Day 2**
 Finished: 2026-04-21 07:46:28
@@ -112,15 +86,6 @@ Finished: 2026-04-21 07:46:28
   Set 2: 10.0kg x 12 @ RPE 8.5 [target RPE: 7-7.5]
 
 ## 2026-04-20
-
-### Health / Recovery
-
-- Steps: 10074
-- Distance: 8.20 km
-- Total kcal burned: 2700
-- Weight: 79.2 kg
-- Resting heart rate: 40 bpm
-- Sleep: 7.80 h asleep (7.95 h in bed, deep 1.45 h, REM 1.58 h, awake 0.15 h)
 
 **Week 3 · Day 1**
 Finished: 2026-04-20 10:03:11
@@ -144,14 +109,6 @@ Finished: 2026-04-20 10:03:11
 
 ## 2026-04-18
 
-### Health / Recovery
-
-- Steps: 16801
-- Distance: 13.69 km
-- Total kcal burned: 2907
-- Resting heart rate: 43 bpm
-- Sleep: 7.63 h asleep (7.65 h in bed, deep 1.15 h, REM 1.83 h, awake 0.02 h)
-
 **Week 2 · Day 5**
 Finished: 2026-04-18 10:26:21
 
@@ -159,9 +116,9 @@ Finished: 2026-04-18 10:26:21
 
   Set 1: 170.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8]
   Set 2: 170.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8]
-  Set 3: 170.0kg x 1 @ RPE 7 [target: 2 reps, target RPE: 7.5-8]
+  Set 3: 170.0kg x 1 [target: 2 reps, target RPE: 7.5-8]
   Set 4: 190.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8]
-  Set 5: 190.0kg x 1 [failed] @ RPE 8.5 [target RPE: 8.5-9]
+  Set 5: 190.0kg x 1 [failed] [target RPE: 8.5-9]
   Set 6: 175.0kg x 2 @ RPE 8 [target RPE: 7.5-8]
   Set 7: 180.0kg x 2 @ RPE 8.5 [target RPE: 7.5-8]
 
@@ -176,14 +133,6 @@ Finished: 2026-04-18 10:26:21
   Set 2: 117.5kg x 5 @ RPE 8 [target: 3 reps, target RPE: 6-6.5]
 
 ## 2026-04-16
-
-### Health / Recovery
-
-- Steps: 3055
-- Distance: 2.47 km
-- Total kcal burned: 2356
-- Resting heart rate: 43 bpm
-- Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Week 2 · Day 4**
 Finished: 2026-04-16 09:37:42
@@ -216,15 +165,6 @@ Finished: 2026-04-16 09:37:42
 
 ## 2026-04-15
 
-### Health / Recovery
-
-- Steps: 3503
-- Distance: 2.86 km
-- Total kcal burned: 2282
-- Weight: 79.9 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
-
 **Week 2 · Day 3**
 Finished: 2026-04-15 10:04:17
 
@@ -237,9 +177,9 @@ Finished: 2026-04-15 10:04:17
 
 ### Leg Extension
 
-  Set 1: 20.0kg x 10 @ RPE 8.5 [target: 12 reps, target RPE: 7.5-8]
-  Set 2: 30.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 3: 40.0kg x 12 @ RPE 8 [target RPE: 7.5-8]
+  Set 1: 20.0kg x 10 [target: 12 reps, target RPE: 7.5-8]
+  Set 2: 30.0kg x 12 [target RPE: 7.5-8]
+  Set 3: 40.0kg x 12 [target RPE: 7.5-8]
   Set 4: 50.0kg x 12 [target RPE: 7.5-8]
 
 ### Standing T Bar Row
@@ -251,23 +191,14 @@ Finished: 2026-04-15 10:04:17
 
 ## 2026-04-14
 
-### Health / Recovery
-
-- Steps: 9341
-- Distance: 10.01 km
-- Total kcal burned: 2990
-- Weight: 80 kg
-- Resting heart rate: 43 bpm
-- Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
-
 **Week 2 · Day 2**
 Finished: 2026-04-14 09:43:00
 
 ### Sumo Deadlift (Paused)
 
   Set 1: 175.0kg x 1 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 2: 160.0kg x 1 @ RPE 7.5 [target: 3 reps, target RPE: 7-7.5]
-  Set 3: 160.0kg x 1 @ RPE 9 [target: 3 reps, target RPE: 7-7.5]
+  Set 2: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5]
+  Set 3: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5]
   Set 4: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5]
   Set 5: 160.0kg x 3 @ RPE 9 [target RPE: 7-7.5]
 
@@ -286,11 +217,10 @@ Finished: 2026-04-14 09:43:00
 
 ### Health / Recovery
 
-- Steps: 4616
-- Distance: 3.75 km
-- Total kcal burned: 2370
-- Weight: 80 kg
-- Resting heart rate: 42 bpm
+- Steps: 3178
+- Distance: 2.58 km
+- Total kcal burned: 1328
+- Resting heart rate: 44 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Week 2 · Day 1**
@@ -366,7 +296,7 @@ Finished: 2026-04-09 09:29:57
   Set 1: 130.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5]
   Set 2: 120.0kg x 2 @ RPE 7 [target RPE: 7.5-8]
   Set 3: 122.5kg x 2 @ RPE 8 [target RPE: 7.5-8]
-  Set 4: 110.0kg x 3 @ RPE 8.5 [target: 2 reps, target RPE: 7.5-8]
+  Set 4: 110.0kg x 3 [target: 2 reps, target RPE: 7.5-8]
 
 ### Pull-Up (Weighted)
 
@@ -402,7 +332,7 @@ Finished: 2026-04-08 09:51:03
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 3 @ RPE 8 [target RPE: 6.5-7]
+  Set 1: 145.0kg x 3 [target RPE: 6.5-7]
   Set 2: 150.0kg x 3 @ RPE 7.5 [target RPE: 6.5-7]
   Set 3: 150.0kg x 3 @ RPE 7 [target RPE: 6.5-7]
   Set 4: 130.0kg x 3 [target RPE: 6.5-7]
@@ -440,8 +370,8 @@ Finished: 2026-04-07 10:02:00
   Set 1: 172.5kg x 1 @ RPE 7.5 [target RPE: 7-7.5]
   Set 2: 162.5kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
   Set 3: 162.5kg x 2 @ RPE 9 [target: 3 reps, target RPE: 7-7.5]
-  Set 4: 120.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 5: 120.0kg x 3 @ RPE 7 [target RPE: 7-7.5]
+  Set 4: 120.0kg x 3 [target RPE: 7-7.5]
+  Set 5: 120.0kg x 3 [target RPE: 7-7.5]
   Set 6: 120.0kg x 3 [target RPE: 7-7.5]
 
 ### Incline Bench Press (Dumbbell)
@@ -567,7 +497,7 @@ Finished: 2026-04-02 09:47:04
 ### Leg Curl
 
   Set 1: 35.0kg x 12 @ RPE 8.5 [target: 10 reps, target RPE: 8-8.5]
-  Set 2: 35.0kg x 12 @ RPE 9 [target: 10 reps, target RPE: 8-8.5]
+  Set 2: 35.0kg x 12 [target: 10 reps, target RPE: 8-8.5]
   Set 3: 35.0kg x 9 @ RPE 9.5 [target: 10 reps, target RPE: 8-8.5]
 
 ### Bicep Curl (EZ Bar)
@@ -1503,7 +1433,7 @@ Finished: 2026-02-28 11:52:15
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 6 @ RPE 7.5 [target RPE: 5-6]
+  Set 1: 130.0kg x 6 [target RPE: 5-6]
   Set 2: 135.0kg x 6 @ RPE 6 [target RPE: 5-6]
   Set 3: 140.0kg x 6 @ RPE 6 [target RPE: 5-6]
 
@@ -1589,9 +1519,9 @@ Finished: 2026-02-25 09:58:39
 
 ### Face Pull
 
-  Set 1: 10.0kg x 15 @ RPE 7 [target RPE: 8]
-  Set 2: 10.0kg x 15 @ RPE 8 [target RPE: 8]
-  Set 3: 10.0kg x 15 @ RPE 8 [target RPE: 8]
+  Set 1: 10.0kg x 15 [target RPE: 8]
+  Set 2: 10.0kg x 15 [target RPE: 8]
+  Set 3: 10.0kg x 15 [target RPE: 8]
   Set 4: 10.0kg x 15 @ RPE 8 [target RPE: 8]
 
 ### Bicep Curl (EZ Bar)
@@ -1679,7 +1609,7 @@ Finished: 2026-02-23 10:27:40
 
 ### Cable Crunch
 
-  Set 1: 35.0kg x 15 @ RPE 6 [target RPE: 8]
+  Set 1: 35.0kg x 15 [target RPE: 8]
   Set 2: 40.0kg x 15 @ RPE 7 [target RPE: 8]
   Set 3: 42.5kg x 15 @ RPE 8 [target RPE: 8]
 
@@ -1728,14 +1658,14 @@ Finished: 2026-02-19 09:42:09
 ### Bench Press (Barbell)
 
   Set 1: 125.0kg x 1 @ RPE 7.5 [target RPE: 92.5]
-  Set 2: 110.0kg x 2 @ RPE 9.5 [target RPE: 80]
+  Set 2: 110.0kg x 2 [target RPE: 80]
   Set 3: 112.5kg x 2 @ RPE 6 [target RPE: 80]
 
 ### Romanian Deadlift (Barbell)
 
   Set 1: 120.0kg x 5 @ RPE 6 [target RPE: 60]
-  Set 2: 120.0kg x 5 @ RPE 7.5 [target RPE: 60]
-  Set 3: 125.0kg x 5 @ RPE 7.5 [target RPE: 60]
+  Set 2: 120.0kg x 5 [target RPE: 60]
+  Set 3: 125.0kg x 5 [target RPE: 60]
 
 ### Pull-Up (Weighted)
 
@@ -1809,8 +1739,8 @@ Finished: 2026-02-17 10:01:57
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 150.0kg x 1 @ RPE 8 [target RPE: 75]
-  Set 2: 150.0kg x 1 @ RPE 8.5 [target RPE: 75]
+  Set 1: 150.0kg x 1 [target RPE: 75]
+  Set 2: 150.0kg x 1 [target RPE: 75]
   Set 3: 160.0kg x 1 @ RPE 6 [target RPE: 75]
 
 ### Incline Bench Press (Dumbbell)
@@ -1865,7 +1795,7 @@ Finished: 2026-02-16 10:39:01
 ### Cable Crunch
 
   Set 1: 40.0kg x 15 @ RPE 6 [target RPE: 7]
-  Set 2: 45.0kg x 5 @ RPE 7 [target: 15 reps, target RPE: 7]
+  Set 2: 45.0kg x 5 [target: 15 reps, target RPE: 7]
   Set 3: 40.0kg x 10 @ RPE 8 [target: 15 reps, target RPE: 7]
 
 ## 2026-02-14
@@ -1883,7 +1813,7 @@ Finished: 2026-02-14 17:32:54
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 0kg x 1 [failed] @ RPE 8.5 [target RPE: 95]
+  Set 1: 0kg x 1 [failed] [target RPE: 95]
   Set 2: 180.0kg x 3 @ RPE 9 [target RPE: 90]
   Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 82]
   Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 82]
@@ -2136,9 +2066,9 @@ Finished: 2026-02-07 03:19:23
 
 ### Overhead Tricep Extension (Cable)
 
-  Set 1: 0kg x 12 @ RPE 8 [target RPE: 7.5]
-  Set 2: 0kg x 12 @ RPE 7 [target RPE: 7.5]
-  Set 3: 0kg x 12 @ RPE 8.5 [target RPE: 7.5]
+  Set 1: 0kg x 12 [target RPE: 7.5]
+  Set 2: 0kg x 12 [target RPE: 7.5]
+  Set 3: 0kg x 12 [target RPE: 7.5]
 
 ## 2026-02-05
 
@@ -2161,9 +2091,9 @@ Finished: 2026-02-05 03:09:50
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 100.0kg x 5 @ RPE 7
-  Set 2: 100.0kg x 5 @ RPE 7
-  Set 3: 100.0kg x 5 @ RPE 7.5
+  Set 1: 100.0kg x 5
+  Set 2: 100.0kg x 5
+  Set 3: 100.0kg x 5
 
 ## 2026-02-04
 
@@ -2182,7 +2112,7 @@ Finished: 2026-02-04 00:39:28
 
   Set 1: 130.0kg x 3 @ RPE 8 [target RPE: 81]
   Set 2: 130.0kg x 3 @ RPE 8 [target RPE: 81]
-  Set 3: 0kg x 0 @ RPE 6.5 [target: 3 reps, target RPE: 81]
+  Set 3: 0kg x 0 [target: 3 reps, target RPE: 81]
 
 ### Seated Row (Cable)
 
@@ -2212,9 +2142,9 @@ Finished: 2026-02-04 00:39:28
 
 ### Bench Press (Barbell)
 
-  Set 1: 90.0kg x 8 @ RPE 6.5
-  Set 2: 90.0kg x 8 @ RPE 8.5
-  Set 3: 90.0kg x 8 @ RPE 9
+  Set 1: 90.0kg x 8
+  Set 2: 90.0kg x 8
+  Set 3: 90.0kg x 8
 
 ## 2026-02-02
 
@@ -2481,7 +2411,7 @@ Finished: 2026-01-26 10:13:24
 ### Bench Press (Barbell)
 
   Set 1: 125.0kg x 1 @ RPE 8 [target RPE: 92.5]
-  Set 2: 107.5kg x 3 @ RPE 6 [target RPE: 80]
+  Set 2: 107.5kg x 3 [target RPE: 80]
   Set 3: 110.0kg x 3 @ RPE 6.5 [target RPE: 80]
   Set 4: 110.0kg x 3 @ RPE 6.5 [target RPE: 80]
   Set 5: 112.5kg x 3 @ RPE 7 [target RPE: 80]
@@ -2560,9 +2490,9 @@ Finished: 2026-01-22 09:44:04
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 100.0kg x 10 @ RPE 8 [target RPE: 60]
-  Set 2: 100.0kg x 10 @ RPE 8 [target RPE: 60]
-  Set 3: 100.0kg x 10 @ RPE 8.5 [target RPE: 60]
+  Set 1: 100.0kg x 10 [target RPE: 60]
+  Set 2: 100.0kg x 10 [target RPE: 60]
+  Set 3: 100.0kg x 10 [target RPE: 60]
 
 ### Pull-Up (Weighted)
 
@@ -2628,7 +2558,7 @@ Finished: 2026-01-21 10:38:49
 
 ### Squat (Low Bar)
 
-  Set 1: 100.0kg x 15 @ RPE 8
+  Set 1: 100.0kg x 15
 
 ## 2026-01-20
 
@@ -2646,7 +2576,7 @@ Finished: 2026-01-20 10:33:08
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 @ RPE 7.5 [target RPE: 80]
+  Set 1: 160.0kg x 1 [target RPE: 80]
   Set 2: 150.0kg x 6 @ RPE 7 [target RPE: 75]
   Set 3: 155.0kg x 6 @ RPE 7.5 [target RPE: 75]
   Set 4: 160.0kg x 5 @ RPE 7.5 [target: 6 reps, target RPE: 75]
@@ -2733,7 +2663,7 @@ Finished: 2026-01-17 10:12:26
 ### Squat (Low Bar)
 
   Set 1: 130.0kg x 4 [target RPE: 75]
-  Set 2: 130.0kg x 4 @ RPE 9.5 [target RPE: 75]
+  Set 2: 130.0kg x 4 [target RPE: 75]
   Set 3: 130.0kg x 10 @ RPE 8.5 [target: 4 reps, target RPE: 75]
 
 ### Spoto Press
@@ -2905,8 +2835,8 @@ Finished: 2026-01-12 10:21:55
 ### Squat (Smith Machine)
 
   Set 1: 60.0kg x 12 @ RPE 8 [target RPE: 9]
-  Set 2: 60.0kg x 15 @ RPE 8.5 [target: 12 reps, target RPE: 9]
-  Set 3: 60.0kg x 12 @ RPE 8 [target RPE: 9]
+  Set 2: 60.0kg x 15 [target: 12 reps, target RPE: 9]
+  Set 3: 60.0kg x 12 [target RPE: 9]
 
 ### Cable Crunch
 
@@ -2929,7 +2859,7 @@ Finished: 2026-01-10 10:23:39
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 90]
+  Set 1: 180.0kg x 1 [target RPE: 90]
   Set 2: 170.0kg x 3 @ RPE 7 [target RPE: 85]
   Set 3: 170.0kg x 3 @ RPE 7 [target RPE: 85]
   Set 4: 170.0kg x 3 @ RPE 7 [target RPE: 85]
@@ -3018,7 +2948,7 @@ Finished: 2026-01-07 10:32:35
 ### Leg Extension
 
   Set 1: 50.0kg x 12 @ RPE 9 [target RPE: 9]
-  Set 2: 55.0kg x 11 @ RPE 9 [target: 12 reps, target RPE: 9]
+  Set 2: 55.0kg x 11 [target: 12 reps, target RPE: 9]
   Set 3: 55.0kg x 12 @ RPE 9 [target RPE: 9]
   Set 4: 60.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
@@ -3140,7 +3070,7 @@ Finished: 2026-01-03 10:18:26
 
   Set 1: 125.0kg x 4 @ RPE 6.5 [target RPE: 72]
   Set 2: 125.0kg x 4 @ RPE 6 [target RPE: 72]
-  Set 3: 125.0kg x 4 @ RPE 8.5 [target RPE: 72]
+  Set 3: 125.0kg x 4 [target RPE: 72]
 
 ### Spoto Press
 
@@ -3260,9 +3190,9 @@ Finished: 2025-12-30 10:30:21
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 150.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 2: 155.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 3: 155.0kg x 3 @ RPE 7 [target RPE: 75]
+  Set 1: 150.0kg x 3 [target RPE: 75]
+  Set 2: 155.0kg x 3 [target RPE: 75]
+  Set 3: 155.0kg x 3 [target RPE: 75]
 
 ### Incline Bench Press (Dumbbell)
 
@@ -3555,9 +3485,9 @@ Finished: 2025-12-18 09:55:48
 
 ### Pull-Up (Weighted)
 
-  Set 1: 20.0kg x 7 @ RPE 8 [target RPE: 9]
-  Set 2: 20.0kg x 5 @ RPE 8 [target RPE: 9]
-  Set 3: 20.0kg x 5 @ RPE 9 [target RPE: 9]
+  Set 1: 20.0kg x 7 [target RPE: 9]
+  Set 2: 20.0kg x 5 [target RPE: 9]
+  Set 3: 20.0kg x 5 [target RPE: 9]
 
 ### Lateral Raise (Dumbbell)
 
@@ -3748,8 +3678,8 @@ Finished: 2025-12-11 09:21:10
 
 ### Bench Press (Paused)
 
-  Set 1: 92.5kg x 3 @ RPE 9 [target RPE: 67.5]
-  Set 2: 100.0kg x 3 @ RPE 8 [target RPE: 70]
+  Set 1: 92.5kg x 3 [target RPE: 67.5]
+  Set 2: 100.0kg x 3 [target RPE: 70]
   Set 3: 105.0kg x 3 @ RPE 6.5 [target RPE: 72.5]
   Set 4: 107.5kg x 3 @ RPE 7 [target RPE: 72.5]
 
@@ -3762,9 +3692,9 @@ Finished: 2025-12-11 09:21:10
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 8 @ RPE 8.5 [target RPE: 60]
-  Set 2: 120.0kg x 8 @ RPE 8.5 [target RPE: 60]
-  Set 3: 120.0kg x 6 @ RPE 9 [target: 8 reps, target RPE: 60]
+  Set 1: 120.0kg x 8 [target RPE: 60]
+  Set 2: 120.0kg x 8 [target RPE: 60]
+  Set 3: 120.0kg x 6 [target: 8 reps, target RPE: 60]
 
 ### Pull-Up (Weighted)
 
@@ -3855,7 +3785,7 @@ Finished: 2025-12-09 09:34:20
 
 ### Squat (Paused)
 
-  Set 1: 117.5kg x 3 @ RPE 9 [target RPE: 67.5]
+  Set 1: 117.5kg x 3 [target RPE: 67.5]
   Set 2: 107.5kg x 3 [target RPE: 62.5]
   Set 3: 107.5kg x 3 [target RPE: 62.5]
   Set 4: 107.5kg x 3 [target RPE: 62.5]
@@ -3890,7 +3820,7 @@ Finished: 2025-12-08 09:52:51
 
 ### Squat (Low Bar)
 
-  Set 1: 125.0kg x 5 @ RPE 9 [target RPE: 72.5]
+  Set 1: 125.0kg x 5 [target RPE: 72.5]
   Set 2: 117.5kg x 5 [target RPE: 67.5]
   Set 3: 117.5kg x 5 [target RPE: 67.5]
   Set 4: 117.5kg x 5 [target RPE: 67.5]
@@ -3943,11 +3873,11 @@ Finished: 2025-12-05 12:20:19
 
 ### Bench Press (Barbell)
 
-  Set 1: 105.0kg x 10 @ RPE 8
+  Set 1: 105.0kg x 10
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 140.0kg x 11 @ RPE 8.5
+  Set 1: 140.0kg x 11
 
 ## 2025-12-04
 
@@ -3992,13 +3922,13 @@ Finished: 2025-12-01 10:08:50
 
 ### Squat (Low Bar)
 
-  Set 1: 120.0kg x 2 @ RPE 6 [target RPE: 70]
+  Set 1: 120.0kg x 2 [target RPE: 70]
   Set 2: 120.0kg x 2 [target RPE: 70]
   Set 3: 120.0kg x 2 [target RPE: 70]
 
 ### Bench Press (Barbell)
 
-  Set 1: 95.0kg x 2 @ RPE 6 [target RPE: 70]
+  Set 1: 95.0kg x 2 [target RPE: 70]
   Set 2: 95.0kg x 2 [target RPE: 70]
   Set 3: 95.0kg x 2 [target RPE: 70]
 
@@ -4062,9 +3992,9 @@ Finished: 2025-11-27 10:02:52
 
 ### Good Morning
 
-  Set 1: 70.0kg x 8 @ RPE 6 [target RPE: 9]
-  Set 2: 70.0kg x 8 @ RPE 6 [target RPE: 9]
-  Set 3: 70.0kg x 8 @ RPE 6 [target RPE: 9]
+  Set 1: 70.0kg x 8 [target RPE: 9]
+  Set 2: 70.0kg x 8 [target RPE: 9]
+  Set 3: 70.0kg x 8 [target RPE: 9]
 
 ## 2025-11-26
 
@@ -4088,10 +4018,10 @@ Finished: 2025-11-26 10:09:26
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 150.0kg x 1 @ RPE 6 [target RPE: 85]
-  Set 2: 150.0kg x 1 @ RPE 7 [target: 2 reps, target RPE: 75]
-  Set 3: 150.0kg x 1 @ RPE 7.5 [target: 2 reps, target RPE: 75]
-  Set 4: 150.0kg x 1 @ RPE 8.5 [target: 2 reps, target RPE: 75]
+  Set 1: 150.0kg x 1 [target RPE: 85]
+  Set 2: 150.0kg x 1 [target: 2 reps, target RPE: 75]
+  Set 3: 150.0kg x 1 [target: 2 reps, target RPE: 75]
+  Set 4: 150.0kg x 1 [target: 2 reps, target RPE: 75]
   Set 5: 150.0kg x 1 [target: 2 reps, target RPE: 75]
   Set 6: 160.0kg x 1 [target: 2 reps, target RPE: 75]
   Set 7: 130.0kg x 3 [target: 2 reps, target RPE: 75]
@@ -4133,7 +4063,7 @@ Finished: 2025-11-25 09:03:18
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 5 @ RPE 9 [target RPE: 9]
+  Set 1: 50.0kg x 5 [target RPE: 9]
   Set 2: 50.0kg x 5 [target RPE: 9]
   Set 3: 47.5kg x 6 [target RPE: 9]
 
@@ -4886,9 +4816,9 @@ Finished: 2025-10-30 08:57:17
 
 ### Good Morning
 
-  Set 1: 70.0kg x 8 @ RPE 6 [target RPE: 9]
-  Set 2: 75.0kg x 8 @ RPE 7 [target RPE: 9]
-  Set 3: 75.0kg x 8 @ RPE 7 [target RPE: 9]
+  Set 1: 70.0kg x 8 [target RPE: 9]
+  Set 2: 75.0kg x 8 [target RPE: 9]
+  Set 3: 75.0kg x 8 [target RPE: 9]
 
 ## 2025-10-29
 
@@ -4999,7 +4929,7 @@ Finished: 2025-10-27 08:29:28
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 1 @ RPE 8.5 [target RPE: 90]
+  Set 1: 170.0kg x 1 [target RPE: 90]
 
 ### Squat (Paused)
 
@@ -5035,15 +4965,15 @@ Finished: 2025-10-26 09:34:56
 
 ### Squat (Low Bar)
 
-  Set 1: 70.0kg x 15 @ RPE 8
-  Set 2: 70.0kg x 15 @ RPE 6.5
-  Set 3: 70.0kg x 15 @ RPE 6.5
+  Set 1: 70.0kg x 15
+  Set 2: 70.0kg x 15
+  Set 3: 70.0kg x 15
 
 ### Bench Press (Barbell)
 
-  Set 1: 70.0kg x 20 @ RPE 9
-  Set 2: 70.0kg x 15 @ RPE 6.5
-  Set 3: 70.0kg x 15 @ RPE 6.5
+  Set 1: 70.0kg x 20
+  Set 2: 70.0kg x 15
+  Set 3: 70.0kg x 15
 
 ### Sumo Romanian Deadlift
 
@@ -5336,7 +5266,7 @@ Finished: 2025-10-18 16:47:29
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 @ RPE 6 [target RPE: 85]
+  Set 1: 147.5kg x 3 [target RPE: 85]
   Set 2: 125.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 72.5]
   Set 3: 130.0kg x 4 @ RPE 7 [target RPE: 72.5]
   Set 4: 130.0kg x 4 @ RPE 7 [target RPE: 72.5]
@@ -5701,9 +5631,9 @@ Finished: 2025-10-08 09:13:44
 
 ### Pull-Up (Weighted)
 
-  Set 1: 25.0kg x 5 @ RPE 10 [target RPE: 9]
-  Set 2: 25.0kg x 4 @ RPE 9 [target RPE: 9]
-  Set 3: 25.0kg x 4 @ RPE 10 [target RPE: 9]
+  Set 1: 25.0kg x 5 [target RPE: 9]
+  Set 2: 25.0kg x 4 [target RPE: 9]
+  Set 3: 25.0kg x 4 [target RPE: 9]
 
 ### Incline Curl (Dumbbell)
 
@@ -5742,7 +5672,7 @@ Finished: 2025-10-07 09:36:54
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 @ RPE 10 [target RPE: 9]
+  Set 1: 50.0kg x 6 [target RPE: 9]
   Set 2: 50.0kg x 6 [target RPE: 9]
   Set 3: 50.0kg x 5 [target RPE: 9]
 
@@ -5874,7 +5804,7 @@ Finished: 2025-10-02 09:53:28
 ### Sumo Deadlift (Paused)
 
   Set 1: 160.0kg x 3 @ RPE 9 [target RPE: 6]
-  Set 2: 140.0kg x 4 @ RPE 8 [target: 5 reps, target RPE: 6]
+  Set 2: 140.0kg x 4 [target: 5 reps, target RPE: 6]
   Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 6]
   Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6]
 
@@ -5944,7 +5874,7 @@ Finished: 2025-09-30 09:45:59
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 190.0kg x 1 @ RPE 9 [target RPE: 100]
+  Set 1: 190.0kg x 1 [target RPE: 100]
   Set 2: 180.0kg x 2 @ RPE 9.5 [target RPE: 89]
   Set 3: 180.0kg x 2 @ RPE 10 [target RPE: 89]
 
@@ -6230,7 +6160,7 @@ Finished: 2025-09-18 09:43:46
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 120.0kg x 3 @ RPE 9 [target RPE: 6]
+  Set 1: 120.0kg x 3 [target RPE: 6]
   Set 2: 140.0kg x 5 @ RPE 7.5 [target RPE: 6]
   Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 6]
   Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6]
@@ -6275,7 +6205,7 @@ Finished: 2025-09-17 09:43:24
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 @ RPE 8.5 [target RPE: 85]
+  Set 1: 147.5kg x 3 [target RPE: 85]
   Set 2: 140.0kg x 4 @ RPE 8.5 [target RPE: 82]
   Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 82]
   Set 4: 135.0kg x 4 @ RPE 7 [target RPE: 82]
@@ -6415,7 +6345,7 @@ Finished: 2025-09-11 09:30:37
 
   Set 1: 160.0kg x 3 @ RPE 9 [target RPE: 6]
   Set 2: 150.0kg x 5 @ RPE 9.5 [target RPE: 6]
-  Set 3: 150.0kg x 3 @ RPE 10 [target: 5 reps, target RPE: 6]
+  Set 3: 150.0kg x 3 [target: 5 reps, target RPE: 6]
 
 ### Bench Press (Paused)
 
@@ -6773,9 +6703,9 @@ Finished: 2025-08-28 09:55:01
 
 ### Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 @ RPE 7 [target: 3 reps, target RPE: 6]
-  Set 2: 150.0kg x 2 @ RPE 6 [target: 5 reps, target RPE: 6]
-  Set 3: 140.0kg x 5 @ RPE 6 [target RPE: 6]
+  Set 1: 160.0kg x 1 [target: 3 reps, target RPE: 6]
+  Set 2: 150.0kg x 2 [target: 5 reps, target RPE: 6]
+  Set 3: 140.0kg x 5 [target RPE: 6]
   Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6]
 
 ### Bench Press (Paused)
@@ -6844,7 +6774,7 @@ Finished: 2025-08-26 09:47:34
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 200.0kg x 1 @ RPE 9 [target RPE: 100]
+  Set 1: 200.0kg x 1 [target RPE: 100]
   Set 2: 177.5kg x 2 @ RPE 8.5 [target RPE: 89]
   Set 3: 177.5kg x 2 @ RPE 8.5 [target RPE: 89]
 
@@ -7121,10 +7051,10 @@ Finished: 2025-08-15 15:56:02
 
 ### Bench Press (Barbell)
 
-  Set 1: 100.0kg x 12 @ RPE 8.5
-  Set 2: 100.0kg x 9 @ RPE 9
-  Set 3: 100.0kg x 9 @ RPE 9.5
-  Set 4: 100.0kg x 7 @ RPE 9.5
+  Set 1: 100.0kg x 12
+  Set 2: 100.0kg x 9
+  Set 3: 100.0kg x 9
+  Set 4: 100.0kg x 7
 
 ## 2025-08-14
 
@@ -7740,7 +7670,7 @@ Finished: 2025-07-22 10:07:58
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 197.5kg x 1 @ RPE 8.5 [target: 3 reps, target RPE: 6]
+  Set 1: 197.5kg x 1 [target: 3 reps, target RPE: 6]
   Set 2: 170.0kg x 2 @ RPE 8 [target: 5 reps, target RPE: 6]
   Set 3: 172.5kg x 2 @ RPE 8.5 [target: 5 reps, target RPE: 6]
 
@@ -8567,7 +8497,7 @@ Finished: 2025-06-19 10:27:10
   Set 1: 190.0kg x 1 @ RPE 9.5 [target RPE: 9]
   Set 2: 175.0kg x 2 @ RPE 9.5 [target RPE: 8]
   Set 3: 175.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 4: 0kg x 0 @ RPE 8 [target: 2 reps, target RPE: 8]
+  Set 4: 0kg x 0 [target: 2 reps, target RPE: 8]
 
 ### Bench Press (Paused)
 
@@ -8994,9 +8924,9 @@ Finished: 2025-06-03 10:29:03
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 47.5kg x 6 @ RPE 9.5 [target RPE: 9-10]
-  Set 3: 45.0kg x 9 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 [target RPE: 9-10]
+  Set 2: 47.5kg x 6 [target RPE: 9-10]
+  Set 3: 45.0kg x 9 [target RPE: 9-10]
 
 ### Unknown
 
@@ -9439,9 +9369,9 @@ Finished: 2025-05-17 10:45:35
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 115.0kg x 10 @ RPE 8 [target RPE: 9]
-  Set 2: 120.0kg x 6 @ RPE 8 [target RPE: 9]
-  Set 3: 120.0kg x 6 @ RPE 8 [target RPE: 9]
+  Set 1: 115.0kg x 10 [target RPE: 9]
+  Set 2: 120.0kg x 6 [target RPE: 9]
+  Set 3: 120.0kg x 6 [target RPE: 9]
   Set 4: 110.0kg x 8 [target RPE: 9]
 
 ## 2025-05-15
@@ -9473,9 +9403,9 @@ Finished: 2025-05-15 09:44:17
 
 ### Pull-Up (Weighted)
 
-  Set 1: 30.0kg x 4 @ RPE 10 [target RPE: 9-10]
-  Set 2: 30.0kg x 4 @ RPE 10 [target RPE: 9-10]
-  Set 3: 30.0kg x 4 @ RPE 9.5 [target RPE: 9-10]
+  Set 1: 30.0kg x 4 [target RPE: 9-10]
+  Set 2: 30.0kg x 4 [target RPE: 9-10]
+  Set 3: 30.0kg x 4 [target RPE: 9-10]
 
 ### Leg Extension
 
@@ -9507,9 +9437,9 @@ Finished: 2025-05-14 10:31:49
 
 ### Bulgarian Split Squat (Barbell)
 
-  Set 1: 65.0kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 2: 60.0kg x 8 @ RPE 9.5 [target RPE: 9-10]
-  Set 3: 60.0kg x 8 @ RPE 10 [target RPE: 9-10]
+  Set 1: 65.0kg x 8 [target RPE: 9-10]
+  Set 2: 60.0kg x 8 [target RPE: 9-10]
+  Set 3: 60.0kg x 8 [target RPE: 9-10]
 
 ### Unknown
 
@@ -9698,14 +9628,14 @@ Finished: 2025-05-04 12:13:58
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 9 [target RPE: 8]
+  Set 1: 115.0kg x 2 [target RPE: 8]
   Set 2: 110.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 7]
   Set 3: 110.0kg x 3 @ RPE 9.5 [target: 4 reps, target RPE: 7]
   Set 4: 110.0kg x 3 @ RPE 9.5 [target: 4 reps, target RPE: 7]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 2 @ RPE 8 [target RPE: 8]
+  Set 1: 175.0kg x 2 [target RPE: 8]
   Set 2: 160.0kg x 3 @ RPE 8 [target RPE: 7]
   Set 3: 160.0kg x 3 @ RPE 8 [target RPE: 7]
 
@@ -9891,9 +9821,9 @@ Finished: 2025-04-24 10:22:32
 
 ### Pull-Up (Weighted)
 
-  Set 1: 32.5kg x 4 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 30.0kg x 4 @ RPE 9.5 [target RPE: 9-10]
-  Set 3: 30.0kg x 4 @ RPE 10 [target RPE: 9-10]
+  Set 1: 32.5kg x 4 [target RPE: 9-10]
+  Set 2: 30.0kg x 4 [target RPE: 9-10]
+  Set 3: 30.0kg x 4 [target RPE: 9-10]
 
 ### Leg Extension
 
@@ -9931,8 +9861,8 @@ Finished: 2025-04-23 10:27:34
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 82.5kg x 12 @ RPE 10 [target RPE: 8-10]
-  Set 2: 80.0kg x 12 @ RPE 10 [target RPE: 8-10]
+  Set 1: 82.5kg x 12 [target RPE: 8-10]
+  Set 2: 80.0kg x 12 [target RPE: 8-10]
 
 ### Unknown
 
@@ -10119,7 +10049,7 @@ Finished: 2025-04-16 10:21:17
 ### Bulgarian Split Squat (Barbell)
 
   Set 1: 65.0kg x 10 [target RPE: 9-10]
-  Set 2: 65.0kg x 9 @ RPE 10 [target RPE: 9-10]
+  Set 2: 65.0kg x 9 [target RPE: 9-10]
   Set 3: 65.0kg x 8 [target RPE: 9-10]
 
 ### Unknown
@@ -10188,13 +10118,13 @@ Finished: 2025-04-14 09:57:42
 
 ### Pull-Up (Weighted)
 
-  Set 1: 27.5kg x 6 @ RPE 10 [target RPE: 9-10]
+  Set 1: 27.5kg x 6 [target RPE: 9-10]
   Set 2: 25.0kg x 7 [target RPE: 9-10]
   Set 3: 25.0kg x 6 [target RPE: 9-10]
 
 ### Lat Pulldown
 
-  Set 1: 70.0kg x 11 @ RPE 10 [target RPE: 9-10]
+  Set 1: 70.0kg x 11 [target RPE: 9-10]
   Set 2: 67.5kg x 11 [target RPE: 9-10]
   Set 3: 67.5kg x 10 [target RPE: 9-10]
 
@@ -10234,7 +10164,7 @@ Finished: 2025-04-12 10:14:22
 
 ### Leg Curl
 
-  Set 1: 37.5kg x 14 @ RPE 9.5 [target RPE: 8-10]
+  Set 1: 37.5kg x 14 [target RPE: 8-10]
   Set 2: 40.0kg x 10 [target RPE: 8-10]
   Set 3: 35.0kg x 12 [target RPE: 8-10]
   Set 4: 35.0kg x 11 [target RPE: 8-10]
@@ -10255,9 +10185,9 @@ Finished: 2025-04-11 10:15:36
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 9 [target RPE: 9]
-  Set 2: 170.0kg x 2 @ RPE 9.5 [target RPE: 8]
-  Set 3: 170.0kg x 2 @ RPE 8.5 [target RPE: 8]
+  Set 1: 180.0kg x 1 [target RPE: 9]
+  Set 2: 170.0kg x 2 [target RPE: 8]
+  Set 3: 170.0kg x 2 [target RPE: 8]
 
 ### Larsen Press (Barbell)
 
@@ -10268,7 +10198,7 @@ Finished: 2025-04-11 10:15:36
 ### Pull-Up (Weighted)
 
   Set 1: 32.5kg x 4 @ RPE 10 [target RPE: 9-10]
-  Set 2: 30.0kg x 5 @ RPE 10 [target RPE: 9-10]
+  Set 2: 30.0kg x 5 [target RPE: 9-10]
 
 ### Leg Extension
 
@@ -10293,7 +10223,7 @@ Finished: 2025-04-10 10:18:41
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 7 [target RPE: 9]
+  Set 1: 160.0kg x 1 [target RPE: 9]
   Set 2: 145.0kg x 2 @ RPE 9 [target RPE: 8]
   Set 3: 145.0kg x 2 @ RPE 9 [target RPE: 8]
 
@@ -10330,9 +10260,9 @@ Finished: 2025-04-08 10:11:33
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 10 [target RPE: 9-10]
-  Set 2: 45.0kg x 9 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 6 [target RPE: 9-10]
+  Set 2: 45.0kg x 9 [target RPE: 9-10]
+  Set 3: 45.0kg x 8 [target RPE: 9-10]
 
 ### Unknown
 
@@ -10408,15 +10338,15 @@ Finished: 2025-04-05 10:27:35
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 115.0kg x 7 @ RPE 8 [target RPE: 8]
-  Set 2: 120.0kg x 10 @ RPE 8 [target RPE: 8]
+  Set 1: 115.0kg x 7 [target RPE: 8]
+  Set 2: 120.0kg x 10 [target RPE: 8]
   Set 3: 125.0kg x 8 @ RPE 9 [target RPE: 8]
 
 ### Bulgarian Split Squat (Barbell)
 
-  Set 1: 65.0kg x 8 @ RPE 9 [target RPE: 8-9]
+  Set 1: 65.0kg x 8 [target RPE: 8-9]
   Set 2: 65.0kg x 10 @ RPE 10 [target RPE: 8-9]
-  Set 3: 65.0kg x 8 @ RPE 10 [target RPE: 8-9]
+  Set 3: 65.0kg x 8 [target RPE: 8-9]
 
 ### Leg Curl
 
@@ -10570,7 +10500,7 @@ Finished: 2025-03-31 09:57:44
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 80.0kg x 12 @ RPE 10 [target RPE: 9-10]
+  Set 1: 80.0kg x 12 [target RPE: 9-10]
   Set 2: 75.0kg x 12 [target RPE: 9-10]
   Set 3: 75.0kg x 10 [target RPE: 9-10]
 
@@ -10609,10 +10539,10 @@ Finished: 2025-03-29 10:17:43
 
 ### Leg Curl
 
-  Set 1: 35.0kg x 14 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 35.0kg x 14 @ RPE 10 [target RPE: 9-10]
-  Set 3: 37.5kg x 11 @ RPE 10 [target RPE: 9-10]
-  Set 4: 35.0kg x 12 @ RPE 10 [target RPE: 9-10]
+  Set 1: 35.0kg x 14 [target RPE: 9-10]
+  Set 2: 35.0kg x 14 [target RPE: 9-10]
+  Set 3: 37.5kg x 11 [target RPE: 9-10]
+  Set 4: 35.0kg x 12 [target RPE: 9-10]
 
 ## 2025-03-27
 
@@ -10752,15 +10682,15 @@ Finished: 2025-03-24 09:48:45
 
 ### Lat Pulldown
 
-  Set 1: 62.5kg x 14 @ RPE 10 [target RPE: 9-10]
-  Set 2: 62.5kg x 11 @ RPE 10 [target RPE: 9-10]
+  Set 1: 62.5kg x 14 [target RPE: 9-10]
+  Set 2: 62.5kg x 11 [target RPE: 9-10]
   Set 3: 60.0kg x 11 [target RPE: 9-10]
 
 ### Incline Bench Press (Smith Machine)
 
   Set 1: 77.5kg x 14 @ RPE 10 [target RPE: 9-10]
-  Set 2: 77.5kg x 9 @ RPE 10 [target RPE: 9-10]
-  Set 3: 72.5kg x 11 @ RPE 10 [target RPE: 9-10]
+  Set 2: 77.5kg x 9 [target RPE: 9-10]
+  Set 3: 72.5kg x 11 [target RPE: 9-10]
 
 ## 2025-03-22
 
@@ -10830,9 +10760,9 @@ Finished: 2025-03-20 10:06:30
 
 ### Pull-Up (Weighted)
 
-  Set 1: 30.0kg x 4 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 30.0kg x 4 @ RPE 10 [target RPE: 9-10]
-  Set 3: 30.0kg x 4 @ RPE 9.5 [target RPE: 9-10]
+  Set 1: 30.0kg x 4 [target RPE: 9-10]
+  Set 2: 30.0kg x 4 [target RPE: 9-10]
+  Set 3: 30.0kg x 4 [target RPE: 9-10]
 
 ### Leg Extension
 
@@ -10940,7 +10870,7 @@ Finished: 2025-03-17 09:55:26
 
   Set 1: 62.5kg x 12 @ RPE 10 [target RPE: 9-10]
   Set 2: 62.5kg x 11 @ RPE 10 [target RPE: 9-10]
-  Set 3: 60.0kg x 12 @ RPE 10 [target RPE: 9-10]
+  Set 3: 60.0kg x 12 [target RPE: 9-10]
 
 ### Incline Bench Press (Smith Machine)
 
@@ -11170,10 +11100,10 @@ Finished: 2025-03-08 10:27:05
 
 ### Leg Curl
 
-  Set 1: 35.0kg x 10 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 32.5kg x 10 @ RPE 10 [target RPE: 9-10]
-  Set 3: 30.0kg x 10 @ RPE 10 [target RPE: 9-10]
-  Set 4: 30.0kg x 10 @ RPE 10 [target RPE: 9-10]
+  Set 1: 35.0kg x 10 [target RPE: 9-10]
+  Set 2: 32.5kg x 10 [target RPE: 9-10]
+  Set 3: 30.0kg x 10 [target RPE: 9-10]
+  Set 4: 30.0kg x 10 [target RPE: 9-10]
 
 ## 2025-03-06
 
@@ -11204,8 +11134,8 @@ Finished: 2025-03-06 10:16:32
 
 ### Pull-Up (Weighted)
 
-  Set 1: 30.0kg x 4 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 30.0kg x 3 @ RPE 10 [target RPE: 9-10]
+  Set 1: 30.0kg x 4 [target RPE: 9-10]
+  Set 2: 30.0kg x 3 [target RPE: 9-10]
   Set 3: 27.5kg x 4 [target RPE: 9-10]
 
 ### Leg Extension
@@ -11269,7 +11199,7 @@ Finished: 2025-03-04 10:11:56
 
   Set 1: 47.5kg x 6 @ RPE 10 [target RPE: 9-10]
   Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10]
+  Set 3: 45.0kg x 7 [target RPE: 9-10]
 
 ### Unknown
 
@@ -11363,8 +11293,8 @@ Finished: 2025-03-01 10:13:14
 
 ### Bench Press (Barbell)
 
-  Set 1: 60.0kg x 20 @ RPE 8
-  Set 2: 70.0kg x 20 @ RPE 10
+  Set 1: 60.0kg x 20
+  Set 2: 70.0kg x 20
 
 ## 2025-02-22
 
@@ -11546,15 +11476,15 @@ Finished: 2025-02-17 10:12:57
 
 ### Lat Pulldown
 
-  Set 1: 70.0kg x 12 @ RPE 10 [target RPE: 10]
-  Set 2: 65.0kg x 13 @ RPE 10 [target RPE: 10]
-  Set 3: 65.0kg x 14 @ RPE 10 [target RPE: 10]
+  Set 1: 70.0kg x 12 [target RPE: 10]
+  Set 2: 65.0kg x 13 [target RPE: 10]
+  Set 3: 65.0kg x 14 [target RPE: 10]
 
 ### Incline Bench Press (Smith Machine)
 
   Set 1: 77.5kg x 15 @ RPE 10 [target RPE: 10]
   Set 2: 77.5kg x 11 @ RPE 10 [target RPE: 10]
-  Set 3: 75.0kg x 10 @ RPE 10 [target RPE: 10]
+  Set 3: 75.0kg x 10 [target RPE: 10]
 
 ## 2025-02-15
 
@@ -11584,14 +11514,14 @@ Finished: 2025-02-15 10:29:02
 
 ### Bulgarian Split Squat (Barbell)
 
-  Set 1: 80.0kg x 6 @ RPE 9 [target RPE: 10]
-  Set 2: 60.0kg x 10 @ RPE 9 [target RPE: 10]
-  Set 3: 60.0kg x 11 @ RPE 9.5 [target RPE: 10]
+  Set 1: 80.0kg x 6 [target RPE: 10]
+  Set 2: 60.0kg x 10 [target RPE: 10]
+  Set 3: 60.0kg x 11 [target RPE: 10]
 
 ### Leg Curl
 
-  Set 1: 32.5kg x 13 @ RPE 10 [target RPE: 10]
-  Set 2: 35.0kg x 10 @ RPE 10 [target RPE: 10]
+  Set 1: 32.5kg x 13 [target RPE: 10]
+  Set 2: 35.0kg x 10 [target RPE: 10]
   Set 3: 32.5kg x 11 [target RPE: 10]
   Set 4: 32.5kg x 10 [target RPE: 10]
 
@@ -11767,7 +11697,7 @@ Finished: 2025-02-08 10:16:10
   Set 1: 145.0kg x 1 @ RPE 8 [target RPE: 7]
   Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 8]
   Set 3: 135.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 100.0kg x 5 @ RPE 8 [target RPE: 8]
+  Set 4: 100.0kg x 5 [target RPE: 8]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -11779,8 +11709,8 @@ Finished: 2025-02-08 10:16:10
 
   Set 1: 32.5kg x 10 @ RPE 10 [target RPE: 10]
   Set 2: 31.0kg x 12 @ RPE 10 [target RPE: 10]
-  Set 3: 31.0kg x 10 @ RPE 9.5 [target RPE: 10]
-  Set 4: 30.0kg x 12 @ RPE 10 [target RPE: 10]
+  Set 3: 31.0kg x 10 [target RPE: 10]
+  Set 4: 30.0kg x 12 [target RPE: 10]
 
 ## 2025-02-06
 
@@ -12049,31 +11979,31 @@ Finished: 2025-01-28 10:34:11
 
 ### Bicep Curl (Cable)
 
-  Set 1: 27.5kg x 12 @ RPE 10 [target RPE: 10]
-  Set 2: 30.0kg x 9 @ RPE 9.5 [target RPE: 10]
-  Set 3: 27.5kg x 12 @ RPE 9.5 [target RPE: 10]
-  Set 4: 27.5kg x 11 @ RPE 9.5 [target RPE: 10]
+  Set 1: 27.5kg x 12 [target RPE: 10]
+  Set 2: 30.0kg x 9 [target RPE: 10]
+  Set 3: 27.5kg x 12 [target RPE: 10]
+  Set 4: 27.5kg x 11 [target RPE: 10]
 
 ### Tricep Extension (Cable)
 
-  Set 1: 32.5kg x 14 @ RPE 9 [target RPE: 10]
-  Set 2: 35.0kg x 10 @ RPE 10 [target RPE: 10]
-  Set 3: 32.5kg x 13 @ RPE 9.5 [target RPE: 10]
-  Set 4: 32.5kg x 12 @ RPE 10 [target RPE: 10]
+  Set 1: 32.5kg x 14 [target RPE: 10]
+  Set 2: 35.0kg x 10 [target RPE: 10]
+  Set 3: 32.5kg x 13 [target RPE: 10]
+  Set 4: 32.5kg x 12 [target RPE: 10]
 
 ### Incline Curl (Dumbbell)
 
   Set 1: 12.5kg x 14 @ RPE 10 [target RPE: 10]
   Set 2: 15.0kg x 5 @ RPE 9.5 [target RPE: 10]
   Set 3: 12.5kg x 12 @ RPE 10 [target RPE: 10]
-  Set 4: 12.5kg x 11 @ RPE 10 [target RPE: 10]
+  Set 4: 12.5kg x 11 [target RPE: 10]
 
 ### Overhead Tricep Extension (Cable)
 
   Set 1: 25.0kg x 9 @ RPE 10 [target RPE: 10]
   Set 2: 22.5kg x 11 @ RPE 10 [target RPE: 10]
   Set 3: 20.0kg x 12 @ RPE 10 [target RPE: 10]
-  Set 4: 20.0kg x 11 @ RPE 10 [target RPE: 10]
+  Set 4: 20.0kg x 11 [target RPE: 10]
 
 ### Sumo Deadlift (Barbell)
 
@@ -12174,7 +12104,7 @@ Finished: 2025-01-25 10:18:03
 
   Set 1: 40.0kg x 6 @ RPE 10 [target RPE: 10]
   Set 2: 35.0kg x 11 @ RPE 10 [target RPE: 10]
-  Set 3: 35.0kg x 9 @ RPE 10 [target RPE: 10]
+  Set 3: 35.0kg x 9 [target RPE: 10]
   Set 4: 30.0kg x 7 [target RPE: 10]
   Set 5: 15.0kg x 11 [target RPE: 10]
 
@@ -12320,7 +12250,7 @@ Finished: 2025-01-20 10:11:06
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 110.0kg x 1 @ RPE 7 [target RPE: 7]
+  Set 1: 110.0kg x 1 [target RPE: 7]
   Set 2: 95.0kg x 3 @ RPE 7.5 [target RPE: 6]
   Set 3: 90.0kg x 3 @ RPE 6.5 [target RPE: 6]
   Set 4: 90.0kg x 3 @ RPE 6.5 [target RPE: 6]
@@ -12745,7 +12675,7 @@ Finished: 2025-01-06 09:42:17
 
 ### Lat Pulldown
 
-  Set 1: 55.0kg x 12 @ RPE 8.5 [target RPE: 10]
+  Set 1: 55.0kg x 12 [target RPE: 10]
   Set 2: 60.0kg x 10 @ RPE 10 [target RPE: 10]
   Set 3: 60.0kg x 11 @ RPE 10 [target RPE: 10]
 
