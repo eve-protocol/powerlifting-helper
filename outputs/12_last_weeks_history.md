@@ -202,6 +202,14 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-25 (Saturday)
 
+### Health / Recovery
+
+- Steps: 19009
+- Distance: 15.48 km
+- Total kcal burned: 2846
+- Resting heart rate: 43 bpm
+- Sleep: 6.07 h asleep (6.17 h in bed, deep 1.60 h, REM 0.98 h, awake 0.10 h)
+
 **Sumo Deadlift (Barbell)**
 - Set 1: 1 × 190kg [failed] @ RPE - [target_reps=1, target_intensity=[8.5, 9]RPE_range]
 - Set 2: 1 × 190kg [failed] @ RPE - [target_reps=1, target_intensity=[7, 7.5]RPE_range]
