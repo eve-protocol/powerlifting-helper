@@ -2,6 +2,32 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-25
+
+**Week 3 · Day 5**
+Finished: 2026-04-25 08:14:33
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 190.0kg x 1 [failed] [target RPE: 8.5-9]
+  Set 2: 190.0kg x 1 [failed] [target RPE: 7-7.5]
+  Set 3: 185.0kg x 1 [failed] [target RPE: 7-7.5]
+  Set 4: 185.0kg x 1 [failed] [target RPE: 7-7.5]
+  Set 5: 180.0kg x 1 [target RPE: 7-7.5]
+  Set 6: 185.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
+  Set 7: 190.0kg x 1 [failed] @ RPE 8.5 [target RPE: 7-7.5]
+
+### Squat (Low Bar)
+
+  Set 1: 140.0kg x 4 @ RPE 6 [target RPE: 6-6.5]
+  Set 2: 140.0kg x 4 @ RPE 6 [target RPE: 6-6.5]
+
+### Bench Press (Barbell)
+
+  Set 1: 120.0kg x 2 @ RPE 8.5 [target RPE: 6-6]
+  Set 2: 125.0kg x 2 @ RPE 6.5 [target RPE: 6-6]
+  Set 3: 125.0kg x 2 @ RPE 7 [target RPE: 6-6]
+
 ## 2026-04-23
 
 ### Health / Recovery
