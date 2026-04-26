@@ -2,6 +2,29 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-26
+
+**Week 4 · Day 1**
+Finished: 2026-04-26 08:00:37
+
+### Squat (Low Bar)
+
+  Set 1: 155.0kg x 1 @ RPE 6 [target RPE: 6-6.5]
+
+### Bench Press (Barbell)
+
+  Set 1: 125.0kg x 1 @ RPE 6.5 [target RPE: 6-6.5]
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 175.0kg x 1 @ RPE 6 [target RPE: 6-6.5]
+  Set 2: 180.0kg x 1 @ RPE 7 [target RPE: 6-6.5]
+
+### Pull-Up (Weighted)
+
+  Set 1: 20.0kg x 5 @ RPE 6 [target RPE: 6-6.5]
+  Set 2: 20.0kg x 5 @ RPE 6.5 [target RPE: 6-6.5]
+
 ## 2026-04-25
 
 ### Health / Recovery
