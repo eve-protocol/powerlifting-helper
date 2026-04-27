@@ -1731,19 +1731,19 @@ Comparison baseline: Peaking Block v6 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 4 | 1 | ↑ 3 |
-| Total sets | 14 | 1 | ↑ 13 |
-| Avg sets/session | 3.50 | 1 | ↑ 2.50 |
-| Avg RPE | 7.89 | 6.50 | ↑ 1.39 |
-| Avg load | 97.1kg | 125kg | ↓ 27.9kg |
-| Tonnage | 4902.5kg | 125kg | ↑ 4777.5kg |
-| Avg tonnage/session | 1225.6kg | 125kg | ↑ 1100.6kg |
+| Sessions | 4 | 2 | ↑ 2 |
+| Total sets | 14 | 3 | ↑ 11 |
+| Avg sets/session | 3.50 | 1.50 | ↑ 2 |
+| Avg RPE | 7.89 | 7.17 | ↑ 0.72 |
+| Avg load | 97.1kg | 71.7kg | ↑ 25.4kg |
+| Tonnage | 4902.5kg | 665kg | ↑ 4237.5kg |
+| Avg tonnage/session | 1225.6kg | 332.5kg | ↑ 893.1kg |
 
 - Top single: 122.5kg x 1 @ 8
 - Previous top single: 125kg x 1 @ 6.50
 - Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
 - Top work set: 115kg x 3 @ 8
-- Previous top work set: -
+- Previous top work set: 45kg x 6 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
@@ -1806,18 +1806,18 @@ Comparison baseline: Peaking Block v6 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 4 | ↓ 3 |
-| Total sets | 1 | 11 | ↓ 10 |
-| Avg sets/session | 1 | 2.75 | ↓ 1.75 |
-| Avg RPE | 6.50 | 7.75 | ↓ 1.25 |
-| Avg load | 125kg | 109.8kg | ↑ 15.2kg |
-| Tonnage | 125kg | 2107.5kg | ↓ 1982.5kg |
-| Avg tonnage/session | 125kg | 526.9kg | ↓ 401.9kg |
+| Sessions | 2 | 4 | ↓ 2 |
+| Total sets | 3 | 11 | ↓ 8 |
+| Avg sets/session | 1.50 | 2.75 | ↓ 1.25 |
+| Avg RPE | 7.17 | 7.75 | ↓ 0.58 |
+| Avg load | 71.7kg | 109.8kg | ↓ 38.1kg |
+| Tonnage | 665kg | 2107.5kg | ↓ 1442.5kg |
+| Avg tonnage/session | 332.5kg | 526.9kg | ↓ 194.4kg |
 
 - Top single: 125kg x 1 @ 6.50
 - Previous top single: 132.5kg x 1 @ 8.50
 - Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
-- Top work set: -
+- Top work set: 45kg x 6 @ 7
 - Previous top work set: 125kg x 2 @ 6.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 

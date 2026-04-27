@@ -2,6 +2,26 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-27
+
+**Week 4 · Day 2**
+Finished: 2026-04-27 07:31:54
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 45.0kg x 6 @ RPE 7 [target RPE: 6-6.5]
+  Set 2: 45.0kg x 6 @ RPE 8 [target RPE: 6-6.5]
+
+### Lateral Raise (Dumbbell)
+
+  Set 1: 10.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 6-6.5]
+  Set 2: 10.0kg x 12 @ RPE 7 [target RPE: 6-6.5]
+
+### Rear Delt Fly (Dumbbell)
+
+  Set 1: 7.0kg x 12 @ RPE 6 [target RPE: 6-6.5]
+  Set 2: 7.0kg x 12 @ RPE 6 [target RPE: 6-6.5]
+
 ## 2026-04-26
 
 ### Health / Recovery
