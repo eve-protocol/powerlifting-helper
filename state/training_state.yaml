@@ -11,6 +11,6 @@ block_sequence:
 - strength_block_v4
 - peaking_block_v6
 current_block: peaking_block_v6
-completed_workouts_in_current_block: 16
-last_completed_date: '2026-04-26'
+completed_workouts_in_current_block: 17
+last_completed_date: '2026-04-27'
 progression_mode: explicit
