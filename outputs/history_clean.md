@@ -2,7 +2,32 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-28
+
+**Week 4 · Day 3**
+Finished: 2026-04-28 19:24:32
+
+### Squat (Low Bar)
+
+  Set 1: 160.0kg x 1 @ RPE 7 [target RPE: 6-6.5]
+
+### Bench Press (Barbell)
+
+  Set 1: 125.0kg x 1 @ RPE 6 [target RPE: 6-6.5]
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 185.0kg x 1 @ RPE 7 [target RPE: 6-6.5]
+
 ## 2026-04-27
+
+### Health / Recovery
+
+- Steps: 14640
+- Distance: 11.90 km
+- Total kcal burned: 2003
+- Resting heart rate: 41 bpm
+- Sleep: 6.70 h asleep (6.93 h in bed, deep 0.92 h, REM 1.37 h, awake 0.23 h)
 
 **Week 4 · Day 2**
 Finished: 2026-04-27 07:31:54
@@ -26,9 +51,10 @@ Finished: 2026-04-27 07:31:54
 
 ### Health / Recovery
 
-- Steps: 22836
-- Distance: 18.54 km
-- Total kcal burned: 2580
+- Steps: 22964
+- Distance: 18.64 km
+- Total kcal burned: 2783
+- Weight: 79 kg
 - Resting heart rate: 42 bpm
 - Sleep: 6.02 h asleep (6.53 h in bed, deep 1.35 h, REM 0.17 h, awake 0.52 h)
 

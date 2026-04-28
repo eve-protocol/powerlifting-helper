@@ -10,13 +10,13 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 50 | 166 | ↓ 116 |
-| Total sets | 174 | 641 | ↓ 467 |
-| Avg sets/session | 3.48 | 3.86 | ↓ 0.38 |
-| Avg RPE | 7.44 | 7.66 | ↓ 0.22 |
-| Avg load | 138.7kg | 130.4kg | ↑ 8.3kg |
-| Tonnage | 86802.5kg | 312712kg | ↓ 225909.5kg |
-| Avg tonnage/session | 1736kg | 1883.8kg | ↓ 147.8kg |
+| Sessions | 51 | 166 | ↓ 115 |
+| Total sets | 175 | 641 | ↓ 466 |
+| Avg sets/session | 3.43 | 3.86 | ↓ 0.43 |
+| Avg RPE | 7.43 | 7.66 | ↓ 0.23 |
+| Avg load | 138.8kg | 130.4kg | ↑ 8.4kg |
+| Tonnage | 86962.5kg | 312712kg | ↓ 225749.5kg |
+| Avg tonnage/session | 1705.1kg | 1883.8kg | ↓ 178.7kg |
 
 - Top single: 177.5kg x 1 @ 9.50
 - Previous top single: 172.5kg x 1 @ 10
@@ -29,13 +29,13 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 70 | 213 | ↓ 143 |
-| Total sets | 233 | 824 | ↓ 591 |
-| Avg sets/session | 3.33 | 3.87 | ↓ 0.54 |
+| Sessions | 71 | 213 | ↓ 142 |
+| Total sets | 234 | 824 | ↓ 590 |
+| Avg sets/session | 3.30 | 3.87 | ↓ 0.57 |
 | Avg RPE | 8.17 | 8.26 | ↓ 0.09 |
-| Avg load | 98.9kg | 94.5kg | ↑ 4.4kg |
-| Tonnage | 89150.5kg | 351010kg | ↓ 261859.5kg |
-| Avg tonnage/session | 1273.6kg | 1647.9kg | ↓ 374.3kg |
+| Avg load | 99.1kg | 94.5kg | ↑ 4.6kg |
+| Tonnage | 89275.5kg | 351010kg | ↓ 261734.5kg |
+| Avg tonnage/session | 1257.4kg | 1647.9kg | ↓ 390.5kg |
 
 - Top single: 135kg x 1 @ 9.50
 - Previous top single: 132.5kg x 1 @ 10
@@ -48,13 +48,13 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 48 | 161 | ↓ 113 |
-| Total sets | 174 | 606 | ↓ 432 |
-| Avg sets/session | 3.62 | 3.76 | ↓ 0.14 |
+| Sessions | 49 | 161 | ↓ 112 |
+| Total sets | 175 | 606 | ↓ 431 |
+| Avg sets/session | 3.57 | 3.76 | ↓ 0.19 |
 | Avg RPE | 7.55 | 7.56 | ↓ 0.01 |
-| Avg load | 157.1kg | 145.2kg | ↑ 11.9kg |
-| Tonnage | 90625kg | 365842.5kg | ↓ 275217.5kg |
-| Avg tonnage/session | 1888kg | 2272.3kg | ↓ 384.3kg |
+| Avg load | 157.2kg | 145.2kg | ↑ 12kg |
+| Tonnage | 90810kg | 365842.5kg | ↓ 275032.5kg |
+| Avg tonnage/session | 1853.3kg | 2272.3kg | ↓ 419kg |
 
 - Top single: 195kg x 1 @ 9.50
 - Previous top single: 200kg x 1 @ -
@@ -67,15 +67,15 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 116 | 365 | ↓ 249 |
-| Avg steps/day | 8505 | 8049 | ↑ 456 |
-| Avg distance/day | 6.37km | 5.93km | ↑ 0.44km |
+| Days with data | 117 | 365 | ↓ 248 |
+| Avg steps/day | 8559 | 8049 | ↑ 510 |
+| Avg distance/day | 6.42km | 5.93km | ↑ 0.49km |
 | Avg kcal/day | 2216 | 2304 | ↓ 88 |
 | Avg bodyweight | 79.1kg | 76.8kg | ↑ 2.2kg |
-| Avg resting HR | 45bpm | 43.1bpm | ↑ 1.9bpm |
+| Avg resting HR | 44.9bpm | 43.1bpm | ↑ 1.9bpm |
 | Avg sleep | 7.03h | 7.33h | ↓ 0.30h |
 
-- Latest health date in period: 2026-04-26
+- Latest health date in period: 2026-04-27
 
 ## 2025
 
