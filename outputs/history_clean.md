@@ -2,6 +2,27 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-04-30
+
+**Week 4 · Day 4**
+Finished: 2026-04-30 08:38:52
+
+### Bench Press (Barbell)
+
+  Set 1: 110.0kg x 5 @ RPE 6 [target RPE: 5-6]
+
+### Chest Fly (Machine)
+
+  Set 1: 75.0kg x 12
+  Set 2: 80.0kg x 12
+  Set 3: 85.0kg x 12 @ RPE 6.5
+
+### Bicep Curl (Dumbbell)
+
+  Set 1: 12.5kg x 12
+  Set 2: 12.5kg x 10 @ RPE 8.5
+  Set 3: 12.5kg x 10 @ RPE 8.5
+
 ## 2026-04-28
 
 ### Health / Recovery

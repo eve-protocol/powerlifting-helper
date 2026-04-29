@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-02-09 to 2026-04-28
+**Period:** 2026-02-09 to 2026-04-30
 ---
 
 ## Format Guide
@@ -19,7 +19,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W18 | 1 (-7) | 3 (-9) | 1 (-6) |
+| 2026-W18 | 1 (-7) | 4 (-8) | 1 (-6) |
 | 2026-W17 | 8 (-1) | 12 (+1) | 7 (-1) |
 | 2026-W16 | 9 (-2) | 11 (-1) | 8 (-2) |
 | 2026-W15 | 11 (+1) | 12 (-2) | 10 (-3) |
@@ -37,7 +37,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W18  │    160kg (-2180) │    665kg (-1567) │    185kg (-1370)
+2026-W18  │    160kg (-2180) │   1215kg (-1017) │    185kg (-1370)
 2026-W17  │   2340kg (-1402) │   2232kg  (-815) │   1555kg  (-460)
 2026-W16  │   3742kg  (-683) │   3047kg  (-532) │   2015kg (-1286)
 2026-W15  │   4425kg  (-490) │   3579kg (-1819) │   3301kg (-3751)
@@ -71,7 +71,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Bench Volume (kg)**
 ```
-2026-W18 │█░░░░░░░░░░░░░░░░░░░░░░░░│ 665kg
+2026-W18 │██░░░░░░░░░░░░░░░░░░░░░░░│ 1,215kg
 2026-W17 │█████░░░░░░░░░░░░░░░░░░░░│ 2,232kg
 2026-W16 │██████░░░░░░░░░░░░░░░░░░░│ 3,047kg
 2026-W15 │████████░░░░░░░░░░░░░░░░░│ 3,579kg
@@ -107,7 +107,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ## 2026-W18
 
-**Weekly Summary:** Squat: 1 sets / 160kg | Bench: 3 sets / 665kg | Deadlift: 1 sets / 185kg
+**Weekly Summary:** Squat: 1 sets / 160kg | Bench: 4 sets / 1,215kg | Deadlift: 1 sets / 185kg
 
 ### 2026-04-27 (Monday)
 
@@ -149,6 +149,21 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Sumo Deadlift (Barbell)**
 - Set 1: 1 × 185kg @ RPE 7 [target_reps=1, target_intensity=[6, 6.5]RPE_range]
+
+### 2026-04-30 (Thursday)
+
+**Bench Press (Barbell)**
+- Set 1: 5 × 110kg @ RPE 6 [target_reps=5, target_intensity=[5, 6]RPE_range]
+
+**Chest Fly (Machine)**
+- Set 1: 12 × 75kg @ RPE - [no_target]
+- Set 2: 12 × 80kg @ RPE - [no_target]
+- Set 3: 12 × 85kg @ RPE 6.5 [no_target]
+
+**Bicep Curl (Dumbbell)**
+- Set 1: 12 × 12kg @ RPE - [no_target]
+- Set 2: 10 × 12kg @ RPE 8.5 [no_target]
+- Set 3: 10 × 12kg @ RPE 8.5 [no_target]
 
 ---
 
