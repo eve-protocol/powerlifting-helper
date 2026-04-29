@@ -6,9 +6,9 @@
 
 ### Health / Recovery
 
-- Steps: 18356
-- Distance: 14.87 km
-- Total kcal burned: 2323
+- Steps: 18894
+- Distance: 15.30 km
+- Total kcal burned: 2531
 - Resting heart rate: 41 bpm
 - Sleep: 7.05 h asleep (7.23 h in bed, deep 1.33 h, REM 1.68 h, awake 0.18 h)
 
