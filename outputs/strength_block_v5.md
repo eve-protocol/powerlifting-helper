@@ -1,6 +1,6 @@
 # Strength Block v5
 
-4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive accessory fatigue. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
+4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive fatigue. Incline DB bench is kept as a normal bench variation, not accessory filler. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
 
 ## Overview
 
@@ -12,12 +12,12 @@
 
 ### Week 1
 
-#### Day 1 — Monday - Bench Volume / Upper
+#### Day 1 — Monday - Paused Bench + Incline DB Variation / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Paused) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5 |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -59,12 +59,12 @@
 
 ### Week 2
 
-#### Day 1 — Monday - Bench Volume / Upper
+#### Day 1 — Monday - Paused Bench + Incline DB Variation / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Paused) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
-| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 7.5-8; 8 reps @ RPE 7.5-8; 8 reps @ RPE 7.5-8 |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -106,12 +106,12 @@
 
 ### Week 3
 
-#### Day 1 — Monday - Bench Volume / Upper
+#### Day 1 — Monday - Paused Bench + Incline DB Variation / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Paused) | 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -153,12 +153,12 @@
 
 ### Week 4
 
-#### Day 1 — Monday - Bench Volume / Upper
+#### Day 1 — Monday - Paused Bench + Incline DB Variation / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Paused) | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 

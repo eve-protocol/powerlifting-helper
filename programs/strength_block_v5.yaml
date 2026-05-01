@@ -1,11 +1,11 @@
 name: Strength Block v5
-description: 4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive accessory fatigue. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
+description: 4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive fatigue. Incline DB bench is kept as a normal bench variation, not accessory filler. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
 weeks: 4
 days_per_week: 5
 workouts:
 - week: 1
   day: 1
-  name: Monday - Bench Volume / Upper
+  name: Monday - Paused Bench + Incline DB Variation / Pull-Ups
   exercises:
   - name: Bench Press (Paused)
     sets:
@@ -26,15 +26,15 @@ workouts:
     - Chest
   - name: Incline Bench Press (Dumbbell)
     sets:
-    - target: 8
+    - target: 6
       rpe:
       - 7
       - 7.5
-    - target: 8
+    - target: 6
       rpe:
       - 7
       - 7.5
-    - target: 8
+    - target: 6
       rpe:
       - 7
       - 7.5
@@ -321,7 +321,7 @@ workouts:
     - Core
 - week: 2
   day: 1
-  name: Monday - Bench Volume / Upper
+  name: Monday - Paused Bench + Incline DB Variation / Pull-Ups
   exercises:
   - name: Bench Press (Paused)
     sets:
@@ -345,15 +345,15 @@ workouts:
     muscles: *id001
   - name: Incline Bench Press (Dumbbell)
     sets:
-    - target: 8
+    - target: 6
       rpe:
       - 7.5
       - 8
-    - target: 8
+    - target: 6
       rpe:
       - 7.5
       - 8
-    - target: 8
+    - target: 6
       rpe:
       - 7.5
       - 8
@@ -653,7 +653,7 @@ workouts:
     muscles: *id007
 - week: 3
   day: 1
-  name: Monday - Bench Volume / Upper
+  name: Monday - Paused Bench + Incline DB Variation / Pull-Ups
   exercises:
   - name: Bench Press (Paused)
     sets:
@@ -673,10 +673,6 @@ workouts:
     muscles: *id001
   - name: Incline Bench Press (Dumbbell)
     sets:
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
     - target: 6
       rpe:
       - 7.5
@@ -977,7 +973,7 @@ workouts:
     muscles: *id007
 - week: 4
   day: 1
-  name: Monday - Bench Volume / Upper
+  name: Monday - Paused Bench + Incline DB Variation / Pull-Ups
   exercises:
   - name: Bench Press (Paused)
     sets:
@@ -993,10 +989,6 @@ workouts:
     muscles: *id001
   - name: Incline Bench Press (Dumbbell)
     sets:
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
     - target: 6
       rpe:
       - 7
