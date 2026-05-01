@@ -35,7 +35,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
-| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
+| 2 | Leg Extension | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -90,7 +90,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5 |
-| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
+| 2 | Leg Extension | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -145,7 +145,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 8.5-9; 3 reps @ RPE 8.5-9; 3 reps @ RPE 8.5-9; 3 reps @ RPE 8.5-9 |
-| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
+| 2 | Leg Extension | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -200,7 +200,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 9-9.5; 3 reps @ RPE 9-9.5; 3 reps @ RPE 9-9.5 |
-| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
+| 2 | Leg Extension | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 

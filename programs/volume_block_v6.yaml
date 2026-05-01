@@ -166,7 +166,7 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Leg Press
+  - name: Leg Extension
     type: Machine
     muscles:
     - Legs
@@ -504,7 +504,7 @@ workouts:
       rpe:
       - 7
       - 7.5
-  - name: Leg Press
+  - name: Leg Extension
     type: Machine
     muscles:
     - Legs
@@ -838,7 +838,7 @@ workouts:
       rpe:
       - 7.5
       - 8
-  - name: Leg Press
+  - name: Leg Extension
     type: Machine
     muscles:
     - Legs
@@ -1152,7 +1152,7 @@ workouts:
       rpe:
       - 8.5
       - 9.5
-  - name: Leg Press
+  - name: Leg Extension
     type: Machine
     muscles:
     - Legs

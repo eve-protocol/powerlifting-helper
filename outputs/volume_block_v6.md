@@ -35,7 +35,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7 |
-| 2 | Leg Press | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -90,7 +90,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
-| 2 | Leg Press | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -145,7 +145,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
-| 2 | Leg Press | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -200,7 +200,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 5 reps @ RPE 8.5-9.5 |
-| 2 | Leg Press | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
