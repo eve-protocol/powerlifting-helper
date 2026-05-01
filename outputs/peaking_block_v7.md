@@ -1,6 +1,6 @@
 # Peaking Block v7
 
-4-week realization block. Competition specificity rises while volume falls: early practice singles, opener/second rehearsal, then taper and mock meet. Heavy deadlift is Tuesday to avoid Saturday-to-Monday fatigue and failed/grindy repeat singles are intentionally avoided.
+4-week realization block following 5RM accumulation and 3RM transmutation. Specificity rises while volume falls: practice singles, opener/second rehearsal, taper, and mock meet. Heavy deadlift remains Tuesday and repeated failed/grindy singles are intentionally avoided.
 
 ## Overview
 
@@ -24,7 +24,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7.5-8; 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-7.5; 2 reps @ RPE 6.5-7; 2 reps @ RPE 6.5-7 |
 | 2 | Bench Press (Barbell) | 3 reps @ RPE 6-6.5; 3 reps @ RPE 6-6.5 |
 | 3 | Leg Curl | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
 
@@ -39,7 +39,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 7.5-8; 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-7.5; 2 reps @ RPE 6.5-7; 2 reps @ RPE 6.5-7 |
 | 2 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 | 3 | Bicep Curl (EZ Bar) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -47,7 +47,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 7.5-8; 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 7-7.5; 2 reps @ RPE 6.5-7; 2 reps @ RPE 6.5-7 |
 | 2 | Bench Press (Barbell) | 2 reps @ RPE 6-6.5; 2 reps @ RPE 6-6.5 |
 | 3 | Sumo Deadlift (Barbell) | 1 reps @ RPE 6-6.5 |
 

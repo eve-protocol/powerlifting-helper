@@ -1,23 +1,23 @@
 name: Volume Block v6
-description: '4-week accumulation block with a specific 5RM runway: easier post-mock-meet re-entry, high-bar squat emphasis, x10/x8 early hypertrophy work, week 3 sixes, and week 4 controlled 5RM PR attempts for high-bar squat, bench, and sumo deadlift. Heavy deadlift stays Tuesday to protect Monday recovery.'
+description: '4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Higher-rep work is kept mostly to accessories/machines. Heavy deadlift stays Tuesday to protect Monday recovery.'
 weeks: 4
 days_per_week: 5
 workouts:
 - week: 1
   day: 1
-  name: Monday - Bench Volume / Pull-Ups
+  name: Monday - Bench 8s / Pull-Ups
   exercises:
   - name: Bench Press (Barbell)
     sets:
-    - target: 10
+    - target: 8
       rpe:
       - 6
       - 6.5
-    - target: 10
+    - target: 8
       rpe:
       - 6
       - 6.5
-    - target: 10
+    - target: 8
       rpe:
       - 6
       - 6.5
@@ -75,19 +75,19 @@ workouts:
     muscles: *id001
 - week: 1
   day: 2
-  name: Tuesday - Deadlift Volume / Posterior Chain
+  name: Tuesday - Deadlift 6s / Posterior Chain
   exercises:
   - name: Sumo Deadlift (Barbell)
     sets:
-    - target: 8
+    - target: 6
       rpe:
       - 6
       - 6.5
-    - target: 8
+    - target: 6
       rpe:
       - 6
       - 6.5
-    - target: 8
+    - target: 6
       rpe:
       - 6
       - 6.5
@@ -143,19 +143,19 @@ workouts:
     - Shoulders
 - week: 1
   day: 3
-  name: Wednesday - High Bar Squat Volume / Legs
+  name: Wednesday - High Bar Squat 8s / Legs
   exercises:
   - name: High Bar Squat (Barbell)
     sets:
-    - target: 10
+    - target: 8
       rpe:
       - 6
       - 6.5
-    - target: 10
+    - target: 8
       rpe:
       - 6
       - 6.5
-    - target: 10
+    - target: 8
       rpe:
       - 6
       - 6.5
@@ -211,19 +211,19 @@ workouts:
     muscles: *id004
 - week: 1
   day: 4
-  name: Thursday - Bench Intensity / Pull-Ups
+  name: Thursday - Bench 6s / Pull-Ups
   exercises:
   - name: Bench Press (Barbell)
     sets:
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
-    - target: 8
+    - target: 6
       rpe:
       - 6
       - 6.5
-    - target: 8
+    - target: 6
       rpe:
       - 6
       - 6.5
@@ -280,14 +280,10 @@ workouts:
     muscles: *id005
 - week: 1
   day: 5
-  name: Saturday - High Bar Squat / Light Pull / Bench Technique
+  name: Saturday - High Bar 8s / Light Pull
   exercises:
   - name: High Bar Squat (Barbell)
     sets:
-    - target: 8
-      rpe:
-      - 6
-      - 6.5
     - target: 8
       rpe:
       - 6
@@ -300,10 +296,6 @@ workouts:
     muscles: *id003
   - name: Sumo Deadlift (Paused)
     sets:
-    - target: 5
-      rpe:
-      - 5.5
-      - 6
     - target: 5
       rpe:
       - 5.5
@@ -345,23 +337,23 @@ workouts:
     - Core
 - week: 2
   day: 1
-  name: Monday - Bench Volume / Pull-Ups
+  name: Monday - Bench 6s / Pull-Ups
   exercises:
   - name: Bench Press (Barbell)
     sets:
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
@@ -417,7 +409,7 @@ workouts:
     muscles: *id001
 - week: 2
   day: 2
-  name: Tuesday - Deadlift Volume / Posterior Chain
+  name: Tuesday - Deadlift 5-6s / Posterior Chain
   exercises:
   - name: Sumo Deadlift (Barbell)
     sets:
@@ -425,15 +417,11 @@ workouts:
       rpe:
       - 6.5
       - 7
-    - target: 6
+    - target: 5
       rpe:
       - 6.5
       - 7
-    - target: 6
-      rpe:
-      - 6.5
-      - 7
-    - target: 6
+    - target: 5
       rpe:
       - 6.5
       - 7
@@ -489,23 +477,23 @@ workouts:
     muscles: *id006
 - week: 2
   day: 3
-  name: Wednesday - High Bar Squat Volume / Legs
+  name: Wednesday - High Bar Squat 6s / Legs
   exercises:
   - name: High Bar Squat (Barbell)
     sets:
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
-    - target: 8
+    - target: 6
       rpe:
       - 6.5
       - 7
@@ -561,7 +549,7 @@ workouts:
     muscles: *id004
 - week: 2
   day: 4
-  name: Thursday - Bench Intensity / Pull-Ups
+  name: Thursday - Bench 5-6s / Pull-Ups
   exercises:
   - name: Bench Press (Barbell)
     sets:
@@ -569,15 +557,11 @@ workouts:
       rpe:
       - 7
       - 7.5
-    - target: 6
+    - target: 5
       rpe:
       - 6.5
       - 7
-    - target: 6
-      rpe:
-      - 6.5
-      - 7
-    - target: 6
+    - target: 5
       rpe:
       - 6.5
       - 7
@@ -633,14 +617,10 @@ workouts:
     muscles: *id005
 - week: 2
   day: 5
-  name: Saturday - High Bar Squat / Light Pull / Bench Technique
+  name: Saturday - High Bar 6s / Light Pull
   exercises:
   - name: High Bar Squat (Barbell)
     sets:
-    - target: 6
-      rpe:
-      - 6.5
-      - 7
     - target: 6
       rpe:
       - 6.5
@@ -653,10 +633,6 @@ workouts:
     muscles: *id003
   - name: Sumo Deadlift (Paused)
     sets:
-    - target: 5
-      rpe:
-      - 6
-      - 6.5
     - target: 5
       rpe:
       - 6
@@ -697,23 +673,19 @@ workouts:
     muscles: *id007
 - week: 3
   day: 1
-  name: Monday - Bench Volume / Pull-Ups
+  name: Monday - Bench 5s Prep / Pull-Ups
   exercises:
   - name: Bench Press (Barbell)
     sets:
-    - target: 6
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
       rpe:
       - 7
       - 7.5
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    - target: 6
+    - target: 5
       rpe:
       - 7
       - 7.5
@@ -769,14 +741,14 @@ workouts:
     muscles: *id001
 - week: 3
   day: 2
-  name: Tuesday - Deadlift Volume / Posterior Chain
+  name: Tuesday - Deadlift 5s Prep
   exercises:
   - name: Sumo Deadlift (Barbell)
     sets:
-    - target: 6
+    - target: 5
       rpe:
-      - 7
       - 7.5
+      - 8
     - target: 5
       rpe:
       - 7
@@ -837,23 +809,19 @@ workouts:
     muscles: *id006
 - week: 3
   day: 3
-  name: Wednesday - High Bar Squat Volume / Legs
+  name: Wednesday - High Bar Squat 5s Prep
   exercises:
   - name: High Bar Squat (Barbell)
     sets:
-    - target: 6
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
       rpe:
       - 7
       - 7.5
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    - target: 6
+    - target: 5
       rpe:
       - 7
       - 7.5
@@ -909,19 +877,15 @@ workouts:
     muscles: *id004
 - week: 3
   day: 4
-  name: Thursday - Bench Intensity / Pull-Ups
+  name: Thursday - Bench 5s Specific
   exercises:
   - name: Bench Press (Barbell)
     sets:
-    - target: 6
+    - target: 5
       rpe:
-      - 7.5
       - 8
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    - target: 6
+      - 8.5
+    - target: 5
       rpe:
       - 7
       - 7.5
@@ -981,30 +945,26 @@ workouts:
     muscles: *id005
 - week: 3
   day: 5
-  name: Saturday - High Bar Squat / Light Pull / Bench Technique
+  name: Saturday - High Bar 5s / Light Pull
   exercises:
   - name: High Bar Squat (Barbell)
     sets:
-    - target: 6
+    - target: 5
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 6
+    - target: 5
       rpe:
+      - 6.5
       - 7
-      - 7.5
     type: Barbell
     muscles: *id003
   - name: Sumo Deadlift (Paused)
     sets:
-    - target: 5
+    - target: 4
       rpe:
+      - 6
       - 6.5
-      - 7
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
     type: Barbell
     muscles: *id002
   - name: Bench Press (Paused)
@@ -1041,18 +1001,18 @@ workouts:
     muscles: *id007
 - week: 4
   day: 1
-  name: Monday - Bench Volume / Pull-Ups
+  name: Monday - Bench 5RM Benchmark
   exercises:
   - name: Bench Press (Barbell)
     sets:
-    - target: 6
+    - target: 5
       rpe:
-      - 6.5
-      - 7
-    - target: 6
+      - 8.5
+      - 9
+    - target: 5
       rpe:
-      - 6.5
       - 7
+      - 7.5
     type: Barbell
     muscles: *id001
   - name: Incline Bench Press (Dumbbell)
@@ -1117,18 +1077,10 @@ workouts:
       rpe:
       - 6.5
       - 7
-    - target: 8
-      rpe:
-      - 6.5
-      - 7
     type: Barbell
     muscles: *id002
   - name: Leg Curl
     sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
     - target: 12
       rpe:
       - 7
@@ -1157,18 +1109,14 @@ workouts:
     muscles: *id006
 - week: 4
   day: 3
-  name: Wednesday - High Bar Squat 5RM Benchmark
+  name: Wednesday - Recovery / Upper Accessories
   exercises:
   - name: High Bar Squat (Barbell)
     sets:
     - target: 5
       rpe:
-      - 8.5
-      - 9
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
+      - 5
+      - 6
     type: Barbell
     muscles: *id003
   - name: Leg Press
@@ -1177,18 +1125,10 @@ workouts:
       rpe:
       - 7
       - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
     type: Machine
     muscles: *id003
   - name: Leg Extension
     sets:
-    - target: 15
-      rpe:
-      - 7
-      - 7.5
     - target: 15
       rpe:
       - 7
@@ -1213,9 +1153,9 @@ workouts:
     muscles: *id004
 - week: 4
   day: 4
-  name: Thursday - Bench 5RM Benchmark
+  name: Thursday - High Bar Squat 5RM Benchmark
   exercises:
-  - name: Bench Press (Barbell)
+  - name: High Bar Squat (Barbell)
     sets:
     - target: 5
       rpe:
@@ -1226,13 +1166,22 @@ workouts:
       - 7
       - 7.5
     type: Barbell
+    muscles:
+    - Legs
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 5
+      rpe:
+      - 6
+      - 6.5
+    - target: 5
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
     muscles: *id001
   - name: Pull-Up (Weighted)
     sets:
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
     - target: 6
       rpe:
       - 7.5
@@ -1249,10 +1198,6 @@ workouts:
       rpe:
       - 7.5
       - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
     type: Cable
     muscles: *id005
   - name: Bicep Curl (EZ Bar)
@@ -1261,46 +1206,34 @@ workouts:
       rpe:
       - 7.5
       - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
     type: Barbell
     muscles: *id005
 - week: 4
   day: 5
-  name: Saturday - High Bar Squat / Light Pull / Bench Technique
+  name: Saturday - Light Technique / Pump
   exercises:
   - name: High Bar Squat (Barbell)
     sets:
     - target: 5
       rpe:
+      - 5
       - 6
-      - 6.5
-    - target: 5
-      rpe:
-      - 6
-      - 6.5
     type: Barbell
     muscles: *id003
   - name: Sumo Deadlift (Paused)
     sets:
-    - target: 5
+    - target: 3
       rpe:
+      - 5
       - 6
-      - 6.5
     type: Barbell
     muscles: *id002
   - name: Bench Press (Paused)
     sets:
     - target: 5
       rpe:
+      - 5
       - 6
-      - 6.5
-    - target: 5
-      rpe:
-      - 6
-      - 6.5
     type: Barbell
     muscles: *id001
   - name: Cable Crunch

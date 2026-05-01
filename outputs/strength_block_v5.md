@@ -1,6 +1,6 @@
 # Strength Block v5
 
-4-week transmutation block. Converts accumulation into competition-specific strength with low-bar squat, comp bench, and sumo deadlift; heavy deadlift moves to Tuesday, heavy squat to Saturday, and week 4 uses controlled 3-rep benchmarks without grinder intent.
+4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive accessory fatigue. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
 
 ## Overview
 
@@ -16,7 +16,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
+| 1 | Bench Press (Paused) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
@@ -25,8 +25,8 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
-| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
+| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
 | 3 | Leg Curl | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
@@ -35,7 +35,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 2 | Leg Press | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
+| 2 | Leg Press | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
 | 3 | Leg Extension | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 | 4 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 
@@ -43,16 +43,16 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
 | 2 | Pull-Up (Weighted) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5 |
-| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
+| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 | 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 
 #### Day 5 — Saturday - Heavy Squat / Bench Technique
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
 | 2 | Bench Press (Paused) | 4 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5 |
 | 3 | Sumo Deadlift (Paused) | 3 reps @ RPE 5.5-6; 3 reps @ RPE 5.5-6 |
 | 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |

@@ -1,5 +1,5 @@
 name: Strength Block v5
-description: 4-week transmutation block. Converts accumulation into competition-specific strength with low-bar squat, comp bench, and sumo deadlift; heavy deadlift moves to Tuesday, heavy squat to Saturday, and week 4 uses controlled 3-rep benchmarks without grinder intent.
+description: 4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive accessory fatigue. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
 weeks: 4
 days_per_week: 5
 workouts:
@@ -9,10 +9,6 @@ workouts:
   exercises:
   - name: Bench Press (Paused)
     sets:
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
     - target: 5
       rpe:
       - 6.5
@@ -91,20 +87,12 @@ workouts:
       rpe:
       - 7
       - 7.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
     type: Barbell
     muscles: &id002
     - Legs
     - Back
   - name: Romanian Deadlift (Barbell)
     sets:
-    - target: 6
-      rpe:
-      - 6.5
-      - 7
     - target: 6
       rpe:
       - 6.5
@@ -175,10 +163,6 @@ workouts:
       rpe:
       - 7
       - 7.5
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
     type: Machine
     muscles: *id003
   - name: Leg Extension
@@ -227,10 +211,6 @@ workouts:
       rpe:
       - 7.5
       - 8
-    - target: 4
-      rpe:
-      - 7.5
-      - 8
     type: Barbell
     muscles: *id001
   - name: Pull-Up (Weighted)
@@ -251,10 +231,6 @@ workouts:
     muscles: *id004
   - name: Overhead Tricep Extension (Cable)
     sets:
-    - target: 10
-      rpe:
-      - 8
-      - 8.5
     - target: 10
       rpe:
       - 8
@@ -289,10 +265,6 @@ workouts:
   - name: Squat (Low Bar)
     sets:
     - target: 1
-      rpe:
-      - 7.5
-      - 8
-    - target: 4
       rpe:
       - 7.5
       - 8

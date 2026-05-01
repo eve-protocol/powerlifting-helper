@@ -1,5 +1,5 @@
 name: Peaking Block v7
-description: '4-week realization block. Competition specificity rises while volume falls: early practice singles, opener/second rehearsal, then taper and mock meet. Heavy deadlift is Tuesday to avoid Saturday-to-Monday fatigue and failed/grindy repeat singles are intentionally avoided.'
+description: '4-week realization block following 5RM accumulation and 3RM transmutation. Specificity rises while volume falls: practice singles, opener/second rehearsal, taper, and mock meet. Heavy deadlift remains Tuesday and repeated failed/grindy singles are intentionally avoided.'
 weeks: 4
 days_per_week: 5
 workouts:
@@ -62,16 +62,16 @@ workouts:
     sets:
     - target: 1
       rpe:
-      - 7.5
-      - 8
-    - target: 2
-      rpe:
       - 7
       - 7.5
     - target: 2
       rpe:
+      - 6.5
       - 7
-      - 7.5
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
     type: Barbell
     muscles: &id004
     - Legs
@@ -141,16 +141,16 @@ workouts:
     sets:
     - target: 1
       rpe:
-      - 7.5
-      - 8
-    - target: 2
-      rpe:
       - 7
       - 7.5
     - target: 2
       rpe:
+      - 6.5
       - 7
-      - 7.5
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
     type: Barbell
     muscles: *id001
   - name: Pull-Up (Weighted)
@@ -190,16 +190,16 @@ workouts:
     sets:
     - target: 1
       rpe:
-      - 7.5
-      - 8
-    - target: 2
-      rpe:
       - 7
       - 7.5
     - target: 2
       rpe:
+      - 6.5
       - 7
-      - 7.5
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
     type: Barbell
     muscles: *id002
   - name: Bench Press (Barbell)
