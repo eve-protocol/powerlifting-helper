@@ -53,9 +53,30 @@ def render_program(program: dict) -> str:
     lines.append("## Program Structure")
     lines.append("")
 
+    # Big 3 identification
+    big3_patterns = {
+        "Squat": ["Squat"],
+        "Bench": ["Bench Press", "Larsen", "Spoto"],
+        "Deadlift": ["Deadlift"],
+    }
+
+    def is_big3(ex_name: str) -> str | None:
+        for lift, patterns in big3_patterns.items():
+            if any(p in ex_name for p in patterns):
+                return lift
+        return None
+
     for week in sorted(grouped.keys()):
         lines.append(f"### Week {week}")
         lines.append("")
+
+        # Track big 3 volume for this week
+        week_big3: dict[str, dict] = {
+            "Squat": {"sets": 0, "reps": 0},
+            "Bench": {"sets": 0, "reps": 0},
+            "Deadlift": {"sets": 0, "reps": 0},
+        }
+
         for workout in sorted(grouped[week], key=lambda w: w.get("day", 0)):
             day = workout.get("day", "?")
             wname = workout.get("name", f"Day {day}")
@@ -67,7 +88,27 @@ def render_program(program: dict) -> str:
                 ex_name = ex.get("name", "Unknown")
                 prescription = summarize_sets(ex.get("sets", []))
                 lines.append(f"| {idx} | {ex_name} | {prescription} |")
+
+                # Count big 3 sets/reps
+                lift = is_big3(ex_name)
+                if lift:
+                    ex_sets = ex.get("sets", [])
+                    week_big3[lift]["sets"] += len(ex_sets)
+                    week_big3[lift]["reps"] += sum(
+                        s.get("target", 0) for s in ex_sets
+                    )
             lines.append("")
+
+        # Big 3 weekly summary
+        lines.append("#### Weekly Big 3 Volume")
+        lines.append("")
+        lines.append("| Lift | Sets | Reps |")
+        lines.append("|------|------|------|")
+        for lift in ["Squat", "Bench", "Deadlift"]:
+            s = week_big3[lift]["sets"]
+            r = week_big3[lift]["reps"]
+            lines.append(f"| {lift} | {s} | {r} |")
+        lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
 

@@ -1,0 +1,1337 @@
+name: Strength Block v5
+description: "4-week transmutation block (4s \u2192 3s \u2192 3s heavier \u2192 3RM\
+  \ benchmark). Potentiation singles return on heavy days (Wed squat, Thu bench, Sat\
+  \ deadlift) followed by top set + back off. Monday variation becomes pause squat\
+  \ (low bar) for hole strength specificity. Same day structure as accumulation for\
+  \ consistency. Incline DB stays as serious bench exposure. Pull-ups twice weekly."
+weeks: 4
+days_per_week: 5
+workouts:
+- week: 1
+  day: 1
+  name: Monday - Paused Bench / Pause Squat / Pull-Ups
+  exercises:
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+  - name: Squat (Paused)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+  - name: Pull-Up (Weighted)
+    type: Dumbbell
+    muscles:
+    - Back
+    sets:
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+  - name: Cable Crunch
+    type: Machine
+    muscles:
+    - Core
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+- week: 1
+  day: 2
+  name: Tuesday - Paused Deadlift / Incline DB Bench
+  exercises:
+  - name: Sumo Deadlift (Paused)
+    type: Barbell
+    muscles:
+    - Legs
+    - Back
+    sets:
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+  - name: Incline Bench Press (Dumbbell)
+    type: Dumbbell
+    muscles:
+    - Chest
+    sets:
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+  - name: Lateral Raise (Dumbbell)
+    type: Dumbbell
+    muscles:
+    - Shoulders
+    sets:
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+  - name: Rear Delt Fly (Machine)
+    type: Machine
+    muscles:
+    - Shoulders
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+- week: 1
+  day: 3
+  name: Wednesday - Heavy Low Bar / Legs / Back
+  exercises:
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 1
+      rpe:
+      - 7.5
+      - 8
+    - target: 4
+      rpe:
+      - 7.5
+      - 8
+    - target: 4
+      rpe:
+      - 7.5
+      - 8
+    - target: 4
+      rpe:
+      - 7.5
+      - 8
+  - name: Leg Extension
+    type: Machine
+    muscles:
+    - Legs
+    sets:
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+  - name: Standing T Bar Row
+    type: Barbell
+    muscles:
+    - Back
+    sets:
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+  - name: Leg Curl
+    type: Machine
+    muscles:
+    - Legs
+    sets:
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+- week: 1
+  day: 4
+  name: Thursday - Heavy Bench / Pull-Ups / Arms
+  exercises:
+  - name: Bench Press (Barbell)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 1
+      rpe:
+      - 7.5
+      - 8
+    - target: 4
+      rpe:
+      - 7.5
+      - 8
+    - target: 4
+      rpe:
+      - 7.5
+      - 8
+  - name: Pull-Up (Weighted)
+    type: Dumbbell
+    muscles:
+    - Back
+    sets:
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+  - name: Overhead Tricep Extension (Cable)
+    type: Cable
+    muscles:
+    - Arms
+    sets:
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+  - name: Bicep Curl (EZ Bar)
+    type: Barbell
+    muscles:
+    - Arms
+    sets:
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+- week: 1
+  day: 5
+  name: Saturday - Heavy Deadlift / Light Low Bar / Larsen
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    type: Barbell
+    muscles:
+    - Back
+    - Legs
+    sets:
+    - target: 1
+      rpe:
+      - 7.5
+      - 8
+    - target: 4
+      rpe:
+      - 7.5
+      - 8
+    - target: 4
+      rpe:
+      - 7.5
+      - 8
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 4
+      rpe:
+      - 5.5
+      - 6
+    - target: 4
+      rpe:
+      - 5.5
+      - 6
+  - name: Larsen Press (Barbell)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+- week: 2
+  day: 1
+  name: Monday - Paused Bench / Pause Squat / Pull-Ups
+  exercises:
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+  - name: Squat (Paused)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+  - name: Pull-Up (Weighted)
+    type: Dumbbell
+    muscles:
+    - Back
+    sets:
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+  - name: Cable Crunch
+    type: Machine
+    muscles:
+    - Core
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+- week: 2
+  day: 2
+  name: Tuesday - Paused Deadlift / Incline DB Bench
+  exercises:
+  - name: Sumo Deadlift (Paused)
+    type: Barbell
+    muscles:
+    - Legs
+    - Back
+    sets:
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+  - name: Incline Bench Press (Dumbbell)
+    type: Dumbbell
+    muscles:
+    - Chest
+    sets:
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+  - name: Lateral Raise (Dumbbell)
+    type: Dumbbell
+    muscles:
+    - Shoulders
+    sets:
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+  - name: Rear Delt Fly (Machine)
+    type: Machine
+    muscles:
+    - Shoulders
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+- week: 2
+  day: 3
+  name: Wednesday - Heavy Low Bar / Legs / Back
+  exercises:
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+    - target: 3
+      rpe:
+      - 8
+      - 8.5
+    - target: 3
+      rpe:
+      - 8
+      - 8.5
+    - target: 3
+      rpe:
+      - 8
+      - 8.5
+  - name: Leg Extension
+    type: Machine
+    muscles:
+    - Legs
+    sets:
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+  - name: Standing T Bar Row
+    type: Barbell
+    muscles:
+    - Back
+    sets:
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+  - name: Leg Curl
+    type: Machine
+    muscles:
+    - Legs
+    sets:
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+- week: 2
+  day: 4
+  name: Thursday - Heavy Bench / Pull-Ups / Arms
+  exercises:
+  - name: Bench Press (Barbell)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+    - target: 3
+      rpe:
+      - 8
+      - 8.5
+    - target: 3
+      rpe:
+      - 8
+      - 8.5
+  - name: Pull-Up (Weighted)
+    type: Dumbbell
+    muscles:
+    - Back
+    sets:
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+  - name: Overhead Tricep Extension (Cable)
+    type: Cable
+    muscles:
+    - Arms
+    sets:
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+  - name: Bicep Curl (EZ Bar)
+    type: Barbell
+    muscles:
+    - Arms
+    sets:
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+- week: 2
+  day: 5
+  name: Saturday - Heavy Deadlift / Light Low Bar / Larsen
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    type: Barbell
+    muscles:
+    - Back
+    - Legs
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+    - target: 3
+      rpe:
+      - 8
+      - 8.5
+    - target: 3
+      rpe:
+      - 8
+      - 8.5
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 3
+      rpe:
+      - 5.5
+      - 6
+    - target: 3
+      rpe:
+      - 5.5
+      - 6
+  - name: Larsen Press (Barbell)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+- week: 3
+  day: 1
+  name: Monday - Paused Bench / Pause Squat / Pull-Ups
+  exercises:
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 3
+      rpe:
+      - 7.5
+      - 8
+    - target: 3
+      rpe:
+      - 7.5
+      - 8
+  - name: Squat (Paused)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 3
+      rpe:
+      - 7.5
+      - 8
+    - target: 3
+      rpe:
+      - 7.5
+      - 8
+  - name: Pull-Up (Weighted)
+    type: Dumbbell
+    muscles:
+    - Back
+    sets:
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+  - name: Cable Crunch
+    type: Machine
+    muscles:
+    - Core
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+- week: 3
+  day: 2
+  name: Tuesday - Paused Deadlift / Incline DB Bench
+  exercises:
+  - name: Sumo Deadlift (Paused)
+    type: Barbell
+    muscles:
+    - Legs
+    - Back
+    sets:
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+  - name: Incline Bench Press (Dumbbell)
+    type: Dumbbell
+    muscles:
+    - Chest
+    sets:
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+  - name: Lateral Raise (Dumbbell)
+    type: Dumbbell
+    muscles:
+    - Shoulders
+    sets:
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+  - name: Rear Delt Fly (Machine)
+    type: Machine
+    muscles:
+    - Shoulders
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+- week: 3
+  day: 3
+  name: Wednesday - Heavy Low Bar / Legs / Back
+  exercises:
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 1
+      rpe:
+      - 8.5
+      - 9
+    - target: 3
+      rpe:
+      - 8.5
+      - 9
+    - target: 3
+      rpe:
+      - 8.5
+      - 9
+    - target: 3
+      rpe:
+      - 8.5
+      - 9
+  - name: Leg Extension
+    type: Machine
+    muscles:
+    - Legs
+    sets:
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+  - name: Standing T Bar Row
+    type: Barbell
+    muscles:
+    - Back
+    sets:
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+  - name: Leg Curl
+    type: Machine
+    muscles:
+    - Legs
+    sets:
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+- week: 3
+  day: 4
+  name: Thursday - Heavy Bench / Pull-Ups / Arms
+  exercises:
+  - name: Bench Press (Barbell)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 1
+      rpe:
+      - 8.5
+      - 9
+    - target: 3
+      rpe:
+      - 8.5
+      - 9
+    - target: 3
+      rpe:
+      - 8.5
+      - 9
+  - name: Pull-Up (Weighted)
+    type: Dumbbell
+    muscles:
+    - Back
+    sets:
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+  - name: Overhead Tricep Extension (Cable)
+    type: Cable
+    muscles:
+    - Arms
+    sets:
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+  - name: Bicep Curl (EZ Bar)
+    type: Barbell
+    muscles:
+    - Arms
+    sets:
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+- week: 3
+  day: 5
+  name: Saturday - Heavy Deadlift / Light Low Bar / Larsen
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    type: Barbell
+    muscles:
+    - Back
+    - Legs
+    sets:
+    - target: 1
+      rpe:
+      - 8.5
+      - 9
+    - target: 3
+      rpe:
+      - 8.5
+      - 9
+    - target: 3
+      rpe:
+      - 8.5
+      - 9
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 3
+      rpe:
+      - 5.5
+      - 6
+    - target: 3
+      rpe:
+      - 5.5
+      - 6
+  - name: Larsen Press (Barbell)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+- week: 4
+  day: 1
+  name: Monday - Paused Bench / Pause Squat / Pull-Ups
+  exercises:
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+  - name: Squat (Paused)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+  - name: Pull-Up (Weighted)
+    type: Dumbbell
+    muscles:
+    - Back
+    sets:
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+    - target: 5
+      rpe:
+      - 7.5
+      - 8
+  - name: Cable Crunch
+    type: Machine
+    muscles:
+    - Core
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+- week: 4
+  day: 2
+  name: Tuesday - Paused Deadlift / Incline DB Bench
+  exercises:
+  - name: Sumo Deadlift (Paused)
+    type: Barbell
+    muscles:
+    - Legs
+    - Back
+    sets:
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+  - name: Incline Bench Press (Dumbbell)
+    type: Dumbbell
+    muscles:
+    - Chest
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+  - name: Lateral Raise (Dumbbell)
+    type: Dumbbell
+    muscles:
+    - Shoulders
+    sets:
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+  - name: Rear Delt Fly (Machine)
+    type: Machine
+    muscles:
+    - Shoulders
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+- week: 4
+  day: 3
+  name: Wednesday - Heavy Low Bar / Legs / Back
+  exercises:
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 1
+      rpe:
+      - 9
+      - 9.5
+    - target: 3
+      rpe:
+      - 9
+      - 9.5
+    - target: 3
+      rpe:
+      - 9
+      - 9.5
+  - name: Leg Extension
+    type: Machine
+    muscles:
+    - Legs
+    sets:
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+  - name: Standing T Bar Row
+    type: Barbell
+    muscles:
+    - Back
+    sets:
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+    - target: 10
+      rpe:
+      - 7.5
+      - 8
+  - name: Leg Curl
+    type: Machine
+    muscles:
+    - Legs
+    sets:
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7.5
+      - 8
+- week: 4
+  day: 4
+  name: Thursday - Heavy Bench / Pull-Ups / Arms
+  exercises:
+  - name: Bench Press (Barbell)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 1
+      rpe:
+      - 9
+      - 9.5
+    - target: 3
+      rpe:
+      - 9
+      - 9.5
+  - name: Pull-Up (Weighted)
+    type: Dumbbell
+    muscles:
+    - Back
+    sets:
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+    - target: 5
+      rpe:
+      - 8
+      - 8.5
+  - name: Overhead Tricep Extension (Cable)
+    type: Cable
+    muscles:
+    - Arms
+    sets:
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+  - name: Bicep Curl (EZ Bar)
+    type: Barbell
+    muscles:
+    - Arms
+    sets:
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+    - target: 10
+      rpe:
+      - 8
+      - 8.5
+- week: 4
+  day: 5
+  name: Saturday - Heavy Deadlift / Light Low Bar / Larsen
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    type: Barbell
+    muscles:
+    - Back
+    - Legs
+    sets:
+    - target: 1
+      rpe:
+      - 9
+      - 9.5
+    - target: 3
+      rpe:
+      - 9
+      - 9.5
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 2
+      rpe:
+      - 5
+      - 5.5
+    - target: 2
+      rpe:
+      - 5
+      - 5.5
+  - name: Larsen Press (Barbell)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
