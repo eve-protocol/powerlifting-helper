@@ -1,5 +1,5 @@
 name: Strength Block v5
-description: 4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive fatigue. Incline DB bench is kept as its own separate bench-variation exposure on a different day, not same-day accessory filler. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
+description: '4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive fatigue. Incline DB bench is kept as its own separate bench-variation exposure on a different day, not same-day accessory filler. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders. Exercise order is intentional: the main lift or named variation is first, and standard training days are balanced to four exercises.'
 weeks: 4
 days_per_week: 5
 workouts:
@@ -53,6 +53,19 @@ workouts:
       - 7.5
     type: Machine
     muscles: *id001
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
 - week: 1
   day: 2
   name: Tuesday - Heavy Deadlift
@@ -119,24 +132,8 @@ workouts:
     - Shoulders
 - week: 1
   day: 3
-  name: Wednesday - Low Bar Technique / Incline DB Bench
+  name: Wednesday - Incline DB Bench / Low Bar Technique
   exercises:
-  - name: Squat (Low Bar)
-    sets:
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
-    type: Barbell
-    muscles: *id003
   - name: Incline Bench Press (Dumbbell)
     sets:
     - target: 6
@@ -154,6 +151,22 @@ workouts:
     type: Dumbbell
     muscles:
     - Chest
+  - name: Squat (Low Bar)
+    sets:
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    type: Barbell
+    muscles: *id003
   - name: Leg Press
     sets:
     - target: 10
@@ -164,18 +177,6 @@ workouts:
       rpe:
       - 7
       - 7.5
-    type: Machine
-    muscles: *id003
-  - name: Leg Extension
-    sets:
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
     type: Machine
     muscles: *id003
   - name: Standing T Bar Row
@@ -372,6 +373,19 @@ workouts:
       - 8
     type: Machine
     muscles: *id001
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
 - week: 2
   day: 2
   name: Tuesday - Heavy Deadlift
@@ -438,24 +452,8 @@ workouts:
     muscles: *id006
 - week: 2
   day: 3
-  name: Wednesday - Low Bar Technique / Incline DB Bench
+  name: Wednesday - Incline DB Bench / Low Bar Technique
   exercises:
-  - name: Squat (Low Bar)
-    sets:
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-    type: Barbell
-    muscles: *id003
   - name: Incline Bench Press (Dumbbell)
     sets:
     - target: 6
@@ -473,6 +471,22 @@ workouts:
     type: Dumbbell
     muscles:
     - Chest
+  - name: Squat (Low Bar)
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id003
   - name: Leg Press
     sets:
     - target: 10
@@ -487,18 +501,6 @@ workouts:
       rpe:
       - 7.5
       - 8
-    type: Machine
-    muscles: *id003
-  - name: Leg Extension
-    sets:
-    - target: 12
-      rpe:
-      - 8
-      - 8.5
-    - target: 12
-      rpe:
-      - 8
-      - 8.5
     type: Machine
     muscles: *id003
   - name: Standing T Bar Row
@@ -701,6 +703,19 @@ workouts:
       - 8
     type: Machine
     muscles: *id001
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
 - week: 3
   day: 2
   name: Tuesday - Heavy Deadlift
@@ -767,8 +782,21 @@ workouts:
     muscles: *id006
 - week: 3
   day: 3
-  name: Wednesday - Low Bar Technique / Incline DB Bench
+  name: Wednesday - Incline DB Bench / Low Bar Technique
   exercises:
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+    - target: 6
+      rpe:
+      - 7.5
+      - 8
+    - target: 6
+      rpe:
+      - 7.5
+      - 8
+    type: Dumbbell
+    muscles:
+    - Chest
   - name: Squat (Low Bar)
     sets:
     - target: 4
@@ -785,19 +813,6 @@ workouts:
       - 8
     type: Barbell
     muscles: *id003
-  - name: Incline Bench Press (Dumbbell)
-    sets:
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
-    type: Dumbbell
-    muscles:
-    - Chest
   - name: Leg Press
     sets:
     - target: 10
@@ -809,18 +824,6 @@ workouts:
       - 8
       - 8.5
     - target: 10
-      rpe:
-      - 8
-      - 8.5
-    type: Machine
-    muscles: *id003
-  - name: Leg Extension
-    sets:
-    - target: 12
-      rpe:
-      - 8
-      - 8.5
-    - target: 12
       rpe:
       - 8
       - 8.5
@@ -1018,6 +1021,19 @@ workouts:
       - 7.5
     type: Machine
     muscles: *id001
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
 - week: 4
   day: 2
   name: Tuesday - Heavy Deadlift
@@ -1076,20 +1092,8 @@ workouts:
     muscles: *id006
 - week: 4
   day: 3
-  name: Wednesday - Low Bar Technique / Incline DB Bench
+  name: Wednesday - Incline DB Bench / Low Bar Technique
   exercises:
-  - name: Squat (Low Bar)
-    sets:
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-    type: Barbell
-    muscles: *id003
   - name: Incline Bench Press (Dumbbell)
     sets:
     - target: 6
@@ -1103,6 +1107,18 @@ workouts:
     type: Dumbbell
     muscles:
     - Chest
+  - name: Squat (Low Bar)
+    sets:
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id003
   - name: Leg Press
     sets:
     - target: 10
@@ -1114,18 +1130,6 @@ workouts:
       - 7
       - 7.5
     - target: 10
-      rpe:
-      - 7
-      - 7.5
-    type: Machine
-    muscles: *id003
-  - name: Leg Extension
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
       rpe:
       - 7
       - 7.5

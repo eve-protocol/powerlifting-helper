@@ -1,6 +1,6 @@
 # Volume Block v6
 
-4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery.
+4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery. Exercise order is intentional: the main lift or named variation is first, and regular training days are balanced to four exercises.
 
 ## Overview
 
@@ -19,6 +19,7 @@
 | 1 | Bench Press (Barbell) | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
 | 2 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 3 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
+| 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Deadlift 6s / Posterior Chain
 
@@ -65,6 +66,7 @@
 | 1 | Bench Press (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
 | 2 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 3 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Deadlift 5-6s / Posterior Chain
 
@@ -111,6 +113,7 @@
 | 1 | Bench Press (Barbell) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 | 2 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
 | 3 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Deadlift 5s Prep
 
@@ -157,6 +160,7 @@
 | 1 | Bench Press (Barbell) | 5 reps @ RPE 8.5-9; 5 reps @ RPE 7-7.5 |
 | 2 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
 | 3 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Deadlift 5RM Benchmark
 
@@ -167,15 +171,14 @@
 | 3 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
-#### Day 3 — Wednesday - Upper Recovery / No Lower Fatigue
+#### Day 3 — Wednesday - Incline DB Recovery / Upper
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 2 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
-| 3 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
-| 4 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
-| 5 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 1 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
+| 2 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 3 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
 
 #### Day 4 — Thursday - High Bar Squat 5RM Benchmark
 
@@ -185,7 +188,6 @@
 | 2 | Bench Press (Barbell) | 5 reps @ RPE 6-6.5; 5 reps @ RPE 6-6.5 |
 | 3 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
 | 4 | Overhead Tricep Extension (Cable) | 12 reps @ RPE 7.5-8 |
-| 5 | Bicep Curl (EZ Bar) | 12 reps @ RPE 7.5-8 |
 
 #### Day 5 — Saturday - Light Technique / Pump
 

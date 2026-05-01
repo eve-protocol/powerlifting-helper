@@ -1,5 +1,5 @@
 name: Volume Block v6
-description: '4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery.'
+description: '4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery. Exercise order is intentional: the main lift or named variation is first, and regular training days are balanced to four exercises.'
 weeks: 4
 days_per_week: 5
 workouts:
@@ -57,6 +57,19 @@ workouts:
       - 7
     type: Machine
     muscles: *id001
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
 - week: 1
   day: 2
   name: Tuesday - Deadlift 6s / Posterior Chain
@@ -376,6 +389,19 @@ workouts:
       - 7.5
     type: Machine
     muscles: *id001
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
 - week: 2
   day: 2
   name: Tuesday - Deadlift 5-6s / Posterior Chain
@@ -693,6 +719,19 @@ workouts:
       - 8
     type: Machine
     muscles: *id001
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
 - week: 3
   day: 2
   name: Tuesday - Deadlift 5s Prep
@@ -1002,6 +1041,19 @@ workouts:
       - 7.5
     type: Machine
     muscles: *id001
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
 - week: 4
   day: 2
   name: Tuesday - Deadlift 5RM Benchmark
@@ -1056,8 +1108,21 @@ workouts:
     muscles: *id006
 - week: 4
   day: 3
-  name: Wednesday - Upper Recovery / No Lower Fatigue
+  name: Wednesday - Incline DB Recovery / Upper
   exercises:
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+    - target: 6
+      rpe:
+      - 6.5
+      - 7
+    - target: 6
+      rpe:
+      - 6.5
+      - 7
+    type: Dumbbell
+    muscles:
+    - Chest
   - name: Standing T Bar Row
     sets:
     - target: 12
@@ -1097,32 +1162,6 @@ workouts:
     type: Machine
     muscles:
     - Chest
-  - name: Incline Bench Press (Dumbbell)
-    sets:
-    - target: 6
-      rpe:
-      - 6.5
-      - 7
-    - target: 6
-      rpe:
-      - 6.5
-      - 7
-    type: Dumbbell
-    muscles:
-    - Chest
-  - name: Cable Crunch
-    sets:
-    - target: 15
-      rpe:
-      - 7
-      - 7.5
-    - target: 15
-      rpe:
-      - 7
-      - 7.5
-    type: Cable
-    muscles:
-    - Core
 - week: 4
   day: 4
   name: Thursday - High Bar Squat 5RM Benchmark
@@ -1171,14 +1210,6 @@ workouts:
       - 7.5
       - 8
     type: Cable
-    muscles: *id005
-  - name: Bicep Curl (EZ Bar)
-    sets:
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
-    type: Barbell
     muscles: *id005
 - week: 4
   day: 5
