@@ -35,7 +35,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7 |
-| 2 | Leg Extension | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 2 | Leg Press | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -55,7 +55,15 @@
 | 1 | Sumo Deadlift (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
 | 2 | Squat (Low Bar) | 6 reps @ RPE 5-5.5; 6 reps @ RPE 5-5.5 |
 | 3 | Larsen Press | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
-| 4 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 8 | 60 |
+| Bench | 11 | 82 |
+| Deadlift | 6 | 33 |
 
 ### Week 2
 
@@ -82,7 +90,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
-| 2 | Leg Extension | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 2 | Leg Press | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -102,7 +110,15 @@
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 | 2 | Squat (Low Bar) | 5 reps @ RPE 5.5-6; 5 reps @ RPE 5.5-6 |
 | 3 | Larsen Press | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
-| 4 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 8 | 46 |
+| Bench | 11 | 63 |
+| Deadlift | 6 | 27 |
 
 ### Week 3
 
@@ -129,7 +145,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
-| 2 | Leg Extension | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 2 | Leg Press | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -149,7 +165,15 @@
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6; 4 reps @ RPE 5.5-6 |
 | 3 | Larsen Press | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 4 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 8 | 38 |
+| Bench | 11 | 55 |
+| Deadlift | 5 | 23 |
 
 ### Week 4
 
@@ -176,7 +200,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 5 reps @ RPE 8.5-9.5 |
-| 2 | Leg Extension | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 2 | Leg Press | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -196,4 +220,12 @@
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 8.5-9.5 |
 | 2 | Squat (Low Bar) | 3 reps @ RPE 5-5.5; 3 reps @ RPE 5-5.5 |
 | 3 | Larsen Press | 4 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5 |
-| 4 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 5 | 21 |
+| Bench | 7 | 31 |
+| Deadlift | 3 | 11 |

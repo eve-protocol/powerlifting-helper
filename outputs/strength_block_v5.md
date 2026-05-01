@@ -35,7 +35,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
-| 2 | Leg Extension | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -55,7 +55,15 @@
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
 | 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6; 4 reps @ RPE 5.5-6 |
 | 3 | Larsen Press | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 10 | 37 |
+| Bench | 11 | 49 |
+| Deadlift | 6 | 21 |
 
 ### Week 2
 
@@ -82,7 +90,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5 |
-| 2 | Leg Extension | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -102,7 +110,15 @@
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5; 3 reps @ RPE 8-8.5 |
 | 2 | Squat (Low Bar) | 3 reps @ RPE 5.5-6; 3 reps @ RPE 5.5-6 |
 | 3 | Larsen Press | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
-| 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 10 | 28 |
+| Bench | 11 | 42 |
+| Deadlift | 6 | 16 |
 
 ### Week 3
 
@@ -129,7 +145,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 8.5-9; 3 reps @ RPE 8.5-9; 3 reps @ RPE 8.5-9; 3 reps @ RPE 8.5-9 |
-| 2 | Leg Extension | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -149,7 +165,15 @@
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8.5-9; 3 reps @ RPE 8.5-9; 3 reps @ RPE 8.5-9 |
 | 2 | Squat (Low Bar) | 3 reps @ RPE 5.5-6; 3 reps @ RPE 5.5-6 |
 | 3 | Larsen Press | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
-| 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 8 | 22 |
+| Bench | 10 | 36 |
+| Deadlift | 5 | 13 |
 
 ### Week 4
 
@@ -176,7 +200,7 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 9-9.5; 3 reps @ RPE 9-9.5; 3 reps @ RPE 9-9.5 |
-| 2 | Leg Extension | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
@@ -196,4 +220,12 @@
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 9-9.5; 3 reps @ RPE 9-9.5 |
 | 2 | Squat (Low Bar) | 2 reps @ RPE 5-5.5; 2 reps @ RPE 5-5.5 |
 | 3 | Larsen Press | 3 reps @ RPE 6.5-7; 3 reps @ RPE 6.5-7 |
-| 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 7 | 15 |
+| Bench | 8 | 24 |
+| Deadlift | 4 | 8 |

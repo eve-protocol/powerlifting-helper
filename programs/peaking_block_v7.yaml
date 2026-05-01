@@ -820,6 +820,14 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 8
+      - 8
+    - target: 1
+      rpe:
+      - 9
+      - 9
+    - target: 1
+      rpe:
       - 10
       - 10
   - name: Bench Press (Barbell)
@@ -829,14 +837,29 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 8
+      - 8
+    - target: 1
+      rpe:
+      - 9
+      - 9
+    - target: 1
+      rpe:
       - 10
       - 10
   - name: Sumo Deadlift (Barbell)
     type: Barbell
     muscles:
-    - Back
     - Legs
     sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8
+    - target: 1
+      rpe:
+      - 9
+      - 9
     - target: 1
       rpe:
       - 10

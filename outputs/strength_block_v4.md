@@ -57,6 +57,14 @@
 | 2 | Squat (Low Bar) | 5 reps @ RPE 6-6.5; 5 reps @ RPE 6-6.5; 5 reps @ RPE 6-6.5 |
 | 3 | Spoto Press | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 11 | 37 |
+| Bench | 15 | 59 |
+| Deadlift | 13 | 44 |
+
 ### Week 2
 
 #### Day 1 — Monday - Heavy Squat / Pause Bench
@@ -104,6 +112,14 @@
 | 2 | Squat (Low Bar) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 3 | Spoto Press | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 11 | 37 |
+| Bench | 15 | 59 |
+| Deadlift | 13 | 44 |
+
 ### Week 3
 
 #### Day 1 — Monday - Heavy Squat / Pause Bench (Top Set)
@@ -150,3 +166,11 @@
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5; 3 reps @ RPE 9-9.5; 3 reps @ RPE 7.5-8; 3 reps @ RPE 7.5-8; 3 reps @ RPE 7.5-8 |
 | 2 | Squat (Low Bar) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 3 | Spoto Press | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 11 | 37 |
+| Bench | 15 | 59 |
+| Deadlift | 13 | 44 |

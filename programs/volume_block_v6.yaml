@@ -166,20 +166,20 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Leg Extension
+  - name: Leg Press
     type: Machine
     muscles:
     - Legs
     sets:
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
@@ -333,16 +333,16 @@ workouts:
       rpe:
       - 6
       - 6.5
-  - name: Cable Crunch
+  - name: Chest Fly (Machine)
     type: Machine
     muscles:
-    - Core
+    - Chest
     sets:
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
@@ -504,20 +504,20 @@ workouts:
       rpe:
       - 7
       - 7.5
-  - name: Leg Extension
+  - name: Leg Press
     type: Machine
     muscles:
     - Legs
     sets:
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
@@ -671,16 +671,16 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Cable Crunch
+  - name: Chest Fly (Machine)
     type: Machine
     muscles:
-    - Core
+    - Chest
     sets:
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
@@ -838,20 +838,20 @@ workouts:
       rpe:
       - 7.5
       - 8
-  - name: Leg Extension
+  - name: Leg Press
     type: Machine
     muscles:
     - Legs
     sets:
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
@@ -1005,16 +1005,16 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Cable Crunch
+  - name: Chest Fly (Machine)
     type: Machine
     muscles:
-    - Core
+    - Chest
     sets:
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
@@ -1152,20 +1152,20 @@ workouts:
       rpe:
       - 8.5
       - 9.5
-  - name: Leg Extension
+  - name: Leg Press
     type: Machine
     muscles:
     - Legs
     sets:
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
@@ -1303,16 +1303,16 @@ workouts:
       rpe:
       - 6
       - 6.5
-  - name: Cable Crunch
+  - name: Chest Fly (Machine)
     type: Machine
     muscles:
-    - Core
+    - Chest
     sets:
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
-    - target: 15
+    - target: 12
       rpe:
       - 7
       - 7.5
