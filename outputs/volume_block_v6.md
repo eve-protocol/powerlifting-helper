@@ -54,7 +54,7 @@
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
 | 2 | Squat (Low Bar) | 6 reps @ RPE 5-5.5; 6 reps @ RPE 5-5.5 |
-| 3 | Larsen Press | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
+| 3 | Larsen Press (Barbell) | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
 #### Weekly Big 3 Volume
@@ -109,7 +109,7 @@
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 | 2 | Squat (Low Bar) | 5 reps @ RPE 5.5-6; 5 reps @ RPE 5.5-6 |
-| 3 | Larsen Press | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
+| 3 | Larsen Press (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
 #### Weekly Big 3 Volume
@@ -164,7 +164,7 @@
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6; 4 reps @ RPE 5.5-6 |
-| 3 | Larsen Press | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
+| 3 | Larsen Press (Barbell) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
 #### Weekly Big 3 Volume
@@ -219,7 +219,7 @@
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 8.5-9.5; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 2 | Squat (Low Bar) | 3 reps @ RPE 5-5.5; 3 reps @ RPE 5-5.5 |
-| 3 | Larsen Press | 4 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5 |
+| 3 | Larsen Press (Barbell) | 4 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
 #### Weekly Big 3 Volume

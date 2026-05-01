@@ -28,7 +28,7 @@ workouts:
       rpe:
       - 7
       - 7.5
-  - name: Pause Squat (Low Bar)
+  - name: Squat (Paused)
     type: Barbell
     muscles:
     - Legs
@@ -323,7 +323,7 @@ workouts:
       rpe:
       - 5.5
       - 6
-  - name: Larsen Press
+  - name: Larsen Press (Barbell)
     type: Barbell
     muscles:
     - Chest
@@ -370,7 +370,7 @@ workouts:
       rpe:
       - 7
       - 7.5
-  - name: Pause Squat (Low Bar)
+  - name: Squat (Paused)
     type: Barbell
     muscles:
     - Legs
@@ -665,7 +665,7 @@ workouts:
       rpe:
       - 5.5
       - 6
-  - name: Larsen Press
+  - name: Larsen Press (Barbell)
     type: Barbell
     muscles:
     - Chest
@@ -708,7 +708,7 @@ workouts:
       rpe:
       - 7.5
       - 8
-  - name: Pause Squat (Low Bar)
+  - name: Squat (Paused)
     type: Barbell
     muscles:
     - Legs
@@ -995,7 +995,7 @@ workouts:
       rpe:
       - 5.5
       - 6
-  - name: Larsen Press
+  - name: Larsen Press (Barbell)
     type: Barbell
     muscles:
     - Chest
@@ -1038,7 +1038,7 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Pause Squat (Low Bar)
+  - name: Squat (Paused)
     type: Barbell
     muscles:
     - Legs
@@ -1309,7 +1309,7 @@ workouts:
       rpe:
       - 5
       - 5.5
-  - name: Larsen Press
+  - name: Larsen Press (Barbell)
     type: Barbell
     muscles:
     - Chest

@@ -320,7 +320,7 @@ workouts:
       rpe:
       - 5
       - 5.5
-  - name: Larsen Press
+  - name: Larsen Press (Barbell)
     type: Barbell
     muscles:
     - Chest
@@ -658,7 +658,7 @@ workouts:
       rpe:
       - 5.5
       - 6
-  - name: Larsen Press
+  - name: Larsen Press (Barbell)
     type: Barbell
     muscles:
     - Chest
@@ -992,7 +992,7 @@ workouts:
       rpe:
       - 5.5
       - 6
-  - name: Larsen Press
+  - name: Larsen Press (Barbell)
     type: Barbell
     muscles:
     - Chest
@@ -1314,7 +1314,7 @@ workouts:
       rpe:
       - 5
       - 5.5
-  - name: Larsen Press
+  - name: Larsen Press (Barbell)
     type: Barbell
     muscles:
     - Chest
