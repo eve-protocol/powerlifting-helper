@@ -9,3 +9,4 @@ __pycache__
 values/health_daily.json
 values/body_weight_history.json
 values/garmin_daily.json
+.secrets/
