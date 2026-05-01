@@ -313,6 +313,8 @@ class BoostcampManager:
 
             for row in rows:
                 if isinstance(row, dict) and 'title' in row:
+                    if row.get('status') == 'deleted':
+                        continue
                     all_programs[row.get('id')] = summarize_program_row(row, source)
         
         return list(all_programs.values())
