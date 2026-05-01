@@ -1,6 +1,6 @@
 # Volume Block v6
 
-4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery. Exercise order is intentional: the main lift or named variation is first, and regular training days are balanced to four exercises.
+4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery. Exercise order is intentional: the main lift or named variation is first, and regular training days are balanced to four exercises. RDLs are intentionally not stacked after deadlifts; deadlift days use lower-back-sparing accessories after the main pull.
 
 ## Overview
 
@@ -26,8 +26,8 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 6 reps @ RPE 6-6.5; 6 reps @ RPE 6-6.5; 6 reps @ RPE 6-6.5 |
-| 2 | Romanian Deadlift (Barbell) | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
-| 3 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 3 | Cable Crunch | 15 reps @ RPE 6.5-7; 15 reps @ RPE 6.5-7 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 3 — Wednesday - High Bar Squat 8s / Legs
@@ -73,8 +73,8 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 6 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 2 | Romanian Deadlift (Barbell) | 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7 |
-| 3 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 3 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 3 — Wednesday - High Bar Squat 6s / Legs
@@ -120,8 +120,8 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
-| 2 | Romanian Deadlift (Barbell) | 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5 |
-| 3 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 3 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8 |
 
 #### Day 3 — Wednesday - High Bar Squat 5s Prep
@@ -167,8 +167,8 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 8.5-9; 5 reps @ RPE 7-7.5 |
-| 2 | Romanian Deadlift (Barbell) | 8 reps @ RPE 6.5-7 |
-| 3 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 3 | Cable Crunch | 15 reps @ RPE 6.5-7; 15 reps @ RPE 6.5-7 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 3 — Wednesday - Incline DB Recovery / Upper

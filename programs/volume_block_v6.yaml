@@ -1,5 +1,5 @@
 name: Volume Block v6
-description: '4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery. Exercise order is intentional: the main lift or named variation is first, and regular training days are balanced to four exercises.'
+description: '4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery. Exercise order is intentional: the main lift or named variation is first, and regular training days are balanced to four exercises. RDLs are intentionally not stacked after deadlifts; deadlift days use lower-back-sparing accessories after the main pull.'
 weeks: 4
 days_per_week: 5
 workouts:
@@ -39,7 +39,7 @@ workouts:
       - 7
       - 7.5
     type: Dumbbell
-    muscles: &id004
+    muscles: &id003
     - Back
   - name: Chest Fly (Machine)
     sets:
@@ -89,21 +89,9 @@ workouts:
       - 6
       - 6.5
     type: Barbell
-    muscles: &id002
+    muscles: &id005
     - Legs
     - Back
-  - name: Romanian Deadlift (Barbell)
-    sets:
-    - target: 8
-      rpe:
-      - 6
-      - 6.5
-    - target: 8
-      rpe:
-      - 6
-      - 6.5
-    type: Barbell
-    muscles: *id002
   - name: Leg Curl
     sets:
     - target: 12
@@ -119,8 +107,21 @@ workouts:
       - 7
       - 7.5
     type: Machine
-    muscles: &id003
+    muscles: &id002
     - Legs
+  - name: Cable Crunch
+    sets:
+    - target: 15
+      rpe:
+      - 6.5
+      - 7
+    - target: 15
+      rpe:
+      - 6.5
+      - 7
+    type: Cable
+    muscles:
+    - Core
   - name: Rear Delt Fly (Machine)
     sets:
     - target: 15
@@ -157,7 +158,7 @@ workouts:
       - 6
       - 6.5
     type: Barbell
-    muscles: *id003
+    muscles: *id002
   - name: Leg Press
     sets:
     - target: 12
@@ -173,7 +174,7 @@ workouts:
       - 6.5
       - 7
     type: Machine
-    muscles: *id003
+    muscles: *id002
   - name: Leg Extension
     sets:
     - target: 15
@@ -189,7 +190,7 @@ workouts:
       - 7
       - 7.5
     type: Machine
-    muscles: *id003
+    muscles: *id002
   - name: Standing T Bar Row
     sets:
     - target: 12
@@ -205,7 +206,7 @@ workouts:
       - 7
       - 7.5
     type: Barbell
-    muscles: *id004
+    muscles: *id003
 - week: 1
   day: 4
   name: Thursday - Incline DB Bench 8s / Pull-Ups
@@ -242,7 +243,7 @@ workouts:
       - 7.5
       - 8
     type: Dumbbell
-    muscles: *id004
+    muscles: *id003
   - name: Overhead Tricep Extension (Cable)
     sets:
     - target: 12
@@ -258,7 +259,7 @@ workouts:
       - 7.5
       - 8
     type: Cable
-    muscles: &id005
+    muscles: &id004
     - Arms
   - name: Bicep Curl (EZ Bar)
     sets:
@@ -275,7 +276,7 @@ workouts:
       - 7.5
       - 8
     type: Barbell
-    muscles: *id005
+    muscles: *id004
 - week: 1
   day: 5
   name: Saturday - High Bar 8s / Light Pull
@@ -291,7 +292,7 @@ workouts:
       - 6
       - 6.5
     type: Barbell
-    muscles: *id003
+    muscles: *id002
   - name: Sumo Deadlift (Paused)
     sets:
     - target: 5
@@ -299,7 +300,7 @@ workouts:
       - 5.5
       - 6
     type: Barbell
-    muscles: *id002
+    muscles: *id005
   - name: Bench Press (Paused)
     sets:
     - target: 6
@@ -372,7 +373,7 @@ workouts:
       - 7
       - 7.5
     type: Dumbbell
-    muscles: *id004
+    muscles: *id003
   - name: Chest Fly (Machine)
     sets:
     - target: 12
@@ -421,23 +422,7 @@ workouts:
       - 6.5
       - 7
     type: Barbell
-    muscles: *id002
-  - name: Romanian Deadlift (Barbell)
-    sets:
-    - target: 8
-      rpe:
-      - 6.5
-      - 7
-    - target: 8
-      rpe:
-      - 6.5
-      - 7
-    - target: 8
-      rpe:
-      - 6.5
-      - 7
-    type: Barbell
-    muscles: *id002
+    muscles: *id005
   - name: Leg Curl
     sets:
     - target: 12
@@ -453,7 +438,20 @@ workouts:
       - 7.5
       - 8
     type: Machine
-    muscles: *id003
+    muscles: *id002
+  - name: Cable Crunch
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Cable
+    muscles:
+    - Core
   - name: Rear Delt Fly (Machine)
     sets:
     - target: 15
@@ -493,7 +491,7 @@ workouts:
       - 6.5
       - 7
     type: Barbell
-    muscles: *id003
+    muscles: *id002
   - name: Leg Press
     sets:
     - target: 12
@@ -509,7 +507,7 @@ workouts:
       - 7
       - 7.5
     type: Machine
-    muscles: *id003
+    muscles: *id002
   - name: Leg Extension
     sets:
     - target: 15
@@ -525,7 +523,7 @@ workouts:
       - 7.5
       - 8
     type: Machine
-    muscles: *id003
+    muscles: *id002
   - name: Standing T Bar Row
     sets:
     - target: 12
@@ -541,7 +539,7 @@ workouts:
       - 7.5
       - 8
     type: Barbell
-    muscles: *id004
+    muscles: *id003
 - week: 2
   day: 4
   name: Thursday - Incline DB Bench 6-8s / Pull-Ups
@@ -578,7 +576,7 @@ workouts:
       - 7.5
       - 8
     type: Dumbbell
-    muscles: *id004
+    muscles: *id003
   - name: Overhead Tricep Extension (Cable)
     sets:
     - target: 12
@@ -594,7 +592,7 @@ workouts:
       - 8
       - 8.5
     type: Cable
-    muscles: *id005
+    muscles: *id004
   - name: Bicep Curl (EZ Bar)
     sets:
     - target: 12
@@ -610,7 +608,7 @@ workouts:
       - 8
       - 8.5
     type: Barbell
-    muscles: *id005
+    muscles: *id004
 - week: 2
   day: 5
   name: Saturday - High Bar 6s / Light Pull
@@ -626,7 +624,7 @@ workouts:
       - 6.5
       - 7
     type: Barbell
-    muscles: *id003
+    muscles: *id002
   - name: Sumo Deadlift (Paused)
     sets:
     - target: 5
@@ -634,7 +632,7 @@ workouts:
       - 6
       - 6.5
     type: Barbell
-    muscles: *id002
+    muscles: *id005
   - name: Bench Press (Paused)
     sets:
     - target: 6
@@ -702,7 +700,7 @@ workouts:
       - 7.5
       - 8
     type: Dumbbell
-    muscles: *id004
+    muscles: *id003
   - name: Chest Fly (Machine)
     sets:
     - target: 12
@@ -751,23 +749,7 @@ workouts:
       - 7
       - 7.5
     type: Barbell
-    muscles: *id002
-  - name: Romanian Deadlift (Barbell)
-    sets:
-    - target: 8
-      rpe:
-      - 7
-      - 7.5
-    - target: 8
-      rpe:
-      - 7
-      - 7.5
-    - target: 8
-      rpe:
-      - 7
-      - 7.5
-    type: Barbell
-    muscles: *id002
+    muscles: *id005
   - name: Leg Curl
     sets:
     - target: 12
@@ -783,7 +765,20 @@ workouts:
       - 7.5
       - 8
     type: Machine
-    muscles: *id003
+    muscles: *id002
+  - name: Cable Crunch
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Cable
+    muscles:
+    - Core
   - name: Rear Delt Fly (Machine)
     sets:
     - target: 15
@@ -819,7 +814,7 @@ workouts:
       - 7
       - 7.5
     type: Barbell
-    muscles: *id003
+    muscles: *id002
   - name: Leg Press
     sets:
     - target: 12
@@ -835,7 +830,7 @@ workouts:
       - 7.5
       - 8
     type: Machine
-    muscles: *id003
+    muscles: *id002
   - name: Leg Extension
     sets:
     - target: 15
@@ -851,7 +846,7 @@ workouts:
       - 7.5
       - 8
     type: Machine
-    muscles: *id003
+    muscles: *id002
   - name: Standing T Bar Row
     sets:
     - target: 12
@@ -867,7 +862,7 @@ workouts:
       - 7.5
       - 8
     type: Barbell
-    muscles: *id004
+    muscles: *id003
 - week: 3
   day: 4
   name: Thursday - Incline DB Bench 6s / Pull-Ups
@@ -908,7 +903,7 @@ workouts:
       - 8
       - 8.5
     type: Dumbbell
-    muscles: *id004
+    muscles: *id003
   - name: Overhead Tricep Extension (Cable)
     sets:
     - target: 12
@@ -924,7 +919,7 @@ workouts:
       - 8
       - 8.5
     type: Cable
-    muscles: *id005
+    muscles: *id004
   - name: Bicep Curl (EZ Bar)
     sets:
     - target: 12
@@ -940,7 +935,7 @@ workouts:
       - 8
       - 8.5
     type: Barbell
-    muscles: *id005
+    muscles: *id004
 - week: 3
   day: 5
   name: Saturday - High Bar 5s / Light Pull
@@ -956,7 +951,7 @@ workouts:
       - 6.5
       - 7
     type: Barbell
-    muscles: *id003
+    muscles: *id002
   - name: Sumo Deadlift (Paused)
     sets:
     - target: 4
@@ -964,7 +959,7 @@ workouts:
       - 6
       - 6.5
     type: Barbell
-    muscles: *id002
+    muscles: *id005
   - name: Bench Press (Paused)
     sets:
     - target: 6
@@ -1028,7 +1023,7 @@ workouts:
       - 7.5
       - 8
     type: Dumbbell
-    muscles: *id004
+    muscles: *id003
   - name: Chest Fly (Machine)
     sets:
     - target: 12
@@ -1069,15 +1064,7 @@ workouts:
       - 7
       - 7.5
     type: Barbell
-    muscles: *id002
-  - name: Romanian Deadlift (Barbell)
-    sets:
-    - target: 8
-      rpe:
-      - 6.5
-      - 7
-    type: Barbell
-    muscles: *id002
+    muscles: *id005
   - name: Leg Curl
     sets:
     - target: 12
@@ -1089,7 +1076,20 @@ workouts:
       - 7
       - 7.5
     type: Machine
-    muscles: *id003
+    muscles: *id002
+  - name: Cable Crunch
+    sets:
+    - target: 15
+      rpe:
+      - 6.5
+      - 7
+    - target: 15
+      rpe:
+      - 6.5
+      - 7
+    type: Cable
+    muscles:
+    - Core
   - name: Rear Delt Fly (Machine)
     sets:
     - target: 15
@@ -1202,7 +1202,7 @@ workouts:
       - 7.5
       - 8
     type: Dumbbell
-    muscles: *id004
+    muscles: *id003
   - name: Overhead Tricep Extension (Cable)
     sets:
     - target: 12
@@ -1210,7 +1210,7 @@ workouts:
       - 7.5
       - 8
     type: Cable
-    muscles: *id005
+    muscles: *id004
 - week: 4
   day: 5
   name: Saturday - Light Technique / Pump
@@ -1222,7 +1222,7 @@ workouts:
       - 5
       - 6
     type: Barbell
-    muscles: *id003
+    muscles: *id002
   - name: Sumo Deadlift (Paused)
     sets:
     - target: 3
@@ -1230,7 +1230,7 @@ workouts:
       - 5
       - 6
     type: Barbell
-    muscles: *id002
+    muscles: *id005
   - name: Bench Press (Paused)
     sets:
     - target: 5
