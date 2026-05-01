@@ -1109,32 +1109,8 @@ workouts:
     muscles: *id006
 - week: 4
   day: 3
-  name: Wednesday - Recovery / Upper Accessories
+  name: Wednesday - Upper Recovery / No Lower Fatigue
   exercises:
-  - name: High Bar Squat (Barbell)
-    sets:
-    - target: 5
-      rpe:
-      - 5
-      - 6
-    type: Barbell
-    muscles: *id003
-  - name: Leg Press
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    type: Machine
-    muscles: *id003
-  - name: Leg Extension
-    sets:
-    - target: 15
-      rpe:
-      - 7
-      - 7.5
-    type: Machine
-    muscles: *id003
   - name: Standing T Bar Row
     sets:
     - target: 12
@@ -1145,12 +1121,48 @@ workouts:
       rpe:
       - 7
       - 7.5
-    - target: 12
+    type: Barbell
+    muscles:
+    - Back
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 15
       rpe:
       - 7
       - 7.5
-    type: Barbell
-    muscles: *id004
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles:
+    - Shoulders
+  - name: Chest Fly (Machine)
+    sets:
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+    type: Machine
+    muscles:
+    - Chest
+  - name: Cable Crunch
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+    type: Cable
+    muscles:
+    - Core
 - week: 4
   day: 4
   name: Thursday - High Bar Squat 5RM Benchmark

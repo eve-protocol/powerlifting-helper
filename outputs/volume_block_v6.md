@@ -171,14 +171,14 @@
 | 3 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
-#### Day 3 — Wednesday - Recovery / Upper Accessories
+#### Day 3 — Wednesday - Upper Recovery / No Lower Fatigue
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | High Bar Squat (Barbell) | 5 reps @ RPE 5-6 |
-| 2 | Leg Press | 12 reps @ RPE 7-7.5 |
-| 3 | Leg Extension | 15 reps @ RPE 7-7.5 |
-| 4 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 1 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
+| 4 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 4 — Thursday - High Bar Squat 5RM Benchmark
 
