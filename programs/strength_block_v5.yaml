@@ -1,11 +1,11 @@
 name: Strength Block v5
-description: 4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive fatigue. Incline DB bench is kept as a normal bench variation, not accessory filler. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
+description: 4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive fatigue. Incline DB bench is kept as its own separate bench-variation exposure on a different day, not same-day accessory filler. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
 weeks: 4
 days_per_week: 5
 workouts:
 - week: 1
   day: 1
-  name: Monday - Paused Bench + Incline DB Variation / Pull-Ups
+  name: Monday - Paused Bench Volume / Pull-Ups
   exercises:
   - name: Bench Press (Paused)
     sets:
@@ -24,22 +24,6 @@ workouts:
     type: Barbell
     muscles: &id001
     - Chest
-  - name: Incline Bench Press (Dumbbell)
-    sets:
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    type: Dumbbell
-    muscles: *id001
   - name: Pull-Up (Weighted)
     sets:
     - target: 5
@@ -135,7 +119,7 @@ workouts:
     - Shoulders
 - week: 1
   day: 3
-  name: Wednesday - Low Bar Technique / Leg Press
+  name: Wednesday - Low Bar Technique / Incline DB Bench
   exercises:
   - name: Squat (Low Bar)
     sets:
@@ -153,6 +137,23 @@ workouts:
       - 7
     type: Barbell
     muscles: *id003
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    type: Dumbbell
+    muscles:
+    - Chest
   - name: Leg Press
     sets:
     - target: 10
@@ -321,7 +322,7 @@ workouts:
     - Core
 - week: 2
   day: 1
-  name: Monday - Paused Bench + Incline DB Variation / Pull-Ups
+  name: Monday - Paused Bench Volume / Pull-Ups
   exercises:
   - name: Bench Press (Paused)
     sets:
@@ -342,22 +343,6 @@ workouts:
       - 7
       - 7.5
     type: Barbell
-    muscles: *id001
-  - name: Incline Bench Press (Dumbbell)
-    sets:
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
-    type: Dumbbell
     muscles: *id001
   - name: Pull-Up (Weighted)
     sets:
@@ -453,7 +438,7 @@ workouts:
     muscles: *id006
 - week: 2
   day: 3
-  name: Wednesday - Low Bar Technique / Leg Press
+  name: Wednesday - Low Bar Technique / Incline DB Bench
   exercises:
   - name: Squat (Low Bar)
     sets:
@@ -471,6 +456,23 @@ workouts:
       - 7.5
     type: Barbell
     muscles: *id003
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+    - target: 6
+      rpe:
+      - 7.5
+      - 8
+    - target: 6
+      rpe:
+      - 7.5
+      - 8
+    - target: 6
+      rpe:
+      - 7.5
+      - 8
+    type: Dumbbell
+    muscles:
+    - Chest
   - name: Leg Press
     sets:
     - target: 10
@@ -653,7 +655,7 @@ workouts:
     muscles: *id007
 - week: 3
   day: 1
-  name: Monday - Paused Bench + Incline DB Variation / Pull-Ups
+  name: Monday - Paused Bench Volume / Pull-Ups
   exercises:
   - name: Bench Press (Paused)
     sets:
@@ -670,18 +672,6 @@ workouts:
       - 7.5
       - 8
     type: Barbell
-    muscles: *id001
-  - name: Incline Bench Press (Dumbbell)
-    sets:
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
-    type: Dumbbell
     muscles: *id001
   - name: Pull-Up (Weighted)
     sets:
@@ -777,7 +767,7 @@ workouts:
     muscles: *id006
 - week: 3
   day: 3
-  name: Wednesday - Low Bar Technique / Leg Press
+  name: Wednesday - Low Bar Technique / Incline DB Bench
   exercises:
   - name: Squat (Low Bar)
     sets:
@@ -795,6 +785,19 @@ workouts:
       - 8
     type: Barbell
     muscles: *id003
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+    - target: 6
+      rpe:
+      - 7.5
+      - 8
+    - target: 6
+      rpe:
+      - 7.5
+      - 8
+    type: Dumbbell
+    muscles:
+    - Chest
   - name: Leg Press
     sets:
     - target: 10
@@ -973,7 +976,7 @@ workouts:
     muscles: *id007
 - week: 4
   day: 1
-  name: Monday - Paused Bench + Incline DB Variation / Pull-Ups
+  name: Monday - Paused Bench Volume / Pull-Ups
   exercises:
   - name: Bench Press (Paused)
     sets:
@@ -986,18 +989,6 @@ workouts:
       - 7
       - 7.5
     type: Barbell
-    muscles: *id001
-  - name: Incline Bench Press (Dumbbell)
-    sets:
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    - target: 6
-      rpe:
-      - 7
-      - 7.5
-    type: Dumbbell
     muscles: *id001
   - name: Pull-Up (Weighted)
     sets:
@@ -1085,7 +1076,7 @@ workouts:
     muscles: *id006
 - week: 4
   day: 3
-  name: Wednesday - Low Bar Technique / Leg Press
+  name: Wednesday - Low Bar Technique / Incline DB Bench
   exercises:
   - name: Squat (Low Bar)
     sets:
@@ -1099,6 +1090,19 @@ workouts:
       - 7.5
     type: Barbell
     muscles: *id003
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    - target: 6
+      rpe:
+      - 7
+      - 7.5
+    type: Dumbbell
+    muscles:
+    - Chest
   - name: Leg Press
     sets:
     - target: 10

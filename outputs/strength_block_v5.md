@@ -1,6 +1,6 @@
 # Strength Block v5
 
-4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive fatigue. Incline DB bench is kept as a normal bench variation, not accessory filler. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
+4-week transmutation block following the 5RM-focused accumulation block. Converts week-4 5RM readiness into heavier triples and controlled singles without excessive fatigue. Incline DB bench is kept as its own separate bench-variation exposure on a different day, not same-day accessory filler. Heavy deadlift remains Tuesday, heavy squat Saturday, and week 4 uses controlled 3-rep benchmarks rather than grinders.
 
 ## Overview
 
@@ -12,14 +12,13 @@
 
 ### Week 1
 
-#### Day 1 — Monday - Paused Bench + Incline DB Variation / Pull-Ups
+#### Day 1 — Monday - Paused Bench Volume / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Paused) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
-| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Heavy Deadlift
 
@@ -30,14 +29,15 @@
 | 3 | Leg Curl | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
-#### Day 3 — Wednesday - Low Bar Technique / Leg Press
+#### Day 3 — Wednesday - Low Bar Technique / Incline DB Bench
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 2 | Leg Press | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
-| 3 | Leg Extension | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
-| 4 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
+| 3 | Leg Press | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
+| 4 | Leg Extension | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 5 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 
 #### Day 4 — Thursday - Heavy Bench / Pull-Ups
 
@@ -59,14 +59,13 @@
 
 ### Week 2
 
-#### Day 1 — Monday - Paused Bench + Incline DB Variation / Pull-Ups
+#### Day 1 — Monday - Paused Bench Volume / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Paused) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5 |
-| 4 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Pull-Up (Weighted) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
 #### Day 2 — Tuesday - Heavy Deadlift
 
@@ -77,14 +76,15 @@
 | 3 | Leg Curl | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
-#### Day 3 — Wednesday - Low Bar Technique / Leg Press
+#### Day 3 — Wednesday - Low Bar Technique / Incline DB Bench
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
-| 2 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
-| 3 | Leg Extension | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
-| 4 | Standing T Bar Row | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
+| 3 | Leg Press | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
+| 4 | Leg Extension | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
+| 5 | Standing T Bar Row | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 
 #### Day 4 — Thursday - Heavy Bench / Pull-Ups
 
@@ -106,14 +106,13 @@
 
 ### Week 3
 
-#### Day 1 — Monday - Paused Bench + Incline DB Variation / Pull-Ups
+#### Day 1 — Monday - Paused Bench Volume / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Paused) | 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5 |
-| 4 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Pull-Up (Weighted) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
 #### Day 2 — Tuesday - Heavy Deadlift
 
@@ -124,14 +123,15 @@
 | 3 | Leg Curl | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8 |
 
-#### Day 3 — Wednesday - Low Bar Technique / Leg Press
+#### Day 3 — Wednesday - Low Bar Technique / Incline DB Bench
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
-| 2 | Leg Press | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
-| 3 | Leg Extension | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
-| 4 | Standing T Bar Row | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
+| 3 | Leg Press | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
+| 4 | Leg Extension | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
+| 5 | Standing T Bar Row | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 
 #### Day 4 — Thursday - Heavy Bench / Pull-Ups
 
@@ -153,14 +153,13 @@
 
 ### Week 4
 
-#### Day 1 — Monday - Paused Bench + Incline DB Variation / Pull-Ups
+#### Day 1 — Monday - Paused Bench Volume / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Paused) | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
-| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Heavy Deadlift
 
@@ -171,14 +170,15 @@
 | 3 | Leg Curl | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
-#### Day 3 — Wednesday - Low Bar Technique / Leg Press
+#### Day 3 — Wednesday - Low Bar Technique / Incline DB Bench
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
-| 2 | Leg Press | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
-| 3 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 4 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
+| 3 | Leg Press | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
+| 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 5 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 
 #### Day 4 — Thursday - Heavy Bench / Pull-Ups
 

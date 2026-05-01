@@ -1,6 +1,6 @@
 # Volume Block v6
 
-4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as a bench variation, not accessory filler; higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery.
+4-week accumulation block with a specific 5RM runway: post-mock-meet re-entry starts at specific-enough 8s rather than big-3 10s, then 6s, 5-rep preparation, and week 4 controlled 5RM PR attempts. Incline DB bench is treated as its own separate bench-variation session, not same-day accessory filler. Higher-rep work is kept mostly to machines/isolation. Heavy deadlift stays Tuesday to protect Monday recovery.
 
 ## Overview
 
@@ -12,14 +12,13 @@
 
 ### Week 1
 
-#### Day 1 — Monday - Bench 8s + Incline DB / Pull-Ups
+#### Day 1 — Monday - Bench 8s / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Barbell) | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
-| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
-| 3 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
-| 4 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
+| 2 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
 
 #### Day 2 — Tuesday - Deadlift 6s / Posterior Chain
 
@@ -39,11 +38,11 @@
 | 3 | Leg Extension | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 | 4 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
-#### Day 4 — Thursday - Bench 6s / Pull-Ups
+#### Day 4 — Thursday - Incline DB Bench 8s / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6-6.5; 6 reps @ RPE 6-6.5 |
+| 1 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 6.5-7; 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
 | 2 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
 | 3 | Overhead Tricep Extension (Cable) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 | 4 | Bicep Curl (EZ Bar) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
@@ -59,14 +58,13 @@
 
 ### Week 2
 
-#### Day 1 — Monday - Bench 6s + Incline DB / Pull-Ups
+#### Day 1 — Monday - Bench 6s / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
-| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7; 8 reps @ RPE 6.5-7 |
-| 3 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
-| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Deadlift 5-6s / Posterior Chain
 
@@ -86,11 +84,11 @@
 | 3 | Leg Extension | 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8 |
 | 4 | Standing T Bar Row | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
-#### Day 4 — Thursday - Bench 5-6s / Pull-Ups
+#### Day 4 — Thursday - Incline DB Bench 6-8s / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 6 reps @ RPE 7-7.5; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
+| 1 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 7-7.5; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
 | 2 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
 | 3 | Overhead Tricep Extension (Cable) | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
 | 4 | Bicep Curl (EZ Bar) | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
@@ -106,14 +104,13 @@
 
 ### Week 3
 
-#### Day 1 — Monday - Bench 5s Prep + Incline DB / Pull-Ups
+#### Day 1 — Monday - Bench 5s Prep / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Barbell) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
-| 3 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
-| 4 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 2 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
 #### Day 2 — Tuesday - Deadlift 5s Prep
 
@@ -133,11 +130,11 @@
 | 3 | Leg Extension | 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8; 15 reps @ RPE 7.5-8 |
 | 4 | Standing T Bar Row | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
 
-#### Day 4 — Thursday - Bench 5s Specific
+#### Day 4 — Thursday - Incline DB Bench 6s / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 7-7.5 |
+| 1 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 2 | Pull-Up (Weighted) | 6 reps @ RPE 8-8.5; 6 reps @ RPE 8-8.5; 6 reps @ RPE 8-8.5; 6 reps @ RPE 8-8.5 |
 | 3 | Overhead Tricep Extension (Cable) | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
 | 4 | Bicep Curl (EZ Bar) | 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5; 12 reps @ RPE 8-8.5 |
@@ -158,9 +155,8 @@
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Barbell) | 5 reps @ RPE 8.5-9; 5 reps @ RPE 7-7.5 |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
-| 3 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
-| 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 2 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
+| 3 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Deadlift 5RM Benchmark
 
@@ -178,7 +174,8 @@
 | 1 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 2 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 | 3 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
-| 4 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
+| 4 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
+| 5 | Cable Crunch | 15 reps @ RPE 7-7.5; 15 reps @ RPE 7-7.5 |
 
 #### Day 4 — Thursday - High Bar Squat 5RM Benchmark
 
