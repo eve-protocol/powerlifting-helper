@@ -1,0 +1,700 @@
+name: Peaking Block v7
+description: '4-week realization block. Competition specificity rises while volume falls: early practice singles, opener/second rehearsal, then taper and mock meet. Heavy deadlift is Tuesday to avoid Saturday-to-Monday fatigue and failed/grindy repeat singles are intentionally avoided.'
+weeks: 4
+days_per_week: 5
+workouts:
+- week: 1
+  day: 1
+  name: Monday - Bench Practice / Pull-Ups
+  exercises:
+  - name: Bench Press (Paused)
+    sets:
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    type: Barbell
+    muscles: &id001
+    - Chest
+  - name: Pull-Up (Weighted)
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    type: Dumbbell
+    muscles: &id003
+    - Back
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles: &id005
+    - Shoulders
+- week: 1
+  day: 2
+  name: Tuesday - Deadlift Realization
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 7.5
+      - 8
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: &id004
+    - Legs
+    - Back
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id001
+  - name: Leg Curl
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles: &id002
+    - Legs
+- week: 1
+  day: 3
+  name: Wednesday - Squat Technique / Back
+  exercises:
+  - name: Squat (Low Bar)
+    sets:
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    type: Barbell
+    muscles: *id002
+  - name: Standing T Bar Row
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id003
+- week: 1
+  day: 4
+  name: Thursday - Bench Realization
+  exercises:
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 7.5
+      - 8
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id001
+  - name: Pull-Up (Weighted)
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    type: Dumbbell
+    muscles: *id003
+  - name: Bicep Curl (EZ Bar)
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: &id006
+    - Arms
+- week: 1
+  day: 5
+  name: Saturday - Squat Realization / SBD
+  exercises:
+  - name: Squat (Low Bar)
+    sets:
+    - target: 1
+      rpe:
+      - 7.5
+      - 8
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id002
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id001
+  - name: Sumo Deadlift (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id004
+- week: 2
+  day: 1
+  name: Monday - Bench Practice / Pull-Ups
+  exercises:
+  - name: Bench Press (Paused)
+    sets:
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    - target: 3
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id001
+  - name: Pull-Up (Weighted)
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    type: Dumbbell
+    muscles: *id003
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles: *id005
+- week: 2
+  day: 2
+  name: Tuesday - Deadlift Realization
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id004
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id001
+  - name: Leg Curl
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+    type: Machine
+    muscles: *id002
+- week: 2
+  day: 3
+  name: Wednesday - Squat Technique / Back
+  exercises:
+  - name: Squat (Low Bar)
+    sets:
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+    type: Barbell
+    muscles: *id002
+  - name: Standing T Bar Row
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id003
+- week: 2
+  day: 4
+  name: Thursday - Bench Realization
+  exercises:
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id001
+  - name: Pull-Up (Weighted)
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+    type: Dumbbell
+    muscles: *id003
+  - name: Bicep Curl (EZ Bar)
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id006
+- week: 2
+  day: 5
+  name: Saturday - Squat Realization / SBD
+  exercises:
+  - name: Squat (Low Bar)
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id002
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id001
+  - name: Sumo Deadlift (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id004
+- week: 3
+  day: 1
+  name: Monday - Bench Practice / Pull-Ups
+  exercises:
+  - name: Bench Press (Paused)
+    sets:
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+    type: Barbell
+    muscles: *id001
+  - name: Pull-Up (Weighted)
+    sets:
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    type: Dumbbell
+    muscles: *id003
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+    type: Machine
+    muscles: *id005
+- week: 3
+  day: 2
+  name: Tuesday - Deadlift Realization
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 8.5
+      - 9
+    - target: 1
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id004
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 3
+      rpe:
+      - 5.5
+      - 6
+    type: Barbell
+    muscles: *id001
+  - name: Leg Curl
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+    type: Machine
+    muscles: *id002
+- week: 3
+  day: 3
+  name: Wednesday - Squat Technique / Back
+  exercises:
+  - name: Squat (Low Bar)
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id002
+  - name: Standing T Bar Row
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+    type: Barbell
+    muscles: *id003
+- week: 3
+  day: 4
+  name: Thursday - Bench Realization
+  exercises:
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 8.5
+      - 9
+    - target: 1
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id001
+  - name: Pull-Up (Weighted)
+    sets:
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    type: Dumbbell
+    muscles: *id003
+  - name: Bicep Curl (EZ Bar)
+    sets:
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+    type: Barbell
+    muscles: *id006
+- week: 3
+  day: 5
+  name: Saturday - Squat Realization / SBD
+  exercises:
+  - name: Squat (Low Bar)
+    sets:
+    - target: 1
+      rpe:
+      - 8.5
+      - 9
+    - target: 1
+      rpe:
+      - 7
+      - 7.5
+    type: Barbell
+    muscles: *id002
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id001
+  - name: Sumo Deadlift (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 5.5
+      - 6
+    type: Barbell
+    muscles: *id004
+- week: 4
+  day: 1
+  name: Monday - Bench Practice / Pull-Ups
+  exercises:
+  - name: Bench Press (Paused)
+    sets:
+    - target: 2
+      rpe:
+      - 5
+      - 6
+    type: Barbell
+    muscles: *id001
+  - name: Pull-Up (Weighted)
+    sets:
+    - target: 5
+      rpe:
+      - 6
+      - 6.5
+    type: Dumbbell
+    muscles: *id003
+  - name: Rear Delt Fly (Machine)
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 6.5
+    type: Machine
+    muscles: *id005
+- week: 4
+  day: 2
+  name: Tuesday - Deadlift Realization
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+    type: Barbell
+    muscles: *id004
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 3
+      rpe:
+      - 5
+      - 6
+    type: Barbell
+    muscles: *id001
+- week: 4
+  day: 3
+  name: Wednesday - Squat Technique / Back
+  exercises:
+  - name: Squat (Low Bar)
+    sets:
+    - target: 2
+      rpe:
+      - 5
+      - 6
+    type: Barbell
+    muscles: *id002
+- week: 4
+  day: 4
+  name: Thursday - Bench Realization
+  exercises:
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 5
+      - 6
+    type: Barbell
+    muscles: *id001
+- week: 4
+  day: 5
+  name: Saturday - MOCK MEET
+  exercises:
+  - name: Squat (Low Bar)
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8
+    - target: 1
+      rpe:
+      - 9
+      - 9
+    - target: 1
+      rpe:
+      - 9.5
+      - 10
+    type: Barbell
+    muscles: *id002
+  - name: Bench Press (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8
+    - target: 1
+      rpe:
+      - 9
+      - 9
+    - target: 1
+      rpe:
+      - 9.5
+      - 10
+    type: Barbell
+    muscles: *id001
+  - name: Sumo Deadlift (Barbell)
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8
+    - target: 1
+      rpe:
+      - 9
+      - 9
+    - target: 1
+      rpe:
+      - 9.5
+      - 10
+    type: Barbell
+    muscles: *id004
