@@ -1,6 +1,6 @@
 # Peaking Block v7
 
-4-week realization block following 5RM accumulation and 3RM transmutation. Specificity rises while volume falls: practice singles, opener/second rehearsal, taper, and mock meet. Heavy deadlift remains Tuesday and repeated failed/grindy singles are intentionally avoided.
+4-week realization block following 5RM accumulation and 3RM transmutation. Specificity rises while volume falls: practice singles, opener/second rehearsal, taper, and mock meet. Incline DB bench remains as an important separate bench-variation exposure early in the peak, then tapers. Heavy deadlift remains Tuesday and repeated failed/grindy singles are intentionally avoided.
 
 ## Overview
 
@@ -12,11 +12,11 @@
 
 ### Week 1
 
-#### Day 1 — Monday - Bench Practice / Pull-Ups
+#### Day 1 — Monday - Incline DB Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 3 reps @ RPE 6.5-7; 3 reps @ RPE 6.5-7; 3 reps @ RPE 6.5-7 |
+| 1 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 2 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 | 3 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -53,11 +53,11 @@
 
 ### Week 2
 
-#### Day 1 — Monday - Bench Practice / Pull-Ups
+#### Day 1 — Monday - Incline DB Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5 |
+| 1 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 | 2 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 | 3 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -94,11 +94,11 @@
 
 ### Week 3
 
-#### Day 1 — Monday - Bench Practice / Pull-Ups
+#### Day 1 — Monday - Incline DB Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 2 reps @ RPE 6.5-7; 2 reps @ RPE 6.5-7 |
+| 1 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 2 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 3 | Rear Delt Fly (Machine) | 12 reps @ RPE 6.5-7 |
 
@@ -135,11 +135,11 @@
 
 ### Week 4
 
-#### Day 1 — Monday - Bench Practice / Pull-Ups
+#### Day 1 — Monday - Light Incline DB / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 2 reps @ RPE 5-6 |
+| 1 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 5-6 |
 | 2 | Pull-Up (Weighted) | 5 reps @ RPE 6-6.5 |
 | 3 | Rear Delt Fly (Machine) | 12 reps @ RPE 6-6.5 |
 
