@@ -7,10 +7,10 @@ training_days:
 - thursday
 - saturday
 block_sequence:
-- volume_block_v5
-- strength_block_v4
-- peaking_block_v6
-current_block: peaking_block_v6
-completed_workouts_in_current_block: 19
-last_completed_date: '2026-04-30'
+- volume_block_v6
+- strength_block_v5
+- peaking_block_v7
+current_block: volume_block_v6
+completed_workouts_in_current_block: 0
+last_completed_date: '2026-05-02'
 progression_mode: explicit
