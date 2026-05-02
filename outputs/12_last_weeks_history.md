@@ -177,7 +177,11 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### Health / Recovery
 
-- Total kcal burned: 15
+- Steps: 15736
+- Distance: 12.76 km
+- Total kcal burned: 3383
+- Resting heart rate: 43 bpm
+- Sleep: 5.97 h asleep (6.70 h in bed, deep 1.17 h, REM 0.87 h, awake 0.73 h)
 
 **Squat (Low Bar)**
 - Set 1: 1 × 165kg @ RPE 8.5 [target_reps=1, target_intensity=[8, 8]RPE_range]
