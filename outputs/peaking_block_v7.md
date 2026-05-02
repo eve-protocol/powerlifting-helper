@@ -1,6 +1,6 @@
 # Peaking Block v7
 
-4-week realization/peaking block. All lifts competition-specific — no squat variations, no Larsen. Heavy singles ramp across the block toward mock meet. Incline DB stays weeks 1-2 then tapers out. Paused bench and paused deadlift serve as lighter technique work. Monday stays upper-focused with light low bar to preserve the Saturday→Monday recovery fix. Week 4 is mock meet week with openers Monday, rest Wednesday, light technique Thursday, full mock meet Saturday.
+4-week realization/peaking block. All lifts competition-specific — no squat variations, no Larsen. Heavy singles ramp across the block toward mock meet. Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse opener/second-attempt execution, followed by controlled backoff doubles. Week 4 is the actual taper with openers Monday, light technique work, and full mock meet Saturday. Incline DB stays weeks 1-2 then tapers out. Paused bench and paused deadlift serve as lighter technique work. Monday stays upper-focused with light low bar to preserve the Saturday→Monday recovery fix.
 
 ## Overview
 
@@ -132,7 +132,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8.5-9; 1 reps @ RPE 8.5-9 |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 8.5-9; 1 reps @ RPE 8-8.5; 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
 | 2 | Standing T Bar Row | 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5 |
 | 3 | Leg Curl | 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5 |
 
@@ -140,7 +140,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 8.5-9; 1 reps @ RPE 8.5-9 |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 8.5-9; 1 reps @ RPE 8-8.5; 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
 | 2 | Pull-Up (Weighted) | 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
 | 3 | Bicep Curl (EZ Bar) | 8 reps @ RPE 7-7.5; 8 reps @ RPE 7-7.5 |
 
@@ -148,17 +148,17 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8.5-9; 1 reps @ RPE 8.5-9 |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5-5.5 |
-| 3 | Bench Press (Barbell) | 2 reps @ RPE 5.5-6 |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8.5-9; 1 reps @ RPE 8-8.5; 2 reps @ RPE 7-7.5 |
+| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6; 2 reps @ RPE 5.5-6 |
+| 3 | Bench Press (Barbell) | 2 reps @ RPE 6-6; 2 reps @ RPE 6-6 |
 
 #### Weekly Big 3 Volume
 
 | Lift | Sets | Reps |
 |------|------|------|
-| Squat | 5 | 8 |
-| Bench | 5 | 8 |
-| Deadlift | 4 | 6 |
+| Squat | 8 | 14 |
+| Bench | 8 | 14 |
+| Deadlift | 5 | 8 |
 
 ### Week 4
 
