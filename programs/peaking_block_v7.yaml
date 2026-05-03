@@ -361,12 +361,12 @@ workouts:
       - 8.5
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 2
       rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
   - name: Standing T Bar Row
     type: Barbell
     muscles:
@@ -408,12 +408,12 @@ workouts:
       - 8.5
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 2
       rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:
@@ -456,12 +456,12 @@ workouts:
       - 8.5
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 2
       rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
   - name: Squat (Low Bar)
     type: Barbell
     muscles:

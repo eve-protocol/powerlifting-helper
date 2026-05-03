@@ -498,20 +498,20 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 3
       rpe:
       - 8
-      - 8.5
+      - 8
     - target: 3
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 3
       rpe:
+      - 7.5
       - 8
-      - 8.5
   - name: Leg Extension
     type: Machine
     muscles:
@@ -574,16 +574,16 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 3
       rpe:
       - 8
-      - 8.5
+      - 8
     - target: 3
       rpe:
+      - 7.5
       - 8
-      - 8.5
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:
@@ -643,16 +643,16 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 3
       rpe:
       - 8
-      - 8.5
+      - 8
     - target: 3
       rpe:
+      - 7.5
       - 8
-      - 8.5
   - name: Squat (Low Bar)
     type: Barbell
     muscles:
