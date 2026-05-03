@@ -34,7 +34,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 7-7.5; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
 | 2 | Leg Extension | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8; 10 reps @ RPE 7.5-8 |
 | 4 | Leg Curl | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
@@ -43,7 +43,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-7.5; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7-7.5 |
 | 2 | Pull-Up (Weighted) | 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5; 5 reps @ RPE 8-8.5 |
 | 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
 | 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 8-8.5; 10 reps @ RPE 8-8.5 |
@@ -52,7 +52,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7.5-8 |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-7.5; 4 reps @ RPE 7.5-8; 4 reps @ RPE 7-7.5 |
 | 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6; 4 reps @ RPE 5.5-6 |
 | 3 | Larsen Press (Barbell) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
