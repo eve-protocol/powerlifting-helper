@@ -1,9 +1,10 @@
 name: Strength Block v5
 description: "4-week transmutation block (4s \u2192 3s \u2192 3s heavier \u2192 3RM\
   \ benchmark). Potentiation singles return on heavy days (Wed squat, Thu bench, Sat\
-  \ deadlift) followed by top set + back off. Monday variation becomes pause squat\
-  \ (low bar) for hole strength specificity. Same day structure as accumulation for\
-  \ consistency. Incline DB stays as serious bench exposure. Pull-ups twice weekly."
+  \ deadlift), but benchmark week uses opener-like singles before top triples rather\
+  \ than max-effort singles plus max-effort backoffs. Monday variation becomes pause\
+  \ squat (low bar) for hole strength specificity. Same day structure as accumulation\
+  \ for consistency. Incline DB stays as serious bench exposure. Pull-ups twice weekly."
 weeks: 4
 days_per_week: 5
 workouts:
@@ -827,20 +828,20 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 8
       - 8.5
-      - 9
     - target: 3
       rpe:
       - 8.5
       - 9
     - target: 3
       rpe:
-      - 8.5
-      - 9
+      - 7.5
+      - 8
     - target: 3
       rpe:
-      - 8.5
-      - 9
+      - 7.5
+      - 8
   - name: Leg Extension
     type: Machine
     muscles:
@@ -903,16 +904,16 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 8
       - 8.5
-      - 9
     - target: 3
       rpe:
       - 8.5
       - 9
     - target: 3
       rpe:
-      - 8.5
-      - 9
+      - 7.5
+      - 8
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:
@@ -972,16 +973,16 @@ workouts:
     sets:
     - target: 1
       rpe:
+      - 8
       - 8.5
-      - 9
     - target: 3
       rpe:
       - 8.5
       - 9
     - target: 3
       rpe:
-      - 8.5
-      - 9
+      - 7.5
+      - 8
   - name: Squat (Low Bar)
     type: Barbell
     muscles:
@@ -1153,16 +1154,16 @@ workouts:
     sets:
     - target: 1
       rpe:
-      - 9
-      - 9.5
+      - 7.5
+      - 8
     - target: 3
       rpe:
       - 9
       - 9.5
     - target: 3
       rpe:
-      - 9
-      - 9.5
+      - 7
+      - 7.5
   - name: Leg Extension
     type: Machine
     muscles:
@@ -1170,16 +1171,12 @@ workouts:
     sets:
     - target: 10
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     - target: 10
       rpe:
-      - 7.5
-      - 8
-    - target: 10
-      rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
   - name: Standing T Bar Row
     type: Barbell
     muscles:
@@ -1187,16 +1184,12 @@ workouts:
     sets:
     - target: 10
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     - target: 10
       rpe:
-      - 7.5
-      - 8
-    - target: 10
-      rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
   - name: Leg Curl
     type: Machine
     muscles:
@@ -1204,16 +1197,12 @@ workouts:
     sets:
     - target: 12
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     - target: 12
       rpe:
-      - 7.5
-      - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
 - week: 4
   day: 4
   name: Thursday - Heavy Bench / Pull-Ups / Arms
@@ -1225,8 +1214,8 @@ workouts:
     sets:
     - target: 1
       rpe:
-      - 9
-      - 9.5
+      - 7.5
+      - 8
     - target: 3
       rpe:
       - 9
@@ -1238,16 +1227,12 @@ workouts:
     sets:
     - target: 5
       rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
     - target: 5
       rpe:
-      - 8
-      - 8.5
-    - target: 5
-      rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -1255,16 +1240,12 @@ workouts:
     sets:
     - target: 10
       rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
     - target: 10
       rpe:
-      - 8
-      - 8.5
-    - target: 10
-      rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
   - name: Bicep Curl (EZ Bar)
     type: Barbell
     muscles:
@@ -1272,12 +1253,8 @@ workouts:
     sets:
     - target: 10
       rpe:
-      - 8
-      - 8.5
-    - target: 10
-      rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
 - week: 4
   day: 5
   name: Saturday - Heavy Deadlift / Light Low Bar / Larsen
@@ -1290,8 +1267,8 @@ workouts:
     sets:
     - target: 1
       rpe:
-      - 9
-      - 9.5
+      - 7.5
+      - 8
     - target: 3
       rpe:
       - 9
