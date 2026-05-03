@@ -1,6 +1,6 @@
 # Peaking Block v7
 
-4-week realization/peaking block. All lifts competition-specific — no squat variations, no Larsen. Heavy singles ramp across the block toward mock meet. Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse opener/second-attempt execution, followed by controlled backoff doubles. Week 4 is the actual taper with openers Monday, light technique work, and full mock meet Saturday. Third attempts are selected in the @9.5-10 range, not forced grinders. Incline DB stays weeks 1-2 then tapers out. Paused bench and paused deadlift serve as lighter technique work. Monday stays upper-focused with light low bar to preserve the Saturday→Monday recovery fix.
+4-week realization/peaking block. All lifts competition-specific — no squat variations, no Larsen. Heavy singles ramp across the block toward mock meet. Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse opener/second-attempt execution, followed by controlled backoff doubles. Week 4 is the actual taper with openers Monday, light technique work, and full mock meet Saturday. Incline DB stays weeks 1-2 then tapers out. Paused bench and paused deadlift serve as lighter technique work. Monday stays upper-focused with light low bar to preserve the Saturday→Monday recovery fix.
 
 ## Overview
 
@@ -195,9 +195,9 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8; 1 reps @ RPE 9-9; 1 reps @ RPE 9.5-10 |
-| 2 | Bench Press (Barbell) | 1 reps @ RPE 8-8; 1 reps @ RPE 9-9; 1 reps @ RPE 9.5-10 |
-| 3 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8; 1 reps @ RPE 9-9; 1 reps @ RPE 9.5-10 |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8; 1 reps @ RPE 9-9; 1 reps @ RPE 10-10 |
+| 2 | Bench Press (Barbell) | 1 reps @ RPE 8-8; 1 reps @ RPE 9-9; 1 reps @ RPE 10-10 |
+| 3 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8; 1 reps @ RPE 9-9; 1 reps @ RPE 10-10 |
 
 #### Weekly Big 3 Volume
 
