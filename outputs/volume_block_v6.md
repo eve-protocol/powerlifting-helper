@@ -1,6 +1,6 @@
 # Volume Block v6
 
-4-week accumulation block (8s → 6s → 5s → 5RM benchmark). Monday moves to paused bench + high bar squat to fix Saturday deadlift → Monday fatigue. Heavy low bar sits Wednesday for max recovery. 4 bench exposures: paused (Mon), incline DB (Tue), competition (Thu), Larsen (Sat). Pull-ups twice weekly. Straight sets throughout — no potentiation singles. Week 1 RPE is deliberately low for post-mock-meet re-entry.
+4-week accumulation block (8s → 6s → 5s → 5RM benchmark). Monday moves to paused bench + high bar squat to fix Saturday deadlift → Monday fatigue. Heavy low bar sits Wednesday for max recovery. 4 bench exposures: paused (Mon), incline DB (Tue), competition (Thu), Larsen (Sat). Pull-ups twice weekly, then tapered in benchmark week. Straight sets throughout — no potentiation singles. Week 1 RPE is deliberately low for post-mock-meet re-entry. Week 4 uses top 5s at @9-9.5 with light backoffs instead of full-volume hard accessories.
 
 ## Overview
 
@@ -199,25 +199,25 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 5 reps @ RPE 8.5-9.5; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 2 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 4 | Leg Curl | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 1 | Squat (Low Bar) | 5 reps @ RPE 9-9.5; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
+| 2 | Leg Extension | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
+| 3 | Standing T Bar Row | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
+| 4 | Leg Curl | 12 reps @ RPE 6.5-7; 12 reps @ RPE 6.5-7 |
 
 #### Day 4 — Thursday - Heavy Bench / Pull-Ups / Arms
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 5 reps @ RPE 8.5-9.5; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 2 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8; 6 reps @ RPE 7.5-8 |
-| 3 | Overhead Tricep Extension (Cable) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
-| 4 | Bicep Curl (EZ Bar) | 12 reps @ RPE 7.5-8; 12 reps @ RPE 7.5-8 |
+| 1 | Bench Press (Barbell) | 5 reps @ RPE 9-9.5; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
+| 2 | Pull-Up (Weighted) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
+| 3 | Overhead Tricep Extension (Cable) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 4 | Bicep Curl (EZ Bar) | 12 reps @ RPE 7-7.5 |
 
 #### Day 5 — Saturday - Heavy Deadlift / Light Low Bar / Larsen
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 8.5-9.5; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
+| 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 9-9.5; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 2 | Squat (Low Bar) | 3 reps @ RPE 5-5.5; 3 reps @ RPE 5-5.5 |
 | 3 | Larsen Press (Barbell) | 4 reps @ RPE 6-6.5; 4 reps @ RPE 6-6.5 |
 | 4 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |

@@ -4,9 +4,9 @@ description: '4-week realization/peaking block. All lifts competition-specific �
   Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse
   opener/second-attempt execution, followed by controlled backoff doubles. Week 4
   is the actual taper with openers Monday, light technique work, and full mock meet
-  Saturday. Incline DB stays weeks 1-2 then tapers out. Paused bench and paused deadlift
-  serve as lighter technique work. Monday stays upper-focused with light low bar to
-  preserve the Saturday→Monday recovery fix.'
+  Saturday. Incline DB stays weeks 1-2 then tapers out. Paused bench and paused deadlift serve
+  as lighter technique work. Monday stays upper-focused with light low bar to preserve
+  the Saturday→Monday recovery fix.'
 weeks: 4
 days_per_week: 5
 workouts:
@@ -361,12 +361,12 @@ workouts:
       - 8.5
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 2
       rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
   - name: Standing T Bar Row
     type: Barbell
     muscles:
@@ -408,12 +408,12 @@ workouts:
       - 8.5
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 2
       rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:
@@ -456,12 +456,12 @@ workouts:
       - 8.5
     - target: 1
       rpe:
+      - 7.5
       - 8
-      - 8.5
     - target: 2
       rpe:
-      - 8
-      - 8.5
+      - 7
+      - 7.5
   - name: Squat (Low Bar)
     type: Barbell
     muscles:

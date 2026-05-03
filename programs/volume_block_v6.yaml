@@ -3,8 +3,9 @@ description: "4-week accumulation block (8s \u2192 6s \u2192 5s \u2192 5RM bench
   \ Monday moves to paused bench + high bar squat to fix Saturday deadlift \u2192\
   \ Monday fatigue. Heavy low bar sits Wednesday for max recovery. 4 bench exposures:\
   \ paused (Mon), incline DB (Tue), competition (Thu), Larsen (Sat). Pull-ups twice\
-  \ weekly. Straight sets throughout \u2014 no potentiation singles. Week 1 RPE is\
-  \ deliberately low for post-mock-meet re-entry."
+  \ weekly, then tapered in benchmark week. Straight sets throughout \u2014 no potentiation\
+  \ singles. Week 1 RPE is deliberately low for post-mock-meet re-entry. Week 4 uses\
+  \ top 5s at @9-9.5 with light backoffs instead of full-volume hard accessories."
 weeks: 4
 days_per_week: 5
 workouts:
@@ -1150,7 +1151,7 @@ workouts:
     sets:
     - target: 5
       rpe:
-      - 8.5
+      - 9
       - 9.5
     - target: 5
       rpe:
@@ -1167,16 +1168,12 @@ workouts:
     sets:
     - target: 12
       rpe:
+      - 6.5
       - 7
-      - 7.5
     - target: 12
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
   - name: Standing T Bar Row
     type: Barbell
     muscles:
@@ -1184,16 +1181,12 @@ workouts:
     sets:
     - target: 12
       rpe:
+      - 6.5
       - 7
-      - 7.5
     - target: 12
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
   - name: Leg Curl
     type: Machine
     muscles:
@@ -1201,16 +1194,12 @@ workouts:
     sets:
     - target: 12
       rpe:
+      - 6.5
       - 7
-      - 7.5
     - target: 12
       rpe:
+      - 6.5
       - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
 - week: 4
   day: 4
   name: Thursday - Heavy Bench / Pull-Ups / Arms
@@ -1222,7 +1211,7 @@ workouts:
     sets:
     - target: 5
       rpe:
-      - 8.5
+      - 9
       - 9.5
     - target: 5
       rpe:
@@ -1239,16 +1228,12 @@ workouts:
     sets:
     - target: 6
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
     - target: 6
       rpe:
-      - 7.5
-      - 8
-    - target: 6
-      rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -1256,16 +1241,12 @@ workouts:
     sets:
     - target: 12
       rpe:
+      - 7
       - 7.5
-      - 8
     - target: 12
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
   - name: Bicep Curl (EZ Bar)
     type: Barbell
     muscles:
@@ -1273,12 +1254,8 @@ workouts:
     sets:
     - target: 12
       rpe:
+      - 7
       - 7.5
-      - 8
-    - target: 12
-      rpe:
-      - 7.5
-      - 8
 - week: 4
   day: 5
   name: Saturday - Heavy Deadlift / Light Low Bar / Larsen
@@ -1291,7 +1268,7 @@ workouts:
     sets:
     - target: 5
       rpe:
-      - 8.5
+      - 9
       - 9.5
     - target: 5
       rpe:

@@ -82,7 +82,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5; 1 reps @ RPE 8-8.5; 2 reps @ RPE 8-8.5 |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5; 1 reps @ RPE 7.5-8; 2 reps @ RPE 7-7.5 |
 | 2 | Standing T Bar Row | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
 | 3 | Leg Curl | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
 
@@ -90,7 +90,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5; 1 reps @ RPE 8-8.5; 2 reps @ RPE 8-8.5 |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5; 1 reps @ RPE 7.5-8; 2 reps @ RPE 7-7.5 |
 | 2 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 3 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7-7.5; 10 reps @ RPE 7-7.5 |
 
@@ -98,7 +98,7 @@
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5; 1 reps @ RPE 8-8.5; 2 reps @ RPE 8-8.5 |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5; 1 reps @ RPE 7.5-8; 2 reps @ RPE 7-7.5 |
 | 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6; 2 reps @ RPE 5.5-6 |
 | 3 | Bench Press (Barbell) | 2 reps @ RPE 6-6.5; 2 reps @ RPE 6-6.5 |
 
