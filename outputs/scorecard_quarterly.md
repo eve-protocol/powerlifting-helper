@@ -10,13 +10,13 @@ Comparison baseline: 2026-Q1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 14 | 38 | ↓ 24 |
-| Total sets | 37 | 140 | ↓ 103 |
-| Avg sets/session | 2.64 | 3.68 | ↓ 1.04 |
-| Avg RPE | 7.42 | 7.46 | ↓ 0.04 |
-| Avg load | 147.6kg | 136.9kg | ↑ 10.7kg |
-| Tonnage | 14385kg | 72917.5kg | ↓ 58532.5kg |
-| Avg tonnage/session | 1027.5kg | 1918.9kg | ↓ 891.4kg |
+| Sessions | 15 | 38 | ↓ 23 |
+| Total sets | 40 | 140 | ↓ 100 |
+| Avg sets/session | 2.67 | 3.68 | ↓ 1.01 |
+| Avg RPE | 7.36 | 7.46 | ↓ 0.10 |
+| Avg load | 144.8kg | 136.9kg | ↑ 7.9kg |
+| Tonnage | 17025kg | 72917.5kg | ↓ 55892.5kg |
+| Avg tonnage/session | 1135kg | 1918.9kg | ↓ 783.9kg |
 
 - Top single: 175kg x 1 @ 10
 - Previous top single: 177.5kg x 1 @ 9.50
@@ -29,13 +29,13 @@ Comparison baseline: 2026-Q1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 19 | 54 | ↓ 35 |
-| Total sets | 50 | 188 | ↓ 138 |
-| Avg sets/session | 2.63 | 3.48 | ↓ 0.85 |
-| Avg RPE | 7.91 | 8.23 | ↓ 0.32 |
-| Avg load | 106.2kg | 97.8kg | ↑ 8.4kg |
-| Tonnage | 13782.5kg | 76450.5kg | ↓ 62668kg |
-| Avg tonnage/session | 725.4kg | 1415.8kg | ↓ 690.4kg |
+| Sessions | 20 | 54 | ↓ 34 |
+| Total sets | 53 | 188 | ↓ 135 |
+| Avg sets/session | 2.65 | 3.48 | ↓ 0.83 |
+| Avg RPE | 7.88 | 8.23 | ↓ 0.35 |
+| Avg load | 106kg | 97.8kg | ↑ 8.2kg |
+| Tonnage | 15540kg | 76450.5kg | ↓ 60910.5kg |
+| Avg tonnage/session | 777kg | 1415.8kg | ↓ 638.8kg |
 
 - Top single: 140kg x 1 @ 9.50
 - Previous top single: 135kg x 1 @ 9.50

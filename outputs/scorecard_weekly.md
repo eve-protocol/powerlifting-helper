@@ -2,6 +2,48 @@
 
 *Auto-generated from history.json - movement-family scorecards by training week*
 
+## Volume Block v6 / Week 1
+
+Comparison baseline: Volume Block v5 / Week 3
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 2 | ↓ 1 |
+| Total sets | 3 | 6 | ↓ 3 |
+| Avg sets/session | 3 | 3 | → 0 |
+| Avg RPE | 6.67 | 6.92 | ↓ 0.25 |
+| Avg load | 110kg | 135kg | ↓ 25kg |
+| Tonnage | 2640kg | 4470kg | ↓ 1830kg |
+| Avg tonnage/session | 2640kg | 2235kg | ↑ 405kg |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 110kg x 8 @ 6.50
+- Previous top work set: 140kg x 6 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 3 | 10 | ↓ 7 |
+| Avg sets/session | 3 | 3.33 | ↓ 0.33 |
+| Avg RPE | 7.50 | 7.80 | ↓ 0.30 |
+| Avg load | 103.3kg | 93kg | ↑ 10.3kg |
+| Tonnage | 1757.5kg | 4320kg | ↓ 2562.5kg |
+| Avg tonnage/session | 1757.5kg | 1440kg | ↑ 317.5kg |
+
+- Top single: -
+- Previous top single: 125kg x 1 @ 8.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 105kg x 6 @ 7.50
+- Previous top work set: 117.5kg x 5 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
 ## Volume Block v5 / Week 3
 
 Comparison baseline: Volume Block v4 / Week 3
