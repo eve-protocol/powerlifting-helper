@@ -29,13 +29,13 @@ Comparison baseline: Volume Block v5 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 3 | ↓ 2 |
-| Total sets | 3 | 10 | ↓ 7 |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 6 | 10 | ↓ 4 |
 | Avg sets/session | 3 | 3.33 | ↓ 0.33 |
-| Avg RPE | 7.50 | 7.80 | ↓ 0.30 |
-| Avg load | 103.3kg | 93kg | ↑ 10.3kg |
-| Tonnage | 1757.5kg | 4320kg | ↓ 2562.5kg |
-| Avg tonnage/session | 1757.5kg | 1440kg | ↑ 317.5kg |
+| Avg RPE | 7.08 | 7.80 | ↓ 0.72 |
+| Avg load | 72.5kg | 93kg | ↓ 20.5kg |
+| Tonnage | 2757.5kg | 4320kg | ↓ 1562.5kg |
+| Avg tonnage/session | 1378.8kg | 1440kg | ↓ 61.2kg |
 
 - Top single: -
 - Previous top single: 125kg x 1 @ 8.50
@@ -44,19 +44,38 @@ Comparison baseline: Volume Block v5 / Week 3
 - Previous top work set: 117.5kg x 5 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 3 | 10 | ↓ 7 |
+| Avg sets/session | 3 | 3.33 | ↓ 0.33 |
+| Avg RPE | 6.17 | 7.85 | ↓ 1.68 |
+| Avg load | 150kg | 159.5kg | ↓ 9.5kg |
+| Tonnage | 2250kg | 6827.5kg | ↓ 4577.5kg |
+| Avg tonnage/session | 2250kg | 2275.8kg | ↓ 25.8kg |
+
+- Top single: -
+- Previous top single: 190kg x 1 @ 9
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 150kg x 5 @ 6
+- Previous top work set: 170kg x 5 @ 7.50
+- Top work-set delta: ↓ 20kg (only meaningful when the rep scheme is comparable)
+
 ### Health / Recovery
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 1 | 5 | ↓ 4 |
+| Days with data | 2 | 5 | ↓ 3 |
 | Avg steps/day | 4046 | 5635 | ↓ 1589 |
 | Avg distance/day | 3.28km | 4.40km | ↓ 1.12km |
-| Avg kcal/day | 2702 | 2401 | ↑ 301 |
+| Avg kcal/day | 1358 | 2401 | ↓ 1043 |
 | Avg bodyweight | -kg | 79.3kg | n/a |
 | Avg resting HR | 44bpm | 46bpm | ↓ 2bpm |
 | Avg sleep | 6.87h | 7.10h | ↓ 0.23h |
 
-- Latest health date in period: 2026-05-04
+- Latest health date in period: 2026-05-05
 
 ## Volume Block v5 / Week 3
 

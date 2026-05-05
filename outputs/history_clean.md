@@ -2,6 +2,39 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-05-05
+
+### Health / Recovery
+
+- Total kcal burned: 15
+
+**Week 1 · Day 2**
+Finished: 2026-05-05 09:47:16
+
+### Sumo Deadlift (Paused)
+
+  Set 1: 150.0kg x 5 @ RPE 6 [target RPE: 5.5-6]
+  Set 2: 150.0kg x 5 @ RPE 6 [target RPE: 5.5-6]
+  Set 3: 150.0kg x 5 @ RPE 6.5 [target RPE: 5.5-6]
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 40.0kg x 8 @ RPE 6 [target RPE: 6.5-7]
+  Set 2: 42.5kg x 8 @ RPE 6.5 [target RPE: 6.5-7]
+  Set 3: 42.5kg x 8 @ RPE 7.5 [target RPE: 6.5-7]
+
+### Lateral Raise (Dumbbell)
+
+  Set 1: 10.0kg x 12 @ RPE 7 [target: 15 reps, target RPE: 7-7.5]
+  Set 2: 9.0kg x 15 @ RPE 8 [target RPE: 7-7.5]
+  Set 3: 9.0kg x 13 @ RPE 8 [target: 15 reps, target RPE: 7-7.5]
+
+### Rear Delt Fly (Machine)
+
+  Set 1: 30.0kg x 15 [target RPE: 7-7.5]
+  Set 2: 35.0kg x 15 @ RPE 7 [target RPE: 7-7.5]
+  Set 3: 35.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
+
 ## 2026-05-04
 
 ### Health / Recovery
