@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-02-16 to 2026-05-05
+**Period:** 2026-02-16 to 2026-05-06
 ---
 
 ## Format Guide
@@ -19,7 +19,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W19 | 3 (=) | 6 (-1) | 3 (-1) |
+| 2026-W19 | 7 (+4) | 6 (-1) | 3 (-1) |
 | 2026-W18 | 3 (-5) | 7 (-5) | 4 (-3) |
 | 2026-W17 | 8 (-1) | 12 (+1) | 7 (-1) |
 | 2026-W16 | 9 (-2) | 11 (-1) | 8 (-2) |
@@ -37,7 +37,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W19  │   2640kg (+2140) │   2744kg (+1122) │   2250kg (+1493)
+2026-W19  │   5760kg (+5260) │   2744kg (+1122) │   2250kg (+1493)
 2026-W18  │    500kg (-1840) │   1622kg  (-610) │    757kg  (-798)
 2026-W17  │   2340kg (-1402) │   2232kg  (-815) │   1555kg  (-460)
 2026-W16  │   3742kg  (-683) │   3047kg  (-532) │   2015kg (-1286)
@@ -55,7 +55,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Squat Volume (kg)**
 ```
-2026-W19 │██████░░░░░░░░░░░░░░░░░░░│ 2,640kg
+2026-W19 │█████████████░░░░░░░░░░░░│ 5,760kg
 2026-W18 │█░░░░░░░░░░░░░░░░░░░░░░░░│ 500kg
 2026-W17 │█████░░░░░░░░░░░░░░░░░░░░│ 2,340kg
 2026-W16 │████████░░░░░░░░░░░░░░░░░│ 3,742kg
@@ -107,7 +107,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ## 2026-W19
 
-**Weekly Summary:** Squat: 3 sets / 2,640kg | Bench: 6 sets / 2,744kg | Deadlift: 3 sets / 2,250kg
+**Weekly Summary:** Squat: 7 sets / 5,760kg | Bench: 6 sets / 2,744kg | Deadlift: 3 sets / 2,250kg
 
 ### 2026-05-04 (Monday)
 
@@ -168,6 +168,33 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 1: 15 × 30kg @ RPE - [target_reps=15, target_intensity=[7, 7.5]RPE_range]
 - Set 2: 15 × 35kg @ RPE 7 [target_reps=15, target_intensity=[7, 7.5]RPE_range]
 - Set 3: 15 × 35kg @ RPE 7.5 [target_reps=15, target_intensity=[7, 7.5]RPE_range]
+
+### 2026-05-06 (Wednesday)
+
+### Health / Recovery
+
+- Total kcal burned: 15
+
+**Squat (Low Bar)**
+- Set 1: 8 × 130kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range]
+- Set 2: 8 × 130kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range]
+- Set 3: 7 × 130kg @ RPE 6 [target_reps=8, target_intensity=[6.5, 7]RPE_range]
+- Set 4: 1 × 130kg @ RPE - [target_reps=8, target_intensity=[6.5, 7]RPE_range]
+
+**Leg Extension**
+- Set 1: 12 × 55kg @ RPE 7.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+- Set 2: 12 × 55kg @ RPE 8.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+- Set 3: 12 × 50kg @ RPE 7.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+
+**Standing T Bar Row**
+- Set 1: 12 × 50kg @ RPE 6.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+- Set 2: 12 × 50kg @ RPE 7 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+- Set 3: 12 × 50kg @ RPE 8.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+
+**Leg Curl**
+- Set 1: 12 × 30kg @ RPE 6 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+- Set 2: 12 × 32kg @ RPE 9 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
+- Set 3: 10 × 30kg @ RPE 8 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
 
 ---
 

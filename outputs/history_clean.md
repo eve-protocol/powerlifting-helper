@@ -2,6 +2,40 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-05-06
+
+### Health / Recovery
+
+- Total kcal burned: 15
+
+**Week 1 · Day 3**
+Finished: 2026-05-06 10:16:30
+
+### Squat (Low Bar)
+
+  Set 1: 130.0kg x 8 @ RPE 7 [target RPE: 6.5-7]
+  Set 2: 130.0kg x 8 @ RPE 7 [target RPE: 6.5-7]
+  Set 3: 130.0kg x 7 @ RPE 6 [target: 8 reps, target RPE: 6.5-7]
+  Set 4: 130.0kg x 1 [target: 8 reps, target RPE: 6.5-7]
+
+### Leg Extension
+
+  Set 1: 55.0kg x 12 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 2: 55.0kg x 12 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 3: 50.0kg x 12 @ RPE 7.5 [target RPE: 7-7.5]
+
+### Standing T Bar Row
+
+  Set 1: 50.0kg x 12 @ RPE 6.5 [target RPE: 7-7.5]
+  Set 2: 50.0kg x 12 @ RPE 7 [target RPE: 7-7.5]
+  Set 3: 50.0kg x 12 @ RPE 8.5 [target RPE: 7-7.5]
+
+### Leg Curl
+
+  Set 1: 30.0kg x 12 @ RPE 6 [target RPE: 7-7.5]
+  Set 2: 32.5kg x 12 @ RPE 9 [target RPE: 7-7.5]
+  Set 3: 30.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
+
 ## 2026-05-05
 
 ### Health / Recovery

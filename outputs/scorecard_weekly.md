@@ -10,18 +10,18 @@ Comparison baseline: Volume Block v5 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 2 | ↓ 1 |
-| Total sets | 3 | 6 | ↓ 3 |
-| Avg sets/session | 3 | 3 | → 0 |
+| Sessions | 2 | 2 | → 0 |
+| Total sets | 7 | 6 | ↑ 1 |
+| Avg sets/session | 3.50 | 3 | ↑ 0.50 |
 | Avg RPE | 6.67 | 6.92 | ↓ 0.25 |
-| Avg load | 110kg | 135kg | ↓ 25kg |
-| Tonnage | 2640kg | 4470kg | ↓ 1830kg |
-| Avg tonnage/session | 2640kg | 2235kg | ↑ 405kg |
+| Avg load | 121.4kg | 135kg | ↓ 13.6kg |
+| Tonnage | 5760kg | 4470kg | ↑ 1290kg |
+| Avg tonnage/session | 2880kg | 2235kg | ↑ 645kg |
 
-- Top single: -
+- Top single: 130kg x 1 @ -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 110kg x 8 @ 6.50
+- Top work set: 130kg x 8 @ 7
 - Previous top work set: 140kg x 6 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -67,15 +67,15 @@ Comparison baseline: Volume Block v5 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 2 | 5 | ↓ 3 |
+| Days with data | 3 | 5 | ↓ 2 |
 | Avg steps/day | 8407 | 5635 | ↑ 2772 |
 | Avg distance/day | 6.81km | 4.40km | ↑ 2.41km |
-| Avg kcal/day | 2805 | 2401 | ↑ 404 |
+| Avg kcal/day | 1875 | 2401 | ↓ 526 |
 | Avg bodyweight | 78.7kg | 79.3kg | ↓ 0.6kg |
 | Avg resting HR | 43.5bpm | 46bpm | ↓ 2.5bpm |
 | Avg sleep | 6.99h | 7.10h | ↓ 0.11h |
 
-- Latest health date in period: 2026-05-05
+- Latest health date in period: 2026-05-06
 
 ## Volume Block v5 / Week 3
 
