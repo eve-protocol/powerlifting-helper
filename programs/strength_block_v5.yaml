@@ -259,6 +259,19 @@ workouts:
       rpe:
       - 8
       - 8.5
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -337,19 +350,6 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Chest Fly (Machine)
-    type: Machine
-    muscles:
-    - Chest
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
 - week: 2
   day: 1
   name: Monday - Paused Bench / Pause Squat / Pull-Ups
@@ -601,6 +601,19 @@ workouts:
       rpe:
       - 8
       - 8.5
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -676,19 +689,6 @@ workouts:
       - 7
       - 7.5
     - target: 4
-      rpe:
-      - 7
-      - 7.5
-  - name: Chest Fly (Machine)
-    type: Machine
-    muscles:
-    - Chest
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
       rpe:
       - 7
       - 7.5
@@ -931,6 +931,19 @@ workouts:
       rpe:
       - 8
       - 8.5
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -1006,19 +1019,6 @@ workouts:
       - 7
       - 7.5
     - target: 4
-      rpe:
-      - 7
-      - 7.5
-  - name: Chest Fly (Machine)
-    type: Machine
-    muscles:
-    - Chest
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
       rpe:
       - 7
       - 7.5
@@ -1230,6 +1230,19 @@ workouts:
       - 7
       - 7.5
     - target: 5
+      rpe:
+      - 7
+      - 7.5
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
       rpe:
       - 7
       - 7.5
@@ -1299,16 +1312,3 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Chest Fly (Machine)
-    type: Machine
-    muscles:
-    - Chest
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5

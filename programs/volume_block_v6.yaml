@@ -256,6 +256,19 @@ workouts:
       rpe:
       - 7.5
       - 8
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -334,19 +347,6 @@ workouts:
       rpe:
       - 6
       - 6.5
-  - name: Chest Fly (Machine)
-    type: Machine
-    muscles:
-    - Chest
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
 - week: 2
   day: 1
   name: Monday - Paused Bench / High Bar / Pull-Ups
@@ -594,6 +594,19 @@ workouts:
       rpe:
       - 7.5
       - 8
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -672,19 +685,6 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Chest Fly (Machine)
-    type: Machine
-    muscles:
-    - Chest
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
 - week: 3
   day: 1
   name: Monday - Paused Bench / High Bar / Pull-Ups
@@ -928,6 +928,19 @@ workouts:
       rpe:
       - 7.5
       - 8
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -1006,19 +1019,6 @@ workouts:
       rpe:
       - 6.5
       - 7
-  - name: Chest Fly (Machine)
-    type: Machine
-    muscles:
-    - Chest
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
 - week: 4
   day: 1
   name: Monday - Paused Bench / High Bar / Pull-Ups
@@ -1234,6 +1234,19 @@ workouts:
       rpe:
       - 6.5
       - 7
+  - name: Chest Fly (Machine)
+    type: Machine
+    muscles:
+    - Chest
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
   - name: Overhead Tricep Extension (Cable)
     type: Cable
     muscles:
@@ -1304,16 +1317,3 @@ workouts:
       rpe:
       - 6
       - 6.5
-  - name: Chest Fly (Machine)
-    type: Machine
-    muscles:
-    - Chest
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
