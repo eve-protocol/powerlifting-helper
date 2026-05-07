@@ -1,6 +1,6 @@
 # Peaking Block v7
 
-4-week realization/peaking block. All lifts competition-specific — no squat variations, no Larsen. Heavy singles ramp across the block toward mock meet. Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse opener/second-attempt execution, followed by controlled backoff doubles. Week 4 is the actual taper with openers Monday, light technique work, and full mock meet Saturday. Incline DB stays weeks 1-2 then tapers out. Paused bench and paused deadlift serve as lighter technique work. Monday stays upper-focused with light low bar to preserve the Saturday→Monday recovery fix.
+4-week realization/peaking block. All lifts competition-specific — no squat variations, no Larsen. Heavy singles ramp across the block toward mock meet. Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse opener/second-attempt execution, followed by controlled backoff doubles. Week 4 is a mock-meet realization week with openers Monday, easy-but-loaded squat/bench practice midweek, and full mock meet Saturday rather than an aggressive taper. Incline DB stays weeks 1-2 then drops out. Paused bench and paused deadlift serve as lighter technique work. Monday stays upper-focused with light low bar to preserve the Saturday→Monday recovery fix.
 
 ## Overview
 
@@ -179,17 +179,17 @@
 | 2 | Lateral Raise (Dumbbell) | 10 reps @ RPE 6-6.5; 10 reps @ RPE 6-6.5 |
 | 3 | Rear Delt Fly (Machine) | 12 reps @ RPE 6-6.5; 12 reps @ RPE 6-6.5 |
 
-#### Day 3 — Wednesday - Light Squat Technique
+#### Day 3 — Wednesday - Squat Technique
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 2 reps @ RPE 5-5.5; 2 reps @ RPE 5-5.5 |
+| 1 | Squat (Low Bar) | 2 reps @ RPE 6-6.5; 2 reps @ RPE 6-6.5 |
 
-#### Day 4 — Thursday - Light Bench Technique
+#### Day 4 — Thursday - Bench Technique
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 2 reps @ RPE 5-5.5; 2 reps @ RPE 5-5.5 |
+| 1 | Bench Press (Barbell) | 2 reps @ RPE 6-6.5; 2 reps @ RPE 6-6.5 |
 
 #### Day 5 — Saturday - MOCK MEET
 

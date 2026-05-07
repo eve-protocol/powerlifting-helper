@@ -3,8 +3,9 @@ description: '4-week realization/peaking block. All lifts competition-specific â
   squat variations, no Larsen. Heavy singles ramp across the block toward mock meet.
   Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse
   opener/second-attempt execution, followed by controlled backoff doubles. Week 4
-  is the actual taper with openers Monday, light technique work, and full mock meet
-  Saturday. Incline DB stays weeks 1-2 then tapers out. Paused bench and paused deadlift serve
+  is a mock-meet realization week with openers Monday, easy-but-loaded squat/bench
+  practice midweek, and full mock meet Saturday rather than an aggressive taper.
+  Incline DB stays weeks 1-2 then drops out. Paused bench and paused deadlift serve
   as lighter technique work. Monday stays upper-focused with light low bar to preserve
   the Saturdayâ†’Monday recovery fix.'
 weeks: 4
@@ -807,7 +808,7 @@ workouts:
       - 6.5
 - week: 4
   day: 3
-  name: Wednesday - Light Squat Technique
+  name: Wednesday - Squat Technique
   exercises:
   - name: Squat (Low Bar)
     type: Barbell
@@ -816,15 +817,15 @@ workouts:
     sets:
     - target: 2
       rpe:
-      - 5
-      - 5.5
+      - 6
+      - 6.5
     - target: 2
       rpe:
-      - 5
-      - 5.5
+      - 6
+      - 6.5
 - week: 4
   day: 4
-  name: Thursday - Light Bench Technique
+  name: Thursday - Bench Technique
   exercises:
   - name: Bench Press (Barbell)
     type: Barbell
@@ -833,12 +834,12 @@ workouts:
     sets:
     - target: 2
       rpe:
-      - 5
-      - 5.5
+      - 6
+      - 6.5
     - target: 2
       rpe:
-      - 5
-      - 5.5
+      - 6
+      - 6.5
 - week: 4
   day: 5
   name: Saturday - MOCK MEET
