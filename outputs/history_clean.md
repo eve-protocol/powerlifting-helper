@@ -2,15 +2,35 @@
 
 *Auto-generated from history.json - uses archived_* fields only*
 
+## 2026-05-07
+
+**Week 1 · Day 4**
+Finished: 2026-05-07 09:23:07
+
+### Bench Press (Barbell)
+
+  Set 1: 105.0kg x 8 @ RPE 6 [target RPE: 6-6.5]
+  Set 2: 107.5kg x 8 @ RPE 7.5 [target RPE: 6-6.5]
+  Set 3: 105.0kg x 8 @ RPE 7 [target RPE: 6-6.5]
+
+### Pull-Up (Weighted)
+
+  Set 1: 20.0kg x 6 @ RPE 8 [target RPE: 7.5-8]
+  Set 2: 20.0kg x 6 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 3: 20.0kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
+
+### Overhead Tricep Extension (Cable)
+
+  Set 1: 30.0kg x 12 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 30.0kg x 8 @ RPE 8 [target: 12 reps, target RPE: 7.5-8]
+  Set 3: 25.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 7.5-8]
+
+### Bicep Curl (EZ Bar)
+
+  Set 1: 20.0kg x 12 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 2: 20.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 7.5-8]
+
 ## 2026-05-06
-
-### Health / Recovery
-
-- Steps: 5105
-- Distance: 7.24 km
-- Total kcal burned: 1792
-- Resting heart rate: 43 bpm
-- Sleep: 7.64 h asleep (7.96 h in bed, deep 1.43 h, REM 0.98 h, awake 0.32 h)
 
 **Week 1 · Day 3**
 Finished: 2026-05-06 10:16:30
@@ -42,15 +62,6 @@ Finished: 2026-05-06 10:16:30
 
 ## 2026-05-05
 
-### Health / Recovery
-
-- Steps: 12768
-- Distance: 10.34 km
-- Total kcal burned: 2908
-- Weight: 79 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.11 h asleep (7.26 h in bed, deep 0.95 h, REM 1.15 h, awake 0.15 h)
-
 **Week 1 · Day 2**
 Finished: 2026-05-05 09:47:16
 
@@ -80,15 +91,6 @@ Finished: 2026-05-05 09:47:16
 
 ## 2026-05-04
 
-### Health / Recovery
-
-- Steps: 4046
-- Distance: 3.28 km
-- Total kcal burned: 2702
-- Weight: 78.7 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.87 h asleep (6.88 h in bed, deep 1.35 h, REM 1.25 h, awake 0.02 h)
-
 **Week 1 · Day 1**
 Finished: 2026-05-04 09:26:55
 
@@ -117,14 +119,6 @@ Finished: 2026-05-04 09:26:55
 
 ## 2026-05-02
 
-### Health / Recovery
-
-- Steps: 15736
-- Distance: 12.76 km
-- Total kcal burned: 3383
-- Resting heart rate: 43 bpm
-- Sleep: 5.97 h asleep (6.70 h in bed, deep 1.17 h, REM 0.87 h, awake 0.73 h)
-
 **Week 4 · Day 5**
 Finished: 2026-05-02 10:20:32
 
@@ -148,14 +142,6 @@ Finished: 2026-05-02 10:20:32
 
 ## 2026-04-30
 
-### Health / Recovery
-
-- Steps: 20364
-- Distance: 16.49 km
-- Total kcal burned: 2777
-- Resting heart rate: 40 bpm
-- Sleep: 7.30 h asleep (7.32 h in bed, deep 1.75 h, REM 0.92 h, awake 0.02 h)
-
 **Week 4 · Day 4**
 Finished: 2026-04-30 08:38:52
 
@@ -177,14 +163,6 @@ Finished: 2026-04-30 08:38:52
 
 ## 2026-04-28
 
-### Health / Recovery
-
-- Steps: 18894
-- Distance: 15.30 km
-- Total kcal burned: 2531
-- Resting heart rate: 41 bpm
-- Sleep: 7.05 h asleep (7.23 h in bed, deep 1.33 h, REM 1.68 h, awake 0.18 h)
-
 **Week 4 · Day 3**
 Finished: 2026-04-28 19:24:32
 
@@ -201,14 +179,6 @@ Finished: 2026-04-28 19:24:32
   Set 1: 185.0kg x 1 @ RPE 7 [target RPE: 6-6.5]
 
 ## 2026-04-27
-
-### Health / Recovery
-
-- Steps: 16002
-- Distance: 13 km
-- Total kcal burned: 2560
-- Resting heart rate: 41 bpm
-- Sleep: 6.70 h asleep (6.93 h in bed, deep 0.92 h, REM 1.37 h, awake 0.23 h)
 
 **Week 4 · Day 2**
 Finished: 2026-04-27 07:31:54
@@ -229,15 +199,6 @@ Finished: 2026-04-27 07:31:54
   Set 2: 7.0kg x 12 @ RPE 6 [target RPE: 6-6.5]
 
 ## 2026-04-26
-
-### Health / Recovery
-
-- Steps: 22964
-- Distance: 18.64 km
-- Total kcal burned: 2783
-- Weight: 79 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.02 h asleep (6.53 h in bed, deep 1.35 h, REM 0.17 h, awake 0.52 h)
 
 **Week 4 · Day 1**
 Finished: 2026-04-26 08:00:37
@@ -261,15 +222,6 @@ Finished: 2026-04-26 08:00:37
   Set 2: 20.0kg x 5 @ RPE 6.5 [target RPE: 6-6.5]
 
 ## 2026-04-25
-
-### Health / Recovery
-
-- Steps: 19276
-- Distance: 15.69 km
-- Total kcal burned: 3054
-- Weight: 79.2 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.07 h asleep (6.17 h in bed, deep 1.60 h, REM 0.98 h, awake 0.10 h)
 
 **Week 3 · Day 5**
 Finished: 2026-04-25 08:14:33
@@ -297,14 +249,6 @@ Finished: 2026-04-25 08:14:33
 
 ## 2026-04-23
 
-### Health / Recovery
-
-- Steps: 22242
-- Distance: 18.03 km
-- Total kcal burned: 2703
-- Resting heart rate: 43 bpm
-- Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
-
 **Week 3 · Day 4**
 Finished: 2026-04-23 07:56:26
 
@@ -331,15 +275,6 @@ Finished: 2026-04-23 07:56:26
 
 ## 2026-04-22
 
-### Health / Recovery
-
-- Steps: 17049
-- Distance: 13.89 km
-- Total kcal burned: 2662
-- Weight: 80.5 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.33 h asleep (6.45 h in bed, deep 1.07 h, REM 0.98 h, awake 0.12 h)
-
 **Week 3 · Day 3**
 Finished: 2026-04-22 21:13:57
 
@@ -349,15 +284,6 @@ Finished: 2026-04-22 21:13:57
   Set 2: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5]
 
 ## 2026-04-21
-
-### Health / Recovery
-
-- Steps: 21385
-- Distance: 17.36 km
-- Total kcal burned: 3008
-- Weight: 79.8 kg
-- Resting heart rate: 43 bpm
-- Sleep: 4.58 h asleep (5.05 h in bed, deep 0.48 h, REM 0.28 h, awake 0.47 h)
 
 **Week 3 · Day 2**
 Finished: 2026-04-21 07:46:28
@@ -380,15 +306,6 @@ Finished: 2026-04-21 07:46:28
 
 ## 2026-04-20
 
-### Health / Recovery
-
-- Steps: 10074
-- Distance: 8.20 km
-- Total kcal burned: 2700
-- Weight: 79.2 kg
-- Resting heart rate: 40 bpm
-- Sleep: 7.80 h asleep (7.95 h in bed, deep 1.45 h, REM 1.58 h, awake 0.15 h)
-
 **Week 3 · Day 1**
 Finished: 2026-04-20 10:03:11
 
@@ -410,14 +327,6 @@ Finished: 2026-04-20 10:03:11
   Set 2: 25.0kg x 5 @ RPE 8 [target RPE: 7-7.5]
 
 ## 2026-04-18
-
-### Health / Recovery
-
-- Steps: 16801
-- Distance: 13.69 km
-- Total kcal burned: 2907
-- Resting heart rate: 43 bpm
-- Sleep: 7.63 h asleep (7.65 h in bed, deep 1.15 h, REM 1.83 h, awake 0.02 h)
 
 **Week 2 · Day 5**
 Finished: 2026-04-18 10:26:21
@@ -443,14 +352,6 @@ Finished: 2026-04-18 10:26:21
   Set 2: 117.5kg x 5 @ RPE 8 [target: 3 reps, target RPE: 6-6.5]
 
 ## 2026-04-16
-
-### Health / Recovery
-
-- Steps: 3055
-- Distance: 2.47 km
-- Total kcal burned: 2356
-- Resting heart rate: 43 bpm
-- Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Week 2 · Day 4**
 Finished: 2026-04-16 09:37:42
@@ -483,15 +384,6 @@ Finished: 2026-04-16 09:37:42
 
 ## 2026-04-15
 
-### Health / Recovery
-
-- Steps: 3503
-- Distance: 2.86 km
-- Total kcal burned: 2282
-- Weight: 79.9 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
-
 **Week 2 · Day 3**
 Finished: 2026-04-15 10:04:17
 
@@ -517,15 +409,6 @@ Finished: 2026-04-15 10:04:17
   Set 4: 55.0kg x 10 @ RPE 7.5 [target RPE: 7.5-8]
 
 ## 2026-04-14
-
-### Health / Recovery
-
-- Steps: 9341
-- Distance: 10.01 km
-- Total kcal burned: 2990
-- Weight: 80 kg
-- Resting heart rate: 43 bpm
-- Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
 
 **Week 2 · Day 2**
 Finished: 2026-04-14 09:43:00
@@ -553,11 +436,10 @@ Finished: 2026-04-14 09:43:00
 
 ### Health / Recovery
 
-- Steps: 4616
-- Distance: 3.75 km
-- Total kcal burned: 2370
-- Weight: 80 kg
-- Resting heart rate: 42 bpm
+- Steps: 3178
+- Distance: 2.58 km
+- Total kcal burned: 1328
+- Resting heart rate: 44 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Week 2 · Day 1**

@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-02-16 to 2026-05-06
+**Period:** 2026-02-16 to 2026-05-07
 ---
 
 ## Format Guide
@@ -19,7 +19,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W19 | 7 (+4) | 6 (-1) | 3 (-1) |
+| 2026-W19 | 7 (+4) | 9 (+2) | 3 (-1) |
 | 2026-W18 | 3 (-5) | 7 (-5) | 4 (-3) |
 | 2026-W17 | 8 (-1) | 12 (+1) | 7 (-1) |
 | 2026-W16 | 9 (-2) | 11 (-1) | 8 (-2) |
@@ -37,7 +37,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W19  │   5760kg (+5260) │   2744kg (+1122) │   2250kg (+1493)
+2026-W19  │   5760kg (+5260) │   5280kg (+3658) │   2250kg (+1493)
 2026-W18  │    500kg (-1840) │   1622kg  (-610) │    757kg  (-798)
 2026-W17  │   2340kg (-1402) │   2232kg  (-815) │   1555kg  (-460)
 2026-W16  │   3742kg  (-683) │   3047kg  (-532) │   2015kg (-1286)
@@ -71,7 +71,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 **Bench Volume (kg)**
 ```
-2026-W19 │██████░░░░░░░░░░░░░░░░░░░│ 2,744kg
+2026-W19 │████████████░░░░░░░░░░░░░│ 5,280kg
 2026-W18 │███░░░░░░░░░░░░░░░░░░░░░░│ 1,622kg
 2026-W17 │█████░░░░░░░░░░░░░░░░░░░░│ 2,232kg
 2026-W16 │██████░░░░░░░░░░░░░░░░░░░│ 3,047kg
@@ -107,18 +107,9 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ## 2026-W19
 
-**Weekly Summary:** Squat: 7 sets / 5,760kg | Bench: 6 sets / 2,744kg | Deadlift: 3 sets / 2,250kg
+**Weekly Summary:** Squat: 7 sets / 5,760kg | Bench: 9 sets / 5,280kg | Deadlift: 3 sets / 2,250kg
 
 ### 2026-05-04 (Monday)
-
-### Health / Recovery
-
-- Steps: 4046
-- Distance: 3.28 km
-- Total kcal burned: 2702
-- Weight: 78.7 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.87 h asleep (6.88 h in bed, deep 1.35 h, REM 1.25 h, awake 0.02 h)
 
 **Bench Press (Paused)**
 - Set 1: 6 × 105kg @ RPE 7.5 [target_reps=6, target_intensity=[6, 6.5]RPE_range]
@@ -140,15 +131,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 2: 15 × 40kg @ RPE 7 [target_reps=15, target_intensity=[6.5, 7]RPE_range]
 
 ### 2026-05-05 (Tuesday)
-
-### Health / Recovery
-
-- Steps: 12768
-- Distance: 10.34 km
-- Total kcal burned: 2908
-- Weight: 79 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.11 h asleep (7.26 h in bed, deep 0.95 h, REM 1.15 h, awake 0.15 h)
 
 **Sumo Deadlift (Paused)**
 - Set 1: 5 × 150kg @ RPE 6 [target_reps=5, target_intensity=[5.5, 6]RPE_range]
@@ -172,14 +154,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-05-06 (Wednesday)
 
-### Health / Recovery
-
-- Steps: 5105
-- Distance: 7.24 km
-- Total kcal burned: 1792
-- Resting heart rate: 43 bpm
-- Sleep: 7.64 h asleep (7.96 h in bed, deep 1.43 h, REM 0.98 h, awake 0.32 h)
-
 **Squat (Low Bar)**
 - Set 1: 8 × 130kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range]
 - Set 2: 8 × 130kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range]
@@ -201,6 +175,27 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 2: 12 × 32kg @ RPE 9 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
 - Set 3: 10 × 30kg @ RPE 8 [target_reps=12, target_intensity=[7, 7.5]RPE_range]
 
+### 2026-05-07 (Thursday)
+
+**Bench Press (Barbell)**
+- Set 1: 8 × 105kg @ RPE 6 [target_reps=8, target_intensity=[6, 6.5]RPE_range]
+- Set 2: 8 × 107kg @ RPE 7.5 [target_reps=8, target_intensity=[6, 6.5]RPE_range]
+- Set 3: 8 × 105kg @ RPE 7 [target_reps=8, target_intensity=[6, 6.5]RPE_range]
+
+**Pull-Up (Weighted)**
+- Set 1: 6 × 20kg @ RPE 8 [target_reps=6, target_intensity=[7.5, 8]RPE_range]
+- Set 2: 6 × 20kg @ RPE 7.5 [target_reps=6, target_intensity=[7.5, 8]RPE_range]
+- Set 3: 6 × 20kg @ RPE 8.5 [target_reps=6, target_intensity=[7.5, 8]RPE_range]
+
+**Overhead Tricep Extension (Cable)**
+- Set 1: 12 × 30kg @ RPE 7 [target_reps=12, target_intensity=[7.5, 8]RPE_range]
+- Set 2: 8 × 30kg @ RPE 8 [target_reps=12, target_intensity=[7.5, 8]RPE_range]
+- Set 3: 10 × 25kg @ RPE 8 [target_reps=12, target_intensity=[7.5, 8]RPE_range]
+
+**Bicep Curl (EZ Bar)**
+- Set 1: 12 × 20kg @ RPE 7.5 [target_reps=12, target_intensity=[7.5, 8]RPE_range]
+- Set 2: 10 × 20kg @ RPE 8 [target_reps=12, target_intensity=[7.5, 8]RPE_range]
+
 ---
 
 ## 2026-W18
@@ -208,14 +203,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 **Weekly Summary:** Squat: 3 sets / 500kg | Bench: 7 sets / 1,622kg | Deadlift: 4 sets / 757kg
 
 ### 2026-04-27 (Monday)
-
-### Health / Recovery
-
-- Steps: 16002
-- Distance: 13 km
-- Total kcal burned: 2560
-- Resting heart rate: 41 bpm
-- Sleep: 6.70 h asleep (6.93 h in bed, deep 0.92 h, REM 1.37 h, awake 0.23 h)
 
 **Incline Bench Press (Dumbbell)**
 - Set 1: 6 × 45kg @ RPE 7 [target_reps=6, target_intensity=[6, 6.5]RPE_range]
@@ -231,14 +218,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-28 (Tuesday)
 
-### Health / Recovery
-
-- Steps: 18894
-- Distance: 15.30 km
-- Total kcal burned: 2531
-- Resting heart rate: 41 bpm
-- Sleep: 7.05 h asleep (7.23 h in bed, deep 1.33 h, REM 1.68 h, awake 0.18 h)
-
 **Squat (Low Bar)**
 - Set 1: 1 × 160kg @ RPE 7 [target_reps=1, target_intensity=[6, 6.5]RPE_range]
 
@@ -249,14 +228,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 1: 1 × 185kg @ RPE 7 [target_reps=1, target_intensity=[6, 6.5]RPE_range]
 
 ### 2026-04-30 (Thursday)
-
-### Health / Recovery
-
-- Steps: 20364
-- Distance: 16.49 km
-- Total kcal burned: 2777
-- Resting heart rate: 40 bpm
-- Sleep: 7.30 h asleep (7.32 h in bed, deep 1.75 h, REM 0.92 h, awake 0.02 h)
 
 **Bench Press (Barbell)**
 - Set 1: 5 × 110kg @ RPE 6 [target_reps=5, target_intensity=[5, 6]RPE_range]
@@ -272,14 +243,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 3: 10 × 12kg @ RPE 8.5 [no_target]
 
 ### 2026-05-02 (Saturday)
-
-### Health / Recovery
-
-- Steps: 15736
-- Distance: 12.76 km
-- Total kcal burned: 3383
-- Resting heart rate: 43 bpm
-- Sleep: 5.97 h asleep (6.70 h in bed, deep 1.17 h, REM 0.87 h, awake 0.73 h)
 
 **Squat (Low Bar)**
 - Set 1: 1 × 165kg @ RPE 8.5 [target_reps=1, target_intensity=[8, 8]RPE_range]
@@ -303,15 +266,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-20 (Monday)
 
-### Health / Recovery
-
-- Steps: 10074
-- Distance: 8.20 km
-- Total kcal burned: 2700
-- Weight: 79.2 kg
-- Resting heart rate: 40 bpm
-- Sleep: 7.80 h asleep (7.95 h in bed, deep 1.45 h, REM 1.58 h, awake 0.15 h)
-
 **Squat (Low Bar)**
 - Set 1: 1 × 165kg @ RPE 9 [target_reps=1, target_intensity=[8.5, 9]RPE_range]
 - Set 2: 1 × 160kg @ RPE 8 [target_reps=1, target_intensity=[7, 7.5]RPE_range]
@@ -328,15 +282,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-21 (Tuesday)
 
-### Health / Recovery
-
-- Steps: 21385
-- Distance: 17.36 km
-- Total kcal burned: 3008
-- Weight: 79.8 kg
-- Resting heart rate: 43 bpm
-- Sleep: 4.58 h asleep (5.05 h in bed, deep 0.48 h, REM 0.28 h, awake 0.47 h)
-
 **Sumo Deadlift (Paused)**
 - Set 1: 1 × 175kg @ RPE 8 [target_reps=1, target_intensity=[8, 8.5]RPE_range]
 - Set 2: 2 × 165kg @ RPE 7 [target_reps=2, target_intensity=[6.5, 7]RPE_range]
@@ -352,28 +297,11 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-22 (Wednesday)
 
-### Health / Recovery
-
-- Steps: 17049
-- Distance: 13.89 km
-- Total kcal burned: 2662
-- Weight: 80.5 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.33 h asleep (6.45 h in bed, deep 1.07 h, REM 0.98 h, awake 0.12 h)
-
 **Squat (Low Bar)**
 - Set 1: 2 × 145kg @ RPE 6.5 [target_reps=2, target_intensity=[6, 6.5]RPE_range]
 - Set 2: 2 × 145kg @ RPE 6.5 [target_reps=2, target_intensity=[6, 6.5]RPE_range]
 
 ### 2026-04-23 (Thursday)
-
-### Health / Recovery
-
-- Steps: 22242
-- Distance: 18.03 km
-- Total kcal burned: 2703
-- Resting heart rate: 43 bpm
-- Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
 
 **Bench Press (Barbell)**
 - Set 1: 1 × 132kg @ RPE 8.5 [target_reps=1, target_intensity=[8.5, 9]RPE_range]
@@ -394,15 +322,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-25 (Saturday)
 
-### Health / Recovery
-
-- Steps: 19276
-- Distance: 15.69 km
-- Total kcal burned: 3054
-- Weight: 79.2 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.07 h asleep (6.17 h in bed, deep 1.60 h, REM 0.98 h, awake 0.10 h)
-
 **Sumo Deadlift (Barbell)**
 - Set 1: 1 × 190kg [failed] @ RPE - [target_reps=1, target_intensity=[8.5, 9]RPE_range]
 - Set 2: 1 × 190kg [failed] @ RPE - [target_reps=1, target_intensity=[7, 7.5]RPE_range]
@@ -422,15 +341,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 3: 2 × 125kg @ RPE 7 [target_reps=2, target_intensity=[6, 6]RPE_range]
 
 ### 2026-04-26 (Sunday)
-
-### Health / Recovery
-
-- Steps: 22964
-- Distance: 18.64 km
-- Total kcal burned: 2783
-- Weight: 79 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.02 h asleep (6.53 h in bed, deep 1.35 h, REM 0.17 h, awake 0.52 h)
 
 **Squat (Low Bar)**
 - Set 1: 1 × 155kg @ RPE 6 [target_reps=1, target_intensity=[6, 6.5]RPE_range]
@@ -456,11 +366,10 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### Health / Recovery
 
-- Steps: 4616
-- Distance: 3.75 km
-- Total kcal burned: 2370
-- Weight: 80 kg
-- Resting heart rate: 42 bpm
+- Steps: 3178
+- Distance: 2.58 km
+- Total kcal burned: 1328
+- Resting heart rate: 44 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Squat (Low Bar)**
@@ -483,15 +392,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 
 ### 2026-04-14 (Tuesday)
 
-### Health / Recovery
-
-- Steps: 9341
-- Distance: 10.01 km
-- Total kcal burned: 2990
-- Weight: 80 kg
-- Resting heart rate: 43 bpm
-- Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
-
 **Sumo Deadlift (Paused)**
 - Set 1: 1 × 175kg @ RPE 8.5 [target_reps=1, target_intensity=[7.5, 8]RPE_range]
 - Set 2: 1 × 160kg @ RPE - [target_reps=3, target_intensity=[7, 7.5]RPE_range]
@@ -509,15 +409,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 2: 15 × 10kg @ RPE 8.5 [target_reps=12, target_intensity=[7.5, 8]RPE_range]
 
 ### 2026-04-15 (Wednesday)
-
-### Health / Recovery
-
-- Steps: 3503
-- Distance: 2.86 km
-- Total kcal burned: 2282
-- Weight: 79.9 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
 
 **Squat (Low Bar)**
 - Set 1: 3 × 147kg @ RPE 7 [target_reps=3, target_intensity=[6.5, 7]RPE_range]
@@ -538,14 +429,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 4: 10 × 55kg @ RPE 7.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range]
 
 ### 2026-04-16 (Thursday)
-
-### Health / Recovery
-
-- Steps: 3055
-- Distance: 2.47 km
-- Total kcal burned: 2356
-- Resting heart rate: 43 bpm
-- Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Bench Press (Barbell)**
 - Set 1: 1 × 132kg @ RPE 9.5 [target_reps=1, target_intensity=[8.5, 9]RPE_range]
@@ -569,14 +452,6 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 - Set 2: 10 × 35kg @ RPE 8.5 [no_target]
 
 ### 2026-04-18 (Saturday)
-
-### Health / Recovery
-
-- Steps: 16801
-- Distance: 13.69 km
-- Total kcal burned: 2907
-- Resting heart rate: 43 bpm
-- Sleep: 7.63 h asleep (7.65 h in bed, deep 1.15 h, REM 1.83 h, awake 0.02 h)
 
 **Sumo Deadlift (Barbell)**
 - Set 1: 1 × 170kg [failed] @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range]

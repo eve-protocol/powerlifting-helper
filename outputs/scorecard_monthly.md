@@ -29,18 +29,18 @@ Comparison baseline: 2026-04
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 18 | ↓ 15 |
-| Total sets | 9 | 47 | ↓ 38 |
+| Sessions | 4 | 18 | ↓ 14 |
+| Total sets | 12 | 47 | ↓ 35 |
 | Avg sets/session | 3 | 2.61 | ↑ 0.39 |
-| Avg RPE | 7.56 | 7.87 | ↓ 0.31 |
-| Avg load | 93.6kg | 104.3kg | ↓ 10.7kg |
-| Tonnage | 3165kg | 13375kg | ↓ 10210kg |
-| Avg tonnage/session | 1055kg | 743.1kg | ↑ 311.9kg |
+| Avg RPE | 7.38 | 7.87 | ↓ 0.49 |
+| Avg load | 96.7kg | 104.3kg | ↓ 7.6kg |
+| Tonnage | 5705kg | 13375kg | ↓ 7670kg |
+| Avg tonnage/session | 1426.2kg | 743.1kg | ↑ 683.1kg |
 
 - Top single: 140kg x 1 @ 9.50
 - Previous top single: 132.5kg x 1 @ 8.50
 - Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
-- Top work set: 105kg x 6 @ 7.50
+- Top work set: 107.5kg x 8 @ 7.50
 - Previous top work set: 127.5kg x 3 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -62,20 +62,6 @@ Comparison baseline: 2026-04
 - Top work set: 150kg x 5 @ 6
 - Previous top work set: 185kg x 2 @ 9
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
-
-### Health / Recovery
-
-| Metric | Current | Previous | Delta |
-|---|---:|---:|---:|
-| Days with data | 7 | 30 | ↓ 23 |
-| Avg steps/day | 9756 | 12284 | ↓ 2528 |
-| Avg distance/day | 8.45km | 10.12km | ↓ 1.67km |
-| Avg kcal/day | 2445 | 2651 | ↓ 206 |
-| Avg bodyweight | 79kg | 79.7kg | ↓ 0.8kg |
-| Avg resting HR | 42.8bpm | 43.2bpm | ↓ 0.4bpm |
-| Avg sleep | 6.92h | 7.09h | ↓ 0.17h |
-
-- Latest health date in period: 2026-05-07
 
 ## 2026-04
 
@@ -142,15 +128,15 @@ Comparison baseline: 2026-03
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 30 | 31 | ↓ 1 |
-| Avg steps/day | 12284 | 8289 | ↑ 3995 |
-| Avg distance/day | 10.12km | 6.47km | ↑ 3.65km |
-| Avg kcal/day | 2651 | 2424 | ↑ 227 |
-| Avg bodyweight | 79.7kg | 79.5kg | ↑ 0.3kg |
-| Avg resting HR | 43.2bpm | 44.7bpm | ↓ 1.5bpm |
-| Avg sleep | 7.09h | 7.34h | ↓ 0.25h |
+| Days with data | 13 | 31 | ↓ 18 |
+| Avg steps/day | 7864 | 8289 | ↓ 425 |
+| Avg distance/day | 6.50km | 6.47km | ↑ 0.03km |
+| Avg kcal/day | 2555 | 2424 | ↑ 131 |
+| Avg bodyweight | 79.6kg | 79.5kg | ↑ 0.1kg |
+| Avg resting HR | 44.9bpm | 44.7bpm | ↑ 0.1bpm |
+| Avg sleep | 7.41h | 7.34h | ↑ 0.07h |
 
-- Latest health date in period: 2026-04-30
+- Latest health date in period: 2026-04-13
 
 ## 2026-03
 
