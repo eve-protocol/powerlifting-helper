@@ -153,6 +153,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-05-04 (Monday)
 
+### Health / Recovery
+
+- Steps: 4046
+- Distance: 3.28 km
+- Total kcal burned: 2702
+- Weight: 78.7 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.87 h asleep (6.88 h in bed, deep 1.35 h, REM 1.25 h, awake 0.02 h)
+
 **Bench Press (Paused)**
 - Set 1: 6 × 105kg @ RPE 7.5 [target_reps=6, target_intensity=[6, 6.5]RPE_range; est_stress=244; real_stress=319]
 - Set 2: 6 × 102kg @ RPE 6.5 [target_reps=6, target_intensity=[6, 6.5]RPE_range; est_stress=223; real_stress=236]
@@ -173,6 +182,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 2: 15 × 40kg @ RPE 7 [target_reps=15, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
 
 ### 2026-05-05 (Tuesday)
+
+### Health / Recovery
+
+- Steps: 12768
+- Distance: 10.34 km
+- Total kcal burned: 2908
+- Weight: 79 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.11 h asleep (7.26 h in bed, deep 0.95 h, REM 1.15 h, awake 0.15 h)
 
 **Sumo Deadlift (Paused)**
 - Set 1: 5 × 150kg @ RPE 6 [target_reps=5, target_intensity=[5.5, 6]RPE_range; est_stress=258; real_stress=274]
@@ -196,6 +214,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-05-06 (Wednesday)
 
+### Health / Recovery
+
+- Steps: 5105
+- Distance: 7.24 km
+- Total kcal burned: 1792
+- Resting heart rate: 43 bpm
+- Sleep: 7.64 h asleep (7.96 h in bed, deep 1.43 h, REM 0.98 h, awake 0.32 h)
+
 **Squat (Low Bar)**
 - Set 1: 8 × 130kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=425; real_stress=446]
 - Set 2: 8 × 130kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=425; real_stress=446]
@@ -218,6 +244,10 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 3: 10 × 30kg @ RPE 8 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
 
 ### 2026-05-07 (Thursday)
+
+### Health / Recovery
+
+- Total kcal burned: 1672
 
 **Bench Press (Barbell)**
 - Set 1: 8 × 105kg @ RPE 6 [target_reps=8, target_intensity=[6, 6.5]RPE_range; est_stress=325; real_stress=307]
@@ -247,6 +277,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-04-27 (Monday)
 
+### Health / Recovery
+
+- Steps: 16002
+- Distance: 13 km
+- Total kcal burned: 2560
+- Resting heart rate: 41 bpm
+- Sleep: 6.70 h asleep (6.93 h in bed, deep 0.92 h, REM 1.37 h, awake 0.23 h)
+
 **Incline Bench Press (Dumbbell)**
 - Set 1: 6 × 45kg @ RPE 7 [target_reps=6, target_intensity=[6, 6.5]RPE_range; est_stress=21; real_stress=24]
 - Set 2: 6 × 45kg @ RPE 8 [target_reps=6, target_intensity=[6, 6.5]RPE_range; est_stress=21; real_stress=30]
@@ -261,6 +299,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-04-28 (Tuesday)
 
+### Health / Recovery
+
+- Steps: 18894
+- Distance: 15.30 km
+- Total kcal burned: 2531
+- Resting heart rate: 41 bpm
+- Sleep: 7.05 h asleep (7.23 h in bed, deep 1.33 h, REM 1.68 h, awake 0.18 h)
+
 **Squat (Low Bar)**
 - Set 1: 1 × 160kg @ RPE 7 [target_reps=1, target_intensity=[6, 6.5]RPE_range; est_stress=89; real_stress=104]
 
@@ -271,6 +317,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 1: 1 × 185kg @ RPE 7 [target_reps=1, target_intensity=[6, 6.5]RPE_range; est_stress=109; real_stress=127]
 
 ### 2026-04-30 (Thursday)
+
+### Health / Recovery
+
+- Steps: 20364
+- Distance: 16.49 km
+- Total kcal burned: 2777
+- Resting heart rate: 40 bpm
+- Sleep: 7.30 h asleep (7.32 h in bed, deep 1.75 h, REM 0.92 h, awake 0.02 h)
 
 **Bench Press (Barbell)**
 - Set 1: 5 × 110kg @ RPE 6 [target_reps=5, target_intensity=[5, 6]RPE_range; est_stress=210; real_stress=237]
@@ -286,6 +340,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 3: 10 × 12kg @ RPE 8.5 [no_target; est_stress=-; real_stress=-]
 
 ### 2026-05-02 (Saturday)
+
+### Health / Recovery
+
+- Steps: 15736
+- Distance: 12.76 km
+- Total kcal burned: 3383
+- Resting heart rate: 43 bpm
+- Sleep: 5.97 h asleep (6.70 h in bed, deep 1.17 h, REM 0.87 h, awake 0.73 h)
 
 **Squat (Low Bar)**
 - Set 1: 1 × 165kg @ RPE 8.5 [target_reps=1, target_intensity=[8, 8]RPE_range; est_stress=143; real_stress=157]
@@ -310,6 +372,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-04-20 (Monday)
 
+### Health / Recovery
+
+- Steps: 10074
+- Distance: 8.20 km
+- Total kcal burned: 2700
+- Weight: 79.2 kg
+- Resting heart rate: 40 bpm
+- Sleep: 7.80 h asleep (7.95 h in bed, deep 1.45 h, REM 1.58 h, awake 0.15 h)
+
 **Squat (Low Bar)**
 - Set 1: 1 × 165kg @ RPE 9 [target_reps=1, target_intensity=[8.5, 9]RPE_range; est_stress=164; real_stress=171]
 - Set 2: 1 × 160kg @ RPE 8 [target_reps=1, target_intensity=[7, 7.5]RPE_range; est_stress=111; real_stress=130]
@@ -326,6 +397,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-04-21 (Tuesday)
 
+### Health / Recovery
+
+- Steps: 21385
+- Distance: 17.36 km
+- Total kcal burned: 3008
+- Weight: 79.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 4.58 h asleep (5.05 h in bed, deep 0.48 h, REM 0.28 h, awake 0.47 h)
+
 **Sumo Deadlift (Paused)**
 - Set 1: 1 × 175kg @ RPE 8 [target_reps=1, target_intensity=[8, 8.5]RPE_range; est_stress=141; real_stress=134]
 - Set 2: 2 × 165kg @ RPE 7 [target_reps=2, target_intensity=[6.5, 7]RPE_range; est_stress=171; real_stress=180]
@@ -341,11 +421,28 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-04-22 (Wednesday)
 
+### Health / Recovery
+
+- Steps: 17049
+- Distance: 13.89 km
+- Total kcal burned: 2662
+- Weight: 80.5 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.33 h asleep (6.45 h in bed, deep 1.07 h, REM 0.98 h, awake 0.12 h)
+
 **Squat (Low Bar)**
 - Set 1: 2 × 145kg @ RPE 6.5 [target_reps=2, target_intensity=[6, 6.5]RPE_range; est_stress=133; real_stress=140]
 - Set 2: 2 × 145kg @ RPE 6.5 [target_reps=2, target_intensity=[6, 6.5]RPE_range; est_stress=133; real_stress=140]
 
 ### 2026-04-23 (Thursday)
+
+### Health / Recovery
+
+- Steps: 22242
+- Distance: 18.03 km
+- Total kcal burned: 2703
+- Resting heart rate: 43 bpm
+- Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
 
 **Bench Press (Barbell)**
 - Set 1: 1 × 132kg @ RPE 8.5 [target_reps=1, target_intensity=[8.5, 9]RPE_range; est_stress=145; real_stress=139]
@@ -366,6 +463,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-04-25 (Saturday)
 
+### Health / Recovery
+
+- Steps: 19276
+- Distance: 15.69 km
+- Total kcal burned: 3054
+- Weight: 79.2 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.07 h asleep (6.17 h in bed, deep 1.60 h, REM 0.98 h, awake 0.10 h)
+
 **Sumo Deadlift (Barbell)**
 - Set 1: 1 × 190kg [failed] @ RPE - [target_reps=1, target_intensity=[8.5, 9]RPE_range; est_stress=197; real_stress=-]
 - Set 2: 1 × 190kg [failed] @ RPE - [target_reps=1, target_intensity=[7, 7.5]RPE_range; est_stress=146; real_stress=-]
@@ -385,6 +491,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 3: 2 × 125kg @ RPE 7 [target_reps=2, target_intensity=[6, 6]RPE_range; est_stress=139; real_stress=171]
 
 ### 2026-04-26 (Sunday)
+
+### Health / Recovery
+
+- Steps: 22964
+- Distance: 18.64 km
+- Total kcal burned: 2783
+- Weight: 79 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.02 h asleep (6.53 h in bed, deep 1.35 h, REM 0.17 h, awake 0.52 h)
 
 **Squat (Low Bar)**
 - Set 1: 1 × 155kg @ RPE 6 [target_reps=1, target_intensity=[6, 6.5]RPE_range; est_stress=81; real_stress=77]
@@ -411,10 +526,11 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### Health / Recovery
 
-- Steps: 3178
-- Distance: 2.58 km
-- Total kcal burned: 1328
-- Resting heart rate: 44 bpm
+- Steps: 4616
+- Distance: 3.75 km
+- Total kcal burned: 2370
+- Weight: 80 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Squat (Low Bar)**
@@ -437,6 +553,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-04-14 (Tuesday)
 
+### Health / Recovery
+
+- Steps: 9341
+- Distance: 10.01 km
+- Total kcal burned: 2990
+- Weight: 80 kg
+- Resting heart rate: 43 bpm
+- Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
+
 **Sumo Deadlift (Paused)**
 - Set 1: 1 × 175kg @ RPE 8.5 [target_reps=1, target_intensity=[7.5, 8]RPE_range; est_stress=127; real_stress=147]
 - Set 2: 1 × 160kg @ RPE - [target_reps=3, target_intensity=[7, 7.5]RPE_range; est_stress=261; real_stress=-]
@@ -454,6 +579,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 2: 15 × 10kg @ RPE 8.5 [target_reps=12, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
 
 ### 2026-04-15 (Wednesday)
+
+### Health / Recovery
+
+- Steps: 3503
+- Distance: 2.86 km
+- Total kcal burned: 2282
+- Weight: 79.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
 
 **Squat (Low Bar)**
 - Set 1: 3 × 147kg @ RPE 7 [target_reps=3, target_intensity=[6.5, 7]RPE_range; est_stress=231; real_stress=242]
@@ -474,6 +608,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 4: 10 × 55kg @ RPE 7.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
 
 ### 2026-04-16 (Thursday)
+
+### Health / Recovery
+
+- Steps: 3055
+- Distance: 2.47 km
+- Total kcal burned: 2356
+- Resting heart rate: 43 bpm
+- Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Bench Press (Barbell)**
 - Set 1: 1 × 132kg @ RPE 9.5 [target_reps=1, target_intensity=[8.5, 9]RPE_range; est_stress=145; real_stress=170]
@@ -497,6 +639,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 2: 10 × 35kg @ RPE 8.5 [no_target; est_stress=-; real_stress=-]
 
 ### 2026-04-18 (Saturday)
+
+### Health / Recovery
+
+- Steps: 16801
+- Distance: 13.69 km
+- Total kcal burned: 2907
+- Resting heart rate: 43 bpm
+- Sleep: 7.63 h asleep (7.65 h in bed, deep 1.15 h, REM 1.83 h, awake 0.02 h)
 
 **Sumo Deadlift (Barbell)**
 - Set 1: 1 × 170kg [failed] @ RPE - [target_reps=2, target_intensity=[7.5, 8]RPE_range; est_stress=233; real_stress=-]
