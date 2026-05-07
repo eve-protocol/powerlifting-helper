@@ -42,6 +42,7 @@ from powerlifting.exercises import (
     get_logged_weight_kg,
     is_failed_set,
 )
+from powerlifting.stress import ActualSingleReferenceResolver, format_stress_score, score_set_stress
 
 WEEK_DAY_RE = re.compile(r'Week\s+(\d+)\s+·\s+Day\s+(\d+)')
 
@@ -61,10 +62,13 @@ def parse_week_day(title):
     return int(m.group(1)), int(m.group(2))
 
 
-def format_set(set_data, set_num):
+def format_set(set_data, set_num, family=None, workout_date=None, reference_resolver=None):
     weight_kg = get_logged_weight_kg(set_data, rounding=0.5)
     reps = get_completed_reps(set_data)
     rpe = get_logged_rpe(set_data) or '-'
+    stress = None
+    if family and workout_date and reference_resolver:
+        stress = score_set_stress(set_data, family, workout_date, reference_resolver, rounding=0.5)
 
     target_reps = set_data.get('target')
     target_rpe = set_data.get('intensity')
@@ -88,6 +92,11 @@ def format_set(set_data, set_num):
             target_parts.append(f"target RPE: {target_rpe}")
     if target_parts:
         parts.append(f"[{', '.join(target_parts)}]")
+    if stress:
+        parts.append(
+            f"[est_stress={format_stress_score(stress['estimated_stress'])}, "
+            f"real_stress={format_stress_score(stress['real_stress'])}]"
+        )
 
     return ' '.join(parts)
 
@@ -113,7 +122,7 @@ def build_workouts(data):
     return workouts
 
 
-def extract_family_entries(workouts):
+def extract_family_entries(workouts, reference_resolver):
     entries = []
     for workout in workouts:
         month = workout['date'][:7]
@@ -137,6 +146,7 @@ def extract_family_entries(workouts):
                 rpe = get_logged_rpe(set_data)
                 if not reps or not weight_kg:
                     continue
+                stress = score_set_stress(set_data, family, workout['date'], reference_resolver, rounding=0.5)
                 entries.append({
                     'family': family,
                     'exercise': exercise_name,
@@ -153,6 +163,9 @@ def extract_family_entries(workouts):
                     'weight_kg': weight_kg,
                     'reps': reps,
                     'rpe': float(rpe) if rpe is not None else None,
+                    'estimated_stress': stress['estimated_stress'],
+                    'real_stress': stress['real_stress'],
+                    'reference_max_kg': stress['reference_max_kg'],
                 })
     return entries
 
@@ -166,6 +179,12 @@ def summarize_group(arr):
     avg_load = round(sum(x['weight_kg'] for x in arr) / len(arr), 1) if arr else None
     tonnage = round(sum(x['weight_kg'] * x['reps'] for x in arr), 1)
     avg_tonnage_per_session = round(tonnage / sessions, 1) if sessions else None
+    estimated_stress_values = [x['estimated_stress'] for x in arr if x['estimated_stress'] is not None]
+    real_stress_values = [x['real_stress'] for x in arr if x['real_stress'] is not None]
+    estimated_stress = round(sum(estimated_stress_values), 1) if estimated_stress_values else None
+    real_stress = round(sum(real_stress_values), 1) if real_stress_values else None
+    avg_estimated_stress_per_session = round(estimated_stress / sessions, 1) if estimated_stress is not None and sessions else None
+    avg_real_stress_per_session = round(real_stress / sessions, 1) if real_stress is not None and sessions else None
 
     main_sets = [x for x in arr if x['exercise'] in MAIN_LIFT_VARIATIONS[x['family']]]
     singles = [x for x in main_sets if x['reps'] == 1]
@@ -181,6 +200,10 @@ def summarize_group(arr):
         'avg_load': avg_load,
         'tonnage': tonnage,
         'avg_tonnage_per_session': avg_tonnage_per_session,
+        'estimated_stress': estimated_stress,
+        'real_stress': real_stress,
+        'avg_estimated_stress_per_session': avg_estimated_stress_per_session,
+        'avg_real_stress_per_session': avg_real_stress_per_session,
         'top_single': top_single,
         'top_work': top_work,
     }
@@ -216,6 +239,10 @@ def add_deltas(scorecards, period_order):
                 'avg_load': (cur['avg_load'] - prev_s['avg_load']) if prev_s and cur['avg_load'] is not None and prev_s['avg_load'] is not None else None,
                 'tonnage': (cur['tonnage'] - prev_s['tonnage']) if prev_s else None,
                 'avg_tonnage_per_session': (cur['avg_tonnage_per_session'] - prev_s['avg_tonnage_per_session']) if prev_s and cur['avg_tonnage_per_session'] is not None and prev_s['avg_tonnage_per_session'] is not None else None,
+                'estimated_stress': (cur['estimated_stress'] - prev_s['estimated_stress']) if prev_s and cur['estimated_stress'] is not None and prev_s['estimated_stress'] is not None else None,
+                'real_stress': (cur['real_stress'] - prev_s['real_stress']) if prev_s and cur['real_stress'] is not None and prev_s['real_stress'] is not None else None,
+                'avg_estimated_stress_per_session': (cur['avg_estimated_stress_per_session'] - prev_s['avg_estimated_stress_per_session']) if prev_s and cur['avg_estimated_stress_per_session'] is not None and prev_s['avg_estimated_stress_per_session'] is not None else None,
+                'avg_real_stress_per_session': (cur['avg_real_stress_per_session'] - prev_s['avg_real_stress_per_session']) if prev_s and cur['avg_real_stress_per_session'] is not None and prev_s['avg_real_stress_per_session'] is not None else None,
             }
 
             if prev_s:
@@ -243,6 +270,9 @@ def render_scorecard_file(output_path, title, subtitle, scorecards, health_score
     lines.append(f"# {title}")
     lines.append("")
     lines.append(subtitle)
+    lines.append("")
+    lines.append("Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.")
+    lines.append("Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.")
     lines.append("")
 
     periods = list(scorecards.keys())
@@ -275,6 +305,10 @@ def render_scorecard_file(output_path, title, subtitle, scorecards, health_score
                 ("Avg load", f"{fmt_num(s['avg_load'], 1)}kg", f"{fmt_num(prev_s['avg_load'], 1)}kg" if prev_s and prev_s['avg_load'] is not None else '-', fmt_delta(d['avg_load'], 1, 'kg')),
                 ("Tonnage", f"{fmt_num(s['tonnage'], 1)}kg", f"{fmt_num(prev_s['tonnage'], 1)}kg" if prev_s else '-', fmt_delta(d['tonnage'], 1, 'kg')),
                 ("Avg tonnage/session", f"{fmt_num(s['avg_tonnage_per_session'], 1)}kg", f"{fmt_num(prev_s['avg_tonnage_per_session'], 1)}kg" if prev_s and prev_s['avg_tonnage_per_session'] is not None else '-', fmt_delta(d['avg_tonnage_per_session'], 1, 'kg')),
+                ("Estimated stress", fmt_num(s['estimated_stress'], 0), fmt_num(prev_s['estimated_stress'], 0) if prev_s and prev_s['estimated_stress'] is not None else '-', fmt_delta(d['estimated_stress'], 0)),
+                ("Real stress", fmt_num(s['real_stress'], 0), fmt_num(prev_s['real_stress'], 0) if prev_s and prev_s['real_stress'] is not None else '-', fmt_delta(d['real_stress'], 0)),
+                ("Avg est stress/session", fmt_num(s['avg_estimated_stress_per_session'], 0), fmt_num(prev_s['avg_estimated_stress_per_session'], 0) if prev_s and prev_s['avg_estimated_stress_per_session'] is not None else '-', fmt_delta(d['avg_estimated_stress_per_session'], 0)),
+                ("Avg real stress/session", fmt_num(s['avg_real_stress_per_session'], 0), fmt_num(prev_s['avg_real_stress_per_session'], 0) if prev_s and prev_s['avg_real_stress_per_session'] is not None else '-', fmt_delta(d['avg_real_stress_per_session'], 0)),
             ]
             for metric, cur, prev, delta in rows:
                 lines.append(f"| {metric} | {cur} | {prev} | {delta} |")
@@ -298,11 +332,12 @@ def render_scorecard_file(output_path, title, subtitle, scorecards, health_score
     output_path.write_text('\n'.join(lines))
 
 
-def render_clean_history(output_path, workouts, health_daily):
+def render_clean_history(output_path, workouts, health_daily, reference_resolver):
     lines = []
     lines.append("# Clean Training History")
     lines.append("")
     lines.append("*Auto-generated from history.json - uses archived_* fields only*")
+    lines.append("*Stress score uses rolling actual-single references, not e1RM*")
     lines.append("")
 
     for workout in workouts:
@@ -315,10 +350,11 @@ def render_clean_history(output_path, workouts, health_daily):
         lines.append("")
         for record in workout['records']:
             exercise_name = record.get('name', 'Unknown')
+            family = get_exercise_family(exercise_name)
             lines.append(f"### {exercise_name}")
             lines.append("")
             for i, set_data in enumerate(record.get('sets', []), 1):
-                set_str = format_set(set_data, i)
+                set_str = format_set(set_data, i, family, workout['date'], reference_resolver)
                 if set_str:
                     lines.append(set_str)
             lines.append("")
@@ -336,10 +372,11 @@ def generate_exports():
         data = json.load(f)
 
     workouts = build_workouts(data)
-    entries = extract_family_entries(workouts)
+    reference_resolver = ActualSingleReferenceResolver(workouts)
+    entries = extract_family_entries(workouts, reference_resolver)
     health_daily = load_health_daily(repo_path)
 
-    render_clean_history(outputs / 'history_clean.md', workouts, health_daily)
+    render_clean_history(outputs / 'history_clean.md', workouts, health_daily, reference_resolver)
 
     weekly = compute_period_scorecards(entries, 'week_label')
     monthly = compute_period_scorecards(entries, 'month')

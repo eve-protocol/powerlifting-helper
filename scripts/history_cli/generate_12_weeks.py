@@ -17,6 +17,7 @@ except ModuleNotFoundError:
     from scripts.common.files import write_text_if_changed
 from health_metrics import load_health_daily, format_health_summary_block
 from powerlifting.exercises import classify_family, get_completed_reps, get_logged_weight_kg, is_failed_set, lbs_to_kg
+from powerlifting.stress import ActualSingleReferenceResolver, format_stress_score, score_set_stress
 
 
 def load_history(filepath):
@@ -101,14 +102,27 @@ def generate_volume_bar(volume, max_volume, width=30):
     return '█' * filled + '░' * (width - filled)
 
 
-def parse_workout_data(data, start_date, end_date):
+def build_reference_workouts(data):
+    workouts = []
+    for date_str, day_workouts in data.get('data', {}).items():
+        if not isinstance(date_str, str) or len(date_str) != 10:
+            continue
+        for workout in day_workouts:
+            workouts.append({
+                'date': date_str,
+                'records': workout.get('records', []),
+            })
+    return workouts
+
+
+def parse_workout_data(data, start_date, end_date, reference_resolver):
     """Parse workout data and organize by week."""
     weeks = defaultdict(lambda: {
         'days': defaultdict(list),
         'stats': {
-            'squat': {'sets': 0, 'volume': 0},
-            'bench': {'sets': 0, 'volume': 0},
-            'deadlift': {'sets': 0, 'volume': 0},
+            'squat': {'sets': 0, 'volume': 0, 'estimated_stress': 0, 'real_stress': 0},
+            'bench': {'sets': 0, 'volume': 0, 'estimated_stress': 0, 'real_stress': 0},
+            'deadlift': {'sets': 0, 'volume': 0, 'estimated_stress': 0, 'real_stress': 0},
         }
     })
     
@@ -152,6 +166,10 @@ def parse_workout_data(data, start_date, end_date):
                     rpe_str = f"@ RPE {archived_rpe}" if archived_rpe else "@ RPE -"
                     
                     failed = is_failed_set(s)
+                    family = classify_family(exercise_name)
+                    stress = None
+                    if family in ('squat', 'bench', 'deadlift'):
+                        stress = score_set_stress(s, family, date_str, reference_resolver, rounding=1)
                     sets_data.append({
                         'reps': reps,
                         'weight_kg': weight_kg,
@@ -159,15 +177,20 @@ def parse_workout_data(data, start_date, end_date):
                         'rpe_str': rpe_str,
                         'target_info': target_info,
                         'failed': failed,
+                        'estimated_stress': stress['estimated_stress'] if stress else None,
+                        'real_stress': stress['real_stress'] if stress else None,
                     })
                     
                     # Track Big 3 stats using successful sets only
                     if not failed:
                         set_volume = weight_kg * reps
-                        family = classify_family(exercise_name)
                         if family in ('squat', 'bench', 'deadlift'):
                             weeks[week_key]['stats'][family]['sets'] += 1
                             weeks[week_key]['stats'][family]['volume'] += set_volume
+                            if stress and stress['estimated_stress'] is not None:
+                                weeks[week_key]['stats'][family]['estimated_stress'] += stress['estimated_stress']
+                            if stress and stress['real_stress'] is not None:
+                                weeks[week_key]['stats'][family]['real_stress'] += stress['real_stress']
                 
                 if sets_data:
                     weeks[week_key]['days'][date_str].append({
@@ -196,6 +219,9 @@ def generate_markdown(weeks, start_date, end_date, health_daily):
     lines.append("- target_pct = percentage of 1RM programmed")
     lines.append("- target_rpe = RPE target for the set")
     lines.append("- target_reps = programmed number of reps")
+    lines.append("- est_stress = planned stress from target reps/RPE and actual or target load")
+    lines.append("- real_stress = logged stress from completed reps/load/RPE")
+    lines.append("- stress score = reps × weight_kg × intensity² × RPE factor; intensity uses rolling actual-single reference, not e1RM")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -220,6 +246,12 @@ def generate_markdown(weeks, start_date, end_date, health_daily):
             'squat_vol': format_comparison(stats['squat']['volume'], prev_stats['squat']['volume'] if prev_stats else None),
             'bench_vol': format_comparison(stats['bench']['volume'], prev_stats['bench']['volume'] if prev_stats else None),
             'deadlift_vol': format_comparison(stats['deadlift']['volume'], prev_stats['deadlift']['volume'] if prev_stats else None),
+            'squat_est_stress': format_comparison(round(stats['squat']['estimated_stress']), round(prev_stats['squat']['estimated_stress']) if prev_stats else None),
+            'bench_est_stress': format_comparison(round(stats['bench']['estimated_stress']), round(prev_stats['bench']['estimated_stress']) if prev_stats else None),
+            'deadlift_est_stress': format_comparison(round(stats['deadlift']['estimated_stress']), round(prev_stats['deadlift']['estimated_stress']) if prev_stats else None),
+            'squat_real_stress': format_comparison(round(stats['squat']['real_stress']), round(prev_stats['squat']['real_stress']) if prev_stats else None),
+            'bench_real_stress': format_comparison(round(stats['bench']['real_stress']), round(prev_stats['bench']['real_stress']) if prev_stats else None),
+            'deadlift_real_stress': format_comparison(round(stats['deadlift']['real_stress']), round(prev_stats['deadlift']['real_stress']) if prev_stats else None),
         }
         prev_stats = stats
     
@@ -259,6 +291,36 @@ def generate_markdown(weeks, start_date, end_date, health_daily):
         
         lines.append(f"{week_key}  │ {squat_vol:>6}kg{cmp['squat_vol']:>8} │ {bench_vol:>6}kg{cmp['bench_vol']:>8} │ {deadlift_vol:>6}kg{cmp['deadlift_vol']:>8}")
     
+    lines.append("```")
+    lines.append("")
+
+    lines.append("### Estimated Stress with Week-over-Week Change")
+    lines.append("")
+    lines.append("```")
+    lines.append("Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress")
+    lines.append("───────────┼──────────────────┼──────────────────┼─────────────────────")
+    for week_key in display_weeks:
+        stats = weeks[week_key]['stats']
+        cmp = comparisons[week_key]
+        squat_stress = round(stats['squat']['estimated_stress'])
+        bench_stress = round(stats['bench']['estimated_stress'])
+        deadlift_stress = round(stats['deadlift']['estimated_stress'])
+        lines.append(f"{week_key}  │ {squat_stress:>7}{cmp['squat_est_stress']:>8} │ {bench_stress:>7}{cmp['bench_est_stress']:>8} │ {deadlift_stress:>7}{cmp['deadlift_est_stress']:>8}")
+    lines.append("```")
+    lines.append("")
+
+    lines.append("### Real Stress with Week-over-Week Change")
+    lines.append("")
+    lines.append("```")
+    lines.append("Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress")
+    lines.append("───────────┼───────────────────┼───────────────────┼──────────────────────")
+    for week_key in display_weeks:
+        stats = weeks[week_key]['stats']
+        cmp = comparisons[week_key]
+        squat_stress = round(stats['squat']['real_stress'])
+        bench_stress = round(stats['bench']['real_stress'])
+        deadlift_stress = round(stats['deadlift']['real_stress'])
+        lines.append(f"{week_key}  │ {squat_stress:>7}{cmp['squat_real_stress']:>8} │ {bench_stress:>7}{cmp['bench_real_stress']:>8} │ {deadlift_stress:>7}{cmp['deadlift_real_stress']:>8}")
     lines.append("```")
     lines.append("")
     
@@ -310,6 +372,9 @@ def generate_markdown(weeks, start_date, end_date, health_daily):
         lines.append(f"**Weekly Summary:** Squat: {stats['squat']['sets']} sets / {stats['squat']['volume']:,}kg | "
                     f"Bench: {stats['bench']['sets']} sets / {stats['bench']['volume']:,}kg | "
                     f"Deadlift: {stats['deadlift']['sets']} sets / {stats['deadlift']['volume']:,}kg")
+        lines.append(f"**Stress Summary:** Squat est/real: {round(stats['squat']['estimated_stress'])}/{round(stats['squat']['real_stress'])} | "
+                    f"Bench est/real: {round(stats['bench']['estimated_stress'])}/{round(stats['bench']['real_stress'])} | "
+                    f"Deadlift est/real: {round(stats['deadlift']['estimated_stress'])}/{round(stats['deadlift']['real_stress'])}")
         lines.append("")
         
         for date_str in sorted(week_data['days'].keys()):
@@ -325,7 +390,11 @@ def generate_markdown(weeks, start_date, end_date, health_daily):
                 
                 for i, s in enumerate(ex['sets'], 1):
                     failed_tag = " [failed]" if s.get('failed') else ""
-                    lines.append(f"- Set {i}: {s['reps']} × {s['weight_kg']}kg{failed_tag} {s['rpe_str']} [{s['target_info']}]")
+                    lines.append(
+                        f"- Set {i}: {s['reps']} × {s['weight_kg']}kg{failed_tag} {s['rpe_str']} "
+                        f"[{s['target_info']}; est_stress={format_stress_score(s['estimated_stress'])}; "
+                        f"real_stress={format_stress_score(s['real_stress'])}]"
+                    )
                 
                 lines.append("")
         
@@ -361,7 +430,8 @@ def main():
     print(f"Date range: {start_date} to {end_date}")
     
     # Parse data
-    weeks = parse_workout_data(data, start_date, end_date)
+    reference_resolver = ActualSingleReferenceResolver(build_reference_workouts(data))
+    weeks = parse_workout_data(data, start_date, end_date, reference_resolver)
     health_daily = load_health_daily(Path(project_root))
 
     # Generate markdown

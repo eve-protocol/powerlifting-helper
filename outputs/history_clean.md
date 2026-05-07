@@ -1,21 +1,18 @@
 # Clean Training History
 
 *Auto-generated from history.json - uses archived_* fields only*
+*Stress score uses rolling actual-single references, not e1RM*
 
 ## 2026-05-07
-
-### Health / Recovery
-
-- Total kcal burned: 1672
 
 **Week 1 · Day 4**
 Finished: 2026-05-07 09:23:07
 
 ### Bench Press (Barbell)
 
-  Set 1: 105.0kg x 8 @ RPE 6 [target RPE: 6-6.5]
-  Set 2: 107.5kg x 8 @ RPE 7.5 [target RPE: 6-6.5]
-  Set 3: 105.0kg x 8 @ RPE 7 [target RPE: 6-6.5]
+  Set 1: 105.0kg x 8 @ RPE 6 [target RPE: 6-6.5] [est_stress=325, real_stress=307]
+  Set 2: 107.5kg x 8 @ RPE 7.5 [target RPE: 6-6.5] [est_stress=349, real_stress=456]
+  Set 3: 105.0kg x 8 @ RPE 7 [target RPE: 6-6.5] [est_stress=325, real_stress=378]
 
 ### Pull-Up (Weighted)
 
@@ -36,23 +33,15 @@ Finished: 2026-05-07 09:23:07
 
 ## 2026-05-06
 
-### Health / Recovery
-
-- Steps: 5105
-- Distance: 7.24 km
-- Total kcal burned: 1792
-- Resting heart rate: 43 bpm
-- Sleep: 7.64 h asleep (7.96 h in bed, deep 1.43 h, REM 0.98 h, awake 0.32 h)
-
 **Week 1 · Day 3**
 Finished: 2026-05-06 10:16:30
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 8 @ RPE 7 [target RPE: 6.5-7]
-  Set 2: 130.0kg x 8 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 130.0kg x 7 @ RPE 6 [target: 8 reps, target RPE: 6.5-7]
-  Set 4: 130.0kg x 1 [target: 8 reps, target RPE: 6.5-7]
+  Set 1: 130.0kg x 8 @ RPE 7 [target RPE: 6.5-7] [est_stress=425, real_stress=446]
+  Set 2: 130.0kg x 8 @ RPE 7 [target RPE: 6.5-7] [est_stress=425, real_stress=446]
+  Set 3: 130.0kg x 7 @ RPE 6 [target: 8 reps, target RPE: 6.5-7] [est_stress=425, real_stress=317]
+  Set 4: 130.0kg x 1 [target: 8 reps, target RPE: 6.5-7] [est_stress=425, real_stress=-]
 
 ### Leg Extension
 
@@ -74,29 +63,20 @@ Finished: 2026-05-06 10:16:30
 
 ## 2026-05-05
 
-### Health / Recovery
-
-- Steps: 12768
-- Distance: 10.34 km
-- Total kcal burned: 2908
-- Weight: 79 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.11 h asleep (7.26 h in bed, deep 0.95 h, REM 1.15 h, awake 0.15 h)
-
 **Week 1 · Day 2**
 Finished: 2026-05-05 09:47:16
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 150.0kg x 5 @ RPE 6 [target RPE: 5.5-6]
-  Set 2: 150.0kg x 5 @ RPE 6 [target RPE: 5.5-6]
-  Set 3: 150.0kg x 5 @ RPE 6.5 [target RPE: 5.5-6]
+  Set 1: 150.0kg x 5 @ RPE 6 [target RPE: 5.5-6] [est_stress=258, real_stress=274]
+  Set 2: 150.0kg x 5 @ RPE 6 [target RPE: 5.5-6] [est_stress=258, real_stress=274]
+  Set 3: 150.0kg x 5 @ RPE 6.5 [target RPE: 5.5-6] [est_stress=258, real_stress=306]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 40.0kg x 8 @ RPE 6 [target RPE: 6.5-7]
-  Set 2: 42.5kg x 8 @ RPE 6.5 [target RPE: 6.5-7]
-  Set 3: 42.5kg x 8 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 1: 40.0kg x 8 @ RPE 6 [target RPE: 6.5-7] [est_stress=20, real_stress=17]
+  Set 2: 42.5kg x 8 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=24, real_stress=23]
+  Set 3: 42.5kg x 8 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=24, real_stress=28]
 
 ### Lateral Raise (Dumbbell)
 
@@ -112,29 +92,20 @@ Finished: 2026-05-05 09:47:16
 
 ## 2026-05-04
 
-### Health / Recovery
-
-- Steps: 4046
-- Distance: 3.28 km
-- Total kcal burned: 2702
-- Weight: 78.7 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.87 h asleep (6.88 h in bed, deep 1.35 h, REM 1.25 h, awake 0.02 h)
-
 **Week 1 · Day 1**
 Finished: 2026-05-04 09:26:55
 
 ### Bench Press (Paused)
 
-  Set 1: 105.0kg x 6 @ RPE 7.5 [target RPE: 6-6.5]
-  Set 2: 102.5kg x 6 @ RPE 6.5 [target RPE: 6-6.5]
-  Set 3: 102.5kg x 5 @ RPE 8.5 [target: 6 reps, target RPE: 6-6.5]
+  Set 1: 105.0kg x 6 @ RPE 7.5 [target RPE: 6-6.5] [est_stress=244, real_stress=319]
+  Set 2: 102.5kg x 6 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=227, real_stress=239]
+  Set 3: 102.5kg x 5 @ RPE 8.5 [target: 6 reps, target RPE: 6-6.5] [est_stress=227, real_stress=302]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 110.0kg x 8 @ RPE 6.5 [target RPE: 6-6.5]
-  Set 2: 110.0kg x 8 @ RPE 6.5 [target RPE: 6-6.5]
-  Set 3: 110.0kg x 8 @ RPE 7 [target RPE: 6-6.5]
+  Set 1: 110.0kg x 8 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=232, real_stress=245]
+  Set 2: 110.0kg x 8 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=232, real_stress=245]
+  Set 3: 110.0kg x 8 @ RPE 7 [target RPE: 6-6.5] [est_stress=232, real_stress=270]
 
 ### Pull-Up (Weighted)
 
@@ -149,51 +120,35 @@ Finished: 2026-05-04 09:26:55
 
 ## 2026-05-02
 
-### Health / Recovery
-
-- Steps: 15736
-- Distance: 12.76 km
-- Total kcal burned: 3383
-- Resting heart rate: 43 bpm
-- Sleep: 5.97 h asleep (6.70 h in bed, deep 1.17 h, REM 0.87 h, awake 0.73 h)
-
 **Week 4 · Day 5**
 Finished: 2026-05-02 10:20:32
 
 ### Squat (Low Bar)
 
-  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 8-8]
-  Set 2: 175.0kg x 1 @ RPE 10 [target RPE: 9-9]
-  Set 3: 0kg x 0 [target: 1 reps, target RPE: 9.5-10]
+  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 8-8] [est_stress=143, real_stress=157]
+  Set 2: 175.0kg x 1 @ RPE 10 [target RPE: 9-9] [est_stress=204, real_stress=255]
+  Set 3: 0kg x 0 [target: 1 reps, target RPE: 9.5-10] [est_stress=-, real_stress=-]
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 7.5 [target RPE: 8-8]
-  Set 2: 137.5kg x 1 @ RPE 8.5 [target RPE: 9-9]
-  Set 3: 140.0kg x 1 @ RPE 9.5 [target RPE: 9.5-10]
+  Set 1: 130.0kg x 1 @ RPE 7.5 [target RPE: 8-8] [est_stress=112, real_stress=101]
+  Set 2: 137.5kg x 1 @ RPE 8.5 [target RPE: 9-9] [est_stress=159, real_stress=146]
+  Set 3: 140.0kg x 1 @ RPE 9.5 [target RPE: 9.5-10] [est_stress=200, real_stress=189]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 8.5 [target RPE: 8-8]
-  Set 2: 192.5kg x 1 @ RPE 9.5 [target RPE: 9-9]
-  Set 3: 195.0kg x 1 @ RPE 10 [target RPE: 9.5-10]
+  Set 1: 185.0kg x 1 @ RPE 8.5 [target RPE: 8-8] [est_stress=158, real_stress=174]
+  Set 2: 192.5kg x 1 @ RPE 9.5 [target RPE: 9-9] [est_stress=214, real_stress=241]
+  Set 3: 195.0kg x 1 @ RPE 10 [target RPE: 9.5-10] [est_stress=264, real_stress=278]
 
 ## 2026-04-30
-
-### Health / Recovery
-
-- Steps: 20364
-- Distance: 16.49 km
-- Total kcal burned: 2777
-- Resting heart rate: 40 bpm
-- Sleep: 7.30 h asleep (7.32 h in bed, deep 1.75 h, REM 0.92 h, awake 0.02 h)
 
 **Week 4 · Day 4**
 Finished: 2026-04-30 08:38:52
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 5 @ RPE 6 [target RPE: 5-6]
+  Set 1: 110.0kg x 5 @ RPE 6 [target RPE: 5-6] [est_stress=210, real_stress=237]
 
 ### Chest Fly (Machine)
 
@@ -209,46 +164,30 @@ Finished: 2026-04-30 08:38:52
 
 ## 2026-04-28
 
-### Health / Recovery
-
-- Steps: 18894
-- Distance: 15.30 km
-- Total kcal burned: 2531
-- Resting heart rate: 41 bpm
-- Sleep: 7.05 h asleep (7.23 h in bed, deep 1.33 h, REM 1.68 h, awake 0.18 h)
-
 **Week 4 · Day 3**
 Finished: 2026-04-28 19:24:32
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 7 [target RPE: 6-6.5]
+  Set 1: 160.0kg x 1 @ RPE 7 [target RPE: 6-6.5] [est_stress=89, real_stress=104]
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 6 [target RPE: 6-6.5]
+  Set 1: 125.0kg x 1 @ RPE 6 [target RPE: 6-6.5] [est_stress=74, real_stress=70]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 7 [target RPE: 6-6.5]
+  Set 1: 185.0kg x 1 @ RPE 7 [target RPE: 6-6.5] [est_stress=109, real_stress=127]
 
 ## 2026-04-27
-
-### Health / Recovery
-
-- Steps: 16002
-- Distance: 13 km
-- Total kcal burned: 2560
-- Resting heart rate: 41 bpm
-- Sleep: 6.70 h asleep (6.93 h in bed, deep 0.92 h, REM 1.37 h, awake 0.23 h)
 
 **Week 4 · Day 2**
 Finished: 2026-04-27 07:31:54
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 6 @ RPE 7 [target RPE: 6-6.5]
-  Set 2: 45.0kg x 6 @ RPE 8 [target RPE: 6-6.5]
+  Set 1: 45.0kg x 6 @ RPE 7 [target RPE: 6-6.5] [est_stress=21, real_stress=24]
+  Set 2: 45.0kg x 6 @ RPE 8 [target RPE: 6-6.5] [est_stress=21, real_stress=30]
 
 ### Lateral Raise (Dumbbell)
 
@@ -262,30 +201,21 @@ Finished: 2026-04-27 07:31:54
 
 ## 2026-04-26
 
-### Health / Recovery
-
-- Steps: 22964
-- Distance: 18.64 km
-- Total kcal burned: 2783
-- Weight: 79 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.02 h asleep (6.53 h in bed, deep 1.35 h, REM 0.17 h, awake 0.52 h)
-
 **Week 4 · Day 1**
 Finished: 2026-04-26 08:00:37
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 6 [target RPE: 6-6.5]
+  Set 1: 155.0kg x 1 @ RPE 6 [target RPE: 6-6.5] [est_stress=81, real_stress=77]
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 6.5 [target RPE: 6-6.5]
+  Set 1: 125.0kg x 1 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=74, real_stress=78]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 1 @ RPE 6 [target RPE: 6-6.5]
-  Set 2: 180.0kg x 1 @ RPE 7 [target RPE: 6-6.5]
+  Set 1: 175.0kg x 1 @ RPE 6 [target RPE: 6-6.5] [est_stress=92, real_stress=87]
+  Set 2: 180.0kg x 1 @ RPE 7 [target RPE: 6-6.5] [est_stress=100, real_stress=117]
 
 ### Pull-Up (Weighted)
 
@@ -294,57 +224,40 @@ Finished: 2026-04-26 08:00:37
 
 ## 2026-04-25
 
-### Health / Recovery
-
-- Steps: 19276
-- Distance: 15.69 km
-- Total kcal burned: 3054
-- Weight: 79.2 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.07 h asleep (6.17 h in bed, deep 1.60 h, REM 0.98 h, awake 0.10 h)
-
 **Week 3 · Day 5**
 Finished: 2026-04-25 08:14:33
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 190.0kg x 1 [failed] [target RPE: 8.5-9]
-  Set 2: 190.0kg x 1 [failed] [target RPE: 7-7.5]
-  Set 3: 185.0kg x 1 [failed] [target RPE: 7-7.5]
-  Set 4: 185.0kg x 1 [failed] [target RPE: 7-7.5]
-  Set 5: 180.0kg x 1 [target RPE: 7-7.5]
-  Set 6: 185.0kg x 1 [target RPE: 7-7.5]
-  Set 7: 190.0kg x 1 [failed] [target RPE: 7-7.5]
+  Set 1: 190.0kg x 1 [failed] [target RPE: 8.5-9] [est_stress=197, real_stress=-]
+  Set 2: 190.0kg x 1 [failed] [target RPE: 7-7.5] [est_stress=146, real_stress=-]
+  Set 3: 185.0kg x 1 [failed] [target RPE: 7-7.5] [est_stress=135, real_stress=-]
+  Set 4: 185.0kg x 1 [failed] [target RPE: 7-7.5] [est_stress=135, real_stress=-]
+  Set 5: 180.0kg x 1 [target RPE: 7-7.5] [est_stress=124, real_stress=-]
+  Set 6: 185.0kg x 1 [target RPE: 7-7.5] [est_stress=135, real_stress=-]
+  Set 7: 190.0kg x 1 [failed] [target RPE: 7-7.5] [est_stress=146, real_stress=-]
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 4 @ RPE 6 [target RPE: 6-6.5]
-  Set 2: 140.0kg x 4 @ RPE 6 [target RPE: 6-6.5]
+  Set 1: 140.0kg x 4 @ RPE 6 [target RPE: 6-6.5] [est_stress=240, real_stress=226]
+  Set 2: 140.0kg x 4 @ RPE 6 [target RPE: 6-6.5] [est_stress=240, real_stress=226]
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 2 [target RPE: 6-6]
-  Set 2: 125.0kg x 2 @ RPE 6.5 [target RPE: 6-6]
-  Set 3: 125.0kg x 2 @ RPE 7 [target RPE: 6-6]
+  Set 1: 120.0kg x 2 [target RPE: 6-6] [est_stress=123, real_stress=-]
+  Set 2: 125.0kg x 2 @ RPE 6.5 [target RPE: 6-6] [est_stress=139, real_stress=155]
+  Set 3: 125.0kg x 2 @ RPE 7 [target RPE: 6-6] [est_stress=139, real_stress=171]
 
 ## 2026-04-23
-
-### Health / Recovery
-
-- Steps: 22242
-- Distance: 18.03 km
-- Total kcal burned: 2703
-- Resting heart rate: 43 bpm
-- Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
 
 **Week 3 · Day 4**
 Finished: 2026-04-23 07:56:26
 
 ### Bench Press (Barbell)
 
-  Set 1: 132.5kg x 1 @ RPE 8.5 [target RPE: 8.5-9]
-  Set 2: 125.0kg x 1 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 3: 125.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
+  Set 1: 132.5kg x 1 @ RPE 8.5 [target RPE: 8.5-9] [est_stress=147, real_stress=140]
+  Set 2: 125.0kg x 1 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=91, real_stress=96]
+  Set 3: 125.0kg x 1 @ RPE 8 [target RPE: 7-7.5] [est_stress=91, real_stress=107]
 
 ### Pull-Up (Weighted)
 
@@ -363,47 +276,29 @@ Finished: 2026-04-23 07:56:26
 
 ## 2026-04-22
 
-### Health / Recovery
-
-- Steps: 17049
-- Distance: 13.89 km
-- Total kcal burned: 2662
-- Weight: 80.5 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.33 h asleep (6.45 h in bed, deep 1.07 h, REM 0.98 h, awake 0.12 h)
-
 **Week 3 · Day 3**
 Finished: 2026-04-22 21:13:57
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5]
-  Set 2: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5]
+  Set 1: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=133, real_stress=140]
+  Set 2: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=133, real_stress=140]
 
 ## 2026-04-21
-
-### Health / Recovery
-
-- Steps: 21385
-- Distance: 17.36 km
-- Total kcal burned: 3008
-- Weight: 79.8 kg
-- Resting heart rate: 43 bpm
-- Sleep: 4.58 h asleep (5.05 h in bed, deep 0.48 h, REM 0.28 h, awake 0.47 h)
 
 **Week 3 · Day 2**
 Finished: 2026-04-21 07:46:28
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 175.0kg x 1 @ RPE 8 [target RPE: 8-8.5]
-  Set 2: 165.0kg x 2 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 165.0kg x 2 @ RPE 6.5 [target RPE: 6.5-7]
+  Set 1: 175.0kg x 1 @ RPE 8 [target RPE: 8-8.5] [est_stress=141, real_stress=134]
+  Set 2: 165.0kg x 2 @ RPE 7 [target RPE: 6.5-7] [est_stress=171, real_stress=180]
+  Set 3: 165.0kg x 2 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=171, real_stress=163]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 4 @ RPE 8 [target RPE: 7-7.5]
-  Set 2: 50.0kg x 4 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 1: 50.0kg x 4 @ RPE 8 [target RPE: 7-7.5] [est_stress=23, real_stress=27]
+  Set 2: 50.0kg x 4 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=23, real_stress=30]
 
 ### Lateral Raise (Dumbbell)
 
@@ -412,29 +307,20 @@ Finished: 2026-04-21 07:46:28
 
 ## 2026-04-20
 
-### Health / Recovery
-
-- Steps: 10074
-- Distance: 8.20 km
-- Total kcal burned: 2700
-- Weight: 79.2 kg
-- Resting heart rate: 40 bpm
-- Sleep: 7.80 h asleep (7.95 h in bed, deep 1.45 h, REM 1.58 h, awake 0.15 h)
-
 **Week 3 · Day 1**
 Finished: 2026-04-20 10:03:11
 
 ### Squat (Low Bar)
 
-  Set 1: 165.0kg x 1 @ RPE 9 [target RPE: 8.5-9]
-  Set 2: 160.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
-  Set 3: 160.0kg x 1 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 1: 165.0kg x 1 @ RPE 9 [target RPE: 8.5-9] [est_stress=164, real_stress=171]
+  Set 2: 160.0kg x 1 @ RPE 8 [target RPE: 7-7.5] [est_stress=111, real_stress=130]
+  Set 3: 160.0kg x 1 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=111, real_stress=143]
 
 ### Bench Press (Paused)
 
-  Set 1: 125.0kg x 1 @ RPE 9 [target RPE: 8-8.5]
-  Set 2: 115.0kg x 2 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 115.0kg x 2 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 1: 125.0kg x 1 @ RPE 9 [target RPE: 8-8.5] [est_stress=113, real_stress=129]
+  Set 2: 115.0kg x 2 @ RPE 7 [target RPE: 6.5-7] [est_stress=127, real_stress=134]
+  Set 3: 115.0kg x 2 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=127, real_stress=150]
 
 ### Pull-Up (Weighted)
 
@@ -443,55 +329,39 @@ Finished: 2026-04-20 10:03:11
 
 ## 2026-04-18
 
-### Health / Recovery
-
-- Steps: 16801
-- Distance: 13.69 km
-- Total kcal burned: 2907
-- Resting heart rate: 43 bpm
-- Sleep: 7.63 h asleep (7.65 h in bed, deep 1.15 h, REM 1.83 h, awake 0.02 h)
-
 **Week 2 · Day 5**
 Finished: 2026-04-18 10:26:21
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8]
-  Set 2: 170.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8]
-  Set 3: 170.0kg x 1 [target: 2 reps, target RPE: 7.5-8]
-  Set 4: 190.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8]
-  Set 5: 190.0kg x 1 [failed] [target RPE: 8.5-9]
-  Set 6: 175.0kg x 2 @ RPE 8 [target RPE: 7.5-8]
-  Set 7: 180.0kg x 2 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 1: 170.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8] [est_stress=233, real_stress=-]
+  Set 2: 170.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8] [est_stress=233, real_stress=-]
+  Set 3: 170.0kg x 1 [target: 2 reps, target RPE: 7.5-8] [est_stress=233, real_stress=-]
+  Set 4: 190.0kg x 1 [failed] [target: 2 reps, target RPE: 7.5-8] [est_stress=326, real_stress=-]
+  Set 5: 190.0kg x 1 [failed] [target RPE: 8.5-9] [est_stress=197, real_stress=-]
+  Set 6: 175.0kg x 2 @ RPE 8 [target RPE: 7.5-8] [est_stress=255, real_stress=268]
+  Set 7: 180.0kg x 2 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=277, real_stress=321]
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 4 @ RPE 8 [target RPE: 6-6.5]
-  Set 2: 145.0kg x 4 @ RPE 8.5 [target RPE: 6-6.5]
+  Set 1: 145.0kg x 4 @ RPE 8 [target RPE: 6-6.5] [est_stress=266, real_stress=387]
+  Set 2: 145.0kg x 4 @ RPE 8.5 [target RPE: 6-6.5] [est_stress=266, real_stress=426]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 3 @ RPE 6 [target RPE: 6-6.5]
-  Set 2: 117.5kg x 5 @ RPE 8 [target: 3 reps, target RPE: 6-6.5]
+  Set 1: 115.0kg x 3 @ RPE 6 [target RPE: 6-6.5] [est_stress=172, real_stress=163]
+  Set 2: 117.5kg x 5 @ RPE 8 [target: 3 reps, target RPE: 6-6.5] [est_stress=184, real_stress=445]
 
 ## 2026-04-16
-
-### Health / Recovery
-
-- Steps: 3055
-- Distance: 2.47 km
-- Total kcal burned: 2356
-- Resting heart rate: 43 bpm
-- Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Week 2 · Day 4**
 Finished: 2026-04-16 09:37:42
 
 ### Bench Press (Barbell)
 
-  Set 1: 132.5kg x 1 @ RPE 9.5 [target RPE: 8.5-9]
-  Set 2: 122.5kg x 2 @ RPE 8 [target RPE: 7.5-8]
-  Set 3: 122.5kg x 2 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 1: 132.5kg x 1 @ RPE 9.5 [target RPE: 8.5-9] [est_stress=147, real_stress=172]
+  Set 2: 122.5kg x 2 @ RPE 8 [target RPE: 7.5-8] [est_stress=192, real_stress=202]
+  Set 3: 122.5kg x 2 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=192, real_stress=222]
 
 ### Pull-Up (Weighted)
 
@@ -515,24 +385,15 @@ Finished: 2026-04-16 09:37:42
 
 ## 2026-04-15
 
-### Health / Recovery
-
-- Steps: 3503
-- Distance: 2.86 km
-- Total kcal burned: 2282
-- Weight: 79.9 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
-
 **Week 2 · Day 3**
 Finished: 2026-04-15 10:04:17
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 @ RPE 7 [target RPE: 6.5-7]
-  Set 2: 147.5kg x 3 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 147.5kg x 3 @ RPE 7 [target RPE: 6.5-7]
-  Set 4: 120.0kg x 4 [target: 3 reps, target RPE: 6.5-7]
+  Set 1: 147.5kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=233, real_stress=244]
+  Set 2: 147.5kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=233, real_stress=244]
+  Set 3: 147.5kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=233, real_stress=244]
+  Set 4: 120.0kg x 4 [target: 3 reps, target RPE: 6.5-7] [est_stress=125, real_stress=-]
 
 ### Leg Extension
 
@@ -550,31 +411,22 @@ Finished: 2026-04-15 10:04:17
 
 ## 2026-04-14
 
-### Health / Recovery
-
-- Steps: 9341
-- Distance: 10.01 km
-- Total kcal burned: 2990
-- Weight: 80 kg
-- Resting heart rate: 43 bpm
-- Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
-
 **Week 2 · Day 2**
 Finished: 2026-04-14 09:43:00
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 175.0kg x 1 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 2: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5]
-  Set 3: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5]
-  Set 4: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5]
-  Set 5: 160.0kg x 3 @ RPE 9 [target RPE: 7-7.5]
+  Set 1: 175.0kg x 1 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=127, real_stress=147]
+  Set 2: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5] [est_stress=261, real_stress=-]
+  Set 3: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5] [est_stress=261, real_stress=-]
+  Set 4: 160.0kg x 1 [target: 3 reps, target RPE: 7-7.5] [est_stress=261, real_stress=-]
+  Set 5: 160.0kg x 3 @ RPE 9 [target RPE: 7-7.5] [est_stress=261, real_stress=369]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 2: 47.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
-  Set 3: 47.5kg x 5 @ RPE 9 [target RPE: 7-7.5]
+  Set 1: 47.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=25, real_stress=26]
+  Set 2: 47.5kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=25, real_stress=29]
+  Set 3: 47.5kg x 5 @ RPE 9 [target RPE: 7-7.5] [est_stress=25, real_stress=35]
 
 ### Lateral Raise (Dumbbell)
 
@@ -585,11 +437,10 @@ Finished: 2026-04-14 09:43:00
 
 ### Health / Recovery
 
-- Steps: 4616
-- Distance: 3.75 km
-- Total kcal burned: 2370
-- Weight: 80 kg
-- Resting heart rate: 42 bpm
+- Steps: 3178
+- Distance: 2.58 km
+- Total kcal burned: 1328
+- Resting heart rate: 44 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Week 2 · Day 1**
@@ -597,15 +448,15 @@ Finished: 2026-04-13 10:01:11
 
 ### Squat (Low Bar)
 
-  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 8.5-9]
-  Set 2: 155.0kg x 2 @ RPE 8 [target RPE: 7.5-8]
-  Set 3: 152.5kg x 2 @ RPE 8 [target RPE: 7.5-8]
+  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 8.5-9] [est_stress=164, real_stress=157]
+  Set 2: 155.0kg x 2 @ RPE 8 [target RPE: 7.5-8] [est_stress=225, real_stress=236]
+  Set 3: 152.5kg x 2 @ RPE 8 [target RPE: 7.5-8] [est_stress=214, real_stress=225]
 
 ### Bench Press (Paused)
 
-  Set 1: 120.0kg x 1 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 7-7.5]
-  Set 3: 112.5kg x 3 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 1: 120.0kg x 1 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=90, real_stress=85]
+  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 7-7.5] [est_stress=199, real_stress=234]
+  Set 3: 112.5kg x 3 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=199, real_stress=258]
 
 ### Pull-Up (Weighted)
 
@@ -632,20 +483,20 @@ Finished: 2026-04-11 09:59:25
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 187.5kg x 1 @ RPE 8.5 [target RPE: 8-8.5]
-  Set 2: 177.5kg x 2 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 3: 177.5kg x 2 @ RPE 8 [target RPE: 7.5-8]
-  Set 4: 172.5kg x 2 @ RPE 7 [target RPE: 7.5-8]
+  Set 1: 187.5kg x 1 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=173, real_stress=181]
+  Set 2: 177.5kg x 2 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=266, real_stress=252]
+  Set 3: 177.5kg x 2 @ RPE 8 [target RPE: 7.5-8] [est_stress=266, real_stress=280]
+  Set 4: 172.5kg x 2 @ RPE 7 [target RPE: 7.5-8] [est_stress=244, real_stress=205]
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 4 @ RPE 7 [target RPE: 6-6.5]
-  Set 2: 145.0kg x 4 @ RPE 6.5 [target RPE: 6-6.5]
+  Set 1: 145.0kg x 4 @ RPE 7 [target RPE: 6-6.5] [est_stress=266, real_stress=310]
+  Set 2: 145.0kg x 4 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=266, real_stress=281]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 3 @ RPE 6.5 [target RPE: 6-6.5]
-  Set 2: 115.0kg x 7 @ RPE 9 [target: 3 reps, target RPE: 6-6.5]
+  Set 1: 115.0kg x 3 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=172, real_stress=182]
+  Set 2: 115.0kg x 7 @ RPE 9 [target: 3 reps, target RPE: 6-6.5] [est_stress=172, real_stress=701]
 
 ## 2026-04-09
 
@@ -662,10 +513,10 @@ Finished: 2026-04-09 09:29:57
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5]
-  Set 2: 120.0kg x 2 @ RPE 7 [target RPE: 7.5-8]
-  Set 3: 122.5kg x 2 @ RPE 8 [target RPE: 7.5-8]
-  Set 4: 110.0kg x 3 [target: 2 reps, target RPE: 7.5-8]
+  Set 1: 130.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=127, real_stress=133]
+  Set 2: 120.0kg x 2 @ RPE 7 [target RPE: 7.5-8] [est_stress=180, real_stress=152]
+  Set 3: 122.5kg x 2 @ RPE 8 [target RPE: 7.5-8] [est_stress=192, real_stress=202]
+  Set 4: 110.0kg x 3 [target: 2 reps, target RPE: 7.5-8] [est_stress=139, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -701,12 +552,12 @@ Finished: 2026-04-08 09:51:03
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 3 [target RPE: 6.5-7]
-  Set 2: 150.0kg x 3 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 3: 150.0kg x 3 @ RPE 7 [target RPE: 6.5-7]
-  Set 4: 130.0kg x 3 [target RPE: 6.5-7]
-  Set 5: 130.0kg x 3 [target RPE: 6.5-7]
-  Set 6: 130.0kg x 3 [target RPE: 6.5-7]
+  Set 1: 145.0kg x 3 [target RPE: 6.5-7] [est_stress=221, real_stress=-]
+  Set 2: 150.0kg x 3 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=245, real_stress=289]
+  Set 3: 150.0kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=245, real_stress=257]
+  Set 4: 130.0kg x 3 [target RPE: 6.5-7] [est_stress=160, real_stress=-]
+  Set 5: 130.0kg x 3 [target RPE: 6.5-7] [est_stress=160, real_stress=-]
+  Set 6: 130.0kg x 3 [target RPE: 6.5-7] [est_stress=160, real_stress=-]
 
 ### Leg Extension
 
@@ -736,18 +587,18 @@ Finished: 2026-04-07 10:02:00
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 172.5kg x 1 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 2: 162.5kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 3: 162.5kg x 2 @ RPE 9 [target: 3 reps, target RPE: 7-7.5]
-  Set 4: 120.0kg x 3 [target RPE: 7-7.5]
-  Set 5: 120.0kg x 3 [target RPE: 7-7.5]
-  Set 6: 120.0kg x 3 [target RPE: 7-7.5]
+  Set 1: 172.5kg x 1 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=109, real_stress=115]
+  Set 2: 162.5kg x 3 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=274, real_stress=290]
+  Set 3: 162.5kg x 2 @ RPE 9 [target: 3 reps, target RPE: 7-7.5] [est_stress=274, real_stress=257]
+  Set 4: 120.0kg x 3 [target RPE: 7-7.5] [est_stress=110, real_stress=-]
+  Set 5: 120.0kg x 3 [target RPE: 7-7.5] [est_stress=110, real_stress=-]
+  Set 6: 120.0kg x 3 [target RPE: 7-7.5] [est_stress=110, real_stress=-]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 2: 47.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
-  Set 3: 47.5kg x 5 @ RPE 9 [target RPE: 7-7.5]
+  Set 1: 47.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=25, real_stress=26]
+  Set 2: 47.5kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=25, real_stress=29]
+  Set 3: 47.5kg x 5 @ RPE 9 [target RPE: 7-7.5] [est_stress=25, real_stress=35]
 
 ### Lateral Raise (Dumbbell)
 
@@ -772,15 +623,15 @@ Finished: 2026-04-06 10:02:59
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 8 [target RPE: 8-8.5]
-  Set 2: 150.0kg x 2 @ RPE 8 [target RPE: 7.5-8]
-  Set 3: 150.0kg x 2 @ RPE 7 [target RPE: 7.5-8]
+  Set 1: 160.0kg x 1 @ RPE 8 [target RPE: 8-8.5] [est_stress=137, real_stress=130]
+  Set 2: 150.0kg x 2 @ RPE 8 [target RPE: 7.5-8] [est_stress=204, real_stress=214]
+  Set 3: 150.0kg x 2 @ RPE 7 [target RPE: 7.5-8] [est_stress=204, real_stress=171]
 
 ### Bench Press (Paused)
 
-  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
-  Set 2: 110.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 3: 110.0kg x 3 @ RPE 8 [target RPE: 7-7.5]
+  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 7-7.5] [est_stress=81, real_stress=95]
+  Set 2: 110.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=186, real_stress=197]
+  Set 3: 110.0kg x 3 @ RPE 8 [target RPE: 7-7.5] [est_stress=186, real_stress=219]
 
 ### Pull-Up (Weighted)
 
@@ -809,23 +660,23 @@ Finished: 2026-04-04 09:56:17
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 8-8.5]
-  Set 2: 185.0kg x 2 @ RPE 9 [target: 3 reps, target RPE: 9-9.5]
-  Set 3: 180.0kg x 2 @ RPE 9 [target: 3 reps, target RPE: 7.5-8]
-  Set 4: 170.0kg x 3 @ RPE 8 [target RPE: 7.5-8]
-  Set 5: 170.0kg x 6 @ RPE 10 [target: 3 reps, target RPE: 7.5-8]
+  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 8-8.5] [est_stress=153, real_stress=117]
+  Set 2: 185.0kg x 2 @ RPE 9 [target: 3 reps, target RPE: 9-9.5] [est_stress=605, real_stress=380]
+  Set 3: 180.0kg x 2 @ RPE 9 [target: 3 reps, target RPE: 7.5-8] [est_stress=416, real_stress=350]
+  Set 4: 170.0kg x 3 @ RPE 8 [target RPE: 7.5-8] [est_stress=350, real_stress=368]
+  Set 5: 170.0kg x 6 @ RPE 10 [target: 3 reps, target RPE: 7.5-8] [est_stress=350, real_stress=1105]
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 5 @ RPE 6 [target RPE: 6.5-7]
-  Set 2: 142.5kg x 5 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
+  Set 1: 140.0kg x 5 @ RPE 6 [target RPE: 6.5-7] [est_stress=332, real_stress=283]
+  Set 2: 142.5kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=350, real_stress=413]
+  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=332, real_stress=348]
 
 ### Spoto Press
 
-  Set 1: 112.5kg x 5 @ RPE 7 [target RPE: 7-7.5]
-  Set 2: 115.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
-  Set 3: 112.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
+  Set 1: 112.5kg x 5 @ RPE 7 [target RPE: 7-7.5] [est_stress=332, real_stress=313]
+  Set 2: 115.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=355, real_stress=459]
+  Set 3: 112.5kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=332, real_stress=391]
 
 ## 2026-04-02
 
@@ -843,11 +694,11 @@ Finished: 2026-04-02 09:47:04
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5]
-  Set 2: 127.5kg x 3 @ RPE 9.5 [target RPE: 9-9.5]
-  Set 3: 120.0kg x 3 @ RPE 9 [target RPE: 7.5-8]
-  Set 4: 117.5kg x 3 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 5: 117.5kg x 3 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 1: 130.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=127, real_stress=133]
+  Set 2: 127.5kg x 3 @ RPE 9.5 [target RPE: 9-9.5] [est_stress=435, real_stress=461]
+  Set 3: 120.0kg x 3 @ RPE 9 [target RPE: 7.5-8] [est_stress=270, real_stress=341]
+  Set 4: 117.5kg x 3 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=254, real_stress=294]
+  Set 5: 117.5kg x 3 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=254, real_stress=294]
 
 ### Pull-Up (Weighted)
 
@@ -891,15 +742,15 @@ Finished: 2026-04-01 10:05:23
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 140.0kg x 3 @ RPE 7 [target RPE: 7.5-8]
-  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 3: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 1: 140.0kg x 3 @ RPE 7 [target RPE: 7.5-8] [est_stress=248, real_stress=209]
+  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=248, real_stress=235]
+  Set 3: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=248, real_stress=235]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 140.0kg x 6 @ RPE 7 [target RPE: 7.5-8]
-  Set 2: 140.0kg x 6 @ RPE 8 [target RPE: 7.5-8]
-  Set 3: 140.0kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 1: 140.0kg x 6 @ RPE 7 [target RPE: 7.5-8] [est_stress=391, real_stress=329]
+  Set 2: 140.0kg x 6 @ RPE 8 [target RPE: 7.5-8] [est_stress=391, real_stress=412]
+  Set 3: 140.0kg x 6 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=391, real_stress=453]
 
 ### Leg Extension
 
@@ -929,17 +780,17 @@ Finished: 2026-03-31 10:00:00
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 172.5kg x 1 @ RPE 8 [target RPE: 7.5-8]
-  Set 2: 160.0kg x 3 @ RPE 8 [target RPE: 7-7.5]
-  Set 3: 160.0kg x 3 @ RPE 8 [target RPE: 7-7.5]
-  Set 4: 160.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 5: 160.0kg x 3 @ RPE 7 [target RPE: 7-7.5]
+  Set 1: 172.5kg x 1 @ RPE 8 [target RPE: 7.5-8] [est_stress=122, real_stress=128]
+  Set 2: 160.0kg x 3 @ RPE 8 [target RPE: 7-7.5] [est_stress=261, real_stress=307]
+  Set 3: 160.0kg x 3 @ RPE 8 [target RPE: 7-7.5] [est_stress=261, real_stress=307]
+  Set 4: 160.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=261, real_stress=276]
+  Set 5: 160.0kg x 3 @ RPE 7 [target RPE: 7-7.5] [est_stress=261, real_stress=246]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 3: 47.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=34, real_stress=32]
+  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=34, real_stress=39]
+  Set 3: 47.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=34, real_stress=39]
 
 ### Lateral Raise (Dumbbell)
 
@@ -969,17 +820,17 @@ Finished: 2026-03-30 10:09:15
 
 ### Squat (Low Bar)
 
-  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5]
-  Set 2: 160.0kg x 3 @ RPE 9.5 [target RPE: 9-9.5]
-  Set 3: 150.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 4: 150.0kg x 3 @ RPE 8 [target RPE: 7.5-8]
-  Set 5: 0kg x 0 [target: 3 reps, target RPE: 7.5-8]
+  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=150, real_stress=157]
+  Set 2: 160.0kg x 3 @ RPE 9.5 [target RPE: 9-9.5] [est_stress=497, real_stress=527]
+  Set 3: 150.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=305, real_stress=289]
+  Set 4: 150.0kg x 3 @ RPE 8 [target RPE: 7.5-8] [est_stress=305, real_stress=321]
+  Set 5: 0kg x 0 [target: 3 reps, target RPE: 7.5-8] [est_stress=-, real_stress=-]
 
 ### Bench Press (Paused)
 
-  Set 2: 107.5kg x 4 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 3: 107.5kg x 4 @ RPE 8 [target RPE: 7-7.5]
-  Set 4: 107.5kg x 4 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 2: 107.5kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=232, real_stress=245]
+  Set 3: 107.5kg x 4 @ RPE 8 [target RPE: 7-7.5] [est_stress=232, real_stress=273]
+  Set 4: 107.5kg x 4 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=232, real_stress=300]
 
 ### Cable Crunch
 
@@ -1008,23 +859,23 @@ Finished: 2026-03-28 10:03:01
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 187.5kg x 1 @ RPE 8.5 [target RPE: 8-8.5]
-  Set 2: 175.0kg x 3 @ RPE 8 [target RPE: 8-8.5]
-  Set 3: 175.0kg x 3 @ RPE 7.5 [target RPE: 8-8.5]
-  Set 4: 177.5kg x 3 @ RPE 8 [target RPE: 8-8.5]
-  Set 5: 177.5kg x 3 @ RPE 7.5 [target RPE: 8-8.5]
+  Set 1: 187.5kg x 1 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=173, real_stress=181]
+  Set 2: 175.0kg x 3 @ RPE 8 [target RPE: 8-8.5] [est_stress=422, real_stress=402]
+  Set 3: 175.0kg x 3 @ RPE 7.5 [target RPE: 8-8.5] [est_stress=422, real_stress=362]
+  Set 4: 177.5kg x 3 @ RPE 8 [target RPE: 8-8.5] [est_stress=440, real_stress=419]
+  Set 5: 177.5kg x 3 @ RPE 7.5 [target RPE: 8-8.5] [est_stress=440, real_stress=377]
 
 ### Squat (Low Bar)
 
-  Set 1: 142.5kg x 5 @ RPE 7 [target RPE: 6.5-7]
-  Set 2: 142.5kg x 5 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
+  Set 1: 142.5kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=350, real_stress=367]
+  Set 2: 142.5kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=350, real_stress=413]
+  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=332, real_stress=348]
 
 ### Spoto Press
 
-  Set 1: 112.5kg x 5 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 2: 110.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
+  Set 1: 112.5kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=298, real_stress=352]
+  Set 2: 110.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=278, real_stress=329]
+  Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=278, real_stress=292]
 
 ## 2026-03-26
 
@@ -1041,11 +892,11 @@ Finished: 2026-03-26 09:55:32
 
 ### Bench Press (Barbell)
 
-  Set 1: 127.5kg x 1 @ RPE 8.5 [target RPE: 8-8.5]
-  Set 2: 117.5kg x 3 @ RPE 8 [target RPE: 8-8.5]
-  Set 3: 117.5kg x 3 @ RPE 8.5 [target RPE: 8-8.5]
-  Set 4: 117.5kg x 3 @ RPE 9 [target RPE: 8-8.5]
-  Set 5: 115.0kg x 3 @ RPE 8.5 [target RPE: 8-8.5]
+  Set 1: 127.5kg x 1 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=119, real_stress=125]
+  Set 2: 117.5kg x 3 @ RPE 8 [target RPE: 8-8.5] [est_stress=280, real_stress=267]
+  Set 3: 117.5kg x 3 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=280, real_stress=294]
+  Set 4: 117.5kg x 3 @ RPE 9 [target RPE: 8-8.5] [est_stress=280, real_stress=320]
+  Set 5: 115.0kg x 3 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=263, real_stress=275]
 
 ### Pull-Up (Weighted)
 
@@ -1089,15 +940,15 @@ Finished: 2026-03-25 10:05:56
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 2: 140.0kg x 3 @ RPE 8 [target RPE: 7.5-8]
-  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 7.5-8]
+  Set 1: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=248, real_stress=235]
+  Set 2: 140.0kg x 3 @ RPE 8 [target RPE: 7.5-8] [est_stress=248, real_stress=261]
+  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 7.5-8] [est_stress=248, real_stress=261]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 135.0kg x 6 @ RPE 6.5 [target RPE: 7.5-8]
-  Set 2: 140.0kg x 6 @ RPE 6.5 [target RPE: 7.5-8]
-  Set 3: 145.0kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 1: 135.0kg x 6 @ RPE 6.5 [target RPE: 7.5-8] [est_stress=351, real_stress=268]
+  Set 2: 140.0kg x 6 @ RPE 6.5 [target RPE: 7.5-8] [est_stress=391, real_stress=298]
+  Set 3: 145.0kg x 6 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=434, real_stress=503]
 
 ### Leg Extension
 
@@ -1127,17 +978,17 @@ Finished: 2026-03-24 10:02:03
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 1 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 2: 160.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 3: 160.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 7-7.5]
-  Set 5: 160.0kg x 3 @ RPE 7 [target RPE: 7-7.5]
+  Set 1: 170.0kg x 1 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=104, real_stress=111]
+  Set 2: 160.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=261, real_stress=276]
+  Set 3: 160.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=261, real_stress=276]
+  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 7-7.5] [est_stress=261, real_stress=246]
+  Set 5: 160.0kg x 3 @ RPE 7 [target RPE: 7-7.5] [est_stress=261, real_stress=246]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 3: 47.5kg x 6 @ RPE 9 [target RPE: 7.5-8]
+  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=34, real_stress=32]
+  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=34, real_stress=39]
+  Set 3: 47.5kg x 6 @ RPE 9 [target RPE: 7.5-8] [est_stress=34, real_stress=42]
 
 ### Lateral Raise (Dumbbell)
 
@@ -1167,18 +1018,18 @@ Finished: 2026-03-23 09:59:05
 
 ### Squat (Low Bar)
 
-  Set 1: 167.5kg x 1 @ RPE 9 [target RPE: 8-8.5]
-  Set 2: 147.5kg x 3 @ RPE 8 [target RPE: 8-8.5]
-  Set 3: 147.5kg x 3 @ RPE 7.5 [target RPE: 8-8.5]
-  Set 4: 147.5kg x 3 @ RPE 8.5 [target RPE: 8-8.5]
-  Set 5: 0kg x 0 [target: 3 reps, target RPE: 8-8.5]
+  Set 1: 167.5kg x 1 @ RPE 9 [target RPE: 8-8.5] [est_stress=157, real_stress=179]
+  Set 2: 147.5kg x 3 @ RPE 8 [target RPE: 8-8.5] [est_stress=321, real_stress=306]
+  Set 3: 147.5kg x 3 @ RPE 7.5 [target RPE: 8-8.5] [est_stress=321, real_stress=275]
+  Set 4: 147.5kg x 3 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=321, real_stress=336]
+  Set 5: 0kg x 0 [target: 3 reps, target RPE: 8-8.5] [est_stress=-, real_stress=-]
 
 ### Bench Press (Paused)
 
-  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
-  Set 2: 110.0kg x 4 @ RPE 8 [target RPE: 7-7.5]
-  Set 3: 107.5kg x 4 @ RPE 8 [target RPE: 7-7.5]
-  Set 4: 107.5kg x 4 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 7-7.5] [est_stress=81, real_stress=95]
+  Set 2: 110.0kg x 4 @ RPE 8 [target RPE: 7-7.5] [est_stress=248, real_stress=292]
+  Set 3: 107.5kg x 4 @ RPE 8 [target RPE: 7-7.5] [est_stress=232, real_stress=273]
+  Set 4: 107.5kg x 4 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=232, real_stress=300]
 
 ### Cable Crunch
 
@@ -1207,23 +1058,23 @@ Finished: 2026-03-21 10:03:57
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 187.5kg x 1 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 2: 170.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 3: 170.0kg x 3 @ RPE 6.5 [target RPE: 7.5-8]
-  Set 4: 172.5kg x 3 @ RPE 6.5 [target RPE: 7.5-8]
-  Set 5: 175.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 1: 187.5kg x 1 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=157, real_stress=181]
+  Set 2: 170.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=350, real_stress=332]
+  Set 3: 170.0kg x 3 @ RPE 6.5 [target RPE: 7.5-8] [est_stress=350, real_stress=267]
+  Set 4: 172.5kg x 3 @ RPE 6.5 [target RPE: 7.5-8] [est_stress=366, real_stress=279]
+  Set 5: 175.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=382, real_stress=362]
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 5 @ RPE 6.5 [target RPE: 6-6.5]
-  Set 2: 140.0kg x 5 @ RPE 6 [target RPE: 6-6.5]
-  Set 3: 142.5kg x 5 @ RPE 6 [target RPE: 6-6.5]
+  Set 1: 140.0kg x 5 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=299, real_stress=316]
+  Set 2: 140.0kg x 5 @ RPE 6 [target RPE: 6-6.5] [est_stress=299, real_stress=283]
+  Set 3: 142.5kg x 5 @ RPE 6 [target RPE: 6-6.5] [est_stress=316, real_stress=298]
 
 ### Spoto Press
 
-  Set 1: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
-  Set 2: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
+  Set 1: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=278, real_stress=292]
+  Set 2: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=278, real_stress=292]
+  Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=278, real_stress=292]
 
 ## 2026-03-19
 
@@ -1240,11 +1091,11 @@ Finished: 2026-03-19 09:35:38
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 8 [target RPE: 7.5-8]
-  Set 2: 115.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 3: 115.0kg x 3 @ RPE 8 [target RPE: 7.5-8]
-  Set 4: 115.0kg x 3 @ RPE 8 [target RPE: 7.5-8]
-  Set 5: 115.0kg x 3 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 1: 125.0kg x 1 @ RPE 8 [target RPE: 7.5-8] [est_stress=102, real_stress=107]
+  Set 2: 115.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=238, real_stress=225]
+  Set 3: 115.0kg x 3 @ RPE 8 [target RPE: 7.5-8] [est_stress=238, real_stress=250]
+  Set 4: 115.0kg x 3 @ RPE 8 [target RPE: 7.5-8] [est_stress=238, real_stress=250]
+  Set 5: 115.0kg x 3 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=238, real_stress=275]
 
 ### Pull-Up (Weighted)
 
@@ -1288,15 +1139,15 @@ Finished: 2026-03-18 13:17:46
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 135.0kg x 3 @ RPE 7 [target RPE: 7-7.5]
-  Set 2: 135.0kg x 3 @ RPE 7 [target RPE: 7-7.5]
-  Set 3: 137.5kg x 3 @ RPE 6.5 [target RPE: 7-7.5]
+  Set 1: 135.0kg x 3 @ RPE 7 [target RPE: 7-7.5] [est_stress=199, real_stress=187]
+  Set 2: 135.0kg x 3 @ RPE 7 [target RPE: 7-7.5] [est_stress=199, real_stress=187]
+  Set 3: 137.5kg x 3 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=210, real_stress=179]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 135.0kg x 6 @ RPE 7 [target RPE: 7-7.5]
-  Set 2: 135.0kg x 6 @ RPE 7 [target RPE: 7-7.5]
-  Set 3: 135.0kg x 6 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 1: 135.0kg x 6 @ RPE 7 [target RPE: 7-7.5] [est_stress=314, real_stress=295]
+  Set 2: 135.0kg x 6 @ RPE 7 [target RPE: 7-7.5] [est_stress=314, real_stress=295]
+  Set 3: 135.0kg x 6 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=314, real_stress=332]
 
 ### Leg Extension
 
@@ -1326,17 +1177,17 @@ Finished: 2026-03-17 08:51:11
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 1 @ RPE 7 [target RPE: 6.5-7]
-  Set 2: 160.0kg x 3 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 6.5-7]
-  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 6.5-7]
-  Set 5: 160.0kg x 3 @ RPE 7 [target RPE: 6.5-7]
+  Set 1: 170.0kg x 1 @ RPE 7 [target RPE: 6.5-7] [est_stress=94, real_stress=98]
+  Set 2: 160.0kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=234, real_stress=246]
+  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=234, real_stress=246]
+  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=234, real_stress=246]
+  Set 5: 160.0kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=234, real_stress=246]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 7-7.5]
-  Set 3: 47.5kg x 6 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=30, real_stress=32]
+  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=30, real_stress=39]
+  Set 3: 47.5kg x 6 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=30, real_stress=39]
 
 ### Lateral Raise (Dumbbell)
 
@@ -1366,18 +1217,18 @@ Finished: 2026-03-16 10:12:03
 
 ### Squat (Low Bar)
 
-  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 2: 145.0kg x 3 @ RPE 8 [target RPE: 7.5-8]
-  Set 3: 145.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 4: 145.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 5: 145.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=135, real_stress=157]
+  Set 2: 145.0kg x 3 @ RPE 8 [target RPE: 7.5-8] [est_stress=276, real_stress=290]
+  Set 3: 145.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=276, real_stress=261]
+  Set 4: 145.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=276, real_stress=261]
+  Set 5: 145.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=276, real_stress=261]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 6.5-7]
-  Set 2: 107.5kg x 4 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 107.5kg x 4 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 4: 105.0kg x 4 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 6.5-7] [est_stress=64, real_stress=67]
+  Set 2: 107.5kg x 4 @ RPE 7 [target RPE: 6.5-7] [est_stress=208, real_stress=218]
+  Set 3: 107.5kg x 4 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=208, real_stress=245]
+  Set 4: 105.0kg x 4 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=194, real_stress=229]
 
 ### Cable Crunch
 
@@ -1406,22 +1257,22 @@ Finished: 2026-03-14 09:54:12
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 190.0kg x 1 @ RPE 9 [target RPE: 7.5-8]
-  Set 2: 170.0kg x 5 @ RPE 7.5 [target RPE: 8.5-9]
-  Set 3: 170.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
-  Set 4: 170.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 1: 190.0kg x 1 @ RPE 9 [target RPE: 7.5-8] [est_stress=163, real_stress=206]
+  Set 2: 170.0kg x 5 @ RPE 7.5 [target RPE: 8.5-9] [est_stress=706, real_stress=553]
+  Set 3: 170.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=522, real_stress=676]
+  Set 4: 170.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=522, real_stress=676]
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 6 @ RPE 7 [target RPE: 6-6.5]
-  Set 2: 140.0kg x 6 @ RPE 7 [target RPE: 6-6.5]
-  Set 3: 140.0kg x 6 @ RPE 7.5 [target RPE: 6-6.5]
+  Set 1: 140.0kg x 6 @ RPE 7 [target RPE: 6-6.5] [est_stress=359, real_stress=418]
+  Set 2: 140.0kg x 6 @ RPE 7 [target RPE: 6-6.5] [est_stress=359, real_stress=418]
+  Set 3: 140.0kg x 6 @ RPE 7.5 [target RPE: 6-6.5] [est_stress=359, real_stress=470]
 
 ### Spoto Press
 
-  Set 1: 105.0kg x 6 @ RPE 6 [target RPE: 6.5-7]
-  Set 2: 107.5kg x 6 @ RPE 6.5 [target RPE: 6.5-7]
-  Set 3: 107.5kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 1: 105.0kg x 6 @ RPE 6 [target RPE: 6.5-7] [est_stress=291, real_stress=248]
+  Set 2: 107.5kg x 6 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=312, real_stress=297]
+  Set 3: 107.5kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=312, real_stress=368]
 
 ## 2026-03-12
 
@@ -1438,10 +1289,10 @@ Finished: 2026-03-12 09:35:07
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 2: 117.5kg x 5 @ RPE 9.5 [target RPE: 8.5-9]
-  Set 3: 110.0kg x 5 @ RPE 8 [target RPE: 7-7.5]
-  Set 4: 107.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
+  Set 1: 125.0kg x 1 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=102, real_stress=118]
+  Set 2: 117.5kg x 5 @ RPE 9.5 [target RPE: 8.5-9] [est_stress=512, real_stress=601]
+  Set 3: 110.0kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=310, real_stress=365]
+  Set 4: 107.5kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=290, real_stress=341]
 
 ### Pull-Up (Weighted)
 
@@ -1483,14 +1334,14 @@ Finished: 2026-03-11 09:57:00
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 130.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
-  Set 2: 130.0kg x 5 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 130.0kg x 5 @ RPE 6 [target RPE: 6.5-7]
+  Set 1: 130.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=266, real_stress=279]
+  Set 2: 130.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=266, real_stress=279]
+  Set 3: 130.0kg x 5 @ RPE 6 [target RPE: 6.5-7] [est_stress=266, real_stress=227]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 125.0kg x 8 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 2: 127.5kg x 8 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 1: 125.0kg x 8 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=332, real_stress=352]
+  Set 2: 127.5kg x 8 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=352, real_stress=373]
 
 ### Leg Extension
 
@@ -1518,16 +1369,16 @@ Finished: 2026-03-10 10:07:48
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 167.5kg x 1 @ RPE 7 [target RPE: 7-7.5]
-  Set 2: 160.0kg x 4 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 3: 157.5kg x 4 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 4: 157.5kg x 4 @ RPE 8 [target RPE: 6.5-7]
+  Set 1: 167.5kg x 1 @ RPE 7 [target RPE: 7-7.5] [est_stress=100, real_stress=94]
+  Set 2: 160.0kg x 4 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=312, real_stress=369]
+  Set 3: 157.5kg x 4 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=298, real_stress=352]
+  Set 4: 157.5kg x 4 @ RPE 8 [target RPE: 6.5-7] [est_stress=298, real_stress=391]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 4 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 2: 50.0kg x 4 @ RPE 8 [target RPE: 7-7.5]
-  Set 3: 50.0kg x 4 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 1: 50.0kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=23, real_stress=25]
+  Set 2: 50.0kg x 4 @ RPE 8 [target RPE: 7-7.5] [est_stress=23, real_stress=27]
+  Set 3: 50.0kg x 4 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=23, real_stress=30]
 
 ### Lateral Raise (Dumbbell)
 
@@ -1557,17 +1408,17 @@ Finished: 2026-03-09 10:14:39
 
 ### Squat (Low Bar)
 
-  Set 1: 162.5kg x 1 @ RPE 8 [target RPE: 7.5-8]
-  Set 2: 155.0kg x 5 @ RPE 9 [target RPE: 8.5-9]
-  Set 3: 150.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 4: 150.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 1: 162.5kg x 1 @ RPE 8 [target RPE: 7.5-8] [est_stress=129, real_stress=136]
+  Set 2: 155.0kg x 5 @ RPE 9 [target RPE: 8.5-9] [est_stress=680, real_stress=709]
+  Set 3: 150.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=455, real_stress=482]
+  Set 4: 150.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=455, real_stress=589]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 7-7.5]
-  Set 2: 102.5kg x 6 @ RPE 8.5 [target RPE: 6.5-7]
-  Set 3: 100.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 4: 100.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 7-7.5] [est_stress=71, real_stress=67]
+  Set 2: 102.5kg x 6 @ RPE 8.5 [target RPE: 6.5-7] [est_stress=270, real_stress=390]
+  Set 3: 100.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=251, real_stress=296]
+  Set 4: 100.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=251, real_stress=296]
 
 ### Cable Crunch
 
@@ -1596,22 +1447,22 @@ Finished: 2026-03-07 10:06:07
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 8 [target RPE: 7.5-8]
-  Set 2: 162.5kg x 5 @ RPE 6.5 [target RPE: 7-7.5]
-  Set 3: 165.0kg x 5 @ RPE 7 [target RPE: 7-7.5]
-  Set 4: 167.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 1: 185.0kg x 1 @ RPE 8 [target RPE: 7.5-8] [est_stress=150, real_stress=158]
+  Set 2: 162.5kg x 5 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=456, real_stress=389]
+  Set 3: 165.0kg x 5 @ RPE 7 [target RPE: 7-7.5] [est_stress=477, real_stress=449]
+  Set 4: 167.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=499, real_stress=529]
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 6 @ RPE 6 [target RPE: 6-6.5]
-  Set 2: 140.0kg x 6 @ RPE 7 [target RPE: 6-6.5]
-  Set 3: 135.0kg x 6 @ RPE 6 [target RPE: 6-6.5]
+  Set 1: 135.0kg x 6 @ RPE 6 [target RPE: 6-6.5] [est_stress=322, real_stress=305]
+  Set 2: 140.0kg x 6 @ RPE 7 [target RPE: 6-6.5] [est_stress=359, real_stress=418]
+  Set 3: 135.0kg x 6 @ RPE 6 [target RPE: 6-6.5] [est_stress=322, real_stress=305]
 
 ### Spoto Press
 
-  Set 1: 105.0kg x 6 @ RPE 6.5 [target RPE: 6.5-7]
-  Set 2: 105.0kg x 6 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 105.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 1: 105.0kg x 6 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=291, real_stress=276]
+  Set 2: 105.0kg x 6 @ RPE 7 [target RPE: 6.5-7] [est_stress=291, real_stress=305]
+  Set 3: 105.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=291, real_stress=343]
 
 ## 2026-03-05
 
@@ -1628,10 +1479,10 @@ Finished: 2026-03-05 08:04:27
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 8.5 [target RPE: 7.5-8]
-  Set 2: 110.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 3: 110.0kg x 5 @ RPE 8 [target RPE: 7-7.5]
-  Set 4: 107.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
+  Set 1: 122.5kg x 1 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=96, real_stress=111]
+  Set 2: 110.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=310, real_stress=329]
+  Set 3: 110.0kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=310, real_stress=365]
+  Set 4: 107.5kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=290, real_stress=341]
 
 ### Pull-Up (Weighted)
 
@@ -1677,17 +1528,17 @@ Finished: 2026-03-04 09:58:05
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 130.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7]
-  Set 2: 130.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7]
-  Set 3: 130.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7]
-  Set 4: 130.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7]
+  Set 1: 130.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=266, real_stress=253]
+  Set 2: 130.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=266, real_stress=253]
+  Set 3: 130.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=266, real_stress=253]
+  Set 4: 130.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=266, real_stress=253]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 8 @ RPE 6 [target RPE: 7-7.5]
-  Set 2: 125.0kg x 8 @ RPE 7 [target RPE: 7-7.5]
-  Set 3: 125.0kg x 8 @ RPE 7 [target RPE: 7-7.5]
-  Set 4: 127.5kg x 8 @ RPE 8 [target RPE: 7-7.5]
+  Set 1: 120.0kg x 8 @ RPE 6 [target RPE: 7-7.5] [est_stress=294, real_stress=225]
+  Set 2: 125.0kg x 8 @ RPE 7 [target RPE: 7-7.5] [est_stress=332, real_stress=312]
+  Set 3: 125.0kg x 8 @ RPE 7 [target RPE: 7-7.5] [est_stress=332, real_stress=312]
+  Set 4: 127.5kg x 8 @ RPE 8 [target RPE: 7-7.5] [est_stress=352, real_stress=415]
 
 ### Leg Extension
 
@@ -1717,16 +1568,16 @@ Finished: 2026-03-03 09:51:22
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 162.5kg x 1 @ RPE 6.5 [target RPE: 6.5-7]
-  Set 2: 152.5kg x 4 @ RPE 7 [target RPE: 6.5-7]
-  Set 3: 152.5kg x 4 @ RPE 6.5 [target RPE: 6.5-7]
-  Set 4: 152.5kg x 4 @ RPE 6.5 [target RPE: 6.5-7]
+  Set 1: 162.5kg x 1 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=82, real_stress=78]
+  Set 2: 152.5kg x 4 @ RPE 7 [target RPE: 6.5-7] [est_stress=270, real_stress=284]
+  Set 3: 152.5kg x 4 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=270, real_stress=257]
+  Set 4: 152.5kg x 4 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=270, real_stress=257]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 8 @ RPE 7.5 [target RPE: 7-7.5]
-  Set 2: 45.0kg x 8 @ RPE 8 [target RPE: 7-7.5]
-  Set 3: 45.0kg x 8 @ RPE 9 [target RPE: 7-7.5]
+  Set 1: 45.0kg x 8 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=34, real_stress=36]
+  Set 2: 45.0kg x 8 @ RPE 8 [target RPE: 7-7.5] [est_stress=34, real_stress=40]
+  Set 3: 45.0kg x 8 @ RPE 9 [target RPE: 7-7.5] [est_stress=34, real_stress=48]
 
 ### Lateral Raise (Dumbbell)
 
@@ -1756,17 +1607,17 @@ Finished: 2026-03-02 10:03:42
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 7.5 [target RPE: 7.5-8]
-  Set 2: 145.0kg x 5 @ RPE 6.5 [target RPE: 7-7.5]
-  Set 3: 147.5kg x 5 @ RPE 6.5 [target RPE: 7-7.5]
-  Set 4: 150.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 1: 160.0kg x 1 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=124, real_stress=117]
+  Set 2: 145.0kg x 5 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=411, real_stress=351]
+  Set 3: 147.5kg x 5 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=433, real_stress=369]
+  Set 4: 150.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=455, real_stress=482]
 
 ### Bench Press (Paused)
 
-  Set 1: 120.0kg x 1 @ RPE 8.5 [target RPE: 6.5-7]
-  Set 2: 102.5kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 3: 100.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 4: 100.0kg x 6 @ RPE 8.5 [target RPE: 6.5-7]
+  Set 1: 120.0kg x 1 @ RPE 8.5 [target RPE: 6.5-7] [est_stress=72, real_stress=104]
+  Set 2: 102.5kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=270, real_stress=319]
+  Set 3: 100.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=251, real_stress=296]
+  Set 4: 100.0kg x 6 @ RPE 8.5 [target RPE: 6.5-7] [est_stress=251, real_stress=362]
 
 ### Cable Crunch
 
@@ -1795,22 +1646,22 @@ Finished: 2026-02-28 11:52:15
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 8 [target RPE: 7-7.5]
-  Set 2: 160.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7]
-  Set 3: 160.0kg x 5 @ RPE 8 [target RPE: 6.5-7]
-  Set 4: 160.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 1: 180.0kg x 1 @ RPE 8 [target RPE: 7-7.5] [est_stress=124, real_stress=146]
+  Set 2: 160.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=390, real_stress=461]
+  Set 3: 160.0kg x 5 @ RPE 8 [target RPE: 6.5-7] [est_stress=390, real_stress=512]
+  Set 4: 160.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=390, real_stress=461]
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 6 [target RPE: 5-6]
-  Set 2: 135.0kg x 6 @ RPE 6 [target RPE: 5-6]
-  Set 3: 140.0kg x 6 @ RPE 6 [target RPE: 5-6]
+  Set 1: 130.0kg x 6 [target RPE: 5-6] [est_stress=241, real_stress=-]
+  Set 2: 135.0kg x 6 @ RPE 6 [target RPE: 5-6] [est_stress=269, real_stress=305]
+  Set 3: 140.0kg x 6 @ RPE 6 [target RPE: 5-6] [est_stress=300, real_stress=340]
 
 ### Spoto Press
 
-  Set 1: 100.0kg x 6 @ RPE 6 [target RPE: 6-6.5]
-  Set 2: 102.5kg x 6 @ RPE 6 [target RPE: 6-6.5]
-  Set 3: 105.0kg x 6 @ RPE 7 [target RPE: 6-6.5]
+  Set 1: 100.0kg x 6 @ RPE 6 [target RPE: 6-6.5] [est_stress=226, real_stress=214]
+  Set 2: 102.5kg x 6 @ RPE 6 [target RPE: 6-6.5] [est_stress=244, real_stress=230]
+  Set 3: 105.0kg x 6 @ RPE 7 [target RPE: 6-6.5] [est_stress=262, real_stress=305]
 
 ## 2026-02-26
 
@@ -1827,17 +1678,17 @@ Finished: 2026-02-26 09:38:49
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 7.5 [target RPE: 88]
-  Set 2: 112.5kg x 5 @ RPE 7.5 [target RPE: 83]
-  Set 3: 112.5kg x 5 @ RPE 9 [target RPE: 83]
-  Set 4: 110.0kg x 5 @ RPE 8.5 [target RPE: 83]
-  Set 5: 102.5kg x 5 @ RPE 7.5 [target RPE: 83]
+  Set 1: 120.0kg x 1 @ RPE 7.5 [target RPE: 88] [est_stress=-, real_stress=85]
+  Set 2: 112.5kg x 5 @ RPE 7.5 [target RPE: 83] [est_stress=-, real_stress=352]
+  Set 3: 112.5kg x 5 @ RPE 9 [target RPE: 83] [est_stress=-, real_stress=469]
+  Set 4: 110.0kg x 5 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=402]
+  Set 5: 102.5kg x 5 @ RPE 7.5 [target RPE: 83] [est_stress=-, real_stress=266]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 7 @ RPE 7 [target: 8 reps, target RPE: 65]
-  Set 2: 120.0kg x 8 @ RPE 7.5 [target RPE: 65]
-  Set 3: 120.0kg x 8 @ RPE 7.5 [target RPE: 65]
+  Set 1: 120.0kg x 7 @ RPE 7 [target: 8 reps, target RPE: 65] [est_stress=-, real_stress=242]
+  Set 2: 120.0kg x 8 @ RPE 7.5 [target RPE: 65] [est_stress=-, real_stress=311]
+  Set 3: 120.0kg x 8 @ RPE 7.5 [target RPE: 65] [est_stress=-, real_stress=311]
 
 ### Pull-Up (Weighted)
 
@@ -1867,10 +1718,10 @@ Finished: 2026-02-25 09:58:39
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 130.0kg x 5 @ RPE 7 [target RPE: 76]
-  Set 2: 130.0kg x 5 @ RPE 7 [target RPE: 76]
-  Set 3: 130.0kg x 5 @ RPE 7 [target RPE: 76]
-  Set 4: 130.0kg x 5 @ RPE 7.5 [target RPE: 76]
+  Set 1: 130.0kg x 5 @ RPE 7 [target RPE: 76] [est_stress=-, real_stress=279]
+  Set 2: 130.0kg x 5 @ RPE 7 [target RPE: 76] [est_stress=-, real_stress=279]
+  Set 3: 130.0kg x 5 @ RPE 7 [target RPE: 76] [est_stress=-, real_stress=279]
+  Set 4: 130.0kg x 5 @ RPE 7.5 [target RPE: 76] [est_stress=-, real_stress=314]
 
 ### Standing T Bar Row
 
@@ -1916,17 +1767,17 @@ Finished: 2026-02-24 10:07:47
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 @ RPE 6.5 [target RPE: 80]
-  Set 2: 150.0kg x 4 @ RPE 7 [target RPE: 75]
-  Set 3: 150.0kg x 4 @ RPE 8 [target RPE: 75]
-  Set 4: 150.0kg x 4 @ RPE 7 [target RPE: 75]
-  Set 5: 150.0kg x 4 @ RPE 7 [target RPE: 75]
+  Set 1: 160.0kg x 1 @ RPE 6.5 [target RPE: 80] [est_stress=-, real_stress=74]
+  Set 2: 150.0kg x 4 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=270]
+  Set 3: 150.0kg x 4 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=338]
+  Set 4: 150.0kg x 4 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=270]
+  Set 5: 150.0kg x 4 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=270]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 8 @ RPE 7.5 [target RPE: 8]
-  Set 2: 45.0kg x 8 @ RPE 8.5 [target RPE: 8]
-  Set 3: 45.0kg x 8 @ RPE 9 [target RPE: 8]
+  Set 1: 45.0kg x 8 @ RPE 7.5 [target RPE: 8] [est_stress=40, real_stress=36]
+  Set 2: 45.0kg x 8 @ RPE 8.5 [target RPE: 8] [est_stress=40, real_stress=44]
+  Set 3: 45.0kg x 8 @ RPE 9 [target RPE: 8] [est_stress=40, real_stress=48]
 
 ### Pull-Up (Weighted)
 
@@ -1956,19 +1807,19 @@ Finished: 2026-02-23 10:27:40
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 7.5 [target RPE: 87]
-  Set 2: 145.0kg x 5 @ RPE 8 [target RPE: 82]
-  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 82]
-  Set 4: 140.0kg x 5 @ RPE 7.5 [target RPE: 82]
-  Set 5: 140.0kg x 5 @ RPE 7 [target RPE: 82]
+  Set 1: 155.0kg x 1 @ RPE 7.5 [target RPE: 87] [est_stress=-, real_stress=106]
+  Set 2: 145.0kg x 5 @ RPE 8 [target RPE: 82] [est_stress=-, real_stress=484]
+  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 82] [est_stress=-, real_stress=348]
+  Set 4: 140.0kg x 5 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=392]
+  Set 5: 140.0kg x 5 @ RPE 7 [target RPE: 82] [est_stress=-, real_stress=348]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 1 @ RPE 6 [target RPE: 83]
-  Set 2: 105.0kg x 6 @ RPE 7.5 [target RPE: 77]
-  Set 3: 105.0kg x 6 @ RPE 7 [target RPE: 77]
-  Set 4: 105.0kg x 6 @ RPE 7.5 [target RPE: 77]
-  Set 5: 105.0kg x 6 @ RPE 7.5 [target RPE: 77]
+  Set 1: 112.5kg x 1 @ RPE 6 [target RPE: 83] [est_stress=-, real_stress=51]
+  Set 2: 105.0kg x 6 @ RPE 7.5 [target RPE: 77] [est_stress=-, real_stress=343]
+  Set 3: 105.0kg x 6 @ RPE 7 [target RPE: 77] [est_stress=-, real_stress=305]
+  Set 4: 105.0kg x 6 @ RPE 7.5 [target RPE: 77] [est_stress=-, real_stress=343]
+  Set 5: 105.0kg x 6 @ RPE 7.5 [target RPE: 77] [est_stress=-, real_stress=343]
 
 ### Squat (Smith Machine)
 
@@ -1997,19 +1848,19 @@ Finished: 2026-02-21 15:24:55
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 167.5kg x 1 @ RPE 8.5 [target RPE: 9]
-  Set 3: 177.5kg x 1 @ RPE 9.5 [target RPE: 10]
+  Set 1: 160.0kg x 1 @ RPE 8 [target RPE: 8] [est_stress=130, real_stress=130]
+  Set 2: 167.5kg x 1 @ RPE 8.5 [target RPE: 9] [est_stress=179, real_stress=164]
+  Set 3: 177.5kg x 1 @ RPE 9.5 [target RPE: 10] [est_stress=266, real_stress=240]
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 135.0kg x 1 @ RPE 9.5 [target RPE: 9]
+  Set 1: 130.0kg x 1 @ RPE 8 [target RPE: 8] [est_stress=121, real_stress=121]
+  Set 2: 135.0kg x 1 @ RPE 9.5 [target RPE: 9] [est_stress=162, real_stress=182]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 8]
-  Set 2: 195.0kg x 1 @ RPE 9.5 [target RPE: 9]
+  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 8] [est_stress=146, real_stress=117]
+  Set 2: 195.0kg x 1 @ RPE 9.5 [target RPE: 9] [est_stress=222, real_stress=250]
 
 ## 2026-02-19
 
@@ -2026,15 +1877,15 @@ Finished: 2026-02-19 09:42:09
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 7.5 [target RPE: 92.5]
-  Set 2: 110.0kg x 2 [target RPE: 80]
-  Set 3: 112.5kg x 2 @ RPE 6 [target RPE: 80]
+  Set 1: 125.0kg x 1 @ RPE 7.5 [target RPE: 92.5] [est_stress=-, real_stress=100]
+  Set 2: 110.0kg x 2 [target RPE: 80] [est_stress=-, real_stress=-]
+  Set 3: 112.5kg x 2 @ RPE 6 [target RPE: 80] [est_stress=-, real_stress=105]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 5 @ RPE 6 [target RPE: 60]
-  Set 2: 120.0kg x 5 [target RPE: 60]
-  Set 3: 125.0kg x 5 [target RPE: 60]
+  Set 1: 120.0kg x 5 @ RPE 6 [target RPE: 60] [est_stress=-, real_stress=140]
+  Set 2: 120.0kg x 5 [target RPE: 60] [est_stress=-, real_stress=-]
+  Set 3: 125.0kg x 5 [target RPE: 60] [est_stress=-, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -2064,9 +1915,9 @@ Finished: 2026-02-18 10:20:23
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 132.5kg x 2 @ RPE 6 [target RPE: 70]
-  Set 2: 132.5kg x 2 @ RPE 6 [target RPE: 70]
-  Set 3: 132.5kg x 2 @ RPE 6 [target RPE: 70]
+  Set 1: 132.5kg x 2 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=102]
+  Set 2: 132.5kg x 2 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=102]
+  Set 3: 132.5kg x 2 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=102]
 
 ### Standing T Bar Row
 
@@ -2108,15 +1959,15 @@ Finished: 2026-02-17 10:01:57
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 150.0kg x 1 [target RPE: 75]
-  Set 2: 150.0kg x 1 [target RPE: 75]
-  Set 3: 160.0kg x 1 @ RPE 6 [target RPE: 75]
+  Set 1: 150.0kg x 1 [target RPE: 75] [est_stress=-, real_stress=-]
+  Set 2: 150.0kg x 1 [target RPE: 75] [est_stress=-, real_stress=-]
+  Set 3: 160.0kg x 1 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=67]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 8]
-  Set 2: 47.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 3: 47.5kg x 6 @ RPE 9 [target RPE: 8]
+  Set 1: 47.5kg x 6 @ RPE 7.5 [target RPE: 8] [est_stress=37, real_stress=33]
+  Set 2: 47.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=37, real_stress=37]
+  Set 3: 47.5kg x 6 @ RPE 9 [target RPE: 8] [est_stress=37, real_stress=44]
 
 ### Pull-Up (Weighted)
 
@@ -2146,15 +1997,15 @@ Finished: 2026-02-16 10:39:01
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 8 [target RPE: 92.5]
-  Set 2: 140.0kg x 2 @ RPE 6 [target RPE: 80]
-  Set 3: 140.0kg x 2 @ RPE 6 [target RPE: 80]
+  Set 1: 160.0kg x 1 @ RPE 8 [target RPE: 92.5] [est_stress=-, real_stress=138]
+  Set 2: 140.0kg x 2 @ RPE 6 [target RPE: 80] [est_stress=-, real_stress=120]
+  Set 3: 140.0kg x 2 @ RPE 6 [target RPE: 80] [est_stress=-, real_stress=120]
 
 ### Bench Press (Paused)
 
-  Set 1: 110.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 2: 110.0kg x 3 @ RPE 8 [target RPE: 75]
-  Set 3: 110.0kg x 3 @ RPE 8.5 [target RPE: 75]
+  Set 1: 110.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=182]
+  Set 2: 110.0kg x 3 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=227]
+  Set 3: 110.0kg x 3 @ RPE 8.5 [target RPE: 75] [est_stress=-, real_stress=250]
 
 ### Squat (Smith Machine)
 
@@ -2182,22 +2033,22 @@ Finished: 2026-02-14 17:32:54
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 0kg x 1 [failed] [target RPE: 95]
-  Set 2: 180.0kg x 3 @ RPE 9 [target RPE: 90]
-  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 82]
-  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 82]
+  Set 1: 0kg x 1 [failed] [target RPE: 95] [est_stress=-, real_stress=-]
+  Set 2: 180.0kg x 3 @ RPE 9 [target RPE: 90] [est_stress=-, real_stress=525]
+  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 82] [est_stress=-, real_stress=246]
+  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 82] [est_stress=-, real_stress=246]
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 4 @ RPE 6 [target RPE: 75]
-  Set 2: 135.0kg x 4 @ RPE 6 [target RPE: 75]
-  Set 3: 135.0kg x 4 @ RPE 6 [target RPE: 75]
+  Set 1: 135.0kg x 4 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=215]
+  Set 2: 135.0kg x 4 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=215]
+  Set 3: 135.0kg x 4 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=215]
 
 ### Spoto Press
 
-  Set 1: 110.0kg x 5 @ RPE 8 [target RPE: 81]
-  Set 2: 110.0kg x 5 @ RPE 8 [target RPE: 81]
-  Set 3: 110.0kg x 5 @ RPE 9 [target RPE: 81]
+  Set 1: 110.0kg x 5 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=379]
+  Set 2: 110.0kg x 5 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=379]
+  Set 3: 110.0kg x 5 @ RPE 9 [target RPE: 81] [est_stress=-, real_stress=455]
 
 ### Leg Curl
 
@@ -2220,16 +2071,16 @@ Finished: 2026-02-12 15:10:28
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 8.5 [target RPE: 96]
-  Set 2: 125.0kg x 3 @ RPE 9.5 [target RPE: 92]
-  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 83]
-  Set 4: 112.5kg x 3 @ RPE 8 [target RPE: 83]
+  Set 1: 130.0kg x 1 @ RPE 8.5 [target RPE: 96] [est_stress=-, real_stress=138]
+  Set 2: 125.0kg x 3 @ RPE 9.5 [target RPE: 92] [est_stress=-, real_stress=451]
+  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 83] [est_stress=-, real_stress=243]
+  Set 4: 112.5kg x 3 @ RPE 8 [target RPE: 83] [est_stress=-, real_stress=243]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 140.0kg x 5 @ RPE 7 [target RPE: 70]
-  Set 2: 140.0kg x 5 @ RPE 7.5 [target RPE: 70]
-  Set 3: 140.0kg x 5 @ RPE 7.5 [target RPE: 70]
+  Set 1: 140.0kg x 5 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=274]
+  Set 2: 140.0kg x 5 @ RPE 7.5 [target RPE: 70] [est_stress=-, real_stress=309]
+  Set 3: 140.0kg x 5 @ RPE 7.5 [target RPE: 70] [est_stress=-, real_stress=309]
 
 ### Pull-Up (Weighted)
 
@@ -2258,9 +2109,9 @@ Finished: 2026-02-11 18:03:56
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 140.0kg x 3 @ RPE 8 [target RPE: 81]
-  Set 2: 140.0kg x 3 @ RPE 8 [target RPE: 81]
-  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 81]
+  Set 1: 140.0kg x 3 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=277]
+  Set 2: 140.0kg x 3 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=277]
+  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=277]
 
 ### Chest Supported Row (Machine)
 
@@ -2302,15 +2153,15 @@ Finished: 2026-02-10 15:12:02
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 2 @ RPE 8 [target RPE: 85]
-  Set 2: 170.0kg x 2 @ RPE 8.5 [target RPE: 85]
-  Set 3: 170.0kg x 2 @ RPE 7.5 [target RPE: 85]
+  Set 1: 170.0kg x 2 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=246]
+  Set 2: 170.0kg x 2 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=270]
+  Set 3: 170.0kg x 2 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=221]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 48.0kg x 6 @ RPE 8.5 [target RPE: 9.5]
-  Set 2: 50.0kg x 6 @ RPE 9.5 [target RPE: 9.5]
-  Set 3: 50.0kg x 6 @ RPE 10 [target RPE: 9.5]
+  Set 1: 48.0kg x 6 @ RPE 8.5 [target RPE: 9.5] [est_stress=51, real_stress=42]
+  Set 2: 50.0kg x 6 @ RPE 9.5 [target RPE: 9.5] [est_stress=58, real_stress=58]
+  Set 3: 50.0kg x 6 @ RPE 10 [target RPE: 9.5] [est_stress=58, real_stress=64]
 
 ### Pull-Up (Weighted)
 
@@ -2340,22 +2191,22 @@ Finished: 2026-02-09 15:28:21
 
 ### Squat (Low Bar)
 
-  Set 1: 165.0kg x 1 @ RPE 9.5 [target RPE: 95.5]
-  Set 2: 155.0kg x 3 @ RPE 9.5 [target RPE: 90]
-  Set 3: 142.5kg x 3 @ RPE 7.5 [target RPE: 83]
-  Set 4: 142.5kg x 3 @ RPE 7.5 [target RPE: 83]
+  Set 1: 165.0kg x 1 @ RPE 9.5 [target RPE: 95.5] [est_stress=-, real_stress=204]
+  Set 2: 155.0kg x 3 @ RPE 9.5 [target RPE: 90] [est_stress=-, real_stress=507]
+  Set 3: 142.5kg x 3 @ RPE 7.5 [target RPE: 83] [est_stress=-, real_stress=263]
+  Set 4: 142.5kg x 3 @ RPE 7.5 [target RPE: 83] [est_stress=-, real_stress=263]
 
 ### Bench Press (Paused)
 
-  Set 1: 110.0kg x 4 @ RPE 9.5 [target RPE: 83]
-  Set 2: 110.0kg x 3 @ RPE 9.5 [target: 4 reps, target RPE: 83]
-  Set 3: 110.0kg x 4 @ RPE 9.5 [target RPE: 83]
+  Set 1: 110.0kg x 4 @ RPE 9.5 [target RPE: 83] [est_stress=-, real_stress=409]
+  Set 2: 110.0kg x 3 @ RPE 9.5 [target: 4 reps, target RPE: 83] [est_stress=-, real_stress=307]
+  Set 3: 110.0kg x 4 @ RPE 9.5 [target RPE: 83] [est_stress=-, real_stress=409]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 80.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 8]
-  Set 2: 80.0kg x 10 @ RPE 8.5 [target: 12 reps, target RPE: 8]
-  Set 3: 80.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 8]
+  Set 1: 80.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 8] [est_stress=206, real_stress=172]
+  Set 2: 80.0kg x 10 @ RPE 8.5 [target: 12 reps, target RPE: 8] [est_stress=206, real_stress=189]
+  Set 3: 80.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 8] [est_stress=206, real_stress=206]
 
 ### Cable Crunch
 
@@ -2378,21 +2229,21 @@ Finished: 2026-02-07 17:06:42
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 8.5 [target RPE: 92.5]
-  Set 2: 170.0kg x 2 @ RPE 6.5 [target RPE: 85]
-  Set 3: 170.0kg x 2 @ RPE 6.5 [target RPE: 85]
+  Set 1: 185.0kg x 1 @ RPE 8.5 [target RPE: 92.5] [est_stress=-, real_stress=174]
+  Set 2: 170.0kg x 2 @ RPE 6.5 [target RPE: 85] [est_stress=-, real_stress=178]
+  Set 3: 170.0kg x 2 @ RPE 6.5 [target RPE: 85] [est_stress=-, real_stress=178]
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 4 @ RPE 7 [target RPE: 75]
-  Set 2: 135.0kg x 4 @ RPE 7 [target RPE: 75]
-  Set 3: 135.0kg x 4 @ RPE 7 [target RPE: 75]
+  Set 1: 135.0kg x 4 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=265]
+  Set 2: 135.0kg x 4 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=265]
+  Set 3: 135.0kg x 4 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=265]
 
 ### Spoto Press
 
-  Set 1: 110.0kg x 5 @ RPE 8 [target RPE: 81]
-  Set 2: 110.0kg x 5 @ RPE 8.5 [target RPE: 81]
-  Set 3: 110.0kg x 5 @ RPE 9 [target RPE: 81]
+  Set 1: 110.0kg x 5 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=379]
+  Set 2: 110.0kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=417]
+  Set 3: 110.0kg x 5 @ RPE 9 [target RPE: 81] [est_stress=-, real_stress=455]
 
 ### Leg Curl
 
@@ -2415,17 +2266,17 @@ Finished: 2026-02-07 03:19:23
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 8.5 [target RPE: 94]
-  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 83]
-  Set 3: 112.5kg x 3 @ RPE 8.5 [target RPE: 83]
-  Set 4: 112.5kg x 3 @ RPE 9 [target RPE: 83]
-  Set 5: 112.5kg x 3 @ RPE 9.5 [target RPE: 83]
+  Set 1: 125.0kg x 1 @ RPE 8.5 [target RPE: 94] [est_stress=-, real_stress=122]
+  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 83] [est_stress=-, real_stress=243]
+  Set 3: 112.5kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=268]
+  Set 4: 112.5kg x 3 @ RPE 9 [target RPE: 83] [est_stress=-, real_stress=292]
+  Set 5: 112.5kg x 3 @ RPE 9.5 [target RPE: 83] [est_stress=-, real_stress=328]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 130.0kg x 8 @ RPE 8 [target: 5 reps, target RPE: 70]
-  Set 2: 140.0kg x 5 @ RPE 7 [target RPE: 70]
-  Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 70]
+  Set 1: 130.0kg x 8 @ RPE 8 [target: 5 reps, target RPE: 70] [est_stress=-, real_stress=439]
+  Set 2: 140.0kg x 5 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=274]
+  Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 70] [est_stress=-, real_stress=343]
 
 ### Lat Pulldown
 
@@ -2454,15 +2305,15 @@ Finished: 2026-02-05 03:09:50
 
 ### Bench Press (Barbell)
 
-  Set 1: 105.0kg x 5
-  Set 2: 105.0kg x 5
-  Set 3: 105.0kg x 5
+  Set 1: 105.0kg x 5 [est_stress=-, real_stress=-]
+  Set 2: 105.0kg x 5 [est_stress=-, real_stress=-]
+  Set 3: 105.0kg x 5 [est_stress=-, real_stress=-]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 100.0kg x 5
-  Set 2: 100.0kg x 5
-  Set 3: 100.0kg x 5
+  Set 1: 100.0kg x 5 [est_stress=-, real_stress=-]
+  Set 2: 100.0kg x 5 [est_stress=-, real_stress=-]
+  Set 3: 100.0kg x 5 [est_stress=-, real_stress=-]
 
 ## 2026-02-04
 
@@ -2479,9 +2330,9 @@ Finished: 2026-02-04 00:39:28
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 130.0kg x 3 @ RPE 8 [target RPE: 81]
-  Set 2: 130.0kg x 3 @ RPE 8 [target RPE: 81]
-  Set 3: 0kg x 0 [target: 3 reps, target RPE: 81]
+  Set 1: 130.0kg x 3 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=221]
+  Set 2: 130.0kg x 3 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=221]
+  Set 3: 0kg x 0 [target: 3 reps, target RPE: 81] [est_stress=-, real_stress=-]
 
 ### Seated Row (Cable)
 
@@ -2511,9 +2362,9 @@ Finished: 2026-02-04 00:39:28
 
 ### Bench Press (Barbell)
 
-  Set 1: 90.0kg x 8
-  Set 2: 90.0kg x 8
-  Set 3: 90.0kg x 8
+  Set 1: 90.0kg x 8 [est_stress=-, real_stress=-]
+  Set 2: 90.0kg x 8 [est_stress=-, real_stress=-]
+  Set 3: 90.0kg x 8 [est_stress=-, real_stress=-]
 
 ## 2026-02-02
 
@@ -2530,15 +2381,15 @@ Finished: 2026-02-02 10:05:07
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 165.0kg x 2 @ RPE 8 [target RPE: 83]
-  Set 2: 165.0kg x 2 @ RPE 7.5 [target RPE: 83]
-  Set 3: 165.0kg x 2 @ RPE 8 [target RPE: 83]
+  Set 1: 165.0kg x 2 @ RPE 8 [target RPE: 83] [est_stress=-, real_stress=225]
+  Set 2: 165.0kg x 2 @ RPE 7.5 [target RPE: 83] [est_stress=-, real_stress=202]
+  Set 3: 165.0kg x 2 @ RPE 8 [target RPE: 83] [est_stress=-, real_stress=225]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 9.5 [target: 6 reps, target RPE: 9]
-  Set 2: 47.5kg x 6 @ RPE 9 [target RPE: 9]
-  Set 3: 47.5kg x 6 @ RPE 9.5 [target RPE: 9]
+  Set 1: 47.5kg x 7 @ RPE 9.5 [target: 6 reps, target RPE: 9] [est_stress=44, real_stress=58]
+  Set 2: 47.5kg x 6 @ RPE 9 [target RPE: 9] [est_stress=44, real_stress=44]
+  Set 3: 47.5kg x 6 @ RPE 9.5 [target RPE: 9] [est_stress=44, real_stress=49]
 
 ### Pull-Up (Weighted)
 
@@ -2570,23 +2421,23 @@ Finished: 2026-02-01 11:01:32
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 9 [target RPE: 94]
-  Set 2: 162.5kg x 1 @ RPE 9 [target: 3 reps, target RPE: 80]
-  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 80]
-  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 80]
-  Set 5: 140.0kg x 3 @ RPE 7.5 [target RPE: 80]
+  Set 1: 160.0kg x 1 @ RPE 9 [target RPE: 94] [est_stress=-, real_stress=165]
+  Set 2: 162.5kg x 1 @ RPE 9 [target: 3 reps, target RPE: 80] [est_stress=-, real_stress=173]
+  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 80] [est_stress=-, real_stress=277]
+  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 80] [est_stress=-, real_stress=277]
+  Set 5: 140.0kg x 3 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=249]
 
 ### Bench Press (Paused)
 
-  Set 1: 107.5kg x 4 @ RPE 9 [target RPE: 75]
-  Set 2: 105.0kg x 4 @ RPE 9 [target RPE: 75]
-  Set 3: 105.0kg x 4 @ RPE 9.5 [target RPE: 75]
+  Set 1: 107.5kg x 4 @ RPE 9 [target RPE: 75] [est_stress=-, real_stress=340]
+  Set 2: 105.0kg x 4 @ RPE 9 [target RPE: 75] [est_stress=-, real_stress=317]
+  Set 3: 105.0kg x 4 @ RPE 9.5 [target RPE: 75] [est_stress=-, real_stress=356]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 70.0kg x 12 @ RPE 9 [target RPE: 7.5]
-  Set 2: 70.0kg x 12 @ RPE 8.5 [target RPE: 7.5]
-  Set 3: 70.0kg x 12 @ RPE 9 [target RPE: 7.5]
+  Set 1: 70.0kg x 12 @ RPE 9 [target RPE: 7.5] [est_stress=124, real_stress=166]
+  Set 2: 70.0kg x 12 @ RPE 8.5 [target RPE: 7.5] [est_stress=124, real_stress=152]
+  Set 3: 70.0kg x 12 @ RPE 9 [target RPE: 7.5] [est_stress=124, real_stress=166]
 
 ### Lateral Raise (Dumbbell)
 
@@ -2610,17 +2461,17 @@ Finished: 2026-01-31 10:17:12
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 8 [target RPE: 90]
-  Set 2: 190.0kg x 1 @ RPE 9.5 [target: 3 reps, target RPE: 80]
-  Set 3: 170.0kg x 3 @ RPE 8 [target RPE: 80]
-  Set 4: 170.0kg x 3 @ RPE 7.5 [target RPE: 80]
-  Set 5: 170.0kg x 3 @ RPE 8.5 [target RPE: 80]
+  Set 1: 185.0kg x 1 @ RPE 8 [target RPE: 90] [est_stress=-, real_stress=158]
+  Set 2: 190.0kg x 1 @ RPE 9.5 [target: 3 reps, target RPE: 80] [est_stress=-, real_stress=231]
+  Set 3: 170.0kg x 3 @ RPE 8 [target RPE: 80] [est_stress=-, real_stress=368]
+  Set 4: 170.0kg x 3 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=332]
+  Set 5: 170.0kg x 3 @ RPE 8.5 [target RPE: 80] [est_stress=-, real_stress=405]
 
 ### Bench Press (Paused)
 
-  Set 1: 105.0kg x 5 @ RPE 8.5 [target RPE: 75]
-  Set 2: 105.0kg x 5 @ RPE 9 [target RPE: 75]
-  Set 3: 102.5kg x 5 @ RPE 9 [target RPE: 75]
+  Set 1: 105.0kg x 5 @ RPE 8.5 [target RPE: 75] [est_stress=-, real_stress=363]
+  Set 2: 105.0kg x 5 @ RPE 9 [target RPE: 75] [est_stress=-, real_stress=396]
+  Set 3: 102.5kg x 5 @ RPE 9 [target RPE: 75] [est_stress=-, real_stress=368]
 
 ### Leg Curl
 
@@ -2630,10 +2481,10 @@ Finished: 2026-01-31 10:17:12
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 1 @ RPE 6.5
-  Set 2: 135.0kg x 3 @ RPE 6.5
-  Set 3: 135.0kg x 3 @ RPE 6.5
-  Set 4: 135.0kg x 3 @ RPE 6.5
+  Set 1: 140.0kg x 1 @ RPE 6.5 [est_stress=-, real_stress=67]
+  Set 2: 135.0kg x 3 @ RPE 6.5 [est_stress=-, real_stress=180]
+  Set 3: 135.0kg x 3 @ RPE 6.5 [est_stress=-, real_stress=180]
+  Set 4: 135.0kg x 3 @ RPE 6.5 [est_stress=-, real_stress=180]
 
 ## 2026-01-29
 
@@ -2650,9 +2501,9 @@ Finished: 2026-01-29 09:57:58
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 130.0kg x 6 @ RPE 7 [target RPE: 65]
-  Set 2: 130.0kg x 6 @ RPE 7 [target RPE: 65]
-  Set 3: 130.0kg x 6 @ RPE 7.5 [target RPE: 65]
+  Set 1: 130.0kg x 6 @ RPE 7 [target RPE: 65] [est_stress=-, real_stress=264]
+  Set 2: 130.0kg x 6 @ RPE 7 [target RPE: 65] [est_stress=-, real_stress=264]
+  Set 3: 130.0kg x 6 @ RPE 7.5 [target RPE: 65] [est_stress=-, real_stress=297]
 
 ### Standing T Bar Row
 
@@ -2695,16 +2546,16 @@ Finished: 2026-01-28 10:13:19
 
 ### Squat (Paused)
 
-  Set 1: 120.0kg x 3 @ RPE 6 [target RPE: 70]
-  Set 2: 130.0kg x 3 @ RPE 7.5 [target RPE: 70]
-  Set 3: 130.0kg x 3 @ RPE 7.5 [target RPE: 70]
-  Set 4: 120.0kg x 3 @ RPE 6 [target RPE: 70]
+  Set 1: 120.0kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=113]
+  Set 2: 130.0kg x 3 @ RPE 7.5 [target RPE: 70] [est_stress=-, real_stress=199]
+  Set 3: 130.0kg x 3 @ RPE 7.5 [target RPE: 70] [est_stress=-, real_stress=199]
+  Set 4: 120.0kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=113]
 
 ### Bench Press (Barbell)
 
-  Set 1: 105.0kg x 5 @ RPE 6.5 [target RPE: 76]
-  Set 2: 110.0kg x 5 @ RPE 8.5 [target RPE: 76]
-  Set 3: 110.0kg x 5 @ RPE 9 [target RPE: 76]
+  Set 1: 105.0kg x 5 @ RPE 6.5 [target RPE: 76] [est_stress=-, real_stress=239]
+  Set 2: 110.0kg x 5 @ RPE 8.5 [target RPE: 76] [est_stress=-, real_stress=417]
+  Set 3: 110.0kg x 5 @ RPE 9 [target RPE: 76] [est_stress=-, real_stress=455]
 
 ### Face Pull
 
@@ -2733,15 +2584,15 @@ Finished: 2026-01-27 10:14:41
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 155.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 2: 160.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 75]
+  Set 1: 155.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=182]
+  Set 2: 160.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=246]
+  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=246]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 8]
-  Set 3: 47.5kg x 6 @ RPE 9.5 [target RPE: 8]
+  Set 1: 47.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=37, real_stress=37]
+  Set 2: 47.5kg x 6 @ RPE 8.5 [target RPE: 8] [est_stress=37, real_stress=40]
+  Set 3: 47.5kg x 6 @ RPE 9.5 [target RPE: 8] [est_stress=37, real_stress=49]
 
 ### Overhead Tricep Extension (Cable)
 
@@ -2771,19 +2622,19 @@ Finished: 2026-01-26 10:13:24
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 9 [target RPE: 92.5]
-  Set 2: 137.5kg x 3 @ RPE 7.5 [target RPE: 80]
-  Set 3: 137.5kg x 3 @ RPE 7 [target RPE: 80]
-  Set 4: 137.5kg x 3 @ RPE 7.5 [target RPE: 80]
-  Set 5: 137.5kg x 3 @ RPE 7.5 [target RPE: 80]
+  Set 1: 160.0kg x 1 @ RPE 9 [target RPE: 92.5] [est_stress=-, real_stress=165]
+  Set 2: 137.5kg x 3 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=236]
+  Set 3: 137.5kg x 3 @ RPE 7 [target RPE: 80] [est_stress=-, real_stress=210]
+  Set 4: 137.5kg x 3 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=236]
+  Set 5: 137.5kg x 3 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=236]
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 8 [target RPE: 92.5]
-  Set 2: 107.5kg x 3 [target RPE: 80]
-  Set 3: 110.0kg x 3 @ RPE 6.5 [target RPE: 80]
-  Set 4: 110.0kg x 3 @ RPE 6.5 [target RPE: 80]
-  Set 5: 112.5kg x 3 @ RPE 7 [target RPE: 80]
+  Set 1: 125.0kg x 1 @ RPE 8 [target RPE: 92.5] [est_stress=-, real_stress=111]
+  Set 2: 107.5kg x 3 [target RPE: 80] [est_stress=-, real_stress=-]
+  Set 3: 110.0kg x 3 @ RPE 6.5 [target RPE: 80] [est_stress=-, real_stress=165]
+  Set 4: 110.0kg x 3 @ RPE 6.5 [target RPE: 80] [est_stress=-, real_stress=165]
+  Set 5: 112.5kg x 3 @ RPE 7 [target RPE: 80] [est_stress=-, real_stress=195]
 
 ### Leg Extension
 
@@ -2812,22 +2663,22 @@ Finished: 2026-01-24 10:20:41
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 1 @ RPE 7 [target RPE: 75]
-  Set 2: 135.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 3: 135.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 4: 135.0kg x 3 @ RPE 6 [target RPE: 75]
+  Set 1: 140.0kg x 1 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=74]
+  Set 2: 135.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=161]
+  Set 3: 135.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=161]
+  Set 4: 135.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=161]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 1 @ RPE 6.5 [target RPE: 75]
-  Set 2: 110.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 3: 110.0kg x 3 @ RPE 6 [target RPE: 75]
+  Set 1: 115.0kg x 1 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=63]
+  Set 2: 110.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=148]
+  Set 3: 110.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=148]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 7.5 [target RPE: 75]
-  Set 2: 160.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 75]
+  Set 1: 180.0kg x 1 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=131]
+  Set 2: 160.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=200]
+  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=246]
 
 ### Leg Curl
 
@@ -2852,16 +2703,16 @@ Finished: 2026-01-22 09:44:04
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 90]
-  Set 2: 110.0kg x 8 @ RPE 10 [target RPE: 79]
-  Set 3: 105.0kg x 8 @ RPE 9.5 [target RPE: 79]
-  Set 4: 105.0kg x 8 @ RPE 10 [target RPE: 79]
+  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 90] [est_stress=-, real_stress=126]
+  Set 2: 110.0kg x 8 @ RPE 10 [target RPE: 79] [est_stress=-, real_stress=910]
+  Set 3: 105.0kg x 8 @ RPE 9.5 [target RPE: 79] [est_stress=-, real_stress=712]
+  Set 4: 105.0kg x 8 @ RPE 10 [target RPE: 79] [est_stress=-, real_stress=791]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 100.0kg x 10 [target RPE: 60]
-  Set 2: 100.0kg x 10 [target RPE: 60]
-  Set 3: 100.0kg x 10 [target RPE: 60]
+  Set 1: 100.0kg x 10 [target RPE: 60] [est_stress=-, real_stress=-]
+  Set 2: 100.0kg x 10 [target RPE: 60] [est_stress=-, real_stress=-]
+  Set 3: 100.0kg x 10 [target RPE: 60] [est_stress=-, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -2893,9 +2744,9 @@ Finished: 2026-01-21 10:38:49
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 110.0kg x 6 @ RPE 6.5 [target RPE: 75]
-  Set 2: 110.0kg x 6 @ RPE 6.5 [target RPE: 75]
-  Set 3: 110.0kg x 6 @ RPE 6.5 [target RPE: 75]
+  Set 1: 110.0kg x 6 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=195]
+  Set 2: 110.0kg x 6 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=195]
+  Set 3: 110.0kg x 6 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=195]
 
 ### Standing T Bar Row
 
@@ -2927,7 +2778,7 @@ Finished: 2026-01-21 10:38:49
 
 ### Squat (Low Bar)
 
-  Set 1: 100.0kg x 15
+  Set 1: 100.0kg x 15 [est_stress=-, real_stress=-]
 
 ## 2026-01-20
 
@@ -2945,16 +2796,16 @@ Finished: 2026-01-20 10:33:08
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 [target RPE: 80]
-  Set 2: 150.0kg x 6 @ RPE 7 [target RPE: 75]
-  Set 3: 155.0kg x 6 @ RPE 7.5 [target RPE: 75]
-  Set 4: 160.0kg x 5 @ RPE 7.5 [target: 6 reps, target RPE: 75]
+  Set 1: 160.0kg x 1 [target RPE: 80] [est_stress=-, real_stress=-]
+  Set 2: 150.0kg x 6 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=405]
+  Set 3: 155.0kg x 6 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=503]
+  Set 4: 160.0kg x 5 @ RPE 7.5 [target: 6 reps, target RPE: 75] [est_stress=-, real_stress=461]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 10 @ RPE 9.5 [target RPE: 8]
-  Set 2: 45.0kg x 9 @ RPE 10 [target: 10 reps, target RPE: 8]
-  Set 3: 45.0kg x 9 @ RPE 10 [target: 10 reps, target RPE: 8]
+  Set 1: 45.0kg x 10 @ RPE 9.5 [target RPE: 8] [est_stress=52, real_stress=70]
+  Set 2: 45.0kg x 9 @ RPE 10 [target: 10 reps, target RPE: 8] [est_stress=52, real_stress=70]
+  Set 3: 45.0kg x 9 @ RPE 10 [target: 10 reps, target RPE: 8] [est_stress=52, real_stress=70]
 
 ### Pull-Up (Weighted)
 
@@ -2985,17 +2836,17 @@ Finished: 2026-01-19 10:24:19
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 1 @ RPE 8 [target RPE: 85]
-  Set 2: 132.5kg x 8 @ RPE 8.5 [target RPE: 75]
-  Set 3: 135.0kg x 8 @ RPE 8.5 [target RPE: 75]
-  Set 4: 135.0kg x 8 @ RPE 9 [target RPE: 75]
+  Set 1: 150.0kg x 1 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=113]
+  Set 2: 132.5kg x 8 @ RPE 8.5 [target RPE: 75] [est_stress=-, real_stress=688]
+  Set 3: 135.0kg x 8 @ RPE 8.5 [target RPE: 75] [est_stress=-, real_stress=728]
+  Set 4: 135.0kg x 8 @ RPE 9 [target RPE: 75] [est_stress=-, real_stress=794]
 
 ### Bench Press (Paused)
 
-  Set 1: 120.0kg x 1 @ RPE 8.5 [target RPE: 85]
-  Set 2: 102.5kg x 8 @ RPE 10 [target: 10 reps, target RPE: 75]
-  Set 3: 100.0kg x 7 @ RPE 9.5 [target: 10 reps, target RPE: 75]
-  Set 4: 100.0kg x 7 @ RPE 10 [target: 10 reps, target RPE: 75]
+  Set 1: 120.0kg x 1 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=108]
+  Set 2: 102.5kg x 8 @ RPE 10 [target: 10 reps, target RPE: 75] [est_stress=-, real_stress=736]
+  Set 3: 100.0kg x 7 @ RPE 9.5 [target: 10 reps, target RPE: 75] [est_stress=-, real_stress=538]
+  Set 4: 100.0kg x 7 @ RPE 10 [target: 10 reps, target RPE: 75] [est_stress=-, real_stress=598]
 
 ### Squat (Smith Machine)
 
@@ -3024,22 +2875,22 @@ Finished: 2026-01-17 10:12:26
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 93]
-  Set 2: 182.5kg x 3 @ RPE 9.5 [target RPE: 87]
-  Set 3: 172.5kg x 3 @ RPE 9 [target RPE: 82]
-  Set 4: 172.5kg x 3 @ RPE 8.5 [target RPE: 82]
+  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 93] [est_stress=-, real_stress=117]
+  Set 2: 182.5kg x 3 @ RPE 9.5 [target RPE: 87] [est_stress=-, real_stress=615]
+  Set 3: 172.5kg x 3 @ RPE 9 [target RPE: 82] [est_stress=-, real_stress=462]
+  Set 4: 172.5kg x 3 @ RPE 8.5 [target RPE: 82] [est_stress=-, real_stress=423]
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 4 [target RPE: 75]
-  Set 2: 130.0kg x 4 [target RPE: 75]
-  Set 3: 130.0kg x 10 @ RPE 8.5 [target: 4 reps, target RPE: 75]
+  Set 1: 130.0kg x 4 [target RPE: 75] [est_stress=-, real_stress=-]
+  Set 2: 130.0kg x 4 [target RPE: 75] [est_stress=-, real_stress=-]
+  Set 3: 130.0kg x 10 @ RPE 8.5 [target: 4 reps, target RPE: 75] [est_stress=-, real_stress=812]
 
 ### Spoto Press
 
-  Set 1: 110.0kg x 5 @ RPE 8 [target RPE: 75]
-  Set 2: 110.0kg x 5 @ RPE 8.5 [target RPE: 75]
-  Set 3: 110.0kg x 5 @ RPE 9 [target RPE: 75]
+  Set 1: 110.0kg x 5 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=379]
+  Set 2: 110.0kg x 5 @ RPE 8.5 [target RPE: 75] [est_stress=-, real_stress=417]
+  Set 3: 110.0kg x 5 @ RPE 9 [target RPE: 75] [est_stress=-, real_stress=455]
 
 ### Leg Curl
 
@@ -3063,17 +2914,17 @@ Finished: 2026-01-15 09:49:26
 
 ### Bench Press (Barbell)
 
-  Set 1: 127.5kg x 1 @ RPE 8.5 [target RPE: 95]
-  Set 2: 122.5kg x 3 @ RPE 9.5 [target RPE: 91]
-  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 83]
-  Set 4: 115.0kg x 3 @ RPE 8.5 [target RPE: 83]
-  Set 5: 115.0kg x 5 @ RPE 10 [target: 3 reps, target RPE: 83]
+  Set 1: 127.5kg x 1 @ RPE 8.5 [target RPE: 95] [est_stress=-, real_stress=130]
+  Set 2: 122.5kg x 3 @ RPE 9.5 [target RPE: 91] [est_stress=-, real_stress=424]
+  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=286]
+  Set 4: 115.0kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=286]
+  Set 5: 115.0kg x 5 @ RPE 10 [target: 3 reps, target RPE: 83] [est_stress=-, real_stress=650]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 125.0kg x 8 @ RPE 8 [target: 5 reps, target RPE: 70]
-  Set 2: 125.0kg x 8 @ RPE 8 [target: 5 reps, target RPE: 70]
-  Set 3: 125.0kg x 8 @ RPE 8.5 [target: 5 reps, target RPE: 70]
+  Set 1: 125.0kg x 8 @ RPE 8 [target: 5 reps, target RPE: 70] [est_stress=-, real_stress=391]
+  Set 2: 125.0kg x 8 @ RPE 8 [target: 5 reps, target RPE: 70] [est_stress=-, real_stress=391]
+  Set 3: 125.0kg x 8 @ RPE 8.5 [target: 5 reps, target RPE: 70] [est_stress=-, real_stress=430]
 
 ### Pull-Up (Weighted)
 
@@ -3104,9 +2955,9 @@ Finished: 2026-01-14 10:33:10
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 135.0kg x 3 @ RPE 7.5 [target RPE: 78]
-  Set 2: 135.0kg x 3 @ RPE 8.5 [target RPE: 78]
-  Set 3: 135.0kg x 3 @ RPE 8.5 [target RPE: 78]
+  Set 1: 135.0kg x 3 @ RPE 7.5 [target RPE: 78] [est_stress=-, real_stress=223]
+  Set 2: 135.0kg x 3 @ RPE 8.5 [target RPE: 78] [est_stress=-, real_stress=273]
+  Set 3: 135.0kg x 3 @ RPE 8.5 [target RPE: 78] [est_stress=-, real_stress=273]
 
 ### Standing T Bar Row
 
@@ -3152,15 +3003,15 @@ Finished: 2026-01-13 09:58:20
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 2 @ RPE 7.5 [target RPE: 80]
-  Set 2: 175.0kg x 2 @ RPE 8.5 [target RPE: 80]
-  Set 3: 175.0kg x 1 @ RPE 7 [target: 2 reps, target RPE: 80]
+  Set 1: 170.0kg x 2 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=221]
+  Set 2: 175.0kg x 2 @ RPE 8.5 [target RPE: 80] [est_stress=-, real_stress=295]
+  Set 3: 175.0kg x 1 @ RPE 7 [target: 2 reps, target RPE: 80] [est_stress=-, real_stress=107]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 @ RPE 9.5 [target RPE: 9.5]
-  Set 2: 50.0kg x 6 @ RPE 10 [target RPE: 9.5]
-  Set 3: 50.0kg x 6 @ RPE 10 [target RPE: 9.5]
+  Set 1: 50.0kg x 6 @ RPE 9.5 [target RPE: 9.5] [est_stress=58, real_stress=58]
+  Set 2: 50.0kg x 6 @ RPE 10 [target RPE: 9.5] [est_stress=58, real_stress=64]
+  Set 3: 50.0kg x 6 @ RPE 10 [target RPE: 9.5] [est_stress=58, real_stress=64]
 
 ### Pull-Up (Weighted)
 
@@ -3191,15 +3042,15 @@ Finished: 2026-01-12 10:21:55
 
 ### Squat (Low Bar)
 
-  Set 2: 155.0kg x 3 @ RPE 9.5 [target RPE: 88]
-  Set 3: 142.5kg x 3 @ RPE 8.5 [target RPE: 83]
-  Set 4: 142.5kg x 3 @ RPE 8.5 [target RPE: 83]
+  Set 2: 155.0kg x 3 @ RPE 9.5 [target RPE: 88] [est_stress=-, real_stress=507]
+  Set 3: 142.5kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=321]
+  Set 4: 142.5kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=321]
 
 ### Bench Press (Paused)
 
-  Set 1: 110.0kg x 3 @ RPE 7.5 [target RPE: 75]
-  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 75]
-  Set 3: 115.0kg x 3 @ RPE 9.5 [target RPE: 75]
+  Set 1: 110.0kg x 3 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=205]
+  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 75] [est_stress=-, real_stress=286]
+  Set 3: 115.0kg x 3 @ RPE 9.5 [target RPE: 75] [est_stress=-, real_stress=351]
 
 ### Squat (Smith Machine)
 
@@ -3228,22 +3079,22 @@ Finished: 2026-01-10 10:23:39
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 [target RPE: 90]
-  Set 2: 170.0kg x 3 @ RPE 7 [target RPE: 85]
-  Set 3: 170.0kg x 3 @ RPE 7 [target RPE: 85]
-  Set 4: 170.0kg x 3 @ RPE 7 [target RPE: 85]
+  Set 1: 180.0kg x 1 [target RPE: 90] [est_stress=-, real_stress=-]
+  Set 2: 170.0kg x 3 @ RPE 7 [target RPE: 85] [est_stress=-, real_stress=295]
+  Set 3: 170.0kg x 3 @ RPE 7 [target RPE: 85] [est_stress=-, real_stress=295]
+  Set 4: 170.0kg x 3 @ RPE 7 [target RPE: 85] [est_stress=-, real_stress=295]
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 4 @ RPE 6.5 [target RPE: 75]
-  Set 2: 130.0kg x 4 @ RPE 6.5 [target RPE: 75]
-  Set 3: 130.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 75]
+  Set 1: 130.0kg x 4 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=214]
+  Set 2: 130.0kg x 4 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=214]
+  Set 3: 130.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 75] [est_stress=-, real_stress=268]
 
 ### Spoto Press
 
-  Set 1: 105.0kg x 5 @ RPE 6.5 [target RPE: 78]
-  Set 2: 110.0kg x 5 @ RPE 8.5 [target RPE: 78]
-  Set 3: 110.0kg x 5 @ RPE 8.5 [target RPE: 78]
+  Set 1: 105.0kg x 5 @ RPE 6.5 [target RPE: 78] [est_stress=-, real_stress=239]
+  Set 2: 110.0kg x 5 @ RPE 8.5 [target RPE: 78] [est_stress=-, real_stress=417]
+  Set 3: 110.0kg x 5 @ RPE 8.5 [target RPE: 78] [est_stress=-, real_stress=417]
 
 ### Leg Curl
 
@@ -3268,11 +3119,11 @@ Finished: 2026-01-08 11:55:00
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 9.5 [target RPE: 93]
-  Set 2: 117.5kg x 3 @ RPE 9 [target RPE: 86]
-  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 86]
-  Set 5: 115.0kg x 3 @ RPE 9.5 [target RPE: 86]
+  Set 1: 130.0kg x 1 @ RPE 9.5 [target RPE: 93] [est_stress=-, real_stress=169]
+  Set 2: 117.5kg x 3 @ RPE 9 [target RPE: 86] [est_stress=-, real_stress=333]
+  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=286]
+  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 86] [est_stress=-, real_stress=312]
+  Set 5: 115.0kg x 3 @ RPE 9.5 [target RPE: 86] [est_stress=-, real_stress=351]
 
 ### Pull-Up (Weighted)
 
@@ -3304,9 +3155,9 @@ Finished: 2026-01-07 10:32:35
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 135.0kg x 3 @ RPE 8 [target RPE: 78]
-  Set 2: 135.0kg x 3 @ RPE 8.5 [target RPE: 78]
-  Set 3: 135.0kg x 3 @ RPE 9 [target RPE: 78]
+  Set 1: 135.0kg x 3 @ RPE 8 [target RPE: 78] [est_stress=-, real_stress=248]
+  Set 2: 135.0kg x 3 @ RPE 8.5 [target RPE: 78] [est_stress=-, real_stress=273]
+  Set 3: 135.0kg x 3 @ RPE 9 [target RPE: 78] [est_stress=-, real_stress=298]
 
 ### Standing T Bar Row
 
@@ -3350,15 +3201,15 @@ Finished: 2026-01-06 10:14:40
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 3 [target RPE: 78]
-  Set 2: 165.0kg x 3 [target RPE: 78]
-  Set 3: 170.0kg x 3 @ RPE 7.5 [target RPE: 78]
+  Set 1: 160.0kg x 3 [target RPE: 78] [est_stress=-, real_stress=-]
+  Set 2: 165.0kg x 3 [target RPE: 78] [est_stress=-, real_stress=-]
+  Set 3: 170.0kg x 3 @ RPE 7.5 [target RPE: 78] [est_stress=-, real_stress=332]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 9.5 [target: 6 reps, target RPE: 9]
-  Set 2: 47.5kg x 6 @ RPE 9.5 [target RPE: 9]
-  Set 3: 47.5kg x 6 @ RPE 9.5 [target RPE: 9]
+  Set 1: 47.5kg x 7 @ RPE 9.5 [target: 6 reps, target RPE: 9] [est_stress=44, real_stress=58]
+  Set 2: 47.5kg x 6 @ RPE 9.5 [target RPE: 9] [est_stress=44, real_stress=49]
+  Set 3: 47.5kg x 6 @ RPE 9.5 [target RPE: 9] [est_stress=44, real_stress=49]
 
 ### Pull-Up (Weighted)
 
@@ -3390,16 +3241,16 @@ Finished: 2026-01-05 10:09:55
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 9.5 [target RPE: 93]
-  Set 2: 145.0kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 3: 145.0kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 4: 145.0kg x 3 @ RPE 9 [target RPE: 86]
+  Set 1: 160.0kg x 1 @ RPE 9.5 [target RPE: 93] [est_stress=-, real_stress=186]
+  Set 2: 145.0kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=338]
+  Set 3: 145.0kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=338]
+  Set 4: 145.0kg x 3 @ RPE 9 [target RPE: 86] [est_stress=-, real_stress=369]
 
 ### Bench Press (Paused)
 
-  Set 1: 110.0kg x 3 @ RPE 7.5 [target RPE: 78]
-  Set 2: 110.0kg x 3 @ RPE 8 [target RPE: 78]
-  Set 3: 110.0kg x 3 @ RPE 8.5 [target RPE: 78]
+  Set 1: 110.0kg x 3 @ RPE 7.5 [target RPE: 78] [est_stress=-, real_stress=205]
+  Set 2: 110.0kg x 3 @ RPE 8 [target RPE: 78] [est_stress=-, real_stress=227]
+  Set 3: 110.0kg x 3 @ RPE 8.5 [target RPE: 78] [est_stress=-, real_stress=250]
 
 ### Hack Squat
 
@@ -3429,23 +3280,23 @@ Finished: 2026-01-03 10:18:26
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 88]
-  Set 2: 190.0kg x 1 @ RPE 8.5 [target: 3 reps, target RPE: 82]
-  Set 3: 165.0kg x 3 @ RPE 6.5 [target RPE: 82]
-  Set 4: 165.0kg x 3 @ RPE 6.5 [target RPE: 82]
-  Set 5: 165.0kg x 3 @ RPE 7 [target RPE: 82]
+  Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 88] [est_stress=-, real_stress=117]
+  Set 2: 190.0kg x 1 @ RPE 8.5 [target: 3 reps, target RPE: 82] [est_stress=-, real_stress=189]
+  Set 3: 165.0kg x 3 @ RPE 6.5 [target RPE: 82] [est_stress=-, real_stress=244]
+  Set 4: 165.0kg x 3 @ RPE 6.5 [target RPE: 82] [est_stress=-, real_stress=244]
+  Set 5: 165.0kg x 3 @ RPE 7 [target RPE: 82] [est_stress=-, real_stress=270]
 
 ### Squat (Low Bar)
 
-  Set 1: 125.0kg x 4 @ RPE 6.5 [target RPE: 72]
-  Set 2: 125.0kg x 4 @ RPE 6 [target RPE: 72]
-  Set 3: 125.0kg x 4 [target RPE: 72]
+  Set 1: 125.0kg x 4 @ RPE 6.5 [target RPE: 72] [est_stress=-, real_stress=190]
+  Set 2: 125.0kg x 4 @ RPE 6 [target RPE: 72] [est_stress=-, real_stress=171]
+  Set 3: 125.0kg x 4 [target RPE: 72] [est_stress=-, real_stress=-]
 
 ### Spoto Press
 
-  Set 1: 102.5kg x 5 @ RPE 6 [target RPE: 75]
-  Set 2: 107.5kg x 5 @ RPE 7 [target RPE: 75]
-  Set 3: 110.0kg x 5 @ RPE 8 [target RPE: 75]
+  Set 1: 102.5kg x 5 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=199]
+  Set 2: 107.5kg x 5 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=283]
+  Set 3: 110.0kg x 5 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=379]
 
 ### Leg Curl
 
@@ -3469,18 +3320,18 @@ Finished: 2026-01-01 09:48:28
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 8 [target RPE: 90]
-  Set 2: 115.0kg x 3 @ RPE 8 [target RPE: 83]
-  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 83]
-  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 83]
-  Set 5: 115.0kg x 3 @ RPE 9 [target RPE: 83]
+  Set 1: 122.5kg x 1 @ RPE 8 [target RPE: 90] [est_stress=-, real_stress=105]
+  Set 2: 115.0kg x 3 @ RPE 8 [target RPE: 83] [est_stress=-, real_stress=260]
+  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=286]
+  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 83] [est_stress=-, real_stress=312]
+  Set 5: 115.0kg x 3 @ RPE 9 [target RPE: 83] [est_stress=-, real_stress=312]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 140.0kg x 3 @ RPE 9 [target: 5 reps, target RPE: 70]
-  Set 2: 120.0kg x 8 @ RPE 8 [target: 5 reps, target RPE: 70]
-  Set 3: 120.0kg x 8 @ RPE 8.5 [target: 5 reps, target RPE: 70]
-  Set 4: 120.0kg x 8 @ RPE 8.5 [target: 5 reps, target RPE: 70]
+  Set 1: 140.0kg x 3 @ RPE 9 [target: 5 reps, target RPE: 70] [est_stress=-, real_stress=247]
+  Set 2: 120.0kg x 8 @ RPE 8 [target: 5 reps, target RPE: 70] [est_stress=-, real_stress=346]
+  Set 3: 120.0kg x 8 @ RPE 8.5 [target: 5 reps, target RPE: 70] [est_stress=-, real_stress=380]
+  Set 4: 120.0kg x 8 @ RPE 8.5 [target: 5 reps, target RPE: 70] [est_stress=-, real_stress=380]
 
 ### Pull-Up (Weighted)
 
@@ -3511,9 +3362,9 @@ Finished: 2025-12-31 10:25:31
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 130.0kg x 3 @ RPE 8 [target RPE: 75]
-  Set 2: 130.0kg x 3 @ RPE 7.5 [target RPE: 75]
-  Set 3: 130.0kg x 3 @ RPE 8.5 [target RPE: 75]
+  Set 1: 130.0kg x 3 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=221]
+  Set 2: 130.0kg x 3 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=199]
+  Set 3: 130.0kg x 3 @ RPE 8.5 [target RPE: 75] [est_stress=-, real_stress=244]
 
 ### Standing T Bar Row
 
@@ -3559,15 +3410,15 @@ Finished: 2025-12-30 10:30:21
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 150.0kg x 3 [target RPE: 75]
-  Set 2: 155.0kg x 3 [target RPE: 75]
-  Set 3: 155.0kg x 3 [target RPE: 75]
+  Set 1: 150.0kg x 3 [target RPE: 75] [est_stress=-, real_stress=-]
+  Set 2: 155.0kg x 3 [target RPE: 75] [est_stress=-, real_stress=-]
+  Set 3: 155.0kg x 3 [target RPE: 75] [est_stress=-, real_stress=-]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 2: 47.5kg x 6 @ RPE 9 [target RPE: 8]
-  Set 3: 47.5kg x 6 @ RPE 9.5 [target RPE: 8]
+  Set 1: 47.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=37, real_stress=37]
+  Set 2: 47.5kg x 6 @ RPE 9 [target RPE: 8] [est_stress=37, real_stress=44]
+  Set 3: 47.5kg x 6 @ RPE 9.5 [target RPE: 8] [est_stress=37, real_stress=49]
 
 ### Standing T Bar Row
 
@@ -3603,16 +3454,16 @@ Finished: 2025-12-29 10:20:42
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 9.5 [target RPE: 90]
-  Set 2: 142.5kg x 3 @ RPE 8.5 [target RPE: 83]
-  Set 3: 142.5kg x 3 @ RPE 8.5 [target RPE: 83]
-  Set 4: 137.5kg x 3 @ RPE 8 [target RPE: 83]
+  Set 1: 155.0kg x 1 @ RPE 9.5 [target RPE: 90] [est_stress=-, real_stress=169]
+  Set 2: 142.5kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=321]
+  Set 3: 142.5kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=321]
+  Set 4: 137.5kg x 3 @ RPE 8 [target RPE: 83] [est_stress=-, real_stress=262]
 
 ### Bench Press (Paused)
 
-  Set 1: 105.0kg x 3 @ RPE 6.5 [target RPE: 75]
-  Set 2: 105.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 3: 105.0kg x 3 @ RPE 7 [target RPE: 75]
+  Set 1: 105.0kg x 3 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=143]
+  Set 2: 105.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=158]
+  Set 3: 105.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=158]
 
 ### Squat (Smith Machine)
 
@@ -3641,22 +3492,22 @@ Finished: 2025-12-27 10:19:11
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 8.5 [target RPE: 90]
-  Set 2: 162.5kg x 5 @ RPE 6.5 [target RPE: 81]
-  Set 3: 160.0kg x 5 @ RPE 6.5 [target RPE: 75]
-  Set 4: 160.0kg x 5 @ RPE 6 [target RPE: 75]
+  Set 1: 180.0kg x 1 @ RPE 8.5 [target RPE: 90] [est_stress=-, real_stress=160]
+  Set 2: 162.5kg x 5 @ RPE 6.5 [target RPE: 81] [est_stress=-, real_stress=389]
+  Set 3: 160.0kg x 5 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=371]
+  Set 4: 160.0kg x 5 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=333]
 
 ### Squat (Low Bar)
 
-  Set 1: 122.5kg x 5 @ RPE 6 [target RPE: 70]
-  Set 2: 127.5kg x 5 @ RPE 6.5 [target RPE: 70]
-  Set 3: 130.0kg x 5 @ RPE 6.5 [target RPE: 70]
+  Set 1: 122.5kg x 5 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=201]
+  Set 2: 127.5kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=252]
+  Set 3: 130.0kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=268]
 
 ### Spoto Press
 
-  Set 1: 100.0kg x 6 @ RPE 6.5 [target RPE: 72]
-  Set 2: 100.0kg x 6 @ RPE 7.5 [target RPE: 72]
-  Set 3: 100.0kg x 6 @ RPE 7 [target RPE: 72]
+  Set 1: 100.0kg x 6 @ RPE 6.5 [target RPE: 72] [est_stress=-, real_stress=248]
+  Set 2: 100.0kg x 6 @ RPE 7.5 [target RPE: 72] [est_stress=-, real_stress=308]
+  Set 3: 100.0kg x 6 @ RPE 7 [target RPE: 72] [est_stress=-, real_stress=273]
 
 ### Lying Leg Curl
 
@@ -3686,17 +3537,17 @@ Finished: 2025-12-24 09:48:58
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.0kg x 1 @ RPE 9 [target RPE: 91]
-  Set 2: 115.0kg x 4 @ RPE 9.5 [target: 5 reps, target RPE: 83]
-  Set 3: 105.0kg x 5 @ RPE 8.5 [target RPE: 75]
-  Set 4: 102.0kg x 5 @ RPE 7.5 [target RPE: 75]
-  Set 5: 102.0kg x 5 @ RPE 8 [target RPE: 75]
+  Set 1: 122.0kg x 1 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=124]
+  Set 2: 115.0kg x 4 @ RPE 9.5 [target: 5 reps, target RPE: 83] [est_stress=-, real_stress=468]
+  Set 3: 105.0kg x 5 @ RPE 8.5 [target RPE: 75] [est_stress=-, real_stress=363]
+  Set 4: 102.0kg x 5 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=272]
+  Set 5: 102.0kg x 5 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=302]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 122.5kg x 4 @ RPE 7 [target: 6 reps, target RPE: 65]
-  Set 2: 122.5kg x 4 @ RPE 6.5 [target: 6 reps, target RPE: 65]
-  Set 3: 122.5kg x 4 @ RPE 6.5 [target: 6 reps, target RPE: 65]
+  Set 1: 122.5kg x 4 @ RPE 7 [target: 6 reps, target RPE: 65] [est_stress=-, real_stress=198]
+  Set 2: 122.5kg x 4 @ RPE 6.5 [target: 6 reps, target RPE: 65] [est_stress=-, real_stress=179]
+  Set 3: 122.5kg x 4 @ RPE 6.5 [target: 6 reps, target RPE: 65] [est_stress=-, real_stress=179]
 
 ### Pull-Up (Weighted)
 
@@ -3727,15 +3578,15 @@ Finished: 2025-12-22 18:53:06
 
 ### Block Pull (Barbell)
 
-  Set 1: 155.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 2: 165.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 3: 165.0kg x 3 @ RPE 7 [target RPE: 75]
+  Set 1: 155.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=182]
+  Set 2: 165.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=270]
+  Set 3: 165.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=270]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 7 @ RPE 8 [target: 6 reps, target RPE: 9]
-  Set 2: 45.0kg x 6 @ RPE 8.5 [target RPE: 9]
-  Set 3: 45.0kg x 7 @ RPE 9.5 [target: 6 reps, target RPE: 9]
+  Set 1: 45.0kg x 7 @ RPE 8 [target: 6 reps, target RPE: 9] [est_stress=37, real_stress=36]
+  Set 2: 45.0kg x 6 @ RPE 8.5 [target RPE: 9] [est_stress=37, real_stress=34]
+  Set 3: 45.0kg x 7 @ RPE 9.5 [target: 6 reps, target RPE: 9] [est_stress=37, real_stress=49]
 
 ### Pull-Up (Weighted)
 
@@ -3766,17 +3617,17 @@ Finished: 2025-12-21 10:14:05
 
 ### Squat (Low Bar)
 
-  Set 1: 157.5kg x 1 @ RPE 9 [target RPE: 91]
-  Set 2: 142.5kg x 5 @ RPE 9 [target RPE: 82]
-  Set 3: 130.0kg x 5 @ RPE 6 [target RPE: 75]
-  Set 4: 130.0kg x 5 @ RPE 6.5 [target RPE: 75]
-  Set 5: 130.0kg x 5 @ RPE 7.5 [target RPE: 75]
+  Set 1: 157.5kg x 1 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=158]
+  Set 2: 142.5kg x 5 @ RPE 9 [target RPE: 82] [est_stress=-, real_stress=583]
+  Set 3: 130.0kg x 5 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=240]
+  Set 4: 130.0kg x 5 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=268]
+  Set 5: 130.0kg x 5 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=332]
 
 ### Bench Press (Paused)
 
-  Set 1: 102.5kg x 5 @ RPE 7 [target RPE: 75]
-  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 75]
-  Set 3: 102.5kg x 5 @ RPE 8 [target RPE: 75]
+  Set 1: 102.5kg x 5 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=245]
+  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=276]
+  Set 3: 102.5kg x 5 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=307]
 
 ### Bulgarian Split Squat (Dumbbell)
 
@@ -3807,22 +3658,22 @@ Finished: 2025-12-20 10:14:33
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 177.5kg x 1 @ RPE 8 [target RPE: 88]
-  Set 2: 152.5kg x 5 @ RPE 6.5 [target RPE: 76]
-  Set 3: 152.5kg x 5 @ RPE 7 [target RPE: 76]
-  Set 4: 152.5kg x 5 @ RPE 7 [target RPE: 76]
+  Set 1: 177.5kg x 1 @ RPE 8 [target RPE: 88] [est_stress=-, real_stress=140]
+  Set 2: 152.5kg x 5 @ RPE 6.5 [target RPE: 76] [est_stress=-, real_stress=321]
+  Set 3: 152.5kg x 5 @ RPE 7 [target RPE: 76] [est_stress=-, real_stress=355]
+  Set 4: 152.5kg x 5 @ RPE 7 [target RPE: 76] [est_stress=-, real_stress=355]
 
 ### Squat (Low Bar)
 
-  Set 1: 117.5kg x 6 @ RPE 6.5 [target RPE: 68]
-  Set 2: 117.5kg x 6 @ RPE 6 [target RPE: 68]
-  Set 3: 117.5kg x 6 @ RPE 6 [target RPE: 68]
+  Set 1: 117.5kg x 6 @ RPE 6.5 [target RPE: 68] [est_stress=-, real_stress=237]
+  Set 2: 117.5kg x 6 @ RPE 6 [target RPE: 68] [est_stress=-, real_stress=213]
+  Set 3: 117.5kg x 6 @ RPE 6 [target RPE: 68] [est_stress=-, real_stress=213]
 
 ### Spoto Press
 
-  Set 1: 100.0kg x 8 @ RPE 7 [target RPE: 70]
-  Set 2: 95.0kg x 8 @ RPE 7 [target RPE: 70]
-  Set 3: 95.0kg x 8 @ RPE 7 [target RPE: 70]
+  Set 1: 100.0kg x 8 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=365]
+  Set 2: 95.0kg x 8 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=313]
+  Set 3: 95.0kg x 8 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=313]
 
 ## 2025-12-18
 
@@ -3840,17 +3691,17 @@ Finished: 2025-12-18 09:55:48
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 89]
-  Set 2: 102.5kg x 5 @ RPE 6 [target RPE: 77]
-  Set 3: 102.5kg x 5 @ RPE 6 [target RPE: 77]
-  Set 4: 102.5kg x 5 @ RPE 6 [target RPE: 77]
-  Set 5: 102.5kg x 8 @ RPE 8.5 [target: 5 reps, target RPE: 77]
+  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 89] [est_stress=-, real_stress=98]
+  Set 2: 102.5kg x 5 @ RPE 6 [target RPE: 77] [est_stress=-, real_stress=199]
+  Set 3: 102.5kg x 5 @ RPE 6 [target RPE: 77] [est_stress=-, real_stress=199]
+  Set 4: 102.5kg x 5 @ RPE 6 [target RPE: 77] [est_stress=-, real_stress=199]
+  Set 5: 102.5kg x 8 @ RPE 8.5 [target: 5 reps, target RPE: 77] [est_stress=-, real_stress=540]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 8 @ RPE 8 [target RPE: 60]
-  Set 2: 120.0kg x 8 @ RPE 7.5 [target RPE: 60]
-  Set 3: 120.0kg x 8 @ RPE 9 [target RPE: 60]
+  Set 1: 120.0kg x 8 @ RPE 8 [target RPE: 60] [est_stress=-, real_stress=346]
+  Set 2: 120.0kg x 8 @ RPE 7.5 [target RPE: 60] [est_stress=-, real_stress=311]
+  Set 3: 120.0kg x 8 @ RPE 9 [target RPE: 60] [est_stress=-, real_stress=415]
 
 ### Pull-Up (Weighted)
 
@@ -3881,9 +3732,9 @@ Finished: 2025-12-17 10:03:51
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 117.5kg x 5 @ RPE 8 [target RPE: 68]
-  Set 2: 117.5kg x 5 @ RPE 8 [target RPE: 68]
-  Set 3: 117.5kg x 5 @ RPE 8 [target RPE: 68]
+  Set 1: 117.5kg x 5 @ RPE 8 [target RPE: 68] [est_stress=-, real_stress=273]
+  Set 2: 117.5kg x 5 @ RPE 8 [target RPE: 68] [est_stress=-, real_stress=273]
+  Set 3: 117.5kg x 5 @ RPE 8 [target RPE: 68] [est_stress=-, real_stress=273]
 
 ### Barbell Row
 
@@ -3920,15 +3771,15 @@ Finished: 2025-12-16 09:53:22
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 145.0kg x 4 @ RPE 7 [target RPE: 72]
-  Set 2: 145.0kg x 4 @ RPE 7 [target RPE: 72]
-  Set 3: 145.0kg x 4 @ RPE 7 [target RPE: 72]
+  Set 1: 145.0kg x 4 @ RPE 7 [target RPE: 72] [est_stress=-, real_stress=244]
+  Set 2: 145.0kg x 4 @ RPE 7 [target RPE: 72] [est_stress=-, real_stress=244]
+  Set 3: 145.0kg x 4 @ RPE 7 [target RPE: 72] [est_stress=-, real_stress=244]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 8 @ RPE 8.5 [target RPE: 8.5]
-  Set 2: 45.0kg x 8 @ RPE 9 [target RPE: 8.5]
-  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 8.5]
+  Set 1: 45.0kg x 8 @ RPE 8.5 [target RPE: 8.5] [est_stress=46, real_stress=46]
+  Set 2: 45.0kg x 8 @ RPE 9 [target RPE: 8.5] [est_stress=46, real_stress=50]
+  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 8.5] [est_stress=46, real_stress=62]
 
 ### Pull-Up (Weighted)
 
@@ -3960,17 +3811,17 @@ Finished: 2025-12-15 10:16:18
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 8 [target RPE: 89]
-  Set 2: 132.5kg x 5 @ RPE 8 [target RPE: 76]
-  Set 3: 132.5kg x 5 @ RPE 7.5 [target RPE: 76]
-  Set 4: 132.5kg x 5 @ RPE 8 [target RPE: 76]
+  Set 1: 155.0kg x 1 @ RPE 8 [target RPE: 89] [est_stress=-, real_stress=125]
+  Set 2: 132.5kg x 5 @ RPE 8 [target RPE: 76] [est_stress=-, real_stress=391]
+  Set 3: 132.5kg x 5 @ RPE 7.5 [target RPE: 76] [est_stress=-, real_stress=352]
+  Set 4: 132.5kg x 5 @ RPE 8 [target RPE: 76] [est_stress=-, real_stress=391]
 
 ### Bench Press (Paused)
 
-  Set 1: 97.5kg x 7 @ RPE 7.5 [target: 6 reps, target RPE: 72]
-  Set 2: 97.5kg x 6 @ RPE 7 [target RPE: 72]
-  Set 3: 97.5kg x 6 @ RPE 7.5 [target RPE: 72]
-  Set 4: 97.5kg x 6 @ RPE 7.5 [target RPE: 72]
+  Set 1: 97.5kg x 7 @ RPE 7.5 [target: 6 reps, target RPE: 72] [est_stress=-, real_stress=333]
+  Set 2: 97.5kg x 6 @ RPE 7 [target RPE: 72] [est_stress=-, real_stress=253]
+  Set 3: 97.5kg x 6 @ RPE 7.5 [target RPE: 72] [est_stress=-, real_stress=285]
+  Set 4: 97.5kg x 6 @ RPE 7.5 [target RPE: 72] [est_stress=-, real_stress=285]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -4000,24 +3851,24 @@ Finished: 2025-12-13 10:17:24
 
 ### Squat (Low Bar)
 
-  Set 1: 125.0kg x 3 [target RPE: 72.5]
-  Set 2: 120.0kg x 5 [target RPE: 67.5]
-  Set 3: 120.0kg x 5 [target RPE: 67.5]
-  Set 4: 120.0kg x 5 [target RPE: 67.5]
+  Set 1: 125.0kg x 3 [target RPE: 72.5] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 4: 120.0kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 75]
-  Set 2: 110.0kg x 4 @ RPE 7.5 [target RPE: 70]
-  Set 3: 110.0kg x 4 @ RPE 8 [target RPE: 70]
-  Set 4: 110.0kg x 4 @ RPE 8.5 [target RPE: 70]
+  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=69]
+  Set 2: 110.0kg x 4 @ RPE 7.5 [target RPE: 70] [est_stress=-, real_stress=273]
+  Set 3: 110.0kg x 4 @ RPE 8 [target RPE: 70] [est_stress=-, real_stress=303]
+  Set 4: 110.0kg x 4 @ RPE 8.5 [target RPE: 70] [est_stress=-, real_stress=334]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 140.0kg x 2 [target RPE: 67.5]
-  Set 2: 140.0kg x 2 [target RPE: 62.5]
-  Set 3: 140.0kg x 5 [target: 2 reps, target RPE: 62.5]
-  Set 4: 140.0kg x 9 [target: 2 reps, target RPE: 62.5]
+  Set 1: 140.0kg x 2 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 2: 140.0kg x 2 [target RPE: 62.5] [est_stress=-, real_stress=-]
+  Set 3: 140.0kg x 5 [target: 2 reps, target RPE: 62.5] [est_stress=-, real_stress=-]
+  Set 4: 140.0kg x 9 [target: 2 reps, target RPE: 62.5] [est_stress=-, real_stress=-]
 
 ### Leg Curl
 
@@ -4047,23 +3898,23 @@ Finished: 2025-12-11 09:21:10
 
 ### Bench Press (Paused)
 
-  Set 1: 92.5kg x 3 [target RPE: 67.5]
-  Set 2: 100.0kg x 3 [target RPE: 70]
-  Set 3: 105.0kg x 3 @ RPE 6.5 [target RPE: 72.5]
-  Set 4: 107.5kg x 3 @ RPE 7 [target RPE: 72.5]
+  Set 1: 92.5kg x 3 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 2: 100.0kg x 3 [target RPE: 70] [est_stress=-, real_stress=-]
+  Set 3: 105.0kg x 3 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=143]
+  Set 4: 107.5kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=170]
 
 ### Tempo Squat High Bar (Barbell)
 
-  Set 1: 110.0kg x 3 @ RPE 7.5 [target RPE: 62.5]
-  Set 2: 100.0kg x 3 [target RPE: 57.5]
-  Set 3: 100.0kg x 3 [target RPE: 57.5]
-  Set 4: 100.0kg x 3 [target RPE: 57.5]
+  Set 1: 110.0kg x 3 @ RPE 7.5 [target RPE: 62.5] [est_stress=-, real_stress=121]
+  Set 2: 100.0kg x 3 [target RPE: 57.5] [est_stress=-, real_stress=-]
+  Set 3: 100.0kg x 3 [target RPE: 57.5] [est_stress=-, real_stress=-]
+  Set 4: 100.0kg x 3 [target RPE: 57.5] [est_stress=-, real_stress=-]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 8 [target RPE: 60]
-  Set 2: 120.0kg x 8 [target RPE: 60]
-  Set 3: 120.0kg x 6 [target: 8 reps, target RPE: 60]
+  Set 1: 120.0kg x 8 [target RPE: 60] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 8 [target RPE: 60] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 6 [target: 8 reps, target RPE: 60] [est_stress=-, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -4094,23 +3945,23 @@ Finished: 2025-12-10 09:58:19
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 145.0kg x 3 [target RPE: 72.5]
-  Set 2: 135.0kg x 5 [target RPE: 67.5]
-  Set 3: 135.0kg x 5 [target RPE: 67.5]
-  Set 4: 135.0kg x 5 [target RPE: 67.5]
+  Set 1: 145.0kg x 3 [target RPE: 72.5] [est_stress=-, real_stress=-]
+  Set 2: 135.0kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 3: 135.0kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 4: 135.0kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
 
 ### Squat (Low Bar)
 
-  Set 1: 122.5kg x 5 [target RPE: 70]
-  Set 2: 112.5kg x 5 [target RPE: 65]
-  Set 3: 112.5kg x 5 [target RPE: 65]
-  Set 4: 112.5kg x 5 [target RPE: 65]
+  Set 1: 122.5kg x 5 [target RPE: 70] [est_stress=-, real_stress=-]
+  Set 2: 112.5kg x 5 [target RPE: 65] [est_stress=-, real_stress=-]
+  Set 3: 112.5kg x 5 [target RPE: 65] [est_stress=-, real_stress=-]
+  Set 4: 112.5kg x 5 [target RPE: 65] [est_stress=-, real_stress=-]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 40.0kg x 12 @ RPE 7.5 [target RPE: 7]
-  Set 2: 40.0kg x 12 @ RPE 9.5 [target RPE: 7]
-  Set 3: 40.0kg x 10 @ RPE 8.5 [target RPE: 7]
+  Set 1: 40.0kg x 12 @ RPE 7.5 [target RPE: 7] [est_stress=-, real_stress=39]
+  Set 2: 40.0kg x 12 @ RPE 9.5 [target RPE: 7] [est_stress=-, real_stress=59]
+  Set 3: 40.0kg x 10 @ RPE 8.5 [target RPE: 7] [est_stress=-, real_stress=40]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -4140,24 +3991,24 @@ Finished: 2025-12-09 09:34:20
 
 ### Bench Press (Barbell)
 
-  Set 1: 100.0kg x 4 [target RPE: 72.5]
-  Set 2: 92.5kg x 6 [target RPE: 67.5]
-  Set 3: 92.5kg x 6 [target RPE: 67.5]
-  Set 4: 92.5kg x 6 [target RPE: 67.5]
+  Set 1: 100.0kg x 4 [target RPE: 72.5] [est_stress=-, real_stress=-]
+  Set 2: 92.5kg x 6 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 3: 92.5kg x 6 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 4: 92.5kg x 6 [target RPE: 67.5] [est_stress=-, real_stress=-]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 140.0kg x 5 [target RPE: 70]
-  Set 2: 130.0kg x 5 [target RPE: 65]
-  Set 3: 130.0kg x 5 [target RPE: 65]
-  Set 4: 130.0kg x 5 [target RPE: 65]
+  Set 1: 140.0kg x 5 [target RPE: 70] [est_stress=-, real_stress=-]
+  Set 2: 130.0kg x 5 [target RPE: 65] [est_stress=-, real_stress=-]
+  Set 3: 130.0kg x 5 [target RPE: 65] [est_stress=-, real_stress=-]
+  Set 4: 130.0kg x 5 [target RPE: 65] [est_stress=-, real_stress=-]
 
 ### Squat (Paused)
 
-  Set 1: 117.5kg x 3 [target RPE: 67.5]
-  Set 2: 107.5kg x 3 [target RPE: 62.5]
-  Set 3: 107.5kg x 3 [target RPE: 62.5]
-  Set 4: 107.5kg x 3 [target RPE: 62.5]
+  Set 1: 117.5kg x 3 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 2: 107.5kg x 3 [target RPE: 62.5] [est_stress=-, real_stress=-]
+  Set 3: 107.5kg x 3 [target RPE: 62.5] [est_stress=-, real_stress=-]
+  Set 4: 107.5kg x 3 [target RPE: 62.5] [est_stress=-, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -4189,24 +4040,24 @@ Finished: 2025-12-08 09:52:51
 
 ### Squat (Low Bar)
 
-  Set 1: 125.0kg x 5 [target RPE: 72.5]
-  Set 2: 117.5kg x 5 [target RPE: 67.5]
-  Set 3: 117.5kg x 5 [target RPE: 67.5]
-  Set 4: 117.5kg x 5 [target RPE: 67.5]
+  Set 1: 125.0kg x 5 [target RPE: 72.5] [est_stress=-, real_stress=-]
+  Set 2: 117.5kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 3: 117.5kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 4: 117.5kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
 
 ### Bench Press (Barbell)
 
-  Set 1: 90.0kg x 5 [target RPE: 65]
-  Set 2: 92.5kg x 5 [target RPE: 67.5]
-  Set 3: 95.0kg x 5 [target RPE: 70]
-  Set 4: 98.0kg x 5 [target RPE: 72.5]
+  Set 1: 90.0kg x 5 [target RPE: 65] [est_stress=-, real_stress=-]
+  Set 2: 92.5kg x 5 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 3: 95.0kg x 5 [target RPE: 70] [est_stress=-, real_stress=-]
+  Set 4: 98.0kg x 5 [target RPE: 72.5] [est_stress=-, real_stress=-]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 135.0kg x 3 [target RPE: 67.5]
-  Set 2: 125.0kg x 3 [target RPE: 62.5]
-  Set 3: 125.0kg x 3 [target RPE: 62.5]
-  Set 4: 125.0kg x 3 [target RPE: 62.5]
+  Set 1: 135.0kg x 3 [target RPE: 67.5] [est_stress=-, real_stress=-]
+  Set 2: 125.0kg x 3 [target RPE: 62.5] [est_stress=-, real_stress=-]
+  Set 3: 125.0kg x 3 [target RPE: 62.5] [est_stress=-, real_stress=-]
+  Set 4: 125.0kg x 3 [target RPE: 62.5] [est_stress=-, real_stress=-]
 
 ### Leg Extension
 
@@ -4238,15 +4089,15 @@ Finished: 2025-12-05 12:20:19
 
 ### Squat (Low Bar)
 
-  Set 1: 125.0kg x 12 @ RPE 9
+  Set 1: 125.0kg x 12 @ RPE 9 [est_stress=-, real_stress=945]
 
 ### Bench Press (Barbell)
 
-  Set 1: 105.0kg x 10
+  Set 1: 105.0kg x 10 [est_stress=-, real_stress=-]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 140.0kg x 11
+  Set 1: 140.0kg x 11 [est_stress=-, real_stress=-]
 
 ## 2025-12-04
 
@@ -4263,17 +4114,17 @@ Finished: 2025-12-04 10:16:27
 
 ### Squat (Low Bar)
 
-  Set 1: 157.5kg x 1 @ RPE 8
-  Set 2: 167.5kg x 1 @ RPE 9.5
+  Set 1: 157.5kg x 1 @ RPE 8 [est_stress=-, real_stress=131]
+  Set 2: 167.5kg x 1 @ RPE 9.5 [est_stress=-, real_stress=213]
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 8
-  Set 2: 130.0kg x 1 @ RPE 9.5
+  Set 1: 122.5kg x 1 @ RPE 8 [est_stress=-, real_stress=105]
+  Set 2: 130.0kg x 1 @ RPE 9.5 [est_stress=-, real_stress=169]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 8.5
+  Set 1: 185.0kg x 1 @ RPE 8.5 [est_stress=-, real_stress=174]
 
 ## 2025-12-01
 
@@ -4291,15 +4142,15 @@ Finished: 2025-12-01 10:08:50
 
 ### Squat (Low Bar)
 
-  Set 1: 120.0kg x 2 [target RPE: 70]
-  Set 2: 120.0kg x 2 [target RPE: 70]
-  Set 3: 120.0kg x 2 [target RPE: 70]
+  Set 1: 120.0kg x 2 [target RPE: 70] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 2 [target RPE: 70] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 2 [target RPE: 70] [est_stress=-, real_stress=-]
 
 ### Bench Press (Barbell)
 
-  Set 1: 95.0kg x 2 [target RPE: 70]
-  Set 2: 95.0kg x 2 [target RPE: 70]
-  Set 3: 95.0kg x 2 [target RPE: 70]
+  Set 1: 95.0kg x 2 [target RPE: 70] [est_stress=-, real_stress=-]
+  Set 2: 95.0kg x 2 [target RPE: 70] [est_stress=-, real_stress=-]
+  Set 3: 95.0kg x 2 [target RPE: 70] [est_stress=-, real_stress=-]
 
 ## 2025-11-29
 
@@ -4316,17 +4167,17 @@ Finished: 2025-11-29 11:24:30
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 1 @ RPE 6 [target RPE: 85]
+  Set 1: 147.5kg x 1 @ RPE 6 [target RPE: 85] [est_stress=-, real_stress=70]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 1 @ RPE 6 [target RPE: 85]
+  Set 1: 112.5kg x 1 @ RPE 6 [target RPE: 85] [est_stress=-, real_stress=53]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 140.0kg x 1 @ RPE 6 [target RPE: 70]
-  Set 2: 140.0kg x 1 @ RPE 6 [target RPE: 70]
-  Set 3: 140.0kg x 1 @ RPE 6 [target RPE: 70]
+  Set 1: 140.0kg x 1 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=45]
+  Set 2: 140.0kg x 1 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=45]
+  Set 3: 140.0kg x 1 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=45]
 
 ## 2025-11-27
 
@@ -4343,15 +4194,15 @@ Finished: 2025-11-27 10:02:52
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 147.5kg x 1 @ RPE 9 [target RPE: 85]
-  Set 2: 130.0kg x 2 @ RPE 7.5 [target RPE: 75]
-  Set 3: 130.0kg x 2 @ RPE 7.5 [target RPE: 75]
+  Set 1: 147.5kg x 1 @ RPE 9 [target RPE: 85] [est_stress=-, real_stress=129]
+  Set 2: 130.0kg x 2 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=133]
+  Set 3: 130.0kg x 2 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=133]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 8 @ RPE 8.5 [target RPE: 60]
-  Set 2: 120.0kg x 8 @ RPE 8.5 [target RPE: 60]
-  Set 3: 120.0kg x 8 @ RPE 9 [target RPE: 60]
+  Set 1: 120.0kg x 8 @ RPE 8.5 [target RPE: 60] [est_stress=-, real_stress=380]
+  Set 2: 120.0kg x 8 @ RPE 8.5 [target RPE: 60] [est_stress=-, real_stress=380]
+  Set 3: 120.0kg x 8 @ RPE 9 [target RPE: 60] [est_stress=-, real_stress=415]
 
 ### Pull-Up (Weighted)
 
@@ -4381,20 +4232,20 @@ Finished: 2025-11-26 10:09:26
 
 ### Bench Press (Paused)
 
-  Set 1: 120.0kg x 1 @ RPE 9 [target RPE: 90]
-  Set 2: 110.0kg x 2 @ RPE 8 [target RPE: 80]
-  Set 3: 110.0kg x 2 @ RPE 8 [target RPE: 80]
+  Set 1: 120.0kg x 1 @ RPE 9 [target RPE: 90] [est_stress=-, real_stress=118]
+  Set 2: 110.0kg x 2 @ RPE 8 [target RPE: 80] [est_stress=-, real_stress=152]
+  Set 3: 110.0kg x 2 @ RPE 8 [target RPE: 80] [est_stress=-, real_stress=152]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 150.0kg x 1 [target RPE: 85]
-  Set 2: 150.0kg x 1 [target: 2 reps, target RPE: 75]
-  Set 3: 150.0kg x 1 [target: 2 reps, target RPE: 75]
-  Set 4: 150.0kg x 1 [target: 2 reps, target RPE: 75]
-  Set 5: 150.0kg x 1 [target: 2 reps, target RPE: 75]
-  Set 6: 160.0kg x 1 [target: 2 reps, target RPE: 75]
-  Set 7: 130.0kg x 3 [target: 2 reps, target RPE: 75]
-  Set 8: 130.0kg x 5 [target: 2 reps, target RPE: 75]
+  Set 1: 150.0kg x 1 [target RPE: 85] [est_stress=-, real_stress=-]
+  Set 2: 150.0kg x 1 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=-]
+  Set 3: 150.0kg x 1 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=-]
+  Set 4: 150.0kg x 1 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=-]
+  Set 5: 150.0kg x 1 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=-]
+  Set 6: 160.0kg x 1 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=-]
+  Set 7: 130.0kg x 3 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=-]
+  Set 8: 130.0kg x 5 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=-]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -4425,16 +4276,16 @@ Finished: 2025-11-25 09:03:18
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 190.0kg x 1 @ RPE 9.5 [target RPE: 95.5]
-  Set 2: 177.5kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 89.2]
-  Set 3: 177.5kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 89.2]
-  Set 4: 120.0kg x 5 @ RPE 7 [target: 2 reps, target RPE: 89.2]
+  Set 1: 190.0kg x 1 @ RPE 9.5 [target RPE: 95.5] [est_stress=-, real_stress=231]
+  Set 2: 177.5kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 89.2] [est_stress=-, real_stress=189]
+  Set 3: 177.5kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 89.2] [est_stress=-, real_stress=189]
+  Set 4: 120.0kg x 5 @ RPE 7 [target: 2 reps, target RPE: 89.2] [est_stress=-, real_stress=173]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 5 [target RPE: 9]
-  Set 2: 50.0kg x 5 [target RPE: 9]
-  Set 3: 47.5kg x 6 [target RPE: 9]
+  Set 1: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
+  Set 2: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
+  Set 3: 47.5kg x 6 [target RPE: 9] [est_stress=44, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -4465,16 +4316,16 @@ Finished: 2025-11-24 09:41:24
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 9.5 [target RPE: 97.8]
-  Set 2: 120.0kg x 2 @ RPE 8.5 [target RPE: 89.2]
-  Set 3: 120.0kg x 3 @ RPE 9.5 [target: 2 reps, target RPE: 89.2]
+  Set 1: 130.0kg x 1 @ RPE 9.5 [target RPE: 97.8] [est_stress=-, real_stress=169]
+  Set 2: 120.0kg x 2 @ RPE 8.5 [target RPE: 89.2] [est_stress=-, real_stress=217]
+  Set 3: 120.0kg x 3 @ RPE 9.5 [target: 2 reps, target RPE: 89.2] [est_stress=-, real_stress=399]
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 2 @ RPE 9 [target RPE: 89.2]
-  Set 2: 140.0kg x 4 @ RPE 8 [target RPE: 81.1]
-  Set 3: 140.0kg x 4 @ RPE 7.5 [target RPE: 81.1]
-  Set 4: 140.0kg x 4 @ RPE 7.5 [target RPE: 81.1]
+  Set 1: 155.0kg x 2 @ RPE 9 [target RPE: 89.2] [est_stress=-, real_stress=300]
+  Set 2: 140.0kg x 4 @ RPE 8 [target RPE: 81.1] [est_stress=-, real_stress=369]
+  Set 3: 140.0kg x 4 @ RPE 7.5 [target RPE: 81.1] [est_stress=-, real_stress=332]
+  Set 4: 140.0kg x 4 @ RPE 7.5 [target RPE: 81.1] [est_stress=-, real_stress=332]
 
 ### Overhead Tricep Extension (Cable)
 
@@ -4506,15 +4357,15 @@ Finished: 2025-11-22 10:12:38
 
 ### Squat (Low Bar)
 
-  Set 1: 165.0kg x 1 @ RPE 9.5 [target RPE: 95.5]
-  Set 2: 155.0kg x 2 @ RPE 9.5 [target RPE: 89.2]
-  Set 3: 155.0kg x 2 @ RPE 9 [target RPE: 89.2]
+  Set 1: 165.0kg x 1 @ RPE 9.5 [target RPE: 95.5] [est_stress=-, real_stress=204]
+  Set 2: 155.0kg x 2 @ RPE 9.5 [target RPE: 89.2] [est_stress=-, real_stress=338]
+  Set 3: 155.0kg x 2 @ RPE 9 [target RPE: 89.2] [est_stress=-, real_stress=300]
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 2 @ RPE 8 [target RPE: 87.5]
-  Set 2: 112.5kg x 4 @ RPE 8.5 [target RPE: 83.7]
-  Set 3: 112.5kg x 5 @ RPE 8.5 [target: 4 reps, target RPE: 83.7]
+  Set 1: 120.0kg x 2 @ RPE 8 [target RPE: 87.5] [est_stress=-, real_stress=197]
+  Set 2: 112.5kg x 4 @ RPE 8.5 [target RPE: 83.7] [est_stress=-, real_stress=357]
+  Set 3: 112.5kg x 5 @ RPE 8.5 [target: 4 reps, target RPE: 83.7] [est_stress=-, real_stress=446]
 
 ### Leg Curl
 
@@ -4546,16 +4397,16 @@ Finished: 2025-11-20 09:38:41
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 70]
-  Set 2: 125.0kg x 3 @ RPE 6.5 [target RPE: 72.5]
-  Set 3: 130.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 4: 135.0kg x 3 @ RPE 8 [target RPE: 77.5]
+  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=126]
+  Set 2: 125.0kg x 3 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=143]
+  Set 3: 130.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=177]
+  Set 4: 135.0kg x 3 @ RPE 8 [target RPE: 77.5] [est_stress=-, real_stress=248]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 115.0kg x 8 @ RPE 7 [target RPE: 57.5]
-  Set 2: 115.0kg x 8 @ RPE 7.5 [target RPE: 57.5]
-  Set 3: 115.0kg x 8 @ RPE 7.5 [target RPE: 57.5]
+  Set 1: 115.0kg x 8 @ RPE 7 [target RPE: 57.5] [est_stress=-, real_stress=243]
+  Set 2: 115.0kg x 8 @ RPE 7.5 [target RPE: 57.5] [est_stress=-, real_stress=274]
+  Set 3: 115.0kg x 8 @ RPE 7.5 [target RPE: 57.5] [est_stress=-, real_stress=274]
 
 ### Pull-Up (Weighted)
 
@@ -4585,17 +4436,17 @@ Finished: 2025-11-19 09:32:39
 
 ### Bench Press (Paused)
 
-  Set 1: 100.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 2: 105.0kg x 3 @ RPE 6.5 [target RPE: 80]
-  Set 3: 110.0kg x 3 @ RPE 8 [target RPE: 82.5]
-  Set 4: 112.5kg x 3 @ RPE 9 [target RPE: 85]
+  Set 1: 100.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=111]
+  Set 2: 105.0kg x 3 @ RPE 6.5 [target RPE: 80] [est_stress=-, real_stress=143]
+  Set 3: 110.0kg x 3 @ RPE 8 [target RPE: 82.5] [est_stress=-, real_stress=227]
+  Set 4: 112.5kg x 3 @ RPE 9 [target RPE: 85] [est_stress=-, real_stress=292]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 130.0kg x 3 @ RPE 6 [target RPE: 65]
-  Set 2: 140.0kg x 3 @ RPE 7 [target RPE: 70]
-  Set 3: 150.0kg x 3 @ RPE 7.5 [target RPE: 75]
-  Set 4: 155.0kg x 3 @ RPE 8.5 [target RPE: 77.5]
+  Set 1: 130.0kg x 3 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=107]
+  Set 2: 140.0kg x 3 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=165]
+  Set 3: 150.0kg x 3 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=228]
+  Set 4: 155.0kg x 3 @ RPE 8.5 [target RPE: 77.5] [est_stress=-, real_stress=307]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -4626,16 +4477,16 @@ Finished: 2025-11-18 10:03:42
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 92.2]
-  Set 2: 172.5kg x 2 @ RPE 10 [target: 3 reps, target RPE: 86.3]
-  Set 3: 172.5kg x 2 @ RPE 10 [target: 3 reps, target RPE: 86.3]
-  Set 4: 172.5kg x 2 @ RPE 10 [target: 3 reps, target RPE: 86.3]
+  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 92.2] [est_stress=-, real_stress=190]
+  Set 2: 172.5kg x 2 @ RPE 10 [target: 3 reps, target RPE: 86.3] [est_stress=-, real_stress=385]
+  Set 3: 172.5kg x 2 @ RPE 10 [target: 3 reps, target RPE: 86.3] [est_stress=-, real_stress=385]
+  Set 4: 172.5kg x 2 @ RPE 10 [target: 3 reps, target RPE: 86.3] [est_stress=-, real_stress=385]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 @ RPE 9 [target RPE: 9]
-  Set 2: 50.0kg x 5 [target RPE: 9]
-  Set 3: 47.5kg x 6 [target RPE: 9]
+  Set 1: 50.0kg x 6 @ RPE 9 [target RPE: 9] [est_stress=51, real_stress=51]
+  Set 2: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
+  Set 3: 47.5kg x 6 [target RPE: 9] [est_stress=44, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -4666,17 +4517,17 @@ Finished: 2025-11-17 09:37:25
 
 ### Bench Press (Barbell)
 
-  Set 1: 127.5kg x 1 @ RPE 9 [target RPE: 95.5]
-  Set 2: 115.0kg x 3 @ RPE 8 [target RPE: 86.3]
-  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 86.3]
-  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 86.3]
+  Set 1: 127.5kg x 1 @ RPE 9 [target RPE: 95.5] [est_stress=-, real_stress=142]
+  Set 2: 115.0kg x 3 @ RPE 8 [target RPE: 86.3] [est_stress=-, real_stress=260]
+  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 86.3] [est_stress=-, real_stress=286]
+  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 86.3] [est_stress=-, real_stress=312]
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 9 [target RPE: 86]
-  Set 2: 145.0kg x 4 @ RPE 9 [target RPE: 83.7]
-  Set 3: 145.0kg x 4 @ RPE 9 [target RPE: 83.7]
-  Set 4: 145.0kg x 4 @ RPE 9.5 [target RPE: 83.7]
+  Set 1: 150.0kg x 2 @ RPE 9 [target RPE: 86] [est_stress=-, real_stress=272]
+  Set 2: 145.0kg x 4 @ RPE 9 [target RPE: 83.7] [est_stress=-, real_stress=492]
+  Set 3: 145.0kg x 4 @ RPE 9 [target RPE: 83.7] [est_stress=-, real_stress=492]
+  Set 4: 145.0kg x 4 @ RPE 9.5 [target RPE: 83.7] [est_stress=-, real_stress=553]
 
 ### Overhead Tricep Extension (Cable)
 
@@ -4708,17 +4559,17 @@ Finished: 2025-11-15 10:07:44
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 8.5 [target RPE: 92.2]
-  Set 2: 150.0kg x 3 @ RPE 9 [target RPE: 86.3]
-  Set 3: 150.0kg x 3 @ RPE 8 [target RPE: 86.3]
-  Set 4: 150.0kg x 3 @ RPE 8.5 [target RPE: 86.3]
+  Set 1: 160.0kg x 1 @ RPE 8.5 [target RPE: 92.2] [est_stress=-, real_stress=151]
+  Set 2: 150.0kg x 3 @ RPE 9 [target RPE: 86.3] [est_stress=-, real_stress=408]
+  Set 3: 150.0kg x 3 @ RPE 8 [target RPE: 86.3] [est_stress=-, real_stress=340]
+  Set 4: 150.0kg x 3 @ RPE 8.5 [target RPE: 86.3] [est_stress=-, real_stress=374]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 7 [target RPE: 86.3]
-  Set 2: 112.5kg x 4 @ RPE 8 [target RPE: 83.7]
-  Set 3: 112.5kg x 4 @ RPE 8.5 [target RPE: 83.7]
-  Set 4: 112.5kg x 4 @ RPE 9 [target RPE: 83.7]
+  Set 1: 115.0kg x 2 @ RPE 7 [target RPE: 86.3] [est_stress=-, real_stress=139]
+  Set 2: 112.5kg x 4 @ RPE 8 [target RPE: 83.7] [est_stress=-, real_stress=324]
+  Set 3: 112.5kg x 4 @ RPE 8.5 [target RPE: 83.7] [est_stress=-, real_stress=357]
+  Set 4: 112.5kg x 4 @ RPE 9 [target RPE: 83.7] [est_stress=-, real_stress=389]
 
 ### Leg Curl
 
@@ -4750,16 +4601,16 @@ Finished: 2025-11-13 09:45:07
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 67.5]
-  Set 2: 122.5kg x 3 @ RPE 7 [target RPE: 70]
-  Set 3: 125.0kg x 3 @ RPE 7 [target RPE: 72.5]
-  Set 4: 130.0kg x 3 @ RPE 7.5 [target RPE: 75]
+  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 67.5] [est_stress=-, real_stress=139]
+  Set 2: 122.5kg x 3 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=148]
+  Set 3: 125.0kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=158]
+  Set 4: 130.0kg x 3 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=199]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 110.0kg x 8 @ RPE 6 [target RPE: 55]
-  Set 2: 115.0kg x 8 @ RPE 7.5 [target RPE: 55]
-  Set 3: 115.0kg x 8 @ RPE 7.5 [target RPE: 55]
+  Set 1: 110.0kg x 8 @ RPE 6 [target RPE: 55] [est_stress=-, real_stress=173]
+  Set 2: 115.0kg x 8 @ RPE 7.5 [target RPE: 55] [est_stress=-, real_stress=274]
+  Set 3: 115.0kg x 8 @ RPE 7.5 [target RPE: 55] [est_stress=-, real_stress=274]
 
 ### Pull-Up (Weighted)
 
@@ -4789,18 +4640,18 @@ Finished: 2025-11-12 09:19:28
 
 ### Bench Press (Paused)
 
-  Set 1: 97.5kg x 3 @ RPE 6 [target RPE: 72.5]
-  Set 2: 102.5kg x 3 @ RPE 6 [target RPE: 77.5]
-  Set 3: 107.5kg x 3 @ RPE 7 [target RPE: 80]
-  Set 4: 110.0kg x 3 @ RPE 8 [target RPE: 82.5]
-  Set 5: 112.5kg x 3 @ RPE 9 [target RPE: 85]
+  Set 1: 97.5kg x 3 @ RPE 6 [target RPE: 72.5] [est_stress=-, real_stress=103]
+  Set 2: 102.5kg x 3 @ RPE 6 [target RPE: 77.5] [est_stress=-, real_stress=120]
+  Set 3: 107.5kg x 3 @ RPE 7 [target RPE: 80] [est_stress=-, real_stress=170]
+  Set 4: 110.0kg x 3 @ RPE 8 [target RPE: 82.5] [est_stress=-, real_stress=227]
+  Set 5: 112.5kg x 3 @ RPE 9 [target RPE: 85] [est_stress=-, real_stress=292]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 125.0kg x 3 @ RPE 6 [target RPE: 62.5]
-  Set 2: 135.0kg x 3 @ RPE 6 [target RPE: 67.5]
-  Set 3: 145.0kg x 3 @ RPE 6 [target RPE: 72.5]
-  Set 4: 150.0kg x 3 @ RPE 6 [target RPE: 75]
+  Set 1: 125.0kg x 3 @ RPE 6 [target RPE: 62.5] [est_stress=-, real_stress=95]
+  Set 2: 135.0kg x 3 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=120]
+  Set 3: 145.0kg x 3 @ RPE 6 [target RPE: 72.5] [est_stress=-, real_stress=149]
+  Set 4: 150.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=165]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -4831,15 +4682,15 @@ Finished: 2025-11-11 09:51:42
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 177.5kg x 1 @ RPE 8 [target RPE: 89.2]
-  Set 2: 167.5kg x 2 @ RPE 9 [target: 3 reps, target RPE: 83.7]
-  Set 3: 167.5kg x 3 @ RPE 9.5 [target RPE: 83.7]
-  Set 4: 167.5kg x 3 @ RPE 9.5 [target RPE: 83.7]
+  Set 1: 177.5kg x 1 @ RPE 8 [target RPE: 89.2] [est_stress=-, real_stress=140]
+  Set 2: 167.5kg x 2 @ RPE 9 [target: 3 reps, target RPE: 83.7] [est_stress=-, real_stress=282]
+  Set 3: 167.5kg x 3 @ RPE 9.5 [target RPE: 83.7] [est_stress=-, real_stress=476]
+  Set 4: 167.5kg x 3 @ RPE 9.5 [target RPE: 83.7] [est_stress=-, real_stress=476]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 5 [target RPE: 9]
-  Set 2: 50.0kg x 4 [target RPE: 9]
+  Set 1: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
+  Set 2: 50.0kg x 4 [target RPE: 9] [est_stress=34, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -4870,17 +4721,17 @@ Finished: 2025-11-09 08:38:18
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 92.2]
-  Set 2: 112.5kg x 4 @ RPE 8.5 [target RPE: 83.7]
-  Set 3: 112.5kg x 4 @ RPE 8.5 [target RPE: 83.7]
-  Set 4: 112.5kg x 4 @ RPE 9 [target RPE: 83.7]
+  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 92.2] [est_stress=-, real_stress=126]
+  Set 2: 112.5kg x 4 @ RPE 8.5 [target RPE: 83.7] [est_stress=-, real_stress=357]
+  Set 3: 112.5kg x 4 @ RPE 8.5 [target RPE: 83.7] [est_stress=-, real_stress=357]
+  Set 4: 112.5kg x 4 @ RPE 9 [target RPE: 83.7] [est_stress=-, real_stress=389]
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 @ RPE 8 [target RPE: 86]
-  Set 2: 140.0kg x 5 @ RPE 8 [target RPE: 81]
-  Set 3: 140.0kg x 5 @ RPE 8.5 [target RPE: 81]
-  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 81]
+  Set 1: 147.5kg x 3 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=324]
+  Set 2: 140.0kg x 5 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=461]
+  Set 3: 140.0kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=507]
+  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=461]
 
 ### Overhead Tricep Extension (Cable)
 
@@ -4912,17 +4763,17 @@ Finished: 2025-11-08 09:01:09
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 9 [target RPE: 89.2]
-  Set 2: 145.0kg x 4 @ RPE 7.5 [target RPE: 83.7]
-  Set 3: 145.0kg x 4 @ RPE 8 [target RPE: 83.7]
-  Set 4: 145.0kg x 4 @ RPE 8.5 [target RPE: 83.7]
+  Set 1: 155.0kg x 1 @ RPE 9 [target RPE: 89.2] [est_stress=-, real_stress=150]
+  Set 2: 145.0kg x 4 @ RPE 7.5 [target RPE: 83.7] [est_stress=-, real_stress=369]
+  Set 3: 145.0kg x 4 @ RPE 8 [target RPE: 83.7] [est_stress=-, real_stress=410]
+  Set 4: 145.0kg x 4 @ RPE 8.5 [target RPE: 83.7] [est_stress=-, real_stress=451]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 7 [target RPE: 83.7]
-  Set 2: 107.0kg x 5 @ RPE 7.5 [target RPE: 81.1]
-  Set 3: 107.0kg x 5 @ RPE 7.5 [target RPE: 81.1]
-  Set 4: 107.0kg x 5 @ RPE 7.5 [target RPE: 81.1]
+  Set 1: 112.5kg x 3 @ RPE 7 [target RPE: 83.7] [est_stress=-, real_stress=195]
+  Set 2: 107.0kg x 5 @ RPE 7.5 [target RPE: 81.1] [est_stress=-, real_stress=314]
+  Set 3: 107.0kg x 5 @ RPE 7.5 [target RPE: 81.1] [est_stress=-, real_stress=314]
+  Set 4: 107.0kg x 5 @ RPE 7.5 [target RPE: 81.1] [est_stress=-, real_stress=314]
 
 ### Leg Curl
 
@@ -4954,18 +4805,18 @@ Finished: 2025-11-06 08:44:50
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 105.0kg x 8 @ RPE 8 [target RPE: 52.5]
-  Set 2: 105.0kg x 8 @ RPE 7 [target RPE: 52.5]
-  Set 3: 105.0kg x 8 @ RPE 7 [target RPE: 52.5]
+  Set 1: 105.0kg x 8 @ RPE 8 [target RPE: 52.5] [est_stress=-, real_stress=232]
+  Set 2: 105.0kg x 8 @ RPE 7 [target RPE: 52.5] [est_stress=-, real_stress=185]
+  Set 3: 105.0kg x 8 @ RPE 7 [target RPE: 52.5] [est_stress=-, real_stress=185]
 
 ### Squat (Low Bar)
 
-  Set 1: 112.5kg x 3 @ RPE 6.5 [target RPE: 65]
-  Set 2: 122.5kg x 3 @ RPE 6 [target RPE: 70]
-  Set 3: 130.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 4: 135.0kg x 3 @ RPE 6.5 [target RPE: 77.5]
-  Set 5: 138.0kg x 3 @ RPE 7 [target RPE: 80]
-  Set 6: 147.5kg x 1 @ RPE 8 [target RPE: 85]
+  Set 1: 112.5kg x 3 @ RPE 6.5 [target RPE: 65] [est_stress=-, real_stress=104]
+  Set 2: 122.5kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=120]
+  Set 3: 130.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=144]
+  Set 4: 135.0kg x 3 @ RPE 6.5 [target RPE: 77.5] [est_stress=-, real_stress=180]
+  Set 5: 138.0kg x 3 @ RPE 7 [target RPE: 80] [est_stress=-, real_stress=212]
+  Set 6: 147.5kg x 1 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=108]
 
 ### Pull-Up (Weighted)
 
@@ -4995,18 +4846,18 @@ Finished: 2025-11-05 08:41:35
 
 ### Bench Press (Paused)
 
-  Set 1: 92.5kg x 3 @ RPE 6 [target RPE: 70]
-  Set 2: 100.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 3: 102.5kg x 3 @ RPE 6 [target RPE: 77.5]
-  Set 4: 107.5kg x 3 @ RPE 7 [target RPE: 80]
-  Set 5: 110.0kg x 3 @ RPE 8.5 [target RPE: 82.5]
+  Set 1: 92.5kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=88]
+  Set 2: 100.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=111]
+  Set 3: 102.5kg x 3 @ RPE 6 [target RPE: 77.5] [est_stress=-, real_stress=120]
+  Set 4: 107.5kg x 3 @ RPE 7 [target RPE: 80] [est_stress=-, real_stress=170]
+  Set 5: 110.0kg x 3 @ RPE 8.5 [target RPE: 82.5] [est_stress=-, real_stress=250]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 115.0kg x 3 @ RPE 6.5 [target RPE: 65]
-  Set 2: 117.5kg x 3 @ RPE 7 [target RPE: 67.5]
-  Set 3: 120.0kg x 3 @ RPE 7.5 [target RPE: 70]
-  Set 4: 125.0kg x 3 @ RPE 7.5 [target RPE: 72.5]
+  Set 1: 115.0kg x 3 @ RPE 6.5 [target RPE: 65] [est_stress=-, real_stress=111]
+  Set 2: 117.5kg x 3 @ RPE 7 [target RPE: 67.5] [est_stress=-, real_stress=131]
+  Set 3: 120.0kg x 3 @ RPE 7.5 [target RPE: 70] [est_stress=-, real_stress=157]
+  Set 4: 125.0kg x 3 @ RPE 7.5 [target RPE: 72.5] [est_stress=-, real_stress=177]
 
 ### Incline Curl (Dumbbell)
 
@@ -5037,16 +4888,16 @@ Finished: 2025-11-04 08:52:11
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 160.0kg x 3 @ RPE 7.5 [target RPE: 75]
-  Set 2: 145.0kg x 5 @ RPE 7 [target RPE: 67.5]
-  Set 3: 145.0kg x 5 @ RPE 6.5 [target RPE: 67.5]
-  Set 4: 145.0kg x 5 @ RPE 6 [target RPE: 67.5]
+  Set 1: 160.0kg x 3 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=276]
+  Set 2: 145.0kg x 5 @ RPE 7 [target RPE: 67.5] [est_stress=-, real_stress=305]
+  Set 3: 145.0kg x 5 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=276]
+  Set 4: 145.0kg x 5 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=248]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 [target RPE: 9]
-  Set 2: 50.0kg x 5 [target RPE: 9]
-  Set 3: 50.0kg x 5 [target RPE: 9]
+  Set 1: 50.0kg x 6 [target RPE: 9] [est_stress=51, real_stress=-]
+  Set 2: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
+  Set 3: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
 
 ### Pull-Up (Weighted)
 
@@ -5077,18 +4928,18 @@ Finished: 2025-11-03 08:23:50
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 4 @ RPE 7.5 [target RPE: 80]
-  Set 2: 102.5kg x 6 @ RPE 7 [target RPE: 72.5]
-  Set 3: 102.5kg x 6 @ RPE 7.5 [target RPE: 72.5]
-  Set 4: 102.5kg x 6 @ RPE 7.5 [target RPE: 72.5]
+  Set 1: 112.5kg x 4 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=292]
+  Set 2: 102.5kg x 6 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=294]
+  Set 3: 102.5kg x 6 @ RPE 7.5 [target RPE: 72.5] [est_stress=-, real_stress=331]
+  Set 4: 102.5kg x 6 @ RPE 7.5 [target RPE: 72.5] [est_stress=-, real_stress=331]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 122.5kg x 3 @ RPE 6 [target RPE: 60]
-  Set 2: 132.5kg x 3 @ RPE 6 [target RPE: 65]
-  Set 3: 142.5kg x 3 @ RPE 6.5 [target RPE: 70]
-  Set 4: 147.5kg x 3 @ RPE 6.5 [target RPE: 72.5]
-  Set 5: 150.0kg x 2 @ RPE 7 [target: 3 reps, target RPE: 72.5]
+  Set 1: 122.5kg x 3 @ RPE 6 [target RPE: 60] [est_stress=-, real_stress=90]
+  Set 2: 132.5kg x 3 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=113]
+  Set 3: 142.5kg x 3 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=157]
+  Set 4: 147.5kg x 3 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=174]
+  Set 5: 150.0kg x 2 @ RPE 7 [target: 3 reps, target RPE: 72.5] [est_stress=-, real_stress=135]
 
 ### Overhead Tricep Extension (Cable)
 
@@ -5121,18 +4972,18 @@ Finished: 2025-11-01 08:53:40
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 5 @ RPE 6.5 [target RPE: 75]
-  Set 2: 130.0kg x 5 @ RPE 6 [target RPE: 67.5]
-  Set 3: 130.0kg x 5 @ RPE 6.5 [target RPE: 67.5]
-  Set 4: 130.0kg x 5 @ RPE 6.5 [target RPE: 67.5]
+  Set 1: 135.0kg x 5 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=300]
+  Set 2: 130.0kg x 5 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=240]
+  Set 3: 130.0kg x 5 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=268]
+  Set 4: 130.0kg x 5 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=268]
 
 ### Bench Press (Barbell)
 
-  Set 1: 90.0kg x 5 @ RPE 6 [target RPE: 65]
-  Set 2: 97.5kg x 5 @ RPE 6 [target RPE: 70]
-  Set 3: 102.5kg x 5 @ RPE 6 [target RPE: 75]
-  Set 4: 107.5kg x 5 @ RPE 6.5 [target RPE: 77.5]
-  Set 5: 110.0kg x 6 @ RPE 8.5 [target: 5 reps, target RPE: 77.5]
+  Set 1: 90.0kg x 5 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=135]
+  Set 2: 97.5kg x 5 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=172]
+  Set 3: 102.5kg x 5 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=199]
+  Set 4: 107.5kg x 5 @ RPE 6.5 [target RPE: 77.5] [est_stress=-, real_stress=257]
+  Set 5: 110.0kg x 6 @ RPE 8.5 [target: 5 reps, target RPE: 77.5] [est_stress=-, real_stress=500]
 
 ### Leg Curl
 
@@ -5164,17 +5015,17 @@ Finished: 2025-10-30 08:57:17
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 9.5 [target RPE: 90]
+  Set 1: 160.0kg x 1 @ RPE 9.5 [target RPE: 90] [est_stress=-, real_stress=186]
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 9.5 [target RPE: 92]
-  Set 2: 112.5kg x 2 @ RPE 8 [target RPE: 77.5]
-  Set 3: 112.5kg x 2 @ RPE 7.5 [target RPE: 77.5]
+  Set 1: 130.0kg x 1 @ RPE 9.5 [target RPE: 92] [est_stress=-, real_stress=169]
+  Set 2: 112.5kg x 2 @ RPE 8 [target RPE: 77.5] [est_stress=-, real_stress=162]
+  Set 3: 112.5kg x 2 @ RPE 7.5 [target RPE: 77.5] [est_stress=-, real_stress=146]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 1 @ RPE 9 [target RPE: 85]
+  Set 1: 170.0kg x 1 @ RPE 9 [target RPE: 85] [est_stress=-, real_stress=147]
 
 ### Leg Curl
 
@@ -5205,19 +5056,19 @@ Finished: 2025-10-29 08:35:19
 
 ### Bench Press (Paused)
 
-  Set 1: 120.0kg x 1 @ RPE 9 [target RPE: 90]
-  Set 2: 112.5kg x 2 @ RPE 9.5 [target RPE: 75]
-  Set 3: 112.5kg x 2 @ RPE 9.5 [target RPE: 75]
+  Set 1: 120.0kg x 1 @ RPE 9 [target RPE: 90] [est_stress=-, real_stress=118]
+  Set 2: 112.5kg x 2 @ RPE 9.5 [target RPE: 75] [est_stress=-, real_stress=219]
+  Set 3: 112.5kg x 2 @ RPE 9.5 [target RPE: 75] [est_stress=-, real_stress=219]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 147.5kg x 1 @ RPE 9 [target RPE: 85]
+  Set 1: 147.5kg x 1 @ RPE 9 [target RPE: 85] [est_stress=-, real_stress=129]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 115.0kg x 6 @ RPE 7 [target RPE: 57.5]
-  Set 2: 115.0kg x 6 @ RPE 7 [target RPE: 57.5]
-  Set 3: 115.0kg x 6 @ RPE 8 [target RPE: 57.5]
+  Set 1: 115.0kg x 6 @ RPE 7 [target RPE: 57.5] [est_stress=-, real_stress=183]
+  Set 2: 115.0kg x 6 @ RPE 7 [target RPE: 57.5] [est_stress=-, real_stress=183]
+  Set 3: 115.0kg x 6 @ RPE 8 [target RPE: 57.5] [est_stress=-, real_stress=228]
 
 ### Pull-Up (Weighted)
 
@@ -5248,19 +5099,19 @@ Finished: 2025-10-28 09:05:11
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 92]
-  Set 2: 155.0kg x 2 @ RPE 7 [target RPE: 77.5]
-  Set 3: 155.0kg x 2 @ RPE 7 [target RPE: 77.5]
+  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 92] [est_stress=-, real_stress=190]
+  Set 2: 155.0kg x 2 @ RPE 7 [target RPE: 77.5] [est_stress=-, real_stress=149]
+  Set 3: 155.0kg x 2 @ RPE 7 [target RPE: 77.5] [est_stress=-, real_stress=149]
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 8.5 [target RPE: 90]
+  Set 1: 155.0kg x 1 @ RPE 8.5 [target RPE: 90] [est_stress=-, real_stress=138]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 5 [target RPE: 9]
-  Set 2: 50.0kg x 4 [target RPE: 9]
-  Set 3: 50.0kg x 5 [target RPE: 9]
+  Set 1: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
+  Set 2: 50.0kg x 4 [target RPE: 9] [est_stress=34, real_stress=-]
+  Set 3: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -5291,18 +5142,18 @@ Finished: 2025-10-27 08:29:28
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 8.5 [target RPE: 90]
-  Set 2: 125.0kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 75]
-  Set 3: 110.0kg x 2 @ RPE 8 [target RPE: 75]
-  Set 4: 110.0kg x 2 @ RPE 8 [target RPE: 75]
+  Set 1: 120.0kg x 1 @ RPE 8.5 [target RPE: 90] [est_stress=-, real_stress=108]
+  Set 2: 125.0kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=150]
+  Set 3: 110.0kg x 2 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=152]
+  Set 4: 110.0kg x 2 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=152]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 1 [target RPE: 90]
+  Set 1: 170.0kg x 1 [target RPE: 90] [est_stress=-, real_stress=-]
 
 ### Squat (Paused)
 
-  Set 1: 150.0kg x 1 @ RPE 9 [target RPE: 87]
+  Set 1: 150.0kg x 1 @ RPE 9 [target RPE: 87] [est_stress=-, real_stress=136]
 
 ### Pull-Up (Weighted)
 
@@ -5334,21 +5185,21 @@ Finished: 2025-10-26 09:34:56
 
 ### Squat (Low Bar)
 
-  Set 1: 70.0kg x 15
-  Set 2: 70.0kg x 15
-  Set 3: 70.0kg x 15
+  Set 1: 70.0kg x 15 [est_stress=-, real_stress=-]
+  Set 2: 70.0kg x 15 [est_stress=-, real_stress=-]
+  Set 3: 70.0kg x 15 [est_stress=-, real_stress=-]
 
 ### Bench Press (Barbell)
 
-  Set 1: 70.0kg x 20
-  Set 2: 70.0kg x 15
-  Set 3: 70.0kg x 15
+  Set 1: 70.0kg x 20 [est_stress=-, real_stress=-]
+  Set 2: 70.0kg x 15 [est_stress=-, real_stress=-]
+  Set 3: 70.0kg x 15 [est_stress=-, real_stress=-]
 
 ### Sumo Romanian Deadlift
 
-  Set 1: 70.0kg x 10
-  Set 2: 80.0kg x 8
-  Set 3: 80.0kg x 10
+  Set 1: 70.0kg x 10 [est_stress=-, real_stress=-]
+  Set 2: 80.0kg x 8 [est_stress=-, real_stress=-]
+  Set 3: 80.0kg x 10 [est_stress=-, real_stress=-]
 
 ### Standing Calf Raise
 
@@ -5379,19 +5230,19 @@ Finished: 2025-10-25 10:07:31
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 8 [target RPE: 90]
-  Set 2: 130.0kg x 3 @ RPE 6.5 [target: 2 reps, target RPE: 75]
-  Set 3: 130.0kg x 3 @ RPE 6.5 [target: 2 reps, target RPE: 75]
+  Set 1: 155.0kg x 1 @ RPE 8 [target RPE: 90] [est_stress=-, real_stress=125]
+  Set 2: 130.0kg x 3 @ RPE 6.5 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=161]
+  Set 3: 130.0kg x 3 @ RPE 6.5 [target: 2 reps, target RPE: 75] [est_stress=-, real_stress=161]
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 87.5]
-  Set 2: 105.0kg x 3 @ RPE 6.5 [target RPE: 72.5]
-  Set 3: 105.0kg x 3 @ RPE 6.5 [target RPE: 72.5]
+  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 87.5] [est_stress=-, real_stress=126]
+  Set 2: 105.0kg x 3 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=143]
+  Set 3: 105.0kg x 3 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=143]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 82.5]
+  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 82.5] [est_stress=-, real_stress=124]
 
 ### Leg Extension
 
@@ -5423,25 +5274,25 @@ Finished: 2025-10-24 07:44:37
 
 ### Squat (Low Bar)
 
-  Set 1: 122.5kg x 3 @ RPE 6 [target RPE: 70]
-  Set 2: 130.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 3: 137.5kg x 3 @ RPE 6.5 [target RPE: 80]
-  Set 4: 142.5kg x 3 @ RPE 7.5 [target RPE: 82.5]
-  Set 5: 147.5kg x 3 @ RPE 8 [target RPE: 85]
+  Set 1: 122.5kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=120]
+  Set 2: 130.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=144]
+  Set 3: 137.5kg x 3 @ RPE 6.5 [target RPE: 80] [est_stress=-, real_stress=190]
+  Set 4: 142.5kg x 3 @ RPE 7.5 [target RPE: 82.5] [est_stress=-, real_stress=263]
+  Set 5: 147.5kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=324]
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 87]
-  Set 2: 105.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 3: 105.0kg x 3 @ RPE 6.5 [target RPE: 75]
-  Set 4: 105.0kg x 3 @ RPE 6.5 [target RPE: 75]
+  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 87] [est_stress=-, real_stress=98]
+  Set 2: 105.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=158]
+  Set 3: 105.0kg x 3 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=143]
+  Set 4: 105.0kg x 3 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=143]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 140.0kg x 2 @ RPE 6 [target RPE: 70]
-  Set 2: 150.0kg x 2 @ RPE 7 [target RPE: 75]
-  Set 3: 155.0kg x 2 @ RPE 8 [target RPE: 77.5]
-  Set 4: 160.0kg x 2 @ RPE 8.5 [target RPE: 80]
+  Set 1: 140.0kg x 2 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=89]
+  Set 2: 150.0kg x 2 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=135]
+  Set 3: 155.0kg x 2 @ RPE 8 [target RPE: 77.5] [est_stress=-, real_stress=186]
+  Set 4: 160.0kg x 2 @ RPE 8.5 [target RPE: 80] [est_stress=-, real_stress=225]
 
 ### Leg Curl
 
@@ -5472,24 +5323,24 @@ Finished: 2025-10-23 07:31:57
 
 ### Bench Press (Paused)
 
-  Set 1: 95.0kg x 3 @ RPE 6 [target RPE: 70]
-  Set 2: 102.5kg x 3 @ RPE 6.5 [target RPE: 75]
-  Set 3: 105.0kg x 3 @ RPE 7 [target RPE: 77.5]
-  Set 4: 110.0kg x 3 @ RPE 7.5 [target RPE: 80]
-  Set 5: 112.5kg x 3 @ RPE 9 [target RPE: 82.5]
+  Set 1: 95.0kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=95]
+  Set 2: 102.5kg x 3 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=133]
+  Set 3: 105.0kg x 3 @ RPE 7 [target RPE: 77.5] [est_stress=-, real_stress=158]
+  Set 4: 110.0kg x 3 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=205]
+  Set 5: 112.5kg x 3 @ RPE 9 [target RPE: 82.5] [est_stress=-, real_stress=292]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 122.5kg x 3 @ RPE 7 [target RPE: 70]
-  Set 2: 125.0kg x 3 @ RPE 7 [target RPE: 72.5]
-  Set 3: 130.0kg x 3 @ RPE 7.5 [target RPE: 75]
-  Set 4: 135.0kg x 3 @ RPE 8.5 [target RPE: 77.5]
+  Set 1: 122.5kg x 3 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=148]
+  Set 2: 125.0kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=158]
+  Set 3: 130.0kg x 3 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=199]
+  Set 4: 135.0kg x 3 @ RPE 8.5 [target RPE: 77.5] [est_stress=-, real_stress=273]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 110.0kg x 8 @ RPE 7.5 [target RPE: 55]
-  Set 2: 110.0kg x 8 @ RPE 7.5 [target RPE: 55]
-  Set 3: 110.0kg x 8 @ RPE 8 [target RPE: 55]
+  Set 1: 110.0kg x 8 @ RPE 7.5 [target RPE: 55] [est_stress=-, real_stress=240]
+  Set 2: 110.0kg x 8 @ RPE 7.5 [target RPE: 55] [est_stress=-, real_stress=240]
+  Set 3: 110.0kg x 8 @ RPE 8 [target RPE: 55] [est_stress=-, real_stress=266]
 
 ### Pull-Up (Weighted)
 
@@ -5519,23 +5370,23 @@ Finished: 2025-10-20 14:30:17
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 2 @ RPE 8.5 [target RPE: 85]
-  Set 2: 145.0kg x 3 @ RPE 7 [target RPE: 72.5]
-  Set 3: 145.0kg x 3 @ RPE 7 [target RPE: 72.5]
-  Set 4: 145.0kg x 3 @ RPE 7 [target RPE: 72.5]
+  Set 1: 170.0kg x 2 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=270]
+  Set 2: 145.0kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=183]
+  Set 3: 145.0kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=183]
+  Set 4: 145.0kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=183]
 
 ### Squat (Low Bar)
 
-  Set 1: 112.5kg x 5 @ RPE 7 [target RPE: 65]
-  Set 2: 122.5kg x 5 @ RPE 7 [target RPE: 70]
-  Set 3: 130.0kg x 5 @ RPE 7 [target RPE: 75]
-  Set 4: 135.0kg x 5 @ RPE 7.5 [target RPE: 77.5]
+  Set 1: 112.5kg x 5 @ RPE 7 [target RPE: 65] [est_stress=-, real_stress=191]
+  Set 2: 122.5kg x 5 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=247]
+  Set 3: 130.0kg x 5 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=295]
+  Set 4: 135.0kg x 5 @ RPE 7.5 [target RPE: 77.5] [est_stress=-, real_stress=372]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 48.0kg x 8 [target RPE: 9]
-  Set 2: 48.0kg x 6 [target RPE: 9]
-  Set 3: 48.0kg x 6 [target RPE: 9]
+  Set 1: 48.0kg x 8 [target RPE: 9] [est_stress=60, real_stress=-]
+  Set 2: 48.0kg x 6 [target RPE: 9] [est_stress=45, real_stress=-]
+  Set 3: 48.0kg x 6 [target RPE: 9] [est_stress=45, real_stress=-]
 
 ### Hack Squat
 
@@ -5587,24 +5438,24 @@ Finished: 2025-10-19 16:20:13
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 2 @ RPE 8 [target RPE: 85]
-  Set 2: 105.0kg x 4 @ RPE 7 [target RPE: 72.5]
-  Set 3: 105.0kg x 4 @ RPE 6.5 [target RPE: 72.5]
-  Set 4: 105.0kg x 4 @ RPE 7 [target RPE: 72.5]
+  Set 1: 117.5kg x 2 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=185]
+  Set 2: 105.0kg x 4 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=211]
+  Set 3: 105.0kg x 4 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=191]
+  Set 4: 105.0kg x 4 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=211]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 130.0kg x 5 @ RPE 6.5 [target RPE: 65]
-  Set 2: 140.0kg x 5 @ RPE 6.5 [target RPE: 70]
-  Set 3: 150.0kg x 5 @ RPE 7 [target RPE: 75]
-  Set 4: 155.0kg x 5 @ RPE 7.5 [target RPE: 77.5]
+  Set 1: 130.0kg x 5 @ RPE 6.5 [target RPE: 65] [est_stress=-, real_stress=199]
+  Set 2: 140.0kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=249]
+  Set 3: 150.0kg x 5 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=338]
+  Set 4: 155.0kg x 5 @ RPE 7.5 [target RPE: 77.5] [est_stress=-, real_stress=419]
 
 ### Squat (Paused)
 
-  Set 1: 122.5kg x 3 @ RPE 7 [target RPE: 70]
-  Set 2: 125.0kg x 3 @ RPE 7 [target RPE: 72.5]
-  Set 3: 130.0kg x 3 @ RPE 7.5 [target RPE: 75]
-  Set 4: 135.0kg x 3 @ RPE 7.5 [target RPE: 77.5]
+  Set 1: 122.5kg x 3 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=148]
+  Set 2: 125.0kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=158]
+  Set 3: 130.0kg x 3 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=199]
+  Set 4: 135.0kg x 3 @ RPE 7.5 [target RPE: 77.5] [est_stress=-, real_stress=223]
 
 ### Pull-Up (Weighted)
 
@@ -5635,24 +5486,24 @@ Finished: 2025-10-18 16:47:29
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 [target RPE: 85]
-  Set 2: 125.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 72.5]
-  Set 3: 130.0kg x 4 @ RPE 7 [target RPE: 72.5]
-  Set 4: 130.0kg x 4 @ RPE 7 [target RPE: 72.5]
+  Set 1: 147.5kg x 3 [target RPE: 85] [est_stress=-, real_stress=-]
+  Set 2: 125.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 72.5] [est_stress=-, real_stress=238]
+  Set 3: 130.0kg x 4 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=236]
+  Set 4: 130.0kg x 4 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=236]
 
 ### Bench Press (Barbell)
 
-  Set 1: 90.0kg x 5 @ RPE 6 [target RPE: 65]
-  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 70]
-  Set 3: 105.0kg x 5 @ RPE 7 [target RPE: 75]
-  Set 4: 110.0kg x 5 @ RPE 7.5 [target RPE: 77.5]
+  Set 1: 90.0kg x 5 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=135]
+  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=185]
+  Set 3: 105.0kg x 5 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=264]
+  Set 4: 110.0kg x 5 @ RPE 7.5 [target RPE: 77.5] [est_stress=-, real_stress=341]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 130.0kg x 3 @ RPE 6 [target RPE: 65]
-  Set 2: 140.0kg x 3 @ RPE 6 [target RPE: 70]
-  Set 3: 150.0kg x 3 @ RPE 7 [target RPE: 75]
-  Set 4: 155.0kg x 3 @ RPE 8.5 [target RPE: 77.5]
+  Set 1: 130.0kg x 3 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=107]
+  Set 2: 140.0kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=134]
+  Set 3: 150.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=202]
+  Set 4: 155.0kg x 3 @ RPE 8.5 [target RPE: 77.5] [est_stress=-, real_stress=307]
 
 ### Leg Extension
 
@@ -5683,25 +5534,25 @@ Finished: 2025-10-16 14:18:05
 
 ### Squat (Low Bar)
 
-  Set 1: 117.5kg x 3 @ RPE 6 [target RPE: 67.5]
-  Set 2: 125.0kg x 3 @ RPE 6.5 [target RPE: 72]
-  Set 3: 135.0kg x 3 @ RPE 6.5 [target RPE: 77.5]
-  Set 4: 137.5kg x 3 @ RPE 7 [target RPE: 80]
-  Set 5: 142.5kg x 3 @ RPE 7.5 [target RPE: 82.5]
+  Set 1: 117.5kg x 3 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=106]
+  Set 2: 125.0kg x 3 @ RPE 6.5 [target RPE: 72] [est_stress=-, real_stress=143]
+  Set 3: 135.0kg x 3 @ RPE 6.5 [target RPE: 77.5] [est_stress=-, real_stress=180]
+  Set 4: 137.5kg x 3 @ RPE 7 [target RPE: 80] [est_stress=-, real_stress=210]
+  Set 5: 142.5kg x 3 @ RPE 7.5 [target RPE: 82.5] [est_stress=-, real_stress=263]
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 1 @ RPE 7 [target RPE: 85]
-  Set 2: 105.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 72.5]
-  Set 3: 105.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 72.5]
-  Set 4: 105.0kg x 5 @ RPE 7.5 [target: 4 reps, target RPE: 72.5]
+  Set 1: 117.5kg x 1 @ RPE 7 [target RPE: 85] [est_stress=-, real_stress=74]
+  Set 2: 105.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 72.5] [est_stress=-, real_stress=239]
+  Set 3: 105.0kg x 5 @ RPE 6.5 [target: 4 reps, target RPE: 72.5] [est_stress=-, real_stress=239]
+  Set 4: 105.0kg x 5 @ RPE 7.5 [target: 4 reps, target RPE: 72.5] [est_stress=-, real_stress=297]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 135.0kg x 2 @ RPE 6.5 [target RPE: 67.5]
-  Set 2: 145.0kg x 2 @ RPE 7 [target RPE: 72.5]
-  Set 3: 150.0kg x 2 @ RPE 7 [target RPE: 75]
-  Set 4: 155.0kg x 2 @ RPE 8 [target RPE: 77.5]
+  Set 1: 135.0kg x 2 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=89]
+  Set 2: 145.0kg x 2 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=122]
+  Set 3: 150.0kg x 2 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=135]
+  Set 4: 155.0kg x 2 @ RPE 8 [target RPE: 77.5] [est_stress=-, real_stress=186]
 
 ### Leg Curl
 
@@ -5744,24 +5595,24 @@ Finished: 2025-10-15 13:56:21
 
 ### Bench Press (Paused)
 
-  Set 1: 90.0kg x 3 @ RPE 6 [target RPE: 67.5]
-  Set 2: 100.0kg x 3 @ RPE 6 [target RPE: 72]
-  Set 3: 102.5kg x 3 @ RPE 6.5 [target RPE: 75]
-  Set 4: 105.0kg x 3 @ RPE 7 [target RPE: 77.5]
-  Set 5: 107.5kg x 3 @ RPE 7.5 [target RPE: 80]
+  Set 1: 90.0kg x 3 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=81]
+  Set 2: 100.0kg x 3 @ RPE 6 [target RPE: 72] [est_stress=-, real_stress=111]
+  Set 3: 102.5kg x 3 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=133]
+  Set 4: 105.0kg x 3 @ RPE 7 [target RPE: 77.5] [est_stress=-, real_stress=158]
+  Set 5: 107.5kg x 3 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=191]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 116.0kg x 3 @ RPE 7 [target RPE: 67.5]
-  Set 2: 121.0kg x 3 @ RPE 7.5 [target RPE: 70]
-  Set 3: 125.0kg x 3 @ RPE 7.5 [target RPE: 72.5]
-  Set 4: 130.0kg x 3 @ RPE 8 [target RPE: 75]
+  Set 1: 116.0kg x 3 @ RPE 7 [target RPE: 67.5] [est_stress=-, real_stress=126]
+  Set 2: 121.0kg x 3 @ RPE 7.5 [target RPE: 70] [est_stress=-, real_stress=161]
+  Set 3: 125.0kg x 3 @ RPE 7.5 [target RPE: 72.5] [est_stress=-, real_stress=177]
+  Set 4: 130.0kg x 3 @ RPE 8 [target RPE: 75] [est_stress=-, real_stress=221]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 105.0kg x 8 @ RPE 8 [target RPE: 52.5]
-  Set 2: 105.0kg x 8 @ RPE 8 [target RPE: 52.5]
-  Set 3: 105.0kg x 8 @ RPE 8 [target RPE: 52.5]
+  Set 1: 105.0kg x 8 @ RPE 8 [target RPE: 52.5] [est_stress=-, real_stress=232]
+  Set 2: 105.0kg x 8 @ RPE 8 [target RPE: 52.5] [est_stress=-, real_stress=232]
+  Set 3: 105.0kg x 8 @ RPE 8 [target RPE: 52.5] [est_stress=-, real_stress=232]
 
 ### Pull-Up (Weighted)
 
@@ -5790,23 +5641,23 @@ Finished: 2025-10-14 16:28:40
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 2 @ RPE 7.5 [target RPE: 80]
-  Set 2: 150.0kg x 4 @ RPE 6.5 [target RPE: 70]
-  Set 3: 150.0kg x 4 @ RPE 6.5 [target RPE: 70]
-  Set 4: 150.0kg x 4 @ RPE 7.5 [target RPE: 70]
+  Set 1: 170.0kg x 2 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=221]
+  Set 2: 150.0kg x 4 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=245]
+  Set 3: 150.0kg x 4 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=245]
+  Set 4: 150.0kg x 4 @ RPE 7.5 [target RPE: 70] [est_stress=-, real_stress=304]
 
 ### Squat (Low Bar)
 
-  Set 1: 120.0kg x 5 @ RPE 6.5 [target RPE: 62.5]
-  Set 2: 127.5kg x 5 @ RPE 6.5 [target RPE: 67.5]
-  Set 3: 130.0kg x 5 @ RPE 7 [target RPE: 72]
-  Set 4: 135.0kg x 5 @ RPE 7 [target RPE: 75]
+  Set 1: 120.0kg x 5 @ RPE 6.5 [target RPE: 62.5] [est_stress=-, real_stress=211]
+  Set 2: 127.5kg x 5 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=252]
+  Set 3: 130.0kg x 5 @ RPE 7 [target RPE: 72] [est_stress=-, real_stress=295]
+  Set 4: 135.0kg x 5 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=331]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 48.0kg x 7 [target RPE: 9]
-  Set 2: 48.0kg x 6 [target RPE: 9]
-  Set 3: 48.0kg x 6 [target RPE: 9]
+  Set 1: 48.0kg x 7 [target RPE: 9] [est_stress=53, real_stress=-]
+  Set 2: 48.0kg x 6 [target RPE: 9] [est_stress=45, real_stress=-]
+  Set 3: 48.0kg x 6 [target RPE: 9] [est_stress=45, real_stress=-]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -5833,24 +5684,24 @@ Finished: 2025-10-13 16:04:37
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 3 @ RPE 7.5 [target RPE: 80]
-  Set 2: 102.5kg x 5 @ RPE 6.5 [target RPE: 70]
-  Set 3: 102.5kg x 5 @ RPE 6.5 [target RPE: 70]
-  Set 4: 102.5kg x 5 @ RPE 6.5 [target RPE: 70]
+  Set 1: 115.0kg x 3 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=234]
+  Set 2: 102.5kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=222]
+  Set 3: 102.5kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=222]
+  Set 4: 102.5kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=222]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 135.0kg x 5 @ RPE 6.5 [target RPE: 62.5]
-  Set 2: 140.0kg x 5 @ RPE 6.5 [target RPE: 67.5]
-  Set 3: 150.0kg x 5 @ RPE 7 [target RPE: 72.5]
-  Set 4: 155.0kg x 5 @ RPE 7.5 [target RPE: 75]
+  Set 1: 135.0kg x 5 @ RPE 6.5 [target RPE: 62.5] [est_stress=-, real_stress=223]
+  Set 2: 140.0kg x 5 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=249]
+  Set 3: 150.0kg x 5 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=338]
+  Set 4: 155.0kg x 5 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=419]
 
 ### Squat (Paused)
 
-  Set 1: 125.0kg x 3 @ RPE 6.5 [target RPE: 67.5]
-  Set 2: 130.0kg x 3 @ RPE 6.5 [target RPE: 70]
-  Set 3: 135.0kg x 3 @ RPE 7 [target RPE: 72.5]
-  Set 4: 140.0kg x 3 @ RPE 7 [target RPE: 75]
+  Set 1: 125.0kg x 3 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=143]
+  Set 2: 130.0kg x 3 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=161]
+  Set 3: 135.0kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=198]
+  Set 4: 140.0kg x 3 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=221]
 
 ### Pull-Up (Weighted)
 
@@ -5881,24 +5732,24 @@ Finished: 2025-10-11 16:51:44
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 4 @ RPE 6.5 [target RPE: 80]
-  Set 2: 130.0kg x 5 @ RPE 6.5 [target RPE: 70]
-  Set 3: 130.0kg x 5 @ RPE 6.5 [target RPE: 70]
-  Set 4: 130.0kg x 5 @ RPE 6.5 [target RPE: 70]
+  Set 1: 140.0kg x 4 @ RPE 6.5 [target RPE: 80] [est_stress=-, real_stress=267]
+  Set 2: 130.0kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=268]
+  Set 3: 130.0kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=268]
+  Set 4: 130.0kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=268]
 
 ### Bench Press (Barbell)
 
-  Set 1: 95.0kg x 5 @ RPE 6 [target RPE: 62.5]
-  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 67.5]
-  Set 3: 105.0kg x 5 @ RPE 6.5 [target RPE: 72]
-  Set 4: 110.0kg x 5 @ RPE 7.5 [target RPE: 75]
+  Set 1: 95.0kg x 5 @ RPE 6 [target RPE: 62.5] [est_stress=-, real_stress=159]
+  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=185]
+  Set 3: 105.0kg x 5 @ RPE 6.5 [target RPE: 72] [est_stress=-, real_stress=239]
+  Set 4: 110.0kg x 5 @ RPE 7.5 [target RPE: 75] [est_stress=-, real_stress=341]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 130.0kg x 3 @ RPE 6 [target RPE: 62.5]
-  Set 2: 140.0kg x 3 @ RPE 6.5 [target RPE: 67.5]
-  Set 3: 150.0kg x 3 @ RPE 6.5 [target RPE: 72.5]
-  Set 4: 155.0kg x 3 @ RPE 6.5 [target RPE: 75]
+  Set 1: 130.0kg x 3 @ RPE 6 [target RPE: 62.5] [est_stress=-, real_stress=107]
+  Set 2: 140.0kg x 3 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=149]
+  Set 3: 150.0kg x 3 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=184]
+  Set 4: 155.0kg x 3 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=202]
 
 ### Leg Extension
 
@@ -5930,25 +5781,25 @@ Finished: 2025-10-09 09:38:37
 
 ### Squat (Low Bar)
 
-  Set 1: 112.5kg x 3 @ RPE 6 [target RPE: 65]
-  Set 2: 122.5kg x 3 @ RPE 6 [target RPE: 70]
-  Set 3: 129.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 4: 135.0kg x 3 @ RPE 6.5 [target RPE: 77.5]
-  Set 5: 140.0kg x 3 @ RPE 7 [target RPE: 80]
+  Set 1: 112.5kg x 3 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=93]
+  Set 2: 122.5kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=120]
+  Set 3: 129.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=141]
+  Set 4: 135.0kg x 3 @ RPE 6.5 [target RPE: 77.5] [est_stress=-, real_stress=180]
+  Set 5: 140.0kg x 3 @ RPE 7 [target RPE: 80] [est_stress=-, real_stress=221]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 82.5]
-  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 70]
-  Set 3: 100.0kg x 5 @ RPE 6 [target RPE: 70]
-  Set 4: 100.0kg x 5 @ RPE 6 [target RPE: 70]
+  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 82.5] [est_stress=-, real_stress=69]
+  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=185]
+  Set 3: 100.0kg x 5 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=185]
+  Set 4: 100.0kg x 5 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=185]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 130.0kg x 2 @ RPE 6 [target RPE: 65]
-  Set 2: 140.0kg x 2 @ RPE 7 [target RPE: 70]
-  Set 3: 145.0kg x 2 @ RPE 6.5 [target RPE: 72.5]
-  Set 4: 150.0kg x 2 @ RPE 7 [target RPE: 75]
+  Set 1: 130.0kg x 2 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=71]
+  Set 2: 140.0kg x 2 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=110]
+  Set 3: 145.0kg x 2 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=111]
+  Set 4: 150.0kg x 2 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=135]
 
 ### Leg Curl
 
@@ -5979,24 +5830,24 @@ Finished: 2025-10-08 09:13:44
 
 ### Bench Press (Paused)
 
-  Set 1: 90.0kg x 3 @ RPE 6 [target RPE: 65]
-  Set 2: 95.0kg x 3 @ RPE 6 [target RPE: 70]
-  Set 3: 97.5kg x 3 @ RPE 6 [target RPE: 72.5]
-  Set 4: 100.0kg x 3 @ RPE 6 [target RPE: 75]
-  Set 5: 105.0kg x 3 @ RPE 7 [target RPE: 77.5]
+  Set 1: 90.0kg x 3 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=81]
+  Set 2: 95.0kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=95]
+  Set 3: 97.5kg x 3 @ RPE 6 [target RPE: 72.5] [est_stress=-, real_stress=103]
+  Set 4: 100.0kg x 3 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=111]
+  Set 5: 105.0kg x 3 @ RPE 7 [target RPE: 77.5] [est_stress=-, real_stress=158]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 6 [target RPE: 65]
-  Set 2: 117.5kg x 3 @ RPE 6.5 [target RPE: 67.5]
-  Set 3: 122.5kg x 3 @ RPE 6.5 [target RPE: 70]
-  Set 4: 125.0kg x 3 @ RPE 7 [target RPE: 72.5]
+  Set 1: 112.5kg x 3 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=93]
+  Set 2: 117.5kg x 3 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=119]
+  Set 3: 122.5kg x 3 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=134]
+  Set 4: 125.0kg x 3 @ RPE 7 [target RPE: 72.5] [est_stress=-, real_stress=158]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 100.0kg x 8 @ RPE 7.5 [target RPE: 50]
-  Set 2: 100.0kg x 8 @ RPE 7 [target RPE: 50]
-  Set 3: 100.0kg x 8 @ RPE 7 [target RPE: 50]
+  Set 1: 100.0kg x 8 @ RPE 7.5 [target RPE: 50] [est_stress=-, real_stress=180]
+  Set 2: 100.0kg x 8 @ RPE 7 [target RPE: 50] [est_stress=-, real_stress=160]
+  Set 3: 100.0kg x 8 @ RPE 7 [target RPE: 50] [est_stress=-, real_stress=160]
 
 ### Pull-Up (Weighted)
 
@@ -6027,23 +5878,23 @@ Finished: 2025-10-07 09:36:54
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 150.0kg x 3 @ RPE 6.5 [target RPE: 75]
-  Set 2: 135.0kg x 5 @ RPE 6.5 [target RPE: 67.5]
-  Set 3: 135.0kg x 6 @ RPE 6.5 [target: 5 reps, target RPE: 67.5]
-  Set 4: 135.0kg x 6 @ RPE 6 [target: 5 reps, target RPE: 67.5]
+  Set 1: 150.0kg x 3 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=184]
+  Set 2: 135.0kg x 5 @ RPE 6.5 [target RPE: 67.5] [est_stress=-, real_stress=223]
+  Set 3: 135.0kg x 6 @ RPE 6.5 [target: 5 reps, target RPE: 67.5] [est_stress=-, real_stress=268]
+  Set 4: 135.0kg x 6 @ RPE 6 [target: 5 reps, target RPE: 67.5] [est_stress=-, real_stress=240]
 
 ### Squat (Low Bar)
 
-  Set 1: 105.0kg x 5 @ RPE 6 [target RPE: 60]
-  Set 2: 112.5kg x 5 @ RPE 6 [target RPE: 65]
-  Set 3: 122.5kg x 5 @ RPE 6.5 [target RPE: 70]
-  Set 4: 125.0kg x 5 @ RPE 6.5 [target RPE: 72.5]
+  Set 1: 105.0kg x 5 @ RPE 6 [target RPE: 60] [est_stress=-, real_stress=126]
+  Set 2: 112.5kg x 5 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=156]
+  Set 3: 122.5kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=224]
+  Set 4: 125.0kg x 5 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=238]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 [target RPE: 9]
-  Set 2: 50.0kg x 6 [target RPE: 9]
-  Set 3: 50.0kg x 5 [target RPE: 9]
+  Set 1: 50.0kg x 6 [target RPE: 9] [est_stress=51, real_stress=-]
+  Set 2: 50.0kg x 6 [target RPE: 9] [est_stress=51, real_stress=-]
+  Set 3: 50.0kg x 5 [target RPE: 9] [est_stress=43, real_stress=-]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -6074,24 +5925,24 @@ Finished: 2025-10-06 09:16:58
 
 ### Bench Press (Barbell)
 
-  Set 1: 105.0kg x 4 @ RPE 6 [target RPE: 75]
-  Set 2: 95.0kg x 6 @ RPE 6 [target RPE: 67.5]
-  Set 3: 95.0kg x 6 @ RPE 6 [target RPE: 67.5]
-  Set 4: 95.0kg x 6 @ RPE 6 [target RPE: 67.5]
+  Set 1: 105.0kg x 4 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=171]
+  Set 2: 95.0kg x 6 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=190]
+  Set 3: 95.0kg x 6 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=190]
+  Set 4: 95.0kg x 6 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=190]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 120.0kg x 5 @ RPE 6 [target RPE: 60]
-  Set 2: 130.0kg x 5 @ RPE 6.5 [target RPE: 65]
-  Set 3: 140.0kg x 5 @ RPE 6.5 [target RPE: 70]
-  Set 4: 145.0kg x 5 @ RPE 6.5 [target RPE: 72.5]
+  Set 1: 120.0kg x 5 @ RPE 6 [target RPE: 60] [est_stress=-, real_stress=140]
+  Set 2: 130.0kg x 5 @ RPE 6.5 [target RPE: 65] [est_stress=-, real_stress=199]
+  Set 3: 140.0kg x 5 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=249]
+  Set 4: 145.0kg x 5 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=276]
 
 ### Squat (Paused)
 
-  Set 1: 112.0kg x 3 @ RPE 6 [target RPE: 65]
-  Set 2: 117.5kg x 3 @ RPE 6 [target RPE: 67.5]
-  Set 3: 122.5kg x 3 @ RPE 6.5 [target RPE: 70]
-  Set 4: 125.0kg x 3 @ RPE 6.5 [target RPE: 72.5]
+  Set 1: 112.0kg x 3 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=92]
+  Set 2: 117.5kg x 3 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=106]
+  Set 3: 122.5kg x 3 @ RPE 6.5 [target RPE: 70] [est_stress=-, real_stress=134]
+  Set 4: 125.0kg x 3 @ RPE 6.5 [target RPE: 72.5] [est_stress=-, real_stress=143]
 
 ### Pull-Up (Weighted)
 
@@ -6123,24 +5974,24 @@ Finished: 2025-10-04 09:44:05
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 5 @ RPE 6 [target RPE: 75]
-  Set 2: 117.5kg x 5 @ RPE 6 [target RPE: 67.5]
-  Set 3: 117.5kg x 5 @ RPE 6 [target RPE: 67.5]
-  Set 4: 117.5kg x 5 @ RPE 6 [target RPE: 67.5]
+  Set 1: 130.0kg x 5 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=240]
+  Set 2: 117.5kg x 5 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=177]
+  Set 3: 117.5kg x 5 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=177]
+  Set 4: 117.5kg x 5 @ RPE 6 [target RPE: 67.5] [est_stress=-, real_stress=177]
 
 ### Bench Press (Barbell)
 
-  Set 1: 80.0kg x 5 @ RPE 6 [target RPE: 60]
-  Set 2: 87.5kg x 5 @ RPE 6 [target RPE: 65]
-  Set 3: 95.0kg x 5 @ RPE 6 [target RPE: 70]
-  Set 4: 100.0kg x 5 @ RPE 6 [target RPE: 72.5]
+  Set 1: 80.0kg x 5 @ RPE 6 [target RPE: 60] [est_stress=-, real_stress=95]
+  Set 2: 87.5kg x 5 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=124]
+  Set 3: 95.0kg x 5 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=159]
+  Set 4: 100.0kg x 5 @ RPE 6 [target RPE: 72.5] [est_stress=-, real_stress=185]
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 120.0kg x 3 @ RPE 6 [target RPE: 60]
-  Set 2: 130.0kg x 3 @ RPE 6 [target RPE: 65]
-  Set 3: 140.0kg x 3 @ RPE 6 [target RPE: 70]
-  Set 4: 145.0kg x 3 @ RPE 6 [target RPE: 72.5]
+  Set 1: 120.0kg x 3 @ RPE 6 [target RPE: 60] [est_stress=-, real_stress=84]
+  Set 2: 130.0kg x 3 @ RPE 6 [target RPE: 65] [est_stress=-, real_stress=107]
+  Set 3: 140.0kg x 3 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=134]
+  Set 4: 145.0kg x 3 @ RPE 6 [target RPE: 72.5] [est_stress=-, real_stress=149]
 
 ### Leg Extension
 
@@ -6172,17 +6023,17 @@ Finished: 2025-10-02 09:53:28
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 3 @ RPE 9 [target RPE: 6]
-  Set 2: 140.0kg x 4 [target: 5 reps, target RPE: 6]
-  Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 160.0kg x 3 @ RPE 9 [target RPE: 6] [est_stress=200, real_stress=369]
+  Set 2: 140.0kg x 4 [target: 5 reps, target RPE: 6] [est_stress=223, real_stress=-]
+  Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=223, real_stress=343]
+  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=223, real_stress=343]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 8.5 [target RPE: 9]
-  Set 2: 100.0kg x 9 @ RPE 9.5 [target: 5 reps, target RPE: 6]
-  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 115.0kg x 1 @ RPE 8.5 [target RPE: 9] [est_stress=104, real_stress=95]
+  Set 2: 100.0kg x 9 @ RPE 9.5 [target: 5 reps, target RPE: 6] [est_stress=185, real_stress=692]
+  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=185, real_stress=228]
+  Set 4: 100.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=185, real_stress=206]
 
 ### Pull-Up (Weighted)
 
@@ -6213,10 +6064,10 @@ Finished: 2025-10-01 10:02:43
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 6 @ RPE 6.5 [target RPE: 75]
-  Set 2: 130.0kg x 6 @ RPE 7 [target RPE: 75]
-  Set 3: 130.0kg x 6 @ RPE 6 [target RPE: 75]
-  Set 4: 130.0kg x 6 @ RPE 6 [target RPE: 75]
+  Set 1: 130.0kg x 6 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=321]
+  Set 2: 130.0kg x 6 @ RPE 7 [target RPE: 75] [est_stress=-, real_stress=354]
+  Set 3: 130.0kg x 6 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=288]
+  Set 4: 130.0kg x 6 @ RPE 6 [target RPE: 75] [est_stress=-, real_stress=288]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -6243,15 +6094,15 @@ Finished: 2025-09-30 09:45:59
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 190.0kg x 1 [target RPE: 100]
-  Set 2: 180.0kg x 2 @ RPE 9.5 [target RPE: 89]
-  Set 3: 180.0kg x 2 @ RPE 10 [target RPE: 89]
+  Set 1: 190.0kg x 1 [target RPE: 100] [est_stress=-, real_stress=-]
+  Set 2: 180.0kg x 2 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=394]
+  Set 3: 180.0kg x 2 @ RPE 10 [target RPE: 89] [est_stress=-, real_stress=437]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 7 @ RPE 10 [target RPE: 9-10]
-  Set 2: 50.0kg x 6 [target RPE: 9-10]
-  Set 3: 50.0kg x 5 [target RPE: 9-10]
+  Set 1: 50.0kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=75]
+  Set 2: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 50.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -6275,16 +6126,16 @@ Finished: 2025-09-29 18:45:00
 
 ### Bench Press (Barbell)
 
-  Set 1: 132.5kg x 1 @ RPE 10 [target RPE: 100]
-  Set 2: 122.5kg x 2 @ RPE 9.5 [target RPE: 89]
-  Set 3: 122.5kg x 2 @ RPE 10 [target RPE: 89]
+  Set 1: 132.5kg x 1 @ RPE 10 [target RPE: 100] [est_stress=-, real_stress=199]
+  Set 2: 122.5kg x 2 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=283]
+  Set 3: 122.5kg x 2 @ RPE 10 [target RPE: 89] [est_stress=-, real_stress=314]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 130.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 2: 120.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 120.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 120.0kg x 5 @ RPE 7.5 [target RPE: 6]
+  Set 1: 130.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=144, real_stress=199]
+  Set 2: 120.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=189, real_stress=232]
+  Set 3: 120.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=189, real_stress=232]
+  Set 4: 120.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=189, real_stress=261]
 
 ### Pull-Up (Weighted)
 
@@ -6314,24 +6165,24 @@ Finished: 2025-09-27 09:52:59
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 8.5 [target RPE: 100]
-  Set 2: 170.0kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 89]
-  Set 3: 155.0kg x 2 @ RPE 9.5 [target RPE: 89]
-  Set 4: 155.0kg x 2 @ RPE 9.5 [target RPE: 89]
+  Set 1: 160.0kg x 1 @ RPE 8.5 [target RPE: 100] [est_stress=-, real_stress=151]
+  Set 2: 170.0kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 89] [est_stress=-, real_stress=223]
+  Set 3: 155.0kg x 2 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=338]
+  Set 4: 155.0kg x 2 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=338]
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 2 @ RPE 8.5 [target RPE: 91]
-  Set 2: 117.5kg x 3 @ RPE 9 [target RPE: 89]
-  Set 3: 117.5kg x 3 @ RPE 9.5 [target RPE: 89]
-  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 89]
+  Set 1: 120.0kg x 2 @ RPE 8.5 [target RPE: 91] [est_stress=-, real_stress=225]
+  Set 2: 117.5kg x 3 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=346]
+  Set 3: 117.5kg x 3 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=389]
+  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=324]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 102.5kg x 10 [target RPE: 9]
-  Set 2: 102.5kg x 9 [target RPE: 9]
-  Set 3: 102.5kg x 9 [target RPE: 9]
-  Set 4: 102.5kg x 8 [target RPE: 9]
+  Set 1: 102.5kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 102.5kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 102.5kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 102.5kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-09-25
 
@@ -6349,17 +6200,17 @@ Finished: 2025-09-25 09:57:18
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 3 @ RPE 8 [target RPE: 6]
-  Set 2: 150.0kg x 4 @ RPE 8 [target: 5 reps, target RPE: 6]
-  Set 3: 140.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 160.0kg x 3 @ RPE 8 [target RPE: 6] [est_stress=200, real_stress=307]
+  Set 2: 150.0kg x 4 @ RPE 8 [target: 5 reps, target RPE: 6] [est_stress=274, real_stress=338]
+  Set 3: 140.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=223, real_stress=249]
+  Set 4: 140.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=223, real_stress=274]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 8 [target RPE: 8.5]
-  Set 2: 100.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 115.0kg x 1 @ RPE 8 [target RPE: 8.5] [est_stress=99, real_stress=90]
+  Set 2: 100.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=192, real_stress=214]
+  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=192, real_stress=237]
+  Set 4: 100.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=192, real_stress=214]
 
 ### Pull-Up (Weighted)
 
@@ -6390,11 +6241,11 @@ Finished: 2025-09-24 09:49:58
 
 ### Squat (Low Bar)
 
-  Set 1: 120.0kg x 3 @ RPE 6 [target: 2 reps, target RPE: 88]
-  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 3: 142.5kg x 3 @ RPE 8 [target RPE: 85]
-  Set 4: 145.0kg x 3 @ RPE 8.5 [target RPE: 85]
-  Set 5: 155.0kg x 1 @ RPE 8.5 [target: 3 reps, target RPE: 85]
+  Set 1: 120.0kg x 3 @ RPE 6 [target: 2 reps, target RPE: 88] [est_stress=-, real_stress=113]
+  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=249]
+  Set 3: 142.5kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=292]
+  Set 4: 145.0kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=338]
+  Set 5: 155.0kg x 1 @ RPE 8.5 [target: 3 reps, target RPE: 85] [est_stress=-, real_stress=138]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -6421,16 +6272,16 @@ Finished: 2025-09-23 09:46:41
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 92]
-  Set 2: 177.5kg x 2 @ RPE 9.5 [target RPE: 89]
-  Set 3: 177.5kg x 2 @ RPE 9 [target RPE: 89]
-  Set 4: 177.5kg x 2 @ RPE 9 [target RPE: 89]
+  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 92] [est_stress=-, real_stress=190]
+  Set 2: 177.5kg x 2 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=377]
+  Set 3: 177.5kg x 2 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=336]
+  Set 4: 177.5kg x 2 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=336]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 [target RPE: 9-10]
-  Set 2: 50.0kg x 6 [target RPE: 9-10]
-  Set 3: 50.0kg x 6 [target RPE: 9-10]
+  Set 1: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -6454,17 +6305,17 @@ Finished: 2025-09-22 09:26:24
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 9 [target RPE: 94]
-  Set 2: 120.0kg x 2 @ RPE 9 [target RPE: 91]
-  Set 3: 120.0kg x 2 @ RPE 9 [target RPE: 91]
-  Set 4: 120.0kg x 2 @ RPE 9.5 [target RPE: 91]
+  Set 1: 125.0kg x 1 @ RPE 9 [target RPE: 94] [est_stress=-, real_stress=139]
+  Set 2: 120.0kg x 2 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=245]
+  Set 3: 120.0kg x 2 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=245]
+  Set 4: 120.0kg x 2 @ RPE 9.5 [target RPE: 91] [est_stress=-, real_stress=276]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 2: 115.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=113, real_stress=126]
+  Set 2: 115.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=166, real_stress=204]
+  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
+  Set 4: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
 
 ### Pull-Up (Weighted)
 
@@ -6494,24 +6345,24 @@ Finished: 2025-09-20 09:47:40
 
 ### Squat (Low Bar)
 
-  Set 1: 157.5kg x 1 @ RPE 9 [target RPE: 91]
-  Set 2: 152.5kg x 2 @ RPE 8.5 [target RPE: 88]
-  Set 3: 152.5kg x 2 @ RPE 8.5 [target RPE: 88]
-  Set 4: 152.5kg x 2 @ RPE 8 [target RPE: 88]
+  Set 1: 157.5kg x 1 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=158]
+  Set 2: 152.5kg x 2 @ RPE 8.5 [target RPE: 88] [est_stress=-, real_stress=262]
+  Set 3: 152.5kg x 2 @ RPE 8.5 [target RPE: 88] [est_stress=-, real_stress=262]
+  Set 4: 152.5kg x 2 @ RPE 8 [target RPE: 88] [est_stress=-, real_stress=238]
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 2 @ RPE 9.5 [target RPE: 91]
-  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 88]
-  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 88]
-  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 88]
+  Set 1: 120.0kg x 2 @ RPE 9.5 [target RPE: 91] [est_stress=-, real_stress=276]
+  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 88] [est_stress=-, real_stress=297]
+  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 88] [est_stress=-, real_stress=297]
+  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 88] [est_stress=-, real_stress=324]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 102.5kg x 10 [target RPE: 9]
-  Set 2: 102.5kg x 10 [target RPE: 9]
-  Set 3: 102.5kg x 8 [target RPE: 9]
-  Set 4: 102.5kg x 7 [target RPE: 9]
+  Set 1: 102.5kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 102.5kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 102.5kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 102.5kg x 7 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-09-18
 
@@ -6529,17 +6380,17 @@ Finished: 2025-09-18 09:43:46
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 120.0kg x 3 [target RPE: 6]
-  Set 2: 140.0kg x 5 @ RPE 7.5 [target RPE: 6]
-  Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 120.0kg x 3 [target RPE: 6] [est_stress=84, real_stress=-]
+  Set 2: 140.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=223, real_stress=309]
+  Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=223, real_stress=343]
+  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=223, real_stress=343]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 7.5 [target RPE: 6]
+  Set 1: 115.0kg x 1 @ RPE 8 [target RPE: 8] [est_stress=90, real_stress=90]
+  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=192, real_stress=237]
+  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=192, real_stress=237]
+  Set 4: 100.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=192, real_stress=266]
 
 ### Pull-Up (Weighted)
 
@@ -6556,7 +6407,7 @@ Finished: 2025-09-18 09:43:46
 
 ### Larsen Press (Barbell)
 
-  Set 1: 100.0kg x 8 @ RPE 8.5
+  Set 1: 100.0kg x 8 @ RPE 8.5 [est_stress=-, real_stress=521]
 
 ## 2025-09-17
 
@@ -6574,10 +6425,10 @@ Finished: 2025-09-17 09:43:24
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 [target RPE: 85]
-  Set 2: 140.0kg x 4 @ RPE 8.5 [target RPE: 82]
-  Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 82]
-  Set 4: 135.0kg x 4 @ RPE 7 [target RPE: 82]
+  Set 1: 147.5kg x 3 [target RPE: 85] [est_stress=-, real_stress=-]
+  Set 2: 140.0kg x 4 @ RPE 8.5 [target RPE: 82] [est_stress=-, real_stress=406]
+  Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=298]
+  Set 4: 135.0kg x 4 @ RPE 7 [target RPE: 82] [est_stress=-, real_stress=265]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -6604,16 +6455,16 @@ Finished: 2025-09-16 09:50:05
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 182.5kg x 1 @ RPE 8.5 [target RPE: 91]
-  Set 2: 170.0kg x 3 @ RPE 8 [target RPE: 85]
-  Set 3: 170.0kg x 3 @ RPE 8 [target RPE: 85]
-  Set 4: 170.0kg x 3 @ RPE 8.5 [target RPE: 85]
+  Set 1: 182.5kg x 1 @ RPE 8.5 [target RPE: 91] [est_stress=-, real_stress=167]
+  Set 2: 170.0kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=368]
+  Set 3: 170.0kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=368]
+  Set 4: 170.0kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=405]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 [target RPE: 9-10]
-  Set 2: 50.0kg x 6 [target RPE: 9-10]
-  Set 3: 50.0kg x 5 [target RPE: 9-10]
+  Set 1: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 50.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -6637,17 +6488,17 @@ Finished: 2025-09-15 09:24:16
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 9.5 [target: 2 reps, target RPE: 91]
-  Set 2: 117.5kg x 3 @ RPE 9.5 [target RPE: 88]
-  Set 3: 117.5kg x 3 @ RPE 9.5 [target RPE: 88]
-  Set 4: 117.5kg x 3 @ RPE 10 [target RPE: 88]
+  Set 1: 120.0kg x 3 @ RPE 9.5 [target: 2 reps, target RPE: 91] [est_stress=-, real_stress=414]
+  Set 2: 117.5kg x 3 @ RPE 9.5 [target RPE: 88] [est_stress=-, real_stress=389]
+  Set 3: 117.5kg x 3 @ RPE 9.5 [target RPE: 88] [est_stress=-, real_stress=389]
+  Set 4: 117.5kg x 3 @ RPE 10 [target RPE: 88] [est_stress=-, real_stress=432]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 125.0kg x 3 @ RPE 8 [target RPE: 6]
-  Set 2: 120.0kg x 5 @ RPE 9 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 9 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 125.0kg x 3 @ RPE 8 [target RPE: 6] [est_stress=128, real_stress=197]
+  Set 2: 120.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=189, real_stress=348]
+  Set 3: 115.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=166, real_stress=307]
+  Set 4: 115.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=166, real_stress=256]
 
 ### Pull-Up (Weighted)
 
@@ -6677,24 +6528,24 @@ Finished: 2025-09-13 09:56:07
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 8.5 [target RPE: 86]
-  Set 2: 147.5kg x 3 @ RPE 8.5 [target RPE: 85]
-  Set 3: 147.5kg x 3 @ RPE 10 [target RPE: 85]
-  Set 4: 147.5kg x 3 @ RPE 9.5 [target RPE: 85]
+  Set 1: 150.0kg x 2 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=250]
+  Set 2: 147.5kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=356]
+  Set 3: 147.5kg x 3 @ RPE 10 [target RPE: 85] [est_stress=-, real_stress=485]
+  Set 4: 147.5kg x 3 @ RPE 9.5 [target RPE: 85] [est_stress=-, real_stress=437]
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 3 @ RPE 9.5 [target RPE: 86]
-  Set 2: 112.5kg x 4 @ RPE 9 [target RPE: 84]
-  Set 3: 110.0kg x 4 @ RPE 8 [target RPE: 84]
-  Set 4: 110.0kg x 4 @ RPE 8 [target RPE: 84]
+  Set 1: 117.5kg x 3 @ RPE 9.5 [target RPE: 86] [est_stress=-, real_stress=389]
+  Set 2: 112.5kg x 4 @ RPE 9 [target RPE: 84] [est_stress=-, real_stress=404]
+  Set 3: 110.0kg x 4 @ RPE 8 [target RPE: 84] [est_stress=-, real_stress=315]
+  Set 4: 110.0kg x 4 @ RPE 8 [target RPE: 84] [est_stress=-, real_stress=315]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 100.0kg x 10 [target RPE: 9]
-  Set 2: 100.0kg x 8 [target RPE: 9]
-  Set 3: 100.0kg x 10 [target RPE: 9]
-  Set 4: 100.0kg x 10 [target RPE: 9]
+  Set 1: 100.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 100.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 100.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 100.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-09-11
 
@@ -6712,16 +6563,16 @@ Finished: 2025-09-11 09:30:37
 
 ### Deadlift (Barbell)
 
-  Set 1: 160.0kg x 3 @ RPE 9 [target RPE: 6]
-  Set 2: 150.0kg x 5 @ RPE 9.5 [target RPE: 6]
-  Set 3: 150.0kg x 3 [target: 5 reps, target RPE: 6]
+  Set 1: 160.0kg x 3 @ RPE 9 [target RPE: 6] [est_stress=200, real_stress=369]
+  Set 2: 150.0kg x 5 @ RPE 9.5 [target RPE: 6] [est_stress=274, real_stress=570]
+  Set 3: 150.0kg x 3 [target: 5 reps, target RPE: 6] [est_stress=274, real_stress=-]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 8.5 [target RPE: 7.5]
-  Set 2: 100.0kg x 5 @ RPE 7.5 [target RPE: 6]
-  Set 3: 100.0kg x 7 @ RPE 10 [target: 5 reps, target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 115.0kg x 1 @ RPE 8.5 [target RPE: 7.5] [est_stress=81, real_stress=99]
+  Set 2: 100.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=192, real_stress=266]
+  Set 3: 100.0kg x 7 @ RPE 10 [target: 5 reps, target RPE: 6] [est_stress=192, real_stress=621]
+  Set 4: 100.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=192, real_stress=296]
 
 ### Pull-Up (Weighted)
 
@@ -6752,10 +6603,10 @@ Finished: 2025-09-10 10:01:50
 
 ### Squat (Low Bar)
 
-  Set 1: 142.5kg x 4 @ RPE 9 [target RPE: 82]
-  Set 2: 137.5kg x 5 @ RPE 9 [target RPE: 80]
-  Set 3: 137.5kg x 5 @ RPE 8.5 [target RPE: 80]
-  Set 4: 137.5kg x 5 @ RPE 8.5 [target RPE: 80]
+  Set 1: 142.5kg x 4 @ RPE 9 [target RPE: 82] [est_stress=-, real_stress=467]
+  Set 2: 137.5kg x 5 @ RPE 9 [target RPE: 80] [est_stress=-, real_stress=524]
+  Set 3: 137.5kg x 5 @ RPE 8.5 [target RPE: 80] [est_stress=-, real_stress=480]
+  Set 4: 137.5kg x 5 @ RPE 8.5 [target RPE: 80] [est_stress=-, real_stress=480]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -6784,16 +6635,16 @@ Finished: 2025-09-09 09:43:18
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 177.5kg x 2 @ RPE 9 [target RPE: 88]
-  Set 2: 167.5kg x 3 @ RPE 8.5 [target RPE: 84]
-  Set 3: 167.5kg x 3 @ RPE 7.5 [target RPE: 84]
-  Set 4: 167.5kg x 3 @ RPE 8 [target RPE: 84]
+  Set 1: 177.5kg x 2 @ RPE 9 [target RPE: 88] [est_stress=-, real_stress=336]
+  Set 2: 167.5kg x 3 @ RPE 8.5 [target RPE: 84] [est_stress=-, real_stress=388]
+  Set 3: 167.5kg x 3 @ RPE 7.5 [target RPE: 84] [est_stress=-, real_stress=317]
+  Set 4: 167.5kg x 3 @ RPE 8 [target RPE: 84] [est_stress=-, real_stress=352]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 7 [target RPE: 9-10]
-  Set 2: 50.0kg x 6 [target RPE: 9-10]
-  Set 3: 50.0kg x 5 [target RPE: 9-10]
+  Set 1: 50.0kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 50.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -6817,17 +6668,17 @@ Finished: 2025-09-08 09:26:26
 
 ### Bench Press (Barbell)
 
-  Set 1: 118.5kg x 2 @ RPE 8.5 [target RPE: 89]
-  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 4: 115.0kg x 3 @ RPE 10 [target RPE: 86]
+  Set 1: 118.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=217]
+  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=297]
+  Set 3: 115.0kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=297]
+  Set 4: 115.0kg x 3 @ RPE 10 [target RPE: 86] [est_stress=-, real_stress=405]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 5 @ RPE 7.5 [target: 3 reps, target RPE: 6]
-  Set 2: 120.0kg x 5 @ RPE 8.5 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 7.5 [target RPE: 6]
+  Set 1: 120.0kg x 5 @ RPE 7.5 [target: 3 reps, target RPE: 6] [est_stress=113, real_stress=261]
+  Set 2: 120.0kg x 5 @ RPE 8.5 [target RPE: 6] [est_stress=189, real_stress=319]
+  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
+  Set 4: 115.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=166, real_stress=230]
 
 ### Pull-Up (Weighted)
 
@@ -6857,25 +6708,25 @@ Finished: 2025-09-06 09:56:43
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 @ RPE 8.5 [target RPE: 85]
-  Set 2: 142.5kg x 4 @ RPE 9 [target RPE: 82]
-  Set 3: 142.5kg x 4 @ RPE 8.5 [target RPE: 82]
-  Set 4: 142.5kg x 4 @ RPE 8.5 [target RPE: 82]
-  Set 5: 120.0kg x 5 @ RPE 6 [target: 4 reps, target RPE: 82]
+  Set 1: 147.5kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=356]
+  Set 2: 142.5kg x 4 @ RPE 9 [target RPE: 82] [est_stress=-, real_stress=467]
+  Set 3: 142.5kg x 4 @ RPE 8.5 [target RPE: 82] [est_stress=-, real_stress=428]
+  Set 4: 142.5kg x 4 @ RPE 8.5 [target RPE: 82] [est_stress=-, real_stress=428]
+  Set 5: 120.0kg x 5 @ RPE 6 [target: 4 reps, target RPE: 82] [est_stress=-, real_stress=189]
 
 ### Bench Press (Barbell)
 
-  Set 1: 113.5kg x 3 @ RPE 8 [target RPE: 86]
-  Set 2: 110.0kg x 5 @ RPE 8 [target RPE: 81]
-  Set 3: 110.0kg x 5 @ RPE 8.5 [target RPE: 81]
-  Set 4: 110.0kg x 5 @ RPE 8.5 [target RPE: 81]
+  Set 1: 113.5kg x 3 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=260]
+  Set 2: 110.0kg x 5 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=394]
+  Set 3: 110.0kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=433]
+  Set 4: 110.0kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=433]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 130.0kg x 8 [target RPE: 9]
-  Set 2: 130.0kg x 8 [target RPE: 9]
-  Set 3: 130.0kg x 8 [target RPE: 9]
-  Set 4: 130.0kg x 8 [target RPE: 9]
+  Set 1: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-09-04
 
@@ -6893,17 +6744,17 @@ Finished: 2025-09-04 09:55:54
 
 ### Deadlift (Barbell)
 
-  Set 1: 160.0kg x 2 @ RPE 9.5 [target: 3 reps, target RPE: 6]
-  Set 2: 150.0kg x 4 @ RPE 9 [target: 5 reps, target RPE: 6]
-  Set 3: 150.0kg x 5 @ RPE 10 [target RPE: 6]
-  Set 4: 150.0kg x 5 @ RPE 9 [target RPE: 6]
+  Set 1: 160.0kg x 2 @ RPE 9.5 [target: 3 reps, target RPE: 6] [est_stress=200, real_stress=276]
+  Set 2: 150.0kg x 4 @ RPE 9 [target: 5 reps, target RPE: 6] [est_stress=274, real_stress=405]
+  Set 3: 150.0kg x 5 @ RPE 10 [target RPE: 6] [est_stress=274, real_stress=633]
+  Set 4: 150.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=274, real_stress=506]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 8.5 [target RPE: 6]
-  Set 2: 100.0kg x 5 @ RPE 7.5 [target RPE: 6]
-  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 115.0kg x 1 @ RPE 8.5 [target RPE: 6] [est_stress=58, real_stress=99]
+  Set 2: 100.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=192, real_stress=266]
+  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=192, real_stress=266]
+  Set 4: 100.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=192, real_stress=296]
 
 ### Pull-Up (Weighted)
 
@@ -6934,10 +6785,10 @@ Finished: 2025-09-03 09:52:35
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 4 @ RPE 7.5 [target RPE: 81]
-  Set 2: 132.5kg x 6 @ RPE 8 [target RPE: 76]
-  Set 3: 131.0kg x 6 @ RPE 8 [target RPE: 76]
-  Set 4: 131.0kg x 6 @ RPE 8 [target RPE: 76]
+  Set 1: 140.0kg x 4 @ RPE 7.5 [target RPE: 81] [est_stress=-, real_stress=332]
+  Set 2: 132.5kg x 6 @ RPE 8 [target RPE: 76] [est_stress=-, real_stress=469]
+  Set 3: 131.0kg x 6 @ RPE 8 [target RPE: 76] [est_stress=-, real_stress=453]
+  Set 4: 131.0kg x 6 @ RPE 8 [target RPE: 76] [est_stress=-, real_stress=453]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -6964,16 +6815,16 @@ Finished: 2025-09-02 09:42:56
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 2 @ RPE 9 [target RPE: 88]
-  Set 2: 160.0kg x 5 @ RPE 8.5 [target RPE: 79]
-  Set 3: 157.5kg x 5 @ RPE 7.5 [target RPE: 79]
-  Set 4: 157.5kg x 5 @ RPE 8 [target RPE: 79]
+  Set 1: 175.0kg x 2 @ RPE 9 [target RPE: 88] [est_stress=-, real_stress=322]
+  Set 2: 160.0kg x 5 @ RPE 8.5 [target RPE: 79] [est_stress=-, real_stress=563]
+  Set 3: 157.5kg x 5 @ RPE 7.5 [target RPE: 79] [est_stress=-, real_stress=440]
+  Set 4: 157.5kg x 5 @ RPE 8 [target RPE: 79] [est_stress=-, real_stress=488]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 7 [target RPE: 9-10]
-  Set 2: 50.0kg x 6 [target RPE: 9-10]
-  Set 3: 50.0kg x 5 [target RPE: 9-10]
+  Set 1: 50.0kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 50.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -6997,17 +6848,17 @@ Finished: 2025-09-01 09:19:54
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 2: 107.5kg x 5 @ RPE 7.5 [target RPE: 81]
-  Set 3: 108.5kg x 5 @ RPE 8.5 [target RPE: 81]
-  Set 4: 108.5kg x 5 @ RPE 8.5 [target RPE: 81]
+  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=227]
+  Set 2: 107.5kg x 5 @ RPE 7.5 [target RPE: 81] [est_stress=-, real_stress=331]
+  Set 3: 108.5kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=416]
+  Set 4: 108.5kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=416]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 115.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=113, real_stress=139]
+  Set 2: 115.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=166, real_stress=204]
+  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
+  Set 4: 115.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=166, real_stress=204]
 
 ### Pull-Up (Weighted)
 
@@ -7037,24 +6888,24 @@ Finished: 2025-08-30 09:50:30
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 4 @ RPE 7.5 [target RPE: 81]
-  Set 2: 137.5kg x 5 @ RPE 7.5 [target RPE: 79]
-  Set 3: 137.5kg x 5 @ RPE 7 [target RPE: 79]
-  Set 4: 137.5kg x 5 @ RPE 7.5 [target RPE: 79]
+  Set 1: 140.0kg x 4 @ RPE 7.5 [target RPE: 81] [est_stress=-, real_stress=332]
+  Set 2: 137.5kg x 5 @ RPE 7.5 [target RPE: 79] [est_stress=-, real_stress=393]
+  Set 3: 137.5kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=349]
+  Set 4: 137.5kg x 5 @ RPE 7.5 [target RPE: 79] [est_stress=-, real_stress=393]
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 4 @ RPE 7.5 [target RPE: 82]
-  Set 2: 105.0kg x 6 @ RPE 6.5 [target RPE: 79]
-  Set 3: 107.5kg x 6 @ RPE 8 [target RPE: 79]
-  Set 4: 105.0kg x 6 @ RPE 7.5 [target RPE: 79]
+  Set 1: 110.0kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=284]
+  Set 2: 105.0kg x 6 @ RPE 6.5 [target RPE: 79] [est_stress=-, real_stress=298]
+  Set 3: 107.5kg x 6 @ RPE 8 [target RPE: 79] [est_stress=-, real_stress=441]
+  Set 4: 105.0kg x 6 @ RPE 7.5 [target RPE: 79] [est_stress=-, real_stress=370]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 130.0kg x 9 [target RPE: 9]
-  Set 2: 130.0kg x 8 [target RPE: 9]
-  Set 3: 130.0kg x 7 [target RPE: 9]
-  Set 4: 130.0kg x 7 [target RPE: 9]
+  Set 1: 130.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 130.0kg x 7 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 130.0kg x 7 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-08-28
 
@@ -7072,17 +6923,17 @@ Finished: 2025-08-28 09:55:01
 
 ### Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 [target: 3 reps, target RPE: 6]
-  Set 2: 150.0kg x 2 [target: 5 reps, target RPE: 6]
-  Set 3: 140.0kg x 5 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 160.0kg x 1 [target: 3 reps, target RPE: 6] [est_stress=200, real_stress=-]
+  Set 2: 150.0kg x 2 [target: 5 reps, target RPE: 6] [est_stress=274, real_stress=-]
+  Set 3: 140.0kg x 5 [target RPE: 6] [est_stress=223, real_stress=-]
+  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=223, real_stress=343]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 8.5 [target RPE: 9]
-  Set 2: 100.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 7.5 [target RPE: 6]
+  Set 1: 115.0kg x 1 @ RPE 8.5 [target RPE: 9] [est_stress=108, real_stress=99]
+  Set 2: 100.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=192, real_stress=296]
+  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=192, real_stress=266]
+  Set 4: 100.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=192, real_stress=266]
 
 ### Pull-Up (Weighted)
 
@@ -7113,10 +6964,10 @@ Finished: 2025-08-27 09:50:26
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 2 @ RPE 9 [target RPE: 88]
-  Set 2: 147.5kg x 3 @ RPE 9 [target RPE: 85]
-  Set 3: 147.5kg x 3 @ RPE 9 [target RPE: 85]
-  Set 4: 147.5kg x 3 @ RPE 8.5 [target RPE: 85]
+  Set 1: 155.0kg x 2 @ RPE 9 [target RPE: 88] [est_stress=-, real_stress=300]
+  Set 2: 147.5kg x 3 @ RPE 9 [target RPE: 85] [est_stress=-, real_stress=388]
+  Set 3: 147.5kg x 3 @ RPE 9 [target RPE: 85] [est_stress=-, real_stress=388]
+  Set 4: 147.5kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=356]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -7143,15 +6994,15 @@ Finished: 2025-08-26 09:47:34
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 200.0kg x 1 [target RPE: 100]
-  Set 2: 177.5kg x 2 @ RPE 8.5 [target RPE: 89]
-  Set 3: 177.5kg x 2 @ RPE 8.5 [target RPE: 89]
+  Set 1: 200.0kg x 1 [target RPE: 100] [est_stress=-, real_stress=-]
+  Set 2: 177.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=308]
+  Set 3: 177.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=308]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 7 [target RPE: 9-10]
-  Set 2: 50.0kg x 6 [target RPE: 9-10]
-  Set 3: 50.0kg x 5 [target RPE: 9-10]
+  Set 1: 50.0kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 50.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -7175,16 +7026,16 @@ Finished: 2025-08-25 09:37:54
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 10 [target RPE: 100]
-  Set 2: 120.0kg x 2 @ RPE 9.5 [target RPE: 89]
-  Set 3: 120.0kg x 2 @ RPE 10 [target RPE: 89]
+  Set 1: 130.0kg x 1 @ RPE 10 [target RPE: 100] [est_stress=-, real_stress=195]
+  Set 2: 120.0kg x 2 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=276]
+  Set 3: 120.0kg x 2 @ RPE 10 [target RPE: 89] [est_stress=-, real_stress=307]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 130.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 2: 120.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 120.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 120.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 130.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=144, real_stress=199]
+  Set 2: 120.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=189, real_stress=211]
+  Set 3: 120.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=189, real_stress=211]
+  Set 4: 120.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=189, real_stress=290]
 
 ### Pull-Up (Weighted)
 
@@ -7214,24 +7065,24 @@ Finished: 2025-08-23 10:01:50
 
 ### Squat (Low Bar)
 
-  Set 1: 170.0kg x 1 @ RPE 9.5 [target RPE: 100]
-  Set 2: 155.0kg x 2 @ RPE 9 [target RPE: 89]
-  Set 3: 155.0kg x 2 @ RPE 9 [target RPE: 89]
-  Set 4: 120.0kg x 12 @ RPE 7.5 [target: 2 reps, target RPE: 89]
+  Set 1: 170.0kg x 1 @ RPE 9.5 [target RPE: 100] [est_stress=-, real_stress=223]
+  Set 2: 155.0kg x 2 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=300]
+  Set 3: 155.0kg x 2 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=300]
+  Set 4: 120.0kg x 12 @ RPE 7.5 [target: 2 reps, target RPE: 89] [est_stress=-, real_stress=627]
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 9.5 [target: 2 reps, target RPE: 91]
-  Set 2: 117.5kg x 3 @ RPE 9.5 [target RPE: 89]
-  Set 3: 117.5kg x 3 @ RPE 9.5 [target RPE: 89]
-  Set 4: 115.0kg x 3 @ RPE 9.5 [target RPE: 89]
+  Set 1: 120.0kg x 3 @ RPE 9.5 [target: 2 reps, target RPE: 91] [est_stress=-, real_stress=414]
+  Set 2: 117.5kg x 3 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=389]
+  Set 3: 117.5kg x 3 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=389]
+  Set 4: 115.0kg x 3 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=364]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 130.0kg x 10 [target RPE: 9]
-  Set 2: 130.0kg x 9 [target RPE: 9]
-  Set 3: 130.0kg x 9 [target RPE: 9]
-  Set 4: 130.0kg x 8 [target RPE: 9]
+  Set 1: 130.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 130.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 130.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-08-21
 
@@ -7249,18 +7100,18 @@ Finished: 2025-08-21 08:44:21
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 165.0kg x 3 @ RPE 9 [target RPE: 6]
-  Set 2: 155.0kg x 3 @ RPE 9.5 [target: 5 reps, target RPE: 6]
-  Set 3: 150.0kg x 4 @ RPE 7 [target: 5 reps, target RPE: 6]
-  Set 4: 150.0kg x 4 @ RPE 9.5 [target: 5 reps, target RPE: 6]
-  Set 5: 130.0kg x 8 @ RPE 9 [target: 5 reps, target RPE: 6]
+  Set 1: 165.0kg x 3 @ RPE 9 [target RPE: 6] [est_stress=225, real_stress=415]
+  Set 2: 155.0kg x 3 @ RPE 9.5 [target: 5 reps, target RPE: 6] [est_stress=310, real_stress=387]
+  Set 3: 150.0kg x 4 @ RPE 7 [target: 5 reps, target RPE: 6] [est_stress=281, real_stress=277]
+  Set 4: 150.0kg x 4 @ RPE 9.5 [target: 5 reps, target RPE: 6] [est_stress=281, real_stress=467]
+  Set 5: 130.0kg x 8 @ RPE 9 [target: 5 reps, target RPE: 6] [est_stress=183, real_stress=541]
 
 ### Bench Press (Paused)
 
-  Set 1: 112.5kg x 1 @ RPE 8.5 [target RPE: 8.5]
-  Set 2: 100.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 3: 100.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 112.5kg x 1 @ RPE 8.5 [target RPE: 8.5] [est_stress=93, real_stress=93]
+  Set 2: 100.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=192, real_stress=296]
+  Set 3: 100.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=192, real_stress=296]
+  Set 4: 100.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=192, real_stress=296]
 
 ### Pull-Up (Weighted)
 
@@ -7291,10 +7142,10 @@ Finished: 2025-08-20 09:34:15
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 2 @ RPE 9 [target RPE: 89]
-  Set 2: 147.5kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 3: 147.5kg x 3 @ RPE 8 [target RPE: 86]
-  Set 4: 147.5kg x 3 @ RPE 8 [target RPE: 86]
+  Set 1: 155.0kg x 2 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=300]
+  Set 2: 147.5kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=356]
+  Set 3: 147.5kg x 3 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=324]
+  Set 4: 147.5kg x 3 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=324]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -7321,16 +7172,16 @@ Finished: 2025-08-19 09:29:37
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 92]
-  Set 2: 177.5kg x 2 @ RPE 8.5 [target RPE: 89]
-  Set 3: 177.5kg x 2 @ RPE 8 [target RPE: 89]
-  Set 4: 177.5kg x 2 @ RPE 8 [target RPE: 89]
+  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 92] [est_stress=-, real_stress=195]
+  Set 2: 177.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=315]
+  Set 3: 177.5kg x 2 @ RPE 8 [target RPE: 89] [est_stress=-, real_stress=287]
+  Set 4: 177.5kg x 2 @ RPE 8 [target RPE: 89] [est_stress=-, real_stress=287]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 [target RPE: 9-10]
-  Set 2: 47.5kg x 8 [target RPE: 9-10]
-  Set 3: 47.5kg x 7 [target RPE: 9-10]
+  Set 1: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 47.5kg x 8 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 47.5kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -7353,17 +7204,17 @@ Finished: 2025-08-17 15:51:02
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 94]
-  Set 2: 117.5kg x 2 @ RPE 9 [target RPE: 91]
-  Set 3: 117.5kg x 2 @ RPE 9 [target RPE: 91]
-  Set 4: 117.5kg x 2 @ RPE 10 [target RPE: 91]
+  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 94] [est_stress=-, real_stress=131]
+  Set 2: 117.5kg x 2 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=230]
+  Set 3: 117.5kg x 2 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=230]
+  Set 4: 117.5kg x 2 @ RPE 10 [target RPE: 91] [est_stress=-, real_stress=288]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 130.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 2: 120.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 120.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 120.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 130.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=144, real_stress=199]
+  Set 2: 120.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=189, real_stress=232]
+  Set 3: 120.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=189, real_stress=232]
+  Set 4: 120.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=189, real_stress=232]
 
 ### Pull-Up (Weighted)
 
@@ -7386,24 +7237,24 @@ Finished: 2025-08-16 16:07:41
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 9 [target RPE: 91]
-  Set 2: 153.0kg x 2 @ RPE 9 [target RPE: 88]
-  Set 3: 153.0kg x 2 @ RPE 9 [target RPE: 88]
-  Set 4: 153.0kg x 2 @ RPE 9 [target RPE: 88]
+  Set 1: 160.0kg x 1 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=165]
+  Set 2: 153.0kg x 2 @ RPE 9 [target RPE: 88] [est_stress=-, real_stress=289]
+  Set 3: 153.0kg x 2 @ RPE 9 [target RPE: 88] [est_stress=-, real_stress=289]
+  Set 4: 153.0kg x 2 @ RPE 9 [target RPE: 88] [est_stress=-, real_stress=289]
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 2 @ RPE 9 [target RPE: 91]
-  Set 2: 115.0kg x 3 @ RPE 10 [target RPE: 88]
-  Set 3: 115.0kg x 3 @ RPE 10 [target RPE: 88]
-  Set 4: 115.0kg x 3 @ RPE 10 [target RPE: 88]
+  Set 1: 117.5kg x 2 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=230]
+  Set 2: 115.0kg x 3 @ RPE 10 [target RPE: 88] [est_stress=-, real_stress=405]
+  Set 3: 115.0kg x 3 @ RPE 10 [target RPE: 88] [est_stress=-, real_stress=405]
+  Set 4: 115.0kg x 3 @ RPE 10 [target RPE: 88] [est_stress=-, real_stress=405]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 130.0kg x 10 [target RPE: 9]
-  Set 2: 130.0kg x 9 [target RPE: 9]
-  Set 3: 130.0kg x 9 [target RPE: 9]
-  Set 4: 130.0kg x 8 [target RPE: 9]
+  Set 1: 130.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 130.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 130.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-08-15
 
@@ -7420,10 +7271,10 @@ Finished: 2025-08-15 15:56:02
 
 ### Bench Press (Barbell)
 
-  Set 1: 100.0kg x 12
-  Set 2: 100.0kg x 9
-  Set 3: 100.0kg x 9
-  Set 4: 100.0kg x 7
+  Set 1: 100.0kg x 12 [est_stress=-, real_stress=-]
+  Set 2: 100.0kg x 9 [est_stress=-, real_stress=-]
+  Set 3: 100.0kg x 9 [est_stress=-, real_stress=-]
+  Set 4: 100.0kg x 7 [est_stress=-, real_stress=-]
 
 ## 2025-08-14
 
@@ -7440,17 +7291,17 @@ Finished: 2025-08-14 14:49:37
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 165.0kg x 3 @ RPE 8 [target RPE: 6]
-  Set 2: 155.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 155.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 155.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 165.0kg x 3 @ RPE 8 [target RPE: 6] [est_stress=225, real_stress=345]
+  Set 2: 155.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=310, real_stress=382]
+  Set 3: 155.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=310, real_stress=382]
+  Set 4: 155.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=310, real_stress=346]
 
 ### Bench Press (Paused)
 
-  Set 1: 112.5kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 100.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 3: 100.0kg x 5 @ RPE 9 [target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 9 [target RPE: 6]
+  Set 1: 112.5kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=84, real_stress=93]
+  Set 2: 100.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=192, real_stress=296]
+  Set 3: 100.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=192, real_stress=355]
+  Set 4: 100.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=192, real_stress=355]
 
 ### Pull-Up (Weighted)
 
@@ -7476,10 +7327,10 @@ Finished: 2025-08-13 14:50:07
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 @ RPE 8 [target RPE: 85]
-  Set 2: 142.5kg x 4 @ RPE 7.5 [target RPE: 82]
-  Set 3: 142.5kg x 4 @ RPE 7.5 [target RPE: 82]
-  Set 4: 142.5kg x 4 @ RPE 7.5 [target RPE: 82]
+  Set 1: 147.5kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=324]
+  Set 2: 142.5kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=350]
+  Set 3: 142.5kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=350]
+  Set 4: 142.5kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=350]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -7505,16 +7356,16 @@ Finished: 2025-08-12 14:53:32
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 7.5 [target RPE: 91]
-  Set 2: 170.0kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 3: 170.0kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 4: 170.0kg x 3 @ RPE 7.5 [target RPE: 85]
+  Set 1: 180.0kg x 1 @ RPE 7.5 [target RPE: 91] [est_stress=-, real_stress=135]
+  Set 2: 170.0kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=340]
+  Set 3: 170.0kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=340]
+  Set 4: 170.0kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=340]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 48.0kg x 8 [target RPE: 9-10]
-  Set 2: 48.0kg x 6 [target RPE: 9-10]
-  Set 3: 48.0kg x 5 [target RPE: 9-10]
+  Set 1: 48.0kg x 8 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 48.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 48.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -7537,18 +7388,18 @@ Finished: 2025-08-11 14:30:35
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 2 @ RPE 8.5 [target RPE: 91]
-  Set 2: 115.0kg x 3 @ RPE 9 [target RPE: 88]
-  Set 3: 115.0kg x 3 @ RPE 9.5 [target RPE: 88]
-  Set 4: 115.0kg x 3 @ RPE 9.5 [target RPE: 88]
-  Set 5: 82.5kg x 20 @ RPE 10 [target: 3 reps, target RPE: 88]
+  Set 1: 117.5kg x 2 @ RPE 8.5 [target RPE: 91] [est_stress=-, real_stress=211]
+  Set 2: 115.0kg x 3 @ RPE 9 [target RPE: 88] [est_stress=-, real_stress=324]
+  Set 3: 115.0kg x 3 @ RPE 9.5 [target RPE: 88] [est_stress=-, real_stress=364]
+  Set 4: 115.0kg x 3 @ RPE 9.5 [target RPE: 88] [est_stress=-, real_stress=364]
+  Set 5: 82.5kg x 20 @ RPE 10 [target: 3 reps, target RPE: 88] [est_stress=-, real_stress=997]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 125.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 125.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=128, real_stress=158]
+  Set 2: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
+  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
+  Set 4: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
 
 ### Pull-Up (Weighted)
 
@@ -7574,25 +7425,25 @@ Finished: 2025-08-10 16:23:41
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 8 [target RPE: 86]
-  Set 2: 147.0kg x 3 @ RPE 8.5 [target RPE: 85]
-  Set 3: 147.0kg x 3 @ RPE 8 [target RPE: 85]
-  Set 4: 147.0kg x 3 @ RPE 8.5 [target RPE: 85]
-  Set 5: 120.0kg x 10 @ RPE 7.5 [target: 3 reps, target RPE: 85]
+  Set 1: 150.0kg x 2 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=227]
+  Set 2: 147.0kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=352]
+  Set 3: 147.0kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=320]
+  Set 4: 147.0kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=352]
+  Set 5: 120.0kg x 10 @ RPE 7.5 [target: 3 reps, target RPE: 85] [est_stress=-, real_stress=523]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 2: 110.0kg x 4 @ RPE 9 [target RPE: 84]
-  Set 3: 110.0kg x 4 @ RPE 9 [target RPE: 84]
-  Set 4: 110.0kg x 4 @ RPE 9 [target RPE: 84]
+  Set 1: 112.5kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=278]
+  Set 2: 110.0kg x 4 @ RPE 9 [target RPE: 84] [est_stress=-, real_stress=378]
+  Set 3: 110.0kg x 4 @ RPE 9 [target RPE: 84] [est_stress=-, real_stress=378]
+  Set 4: 110.0kg x 4 @ RPE 9 [target RPE: 84] [est_stress=-, real_stress=378]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 130.0kg x 8 [target RPE: 9]
-  Set 2: 130.0kg x 8 [target RPE: 9]
-  Set 3: 130.0kg x 8 [target RPE: 9]
-  Set 4: 130.0kg x 8 [target RPE: 9]
+  Set 1: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-08-08
 
@@ -7609,10 +7460,10 @@ Finished: 2025-08-08 14:40:49
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 2 @ RPE 7
-  Set 2: 130.0kg x 10 @ RPE 9
-  Set 3: 130.0kg x 10 @ RPE 9.5
-  Set 4: 130.0kg x 10 @ RPE 9.5
+  Set 1: 140.0kg x 2 @ RPE 7 [est_stress=-, real_stress=148]
+  Set 2: 130.0kg x 10 @ RPE 9 [est_stress=-, real_stress=886]
+  Set 3: 130.0kg x 10 @ RPE 9.5 [est_stress=-, real_stress=997]
+  Set 4: 130.0kg x 10 @ RPE 9.5 [est_stress=-, real_stress=997]
 
 ## 2025-08-07
 
@@ -7629,17 +7480,17 @@ Finished: 2025-08-07 14:46:21
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 162.5kg x 3 @ RPE 6 [target RPE: 6]
-  Set 2: 152.5kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 152.5kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 152.5kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 162.5kg x 3 @ RPE 6 [target RPE: 6] [est_stress=215, real_stress=215]
+  Set 2: 152.5kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=296, real_stress=330]
+  Set 3: 152.5kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=296, real_stress=330]
+  Set 4: 152.5kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=296, real_stress=330]
 
 ### Bench Press (Paused)
 
-  Set 1: 100.0kg x 5 @ RPE 7.5 [target RPE: 9-10]
-  Set 2: 100.0kg x 5 @ RPE 8.5 [target RPE: 9-10]
-  Set 3: 100.0kg x 5 @ RPE 8.5 [target RPE: 9-10]
-  Set 4: 112.5kg x 1 @ RPE 9 [target RPE: 9-10]
+  Set 1: 100.0kg x 5 @ RPE 7.5 [target RPE: 9-10] [est_stress=-, real_stress=266]
+  Set 2: 100.0kg x 5 @ RPE 8.5 [target RPE: 9-10] [est_stress=-, real_stress=325]
+  Set 3: 100.0kg x 5 @ RPE 8.5 [target RPE: 9-10] [est_stress=-, real_stress=325]
+  Set 4: 112.5kg x 1 @ RPE 9 [target RPE: 9-10] [est_stress=-, real_stress=101]
 
 ### Pull-Up (Weighted)
 
@@ -7664,10 +7515,10 @@ Finished: 2025-08-06 14:53:07
 
 ### Squat (Low Bar)
 
-  Set 1: 141.0kg x 4 @ RPE 7.5 [target RPE: 82]
-  Set 2: 137.5kg x 5 @ RPE 8 [target RPE: 80]
-  Set 3: 137.5kg x 5 @ RPE 7.5 [target RPE: 80]
-  Set 4: 137.5kg x 5 @ RPE 8 [target RPE: 80]
+  Set 1: 141.0kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=339]
+  Set 2: 137.5kg x 5 @ RPE 8 [target RPE: 80] [est_stress=-, real_stress=437]
+  Set 3: 137.5kg x 5 @ RPE 7.5 [target RPE: 80] [est_stress=-, real_stress=393]
+  Set 4: 137.5kg x 5 @ RPE 8 [target RPE: 80] [est_stress=-, real_stress=437]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -7693,16 +7544,16 @@ Finished: 2025-08-05 14:54:51
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 2 @ RPE 7.5 [target RPE: 88]
-  Set 2: 167.5kg x 3 @ RPE 7.5 [target RPE: 84]
-  Set 3: 167.5kg x 3 @ RPE 7 [target RPE: 84]
-  Set 4: 167.5kg x 3 @ RPE 7 [target RPE: 84]
+  Set 1: 175.0kg x 2 @ RPE 7.5 [target RPE: 88] [est_stress=-, real_stress=247]
+  Set 2: 167.5kg x 3 @ RPE 7.5 [target RPE: 84] [est_stress=-, real_stress=325]
+  Set 3: 167.5kg x 3 @ RPE 7 [target RPE: 84] [est_stress=-, real_stress=289]
+  Set 4: 167.5kg x 3 @ RPE 7 [target RPE: 84] [est_stress=-, real_stress=289]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 48.0kg x 6 [target RPE: 9-10]
-  Set 2: 48.0kg x 6 [target RPE: 9-10]
-  Set 3: 48.0kg x 5 [target RPE: 9-10]
+  Set 1: 48.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 48.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 48.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -7725,17 +7576,17 @@ Finished: 2025-08-04 14:26:18
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 2 @ RPE 9 [target RPE: 89]
-  Set 2: 112.5kg x 3 @ RPE 9 [target RPE: 86]
-  Set 3: 112.5kg x 3 @ RPE 9 [target RPE: 86]
-  Set 4: 112.5kg x 3 @ RPE 9.5 [target RPE: 86]
+  Set 1: 117.5kg x 2 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=230]
+  Set 2: 112.5kg x 3 @ RPE 9 [target RPE: 86] [est_stress=-, real_stress=303]
+  Set 3: 112.5kg x 3 @ RPE 9 [target RPE: 86] [est_stress=-, real_stress=303]
+  Set 4: 112.5kg x 3 @ RPE 9.5 [target RPE: 86] [est_stress=-, real_stress=341]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 110.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 110.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 110.0kg x 5 @ RPE 6 [target RPE: 6]
+  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=113, real_stress=139]
+  Set 2: 110.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=145, real_stress=162]
+  Set 3: 110.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=145, real_stress=162]
+  Set 4: 110.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=145, real_stress=145]
 
 ### Pull-Up (Weighted)
 
@@ -7764,26 +7615,26 @@ Finished: 2025-08-02 16:34:07
 
 ### Squat (Low Bar)
 
-  Set 1: 152.0kg x 2 @ RPE 9.5 [target RPE: 88]
-  Set 2: 145.0kg x 2 @ RPE 8.5 [target: 4 reps, target RPE: 84]
-  Set 3: 140.0kg x 3 @ RPE 8.5 [target: 4 reps, target RPE: 84]
-  Set 4: 135.0kg x 4 @ RPE 8 [target RPE: 84]
-  Set 5: 110.0kg x 10 @ RPE 8 [target: 4 reps, target RPE: 84]
+  Set 1: 152.0kg x 2 @ RPE 9.5 [target RPE: 88] [est_stress=-, real_stress=319]
+  Set 2: 145.0kg x 2 @ RPE 8.5 [target: 4 reps, target RPE: 84] [est_stress=-, real_stress=225]
+  Set 3: 140.0kg x 3 @ RPE 8.5 [target: 4 reps, target RPE: 84] [est_stress=-, real_stress=304]
+  Set 4: 135.0kg x 4 @ RPE 8 [target RPE: 84] [est_stress=-, real_stress=331]
+  Set 5: 110.0kg x 10 @ RPE 8 [target: 4 reps, target RPE: 84] [est_stress=-, real_stress=447]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 2: 105.0kg x 5 @ RPE 7.5 [target RPE: 81]
-  Set 3: 105.0kg x 5 @ RPE 8.5 [target RPE: 81]
-  Set 4: 105.0kg x 5 @ RPE 8.5 [target RPE: 81]
-  Set 5: 80.0kg x 20 [target: 5 reps, target RPE: 81]
+  Set 1: 112.5kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=278]
+  Set 2: 105.0kg x 5 @ RPE 7.5 [target RPE: 81] [est_stress=-, real_stress=308]
+  Set 3: 105.0kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=377]
+  Set 4: 105.0kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=377]
+  Set 5: 80.0kg x 20 [target: 5 reps, target RPE: 81] [est_stress=-, real_stress=-]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 125.0kg x 8 [target RPE: 9]
-  Set 2: 125.0kg x 8 [target RPE: 9]
-  Set 3: 125.0kg x 8 [target RPE: 9]
-  Set 4: 125.0kg x 8 [target RPE: 9]
+  Set 1: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-07-31
 
@@ -7800,18 +7651,18 @@ Finished: 2025-07-31 17:17:00
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 2: 150.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 3: 153.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 153.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 160.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=205, real_stress=205]
+  Set 2: 150.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=281, real_stress=281]
+  Set 3: 153.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=298, real_stress=333]
+  Set 4: 153.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=298, real_stress=367]
 
 ### Bench Press (Close Grip)
 
-  Set 1: 100.0kg x 8 @ RPE 8 [target: 3 reps, target RPE: 82]
-  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 77]
-  Set 3: 100.0kg x 5 @ RPE 6 [target RPE: 77]
-  Set 4: 110.0kg x 3 @ RPE 8 [target: 5 reps, target RPE: 77]
-  Set 5: 100.0kg x 5 @ RPE 7 [target RPE: 77]
+  Set 1: 100.0kg x 8 @ RPE 8 [target: 3 reps, target RPE: 82] [est_stress=-, real_stress=473]
+  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 77] [est_stress=-, real_stress=192]
+  Set 3: 100.0kg x 5 @ RPE 6 [target RPE: 77] [est_stress=-, real_stress=192]
+  Set 4: 110.0kg x 3 @ RPE 8 [target: 5 reps, target RPE: 77] [est_stress=-, real_stress=236]
+  Set 5: 100.0kg x 5 @ RPE 7 [target RPE: 77] [est_stress=-, real_stress=237]
 
 ### Pull-Up (Weighted)
 
@@ -7834,10 +7685,10 @@ Finished: 2025-07-30 17:16:31
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 4 @ RPE 7.5 [target RPE: 81]
-  Set 2: 135.0kg x 6 @ RPE 7.5 [target RPE: 79]
-  Set 3: 135.0kg x 6 @ RPE 8 [target RPE: 79]
-  Set 4: 135.0kg x 6 @ RPE 8 [target RPE: 79]
+  Set 1: 140.0kg x 4 @ RPE 7.5 [target RPE: 81] [est_stress=-, real_stress=332]
+  Set 2: 135.0kg x 6 @ RPE 7.5 [target RPE: 79] [est_stress=-, real_stress=446]
+  Set 3: 135.0kg x 6 @ RPE 8 [target RPE: 79] [est_stress=-, real_stress=496]
+  Set 4: 135.0kg x 6 @ RPE 8 [target RPE: 79] [est_stress=-, real_stress=496]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -7863,16 +7714,16 @@ Finished: 2025-07-29 14:57:32
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 2 @ RPE 7.5 [target RPE: 88]
-  Set 2: 157.5kg x 5 @ RPE 7 [target RPE: 79]
-  Set 3: 157.5kg x 5 @ RPE 6.5 [target RPE: 79]
-  Set 4: 157.5kg x 5 @ RPE 7 [target RPE: 79]
+  Set 1: 175.0kg x 2 @ RPE 7.5 [target RPE: 88] [est_stress=-, real_stress=247]
+  Set 2: 157.5kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=401]
+  Set 3: 157.5kg x 5 @ RPE 6.5 [target RPE: 79] [est_stress=-, real_stress=363]
+  Set 4: 157.5kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=401]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 9 [target RPE: 9-10]
-  Set 2: 45.0kg x 9 [target RPE: 9-10]
-  Set 3: 45.0kg x 8 [target RPE: 9-10]
+  Set 1: 45.0kg x 9 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 45.0kg x 9 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 45.0kg x 8 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -7895,17 +7746,17 @@ Finished: 2025-07-28 15:47:04
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 2: 107.5kg x 5 @ RPE 8.5 [target RPE: 81]
-  Set 3: 107.5kg x 5 @ RPE 8.5 [target RPE: 81]
-  Set 4: 107.5kg x 5 @ RPE 9 [target RPE: 81]
+  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=227]
+  Set 2: 107.5kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=404]
+  Set 3: 107.5kg x 5 @ RPE 8.5 [target RPE: 81] [est_stress=-, real_stress=404]
+  Set 4: 107.5kg x 5 @ RPE 9 [target RPE: 81] [est_stress=-, real_stress=441]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 2: 110.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 110.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 120.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=113, real_stress=113]
+  Set 2: 110.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=145, real_stress=179]
+  Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=145, real_stress=179]
+  Set 4: 110.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=145, real_stress=179]
 
 ### Pull-Up (Weighted)
 
@@ -7934,24 +7785,24 @@ Finished: 2025-07-27 22:39:03
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 3 @ RPE 7 [target RPE: 84]
-  Set 2: 136.0kg x 5 @ RPE 7 [target RPE: 79]
-  Set 3: 136.0kg x 5 @ RPE 7 [target RPE: 79]
-  Set 4: 136.0kg x 5 @ RPE 7 [target RPE: 79]
+  Set 1: 145.0kg x 3 @ RPE 7 [target RPE: 84] [est_stress=-, real_stress=246]
+  Set 2: 136.0kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=338]
+  Set 3: 136.0kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=338]
+  Set 4: 136.0kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=338]
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 4 @ RPE 7.5 [target RPE: 82]
-  Set 2: 105.0kg x 6 @ RPE 6.5 [target RPE: 79]
-  Set 3: 105.0kg x 6 @ RPE 7.5 [target RPE: 79]
-  Set 4: 105.0kg x 6 @ RPE 7 [target RPE: 79]
+  Set 1: 110.0kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=284]
+  Set 2: 105.0kg x 6 @ RPE 6.5 [target RPE: 79] [est_stress=-, real_stress=298]
+  Set 3: 105.0kg x 6 @ RPE 7.5 [target RPE: 79] [est_stress=-, real_stress=370]
+  Set 4: 105.0kg x 6 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=329]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 125.0kg x 10 [target RPE: 9]
-  Set 2: 125.0kg x 9 [target RPE: 9]
-  Set 3: 125.0kg x 8 [target RPE: 9]
-  Set 4: 125.0kg x 8 [target RPE: 9]
+  Set 1: 125.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 125.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-07-25
 
@@ -7968,17 +7819,17 @@ Finished: 2025-07-25 15:05:07
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 155.0kg x 3 @ RPE 7 [target: 1 reps, target RPE: 100]
-  Set 2: 145.0kg x 5 @ RPE 7 [target: 2 reps, target RPE: 89]
-  Set 3: 145.0kg x 5 @ RPE 6.5 [target: 2 reps, target RPE: 89]
-  Set 4: 145.0kg x 5 @ RPE 6.5 [target: 2 reps, target RPE: 89]
+  Set 1: 155.0kg x 3 @ RPE 7 [target: 1 reps, target RPE: 100] [est_stress=-, real_stress=229]
+  Set 2: 145.0kg x 5 @ RPE 7 [target: 2 reps, target RPE: 89] [est_stress=-, real_stress=313]
+  Set 3: 145.0kg x 5 @ RPE 6.5 [target: 2 reps, target RPE: 89] [est_stress=-, real_stress=283]
+  Set 4: 145.0kg x 5 @ RPE 6.5 [target: 2 reps, target RPE: 89] [est_stress=-, real_stress=283]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 112.5kg x 2 @ RPE 8.5 [target RPE: 89]
-  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 77]
-  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 77]
-  Set 4: 100.0kg x 5 @ RPE 7.5 [target RPE: 77]
+  Set 1: 112.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=185]
+  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 77] [est_stress=-, real_stress=237]
+  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 77] [est_stress=-, real_stress=266]
+  Set 4: 100.0kg x 5 @ RPE 7.5 [target RPE: 77] [est_stress=-, real_stress=266]
 
 ### Pull-Up (Weighted)
 
@@ -8009,10 +7860,10 @@ Finished: 2025-07-23 10:18:52
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 8 [target RPE: 88]
-  Set 2: 145.0kg x 3 @ RPE 8.5 [target RPE: 85]
-  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 85]
-  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 85]
+  Set 1: 150.0kg x 2 @ RPE 8 [target RPE: 88] [est_stress=-, real_stress=227]
+  Set 2: 145.0kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=338]
+  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=277]
+  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=277]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -8039,15 +7890,15 @@ Finished: 2025-07-22 10:07:58
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 197.5kg x 1 [target: 3 reps, target RPE: 6]
-  Set 2: 170.0kg x 2 @ RPE 8 [target: 5 reps, target RPE: 6]
-  Set 3: 172.5kg x 2 @ RPE 8.5 [target: 5 reps, target RPE: 6]
+  Set 1: 197.5kg x 1 [target: 3 reps, target RPE: 6] [est_stress=385, real_stress=-]
+  Set 2: 170.0kg x 2 @ RPE 8 [target: 5 reps, target RPE: 6] [est_stress=409, real_stress=252]
+  Set 3: 172.5kg x 2 @ RPE 8.5 [target: 5 reps, target RPE: 6] [est_stress=428, real_stress=290]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 6 [target RPE: 9-10]
-  Set 2: 47.5kg x 6 [target RPE: 9-10]
-  Set 3: 47.5kg x 5 [target RPE: 9-10]
+  Set 1: 50.0kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 47.5kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 47.5kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -8071,17 +7922,17 @@ Finished: 2025-07-21 10:11:38
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 10 [target RPE: 100]
-  Set 2: 120.0kg x 2 @ RPE 10 [target: 4 reps, target RPE: 89]
-  Set 3: 120.0kg x 2 @ RPE 10 [target: 4 reps, target RPE: 89]
-  Set 4: 100.0kg x 10 @ RPE 9.5 [target: 4 reps, target RPE: 89]
+  Set 1: 130.0kg x 1 @ RPE 10 [target RPE: 100] [est_stress=-, real_stress=195]
+  Set 2: 120.0kg x 2 @ RPE 10 [target: 4 reps, target RPE: 89] [est_stress=-, real_stress=307]
+  Set 3: 120.0kg x 2 @ RPE 10 [target: 4 reps, target RPE: 89] [est_stress=-, real_stress=307]
+  Set 4: 100.0kg x 10 @ RPE 9.5 [target: 4 reps, target RPE: 89] [est_stress=-, real_stress=799]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 2: 115.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=113, real_stress=126]
+  Set 2: 115.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=166, real_stress=166]
+  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
+  Set 4: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=166, real_stress=185]
 
 ### Pull-Up (Weighted)
 
@@ -8111,23 +7962,23 @@ Finished: 2025-07-19 10:33:36
 
 ### Squat (Low Bar)
 
-  Set 1: 172.5kg x 1 @ RPE 10 [target RPE: 100]
-  Set 2: 155.0kg x 2 @ RPE 10 [target RPE: 89]
-  Set 3: 155.0kg x 2 @ RPE 10 [target RPE: 89]
+  Set 1: 172.5kg x 1 @ RPE 10 [target RPE: 100] [est_stress=-, real_stress=259]
+  Set 2: 155.0kg x 2 @ RPE 10 [target RPE: 89] [est_stress=-, real_stress=375]
+  Set 3: 155.0kg x 2 @ RPE 10 [target RPE: 89] [est_stress=-, real_stress=375]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 8 [target RPE: 88]
-  Set 2: 112.5kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 85]
-  Set 4: 112.5kg x 3 @ RPE 7.5 [target RPE: 85]
+  Set 1: 115.0kg x 2 @ RPE 8 [target RPE: 88] [est_stress=-, real_stress=180]
+  Set 2: 112.5kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=227]
+  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=253]
+  Set 4: 112.5kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=227]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 125.0kg x 9 [target RPE: 9]
-  Set 2: 125.0kg x 9 [target RPE: 9]
-  Set 3: 125.0kg x 8 [target RPE: 9]
-  Set 4: 125.0kg x 8 [target RPE: 9]
+  Set 1: 125.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 125.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-07-17
 
@@ -8145,17 +7996,17 @@ Finished: 2025-07-17 10:11:45
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 8.5 [target RPE: 92]
-  Set 2: 170.0kg x 2 @ RPE 8 [target RPE: 89]
-  Set 3: 172.5kg x 2 @ RPE 7.5 [target RPE: 89]
-  Set 4: 175.0kg x 2 @ RPE 8.5 [target RPE: 89]
+  Set 1: 180.0kg x 1 @ RPE 8.5 [target RPE: 92] [est_stress=-, real_stress=178]
+  Set 2: 170.0kg x 2 @ RPE 8 [target RPE: 89] [est_stress=-, real_stress=272]
+  Set 3: 172.5kg x 2 @ RPE 7.5 [target RPE: 89] [est_stress=-, real_stress=256]
+  Set 4: 175.0kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=327]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 107.5kg x 3 @ RPE 7.5 [target RPE: 82]
-  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 77]
-  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 77]
-  Set 4: 100.0kg x 5 @ RPE 7 [target RPE: 77]
+  Set 1: 107.5kg x 3 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=198]
+  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 77] [est_stress=-, real_stress=237]
+  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 77] [est_stress=-, real_stress=266]
+  Set 4: 100.0kg x 5 @ RPE 7 [target RPE: 77] [est_stress=-, real_stress=237]
 
 ### Pull-Up (Weighted)
 
@@ -8186,10 +8037,10 @@ Finished: 2025-07-16 10:34:09
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 2 @ RPE 9.5 [target RPE: 89]
-  Set 2: 147.5kg x 3 @ RPE 8 [target RPE: 86]
-  Set 3: 145.0kg x 3 @ RPE 8 [target RPE: 86]
-  Set 4: 145.0kg x 3 @ RPE 8 [target RPE: 86]
+  Set 1: 155.0kg x 2 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=348]
+  Set 2: 147.5kg x 3 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=333]
+  Set 3: 145.0kg x 3 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=316]
+  Set 4: 145.0kg x 3 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=316]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -8216,16 +8067,16 @@ Finished: 2025-07-15 10:12:53
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 155.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 142.5kg x 5 @ RPE 6 [target RPE: 6]
-  Set 3: 145.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 4: 145.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 155.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=201, real_stress=248]
+  Set 2: 142.5kg x 5 @ RPE 6 [target RPE: 6] [est_stress=261, real_stress=261]
+  Set 3: 145.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=274, real_stress=274]
+  Set 4: 145.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=274, real_stress=306]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 7 [target RPE: 9-10]
-  Set 2: 50.0kg x 5 [target RPE: 9-10]
-  Set 3: 47.5kg x 6 [target RPE: 9-10]
+  Set 1: 50.0kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 50.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 47.5kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -8249,17 +8100,17 @@ Finished: 2025-07-14 09:55:09
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 8.5 [target RPE: 92]
-  Set 2: 117.5kg x 2 @ RPE 8.5 [target RPE: 89]
-  Set 3: 117.5kg x 2 @ RPE 9 [target RPE: 89]
-  Set 4: 117.5kg x 2 @ RPE 9 [target RPE: 89]
+  Set 1: 122.5kg x 1 @ RPE 8.5 [target RPE: 92] [est_stress=-, real_stress=120]
+  Set 2: 117.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=211]
+  Set 3: 117.5kg x 2 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=230]
+  Set 4: 117.5kg x 2 @ RPE 9 [target RPE: 89] [est_stress=-, real_stress=230]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 7.5 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 7.5 [target RPE: 6]
+  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=117, real_stress=144]
+  Set 2: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=171, real_stress=191]
+  Set 3: 115.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=171, real_stress=237]
+  Set 4: 115.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=171, real_stress=237]
 
 ### Pull-Up (Weighted)
 
@@ -8289,24 +8140,24 @@ Finished: 2025-07-12 10:22:54
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 @ RPE 8 [target RPE: 91]
-  Set 2: 152.5kg x 2 @ RPE 8 [target RPE: 89]
-  Set 3: 152.5kg x 2 @ RPE 8.5 [target RPE: 89]
-  Set 4: 152.5kg x 2 @ RPE 8.5 [target RPE: 89]
+  Set 1: 160.0kg x 1 @ RPE 8 [target RPE: 91] [est_stress=-, real_stress=142]
+  Set 2: 152.5kg x 2 @ RPE 8 [target RPE: 89] [est_stress=-, real_stress=245]
+  Set 3: 152.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=270]
+  Set 4: 152.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=270]
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 2 @ RPE 8.5 [target RPE: 89]
-  Set 2: 112.5kg x 3 @ RPE 8.5 [target RPE: 86]
-  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 86]
-  Set 4: 112.5kg x 3 @ RPE 8.5 [target RPE: 86]
+  Set 1: 117.5kg x 2 @ RPE 8.5 [target RPE: 89] [est_stress=-, real_stress=211]
+  Set 2: 112.5kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=278]
+  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 86] [est_stress=-, real_stress=253]
+  Set 4: 112.5kg x 3 @ RPE 8.5 [target RPE: 86] [est_stress=-, real_stress=278]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 125.0kg x 10 [target RPE: 9]
-  Set 2: 125.0kg x 9 [target RPE: 9]
-  Set 3: 125.0kg x 8 [target RPE: 9]
-  Set 4: 125.0kg x 8 [target RPE: 9]
+  Set 1: 125.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 125.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-07-10
 
@@ -8324,18 +8175,18 @@ Finished: 2025-07-10 10:21:46
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 1 @ RPE 7.5 [target RPE: 91]
-  Set 2: 165.0kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 3: 165.0kg x 3 @ RPE 7 [target RPE: 85]
-  Set 4: 165.0kg x 3 @ RPE 7 [target RPE: 85]
+  Set 1: 175.0kg x 1 @ RPE 7.5 [target RPE: 91] [est_stress=-, real_stress=134]
+  Set 2: 165.0kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=336]
+  Set 3: 165.0kg x 3 @ RPE 7 [target RPE: 85] [est_stress=-, real_stress=299]
+  Set 4: 165.0kg x 3 @ RPE 7 [target RPE: 85] [est_stress=-, real_stress=299]
 
 ### Bench Press (Paused)
 
-  Set 1: 115.0kg x 1 @ RPE 8 [target: 2 reps, target RPE: 88]
-  Set 2: 112.5kg x 2 @ RPE 9 [target: 4 reps, target RPE: 80]
-  Set 3: 100.0kg x 4 @ RPE 7 [target RPE: 80]
-  Set 4: 100.0kg x 4 @ RPE 8 [target RPE: 80]
-  Set 5: 96.0kg x 4 @ RPE 6.5 [target RPE: 80]
+  Set 1: 115.0kg x 1 @ RPE 8 [target: 2 reps, target RPE: 88] [est_stress=-, real_stress=90]
+  Set 2: 112.5kg x 2 @ RPE 9 [target: 4 reps, target RPE: 80] [est_stress=-, real_stress=202]
+  Set 3: 100.0kg x 4 @ RPE 7 [target RPE: 80] [est_stress=-, real_stress=189]
+  Set 4: 100.0kg x 4 @ RPE 8 [target RPE: 80] [est_stress=-, real_stress=237]
+  Set 5: 96.0kg x 4 @ RPE 6.5 [target RPE: 80] [est_stress=-, real_stress=152]
 
 ### Pull-Up (Weighted)
 
@@ -8366,10 +8217,10 @@ Finished: 2025-07-09 10:22:30
 
 ### Squat (Low Bar)
 
-  Set 1: 120.0kg x 10 @ RPE 7.5 [target: 3 reps, target RPE: 85]
-  Set 2: 120.0kg x 9 @ RPE 8 [target: 4 reps, target RPE: 82]
-  Set 3: 120.0kg x 9 @ RPE 8 [target: 4 reps, target RPE: 82]
-  Set 4: 120.0kg x 10 @ RPE 8 [target: 4 reps, target RPE: 82]
+  Set 1: 120.0kg x 10 @ RPE 7.5 [target: 3 reps, target RPE: 85] [est_stress=-, real_stress=538]
+  Set 2: 120.0kg x 9 @ RPE 8 [target: 4 reps, target RPE: 82] [est_stress=-, real_stress=538]
+  Set 3: 120.0kg x 9 @ RPE 8 [target: 4 reps, target RPE: 82] [est_stress=-, real_stress=538]
+  Set 4: 120.0kg x 10 @ RPE 8 [target: 4 reps, target RPE: 82] [est_stress=-, real_stress=598]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -8396,17 +8247,17 @@ Finished: 2025-07-08 10:14:22
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 155.0kg x 1 @ RPE 6 [target: 3 reps, target RPE: 6]
-  Set 2: 130.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 3: 130.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 4: 130.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 5: 95.0kg x 12 [target: 5 reps, target RPE: 6]
+  Set 1: 155.0kg x 1 @ RPE 6 [target: 3 reps, target RPE: 6] [est_stress=201, real_stress=67]
+  Set 2: 130.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=198, real_stress=198]
+  Set 3: 130.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=198, real_stress=198]
+  Set 4: 130.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=198, real_stress=198]
+  Set 5: 95.0kg x 12 [target: 5 reps, target RPE: 6] [est_stress=77, real_stress=-]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 5 [target RPE: 9-10]
-  Set 2: 47.5kg x 7 [target RPE: 9-10]
-  Set 3: 47.5kg x 5 [target RPE: 9-10]
+  Set 1: 50.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 47.5kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 47.5kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -8430,17 +8281,17 @@ Finished: 2025-07-07 09:58:37
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 2 @ RPE 9.5 [target RPE: 89]
-  Set 2: 112.5kg x 3 @ RPE 8.5 [target RPE: 85]
-  Set 3: 110.0kg x 3 @ RPE 8 [target RPE: 85]
-  Set 4: 110.0kg x 3 @ RPE 8.5 [target RPE: 85]
+  Set 1: 120.0kg x 2 @ RPE 9.5 [target RPE: 89] [est_stress=-, real_stress=276]
+  Set 2: 112.5kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=278]
+  Set 3: 110.0kg x 3 @ RPE 8 [target RPE: 85] [est_stress=-, real_stress=236]
+  Set 4: 110.0kg x 3 @ RPE 8.5 [target RPE: 85] [est_stress=-, real_stress=260]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 110.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 100.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 110.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=90, real_stress=111]
+  Set 2: 100.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=112, real_stress=112]
+  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=112, real_stress=138]
+  Set 4: 100.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=112, real_stress=138]
 
 ### Pull-Up (Weighted)
 
@@ -8470,24 +8321,24 @@ Finished: 2025-07-05 10:27:01
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 2 @ RPE 8.5 [target RPE: 88]
-  Set 2: 147.5kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 3: 147.5kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 4: 147.5kg x 3 @ RPE 7.5 [target RPE: 85]
+  Set 1: 155.0kg x 2 @ RPE 8.5 [target RPE: 88] [est_stress=-, real_stress=283]
+  Set 2: 147.5kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=300]
+  Set 3: 147.5kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=300]
+  Set 4: 147.5kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=300]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 85]
-  Set 2: 107.5kg x 4 @ RPE 7.5 [target RPE: 82]
-  Set 3: 107.5kg x 4 @ RPE 8 [target RPE: 82]
-  Set 4: 107.5kg x 4 @ RPE 7.5 [target RPE: 82]
+  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 85] [est_stress=-, real_stress=227]
+  Set 2: 107.5kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=265]
+  Set 3: 107.5kg x 4 @ RPE 8 [target RPE: 82] [est_stress=-, real_stress=294]
+  Set 4: 107.5kg x 4 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=265]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 125.0kg x 8 [target RPE: 9]
-  Set 2: 125.0kg x 8 [target RPE: 9]
-  Set 3: 125.0kg x 8 [target RPE: 9]
-  Set 4: 125.0kg x 8 [target RPE: 9]
+  Set 1: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-07-03
 
@@ -8505,17 +8356,17 @@ Finished: 2025-07-03 10:15:25
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 2 @ RPE 7 [target RPE: 88]
-  Set 2: 165.0kg x 3 @ RPE 7 [target RPE: 84]
-  Set 3: 165.0kg x 3 @ RPE 7 [target RPE: 84]
-  Set 4: 165.0kg x 3 @ RPE 7.5 [target RPE: 84]
+  Set 1: 170.0kg x 2 @ RPE 7 [target RPE: 88] [est_stress=-, real_stress=218]
+  Set 2: 165.0kg x 3 @ RPE 7 [target RPE: 84] [est_stress=-, real_stress=299]
+  Set 3: 165.0kg x 3 @ RPE 7 [target RPE: 84] [est_stress=-, real_stress=299]
+  Set 4: 165.0kg x 3 @ RPE 7.5 [target RPE: 84] [est_stress=-, real_stress=336]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 107.5kg x 3 @ RPE 7 [target RPE: 82]
-  Set 2: 100.0kg x 5 @ RPE 6.5 [target RPE: 77]
-  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 77]
-  Set 4: 100.0kg x 5 @ RPE 6.5 [target RPE: 77]
+  Set 1: 107.5kg x 3 @ RPE 7 [target RPE: 82] [est_stress=-, real_stress=176]
+  Set 2: 100.0kg x 5 @ RPE 6.5 [target RPE: 77] [est_stress=-, real_stress=214]
+  Set 3: 100.0kg x 5 @ RPE 7 [target RPE: 77] [est_stress=-, real_stress=237]
+  Set 4: 100.0kg x 5 @ RPE 6.5 [target RPE: 77] [est_stress=-, real_stress=214]
 
 ### Pull-Up (Weighted)
 
@@ -8546,10 +8397,10 @@ Finished: 2025-07-02 10:15:56
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 7.5 [target RPE: 86]
-  Set 2: 140.0kg x 4 @ RPE 7.5 [target RPE: 81]
-  Set 3: 140.0kg x 4 @ RPE 7 [target RPE: 81]
-  Set 4: 140.0kg x 4 @ RPE 8 [target RPE: 81]
+  Set 1: 150.0kg x 2 @ RPE 7.5 [target RPE: 86] [est_stress=-, real_stress=210]
+  Set 2: 140.0kg x 4 @ RPE 7.5 [target RPE: 81] [est_stress=-, real_stress=342]
+  Set 3: 140.0kg x 4 @ RPE 7 [target RPE: 81] [est_stress=-, real_stress=304]
+  Set 4: 140.0kg x 4 @ RPE 8 [target RPE: 81] [est_stress=-, real_stress=380]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -8576,16 +8427,16 @@ Finished: 2025-07-01 10:09:07
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 155.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 142.5kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 142.5kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 142.5kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 155.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=201, real_stress=248]
+  Set 2: 142.5kg x 5 @ RPE 7 [target RPE: 6] [est_stress=261, real_stress=321]
+  Set 3: 142.5kg x 5 @ RPE 7 [target RPE: 6] [est_stress=261, real_stress=321]
+  Set 4: 142.5kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=261, real_stress=291]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 50.0kg x 5 [target RPE: 9-10]
-  Set 2: 47.5kg x 6 [target RPE: 9-10]
-  Set 3: 47.5kg x 6 [target RPE: 9-10]
+  Set 1: 50.0kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 47.5kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 47.5kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -8609,17 +8460,17 @@ Finished: 2025-06-30 09:53:01
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 7.5 [target RPE: 88]
-  Set 2: 110.0kg x 3 @ RPE 7 [target RPE: 84]
-  Set 3: 110.0kg x 3 @ RPE 7.5 [target RPE: 84]
-  Set 4: 110.0kg x 3 @ RPE 7.5 [target RPE: 84]
+  Set 1: 115.0kg x 2 @ RPE 7.5 [target RPE: 88] [est_stress=-, real_stress=162]
+  Set 2: 110.0kg x 3 @ RPE 7 [target RPE: 84] [est_stress=-, real_stress=189]
+  Set 3: 110.0kg x 3 @ RPE 7.5 [target RPE: 84] [est_stress=-, real_stress=213]
+  Set 4: 110.0kg x 3 @ RPE 7.5 [target RPE: 84] [est_stress=-, real_stress=213]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 2: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=117, real_stress=130]
+  Set 2: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=171, real_stress=191]
+  Set 3: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=171, real_stress=191]
+  Set 4: 115.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=171, real_stress=191]
 
 ### Pull-Up (Weighted)
 
@@ -8649,24 +8500,24 @@ Finished: 2025-06-28 10:25:08
 
 ### Squat (Low Bar)
 
-  Set 1: 152.5kg x 2 @ RPE 7.5 [target RPE: 88]
-  Set 2: 146.0kg x 3 @ RPE 7.5 [target RPE: 86]
-  Set 3: 146.0kg x 3 @ RPE 7.5 [target RPE: 86]
-  Set 4: 146.0kg x 3 @ RPE 7 [target RPE: 86]
+  Set 1: 152.5kg x 2 @ RPE 7.5 [target RPE: 88] [est_stress=-, real_stress=221]
+  Set 2: 146.0kg x 3 @ RPE 7.5 [target RPE: 86] [est_stress=-, real_stress=291]
+  Set 3: 146.0kg x 3 @ RPE 7.5 [target RPE: 86] [est_stress=-, real_stress=291]
+  Set 4: 146.0kg x 3 @ RPE 7 [target RPE: 86] [est_stress=-, real_stress=258]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 2 @ RPE 7 [target RPE: 86]
-  Set 2: 105.0kg x 4 @ RPE 6.5 [target RPE: 81]
-  Set 3: 106.0kg x 4 @ RPE 6.5 [target RPE: 81]
-  Set 4: 107.5kg x 4 @ RPE 7.5 [target RPE: 81]
+  Set 1: 112.5kg x 2 @ RPE 7 [target RPE: 86] [est_stress=-, real_stress=135]
+  Set 2: 105.0kg x 4 @ RPE 6.5 [target RPE: 81] [est_stress=-, real_stress=199]
+  Set 3: 106.0kg x 4 @ RPE 6.5 [target RPE: 81] [est_stress=-, real_stress=204]
+  Set 4: 107.5kg x 4 @ RPE 7.5 [target RPE: 81] [est_stress=-, real_stress=265]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 10 [target RPE: 9]
-  Set 2: 125.0kg x 7 [target RPE: 9]
-  Set 3: 125.0kg x 8 [target RPE: 9]
-  Set 4: 125.0kg x 8 [target RPE: 9]
+  Set 1: 120.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 125.0kg x 7 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-06-26
 
@@ -8684,17 +8535,17 @@ Finished: 2025-06-26 10:08:12
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 2 @ RPE 7.5 [target RPE: 88]
-  Set 2: 150.0kg x 5 @ RPE 6.5 [target RPE: 79]
-  Set 3: 155.0kg x 5 @ RPE 7 [target RPE: 79]
-  Set 4: 155.0kg x 5 @ RPE 6 [target RPE: 79]
+  Set 1: 170.0kg x 2 @ RPE 7.5 [target RPE: 88] [est_stress=-, real_stress=245]
+  Set 2: 150.0kg x 5 @ RPE 6.5 [target RPE: 79] [est_stress=-, real_stress=339]
+  Set 3: 155.0kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=413]
+  Set 4: 155.0kg x 5 @ RPE 6 [target RPE: 79] [est_stress=-, real_stress=335]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 107.5kg x 3 @ RPE 7.5 [target RPE: 82]
-  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 77]
-  Set 3: 100.0kg x 5 @ RPE 6.5 [target RPE: 77]
-  Set 4: 100.0kg x 7 @ RPE 9.5 [target: 5 reps, target RPE: 77]
+  Set 1: 107.5kg x 3 @ RPE 7.5 [target RPE: 82] [est_stress=-, real_stress=198]
+  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 77] [est_stress=-, real_stress=237]
+  Set 3: 100.0kg x 5 @ RPE 6.5 [target RPE: 77] [est_stress=-, real_stress=214]
+  Set 4: 100.0kg x 7 @ RPE 9.5 [target: 5 reps, target RPE: 77] [est_stress=-, real_stress=559]
 
 ### Pull-Up (Weighted)
 
@@ -8725,10 +8576,10 @@ Finished: 2025-06-25 10:20:53
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 3 @ RPE 7.5 [target RPE: 84]
-  Set 2: 130.0kg x 6 @ RPE 6.5 [target: 5 reps, target RPE: 79]
-  Set 3: 132.5kg x 6 @ RPE 7 [target: 5 reps, target RPE: 79]
-  Set 4: 132.5kg x 6 @ RPE 6 [target: 5 reps, target RPE: 79]
+  Set 1: 145.0kg x 3 @ RPE 7.5 [target RPE: 84] [est_stress=-, real_stress=285]
+  Set 2: 130.0kg x 6 @ RPE 6.5 [target: 5 reps, target RPE: 79] [est_stress=-, real_stress=331]
+  Set 3: 132.5kg x 6 @ RPE 7 [target: 5 reps, target RPE: 79] [est_stress=-, real_stress=386]
+  Set 4: 132.5kg x 6 @ RPE 6 [target: 5 reps, target RPE: 79] [est_stress=-, real_stress=314]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -8755,16 +8606,16 @@ Finished: 2025-06-24 10:13:15
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 155.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 2: 140.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 6.5 [target RPE: 6]
+  Set 1: 155.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=201, real_stress=279]
+  Set 2: 140.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=247, real_stress=304]
+  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=247, real_stress=304]
+  Set 4: 140.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=247, real_stress=276]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 [target RPE: 9-10]
-  Set 2: 47.5kg x 6 [target RPE: 9-10]
-  Set 3: 45.0kg x 8 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 47.5kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 45.0kg x 8 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -8788,17 +8639,17 @@ Finished: 2025-06-23 09:45:47
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 3 @ RPE 8 [target RPE: 84]
-  Set 2: 103.5kg x 5 @ RPE 7.5 [target RPE: 79]
-  Set 3: 103.5kg x 5 @ RPE 8 [target RPE: 79]
-  Set 4: 102.5kg x 5 @ RPE 7.5 [target RPE: 79]
+  Set 1: 110.0kg x 3 @ RPE 8 [target RPE: 84] [est_stress=-, real_stress=236]
+  Set 2: 103.5kg x 5 @ RPE 7.5 [target RPE: 79] [est_stress=-, real_stress=295]
+  Set 3: 103.5kg x 5 @ RPE 8 [target RPE: 79] [est_stress=-, real_stress=328]
+  Set 4: 102.5kg x 5 @ RPE 7.5 [target RPE: 79] [est_stress=-, real_stress=287]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 2: 115.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 7.5 [target RPE: 6]
+  Set 1: 120.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=117, real_stress=130]
+  Set 2: 115.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=171, real_stress=171]
+  Set 3: 115.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=171, real_stress=211]
+  Set 4: 115.0kg x 5 @ RPE 7.5 [target RPE: 6] [est_stress=171, real_stress=237]
 
 ### Pull-Up (Weighted)
 
@@ -8828,24 +8679,24 @@ Finished: 2025-06-21 10:17:04
 
 ### Squat (Low Bar)
 
-  Set 1: 143.0kg x 3 @ RPE 7 [target RPE: 84]
-  Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 79]
-  Set 3: 135.0kg x 5 @ RPE 7 [target RPE: 79]
-  Set 4: 135.0kg x 5 @ RPE 7 [target RPE: 79]
+  Set 1: 143.0kg x 3 @ RPE 7 [target RPE: 84] [est_stress=-, real_stress=243]
+  Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 79] [est_stress=-, real_stress=426]
+  Set 3: 135.0kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=341]
+  Set 4: 135.0kg x 5 @ RPE 7 [target RPE: 79] [est_stress=-, real_stress=341]
 
 ### Bench Press (Barbell)
 
-  Set 1: 105.0kg x 4 @ RPE 7 [target RPE: 81]
-  Set 2: 100.0kg x 6 @ RPE 7 [target RPE: 76]
-  Set 3: 100.0kg x 6 @ RPE 7 [target RPE: 76]
-  Set 4: 100.0kg x 6 @ RPE 7.5 [target RPE: 76]
+  Set 1: 105.0kg x 4 @ RPE 7 [target RPE: 81] [est_stress=-, real_stress=219]
+  Set 2: 100.0kg x 6 @ RPE 7 [target RPE: 76] [est_stress=-, real_stress=284]
+  Set 3: 100.0kg x 6 @ RPE 7 [target RPE: 76] [est_stress=-, real_stress=284]
+  Set 4: 100.0kg x 6 @ RPE 7.5 [target RPE: 76] [est_stress=-, real_stress=320]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 10 [target RPE: 9]
-  Set 2: 120.0kg x 10 [target RPE: 9]
-  Set 3: 120.0kg x 9 [target RPE: 9]
-  Set 4: 120.0kg x 9 [target RPE: 9]
+  Set 1: 120.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 120.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-06-19
 
@@ -8863,17 +8714,17 @@ Finished: 2025-06-19 10:27:10
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 190.0kg x 1 @ RPE 9.5 [target RPE: 9]
-  Set 2: 175.0kg x 2 @ RPE 9.5 [target RPE: 8]
-  Set 3: 175.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 4: 0kg x 0 [target: 2 reps, target RPE: 8]
+  Set 1: 190.0kg x 1 @ RPE 9.5 [target RPE: 9] [est_stress=228, real_stress=256]
+  Set 2: 175.0kg x 2 @ RPE 9.5 [target RPE: 8] [est_stress=297, real_stress=401]
+  Set 3: 175.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=297, real_stress=356]
+  Set 4: 0kg x 0 [target: 2 reps, target RPE: 8] [est_stress=-, real_stress=-]
 
 ### Bench Press (Paused)
 
-  Set 1: 113.5kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 100.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 3: 100.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 4: 100.0kg x 3 @ RPE 7 [target RPE: 6]
+  Set 1: 113.5kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=87, real_stress=95]
+  Set 2: 100.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=115, real_stress=160]
+  Set 3: 100.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=115, real_stress=142]
+  Set 4: 100.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=115, real_stress=142]
 
 ### Pull-Up (Weighted)
 
@@ -8904,10 +8755,10 @@ Finished: 2025-06-18 10:39:32
 
 ### Squat (Low Bar)
 
-  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 9]
-  Set 2: 170.0kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 8]
-  Set 3: 155.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 4: 150.0kg x 2 @ RPE 8 [target RPE: 8]
+  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 9] [est_stress=187, real_stress=171]
+  Set 2: 170.0kg x 1 @ RPE 9.5 [target: 2 reps, target RPE: 8] [est_stress=340, real_stress=230]
+  Set 3: 155.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=258, real_stress=309]
+  Set 4: 150.0kg x 2 @ RPE 8 [target RPE: 8] [est_stress=234, real_stress=234]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -8934,16 +8785,16 @@ Finished: 2025-06-17 10:14:41
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 172.5kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 150.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 150.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 4: 150.0kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 172.5kg x 1 @ RPE 8 [target RPE: 8] [est_stress=142, real_stress=142]
+  Set 2: 150.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=182, real_stress=203]
+  Set 3: 150.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=182, real_stress=203]
+  Set 4: 150.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=182, real_stress=203]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 [target RPE: 9-10]
-  Set 2: 47.5kg x 5 [target RPE: 9-10]
-  Set 3: 45.0kg x 8 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 47.5kg x 5 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 45.0kg x 8 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -8967,17 +8818,17 @@ Finished: 2025-06-16 09:57:41
 
 ### Bench Press (Barbell)
 
-  Set 1: 130.0kg x 1 @ RPE 10 [target RPE: 10]
-  Set 2: 115.0kg x 2 @ RPE 8.5 [target RPE: 8]
-  Set 3: 115.0kg x 2 @ RPE 8.5 [target RPE: 8]
-  Set 4: 100.0kg x 9 @ RPE 9.5 [target: 2 reps, target RPE: 8]
+  Set 1: 130.0kg x 1 @ RPE 10 [target RPE: 10] [est_stress=195, real_stress=195]
+  Set 2: 115.0kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=180, real_stress=198]
+  Set 3: 115.0kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=180, real_stress=198]
+  Set 4: 100.0kg x 9 @ RPE 9.5 [target: 2 reps, target RPE: 8] [est_stress=118, real_stress=719]
 
 ### Squat (Paused)
 
-  Set 1: 140.0kg x 1 @ RPE 7.5 [target RPE: 8]
-  Set 2: 125.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 125.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 4: 125.0kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 140.0kg x 1 @ RPE 7.5 [target RPE: 8] [est_stress=107, real_stress=96]
+  Set 2: 125.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=149, real_stress=166]
+  Set 3: 125.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=149, real_stress=166]
+  Set 4: 125.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=149, real_stress=166]
 
 ### Pull-Up (Weighted)
 
@@ -9006,25 +8857,25 @@ Finished: 2025-06-14 10:31:33
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 9 [target RPE: 7.5]
-  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5]
-  Set 3: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5]
-  Set 4: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5]
-  Set 5: 70.0kg x 11 [target: 3 reps, target RPE: 7.5]
+  Set 1: 150.0kg x 2 @ RPE 9 [target RPE: 7.5] [est_stress=237, real_stress=316]
+  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5] [est_stress=289, real_stress=289]
+  Set 3: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5] [est_stress=289, real_stress=289]
+  Set 4: 140.0kg x 3 @ RPE 7.5 [target RPE: 7.5] [est_stress=289, real_stress=289]
+  Set 5: 70.0kg x 11 [target: 3 reps, target RPE: 7.5] [est_stress=36, real_stress=-]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 7.5]
-  Set 3: 112.5kg x 3 @ RPE 9.5 [target RPE: 7.5]
-  Set 4: 110.0kg x 3 @ RPE 8 [target RPE: 7.5]
+  Set 1: 115.0kg x 2 @ RPE 7.5 [target RPE: 7.5] [est_stress=166, real_stress=166]
+  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 7.5] [est_stress=233, real_stress=259]
+  Set 3: 112.5kg x 3 @ RPE 9.5 [target RPE: 7.5] [est_stress=233, real_stress=349]
+  Set 4: 110.0kg x 3 @ RPE 8 [target RPE: 7.5] [est_stress=218, real_stress=242]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 10 [target RPE: 9]
-  Set 2: 120.0kg x 9 [target RPE: 9]
-  Set 3: 120.0kg x 8 [target RPE: 9]
-  Set 4: 120.0kg x 8 [target RPE: 9]
+  Set 1: 120.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-06-12
 
@@ -9039,17 +8890,17 @@ Finished: 2025-06-12 10:27:02
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 10 [target RPE: 8]
-  Set 2: 170.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 3: 170.0kg x 2 @ RPE 8.5 [target RPE: 8]
-  Set 4: 170.0kg x 2 @ RPE 8 [target RPE: 8]
+  Set 1: 185.0kg x 1 @ RPE 10 [target RPE: 8] [est_stress=175, real_stress=263]
+  Set 2: 170.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=272, real_stress=327]
+  Set 3: 170.0kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=272, real_stress=299]
+  Set 4: 170.0kg x 2 @ RPE 8 [target RPE: 8] [est_stress=272, real_stress=272]
 
 ### Bench Press (Paused)
 
-  Set 1: 113.5kg x 1 @ RPE 9 [target RPE: 8]
-  Set 2: 100.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 3: 100.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 4: 100.0kg x 3 @ RPE 7 [target RPE: 6]
+  Set 1: 113.5kg x 1 @ RPE 9 [target RPE: 8] [est_stress=89, real_stress=106]
+  Set 2: 100.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=118, real_stress=164]
+  Set 3: 100.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=118, real_stress=132]
+  Set 4: 100.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=118, real_stress=145]
 
 ### Pull-Up (Weighted)
 
@@ -9077,10 +8928,10 @@ Finished: 2025-06-11 10:29:43
 
 ### Squat (Low Bar)
 
-  Set 1: 152.5kg x 1 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 150.0kg x 2 @ RPE 8 [target RPE: 8]
-  Set 3: 150.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 4: 150.0kg x 2 @ RPE 9 [target RPE: 8]
+  Set 1: 152.5kg x 1 @ RPE 7.5 [target RPE: 7.5] [est_stress=125, real_stress=125]
+  Set 2: 150.0kg x 2 @ RPE 8 [target RPE: 8] [est_stress=264, real_stress=264]
+  Set 3: 150.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=264, real_stress=316]
+  Set 4: 150.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=264, real_stress=316]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -9107,16 +8958,16 @@ Finished: 2025-06-10 10:28:00
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 175.0kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 150.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 3: 150.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 4: 145.0kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 175.0kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=148, real_stress=163]
+  Set 2: 150.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=182, real_stress=224]
+  Set 3: 150.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=182, real_stress=252]
+  Set 4: 145.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=165, real_stress=184]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 [target RPE: 9-10]
-  Set 2: 47.5kg x 6 [target RPE: 9-10]
-  Set 3: 45.0kg x 9 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 47.5kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 45.0kg x 9 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -9140,17 +8991,17 @@ Finished: 2025-06-09 09:54:37
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 115.0kg x 2 @ RPE 8.5 [target RPE: 8]
-  Set 3: 115.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 4: 115.0kg x 2 @ RPE 8.5 [target RPE: 8]
+  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 8] [est_stress=105, real_stress=105]
+  Set 2: 115.0kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=184, real_stress=203]
+  Set 3: 115.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=184, real_stress=221]
+  Set 4: 115.0kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=184, real_stress=203]
 
 ### Squat (Paused)
 
-  Set 1: 140.0kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 125.0kg x 3 @ RPE 8 [target RPE: 6]
-  Set 3: 120.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 4: 120.0kg x 3 @ RPE 6 [target RPE: 6]
+  Set 1: 140.0kg x 1 @ RPE 8 [target RPE: 8] [est_stress=107, real_stress=107]
+  Set 2: 125.0kg x 3 @ RPE 8 [target RPE: 6] [est_stress=149, real_stress=229]
+  Set 3: 120.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=132, real_stress=132]
+  Set 4: 120.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=132, real_stress=132]
 
 ### Pull-Up (Weighted)
 
@@ -9180,24 +9031,24 @@ Finished: 2025-06-07 10:23:59
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 8.5 [target RPE: 8]
-  Set 2: 142.5kg x 3 @ RPE 8 [target RPE: 8]
-  Set 3: 142.5kg x 3 @ RPE 9 [target RPE: 8]
-  Set 4: 140.0kg x 3 @ RPE 9 [target RPE: 8]
+  Set 1: 150.0kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=264, real_stress=290]
+  Set 2: 142.5kg x 3 @ RPE 8 [target RPE: 8] [est_stress=339, real_stress=339]
+  Set 3: 142.5kg x 3 @ RPE 9 [target RPE: 8] [est_stress=339, real_stress=407]
+  Set 4: 140.0kg x 3 @ RPE 9 [target RPE: 8] [est_stress=322, real_stress=386]
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 2 @ RPE 9.5 [target RPE: 8]
-  Set 2: 112.5kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 3: 110.0kg x 3 @ RPE 8 [target RPE: 8]
-  Set 4: 110.0kg x 3 @ RPE 8 [target RPE: 8]
+  Set 1: 117.5kg x 2 @ RPE 9.5 [target RPE: 8] [est_stress=196, real_stress=265]
+  Set 2: 112.5kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=259, real_stress=285]
+  Set 3: 110.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=242, real_stress=242]
+  Set 4: 110.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=242, real_stress=242]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 9 [target RPE: 9]
-  Set 2: 120.0kg x 8 [target RPE: 9]
-  Set 3: 120.0kg x 8 [target RPE: 9]
-  Set 4: 120.0kg x 8 [target RPE: 9]
+  Set 1: 120.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-06-05
 
@@ -9215,17 +9066,17 @@ Finished: 2025-06-05 10:04:06
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 1 @ RPE 8 [target RPE: 7.5]
-  Set 2: 162.5kg x 3 @ RPE 7.5 [target RPE: 7.5]
-  Set 3: 162.5kg x 3 @ RPE 7.5 [target RPE: 7.5]
-  Set 4: 162.5kg x 3 @ RPE 7.5 [target RPE: 7.5]
+  Set 1: 175.0kg x 1 @ RPE 8 [target RPE: 7.5] [est_stress=134, real_stress=148]
+  Set 2: 162.5kg x 3 @ RPE 7.5 [target RPE: 7.5] [est_stress=321, real_stress=321]
+  Set 3: 162.5kg x 3 @ RPE 7.5 [target RPE: 7.5] [est_stress=321, real_stress=321]
+  Set 4: 162.5kg x 3 @ RPE 7.5 [target RPE: 7.5] [est_stress=321, real_stress=321]
 
 ### Bench Press (Paused)
 
-  Set 1: 113.5kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 97.5kg x 4 @ RPE 6 [target RPE: 6]
-  Set 3: 97.5kg x 8 @ RPE 10 [target: 4 reps, target RPE: 6]
-  Set 4: 97.5kg x 4 @ RPE 8 [target RPE: 6]
+  Set 1: 113.5kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=89, real_stress=97]
+  Set 2: 97.5kg x 4 @ RPE 6 [target RPE: 6] [est_stress=146, real_stress=146]
+  Set 3: 97.5kg x 8 @ RPE 10 [target: 4 reps, target RPE: 6] [est_stress=146, real_stress=674]
+  Set 4: 97.5kg x 4 @ RPE 8 [target RPE: 6] [est_stress=146, real_stress=225]
 
 ### Pull-Up (Weighted)
 
@@ -9256,10 +9107,10 @@ Finished: 2025-06-04 10:36:59
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 8.5 [target RPE: 7.5]
-  Set 2: 142.5kg x 3 @ RPE 8 [target RPE: 7.5]
-  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 7.5]
-  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 7.5]
+  Set 1: 150.0kg x 2 @ RPE 8.5 [target RPE: 7.5] [est_stress=237, real_stress=290]
+  Set 2: 142.5kg x 3 @ RPE 8 [target RPE: 7.5] [est_stress=305, real_stress=339]
+  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 7.5] [est_stress=289, real_stress=322]
+  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 7.5] [est_stress=289, real_stress=322]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -9286,16 +9137,16 @@ Finished: 2025-06-03 10:29:03
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 1 @ RPE 7 [target RPE: 7.5]
-  Set 2: 150.0kg x 4 @ RPE 8 [target RPE: 6]
-  Set 3: 145.0kg x 4 @ RPE 6 [target RPE: 6]
-  Set 4: 145.0kg x 4 @ RPE 8 [target RPE: 6]
+  Set 1: 170.0kg x 1 @ RPE 7 [target RPE: 7.5] [est_stress=122, real_stress=109]
+  Set 2: 150.0kg x 4 @ RPE 8 [target RPE: 6] [est_stress=243, real_stress=374]
+  Set 3: 145.0kg x 4 @ RPE 6 [target RPE: 6] [est_stress=220, real_stress=220]
+  Set 4: 145.0kg x 4 @ RPE 8 [target RPE: 6] [est_stress=220, real_stress=338]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 [target RPE: 9-10]
-  Set 2: 47.5kg x 6 [target RPE: 9-10]
-  Set 3: 45.0kg x 9 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 2: 47.5kg x 6 [target RPE: 9-10] [est_stress=-, real_stress=-]
+  Set 3: 45.0kg x 9 [target RPE: 9-10] [est_stress=-, real_stress=-]
 
 ### Unknown
 
@@ -9319,17 +9170,17 @@ Finished: 2025-06-02 09:57:14
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 112.5kg x 3 @ RPE 7.5 [target RPE: 7.5]
-  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 7.5]
-  Set 4: 112.5kg x 3 @ RPE 9 [target RPE: 7.5]
+  Set 1: 115.0kg x 2 @ RPE 7.5 [target RPE: 7.5] [est_stress=166, real_stress=166]
+  Set 2: 112.5kg x 3 @ RPE 7.5 [target RPE: 7.5] [est_stress=233, real_stress=233]
+  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 7.5] [est_stress=233, real_stress=259]
+  Set 4: 112.5kg x 3 @ RPE 9 [target RPE: 7.5] [est_stress=233, real_stress=310]
 
 ### Squat (Paused)
 
-  Set 1: 140.0kg x 1 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 120.0kg x 4 @ RPE 7.5 [target RPE: 6]
-  Set 3: 120.0kg x 4 @ RPE 7 [target RPE: 6]
-  Set 4: 120.0kg x 4 @ RPE 7.5 [target RPE: 6]
+  Set 1: 140.0kg x 1 @ RPE 7.5 [target RPE: 7.5] [est_stress=96, real_stress=96]
+  Set 2: 120.0kg x 4 @ RPE 7.5 [target RPE: 6] [est_stress=176, real_stress=243]
+  Set 3: 120.0kg x 4 @ RPE 7 [target RPE: 6] [est_stress=176, real_stress=216]
+  Set 4: 120.0kg x 4 @ RPE 7.5 [target RPE: 6] [est_stress=176, real_stress=243]
 
 ### Pull-Up (Weighted)
 
@@ -9359,24 +9210,24 @@ Finished: 2025-05-31 10:13:19
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 3 @ RPE 8.5 [target RPE: 7.5]
-  Set 2: 142.5kg x 4 @ RPE 7.5 [target RPE: 7.5]
-  Set 3: 142.5kg x 4 @ RPE 8 [target RPE: 7.5]
-  Set 4: 140.0kg x 4 @ RPE 7.5 [target RPE: 7.5]
+  Set 1: 147.5kg x 3 @ RPE 8.5 [target RPE: 7.5] [est_stress=338, real_stress=414]
+  Set 2: 142.5kg x 4 @ RPE 7.5 [target RPE: 7.5] [est_stress=407, real_stress=407]
+  Set 3: 142.5kg x 4 @ RPE 8 [target RPE: 7.5] [est_stress=407, real_stress=452]
+  Set 4: 140.0kg x 4 @ RPE 7.5 [target RPE: 7.5] [est_stress=386, real_stress=386]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 8 [target RPE: 7.5]
-  Set 2: 110.0kg x 4 @ RPE 8 [target RPE: 7.5]
-  Set 3: 107.5kg x 4 @ RPE 7.5 [target RPE: 7.5]
-  Set 4: 107.5kg x 4 @ RPE 7.5 [target RPE: 7.5]
+  Set 1: 112.5kg x 3 @ RPE 8 [target RPE: 7.5] [est_stress=233, real_stress=259]
+  Set 2: 110.0kg x 4 @ RPE 8 [target RPE: 7.5] [est_stress=290, real_stress=322]
+  Set 3: 107.5kg x 4 @ RPE 7.5 [target RPE: 7.5] [est_stress=271, real_stress=271]
+  Set 4: 107.5kg x 4 @ RPE 7.5 [target RPE: 7.5] [est_stress=271, real_stress=271]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 8 [target RPE: 9]
-  Set 2: 120.0kg x 8 [target RPE: 9]
-  Set 3: 120.0kg x 8 [target RPE: 9]
-  Set 4: 120.0kg x 8 [target RPE: 9]
+  Set 1: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-05-29
 
@@ -9394,17 +9245,17 @@ Finished: 2025-05-29 10:19:51
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 1 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 162.5kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 7]
+  Set 1: 175.0kg x 1 @ RPE 7.5 [target RPE: 7.5] [est_stress=134, real_stress=134]
+  Set 2: 162.5kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=285, real_stress=321]
+  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=272, real_stress=272]
+  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=272, real_stress=272]
 
 ### Bench Press (Paused)
 
-  Set 1: 112.5kg x 1 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 97.5kg x 4 @ RPE 6.5 [target RPE: 6]
-  Set 3: 97.5kg x 4 @ RPE 6.5 [target RPE: 6]
-  Set 4: 97.5kg x 4 @ RPE 6 [target RPE: 6]
+  Set 1: 112.5kg x 1 @ RPE 7.5 [target RPE: 7.5] [est_stress=78, real_stress=78]
+  Set 2: 97.5kg x 4 @ RPE 6.5 [target RPE: 6] [est_stress=146, real_stress=163]
+  Set 3: 97.5kg x 4 @ RPE 6.5 [target RPE: 6] [est_stress=146, real_stress=163]
+  Set 4: 97.5kg x 4 @ RPE 6 [target RPE: 6] [est_stress=146, real_stress=146]
 
 ### Pull-Up (Weighted)
 
@@ -9435,10 +9286,10 @@ Finished: 2025-05-28 10:12:16
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 8.5 [target RPE: 7.5]
-  Set 2: 142.5kg x 3 @ RPE 8.5 [target RPE: 7]
-  Set 3: 135.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 4: 135.0kg x 3 @ RPE 7 [target RPE: 7]
+  Set 1: 150.0kg x 2 @ RPE 8.5 [target RPE: 7.5] [est_stress=237, real_stress=290]
+  Set 2: 142.5kg x 3 @ RPE 8.5 [target RPE: 7] [est_stress=271, real_stress=373]
+  Set 3: 135.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=231, real_stress=231]
+  Set 4: 135.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=231, real_stress=231]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -9464,16 +9315,16 @@ Finished: 2025-05-27 10:05:56
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 @ RPE 6 [target RPE: 7]
-  Set 2: 150.0kg x 4 @ RPE 8 [target RPE: 6]
-  Set 3: 140.0kg x 4 @ RPE 7 [target RPE: 6]
-  Set 4: 140.0kg x 4 @ RPE 6 [target RPE: 6]
+  Set 1: 160.0kg x 1 @ RPE 6 [target RPE: 7] [est_stress=91, real_stress=74]
+  Set 2: 150.0kg x 4 @ RPE 8 [target RPE: 6] [est_stress=243, real_stress=374]
+  Set 3: 140.0kg x 4 @ RPE 7 [target RPE: 6] [est_stress=198, real_stress=243]
+  Set 4: 140.0kg x 4 @ RPE 6 [target RPE: 6] [est_stress=198, real_stress=198]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 45.0kg x 7 @ RPE 9.5 [target RPE: 9-10]
-  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 6 @ RPE 9.5 [target RPE: 9-10] [est_stress=-, real_stress=53]
+  Set 2: 45.0kg x 7 @ RPE 9.5 [target RPE: 9-10] [est_stress=-, real_stress=52]
+  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=58]
 
 ### Unknown
 
@@ -9504,18 +9355,18 @@ Finished: 2025-05-26 09:45:33
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 8 [target RPE: 8]
-  Set 2: 110.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 3: 111.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 4: 111.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 5: 100.0kg x 10 @ RPE 10 [target: 3 reps, target RPE: 7]
+  Set 1: 115.0kg x 2 @ RPE 8 [target RPE: 8] [est_stress=184, real_stress=184]
+  Set 2: 110.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=193, real_stress=193]
+  Set 3: 111.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=199, real_stress=199]
+  Set 4: 111.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=199, real_stress=199]
+  Set 5: 100.0kg x 10 @ RPE 10 [target: 3 reps, target RPE: 7] [est_stress=145, real_stress=908]
 
 ### Squat (Paused)
 
-  Set 1: 140.0kg x 1 @ RPE 8 [target RPE: 7.5]
-  Set 2: 120.0kg x 4 @ RPE 6 [target: 5 reps, target RPE: 6]
-  Set 3: 120.0kg x 4 @ RPE 7 [target: 5 reps, target RPE: 6]
-  Set 4: 120.0kg x 4 @ RPE 7.5 [target: 5 reps, target RPE: 6]
+  Set 1: 140.0kg x 1 @ RPE 8 [target RPE: 7.5] [est_stress=96, real_stress=107]
+  Set 2: 120.0kg x 4 @ RPE 6 [target: 5 reps, target RPE: 6] [est_stress=219, real_stress=176]
+  Set 3: 120.0kg x 4 @ RPE 7 [target: 5 reps, target RPE: 6] [est_stress=219, real_stress=216]
+  Set 4: 120.0kg x 4 @ RPE 7.5 [target: 5 reps, target RPE: 6] [est_stress=219, real_stress=243]
 
 ### Pull-Up (Weighted)
 
@@ -9545,24 +9396,24 @@ Finished: 2025-05-24 10:22:43
 
 ### Squat (Low Bar)
 
-  Set 1: 150.0kg x 2 @ RPE 7.5 [target RPE: 7]
-  Set 2: 140.0kg x 4 @ RPE 7 [target RPE: 7]
-  Set 3: 140.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 4: 140.0kg x 4 @ RPE 7 [target RPE: 7]
+  Set 1: 150.0kg x 2 @ RPE 7.5 [target RPE: 7] [est_stress=211, real_stress=237]
+  Set 2: 140.0kg x 4 @ RPE 7 [target RPE: 7] [est_stress=343, real_stress=343]
+  Set 3: 140.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=343, real_stress=386]
+  Set 4: 140.0kg x 4 @ RPE 7 [target RPE: 7] [est_stress=343, real_stress=343]
 
 ### Bench Press (Barbell)
 
-  Set 1: 113.5kg x 2 @ RPE 8.5 [target RPE: 7]
-  Set 2: 105.0kg x 4 @ RPE 7 [target RPE: 7]
-  Set 3: 105.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 4: 105.0kg x 4 @ RPE 7.5 [target RPE: 7]
+  Set 1: 113.5kg x 2 @ RPE 8.5 [target RPE: 7] [est_stress=142, real_stress=195]
+  Set 2: 105.0kg x 4 @ RPE 7 [target RPE: 7] [est_stress=224, real_stress=224]
+  Set 3: 105.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=224, real_stress=252]
+  Set 4: 105.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=224, real_stress=252]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 8 [target RPE: 9]
-  Set 2: 120.0kg x 8 [target RPE: 9]
-  Set 3: 120.0kg x 8 [target RPE: 9]
-  Set 4: 120.0kg x 6 [target RPE: 9]
+  Set 1: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 120.0kg x 6 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-05-22
 
@@ -9580,17 +9431,17 @@ Finished: 2025-05-22 09:52:58
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 172.5kg x 1 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 152.5kg x 4 @ RPE 7 [target RPE: 7]
-  Set 3: 155.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 4: 152.5kg x 4 @ RPE 7 [target RPE: 7]
+  Set 1: 172.5kg x 1 @ RPE 7.5 [target RPE: 7.5] [est_stress=128, real_stress=128]
+  Set 2: 152.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=314, real_stress=314]
+  Set 3: 155.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=330, real_stress=371]
+  Set 4: 152.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=314, real_stress=314]
 
 ### Bench Press (Paused)
 
-  Set 1: 112.5kg x 1 @ RPE 8 [target RPE: 7.5]
-  Set 2: 95.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 95.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 4: 95.0kg x 5 @ RPE 6 [target RPE: 6]
+  Set 1: 112.5kg x 1 @ RPE 8 [target RPE: 7.5] [est_stress=78, real_stress=86]
+  Set 2: 95.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=169, real_stress=188]
+  Set 3: 95.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=169, real_stress=188]
+  Set 4: 95.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=169, real_stress=169]
 
 ### Pull-Up (Weighted)
 
@@ -9621,10 +9472,10 @@ Finished: 2025-05-21 10:19:52
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 2 @ RPE 7.5 [target RPE: 7]
-  Set 2: 135.0kg x 4 @ RPE 7 [target RPE: 7]
-  Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 4: 135.0kg x 4 @ RPE 7.5 [target RPE: 7]
+  Set 1: 145.0kg x 2 @ RPE 7.5 [target RPE: 7] [est_stress=191, real_stress=214]
+  Set 2: 135.0kg x 4 @ RPE 7 [target RPE: 7] [est_stress=308, real_stress=308]
+  Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=308, real_stress=346]
+  Set 4: 135.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=308, real_stress=346]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -9651,16 +9502,16 @@ Finished: 2025-05-20 10:05:36
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 165.0kg x 1 @ RPE 7.5 [target RPE: 6]
-  Set 2: 142.5kg x 5 @ RPE 10 [target RPE: 6]
-  Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 4: 130.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 165.0kg x 1 @ RPE 7.5 [target RPE: 6] [est_stress=81, real_stress=112]
+  Set 2: 142.5kg x 5 @ RPE 10 [target RPE: 6] [est_stress=261, real_stress=601]
+  Set 3: 140.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=247, real_stress=380]
+  Set 4: 130.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=198, real_stress=243]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9-10]
-  Set 2: 47.5kg x 6 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=68]
+  Set 2: 47.5kg x 6 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=58]
+  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=58]
 
 ### Unknown
 
@@ -9684,17 +9535,17 @@ Finished: 2025-05-19 09:44:19
 
 ### Bench Press (Barbell)
 
-  Set 1: 116.5kg x 2 @ RPE 9 [target RPE: 7.5]
-  Set 2: 107.5kg x 4 @ RPE 8.5 [target RPE: 7]
-  Set 3: 105.0kg x 4 @ RPE 8 [target RPE: 7]
-  Set 4: 105.0kg x 4 @ RPE 8 [target RPE: 7]
+  Set 1: 116.5kg x 2 @ RPE 9 [target RPE: 7.5] [est_stress=172, real_stress=230]
+  Set 2: 107.5kg x 4 @ RPE 8.5 [target RPE: 7] [est_stress=241, real_stress=331]
+  Set 3: 105.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=224, real_stress=280]
+  Set 4: 105.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=224, real_stress=280]
 
 ### Squat (Paused)
 
-  Set 1: 130.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 115.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 6 [target RPE: 6]
+  Set 1: 130.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=69, real_stress=69]
+  Set 2: 115.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=193, real_stress=238]
+  Set 3: 115.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=193, real_stress=193]
+  Set 4: 115.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=193, real_stress=193]
 
 ### Pull-Up (Weighted)
 
@@ -9724,24 +9575,24 @@ Finished: 2025-05-17 10:45:35
 
 ### Squat (Low Bar)
 
-  Set 1: 142.5kg x 2 @ RPE 8 [target: 3 reps, target RPE: 7]
-  Set 2: 130.0kg x 6 @ RPE 8 [target: 5 reps, target RPE: 7]
-  Set 3: 130.0kg x 5 @ RPE 8 [target RPE: 7]
-  Set 4: 130.0kg x 5 @ RPE 9 [target RPE: 7]
+  Set 1: 142.5kg x 2 @ RPE 8 [target: 3 reps, target RPE: 7] [est_stress=271, real_stress=226]
+  Set 2: 130.0kg x 6 @ RPE 8 [target: 5 reps, target RPE: 7] [est_stress=343, real_stress=515]
+  Set 3: 130.0kg x 5 @ RPE 8 [target RPE: 7] [est_stress=343, real_stress=429]
+  Set 4: 130.0kg x 5 @ RPE 9 [target RPE: 7] [est_stress=343, real_stress=515]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 9 [target RPE: 7]
-  Set 2: 105.0kg x 5 @ RPE 8 [target RPE: 7]
-  Set 3: 105.0kg x 5 @ RPE 9 [target RPE: 7]
-  Set 4: 105.0kg x 5 @ RPE 9 [target RPE: 7]
+  Set 1: 112.5kg x 3 @ RPE 9 [target RPE: 7] [est_stress=207, real_stress=310]
+  Set 2: 105.0kg x 5 @ RPE 8 [target RPE: 7] [est_stress=280, real_stress=351]
+  Set 3: 105.0kg x 5 @ RPE 9 [target RPE: 7] [est_stress=280, real_stress=421]
+  Set 4: 105.0kg x 5 @ RPE 9 [target RPE: 7] [est_stress=280, real_stress=421]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 115.0kg x 10 [target RPE: 9]
-  Set 2: 120.0kg x 6 [target RPE: 9]
-  Set 3: 120.0kg x 6 [target RPE: 9]
-  Set 4: 110.0kg x 8 [target RPE: 9]
+  Set 1: 115.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 2: 120.0kg x 6 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 3: 120.0kg x 6 [target RPE: 9] [est_stress=-, real_stress=-]
+  Set 4: 110.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
 ## 2025-05-15
 
@@ -9758,17 +9609,17 @@ Finished: 2025-05-15 09:44:17
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 172.5kg x 1 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 150.0kg x 5 @ RPE 8.5 [target RPE: 7]
-  Set 3: 145.0kg x 5 @ RPE 7 [target RPE: 7]
-  Set 4: 145.0kg x 5 @ RPE 7 [target RPE: 7]
+  Set 1: 172.5kg x 1 @ RPE 7.5 [target RPE: 7.5] [est_stress=128, real_stress=128]
+  Set 2: 150.0kg x 5 @ RPE 8.5 [target RPE: 7] [est_stress=374, real_stress=514]
+  Set 3: 145.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=338, real_stress=338]
+  Set 4: 145.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=338, real_stress=338]
 
 ### Bench Press (Paused)
 
-  Set 1: 110.0kg x 1 @ RPE 6.5 [target RPE: 6]
-  Set 2: 95.0kg x 5 @ RPE 6.5 [target RPE: 6]
-  Set 3: 95.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 4: 95.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 110.0kg x 1 @ RPE 6.5 [target RPE: 6] [est_stress=52, real_stress=58]
+  Set 2: 95.0kg x 5 @ RPE 6.5 [target RPE: 6] [est_stress=169, real_stress=188]
+  Set 3: 95.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=169, real_stress=208]
+  Set 4: 95.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=169, real_stress=208]
 
 ### Pull-Up (Weighted)
 
@@ -9799,10 +9650,10 @@ Finished: 2025-05-14 10:31:49
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 2 @ RPE 10 [target: 3 reps, target RPE: 7]
-  Set 2: 120.0kg x 5 @ RPE 10 [target RPE: 7]
-  Set 3: 120.0kg x 5 @ RPE 8 [target RPE: 7]
-  Set 4: 120.0kg x 5 @ RPE 7 [target RPE: 7]
+  Set 1: 140.0kg x 2 @ RPE 10 [target: 3 reps, target RPE: 7] [est_stress=257, real_stress=322]
+  Set 2: 120.0kg x 5 @ RPE 10 [target RPE: 7] [est_stress=270, real_stress=506]
+  Set 3: 120.0kg x 5 @ RPE 8 [target RPE: 7] [est_stress=270, real_stress=338]
+  Set 4: 120.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=270, real_stress=270]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -9815,9 +9666,9 @@ Finished: 2025-05-14 10:31:49
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 70.0kg x 12 [target RPE: 8-10]
-  Set 2: 70.0kg x 10 [target RPE: 8-10]
-  Set 3: 70.0kg x 8 [target RPE: 8-10]
+  Set 1: 70.0kg x 12 [target RPE: 8-10] [est_stress=-, real_stress=-]
+  Set 2: 70.0kg x 10 [target RPE: 8-10] [est_stress=-, real_stress=-]
+  Set 3: 70.0kg x 8 [target RPE: 8-10] [est_stress=-, real_stress=-]
 
 ## 2025-05-13
 
@@ -9835,16 +9686,16 @@ Finished: 2025-05-13 09:19:38
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 1 @ RPE 7 [target RPE: 6]
-  Set 2: 150.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 3: 145.0kg x 5 @ RPE 9 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 9 [target RPE: 6]
+  Set 1: 170.0kg x 1 @ RPE 7 [target RPE: 6] [est_stress=88, real_stress=109]
+  Set 2: 150.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=304, real_stress=467]
+  Set 3: 145.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=274, real_stress=507]
+  Set 4: 140.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=247, real_stress=456]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 10 [target RPE: 9-10]
-  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 6 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=58]
+  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=66]
+  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=58]
 
 ### Unknown
 
@@ -9868,18 +9719,18 @@ Finished: 2025-05-12 08:12:41
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 2: 105.0kg x 5 @ RPE 7.5 [target RPE: 7]
-  Set 3: 105.0kg x 5 @ RPE 7.5 [target RPE: 7]
-  Set 4: 105.0kg x 5 @ RPE 7 [target RPE: 7]
-  Set 5: 120.0kg x 1 @ RPE 9 [target: 5 reps, target RPE: 7]
+  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=207, real_stress=233]
+  Set 2: 105.0kg x 5 @ RPE 7.5 [target RPE: 7] [est_stress=280, real_stress=315]
+  Set 3: 105.0kg x 5 @ RPE 7.5 [target RPE: 7] [est_stress=280, real_stress=315]
+  Set 4: 105.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=280, real_stress=280]
+  Set 5: 120.0kg x 1 @ RPE 9 [target: 5 reps, target RPE: 7] [est_stress=419, real_stress=126]
 
 ### Squat (Paused)
 
-  Set 1: 120.0kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 115.0kg x 5 @ RPE 7 [target RPE: 6]
-  Set 3: 115.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 4: 115.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 120.0kg x 1 @ RPE 6 [target RPE: 6] [est_stress=44, real_stress=44]
+  Set 2: 115.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=193, real_stress=238]
+  Set 3: 115.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=193, real_stress=193]
+  Set 4: 115.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=193, real_stress=238]
 
 ### Pull-Up (Weighted)
 
@@ -9954,26 +9805,26 @@ Finished: 2025-05-08 09:59:43
 
 ### Squat (Low Bar)
 
-  Set 1: 152.5kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 142.5kg x 3 @ RPE 8.5 [target RPE: 7]
-  Set 3: 140.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 4: 140.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 5: 120.0kg x 8 @ RPE 8 [target: 3 reps, target RPE: 7]
+  Set 1: 152.5kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=139, real_stress=152]
+  Set 2: 142.5kg x 3 @ RPE 8.5 [target RPE: 7] [est_stress=271, real_stress=373]
+  Set 3: 140.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=257, real_stress=289]
+  Set 4: 140.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=257, real_stress=289]
+  Set 5: 120.0kg x 8 @ RPE 8 [target: 3 reps, target RPE: 7] [est_stress=162, real_stress=540]
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 9.5 [target RPE: 8]
-  Set 2: 112.5kg x 2 @ RPE 10 [target: 3 reps, target RPE: 7]
-  Set 3: 110.0kg x 3 @ RPE 10 [target RPE: 7]
-  Set 4: 110.0kg x 3 @ RPE 9 [target RPE: 7]
-  Set 5: 90.0kg x 12 @ RPE 9.5 [target: 3 reps, target RPE: 7]
+  Set 1: 120.0kg x 1 @ RPE 9.5 [target RPE: 8] [est_stress=105, real_stress=141]
+  Set 2: 112.5kg x 2 @ RPE 10 [target: 3 reps, target RPE: 7] [est_stress=207, real_stress=259]
+  Set 3: 110.0kg x 3 @ RPE 10 [target RPE: 7] [est_stress=193, real_stress=363]
+  Set 4: 110.0kg x 3 @ RPE 9 [target RPE: 7] [est_stress=193, real_stress=290]
+  Set 5: 90.0kg x 12 @ RPE 9.5 [target: 3 reps, target RPE: 7] [est_stress=106, real_stress=715]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 9.5 [target RPE: 8]
-  Set 2: 160.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 7]
+  Set 1: 180.0kg x 1 @ RPE 9.5 [target RPE: 8] [est_stress=162, real_stress=218]
+  Set 2: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=272, real_stress=272]
+  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=272, real_stress=272]
+  Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=272, real_stress=272]
 
 ## 2025-05-04
 
@@ -9990,23 +9841,23 @@ Finished: 2025-05-04 12:13:58
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 2: 135.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 4: 135.0kg x 4 @ RPE 7.5 [target RPE: 7]
+  Set 1: 145.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=238, real_stress=286]
+  Set 2: 135.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=308, real_stress=346]
+  Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=308, real_stress=346]
+  Set 4: 135.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=308, real_stress=346]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 [target RPE: 8]
-  Set 2: 110.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 7]
-  Set 3: 110.0kg x 3 @ RPE 9.5 [target: 4 reps, target RPE: 7]
-  Set 4: 110.0kg x 3 @ RPE 9.5 [target: 4 reps, target RPE: 7]
+  Set 1: 115.0kg x 2 [target RPE: 8] [est_stress=184, real_stress=-]
+  Set 2: 110.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 7] [est_stress=258, real_stress=242]
+  Set 3: 110.0kg x 3 @ RPE 9.5 [target: 4 reps, target RPE: 7] [est_stress=258, real_stress=326]
+  Set 4: 110.0kg x 3 @ RPE 9.5 [target: 4 reps, target RPE: 7] [est_stress=258, real_stress=326]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 2 [target RPE: 8]
-  Set 2: 160.0kg x 3 @ RPE 8 [target RPE: 7]
-  Set 3: 160.0kg x 3 @ RPE 8 [target RPE: 7]
+  Set 1: 175.0kg x 2 [target RPE: 8] [est_stress=297, real_stress=-]
+  Set 2: 160.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=272, real_stress=340]
+  Set 3: 160.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=272, real_stress=340]
 
 ## 2025-05-02
 
@@ -10023,24 +9874,24 @@ Finished: 2025-05-02 09:29:40
 
 ### Squat (Low Bar)
 
-  Set 1: 142.5kg x 2 @ RPE 8 [target RPE: 7]
-  Set 2: 132.5kg x 5 @ RPE 7.5 [target RPE: 7]
-  Set 3: 132.5kg x 5 @ RPE 7.5 [target RPE: 7]
-  Set 4: 132.5kg x 5 [target RPE: 7]
+  Set 1: 142.5kg x 2 @ RPE 8 [target RPE: 7] [est_stress=181, real_stress=226]
+  Set 2: 132.5kg x 5 @ RPE 7.5 [target RPE: 7] [est_stress=363, real_stress=409]
+  Set 3: 132.5kg x 5 @ RPE 7.5 [target RPE: 7] [est_stress=363, real_stress=409]
+  Set 4: 132.5kg x 5 [target RPE: 7] [est_stress=363, real_stress=-]
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 2 @ RPE 9 [target RPE: 7]
-  Set 2: 105.0kg x 5 @ RPE 10 [target RPE: 7]
-  Set 3: 100.0kg x 5 @ RPE 10 [target RPE: 7]
-  Set 4: 100.0kg x 5 [target RPE: 7]
+  Set 1: 110.0kg x 2 @ RPE 9 [target RPE: 7] [est_stress=129, real_stress=193]
+  Set 2: 105.0kg x 5 @ RPE 10 [target RPE: 7] [est_stress=280, real_stress=526]
+  Set 3: 100.0kg x 5 @ RPE 10 [target RPE: 7] [est_stress=242, real_stress=454]
+  Set 4: 100.0kg x 5 [target RPE: 7] [est_stress=242, real_stress=-]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 2 @ RPE 8 [target RPE: 7]
-  Set 2: 152.5kg x 4 @ RPE 7 [target RPE: 7]
-  Set 3: 152.5kg x 4 @ RPE 7 [target RPE: 7]
-  Set 4: 152.5kg x 4 @ RPE 7 [target RPE: 7]
+  Set 1: 170.0kg x 2 @ RPE 8 [target RPE: 7] [est_stress=218, real_stress=272]
+  Set 2: 152.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=314, real_stress=314]
+  Set 3: 152.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=314, real_stress=314]
+  Set 4: 152.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=314, real_stress=314]
 
 ## 2025-04-30
 
@@ -10057,24 +9908,24 @@ Finished: 2025-04-30 10:36:56
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 2: 130.0kg x 6 @ RPE 7.5 [target RPE: 7]
-  Set 3: 130.0kg x 6 @ RPE 7.5 [target RPE: 7]
-  Set 5: 120.0kg x 6 @ RPE 6 [target RPE: 7]
+  Set 1: 140.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=257, real_stress=289]
+  Set 2: 130.0kg x 6 @ RPE 7.5 [target RPE: 7] [est_stress=412, real_stress=463]
+  Set 3: 130.0kg x 6 @ RPE 7.5 [target RPE: 7] [est_stress=412, real_stress=463]
+  Set 5: 120.0kg x 6 @ RPE 6 [target RPE: 7] [est_stress=324, real_stress=263]
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 3 @ RPE 10 [target RPE: 7]
-  Set 2: 100.0kg x 5 @ RPE 10 [target: 6 reps, target RPE: 7]
-  Set 3: 100.0kg x 6 @ RPE 9 [target RPE: 7]
-  Set 4: 100.0kg x 6 [target RPE: 7]
+  Set 1: 110.0kg x 3 @ RPE 10 [target RPE: 7] [est_stress=193, real_stress=363]
+  Set 2: 100.0kg x 5 @ RPE 10 [target: 6 reps, target RPE: 7] [est_stress=291, real_stress=454]
+  Set 3: 100.0kg x 6 @ RPE 9 [target RPE: 7] [est_stress=291, real_stress=436]
+  Set 4: 100.0kg x 6 [target RPE: 7] [est_stress=291, real_stress=-]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 165.0kg x 3 @ RPE 8 [target RPE: 7]
-  Set 2: 150.0kg x 5 @ RPE 7 [target RPE: 7]
-  Set 3: 150.0kg x 5 @ RPE 7 [target RPE: 7]
-  Set 4: 150.0kg x 5 @ RPE 7 [target RPE: 7]
+  Set 1: 165.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=299, real_stress=373]
+  Set 2: 150.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=374, real_stress=374]
+  Set 3: 150.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=374, real_stress=374]
+  Set 4: 150.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=374, real_stress=374]
 
 ## 2025-04-28
 
@@ -10092,20 +9943,20 @@ Finished: 2025-04-28 09:49:17
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 6 @ RPE 10 [target RPE: 10]
+  Set 1: 110.0kg x 6 @ RPE 10 [target RPE: 10] [est_stress=725, real_stress=725]
 
 ### Bench Press (Barbell)
 
-  Set 1: 103.5kg x 6 @ RPE 8.5 [target RPE: 7]
-  Set 2: 102.5kg x 6 @ RPE 7.5 [target RPE: 7]
-  Set 3: 102.5kg x 6 @ RPE 7.5 [target RPE: 7]
+  Set 1: 103.5kg x 6 @ RPE 8.5 [target RPE: 7] [est_stress=322, real_stress=443]
+  Set 2: 102.5kg x 6 @ RPE 7.5 [target RPE: 7] [est_stress=313, real_stress=352]
+  Set 3: 102.5kg x 6 @ RPE 7.5 [target RPE: 7] [est_stress=313, real_stress=352]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 125.0kg x 3 @ RPE 8 [target RPE: 7]
-  Set 2: 110.0kg x 7 @ RPE 7.5 [target RPE: 8]
-  Set 3: 110.0kg x 7 @ RPE 7.5 [target RPE: 8]
-  Set 4: 110.0kg x 7 @ RPE 7.5 [target RPE: 8]
+  Set 1: 125.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=183, real_stress=229]
+  Set 2: 110.0kg x 7 @ RPE 7.5 [target RPE: 8] [est_stress=364, real_stress=328]
+  Set 3: 110.0kg x 7 @ RPE 7.5 [target RPE: 8] [est_stress=364, real_stress=328]
+  Set 4: 110.0kg x 7 @ RPE 7.5 [target RPE: 8] [est_stress=364, real_stress=328]
 
 ### Pull-Up (Weighted)
 
@@ -10135,23 +9986,23 @@ Finished: 2025-04-26 10:27:49
 
 ### Squat (Low Bar)
 
-  Set 1: 132.5kg x 4 @ RPE 7 [target RPE: 7]
-  Set 2: 115.0kg x 7 @ RPE 7 [target RPE: 7]
-  Set 3: 117.5kg x 7 @ RPE 7 [target RPE: 7]
-  Set 4: 120.0kg x 7 @ RPE 6 [target RPE: 7]
+  Set 1: 132.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=291, real_stress=291]
+  Set 2: 115.0kg x 7 @ RPE 7 [target RPE: 7] [est_stress=333, real_stress=333]
+  Set 3: 117.5kg x 7 @ RPE 7 [target RPE: 7] [est_stress=355, real_stress=355]
+  Set 4: 120.0kg x 7 @ RPE 6 [target RPE: 7] [est_stress=378, real_stress=307]
 
 ### Bench Press (Barbell)
 
-  Set 1: 107.5kg x 4 @ RPE 7 [target RPE: 7]
-  Set 2: 100.0kg x 7 @ RPE 7 [target RPE: 7]
-  Set 3: 102.5kg x 7 @ RPE 8 [target RPE: 7]
-  Set 4: 100.0kg x 7 @ RPE 7 [target RPE: 7]
+  Set 1: 107.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=241, real_stress=241]
+  Set 2: 100.0kg x 7 @ RPE 7 [target RPE: 7] [est_stress=339, real_stress=339]
+  Set 3: 102.5kg x 7 @ RPE 8 [target RPE: 7] [est_stress=365, real_stress=457]
+  Set 4: 100.0kg x 7 @ RPE 7 [target RPE: 7] [est_stress=339, real_stress=339]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 8 @ RPE 8 [target RPE: 8]
-  Set 2: 120.0kg x 8 @ RPE 8 [target RPE: 8]
-  Set 3: 120.0kg x 8 @ RPE 8 [target RPE: 8]
+  Set 1: 120.0kg x 8 @ RPE 8 [target RPE: 8] [est_stress=383, real_stress=383]
+  Set 2: 120.0kg x 8 @ RPE 8 [target RPE: 8] [est_stress=383, real_stress=383]
+  Set 3: 120.0kg x 8 @ RPE 8 [target RPE: 8] [est_stress=383, real_stress=383]
 
 ### Leg Curl
 
@@ -10176,17 +10027,17 @@ Finished: 2025-04-24 10:22:32
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 10 [target RPE: 8.5]
-  Set 2: 165.0kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 3: 165.0kg x 2 @ RPE 10 [target: 3 reps, target RPE: 8]
-  Set 4: 165.0kg x 3 @ RPE 10 [target RPE: 8]
+  Set 1: 185.0kg x 1 @ RPE 10 [target RPE: 8.5] [est_stress=193, real_stress=263]
+  Set 2: 165.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=373, real_stress=411]
+  Set 3: 165.0kg x 2 @ RPE 10 [target: 3 reps, target RPE: 8] [est_stress=373, real_stress=373]
+  Set 4: 165.0kg x 3 @ RPE 10 [target RPE: 8] [est_stress=373, real_stress=560]
 
 ### Bench Press (Paused)
 
-  Set 1: 102.5kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 2: 102.5kg x 4 @ RPE 9 [target RPE: 8]
-  Set 3: 102.5kg x 4 @ RPE 9.5 [target RPE: 8]
-  Set 4: 112.5kg x 1 @ RPE 8 [target: 4 reps, target RPE: 8]
+  Set 1: 102.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=261, real_stress=287]
+  Set 2: 102.5kg x 4 @ RPE 9 [target RPE: 8] [est_stress=261, real_stress=313]
+  Set 3: 102.5kg x 4 @ RPE 9.5 [target RPE: 8] [est_stress=261, real_stress=352]
+  Set 4: 112.5kg x 1 @ RPE 8 [target: 4 reps, target RPE: 8] [est_stress=345, real_stress=86]
 
 ### Pull-Up (Weighted)
 
@@ -10217,10 +10068,10 @@ Finished: 2025-04-23 10:27:34
 
 ### Squat (Low Bar)
 
-  Set 1: 152.5kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 142.5kg x 3 @ RPE 9 [target RPE: 8]
-  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 8]
-  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 8]
+  Set 1: 152.5kg x 1 @ RPE 8 [target RPE: 8] [est_stress=139, real_stress=139]
+  Set 2: 142.5kg x 3 @ RPE 9 [target RPE: 8] [est_stress=339, real_stress=407]
+  Set 3: 140.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=322, real_stress=322]
+  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=322, real_stress=322]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -10230,8 +10081,8 @@ Finished: 2025-04-23 10:27:34
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 82.5kg x 12 [target RPE: 8-10]
-  Set 2: 80.0kg x 12 [target RPE: 8-10]
+  Set 1: 82.5kg x 12 [target RPE: 8-10] [est_stress=490, real_stress=-]
+  Set 2: 80.0kg x 12 [target RPE: 8-10] [est_stress=447, real_stress=-]
 
 ### Unknown
 
@@ -10252,16 +10103,16 @@ Finished: 2025-04-22 10:24:23
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 1 @ RPE 8 [target RPE: 6]
-  Set 2: 150.0kg x 5 @ RPE 9 [target RPE: 6]
-  Set 3: 145.0kg x 5 @ RPE 9 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 7 [target RPE: 6]
+  Set 1: 170.0kg x 1 @ RPE 8 [target RPE: 6] [est_stress=88, real_stress=136]
+  Set 2: 150.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=304, real_stress=561]
+  Set 3: 145.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=274, real_stress=507]
+  Set 4: 140.0kg x 5 @ RPE 7 [target RPE: 6] [est_stress=247, real_stress=304]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 2: 47.5kg x 7 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 9 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=70, real_stress=78]
+  Set 2: 47.5kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=61, real_stress=68]
+  Set 3: 45.0kg x 9 @ RPE 10 [target RPE: 9-10] [est_stress=67, real_stress=75]
 
 ### Unknown
 
@@ -10285,17 +10136,17 @@ Finished: 2025-04-21 09:51:09
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 8.5]
-  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 3: 115.0kg x 3 @ RPE 9 [target RPE: 8]
-  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 8]
+  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 8.5] [est_stress=122, real_stress=134]
+  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=276, real_stress=304]
+  Set 3: 115.0kg x 3 @ RPE 9 [target RPE: 8] [est_stress=276, real_stress=332]
+  Set 4: 115.0kg x 3 @ RPE 9 [target RPE: 8] [est_stress=276, real_stress=332]
 
 ### Squat (Paused)
 
-  Set 1: 125.0kg x 3 @ RPE 7.5 [target RPE: 8]
-  Set 2: 125.0kg x 3 @ RPE 7.5 [target RPE: 8]
-  Set 3: 125.0kg x 3 @ RPE 7.5 [target RPE: 8]
-  Set 4: 125.0kg x 3 @ RPE 7.5 [target RPE: 8]
+  Set 1: 125.0kg x 3 @ RPE 7.5 [target RPE: 8] [est_stress=229, real_stress=206]
+  Set 2: 125.0kg x 3 @ RPE 7.5 [target RPE: 8] [est_stress=229, real_stress=206]
+  Set 3: 125.0kg x 3 @ RPE 7.5 [target RPE: 8] [est_stress=229, real_stress=206]
+  Set 4: 125.0kg x 3 @ RPE 7.5 [target RPE: 8] [est_stress=229, real_stress=206]
 
 ### Pull-Up (Weighted)
 
@@ -10325,24 +10176,24 @@ Finished: 2025-04-18 10:23:47
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 2 @ RPE 8.5 [target RPE: 8]
-  Set 2: 132.5kg x 4 @ RPE 8 [target RPE: 7]
-  Set 3: 130.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 4: 130.0kg x 4 @ RPE 7.5 [target RPE: 7]
+  Set 1: 147.5kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=251, real_stress=276]
+  Set 2: 132.5kg x 4 @ RPE 8 [target RPE: 7] [est_stress=291, real_stress=363]
+  Set 3: 130.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=275, real_stress=309]
+  Set 4: 130.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=275, real_stress=309]
 
 ### Bench Press (Barbell)
 
-  Set 1: 116.5kg x 2 @ RPE 8 [target RPE: 8]
-  Set 2: 110.0kg x 4 @ RPE 8 [target RPE: 7]
-  Set 3: 110.0kg x 4 @ RPE 9 [target RPE: 7]
-  Set 4: 110.0kg x 4 @ RPE 9.5 [target RPE: 7]
+  Set 1: 116.5kg x 2 @ RPE 8 [target RPE: 8] [est_stress=192, real_stress=192]
+  Set 2: 110.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=258, real_stress=322]
+  Set 3: 110.0kg x 4 @ RPE 9 [target RPE: 7] [est_stress=258, real_stress=387]
+  Set 4: 110.0kg x 4 @ RPE 9.5 [target RPE: 7] [est_stress=258, real_stress=435]
 
 ### Sumo Deadlift (Banded)
 
-  Set 1: 160.0kg x 2 @ RPE 6 [target RPE: 8]
-  Set 2: 150.0kg x 4 @ RPE 6 [target RPE: 7]
-  Set 3: 150.0kg x 4 @ RPE 6 [target RPE: 7]
-  Set 4: 160.0kg x 4 @ RPE 8 [target RPE: 7]
+  Set 1: 160.0kg x 2 @ RPE 6 [target RPE: 8] [est_stress=227, real_stress=148]
+  Set 2: 150.0kg x 4 @ RPE 6 [target RPE: 7] [est_stress=299, real_stress=243]
+  Set 3: 150.0kg x 4 @ RPE 6 [target RPE: 7] [est_stress=299, real_stress=243]
+  Set 4: 160.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=363, real_stress=454]
 
 ### Leg Curl
 
@@ -10363,17 +10214,17 @@ Finished: 2025-04-17 10:23:00
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 160.0kg x 5 @ RPE 9 [target RPE: 8]
-  Set 3: 152.5kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 4: 155.0kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 180.0kg x 1 @ RPE 8 [target RPE: 8] [est_stress=162, real_stress=162]
+  Set 2: 160.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=567, real_stress=681]
+  Set 3: 152.5kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=491, real_stress=442]
+  Set 4: 155.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=516, real_stress=619]
 
 ### Bench Press (Paused)
 
-  Set 1: 100.0kg x 5 @ RPE 8.5 [target RPE: 8]
-  Set 2: 100.0kg x 5 @ RPE 8.5 [target RPE: 8]
-  Set 3: 100.0kg x 5 @ RPE 9.5 [target RPE: 8]
-  Set 4: 110.0kg x 1 @ RPE 8 [target: 5 reps, target RPE: 8]
+  Set 1: 100.0kg x 5 @ RPE 8.5 [target RPE: 8] [est_stress=303, real_stress=333]
+  Set 2: 100.0kg x 5 @ RPE 8.5 [target RPE: 8] [est_stress=303, real_stress=333]
+  Set 3: 100.0kg x 5 @ RPE 9.5 [target RPE: 8] [est_stress=303, real_stress=409]
+  Set 4: 110.0kg x 1 @ RPE 8 [target: 5 reps, target RPE: 8] [est_stress=403, real_stress=81]
 
 ### Pull-Up (Weighted)
 
@@ -10404,16 +10255,16 @@ Finished: 2025-04-16 10:21:17
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 1 @ RPE 7.5 [target RPE: 7]
-  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 135.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 4: 135.0kg x 4 @ RPE 8 [target RPE: 8]
+  Set 1: 145.0kg x 1 @ RPE 7.5 [target RPE: 7] [est_stress=95, real_stress=107]
+  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=384, real_stress=384]
+  Set 3: 135.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=384, real_stress=384]
+  Set 4: 135.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=384, real_stress=384]
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 82.5kg x 12 @ RPE 10 [target RPE: 8-10]
-  Set 2: 80.0kg x 12 @ RPE 10 [target RPE: 8-10]
-  Set 3: 80.0kg x 10 @ RPE 10 [target RPE: 8-10]
+  Set 1: 82.5kg x 12 @ RPE 10 [target RPE: 8-10] [est_stress=490, real_stress=612]
+  Set 2: 80.0kg x 12 @ RPE 10 [target RPE: 8-10] [est_stress=447, real_stress=558]
+  Set 3: 80.0kg x 10 @ RPE 10 [target RPE: 8-10] [est_stress=372, real_stress=465]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -10440,16 +10291,16 @@ Finished: 2025-04-15 10:21:43
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 165.0kg x 1 @ RPE 7.5 [target RPE: 6]
-  Set 2: 150.0kg x 5 @ RPE 8 [target RPE: 6]
-  Set 3: 145.0kg x 5 @ RPE 9 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6]
+  Set 1: 165.0kg x 1 @ RPE 7.5 [target RPE: 6] [est_stress=81, real_stress=112]
+  Set 2: 150.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=304, real_stress=467]
+  Set 3: 145.0kg x 5 @ RPE 9 [target RPE: 6] [est_stress=274, real_stress=507]
+  Set 4: 140.0kg x 5 @ RPE 8 [target RPE: 6] [est_stress=247, real_stress=380]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9-10]
-  Set 2: 45.0kg x 10 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=61, real_stress=68]
+  Set 2: 45.0kg x 10 @ RPE 10 [target RPE: 9-10] [est_stress=75, real_stress=83]
+  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=60, real_stress=66]
 
 ### Unknown
 
@@ -10473,17 +10324,17 @@ Finished: 2025-04-14 09:57:42
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 1 @ RPE 8 [target RPE: 8]
-  Set 2: 110.0kg x 5 @ RPE 9 [target: 4 reps, target RPE: 8]
-  Set 3: 110.0kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 4: 110.0kg x 4 @ RPE 9 [target RPE: 8]
+  Set 1: 117.5kg x 1 @ RPE 8 [target RPE: 8] [est_stress=98, real_stress=98]
+  Set 2: 110.0kg x 5 @ RPE 9 [target: 4 reps, target RPE: 8] [est_stress=322, real_stress=484]
+  Set 3: 110.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=322, real_stress=355]
+  Set 4: 110.0kg x 4 @ RPE 9 [target RPE: 8] [est_stress=322, real_stress=387]
 
 ### Squat (Paused)
 
-  Set 1: 120.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 2: 120.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 3: 120.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 4: 120.0kg x 3 @ RPE 7.5 [target RPE: 7]
+  Set 1: 120.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=162, real_stress=182]
+  Set 2: 120.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=162, real_stress=162]
+  Set 3: 120.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=162, real_stress=162]
+  Set 4: 120.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=162, real_stress=182]
 
 ### Pull-Up (Weighted)
 
@@ -10512,24 +10363,24 @@ Finished: 2025-04-12 10:14:22
 
 ### Squat (Low Bar)
 
-  Set 1: 137.5kg x 3 @ RPE 8 [target RPE: 7]
-  Set 2: 130.0kg x 5 @ RPE 7 [target RPE: 7]
-  Set 3: 130.0kg x 5 @ RPE 8 [target RPE: 7]
-  Set 4: 130.0kg x 5 @ RPE 8 [target RPE: 7]
+  Set 1: 137.5kg x 3 @ RPE 8 [target RPE: 7] [est_stress=244, real_stress=305]
+  Set 2: 130.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=343, real_stress=343]
+  Set 3: 130.0kg x 5 @ RPE 8 [target RPE: 7] [est_stress=343, real_stress=429]
+  Set 4: 130.0kg x 5 @ RPE 8 [target RPE: 7] [est_stress=343, real_stress=429]
 
 ### Bench Press (Barbell)
 
-  Set 1: 107.5kg x 3 @ RPE 7 [target RPE: 7]
-  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 7]
-  Set 3: 102.5kg x 5 @ RPE 7 [target RPE: 7]
-  Set 4: 102.5kg x 5 @ RPE 7 [target RPE: 7]
+  Set 1: 107.5kg x 3 @ RPE 7 [target RPE: 7] [est_stress=181, real_stress=181]
+  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 7] [est_stress=261, real_stress=293]
+  Set 3: 102.5kg x 5 @ RPE 7 [target RPE: 7] [est_stress=261, real_stress=261]
+  Set 4: 102.5kg x 5 @ RPE 7 [target RPE: 7] [est_stress=261, real_stress=261]
 
 ### Deadlift (Barbell)
 
-  Set 1: 150.0kg x 2 @ RPE 10 [target: 3 reps, target RPE: 7]
-  Set 2: 140.0kg x 3 @ RPE 10 [target: 5 reps, target RPE: 7]
-  Set 3: 130.0kg x 5 @ RPE 9.5 [target RPE: 7]
-  Set 4: 130.0kg x 4 @ RPE 9.5 [target: 5 reps, target RPE: 7]
+  Set 1: 150.0kg x 2 @ RPE 10 [target: 3 reps, target RPE: 7] [est_stress=224, real_stress=280]
+  Set 2: 140.0kg x 3 @ RPE 10 [target: 5 reps, target RPE: 7] [est_stress=304, real_stress=342]
+  Set 3: 130.0kg x 5 @ RPE 9.5 [target RPE: 7] [est_stress=243, real_stress=411]
+  Set 4: 130.0kg x 4 @ RPE 9.5 [target: 5 reps, target RPE: 7] [est_stress=243, real_stress=329]
 
 ### Leg Curl
 
@@ -10554,15 +10405,15 @@ Finished: 2025-04-11 10:15:36
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 [target RPE: 9]
-  Set 2: 170.0kg x 2 [target RPE: 8]
-  Set 3: 170.0kg x 2 [target RPE: 8]
+  Set 1: 180.0kg x 1 [target RPE: 9] [est_stress=194, real_stress=-]
+  Set 2: 170.0kg x 2 [target RPE: 8] [est_stress=272, real_stress=-]
+  Set 3: 170.0kg x 2 [target RPE: 8] [est_stress=272, real_stress=-]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 102.5kg x 5 @ RPE 8.5 [target RPE: 8.5]
-  Set 2: 102.5kg x 5 @ RPE 9 [target RPE: 8.5]
-  Set 3: 102.5kg x 5 @ RPE 9 [target RPE: 8.5]
+  Set 1: 102.5kg x 5 @ RPE 8.5 [target RPE: 8.5] [est_stress=359, real_stress=359]
+  Set 2: 102.5kg x 5 @ RPE 9 [target RPE: 8.5] [est_stress=359, real_stress=391]
+  Set 3: 102.5kg x 5 @ RPE 9 [target RPE: 8.5] [est_stress=359, real_stress=391]
 
 ### Pull-Up (Weighted)
 
@@ -10592,16 +10443,16 @@ Finished: 2025-04-10 10:18:41
 
 ### Squat (Low Bar)
 
-  Set 1: 160.0kg x 1 [target RPE: 9]
-  Set 2: 145.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 3: 145.0kg x 2 @ RPE 9 [target RPE: 8]
+  Set 1: 160.0kg x 1 [target RPE: 9] [est_stress=192, real_stress=-]
+  Set 2: 145.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=238, real_stress=286]
+  Set 3: 145.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=238, real_stress=286]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 9 [target RPE: 7]
-  Set 2: 107.5kg x 4 @ RPE 8 [target RPE: 7]
-  Set 3: 107.5kg x 4 @ RPE 8.5 [target RPE: 7]
-  Set 4: 107.5kg x 4 @ RPE 8 [target RPE: 7]
+  Set 1: 115.0kg x 2 @ RPE 9 [target RPE: 7] [est_stress=147, real_stress=221]
+  Set 2: 107.5kg x 4 @ RPE 8 [target RPE: 7] [est_stress=241, real_stress=301]
+  Set 3: 107.5kg x 4 @ RPE 8.5 [target RPE: 7] [est_stress=241, real_stress=331]
+  Set 4: 107.5kg x 4 @ RPE 8 [target RPE: 7] [est_stress=241, real_stress=301]
 
 ### Unknown
 
@@ -10622,16 +10473,16 @@ Finished: 2025-04-08 10:11:33
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 175.0kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 160.0kg x 2 @ RPE 9.5 [target: 3 reps, target RPE: 6]
-  Set 3: 152.5kg x 3 @ RPE 7 [target RPE: 6]
-  Set 4: 152.5kg x 3 @ RPE 8 [target RPE: 6]
+  Set 1: 175.0kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=148, real_stress=163]
+  Set 2: 160.0kg x 2 @ RPE 9.5 [target: 3 reps, target RPE: 6] [est_stress=221, real_stress=306]
+  Set 3: 152.5kg x 3 @ RPE 7 [target RPE: 6] [est_stress=192, real_stress=236]
+  Set 4: 152.5kg x 3 @ RPE 8 [target RPE: 6] [est_stress=192, real_stress=295]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 [target RPE: 9-10]
-  Set 2: 45.0kg x 9 [target RPE: 9-10]
-  Set 3: 45.0kg x 8 [target RPE: 9-10]
+  Set 1: 47.5kg x 6 [target RPE: 9-10] [est_stress=53, real_stress=-]
+  Set 2: 45.0kg x 9 [target RPE: 9-10] [est_stress=67, real_stress=-]
+  Set 3: 45.0kg x 8 [target RPE: 9-10] [est_stress=60, real_stress=-]
 
 ### Unknown
 
@@ -10655,16 +10506,16 @@ Finished: 2025-04-07 10:29:34
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 10 [target RPE: 9]
-  Set 2: 117.5kg x 2 @ RPE 10 [target RPE: 8]
-  Set 3: 117.5kg x 2 @ RPE 10 [target RPE: 8]
+  Set 1: 125.0kg x 1 @ RPE 10 [target RPE: 9] [est_stress=142, real_stress=177]
+  Set 2: 117.5kg x 2 @ RPE 10 [target RPE: 8] [est_stress=196, real_stress=295]
+  Set 3: 117.5kg x 2 @ RPE 10 [target RPE: 8] [est_stress=196, real_stress=295]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 122.5kg x 3 @ RPE 7 [target RPE: 7]
-  Set 2: 122.5kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 3: 122.5kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 4: 122.5kg x 3 @ RPE 8 [target RPE: 7]
+  Set 1: 122.5kg x 3 @ RPE 7 [target RPE: 7] [est_stress=184, real_stress=184]
+  Set 2: 122.5kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=184, real_stress=207]
+  Set 3: 122.5kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=184, real_stress=207]
+  Set 4: 122.5kg x 3 @ RPE 8 [target RPE: 7] [est_stress=184, real_stress=230]
 
 ### Pull-Up (Weighted)
 
@@ -10680,9 +10531,9 @@ Finished: 2025-04-07 10:29:34
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 80.0kg x 13 [target RPE: 9-10]
-  Set 2: 75.0kg x 12 [target RPE: 9-10]
-  Set 3: 75.0kg x 13 [target RPE: 9-10]
+  Set 1: 80.0kg x 13 [target RPE: 9-10] [est_stress=544, real_stress=-]
+  Set 2: 75.0kg x 12 [target RPE: 9-10] [est_stress=414, real_stress=-]
+  Set 3: 75.0kg x 13 [target RPE: 9-10] [est_stress=448, real_stress=-]
 
 ## 2025-04-05
 
@@ -10700,16 +10551,16 @@ Finished: 2025-04-05 10:27:35
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 1 @ RPE 7 [target: 2 reps, target RPE: 7]
-  Set 2: 140.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 8]
-  Set 3: 140.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 8]
-  Set 4: 140.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 8]
+  Set 1: 147.5kg x 1 @ RPE 7 [target: 2 reps, target RPE: 7] [est_stress=214, real_stress=107]
+  Set 2: 140.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 8] [est_stress=457, real_stress=343]
+  Set 3: 140.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 8] [est_stress=457, real_stress=343]
+  Set 4: 140.0kg x 3 @ RPE 8 [target: 4 reps, target RPE: 8] [est_stress=457, real_stress=343]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 115.0kg x 7 [target RPE: 8]
-  Set 2: 120.0kg x 10 [target RPE: 8]
-  Set 3: 125.0kg x 8 @ RPE 9 [target RPE: 8]
+  Set 1: 115.0kg x 7 [target RPE: 8] [est_stress=295, real_stress=-]
+  Set 2: 120.0kg x 10 [target RPE: 8] [est_stress=479, real_stress=-]
+  Set 3: 125.0kg x 8 @ RPE 9 [target RPE: 8] [est_stress=433, real_stress=519]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -10740,16 +10591,16 @@ Finished: 2025-04-03 10:32:52
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 8]
-  Set 2: 170.0kg x 3 @ RPE 9.5 [target RPE: 8]
-  Set 3: 165.0kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 4: 165.0kg x 3 @ RPE 8.5 [target RPE: 8]
+  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 8] [est_stress=175, real_stress=210]
+  Set 2: 170.0kg x 3 @ RPE 9.5 [target RPE: 8] [est_stress=408, real_stress=551]
+  Set 3: 165.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=373, real_stress=411]
+  Set 4: 165.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=373, real_stress=411]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 102.5kg x 5 @ RPE 8.5 [target RPE: 8]
-  Set 2: 102.5kg x 5 @ RPE 9.5 [target RPE: 8]
-  Set 3: 100.0kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 102.5kg x 5 @ RPE 8.5 [target RPE: 8] [est_stress=326, real_stress=359]
+  Set 2: 102.5kg x 5 @ RPE 9.5 [target RPE: 8] [est_stress=326, real_stress=440]
+  Set 3: 100.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=303, real_stress=363]
 
 ### Pull-Up (Weighted)
 
@@ -10780,17 +10631,17 @@ Finished: 2025-04-02 10:21:17
 
 ### Squat (Low Bar)
 
-  Set 1: 152.5kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 140.0kg x 3 @ RPE 8 [target RPE: 8]
-  Set 3: 140.0kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 8]
+  Set 1: 152.5kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=148, real_stress=162]
+  Set 2: 140.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=343, real_stress=343]
+  Set 3: 140.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=343, real_stress=377]
+  Set 4: 140.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=343, real_stress=343]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 2 @ RPE 8 [target RPE: 7]
-  Set 2: 107.5kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 3: 107.5kg x 4 @ RPE 9 [target RPE: 8]
-  Set 4: 105.0kg x 4 @ RPE 8.5 [target RPE: 8]
+  Set 1: 112.5kg x 2 @ RPE 8 [target RPE: 7] [est_stress=138, real_stress=172]
+  Set 2: 107.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=301, real_stress=331]
+  Set 3: 107.5kg x 4 @ RPE 9 [target RPE: 8] [est_stress=301, real_stress=361]
+  Set 4: 105.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=280, real_stress=308]
 
 ### Unknown
 
@@ -10811,16 +10662,16 @@ Finished: 2025-04-01 11:33:11
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 170.0kg x 1 @ RPE 7.5 [target RPE: 7]
-  Set 2: 157.5kg x 3 @ RPE 7 [target RPE: 6]
-  Set 3: 155.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 4: 152.5kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 170.0kg x 1 @ RPE 7.5 [target RPE: 7] [est_stress=109, real_stress=122]
+  Set 2: 157.5kg x 3 @ RPE 7 [target RPE: 6] [est_stress=211, real_stress=260]
+  Set 3: 155.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=201, real_stress=248]
+  Set 4: 152.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=192, real_stress=214]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9-10]
-  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 6 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=61, real_stress=68]
+  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=60, real_stress=66]
+  Set 3: 45.0kg x 6 @ RPE 10 [target RPE: 9-10] [est_stress=45, real_stress=50]
 
 ### Unknown
 
@@ -10843,17 +10694,17 @@ Finished: 2025-03-31 09:57:44
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 8]
-  Set 2: 112.5kg x 3 @ RPE 9 [target RPE: 8]
-  Set 3: 112.5kg x 3 @ RPE 9.5 [target RPE: 8]
-  Set 4: 112.5kg x 3 @ RPE 9.5 [target RPE: 8]
+  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 8] [est_stress=111, real_stress=134]
+  Set 2: 112.5kg x 3 @ RPE 9 [target RPE: 8] [est_stress=259, real_stress=310]
+  Set 3: 112.5kg x 3 @ RPE 9.5 [target RPE: 8] [est_stress=259, real_stress=349]
+  Set 4: 112.5kg x 3 @ RPE 9.5 [target RPE: 8] [est_stress=259, real_stress=349]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 122.5kg x 3 @ RPE 8 [target RPE: 7]
-  Set 2: 120.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 120.0kg x 4 @ RPE 9 [target RPE: 8]
-  Set 4: 117.5kg x 4 @ RPE 8.5 [target RPE: 8]
+  Set 1: 122.5kg x 3 @ RPE 8 [target RPE: 7] [est_stress=184, real_stress=230]
+  Set 2: 120.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=288, real_stress=288]
+  Set 3: 120.0kg x 4 @ RPE 9 [target RPE: 8] [est_stress=288, real_stress=345]
+  Set 4: 117.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=270, real_stress=297]
 
 ### Pull-Up (Weighted)
 
@@ -10869,9 +10720,9 @@ Finished: 2025-03-31 09:57:44
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 80.0kg x 12 [target RPE: 9-10]
-  Set 2: 75.0kg x 12 [target RPE: 9-10]
-  Set 3: 75.0kg x 10 [target RPE: 9-10]
+  Set 1: 80.0kg x 12 [target RPE: 9-10] [est_stress=502, real_stress=-]
+  Set 2: 75.0kg x 12 [target RPE: 9-10] [est_stress=414, real_stress=-]
+  Set 3: 75.0kg x 10 [target RPE: 9-10] [est_stress=345, real_stress=-]
 
 ## 2025-03-29
 
@@ -10889,16 +10740,16 @@ Finished: 2025-03-29 10:17:43
 
 ### Squat (Low Bar)
 
-  Set 1: 142.5kg x 2 @ RPE 7.5 [target RPE: 7]
-  Set 2: 137.5kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 137.5kg x 4 @ RPE 7.5 [target RPE: 8]
-  Set 4: 137.5kg x 5 @ RPE 8.5 [target: 4 reps, target RPE: 8]
+  Set 1: 142.5kg x 2 @ RPE 7.5 [target RPE: 7] [est_stress=193, real_stress=217]
+  Set 2: 137.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=433, real_stress=433]
+  Set 3: 137.5kg x 4 @ RPE 7.5 [target RPE: 8] [est_stress=433, real_stress=390]
+  Set 4: 137.5kg x 5 @ RPE 8.5 [target: 4 reps, target RPE: 8] [est_stress=433, real_stress=595]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 112.5kg x 10 @ RPE 8 [target RPE: 8]
-  Set 2: 115.0kg x 10 @ RPE 8 [target RPE: 8]
-  Set 3: 115.0kg x 10 @ RPE 8.5 [target RPE: 8]
+  Set 1: 112.5kg x 10 @ RPE 8 [target RPE: 8] [est_stress=394, real_stress=394]
+  Set 2: 115.0kg x 10 @ RPE 8 [target RPE: 8] [est_stress=421, real_stress=421]
+  Set 3: 115.0kg x 10 @ RPE 8.5 [target RPE: 8] [est_stress=421, real_stress=463]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -10928,16 +10779,16 @@ Finished: 2025-03-27 10:22:04
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 1 @ RPE 8 [target RPE: 7]
-  Set 2: 165.0kg x 3 @ RPE 8 [target RPE: 8]
-  Set 3: 167.5kg x 3 @ RPE 9 [target RPE: 8]
-  Set 4: 165.0kg x 3 @ RPE 8 [target RPE: 8]
+  Set 1: 175.0kg x 1 @ RPE 8 [target RPE: 7] [est_stress=119, real_stress=148]
+  Set 2: 165.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=373, real_stress=373]
+  Set 3: 167.5kg x 3 @ RPE 9 [target RPE: 8] [est_stress=391, real_stress=469]
+  Set 4: 165.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=373, real_stress=373]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 100.0kg x 5 @ RPE 8 [target RPE: 7.5]
-  Set 2: 95.0kg x 5 @ RPE 7.5 [target RPE: 7.5]
-  Set 3: 95.0kg x 5 @ RPE 7.5 [target RPE: 7.5]
+  Set 1: 100.0kg x 5 @ RPE 8 [target RPE: 7.5] [est_stress=273, real_stress=303]
+  Set 2: 95.0kg x 5 @ RPE 7.5 [target RPE: 7.5] [est_stress=234, real_stress=234]
+  Set 3: 95.0kg x 5 @ RPE 7.5 [target RPE: 7.5] [est_stress=234, real_stress=234]
 
 ### Pull-Up (Weighted)
 
@@ -10968,17 +10819,17 @@ Finished: 2025-03-26 10:14:52
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 137.5kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 137.5kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 4: 137.5kg x 4 @ RPE 8.5 [target RPE: 8]
+  Set 1: 145.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=102, real_stress=102]
+  Set 2: 137.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=433, real_stress=433]
+  Set 3: 137.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=433, real_stress=476]
+  Set 4: 137.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=433, real_stress=476]
 
 ### Bench Press (Barbell)
 
-  Set 1: 107.5kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 2: 105.0kg x 5 @ RPE 10 [target RPE: 8]
-  Set 3: 102.5kg x 5 @ RPE 10 [target RPE: 8]
-  Set 4: 100.0kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 107.5kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=181, real_stress=203]
+  Set 2: 105.0kg x 5 @ RPE 10 [target RPE: 8] [est_stress=351, real_stress=526]
+  Set 3: 102.5kg x 5 @ RPE 10 [target RPE: 8] [est_stress=326, real_stress=489]
+  Set 4: 100.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=303, real_stress=363]
 
 ### Unknown
 
@@ -10999,16 +10850,16 @@ Finished: 2025-03-25 10:05:09
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 167.5kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 152.5kg x 4 @ RPE 6.5 [target RPE: 6]
-  Set 3: 152.5kg x 4 @ RPE 6 [target RPE: 6]
-  Set 4: 152.5kg x 4 @ RPE 7.5 [target RPE: 6]
+  Set 1: 167.5kg x 1 @ RPE 6 [target RPE: 6] [est_stress=85, real_stress=85]
+  Set 2: 152.5kg x 4 @ RPE 6.5 [target RPE: 6] [est_stress=255, real_stress=285]
+  Set 3: 152.5kg x 4 @ RPE 6 [target RPE: 6] [est_stress=255, real_stress=255]
+  Set 4: 152.5kg x 4 @ RPE 7.5 [target RPE: 6] [est_stress=255, real_stress=354]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 6 @ RPE 9.5 [target RPE: 9-10] [est_stress=53, real_stress=53]
+  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=60, real_stress=66]
+  Set 3: 45.0kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=52, real_stress=58]
 
 ### Unknown
 
@@ -11031,17 +10882,17 @@ Finished: 2025-03-24 09:48:45
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 1 @ RPE 8 [target RPE: 7]
-  Set 2: 110.0kg x 4 @ RPE 9 [target RPE: 8]
-  Set 3: 107.5kg x 4 @ RPE 8 [target RPE: 8]
-  Set 4: 107.5kg x 4 @ RPE 8 [target RPE: 8]
+  Set 1: 117.5kg x 1 @ RPE 8 [target RPE: 7] [est_stress=79, real_stress=98]
+  Set 2: 110.0kg x 4 @ RPE 9 [target RPE: 8] [est_stress=322, real_stress=387]
+  Set 3: 107.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=301, real_stress=301]
+  Set 4: 107.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=301, real_stress=301]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 2: 112.5kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 3: 115.0kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 4: 115.0kg x 8 @ RPE 9 [target: 5 reps, target RPE: 8]
+  Set 1: 120.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=173, real_stress=194]
+  Set 2: 112.5kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=296, real_stress=267]
+  Set 3: 115.0kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=317, real_stress=285]
+  Set 4: 115.0kg x 8 @ RPE 9 [target: 5 reps, target RPE: 8] [est_stress=317, real_stress=608]
 
 ### Pull-Up (Weighted)
 
@@ -11057,9 +10908,9 @@ Finished: 2025-03-24 09:48:45
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 77.5kg x 14 @ RPE 10 [target RPE: 9-10]
-  Set 2: 77.5kg x 9 [target RPE: 9-10]
-  Set 3: 72.5kg x 11 [target RPE: 9-10]
+  Set 1: 77.5kg x 14 @ RPE 10 [target RPE: 9-10] [est_stress=533, real_stress=592]
+  Set 2: 77.5kg x 9 [target RPE: 9-10] [est_stress=343, real_stress=-]
+  Set 3: 72.5kg x 11 [target RPE: 9-10] [est_stress=343, real_stress=-]
 
 ## 2025-03-22
 
@@ -11077,16 +10928,16 @@ Finished: 2025-03-22 10:25:58
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 2: 135.0kg x 5 @ RPE 8.5 [target RPE: 8]
-  Set 3: 132.5kg x 5 @ RPE 9 [target RPE: 8]
-  Set 4: 130.0kg x 5 @ RPE 8 [target RPE: 8]
+  Set 1: 135.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=246, real_stress=246]
+  Set 2: 135.0kg x 5 @ RPE 8.5 [target RPE: 8] [est_stress=512, real_stress=563]
+  Set 3: 132.5kg x 5 @ RPE 9 [target RPE: 8] [est_stress=484, real_stress=581]
+  Set 4: 130.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=457, real_stress=457]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 110.0kg x 10 @ RPE 8 [target RPE: 8]
-  Set 2: 110.0kg x 10 @ RPE 8 [target RPE: 8]
-  Set 3: 110.0kg x 10 @ RPE 7.5 [target RPE: 8]
+  Set 1: 110.0kg x 10 @ RPE 8 [target RPE: 8] [est_stress=369, real_stress=369]
+  Set 2: 110.0kg x 10 @ RPE 8 [target RPE: 8] [est_stress=369, real_stress=369]
+  Set 3: 110.0kg x 10 @ RPE 7.5 [target RPE: 8] [est_stress=369, real_stress=332]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -11116,16 +10967,16 @@ Finished: 2025-03-20 10:06:30
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 172.5kg x 1 @ RPE 7 [target RPE: 6]
-  Set 2: 160.0kg x 4 @ RPE 7.5 [target RPE: 8]
-  Set 3: 162.5kg x 4 @ RPE 8 [target RPE: 8]
-  Set 4: 162.5kg x 4 @ RPE 8.5 [target RPE: 8]
+  Set 1: 172.5kg x 1 @ RPE 7 [target RPE: 6] [est_stress=92, real_stress=114]
+  Set 2: 160.0kg x 4 @ RPE 7.5 [target RPE: 8] [est_stress=454, real_stress=408]
+  Set 3: 162.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=475, real_stress=475]
+  Set 4: 162.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=475, real_stress=523]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 102.5kg x 5 @ RPE 9 [target RPE: 7]
-  Set 2: 100.0kg x 5 @ RPE 9 [target RPE: 7]
-  Set 3: 97.5kg x 5 @ RPE 8 [target RPE: 7]
+  Set 1: 102.5kg x 5 @ RPE 9 [target RPE: 7] [est_stress=261, real_stress=391]
+  Set 2: 100.0kg x 5 @ RPE 9 [target RPE: 7] [est_stress=242, real_stress=363]
+  Set 3: 97.5kg x 5 @ RPE 8 [target RPE: 7] [est_stress=225, real_stress=281]
 
 ### Pull-Up (Weighted)
 
@@ -11155,17 +11006,17 @@ Finished: 2025-03-19 10:00:10
 
 ### Squat (Low Bar)
 
-  Set 1: 137.5kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 3: 135.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 135.0kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 137.5kg x 1 @ RPE 6 [target RPE: 6] [est_stress=70, real_stress=70]
+  Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=512, real_stress=512]
+  Set 3: 135.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=512, real_stress=512]
+  Set 4: 135.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=512, real_stress=614]
 
 ### Bench Press (Barbell)
 
-  Set 1: 111.0kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 105.0kg x 5 @ RPE 9 [target RPE: 8]
-  Set 3: 105.0kg x 5 @ RPE 9.5 [target RPE: 8]
-  Set 4: 102.5kg x 5 @ RPE 9.5 [target RPE: 8]
+  Set 1: 111.0kg x 1 @ RPE 6 [target RPE: 6] [est_stress=54, real_stress=54]
+  Set 2: 105.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=351, real_stress=421]
+  Set 3: 105.0kg x 5 @ RPE 9.5 [target RPE: 8] [est_stress=351, real_stress=473]
+  Set 4: 102.5kg x 5 @ RPE 9.5 [target RPE: 8] [est_stress=326, real_stress=440]
 
 ### Unknown
 
@@ -11185,16 +11036,16 @@ Finished: 2025-03-18 10:12:57
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 165.0kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 150.0kg x 4 @ RPE 6.5 [target RPE: 6]
-  Set 3: 150.0kg x 4 @ RPE 6.5 [target RPE: 6]
-  Set 4: 150.0kg x 4 @ RPE 6 [target RPE: 6]
+  Set 1: 165.0kg x 1 @ RPE 6 [target RPE: 6] [est_stress=81, real_stress=81]
+  Set 2: 150.0kg x 4 @ RPE 6.5 [target RPE: 6] [est_stress=243, real_stress=271]
+  Set 3: 150.0kg x 4 @ RPE 6.5 [target RPE: 6] [est_stress=243, real_stress=271]
+  Set 4: 150.0kg x 4 @ RPE 6 [target RPE: 6] [est_stress=243, real_stress=243]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 6 @ RPE 9.5 [target RPE: 9-10] [est_stress=53, real_stress=53]
+  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=60, real_stress=66]
+  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=60, real_stress=66]
 
 ### Unknown
 
@@ -11217,17 +11068,17 @@ Finished: 2025-03-17 09:55:26
 
 ### Bench Press (Barbell)
 
-  Set 1: 107.5kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 2: 102.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 3: 102.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 4: 102.5kg x 6 @ RPE 9 [target RPE: 8]
+  Set 1: 107.5kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=241, real_stress=271]
+  Set 2: 102.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=391, real_stress=391]
+  Set 3: 102.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=391, real_stress=391]
+  Set 4: 102.5kg x 6 @ RPE 9 [target RPE: 8] [est_stress=391, real_stress=470]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 110.0kg x 4 @ RPE 6.5 [target RPE: 7]
-  Set 2: 105.0kg x 6 @ RPE 7 [target RPE: 8]
-  Set 3: 107.5kg x 6 @ RPE 7.5 [target RPE: 8]
-  Set 4: 107.5kg x 6 @ RPE 8 [target RPE: 8]
+  Set 1: 110.0kg x 4 @ RPE 6.5 [target RPE: 7] [est_stress=177, real_stress=161]
+  Set 2: 105.0kg x 6 @ RPE 7 [target RPE: 8] [est_stress=289, real_stress=231]
+  Set 3: 107.5kg x 6 @ RPE 7.5 [target RPE: 8] [est_stress=310, real_stress=279]
+  Set 4: 107.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=310, real_stress=310]
 
 ### Pull-Up (Weighted)
 
@@ -11243,9 +11094,9 @@ Finished: 2025-03-17 09:55:26
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 75.0kg x 15 @ RPE 10 [target RPE: 9-10]
-  Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 9-10]
-  Set 3: 72.5kg x 11 @ RPE 10 [target RPE: 9-10]
+  Set 1: 75.0kg x 15 @ RPE 10 [target RPE: 9-10] [est_stress=517, real_stress=575]
+  Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 9-10] [est_stress=414, real_stress=460]
+  Set 3: 72.5kg x 11 @ RPE 10 [target RPE: 9-10] [est_stress=343, real_stress=381]
 
 ## 2025-03-15
 
@@ -11262,16 +11113,16 @@ Finished: 2025-03-15 10:24:28
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 4 @ RPE 8.5 [target RPE: 7]
-  Set 2: 130.0kg x 6 @ RPE 8.5 [target RPE: 8]
-  Set 3: 130.0kg x 6 @ RPE 8 [target RPE: 8]
-  Set 4: 130.0kg x 6 @ RPE 8.5 [target RPE: 8]
+  Set 1: 135.0kg x 4 @ RPE 8.5 [target RPE: 7] [est_stress=328, real_stress=451]
+  Set 2: 130.0kg x 6 @ RPE 8.5 [target RPE: 8] [est_stress=549, real_stress=604]
+  Set 3: 130.0kg x 6 @ RPE 8 [target RPE: 8] [est_stress=549, real_stress=549]
+  Set 4: 130.0kg x 6 @ RPE 8.5 [target RPE: 8] [est_stress=549, real_stress=604]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 110.0kg x 9 @ RPE 8 [target RPE: 8]
-  Set 2: 110.0kg x 10 @ RPE 9 [target RPE: 8]
-  Set 3: 110.0kg x 8 @ RPE 8 [target RPE: 8]
+  Set 1: 110.0kg x 9 @ RPE 8 [target RPE: 8] [est_stress=332, real_stress=332]
+  Set 2: 110.0kg x 10 @ RPE 9 [target RPE: 8] [est_stress=369, real_stress=442]
+  Set 3: 110.0kg x 8 @ RPE 8 [target RPE: 8] [est_stress=295, real_stress=295]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -11301,16 +11152,16 @@ Finished: 2025-03-13 10:12:45
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 2 @ RPE 7.5 [target RPE: 7]
-  Set 2: 155.0kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 3: 157.5kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 4: 160.0kg x 5 @ RPE 7.5 [target RPE: 8]
+  Set 1: 170.0kg x 2 @ RPE 7.5 [target RPE: 7] [est_stress=218, real_stress=245]
+  Set 2: 155.0kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=516, real_stress=464]
+  Set 3: 157.5kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=541, real_stress=487]
+  Set 4: 160.0kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=567, real_stress=511]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 95.0kg x 6 @ RPE 8 [target RPE: 8]
-  Set 2: 95.0kg x 6 @ RPE 8.5 [target RPE: 8]
-  Set 3: 95.0kg x 6 @ RPE 8.5 [target RPE: 8]
+  Set 1: 95.0kg x 6 @ RPE 8 [target RPE: 8] [est_stress=312, real_stress=312]
+  Set 2: 95.0kg x 6 @ RPE 8.5 [target RPE: 8] [est_stress=312, real_stress=343]
+  Set 3: 95.0kg x 6 @ RPE 8.5 [target RPE: 8] [est_stress=312, real_stress=343]
 
 ### Pull-Up (Weighted)
 
@@ -11341,17 +11192,17 @@ Finished: 2025-03-12 10:22:00
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 2 @ RPE 8.5 [target RPE: 7]
-  Set 2: 120.0kg x 6 @ RPE 6 [target RPE: 8]
-  Set 3: 127.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 4: 127.5kg x 6 @ RPE 8 [target RPE: 8]
+  Set 1: 140.0kg x 2 @ RPE 8.5 [target RPE: 7] [est_stress=183, real_stress=251]
+  Set 2: 120.0kg x 6 @ RPE 6 [target RPE: 8] [est_stress=432, real_stress=281]
+  Set 3: 127.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=518, real_stress=518]
+  Set 4: 127.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=518, real_stress=518]
 
 ### Bench Press (Barbell)
 
-  Set 1: 107.5kg x 3 @ RPE 8 [target RPE: 7]
-  Set 2: 102.5kg x 6 @ RPE 9 [target RPE: 8]
-  Set 3: 100.0kg x 6 @ RPE 9 [target RPE: 8]
-  Set 4: 95.0kg x 6 @ RPE 8 [target RPE: 8]
+  Set 1: 107.5kg x 3 @ RPE 8 [target RPE: 7] [est_stress=181, real_stress=226]
+  Set 2: 102.5kg x 6 @ RPE 9 [target RPE: 8] [est_stress=391, real_stress=470]
+  Set 3: 100.0kg x 6 @ RPE 9 [target RPE: 8] [est_stress=363, real_stress=436]
+  Set 4: 95.0kg x 6 @ RPE 8 [target RPE: 8] [est_stress=312, real_stress=312]
 
 ### Unknown
 
@@ -11371,16 +11222,16 @@ Finished: 2025-03-11 10:15:33
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 142.5kg x 4 @ RPE 6 [target: 5 reps, target RPE: 6]
-  Set 3: 145.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 4: 145.0kg x 5 @ RPE 6 [target RPE: 6]
+  Set 1: 160.0kg x 1 @ RPE 6 [target RPE: 6] [est_stress=74, real_stress=74]
+  Set 2: 142.5kg x 4 @ RPE 6 [target: 5 reps, target RPE: 6] [est_stress=261, real_stress=208]
+  Set 3: 145.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=274, real_stress=274]
+  Set 4: 145.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=274, real_stress=274]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9-10]
-  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=61, real_stress=68]
+  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=60, real_stress=66]
+  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=60, real_stress=66]
 
 ### Unknown
 
@@ -11404,17 +11255,17 @@ Finished: 2025-03-10 09:47:35
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 3 @ RPE 8 [target RPE: 7]
-  Set 2: 95.0kg x 8 @ RPE 8 [target RPE: 8]
-  Set 3: 96.0kg x 8 @ RPE 8 [target RPE: 8]
-  Set 4: 96.0kg x 8 @ RPE 8.5 [target RPE: 8]
+  Set 1: 110.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=193, real_stress=242]
+  Set 2: 95.0kg x 8 @ RPE 8 [target RPE: 8] [est_stress=415, real_stress=415]
+  Set 3: 96.0kg x 8 @ RPE 8 [target RPE: 8] [est_stress=429, real_stress=429]
+  Set 4: 96.0kg x 8 @ RPE 8.5 [target RPE: 8] [est_stress=429, real_stress=472]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 3 @ RPE 8.5 [target RPE: 7]
-  Set 2: 105.0kg x 8 @ RPE 9 [target RPE: 8]
-  Set 3: 102.5kg x 8 @ RPE 8.5 [target RPE: 8]
-  Set 4: 102.5kg x 8 @ RPE 8 [target RPE: 8]
+  Set 1: 120.0kg x 3 @ RPE 8.5 [target RPE: 7] [est_stress=173, real_stress=237]
+  Set 2: 105.0kg x 8 @ RPE 9 [target RPE: 8] [est_stress=385, real_stress=463]
+  Set 3: 102.5kg x 8 @ RPE 8.5 [target RPE: 8] [est_stress=359, real_stress=394]
+  Set 4: 102.5kg x 8 @ RPE 8 [target RPE: 8] [est_stress=359, real_stress=359]
 
 ### Pull-Up (Weighted)
 
@@ -11430,9 +11281,9 @@ Finished: 2025-03-10 09:47:35
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 75.0kg x 14 @ RPE 10 [target RPE: 9-10]
-  Set 2: 75.0kg x 10 @ RPE 10 [target RPE: 9-10]
-  Set 3: 70.0kg x 11 @ RPE 10 [target RPE: 9-10]
+  Set 1: 75.0kg x 14 @ RPE 10 [target RPE: 9-10] [est_stress=483, real_stress=537]
+  Set 2: 75.0kg x 10 @ RPE 10 [target RPE: 9-10] [est_stress=345, real_stress=383]
+  Set 3: 70.0kg x 11 @ RPE 10 [target RPE: 9-10] [est_stress=308, real_stress=343]
 
 ## 2025-03-08
 
@@ -11450,16 +11301,16 @@ Finished: 2025-03-08 10:27:05
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 2: 117.5kg x 7 @ RPE 8 [target RPE: 8]
-  Set 3: 117.5kg x 7 @ RPE 8 [target RPE: 8]
-  Set 4: 117.5kg x 7 @ RPE 8 [target RPE: 8]
+  Set 1: 130.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=219, real_stress=247]
+  Set 2: 117.5kg x 7 @ RPE 8 [target RPE: 8] [est_stress=473, real_stress=473]
+  Set 3: 117.5kg x 7 @ RPE 8 [target RPE: 8] [est_stress=473, real_stress=473]
+  Set 4: 117.5kg x 7 @ RPE 8 [target RPE: 8] [est_stress=473, real_stress=473]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 112.5kg x 8 @ RPE 8.5 [target RPE: 8]
-  Set 2: 112.5kg x 9 @ RPE 9 [target RPE: 8]
-  Set 3: 112.5kg x 8 @ RPE 8 [target RPE: 8]
+  Set 1: 112.5kg x 8 @ RPE 8.5 [target RPE: 8] [est_stress=316, real_stress=347]
+  Set 2: 112.5kg x 9 @ RPE 9 [target RPE: 8] [est_stress=355, real_stress=426]
+  Set 3: 112.5kg x 8 @ RPE 8 [target RPE: 8] [est_stress=316, real_stress=316]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -11490,16 +11341,16 @@ Finished: 2025-03-06 10:16:32
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 1 @ RPE 7.5 [target RPE: 7]
-  Set 2: 150.0kg x 6 @ RPE 8 [target RPE: 8]
-  Set 3: 150.0kg x 6 @ RPE 8 [target RPE: 8]
-  Set 4: 150.0kg x 6 @ RPE 8.5 [target RPE: 8]
+  Set 1: 170.0kg x 1 @ RPE 7.5 [target RPE: 7] [est_stress=109, real_stress=122]
+  Set 2: 150.0kg x 6 @ RPE 8 [target RPE: 8] [est_stress=561, real_stress=561]
+  Set 3: 150.0kg x 6 @ RPE 8 [target RPE: 8] [est_stress=561, real_stress=561]
+  Set 4: 150.0kg x 6 @ RPE 8.5 [target RPE: 8] [est_stress=561, real_stress=617]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 92.5kg x 7 @ RPE 7 [target RPE: 8]
-  Set 2: 95.0kg x 7 @ RPE 8.5 [target RPE: 8]
-  Set 3: 92.5kg x 7 @ RPE 8 [target RPE: 8]
+  Set 1: 92.5kg x 7 @ RPE 7 [target RPE: 8] [est_stress=336, real_stress=268]
+  Set 2: 95.0kg x 7 @ RPE 8.5 [target RPE: 8] [est_stress=363, real_stress=400]
+  Set 3: 92.5kg x 7 @ RPE 8 [target RPE: 8] [est_stress=336, real_stress=336]
 
 ### Pull-Up (Weighted)
 
@@ -11529,17 +11380,17 @@ Finished: 2025-03-05 10:30:40
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 115.0kg x 7 @ RPE 8 [target RPE: 8]
-  Set 3: 115.0kg x 7 @ RPE 7.5 [target RPE: 8]
-  Set 4: 115.0kg x 7 @ RPE 8 [target RPE: 8]
+  Set 1: 140.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=91, real_stress=91]
+  Set 2: 115.0kg x 7 @ RPE 8 [target RPE: 8] [est_stress=443, real_stress=443]
+  Set 3: 115.0kg x 7 @ RPE 7.5 [target RPE: 8] [est_stress=443, real_stress=399]
+  Set 4: 115.0kg x 7 @ RPE 8 [target RPE: 8] [est_stress=443, real_stress=443]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 1 @ RPE 7.5 [target RPE: 7]
-  Set 2: 100.0kg x 7 @ RPE 8 [target: 8 reps, target RPE: 8]
-  Set 3: 97.5kg x 7 @ RPE 9 [target: 8 reps, target RPE: 8]
-  Set 4: 97.5kg x 8 @ RPE 10 [target RPE: 8]
+  Set 1: 115.0kg x 1 @ RPE 7.5 [target RPE: 7] [est_stress=74, real_stress=83]
+  Set 2: 100.0kg x 7 @ RPE 8 [target: 8 reps, target RPE: 8] [est_stress=484, real_stress=424]
+  Set 3: 97.5kg x 7 @ RPE 9 [target: 8 reps, target RPE: 8] [est_stress=449, real_stress=472]
+  Set 4: 97.5kg x 8 @ RPE 10 [target RPE: 8] [est_stress=449, real_stress=674]
 
 ### Unknown
 
@@ -11559,16 +11410,16 @@ Finished: 2025-03-04 10:11:56
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 @ RPE 7 [target RPE: 6]
-  Set 2: 135.0kg x 5 @ RPE 6 [target RPE: 6]
-  Set 3: 137.5kg x 5 @ RPE 6 [target RPE: 6]
-  Set 4: 140.0kg x 5 @ RPE 6 [target RPE: 6]
+  Set 1: 160.0kg x 1 @ RPE 7 [target RPE: 6] [est_stress=74, real_stress=91]
+  Set 2: 135.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=222, real_stress=222]
+  Set 3: 137.5kg x 5 @ RPE 6 [target RPE: 6] [est_stress=234, real_stress=234]
+  Set 4: 140.0kg x 5 @ RPE 6 [target RPE: 6] [est_stress=247, real_stress=247]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 6 @ RPE 10 [target RPE: 9-10]
-  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 7 [target RPE: 9-10]
+  Set 1: 47.5kg x 6 @ RPE 10 [target RPE: 9-10] [est_stress=53, real_stress=58]
+  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=60, real_stress=66]
+  Set 3: 45.0kg x 7 [target RPE: 9-10] [est_stress=52, real_stress=-]
 
 ### Unknown
 
@@ -11591,17 +11442,17 @@ Finished: 2025-03-03 09:50:48
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 92.5kg x 10 @ RPE 8 [target RPE: 8]
-  Set 3: 95.0kg x 10 @ RPE 8.5 [target RPE: 8]
-  Set 4: 95.0kg x 10 @ RPE 9 [target RPE: 8]
+  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=74, real_stress=74]
+  Set 2: 92.5kg x 10 @ RPE 8 [target RPE: 8] [est_stress=479, real_stress=479]
+  Set 3: 95.0kg x 10 @ RPE 8.5 [target RPE: 8] [est_stress=519, real_stress=571]
+  Set 4: 95.0kg x 10 @ RPE 9 [target RPE: 8] [est_stress=519, real_stress=623]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 9 [target: 3 reps, target RPE: 7]
-  Set 2: 100.0kg x 8 @ RPE 8 [target RPE: 8]
-  Set 3: 100.0kg x 8 @ RPE 9 [target RPE: 8]
-  Set 4: 100.0kg x 8 @ RPE 9 [target RPE: 8]
+  Set 1: 120.0kg x 1 @ RPE 9 [target: 3 reps, target RPE: 7] [est_stress=173, real_stress=86]
+  Set 2: 100.0kg x 8 @ RPE 8 [target RPE: 8] [est_stress=333, real_stress=333]
+  Set 3: 100.0kg x 8 @ RPE 9 [target RPE: 8] [est_stress=333, real_stress=400]
+  Set 4: 100.0kg x 8 @ RPE 9 [target RPE: 8] [est_stress=333, real_stress=400]
 
 ### Pull-Up (Weighted)
 
@@ -11617,9 +11468,9 @@ Finished: 2025-03-03 09:50:48
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 72.5kg x 14 @ RPE 10 [target RPE: 9-10]
-  Set 2: 70.0kg x 11 @ RPE 10 [target RPE: 9-10]
-  Set 3: 70.0kg x 10 @ RPE 10 [target RPE: 9-10]
+  Set 1: 72.5kg x 14 @ RPE 10 [target RPE: 9-10] [est_stress=436, real_stress=485]
+  Set 2: 70.0kg x 11 @ RPE 10 [target RPE: 9-10] [est_stress=308, real_stress=343]
+  Set 3: 70.0kg x 10 @ RPE 10 [target RPE: 9-10] [est_stress=280, real_stress=312]
 
 ## 2025-03-01
 
@@ -11636,16 +11487,16 @@ Finished: 2025-03-01 10:13:14
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 1 @ RPE 8 [target RPE: 7]
-  Set 2: 110.0kg x 9 @ RPE 8 [target: 8 reps, target RPE: 8]
-  Set 3: 112.5kg x 8 @ RPE 8 [target RPE: 8]
-  Set 4: 112.5kg x 8 @ RPE 8 [target RPE: 8]
+  Set 1: 135.0kg x 1 @ RPE 8 [target RPE: 7] [est_stress=82, real_stress=102]
+  Set 2: 110.0kg x 9 @ RPE 8 [target: 8 reps, target RPE: 8] [est_stress=443, real_stress=499]
+  Set 3: 112.5kg x 8 @ RPE 8 [target RPE: 8] [est_stress=474, real_stress=474]
+  Set 4: 112.5kg x 8 @ RPE 8 [target RPE: 8] [est_stress=474, real_stress=474]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 110.0kg x 8 @ RPE 6.5 [target RPE: 8]
-  Set 2: 110.0kg x 8 @ RPE 6.5 [target RPE: 8]
-  Set 3: 110.0kg x 9 @ RPE 7 [target RPE: 8]
+  Set 1: 110.0kg x 8 @ RPE 6.5 [target RPE: 8] [est_stress=295, real_stress=214]
+  Set 2: 110.0kg x 8 @ RPE 6.5 [target RPE: 8] [est_stress=295, real_stress=214]
+  Set 3: 110.0kg x 9 @ RPE 7 [target RPE: 8] [est_stress=332, real_stress=265]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -11662,8 +11513,8 @@ Finished: 2025-03-01 10:13:14
 
 ### Bench Press (Barbell)
 
-  Set 1: 60.0kg x 20
-  Set 2: 70.0kg x 20
+  Set 1: 60.0kg x 20 [est_stress=-, real_stress=-]
+  Set 2: 70.0kg x 20 [est_stress=-, real_stress=-]
 
 ## 2025-02-22
 
@@ -11680,24 +11531,24 @@ Finished: 2025-02-22 10:32:13
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 1 @ RPE 8
-  Set 2: 120.0kg x 8 @ RPE 9
-  Set 3: 120.0kg x 8 @ RPE 9
-  Set 4: 120.0kg x 8 @ RPE 9
+  Set 1: 140.0kg x 1 @ RPE 8 [est_stress=-, real_stress=114]
+  Set 2: 120.0kg x 8 @ RPE 9 [est_stress=-, real_stress=690]
+  Set 3: 120.0kg x 8 @ RPE 9 [est_stress=-, real_stress=690]
+  Set 4: 120.0kg x 8 @ RPE 9 [est_stress=-, real_stress=690]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 1 @ RPE 8
-  Set 2: 100.0kg x 9 @ RPE 10
-  Set 3: 100.0kg x 8 @ RPE 9.5
-  Set 4: 90.0kg x 10 @ RPE 10
+  Set 1: 115.0kg x 1 @ RPE 8 [est_stress=-, real_stress=92]
+  Set 2: 100.0kg x 9 @ RPE 10 [est_stress=-, real_stress=818]
+  Set 3: 100.0kg x 8 @ RPE 9.5 [est_stress=-, real_stress=654]
+  Set 4: 90.0kg x 10 @ RPE 10 [est_stress=-, real_stress=662]
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 170.0kg x 1 @ RPE 8
-  Set 2: 130.0kg x 10 @ RPE 9
-  Set 3: 140.0kg x 9 @ RPE 9.5
-  Set 4: 145.0kg x 9 @ RPE 9.5
+  Set 1: 170.0kg x 1 @ RPE 8 [est_stress=-, real_stress=136]
+  Set 2: 130.0kg x 10 @ RPE 9 [est_stress=-, real_stress=730]
+  Set 3: 140.0kg x 9 @ RPE 9.5 [est_stress=-, real_stress=924]
+  Set 4: 145.0kg x 9 @ RPE 9.5 [est_stress=-, real_stress=1026]
 
 ## 2025-02-20
 
@@ -11714,16 +11565,16 @@ Finished: 2025-02-20 10:34:43
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 190.0kg x 1 @ RPE 10 [target RPE: 9]
-  Set 2: 170.0kg x 2 @ RPE 8 [target RPE: 8]
-  Set 3: 170.0kg x 2 @ RPE 8.5 [target RPE: 8]
+  Set 1: 190.0kg x 1 @ RPE 10 [target RPE: 9] [est_stress=228, real_stress=285]
+  Set 2: 170.0kg x 2 @ RPE 8 [target RPE: 8] [est_stress=272, real_stress=272]
+  Set 3: 170.0kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=272, real_stress=299]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 115.0kg x 1 @ RPE 8 [target RPE: 7.5]
-  Set 2: 102.5kg x 5 @ RPE 8.5 [target RPE: 9]
-  Set 3: 102.5kg x 5 @ RPE 9 [target RPE: 9]
-  Set 4: 100.0kg x 5 @ RPE 10 [target RPE: 9]
+  Set 1: 115.0kg x 1 @ RPE 8 [target RPE: 7.5] [est_stress=83, real_stress=92]
+  Set 2: 102.5kg x 5 @ RPE 8.5 [target RPE: 9] [est_stress=391, real_stress=359]
+  Set 3: 102.5kg x 5 @ RPE 9 [target RPE: 9] [est_stress=391, real_stress=391]
+  Set 4: 100.0kg x 5 @ RPE 10 [target RPE: 9] [est_stress=363, real_stress=454]
 
 ### Unknown
 
@@ -11743,15 +11594,15 @@ Finished: 2025-02-19 11:01:26
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 10 [target RPE: 9]
-  Set 2: 140.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 3: 140.0kg x 2 @ RPE 8 [target RPE: 8]
+  Set 1: 155.0kg x 1 @ RPE 10 [target RPE: 9] [est_stress=186, real_stress=232]
+  Set 2: 140.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=228, real_stress=274]
+  Set 3: 140.0kg x 2 @ RPE 8 [target RPE: 8] [est_stress=228, real_stress=228]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 2: 105.0kg x 4 @ RPE 8 [target RPE: 7]
-  Set 3: 105.0kg x 4 @ RPE 9 [target RPE: 7]
+  Set 1: 115.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=184, real_stress=221]
+  Set 2: 105.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=224, real_stress=280]
+  Set 3: 105.0kg x 4 @ RPE 9 [target RPE: 7] [est_stress=224, real_stress=337]
 
 ### Unknown
 
@@ -11771,17 +11622,17 @@ Finished: 2025-02-18 10:14:08
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 160.0kg x 1 @ RPE 7 [target RPE: 8]
-  Set 2: 147.5kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 147.5kg x 3 @ RPE 6 [target RPE: 6]
-  Set 4: 147.5kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 5: 147.5kg x 3 @ RPE 6 [target RPE: 6]
+  Set 1: 160.0kg x 1 @ RPE 7 [target RPE: 8] [est_stress=126, real_stress=101]
+  Set 2: 147.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=193, real_stress=215]
+  Set 3: 147.5kg x 3 @ RPE 6 [target RPE: 6] [est_stress=193, real_stress=193]
+  Set 4: 147.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=193, real_stress=215]
+  Set 5: 147.5kg x 3 @ RPE 6 [target RPE: 6] [est_stress=193, real_stress=193]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 2: 47.5kg x 6 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 9 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=78]
+  Set 2: 47.5kg x 6 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=58]
+  Set 3: 45.0kg x 9 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=75]
 
 ### Bicep Curl (Cable)
 
@@ -11826,16 +11677,16 @@ Finished: 2025-02-17 10:12:57
 
 ### Bench Press (Barbell)
 
-  Set 1: 127.5kg x 1 @ RPE 10 [target RPE: 10]
-  Set 2: 117.5kg x 2 @ RPE 10 [target RPE: 8]
-  Set 3: 115.0kg x 2 @ RPE 10 [target RPE: 8]
+  Set 1: 127.5kg x 1 @ RPE 10 [target RPE: 10] [est_stress=188, real_stress=188]
+  Set 2: 117.5kg x 2 @ RPE 10 [target RPE: 8] [est_stress=196, real_stress=295]
+  Set 3: 115.0kg x 2 @ RPE 10 [target RPE: 8] [est_stress=184, real_stress=276]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 112.5kg x 1 @ RPE 6.5 [target RPE: 7]
-  Set 2: 110.0kg x 3 @ RPE 7 [target RPE: 8]
-  Set 3: 110.0kg x 3 @ RPE 7 [target RPE: 8]
-  Set 4: 110.0kg x 7 @ RPE 8 [target: 3 reps, target RPE: 8]
+  Set 1: 112.5kg x 1 @ RPE 6.5 [target RPE: 7] [est_stress=47, real_stress=43]
+  Set 2: 110.0kg x 3 @ RPE 7 [target RPE: 8] [est_stress=166, real_stress=133]
+  Set 3: 110.0kg x 3 @ RPE 7 [target RPE: 8] [est_stress=166, real_stress=133]
+  Set 4: 110.0kg x 7 @ RPE 8 [target: 3 reps, target RPE: 8] [est_stress=166, real_stress=388]
 
 ### Pull-Up (Weighted)
 
@@ -11851,9 +11702,9 @@ Finished: 2025-02-17 10:12:57
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 77.5kg x 15 @ RPE 10 [target RPE: 10]
-  Set 2: 77.5kg x 11 @ RPE 10 [target RPE: 10]
-  Set 3: 75.0kg x 10 [target RPE: 10]
+  Set 1: 77.5kg x 15 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=634]
+  Set 2: 77.5kg x 11 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=465]
+  Set 3: 75.0kg x 10 [target RPE: 10] [est_stress=-, real_stress=-]
 
 ## 2025-02-15
 
@@ -11870,16 +11721,16 @@ Finished: 2025-02-15 10:29:02
 
 ### Squat (Low Bar)
 
-  Set 1: 147.5kg x 2 @ RPE 9 [target RPE: 8]
-  Set 2: 132.5kg x 4 @ RPE 8 [target RPE: 7]
-  Set 3: 130.0kg x 4 @ RPE 7.5 [target RPE: 7]
+  Set 1: 147.5kg x 2 @ RPE 9 [target RPE: 8] [est_stress=267, real_stress=321]
+  Set 2: 132.5kg x 4 @ RPE 8 [target RPE: 7] [est_stress=310, real_stress=387]
+  Set 3: 130.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=293, real_stress=329]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 120.0kg x 2 @ RPE 7 [target: 1 reps, target RPE: 7]
-  Set 2: 122.5kg x 4 @ RPE 6 [target RPE: 8]
-  Set 3: 130.0kg x 4 @ RPE 7 [target RPE: 8]
-  Set 4: 130.0kg x 4 @ RPE 7 [target RPE: 8]
+  Set 1: 120.0kg x 2 @ RPE 7 [target: 1 reps, target RPE: 7] [est_stress=43, real_stress=85]
+  Set 2: 122.5kg x 4 @ RPE 6 [target RPE: 8] [est_stress=227, real_stress=148]
+  Set 3: 130.0kg x 4 @ RPE 7 [target RPE: 8] [est_stress=271, real_stress=217]
+  Set 4: 130.0kg x 4 @ RPE 7 [target RPE: 8] [est_stress=271, real_stress=217]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -11909,17 +11760,17 @@ Finished: 2025-02-13 10:10:54
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 9 [target RPE: 8]
-  Set 2: 165.0kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 3: 165.0kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 4: 162.5kg x 3 @ RPE 8 [target RPE: 8]
+  Set 1: 180.0kg x 1 @ RPE 9 [target RPE: 8] [est_stress=180, real_stress=216]
+  Set 2: 165.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=416, real_stress=458]
+  Set 3: 165.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=416, real_stress=458]
+  Set 4: 162.5kg x 3 @ RPE 8 [target RPE: 8] [est_stress=397, real_stress=397]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 113.5kg x 1 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 102.5kg x 5 @ RPE 8 [target RPE: 8]
-  Set 3: 102.5kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 102.5kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 113.5kg x 1 @ RPE 7.5 [target RPE: 7.5] [est_stress=80, real_stress=80]
+  Set 2: 102.5kg x 5 @ RPE 8 [target RPE: 8] [est_stress=326, real_stress=326]
+  Set 3: 102.5kg x 5 @ RPE 8 [target RPE: 8] [est_stress=326, real_stress=326]
+  Set 4: 102.5kg x 5 @ RPE 9 [target RPE: 8] [est_stress=326, real_stress=391]
 
 ### Unknown
 
@@ -11939,17 +11790,17 @@ Finished: 2025-02-12 10:37:33
 
 ### Squat (Low Bar)
 
-  Set 1: 152.5kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 137.5kg x 3 @ RPE 8 [target RPE: 8]
-  Set 3: 137.5kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 4: 137.5kg x 3 @ RPE 8.5 [target RPE: 8]
+  Set 1: 152.5kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=148, real_stress=162]
+  Set 2: 137.5kg x 3 @ RPE 8 [target RPE: 8] [est_stress=325, real_stress=325]
+  Set 3: 137.5kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=325, real_stress=357]
+  Set 4: 137.5kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=325, real_stress=357]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 2 @ RPE 7.5 [target RPE: 7]
-  Set 2: 107.5kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 3: 106.5kg x 4 @ RPE 8 [target RPE: 8]
-  Set 4: 106.5kg x 4 @ RPE 8 [target RPE: 8]
+  Set 1: 112.5kg x 2 @ RPE 7.5 [target RPE: 7] [est_stress=138, real_stress=155]
+  Set 2: 107.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=301, real_stress=331]
+  Set 3: 106.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=293, real_stress=293]
+  Set 4: 106.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=293, real_stress=293]
 
 ### Unknown
 
@@ -11970,17 +11821,17 @@ Finished: 2025-02-11 10:21:09
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 155.0kg x 1 @ RPE 7 [target RPE: 8]
-  Set 2: 145.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 145.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 4: 145.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 5: 145.0kg x 3 @ RPE 6 [target RPE: 6]
+  Set 1: 155.0kg x 1 @ RPE 7 [target RPE: 8] [est_stress=115, real_stress=92]
+  Set 2: 145.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=183, real_stress=205]
+  Set 3: 145.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=183, real_stress=205]
+  Set 4: 145.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=183, real_stress=183]
+  Set 5: 145.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=183, real_stress=183]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 8 @ RPE 9.5 [target RPE: 9-10]
-  Set 2: 47.5kg x 7 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 11 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 8 @ RPE 9.5 [target RPE: 9-10] [est_stress=-, real_stress=70]
+  Set 2: 47.5kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=68]
+  Set 3: 45.0kg x 11 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=91]
 
 ### Unknown
 
@@ -12010,17 +11861,17 @@ Finished: 2025-02-10 09:54:19
 
 ### Bench Press (Barbell)
 
-  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 9]
-  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 3: 113.5kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 4: 112.5kg x 3 @ RPE 8.5 [target RPE: 8]
+  Set 1: 122.5kg x 1 @ RPE 9 [target RPE: 9] [est_stress=134, real_stress=134]
+  Set 2: 115.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=276, real_stress=304]
+  Set 3: 113.5kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=266, real_stress=292]
+  Set 4: 112.5kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=259, real_stress=285]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 107.5kg x 1 @ RPE 6.5 [target RPE: 7]
-  Set 2: 100.0kg x 4 @ RPE 7 [target RPE: 7]
-  Set 3: 100.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 4: 100.0kg x 4 @ RPE 7 [target RPE: 7]
+  Set 1: 107.5kg x 1 @ RPE 6.5 [target RPE: 7] [est_stress=41, real_stress=37]
+  Set 2: 100.0kg x 4 @ RPE 7 [target RPE: 7] [est_stress=133, real_stress=133]
+  Set 3: 100.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=133, real_stress=150]
+  Set 4: 100.0kg x 4 @ RPE 7 [target RPE: 7] [est_stress=133, real_stress=133]
 
 ### Pull-Up (Weighted)
 
@@ -12036,9 +11887,9 @@ Finished: 2025-02-10 09:54:19
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 77.5kg x 11 @ RPE 10 [target RPE: 10]
-  Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 10]
-  Set 3: 70.0kg x 12 @ RPE 10 [target RPE: 10]
+  Set 1: 77.5kg x 11 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=465]
+  Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=460]
+  Set 3: 70.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=374]
 
 ## 2025-02-08
 
@@ -12056,17 +11907,17 @@ Finished: 2025-02-08 10:16:10
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 2 @ RPE 7 [target RPE: 7]
-  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 135.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 4: 135.0kg x 4 @ RPE 8.5 [target RPE: 8]
+  Set 1: 140.0kg x 2 @ RPE 7 [target RPE: 7] [est_stress=183, real_stress=183]
+  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=410, real_stress=410]
+  Set 3: 135.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=410, real_stress=410]
+  Set 4: 135.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=410, real_stress=451]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 145.0kg x 1 @ RPE 8 [target RPE: 7]
-  Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 3: 135.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 100.0kg x 5 [target RPE: 8]
+  Set 1: 145.0kg x 1 @ RPE 8 [target RPE: 7] [est_stress=75, real_stress=94]
+  Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=380, real_stress=380]
+  Set 3: 135.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=380, real_stress=380]
+  Set 4: 100.0kg x 5 [target RPE: 8] [est_stress=154, real_stress=-]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -12097,18 +11948,18 @@ Finished: 2025-02-06 09:53:14
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 1 @ RPE 7.5 [target RPE: 7]
-  Set 2: 160.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 7]
-  Set 4: 162.5kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 5: 162.5kg x 3 @ RPE 7 [target RPE: 7]
+  Set 1: 175.0kg x 1 @ RPE 7.5 [target RPE: 7] [est_stress=132, real_stress=149]
+  Set 2: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=303, real_stress=303]
+  Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=303, real_stress=303]
+  Set 4: 162.5kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=318, real_stress=358]
+  Set 5: 162.5kg x 3 @ RPE 7 [target RPE: 7] [est_stress=318, real_stress=318]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 112.5kg x 1 @ RPE 7 [target RPE: 7.5]
-  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 7.5]
-  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 7.5]
-  Set 4: 100.0kg x 5 @ RPE 8.5 [target RPE: 7.5]
+  Set 1: 112.5kg x 1 @ RPE 7 [target RPE: 7.5] [est_stress=78, real_stress=69]
+  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 7.5] [est_stress=273, real_stress=242]
+  Set 3: 100.0kg x 5 @ RPE 7.5 [target RPE: 7.5] [est_stress=273, real_stress=273]
+  Set 4: 100.0kg x 5 @ RPE 8.5 [target RPE: 7.5] [est_stress=273, real_stress=333]
 
 ### Unknown
 
@@ -12128,17 +11979,17 @@ Finished: 2025-02-05 10:25:16
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 1 @ RPE 6.5 [target RPE: 6]
-  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 135.0kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 4: 135.0kg x 4 @ RPE 8.5 [target RPE: 8]
+  Set 1: 140.0kg x 1 @ RPE 6.5 [target RPE: 6] [est_stress=74, real_stress=83]
+  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=410, real_stress=410]
+  Set 3: 135.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=410, real_stress=451]
+  Set 4: 135.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=410, real_stress=451]
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 3 @ RPE 8 [target RPE: 7]
-  Set 2: 103.5kg x 5 @ RPE 9 [target RPE: 8]
-  Set 3: 102.5kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 102.5kg x 4 @ RPE 10 [target: 5 reps, target RPE: 8]
+  Set 1: 110.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=193, real_stress=242]
+  Set 2: 103.5kg x 5 @ RPE 9 [target RPE: 8] [est_stress=336, real_stress=403]
+  Set 3: 102.5kg x 5 @ RPE 8 [target RPE: 8] [est_stress=326, real_stress=326]
+  Set 4: 102.5kg x 4 @ RPE 10 [target: 5 reps, target RPE: 8] [est_stress=326, real_stress=391]
 
 ### Unknown
 
@@ -12158,17 +12009,17 @@ Finished: 2025-02-04 10:11:39
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 150.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 142.5kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 142.5kg x 3 @ RPE 6 [target RPE: 6]
-  Set 4: 142.5kg x 3 @ RPE 6 [target RPE: 6]
-  Set 5: 142.5kg x 3 @ RPE 6 [target RPE: 6]
+  Set 1: 150.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=83, real_stress=83]
+  Set 2: 142.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=174, real_stress=194]
+  Set 3: 142.5kg x 3 @ RPE 6 [target RPE: 6] [est_stress=174, real_stress=174]
+  Set 4: 142.5kg x 3 @ RPE 6 [target RPE: 6] [est_stress=174, real_stress=174]
+  Set 5: 142.5kg x 3 @ RPE 6 [target RPE: 6] [est_stress=174, real_stress=174]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 8 @ RPE 10 [target RPE: 9-10]
-  Set 2: 47.5kg x 7 @ RPE 10 [target RPE: 9-10]
-  Set 3: 45.0kg x 9 @ RPE 10 [target RPE: 9-10]
+  Set 1: 47.5kg x 8 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=78]
+  Set 2: 47.5kg x 7 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=68]
+  Set 3: 45.0kg x 9 @ RPE 10 [target RPE: 9-10] [est_stress=-, real_stress=75]
 
 ### Unknown
 
@@ -12198,17 +12049,17 @@ Finished: 2025-02-03 10:02:15
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 7]
-  Set 2: 110.0kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 3: 108.5kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 4: 107.5kg x 4 @ RPE 8.5 [target RPE: 8]
+  Set 1: 120.0kg x 1 @ RPE 8 [target RPE: 7] [est_stress=84, real_stress=105]
+  Set 2: 110.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=322, real_stress=355]
+  Set 3: 108.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=309, real_stress=340]
+  Set 4: 107.5kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=301, real_stress=331]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 105.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 100.0kg x 5 @ RPE 8 [target RPE: 7]
-  Set 3: 95.0kg x 5 @ RPE 8 [target RPE: 7]
-  Set 4: 95.0kg x 5 @ RPE 8 [target RPE: 7]
+  Set 1: 105.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=39, real_stress=39]
+  Set 2: 100.0kg x 5 @ RPE 8 [target RPE: 7] [est_stress=166, real_stress=208]
+  Set 3: 95.0kg x 5 @ RPE 8 [target RPE: 7] [est_stress=143, real_stress=178]
+  Set 4: 95.0kg x 5 @ RPE 8 [target RPE: 7] [est_stress=143, real_stress=178]
 
 ### Pull-Up (Weighted)
 
@@ -12224,9 +12075,9 @@ Finished: 2025-02-03 10:02:15
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 75.0kg x 15 @ RPE 9 [target RPE: 10]
-  Set 2: 77.5kg x 11 @ RPE 10 [target RPE: 10]
-  Set 3: 75.0kg x 10 @ RPE 10 [target RPE: 10]
+  Set 1: 75.0kg x 15 @ RPE 9 [target RPE: 10] [est_stress=-, real_stress=460]
+  Set 2: 77.5kg x 11 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=465]
+  Set 3: 75.0kg x 10 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=383]
 
 ## 2025-02-01
 
@@ -12243,17 +12094,17 @@ Finished: 2025-02-01 10:30:06
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 3 @ RPE 8.5 [target RPE: 8]
-  Set 2: 132.5kg x 5 @ RPE 9.5 [target RPE: 8]
-  Set 3: 132.5kg x 5 @ RPE 9 [target RPE: 8]
-  Set 4: 127.5kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 140.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=343, real_stress=377]
+  Set 2: 132.5kg x 5 @ RPE 9.5 [target RPE: 8] [est_stress=484, real_stress=654]
+  Set 3: 132.5kg x 5 @ RPE 9 [target RPE: 8] [est_stress=484, real_stress=581]
+  Set 4: 127.5kg x 5 @ RPE 9 [target RPE: 8] [est_stress=431, real_stress=518]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 142.5kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 132.5kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 3: 132.5kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 132.5kg x 5 @ RPE 8 [target RPE: 8]
+  Set 1: 142.5kg x 1 @ RPE 7 [target RPE: 7] [est_stress=71, real_stress=71]
+  Set 2: 132.5kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=359, real_stress=323]
+  Set 3: 132.5kg x 5 @ RPE 8 [target RPE: 8] [est_stress=359, real_stress=359]
+  Set 4: 132.5kg x 5 @ RPE 8 [target RPE: 8] [est_stress=359, real_stress=359]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -12283,17 +12134,17 @@ Finished: 2025-01-30 09:58:36
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 160.0kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 160.0kg x 4 @ RPE 9 [target RPE: 8]
-  Set 3: 152.5kg x 4 @ RPE 8 [target RPE: 8]
-  Set 4: 152.5kg x 4 @ RPE 8 [target RPE: 8]
+  Set 1: 160.0kg x 1 @ RPE 6 [target RPE: 6] [est_stress=82, real_stress=82]
+  Set 2: 160.0kg x 4 @ RPE 9 [target RPE: 8] [est_stress=506, real_stress=607]
+  Set 3: 152.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=438, real_stress=438]
+  Set 4: 152.5kg x 4 @ RPE 8 [target RPE: 8] [est_stress=438, real_stress=438]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 110.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 102.0kg x 5 @ RPE 8.5 [target RPE: 7]
-  Set 3: 97.5kg x 5 @ RPE 7 [target RPE: 7]
-  Set 4: 97.5kg x 5 @ RPE 7.5 [target RPE: 7]
+  Set 1: 110.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=64, real_stress=64]
+  Set 2: 102.0kg x 5 @ RPE 8.5 [target RPE: 7] [est_stress=257, real_stress=353]
+  Set 3: 97.5kg x 5 @ RPE 7 [target RPE: 7] [est_stress=225, real_stress=225]
+  Set 4: 97.5kg x 5 @ RPE 7.5 [target RPE: 7] [est_stress=225, real_stress=253]
 
 ### Unknown
 
@@ -12314,17 +12165,17 @@ Finished: 2025-01-29 10:28:19
 
 ### Squat (Low Bar)
 
-  Set 1: 137.5kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 3: 135.0kg x 5 @ RPE 8.5 [target RPE: 8]
-  Set 4: 132.5kg x 5 @ RPE 8 [target RPE: 8]
+  Set 1: 137.5kg x 1 @ RPE 6 [target RPE: 6] [est_stress=70, real_stress=70]
+  Set 2: 135.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=512, real_stress=512]
+  Set 3: 135.0kg x 5 @ RPE 8.5 [target RPE: 8] [est_stress=512, real_stress=563]
+  Set 4: 132.5kg x 5 @ RPE 8 [target RPE: 8] [est_stress=484, real_stress=484]
 
 ### Bench Press (Barbell)
 
-  Set 1: 107.5kg x 4 @ RPE 8 [target RPE: 7]
-  Set 2: 102.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 3: 102.5kg x 6 @ RPE 9 [target RPE: 8]
-  Set 4: 100.0kg x 6 @ RPE 7.5 [target RPE: 8]
+  Set 1: 107.5kg x 4 @ RPE 8 [target RPE: 7] [est_stress=241, real_stress=301]
+  Set 2: 102.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=391, real_stress=391]
+  Set 3: 102.5kg x 6 @ RPE 9 [target RPE: 8] [est_stress=391, real_stress=470]
+  Set 4: 100.0kg x 6 @ RPE 7.5 [target RPE: 8] [est_stress=363, real_stress=327]
 
 ### Unknown
 
@@ -12344,7 +12195,7 @@ Finished: 2025-01-28 10:34:11
 
 ### Deadlift (Deficit)
 
-  Set 1: 140.0kg x 1 @ RPE 9 [target RPE: 7]
+  Set 1: 140.0kg x 1 @ RPE 9 [target RPE: 7] [est_stress=68, real_stress=102]
 
 ### Bicep Curl (Cable)
 
@@ -12376,15 +12227,15 @@ Finished: 2025-01-28 10:34:11
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 160.0kg x 3 @ RPE 8
-  Set 2: 150.0kg x 2 @ RPE 10
-  Set 3: 150.0kg x 3 @ RPE 9
+  Set 1: 160.0kg x 3 @ RPE 8 [est_stress=-, real_stress=379]
+  Set 2: 150.0kg x 2 @ RPE 10 [est_stress=-, real_stress=313]
+  Set 3: 150.0kg x 3 @ RPE 9 [est_stress=-, real_stress=375]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 10
-  Set 2: 45.0kg x 10 @ RPE 9.5
-  Set 3: 45.0kg x 9 @ RPE 9.5
+  Set 1: 47.5kg x 7 @ RPE 10 [est_stress=-, real_stress=68]
+  Set 2: 45.0kg x 10 @ RPE 9.5 [est_stress=-, real_stress=75]
+  Set 3: 45.0kg x 9 @ RPE 9.5 [est_stress=-, real_stress=67]
 
 ## 2025-01-27
 
@@ -12401,15 +12252,15 @@ Finished: 2025-01-27 10:19:13
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 105.0kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 3: 107.5kg x 5 @ RPE 9 [target RPE: 8]
-  Set 4: 105.0kg x 5 @ RPE 8 [target RPE: 8]
+  Set 1: 115.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=74, real_stress=74]
+  Set 2: 105.0kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=351, real_stress=315]
+  Set 3: 107.5kg x 5 @ RPE 9 [target RPE: 8] [est_stress=376, real_stress=451]
+  Set 4: 105.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=351, real_stress=351]
 
 ### Box Squat (Barbell)
 
-  Set 1: 135.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 125.0kg x 4 @ RPE 7 [target RPE: 7]
+  Set 1: 135.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=82, real_stress=82]
+  Set 2: 125.0kg x 4 @ RPE 7 [target RPE: 7] [est_stress=260, real_stress=260]
 
 ### Pull-Up (Weighted)
 
@@ -12425,15 +12276,15 @@ Finished: 2025-01-27 10:19:13
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 75.0kg x 12 @ RPE 10 [target RPE: 10]
-  Set 2: 75.0kg x 11 @ RPE 10 [target RPE: 10]
-  Set 3: 72.5kg x 11 @ RPE 9.5 [target RPE: 10]
+  Set 1: 75.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=460]
+  Set 2: 75.0kg x 11 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=422]
+  Set 3: 72.5kg x 11 @ RPE 9.5 [target RPE: 10] [est_stress=-, real_stress=343]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 105.0kg x 4 @ RPE 7.5
-  Set 2: 105.0kg x 4 @ RPE 7.5
-  Set 3: 105.0kg x 4 @ RPE 8
+  Set 1: 105.0kg x 4 @ RPE 7.5 [est_stress=-, real_stress=173]
+  Set 2: 105.0kg x 4 @ RPE 7.5 [est_stress=-, real_stress=173]
+  Set 3: 105.0kg x 4 @ RPE 8 [est_stress=-, real_stress=193]
 
 ## 2025-01-25
 
@@ -12451,17 +12302,17 @@ Finished: 2025-01-25 10:18:03
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 4 @ RPE 7 [target RPE: 7]
-  Set 2: 130.0kg x 6 @ RPE 8 [target RPE: 8]
-  Set 3: 130.0kg x 6 @ RPE 8.5 [target RPE: 8]
-  Set 4: 130.0kg x 7 @ RPE 8.5 [target: 6 reps, target RPE: 8]
+  Set 1: 135.0kg x 4 @ RPE 7 [target RPE: 7] [est_stress=328, real_stress=328]
+  Set 2: 130.0kg x 6 @ RPE 8 [target RPE: 8] [est_stress=549, real_stress=549]
+  Set 3: 130.0kg x 6 @ RPE 8.5 [target RPE: 8] [est_stress=549, real_stress=604]
+  Set 4: 130.0kg x 7 @ RPE 8.5 [target: 6 reps, target RPE: 8] [est_stress=549, real_stress=704]
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 140.0kg x 1 @ RPE 6.5 [target RPE: 7]
-  Set 2: 130.0kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 3: 135.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 135.0kg x 5 @ RPE 8.5 [target RPE: 8]
+  Set 1: 140.0kg x 1 @ RPE 6.5 [target RPE: 7] [est_stress=68, real_stress=61]
+  Set 2: 130.0kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=339, real_stress=305]
+  Set 3: 135.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=380, real_stress=380]
+  Set 4: 135.0kg x 5 @ RPE 8.5 [target RPE: 8] [est_stress=380, real_stress=418]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -12492,15 +12343,15 @@ Finished: 2025-01-23 10:14:15
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 10 [target RPE: 9]
-  Set 2: 165.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 3: 165.0kg x 2 @ RPE 9.5 [target RPE: 8]
+  Set 1: 180.0kg x 1 @ RPE 10 [target RPE: 9] [est_stress=216, real_stress=270]
+  Set 2: 165.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=277, real_stress=333]
+  Set 3: 165.0kg x 2 @ RPE 9.5 [target RPE: 8] [est_stress=277, real_stress=374]
 
 ### Bench Press (Paused)
 
-  Set 1: 97.5kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 2: 95.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 95.0kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 97.5kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=109, real_stress=152]
+  Set 2: 95.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=101, real_stress=113]
+  Set 3: 95.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=101, real_stress=113]
 
 ### Pull-Up (Weighted)
 
@@ -12510,9 +12361,9 @@ Finished: 2025-01-23 10:14:15
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9]
-  Set 2: 45.0kg x 9 @ RPE 10 [target RPE: 9]
-  Set 3: 45.0kg x 8 @ RPE 9.5 [target RPE: 9]
+  Set 1: 47.5kg x 7 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=68]
+  Set 2: 45.0kg x 9 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=75]
+  Set 3: 45.0kg x 8 @ RPE 9.5 [target RPE: 9] [est_stress=-, real_stress=60]
 
 ## 2025-01-22
 
@@ -12529,15 +12380,15 @@ Finished: 2025-01-22 10:14:37
 
 ### Squat (Low Bar)
 
-  Set 1: 155.0kg x 1 @ RPE 10 [target RPE: 9]
-  Set 2: 140.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 3: 140.0kg x 2 @ RPE 8.5 [target RPE: 8]
+  Set 1: 155.0kg x 1 @ RPE 10 [target RPE: 9] [est_stress=186, real_stress=232]
+  Set 2: 140.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=228, real_stress=274]
+  Set 3: 140.0kg x 2 @ RPE 8.5 [target RPE: 8] [est_stress=228, real_stress=251]
 
 ### Bench Press (Barbell)
 
-  Set 1: 115.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 2: 105.0kg x 4 @ RPE 7.5 [target RPE: 7]
-  Set 3: 105.0kg x 4 @ RPE 8 [target RPE: 7]
+  Set 1: 115.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=184, real_stress=221]
+  Set 2: 105.0kg x 4 @ RPE 7.5 [target RPE: 7] [est_stress=224, real_stress=252]
+  Set 3: 105.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=224, real_stress=280]
 
 ### Unknown
 
@@ -12558,16 +12409,16 @@ Finished: 2025-01-21 10:16:39
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 145.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 142.5kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 142.5kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 4: 142.5kg x 3 @ RPE 7 [target RPE: 6]
+  Set 1: 145.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=183, real_stress=226]
+  Set 2: 142.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=174, real_stress=194]
+  Set 3: 142.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=174, real_stress=194]
+  Set 4: 142.5kg x 3 @ RPE 7 [target RPE: 6] [est_stress=174, real_stress=214]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 105.0kg x 5 @ RPE 10 [target RPE: 9]
-  Set 2: 103.5kg x 5 @ RPE 9 [target RPE: 9]
-  Set 3: 103.5kg x 5 @ RPE 10 [target RPE: 9]
+  Set 1: 105.0kg x 5 @ RPE 10 [target RPE: 9] [est_stress=421, real_stress=526]
+  Set 2: 103.5kg x 5 @ RPE 9 [target RPE: 9] [est_stress=403, real_stress=403]
+  Set 3: 103.5kg x 5 @ RPE 10 [target RPE: 9] [est_stress=403, real_stress=504]
 
 ### Bicep Curl (Cable)
 
@@ -12613,16 +12464,16 @@ Finished: 2025-01-20 10:11:06
 
 ### Bench Press (Barbell)
 
-  Set 1: 128.5kg x 1 @ RPE 10 [target RPE: 10]
-  Set 2: 120.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 3: 117.5kg x 2 @ RPE 9.5 [target RPE: 8]
+  Set 1: 128.5kg x 1 @ RPE 10 [target RPE: 10] [est_stress=193, real_stress=193]
+  Set 2: 120.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=209, real_stress=251]
+  Set 3: 117.5kg x 2 @ RPE 9.5 [target RPE: 8] [est_stress=196, real_stress=265]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 110.0kg x 1 [target RPE: 7]
-  Set 2: 95.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 3: 90.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 4: 90.0kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 110.0kg x 1 [target RPE: 7] [est_stress=46, real_stress=-]
+  Set 2: 95.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=72, real_stress=100]
+  Set 3: 90.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=61, real_stress=68]
+  Set 4: 90.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=61, real_stress=68]
 
 ### Pull-Up (Weighted)
 
@@ -12638,9 +12489,9 @@ Finished: 2025-01-20 10:11:06
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 72.5kg x 15 @ RPE 9 [target RPE: 10]
-  Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 10]
-  Set 3: 75.0kg x 10 @ RPE 10 [target RPE: 10]
+  Set 1: 72.5kg x 15 @ RPE 9 [target RPE: 10] [est_stress=-, real_stress=415]
+  Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=460]
+  Set 3: 75.0kg x 10 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=383]
 
 ## 2025-01-18
 
@@ -12657,9 +12508,9 @@ Finished: 2025-01-18 10:44:40
 
 ### Squat (Low Bar)
 
-  Set 1: 145.0kg x 2 @ RPE 9 [target RPE: 8]
-  Set 2: 130.0kg x 4 @ RPE 8 [target RPE: 7]
-  Set 3: 130.0kg x 4 @ RPE 8 [target RPE: 7]
+  Set 1: 145.0kg x 2 @ RPE 9 [target RPE: 8] [est_stress=262, real_stress=315]
+  Set 2: 130.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=302, real_stress=378]
+  Set 3: 130.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=302, real_stress=378]
 
 ### Bulgarian Split Squat (Barbell)
 
@@ -12669,9 +12520,9 @@ Finished: 2025-01-18 10:44:40
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 115.0kg x 10 @ RPE 8
-  Set 2: 120.0kg x 10 @ RPE 9.5
-  Set 3: 120.0kg x 8 @ RPE 10
+  Set 1: 115.0kg x 10 @ RPE 8 [est_stress=-, real_stress=469]
+  Set 2: 120.0kg x 10 @ RPE 9.5 [est_stress=-, real_stress=720]
+  Set 3: 120.0kg x 8 @ RPE 10 [est_stress=-, real_stress=640]
 
 ### Leg Curl
 
@@ -12694,16 +12545,16 @@ Finished: 2025-01-16 10:12:03
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 180.0kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 170.0kg x 2 @ RPE 9 [target: 3 reps, target RPE: 8]
-  Set 3: 165.0kg x 3 @ RPE 9 [target RPE: 8]
-  Set 4: 160.0kg x 3 @ RPE 9 [target RPE: 8]
+  Set 1: 180.0kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=180, real_stress=198]
+  Set 2: 170.0kg x 2 @ RPE 9 [target: 3 reps, target RPE: 8] [est_stress=455, real_stress=364]
+  Set 3: 165.0kg x 3 @ RPE 9 [target RPE: 8] [est_stress=416, real_stress=499]
+  Set 4: 160.0kg x 3 @ RPE 9 [target RPE: 8] [est_stress=379, real_stress=455]
 
 ### Bench Press (Paused)
 
-  Set 1: 100.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 97.5kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 97.5kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 100.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=125, real_stress=154]
+  Set 2: 97.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=116, real_stress=129]
+  Set 3: 97.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=116, real_stress=129]
 
 ### Pull-Up (Weighted)
 
@@ -12713,9 +12564,9 @@ Finished: 2025-01-16 10:12:03
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 47.5kg x 7 @ RPE 9.5 [target RPE: 9]
-  Set 2: 45.0kg x 9 @ RPE 9.5 [target RPE: 9]
-  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9]
+  Set 1: 47.5kg x 7 @ RPE 9.5 [target RPE: 9] [est_stress=-, real_stress=65]
+  Set 2: 45.0kg x 9 @ RPE 9.5 [target RPE: 9] [est_stress=-, real_stress=71]
+  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=70]
 
 ## 2025-01-15
 
@@ -12733,17 +12584,17 @@ Finished: 2025-01-15 10:34:16
 
 ### Squat (Low Bar)
 
-  Set 1: 152.5kg x 1 @ RPE 8.5 [target RPE: 8]
-  Set 2: 140.0kg x 3 @ RPE 9 [target RPE: 8]
-  Set 3: 135.0kg x 3 @ RPE 9 [target RPE: 8]
-  Set 4: 135.0kg x 3 @ RPE 8.5 [target RPE: 8]
+  Set 1: 152.5kg x 1 @ RPE 8.5 [target RPE: 8] [est_stress=152, real_stress=168]
+  Set 2: 140.0kg x 3 @ RPE 9 [target RPE: 8] [est_stress=354, real_stress=425]
+  Set 3: 135.0kg x 3 @ RPE 9 [target RPE: 8] [est_stress=317, real_stress=381]
+  Set 4: 135.0kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=317, real_stress=349]
 
 ### Bench Press (Barbell)
 
-  Set 1: 112.5kg x 2 @ RPE 8 [target RPE: 7]
-  Set 2: 105.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 105.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 4: 106.0kg x 4 @ RPE 8 [target RPE: 8]
+  Set 1: 112.5kg x 2 @ RPE 8 [target RPE: 7] [est_stress=146, real_stress=182]
+  Set 2: 105.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=296, real_stress=296]
+  Set 3: 105.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=296, real_stress=296]
+  Set 4: 106.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=305, real_stress=305]
 
 ### Unknown
 
@@ -12764,16 +12615,16 @@ Finished: 2025-01-14 10:19:02
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 145.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 2: 145.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 3: 140.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 4: 135.0kg x 3 @ RPE 6 [target RPE: 6]
+  Set 1: 145.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=194, real_stress=217]
+  Set 2: 145.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=194, real_stress=269]
+  Set 3: 140.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=175, real_stress=215]
+  Set 4: 135.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=157, real_stress=157]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 100.0kg x 5 @ RPE 7 [target RPE: 8]
-  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 3: 103.5kg x 5 @ RPE 8.5 [target RPE: 8]
+  Set 1: 100.0kg x 5 @ RPE 7 [target RPE: 8] [est_stress=320, real_stress=256]
+  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=345, real_stress=310]
+  Set 3: 103.5kg x 5 @ RPE 8.5 [target RPE: 8] [est_stress=355, real_stress=390]
 
 ### Bicep Curl (Cable)
 
@@ -12818,17 +12669,17 @@ Finished: 2025-01-13 09:49:38
 
 ### Bench Press (Barbell)
 
-  Set 1: 125.0kg x 1 @ RPE 9.5 [target RPE: 9]
-  Set 2: 115.0kg x 3 @ RPE 9 [target RPE: 8]
-  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 8]
-  Set 4: 112.5kg x 3 @ RPE 8.5 [target RPE: 8]
+  Set 1: 125.0kg x 1 @ RPE 9.5 [target RPE: 9] [est_stress=150, real_stress=169]
+  Set 2: 115.0kg x 3 @ RPE 9 [target RPE: 8] [est_stress=292, real_stress=350]
+  Set 3: 112.5kg x 3 @ RPE 8 [target RPE: 8] [est_stress=273, real_stress=273]
+  Set 4: 112.5kg x 3 @ RPE 8.5 [target RPE: 8] [est_stress=273, real_stress=301]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 100.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 100.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 4: 100.0kg x 3 @ RPE 7 [target RPE: 6]
+  Set 1: 120.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=71, real_stress=71]
+  Set 2: 100.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=99, real_stress=111]
+  Set 3: 100.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=99, real_stress=111]
+  Set 4: 100.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=99, real_stress=122]
 
 ### Pull-Up (Weighted)
 
@@ -12844,9 +12695,9 @@ Finished: 2025-01-13 09:49:38
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 70.0kg x 13 @ RPE 9.5 [target RPE: 10]
-  Set 2: 70.0kg x 13 @ RPE 10 [target RPE: 10]
-  Set 3: 70.0kg x 12 @ RPE 10 [target RPE: 10]
+  Set 1: 70.0kg x 13 @ RPE 9.5 [target RPE: 10] [est_stress=-, real_stress=385]
+  Set 2: 70.0kg x 13 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=428]
+  Set 3: 70.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=395]
 
 ## 2025-01-11
 
@@ -12863,10 +12714,10 @@ Finished: 2025-01-11 10:26:16
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 2 @ RPE 7.5 [target RPE: 7]
-  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 135.0kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 4: 135.0kg x 4 @ RPE 8.5 [target RPE: 8]
+  Set 1: 140.0kg x 2 @ RPE 7.5 [target RPE: 7] [est_stress=224, real_stress=252]
+  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=502, real_stress=502]
+  Set 3: 135.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=502, real_stress=552]
+  Set 4: 135.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=502, real_stress=552]
 
 ### Lunge (Barbell)
 
@@ -12876,9 +12727,9 @@ Finished: 2025-01-11 10:26:16
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 110.0kg x 10 @ RPE 8
-  Set 2: 115.0kg x 10 @ RPE 8.5
-  Set 3: 115.0kg x 10 @ RPE 9
+  Set 1: 110.0kg x 10 @ RPE 8 [est_stress=-, real_stress=435]
+  Set 2: 115.0kg x 10 @ RPE 8.5 [est_stress=-, real_stress=546]
+  Set 3: 115.0kg x 10 @ RPE 9 [est_stress=-, real_stress=596]
 
 ### Leg Curl
 
@@ -12901,17 +12752,17 @@ Finished: 2025-01-09 10:22:48
 
 ### Sumo Deadlift (Barbell)
 
-  Set 1: 175.0kg x 1 @ RPE 7.5 [target RPE: 7]
-  Set 2: 160.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 3: 160.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 4: 160.0kg x 3 @ RPE 7.5 [target RPE: 7]
-  Set 5: 160.0kg x 3 @ RPE 8.5 [target RPE: 7]
+  Set 1: 175.0kg x 1 @ RPE 7.5 [target RPE: 7] [est_stress=140, real_stress=158]
+  Set 2: 160.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=321, real_stress=361]
+  Set 3: 160.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=321, real_stress=361]
+  Set 4: 160.0kg x 3 @ RPE 7.5 [target RPE: 7] [est_stress=321, real_stress=361]
+  Set 5: 160.0kg x 3 @ RPE 8.5 [target RPE: 7] [est_stress=321, real_stress=441]
 
 ### Bench Press (Paused)
 
-  Set 1: 95.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 2: 97.5kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 97.5kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 95.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=116, real_stress=116]
+  Set 2: 97.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=126, real_stress=140]
+  Set 3: 97.5kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=126, real_stress=140]
 
 ### Pull-Up (Weighted)
 
@@ -12921,9 +12772,9 @@ Finished: 2025-01-09 10:22:48
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 9 @ RPE 10 [target RPE: 9]
-  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9]
-  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9]
+  Set 1: 45.0kg x 9 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=85]
+  Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=76]
+  Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=76]
 
 ## 2025-01-08
 
@@ -12940,17 +12791,17 @@ Finished: 2025-01-08 10:13:29
 
 ### Squat (Low Bar)
 
-  Set 1: 140.0kg x 1 @ RPE 7 [target RPE: 6]
-  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8]
-  Set 3: 135.0kg x 4 @ RPE 9 [target RPE: 8]
-  Set 4: 130.0kg x 4 @ RPE 9 [target RPE: 8]
+  Set 1: 140.0kg x 1 @ RPE 7 [target RPE: 6] [est_stress=91, real_stress=112]
+  Set 2: 135.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=502, real_stress=502]
+  Set 3: 135.0kg x 4 @ RPE 9 [target RPE: 8] [est_stress=502, real_stress=603]
+  Set 4: 130.0kg x 4 @ RPE 9 [target RPE: 8] [est_stress=448, real_stress=538]
 
 ### Bench Press (Barbell)
 
-  Set 1: 110.0kg x 3 @ RPE 8 [target RPE: 7]
-  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 8]
-  Set 3: 103.5kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 103.5kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 110.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=222, real_stress=277]
+  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 8] [est_stress=374, real_stress=337]
+  Set 3: 103.5kg x 5 @ RPE 8 [target RPE: 8] [est_stress=385, real_stress=385]
+  Set 4: 103.5kg x 5 @ RPE 9 [target RPE: 8] [est_stress=385, real_stress=462]
 
 ### Unknown
 
@@ -12970,16 +12821,16 @@ Finished: 2025-01-07 10:13:01
 
 ### Sumo Deadlift (Paused)
 
-  Set 1: 140.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 3: 130.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 4: 130.0kg x 3 @ RPE 6 [target RPE: 6]
+  Set 1: 140.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=209, real_stress=233]
+  Set 2: 140.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=209, real_stress=289]
+  Set 3: 130.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=167, real_stress=167]
+  Set 4: 130.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=167, real_stress=167]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 97.5kg x 5 @ RPE 7.5 [target RPE: 7.5]
-  Set 2: 97.5kg x 5 @ RPE 7.5 [target RPE: 7.5]
-  Set 3: 97.5kg x 5 @ RPE 7.5 [target RPE: 7.5]
+  Set 1: 97.5kg x 5 @ RPE 7.5 [target RPE: 7.5] [est_stress=290, real_stress=290]
+  Set 2: 97.5kg x 5 @ RPE 7.5 [target RPE: 7.5] [est_stress=290, real_stress=290]
+  Set 3: 97.5kg x 5 @ RPE 7.5 [target RPE: 7.5] [est_stress=290, real_stress=290]
 
 ### Bicep Curl (Cable)
 
@@ -13024,17 +12875,17 @@ Finished: 2025-01-06 09:42:17
 
 ### Bench Press (Barbell)
 
-  Set 1: 117.5kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 110.0kg x 4 @ RPE 8.5 [target RPE: 8]
-  Set 3: 110.0kg x 4 @ RPE 9 [target RPE: 8]
-  Set 4: 105.0kg x 4 @ RPE 8 [target RPE: 8]
+  Set 1: 117.5kg x 1 @ RPE 7 [target RPE: 7] [est_stress=90, real_stress=90]
+  Set 2: 110.0kg x 4 @ RPE 8.5 [target RPE: 8] [est_stress=370, real_stress=407]
+  Set 3: 110.0kg x 4 @ RPE 9 [target RPE: 8] [est_stress=370, real_stress=444]
+  Set 4: 105.0kg x 4 @ RPE 8 [target RPE: 8] [est_stress=322, real_stress=322]
 
 ### Tempo Squat (Barbell)
 
-  Set 1: 100.0kg x 1 @ RPE 7 [target RPE: 7]
-  Set 2: 80.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 3: 80.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 4: 80.0kg x 3 @ RPE 8 [target RPE: 6]
+  Set 1: 100.0kg x 1 @ RPE 7 [target RPE: 7] [est_stress=47, real_stress=47]
+  Set 2: 80.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=59, real_stress=59]
+  Set 3: 80.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=59, real_stress=59]
+  Set 4: 80.0kg x 3 @ RPE 8 [target RPE: 6] [est_stress=59, real_stress=91]
 
 ### Pull-Up (Weighted)
 
@@ -13050,9 +12901,9 @@ Finished: 2025-01-06 09:42:17
 
 ### Incline Bench Press (Smith Machine)
 
-  Set 1: 70.0kg x 12 @ RPE 9 [target RPE: 10]
-  Set 2: 70.0kg x 10 [target RPE: 10]
-  Set 3: 60.0kg x 15 [target RPE: 10]
+  Set 1: 70.0kg x 12 @ RPE 9 [target RPE: 10] [est_stress=-, real_stress=343]
+  Set 2: 70.0kg x 10 [target RPE: 10] [est_stress=-, real_stress=-]
+  Set 3: 60.0kg x 15 [target RPE: 10] [est_stress=-, real_stress=-]
 
 ### Leg Curl
 
@@ -13075,10 +12926,10 @@ Finished: 2025-01-04 10:37:48
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 3 @ RPE 8 [target RPE: 8]
-  Set 2: 130.0kg x 5 @ RPE 9 [target RPE: 8]
-  Set 3: 127.5kg x 5 @ RPE 9 [target RPE: 8]
-  Set 4: 125.0kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 135.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=437, real_stress=437]
+  Set 2: 130.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=650, real_stress=780]
+  Set 3: 127.5kg x 5 @ RPE 9 [target RPE: 8] [est_stress=613, real_stress=736]
+  Set 4: 125.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=578, real_stress=693]
 
 ### Lunge (Barbell)
 
@@ -13088,9 +12939,9 @@ Finished: 2025-01-04 10:37:48
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 100.0kg x 10
-  Set 2: 110.0kg x 10
-  Set 3: 110.0kg x 10
+  Set 1: 100.0kg x 10 [est_stress=-, real_stress=-]
+  Set 2: 110.0kg x 10 [est_stress=-, real_stress=-]
+  Set 3: 110.0kg x 10 [est_stress=-, real_stress=-]
 
 ## 2025-01-02
 
@@ -13107,16 +12958,16 @@ Finished: 2025-01-02 10:10:15
 
 ### Deadlift (Barbell)
 
-  Set 1: 160.0kg x 1 [target RPE: 6]
-  Set 2: 160.0kg x 2 @ RPE 8 [target: 4 reps, target RPE: 8]
-  Set 3: 160.0kg x 4 @ RPE 9 [target RPE: 8]
-  Set 4: 155.0kg x 3 @ RPE 9 [target: 4 reps, target RPE: 8]
+  Set 1: 160.0kg x 1 [target RPE: 6] [est_stress=104, real_stress=-]
+  Set 2: 160.0kg x 2 @ RPE 8 [target: 4 reps, target RPE: 8] [est_stress=640, real_stress=320]
+  Set 3: 160.0kg x 4 @ RPE 9 [target RPE: 8] [est_stress=640, real_stress=768]
+  Set 4: 155.0kg x 3 @ RPE 9 [target: 4 reps, target RPE: 8] [est_stress=582, real_stress=524]
 
 ### Bench Press (Paused)
 
-  Set 1: 100.0kg x 3 @ RPE 7.5 [target RPE: 6]
-  Set 2: 95.0kg x 3 @ RPE 6.5 [target RPE: 6]
-  Set 3: 95.0kg x 3 @ RPE 6.5 [target RPE: 6]
+  Set 1: 100.0kg x 3 @ RPE 7.5 [target RPE: 6] [est_stress=135, real_stress=188]
+  Set 2: 95.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=116, real_stress=129]
+  Set 3: 95.0kg x 3 @ RPE 6.5 [target RPE: 6] [est_stress=116, real_stress=129]
 
 ### Pull-Up (Weighted)
 
@@ -13142,17 +12993,17 @@ Finished: 2025-01-01 10:22:45
 
 ### Squat (Low Bar)
 
-  Set 1: 130.0kg x 1 @ RPE 6 [target RPE: 6]
-  Set 2: 130.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 3: 130.0kg x 5 @ RPE 8 [target RPE: 8]
-  Set 4: 130.0kg x 5 @ RPE 9 [target RPE: 8]
+  Set 1: 130.0kg x 1 @ RPE 6 [target RPE: 6] [est_stress=84, real_stress=84]
+  Set 2: 130.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=650, real_stress=650]
+  Set 3: 130.0kg x 5 @ RPE 8 [target RPE: 8] [est_stress=650, real_stress=650]
+  Set 4: 130.0kg x 5 @ RPE 9 [target RPE: 8] [est_stress=650, real_stress=780]
 
 ### Bench Press (Barbell)
 
-  Set 1: 107.5kg x 4 @ RPE 8 [target RPE: 7]
-  Set 2: 102.5kg x 6 @ RPE 8.5 [target RPE: 8]
-  Set 3: 100.0kg x 6 @ RPE 7.5 [target RPE: 8]
-  Set 4: 102.5kg x 6 @ RPE 10 [target RPE: 8]
+  Set 1: 107.5kg x 4 @ RPE 8 [target RPE: 7] [est_stress=276, real_stress=345]
+  Set 2: 102.5kg x 6 @ RPE 8.5 [target RPE: 8] [est_stress=449, real_stress=494]
+  Set 3: 100.0kg x 6 @ RPE 7.5 [target RPE: 8] [est_stress=417, real_stress=375]
+  Set 4: 102.5kg x 6 @ RPE 10 [target RPE: 8] [est_stress=449, real_stress=673]
 
 ### Overhead Press (Barbell)
 
@@ -13176,16 +13027,16 @@ Finished: 2024-12-31 10:27:33
 
 ### Deadlift (Paused)
 
-  Set 1: 125.0kg x 3 @ RPE 7 [target RPE: 6]
-  Set 2: 120.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 3: 120.0kg x 3 @ RPE 6 [target RPE: 6]
-  Set 4: 120.0kg x 3 [target RPE: 6]
+  Set 1: 125.0kg x 3 @ RPE 7 [target RPE: 6] [est_stress=95, real_stress=117]
+  Set 2: 120.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=84, real_stress=84]
+  Set 3: 120.0kg x 3 @ RPE 6 [target RPE: 6] [est_stress=84, real_stress=84]
+  Set 4: 120.0kg x 3 [target RPE: 6] [est_stress=84, real_stress=-]
 
 ### Larsen Press (Barbell)
 
-  Set 1: 95.0kg x 5 @ RPE 6.5 [target RPE: 7]
-  Set 2: 97.5kg x 5 @ RPE 7.5 [target RPE: 7]
-  Set 3: 97.5kg x 5 @ RPE 7.5 [target RPE: 7]
+  Set 1: 95.0kg x 5 @ RPE 6.5 [target RPE: 7] [est_stress=238, real_stress=216]
+  Set 2: 97.5kg x 5 @ RPE 7.5 [target RPE: 7] [est_stress=257, real_stress=290]
+  Set 3: 97.5kg x 5 @ RPE 7.5 [target RPE: 7] [est_stress=257, real_stress=290]
 
 ### Bicep Curl (Cable)
 
@@ -13230,16 +13081,16 @@ Finished: 2024-12-30 10:32:59
 
 ### Bench Press (Barbell)
 
-  Set 1: 120.0kg x 1 @ RPE 8.5 [target RPE: 7]
-  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 8]
-  Set 3: 112.5kg x 3 @ RPE 9 [target RPE: 8]
-  Set 4: 110.0kg x 3 @ RPE 8 [target RPE: 8]
+  Set 1: 120.0kg x 1 @ RPE 8.5 [target RPE: 7] [est_stress=96, real_stress=132]
+  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 8] [est_stress=297, real_stress=297]
+  Set 3: 112.5kg x 3 @ RPE 9 [target RPE: 8] [est_stress=297, real_stress=356]
+  Set 4: 110.0kg x 3 @ RPE 8 [target RPE: 8] [est_stress=277, real_stress=277]
 
 ### Incline Bench Press (Dumbbell)
 
-  Set 1: 45.0kg x 7 @ RPE 9 [target RPE: 8]
-  Set 2: 45.0kg x 7 @ RPE 9.5 [target RPE: 8]
-  Set 3: 45.0kg x 6 @ RPE 8 [target RPE: 8]
+  Set 1: 45.0kg x 7 @ RPE 9 [target RPE: 8] [est_stress=-, real_stress=53]
+  Set 2: 45.0kg x 7 @ RPE 9.5 [target RPE: 8] [est_stress=-, real_stress=60]
+  Set 3: 45.0kg x 6 @ RPE 8 [target RPE: 8] [est_stress=-, real_stress=38]
 
 ### Pull-Up (Weighted)
 
@@ -13255,9 +13106,9 @@ Finished: 2024-12-30 10:32:59
 
 ### Bench Press (Smith Machine)
 
-  Set 1: 90.0kg x 8 @ RPE 7.5 [target RPE: 8]
-  Set 2: 90.0kg x 10 @ RPE 8 [target RPE: 8]
-  Set 3: 95.0kg x 8 @ RPE 8 [target RPE: 8]
+  Set 1: 90.0kg x 8 @ RPE 7.5 [target RPE: 8] [est_stress=-, real_stress=364]
+  Set 2: 90.0kg x 10 @ RPE 8 [target RPE: 8] [est_stress=-, real_stress=506]
+  Set 3: 95.0kg x 8 @ RPE 8 [target RPE: 8] [est_stress=-, real_stress=476]
 
 ## 2024-12-28
 
@@ -13274,10 +13125,10 @@ Finished: 2024-12-28 14:49:30
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 4 @ RPE 8 [target RPE: 7]
-  Set 2: 127.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 3: 127.5kg x 6 @ RPE 8 [target RPE: 8]
-  Set 4: 127.5kg x 6 [target RPE: 8]
+  Set 1: 135.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=250, real_stress=312]
+  Set 2: 127.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=395, real_stress=395]
+  Set 3: 127.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=395, real_stress=395]
+  Set 4: 127.5kg x 6 [target RPE: 8] [est_stress=395, real_stress=-]
 
 ### Lunge (Barbell)
 
@@ -13287,15 +13138,15 @@ Finished: 2024-12-28 14:49:30
 
 ### Romanian Deadlift (Barbell)
 
-  Set 1: 110.0kg x 8
-  Set 2: 110.0kg x 8
-  Set 3: 110.0kg x 8
+  Set 1: 110.0kg x 8 [est_stress=-, real_stress=-]
+  Set 2: 110.0kg x 8 [est_stress=-, real_stress=-]
+  Set 3: 110.0kg x 8 [est_stress=-, real_stress=-]
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 80.0kg x 6 @ RPE 8
-  Set 2: 70.0kg x 6 @ RPE 6
-  Set 3: 70.0kg x 6 @ RPE 6.5
+  Set 1: 80.0kg x 6 @ RPE 8 [est_stress=-, real_stress=98]
+  Set 2: 70.0kg x 6 @ RPE 6 [est_stress=-, real_stress=42]
+  Set 3: 70.0kg x 6 @ RPE 6.5 [est_stress=-, real_stress=47]
 
 ### Cable Crunch
 

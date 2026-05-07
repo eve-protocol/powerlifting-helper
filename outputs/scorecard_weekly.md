@@ -2,6 +2,9 @@
 
 *Auto-generated from history.json - movement-family scorecards by training week*
 
+Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.
+Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.
+
 ## Volume Block v6 / Week 1
 
 Comparison baseline: Volume Block v5 / Week 3
@@ -17,6 +20,10 @@ Comparison baseline: Volume Block v5 / Week 3
 | Avg load | 121.4kg | 135kg | ↓ 13.6kg |
 | Tonnage | 5760kg | 4470kg | ↑ 1290kg |
 | Avg tonnage/session | 2880kg | 2235kg | ↑ 645kg |
+| Estimated stress | 2398 | 1875 | ↑ 523 |
+| Real stress | 1970 | 2091 | ↓ 121 |
+| Avg est stress/session | 1199 | 938 | ↑ 262 |
+| Avg real stress/session | 985 | 1046 | ↓ 60 |
 
 - Top single: 130kg x 1 @ -
 - Previous top single: -
@@ -36,6 +43,10 @@ Comparison baseline: Volume Block v5 / Week 3
 | Avg load | 83.6kg | 93kg | ↓ 9.4kg |
 | Tonnage | 5297.5kg | 4320kg | ↑ 977.5kg |
 | Avg tonnage/session | 1765.8kg | 1440kg | ↑ 325.8kg |
+| Estimated stress | 1763 | 2198 | ↓ 435 |
+| Real stress | 2070 | 2419 | ↓ 350 |
+| Avg est stress/session | 588 | 733 | ↓ 145 |
+| Avg real stress/session | 690 | 806 | ↓ 117 |
 
 - Top single: -
 - Previous top single: 125kg x 1 @ 8.50
@@ -55,6 +66,10 @@ Comparison baseline: Volume Block v5 / Week 3
 | Avg load | 150kg | 159.5kg | ↓ 9.5kg |
 | Tonnage | 2250kg | 6827.5kg | ↓ 4577.5kg |
 | Avg tonnage/session | 2250kg | 2275.8kg | ↓ 25.8kg |
+| Estimated stress | 775 | 3606 | ↓ 2830 |
+| Real stress | 854 | 4039 | ↓ 3185 |
+| Avg est stress/session | 775 | 1202 | ↓ 427 |
+| Avg real stress/session | 854 | 1346 | ↓ 492 |
 
 - Top single: -
 - Previous top single: 190kg x 1 @ 9
@@ -62,20 +77,6 @@ Comparison baseline: Volume Block v5 / Week 3
 - Top work set: 150kg x 5 @ 6
 - Previous top work set: 170kg x 5 @ 7.50
 - Top work-set delta: ↓ 20kg (only meaningful when the rep scheme is comparable)
-
-### Health / Recovery
-
-| Metric | Current | Previous | Delta |
-|---|---:|---:|---:|
-| Days with data | 4 | 5 | ↓ 1 |
-| Avg steps/day | 7306 | 5635 | ↑ 1671 |
-| Avg distance/day | 6.95km | 4.40km | ↑ 2.55km |
-| Avg kcal/day | 2268 | 2401 | ↓ 133 |
-| Avg bodyweight | 78.8kg | 79.3kg | ↓ 0.5kg |
-| Avg resting HR | 43.3bpm | 46bpm | ↓ 2.7bpm |
-| Avg sleep | 7.21h | 7.10h | ↑ 0.11h |
-
-- Latest health date in period: 2026-05-07
 
 ## Volume Block v5 / Week 3
 
@@ -92,6 +93,10 @@ Comparison baseline: Volume Block v4 / Week 3
 | Avg load | 135kg | 154.4kg | ↓ 19.4kg |
 | Tonnage | 4470kg | 2437.5kg | ↑ 2032.5kg |
 | Avg tonnage/session | 2235kg | 2437.5kg | ↓ 202.5kg |
+| Estimated stress | 1875 | 1720 | ↑ 156 |
+| Real stress | 2091 | 1917 | ↑ 174 |
+| Avg est stress/session | 938 | 1720 | ↓ 782 |
+| Avg real stress/session | 1046 | 1917 | ↓ 871 |
 
 - Top single: -
 - Previous top single: 162.5kg x 1 @ 8
@@ -111,6 +116,10 @@ Comparison baseline: Volume Block v4 / Week 3
 | Avg load | 93kg | 104.4kg | ↓ 11.4kg |
 | Tonnage | 4320kg | 1930kg | ↑ 2390kg |
 | Avg tonnage/session | 1440kg | 1930kg | ↓ 490kg |
+| Estimated stress | 2198 | 843 | ↑ 1355 |
+| Real stress | 2419 | 1049 | ↑ 1370 |
+| Avg est stress/session | 733 | 843 | ↓ 111 |
+| Avg real stress/session | 806 | 1049 | ↓ 243 |
 
 - Top single: 125kg x 1 @ 8.50
 - Previous top single: 115kg x 1 @ 7
@@ -130,6 +139,10 @@ Comparison baseline: Volume Block v4 / Week 3
 | Avg load | 159.5kg | - | n/a |
 | Tonnage | 6827.5kg | - | n/a |
 | Avg tonnage/session | 2275.8kg | - | n/a |
+| Estimated stress | 3606 | - | n/a |
+| Real stress | 4039 | - | n/a |
+| Avg est stress/session | 1202 | - | n/a |
+| Avg real stress/session | 1346 | - | n/a |
 
 - Top single: 190kg x 1 @ 9
 - Top work set: 170kg x 5 @ 7.50
@@ -163,6 +176,10 @@ Comparison baseline: Volume Block v4 / Week 2
 | Avg load | 154.4kg | 139.3kg | ↑ 15.1kg |
 | Tonnage | 2437.5kg | 7432.5kg | ↓ 4995kg |
 | Avg tonnage/session | 2437.5kg | 2477.5kg | ↓ 40kg |
+| Estimated stress | 1720 | 3490 | ↓ 1770 |
+| Real stress | 1917 | 3357 | ↓ 1441 |
+| Avg est stress/session | 1720 | 1163 | ↑ 556 |
+| Avg real stress/session | 1917 | 1119 | ↑ 798 |
 
 - Top single: 162.5kg x 1 @ 8
 - Previous top single: 160kg x 1 @ 7.50
@@ -182,6 +199,10 @@ Comparison baseline: Volume Block v4 / Week 2
 | Avg load | 104.4kg | 94.5kg | ↑ 9.9kg |
 | Tonnage | 1930kg | 6665kg | ↓ 4735kg |
 | Avg tonnage/session | 1930kg | 1666.2kg | ↑ 263.8kg |
+| Estimated stress | 843 | 2825 | ↓ 1982 |
+| Real stress | 1049 | 3276 | ↓ 2226 |
+| Avg est stress/session | 843 | 706 | ↑ 137 |
+| Avg real stress/session | 1049 | 819 | ↑ 230 |
 
 - Top single: 115kg x 1 @ 7
 - Previous top single: 122.5kg x 1 @ 8.50
@@ -219,6 +240,10 @@ Comparison baseline: Volume Block v4 / Week 1
 | Avg load | 139.3kg | 135kg | ↑ 4.3kg |
 | Tonnage | 7432.5kg | 2430kg | ↑ 5002.5kg |
 | Avg tonnage/session | 2477.5kg | 2430kg | ↑ 47.5kg |
+| Estimated stress | 3490 | 810 | ↑ 2679 |
+| Real stress | 3357 | 644 | ↑ 2713 |
+| Avg est stress/session | 1163 | 810 | ↑ 353 |
+| Avg real stress/session | 1119 | 644 | ↑ 475 |
 
 - Top single: 160kg x 1 @ 7.50
 - Previous top single: -
@@ -238,6 +263,10 @@ Comparison baseline: Volume Block v4 / Week 1
 | Avg load | 94.5kg | 102.5kg | ↓ 8kg |
 | Tonnage | 6665kg | 1845kg | ↑ 4820kg |
 | Avg tonnage/session | 1666.2kg | 1845kg | ↓ 178.8kg |
+| Estimated stress | 2825 | 732 | ↑ 2093 |
+| Real stress | 3276 | 749 | ↑ 2526 |
+| Avg est stress/session | 706 | 732 | ↓ 26 |
+| Avg real stress/session | 819 | 749 | ↑ 70 |
 
 - Top single: 122.5kg x 1 @ 8.50
 - Previous top single: -
@@ -257,6 +286,10 @@ Comparison baseline: Volume Block v4 / Week 1
 | Avg load | 149.8kg | 165kg | ↓ 15.2kg |
 | Tonnage | 8632.5kg | 2580kg | ↑ 6052.5kg |
 | Avg tonnage/session | 2877.5kg | 2580kg | ↑ 297.5kg |
+| Estimated stress | 3786 | 1295 | ↑ 2491 |
+| Real stress | 3665 | 1579 | ↑ 2086 |
+| Avg est stress/session | 1262 | 1295 | ↓ 33 |
+| Avg real stress/session | 1222 | 1579 | ↓ 358 |
 
 - Top single: 185kg x 1 @ 8
 - Previous top single: 180kg x 1 @ 8
@@ -294,6 +327,10 @@ Comparison baseline: Volume Block v3 / Week 1
 | Avg load | 135kg | 137.8kg | ↓ 2.8kg |
 | Tonnage | 2430kg | 5580kg | ↓ 3150kg |
 | Avg tonnage/session | 2430kg | 2790kg | ↓ 360kg |
+| Estimated stress | 810 | - | n/a |
+| Real stress | 644 | 2829 | ↓ 2185 |
+| Avg est stress/session | 810 | - | n/a |
+| Avg real stress/session | 644 | 1415 | ↓ 770 |
 
 - Top single: -
 - Previous top single: 155kg x 1 @ 7.50
@@ -313,6 +350,10 @@ Comparison baseline: Volume Block v3 / Week 1
 | Avg load | 102.5kg | 94.2kg | ↑ 8.3kg |
 | Tonnage | 1845kg | 6020kg | ↓ 4175kg |
 | Avg tonnage/session | 1845kg | 2006.7kg | ↓ 161.7kg |
+| Estimated stress | 732 | 120 | ↑ 612 |
+| Real stress | 749 | 3086 | ↓ 2337 |
+| Avg est stress/session | 732 | 40 | ↑ 692 |
+| Avg real stress/session | 749 | 1029 | ↓ 279 |
 
 - Top single: -
 - Previous top single: 120kg x 1 @ 7.50
@@ -332,6 +373,10 @@ Comparison baseline: Volume Block v3 / Week 1
 | Avg load | 165kg | 140kg | ↑ 25kg |
 | Tonnage | 2580kg | 5320kg | ↓ 2740kg |
 | Avg tonnage/session | 2580kg | 2660kg | ↓ 80kg |
+| Estimated stress | 1295 | - | n/a |
+| Real stress | 1579 | 2086 | ↓ 506 |
+| Avg est stress/session | 1295 | - | n/a |
+| Avg real stress/session | 1579 | 1043 | ↑ 537 |
 
 - Top single: 180kg x 1 @ 8
 - Previous top single: 160kg x 1 @ 6.50
@@ -369,6 +414,10 @@ Comparison baseline: Volume Block v2 / Week 3
 | Avg load | 137.8kg | 130.7kg | ↑ 7.1kg |
 | Tonnage | 5580kg | 6190kg | ↓ 610kg |
 | Avg tonnage/session | 2790kg | 2063.3kg | ↑ 726.7kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2829 | 2858 | ↓ 28 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 1415 | 953 | ↑ 462 |
 
 - Top single: 155kg x 1 @ 7.50
 - Previous top single: 157.5kg x 1 @ 9
@@ -388,6 +437,10 @@ Comparison baseline: Volume Block v2 / Week 3
 | Avg load | 94.2kg | 92kg | ↑ 2.2kg |
 | Tonnage | 6020kg | 6364.5kg | ↓ 344.5kg |
 | Avg tonnage/session | 2006.7kg | 1591.1kg | ↑ 415.6kg |
+| Estimated stress | 120 | 112 | ↑ 8 |
+| Real stress | 3086 | 3305 | ↓ 219 |
+| Avg est stress/session | 40 | 28 | ↑ 12 |
+| Avg real stress/session | 1029 | 826 | ↑ 202 |
 
 - Top single: 120kg x 1 @ 7.50
 - Previous top single: 122kg x 1 @ 9
@@ -407,6 +460,10 @@ Comparison baseline: Volume Block v2 / Week 3
 | Avg load | 140kg | 163.9kg | ↓ 23.9kg |
 | Tonnage | 5320kg | 4047.5kg | ↑ 1272.5kg |
 | Avg tonnage/session | 2660kg | 2023.8kg | ↑ 636.2kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2086 | 1974 | ↑ 112 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 1043 | 987 | ↑ 56 |
 
 - Top single: 160kg x 1 @ 6.50
 - Previous top single: 180kg x 1 @ 8.50
@@ -444,6 +501,10 @@ Comparison baseline: Volume Block v2 / Week 2
 | Avg load | 130.7kg | 125.8kg | ↑ 4.9kg |
 | Tonnage | 6190kg | 6020kg | ↑ 170kg |
 | Avg tonnage/session | 2063.3kg | 2006.7kg | ↑ 56.6kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2858 | 2739 | ↑ 119 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 953 | 913 | ↑ 40 |
 
 - Top single: 157.5kg x 1 @ 9
 - Previous top single: 155kg x 1 @ 8
@@ -463,6 +524,10 @@ Comparison baseline: Volume Block v2 / Week 2
 | Avg load | 92kg | 89.7kg | ↑ 2.3kg |
 | Tonnage | 6364.5kg | 8315kg | ↓ 1950.5kg |
 | Avg tonnage/session | 1591.1kg | 2078.8kg | ↓ 487.7kg |
+| Estimated stress | 112 | 137 | ↓ 25 |
+| Real stress | 3305 | 3540 | ↓ 235 |
+| Avg est stress/session | 28 | 34 | ↓ 6 |
+| Avg real stress/session | 826 | 885 | ↓ 59 |
 
 - Top single: 122kg x 1 @ 9
 - Previous top single: 120kg x 1 @ 8
@@ -482,6 +547,10 @@ Comparison baseline: Volume Block v2 / Week 2
 | Avg load | 163.9kg | 143kg | ↑ 20.9kg |
 | Tonnage | 4047.5kg | 7085kg | ↓ 3037.5kg |
 | Avg tonnage/session | 2023.8kg | 2361.7kg | ↓ 337.9kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 1974 | 2974 | ↓ 1000 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 987 | 991 | ↓ 4 |
 
 - Top single: 180kg x 1 @ 8.50
 - Previous top single: 177.5kg x 1 @ 8
@@ -519,6 +588,10 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 | Avg load | 125.8kg | 113.6kg | ↑ 12.2kg |
 | Tonnage | 6020kg | 9412.5kg | ↓ 3392.5kg |
 | Avg tonnage/session | 2006.7kg | 1882.5kg | ↑ 124.2kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2739 | 121 | ↑ 2618 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 913 | 24 | ↑ 889 |
 
 - Top single: 155kg x 1 @ 8
 - Previous top single: -
@@ -538,6 +611,10 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 | Avg load | 89.7kg | 90.7kg | ↓ 1kg |
 | Tonnage | 8315kg | 7952.5kg | ↑ 362.5kg |
 | Avg tonnage/session | 2078.8kg | 1590.5kg | ↑ 488.3kg |
+| Estimated stress | 137 | - | n/a |
+| Real stress | 3540 | 1431 | ↑ 2109 |
+| Avg est stress/session | 34 | - | n/a |
+| Avg real stress/session | 885 | 286 | ↑ 599 |
 
 - Top single: 120kg x 1 @ 8
 - Previous top single: 115kg x 1 @ 7
@@ -557,6 +634,10 @@ Comparison baseline: Ultra Frequency Volume Block / Week 1
 | Avg load | 143kg | 132.1kg | ↑ 10.9kg |
 | Tonnage | 7085kg | 11800kg | ↓ 4715kg |
 | Avg tonnage/session | 2361.7kg | 2360kg | ↑ 1.7kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2974 | - | n/a |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 991 | - | n/a |
 
 - Top single: 177.5kg x 1 @ 8
 - Previous top single: -
@@ -594,6 +675,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 | Avg load | 113.6kg | 146.8kg | ↓ 33.2kg |
 | Tonnage | 9412.5kg | 1547.5kg | ↑ 7865kg |
 | Avg tonnage/session | 1882.5kg | 309.5kg | ↑ 1573kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 121 | 1035 | ↓ 914 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 24 | 207 | ↓ 183 |
 
 - Top single: -
 - Previous top single: 160kg x 1 @ 9.50
@@ -613,6 +698,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 | Avg load | 90.7kg | 103kg | ↓ 12.3kg |
 | Tonnage | 7952.5kg | 3287.5kg | ↑ 4665kg |
 | Avg tonnage/session | 1590.5kg | 657.5kg | ↑ 933kg |
+| Estimated stress | - | 120 | n/a |
+| Real stress | 1431 | 2007 | ↓ 577 |
+| Avg est stress/session | - | 24 | n/a |
+| Avg real stress/session | 286 | 402 | ↓ 115 |
 
 - Top single: 115kg x 1 @ 7
 - Previous top single: 130kg x 1 @ 9.50
@@ -632,6 +721,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 4
 | Avg load | 132.1kg | 149.4kg | ↓ 17.3kg |
 | Tonnage | 11800kg | 3380kg | ↑ 8420kg |
 | Avg tonnage/session | 2360kg | 676kg | ↑ 1684kg |
+| Estimated stress | - | - | n/a |
+| Real stress | - | 1352 | n/a |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | - | 270 | n/a |
 
 - Top single: -
 - Previous top single: 185kg x 1 @ 9
@@ -669,6 +762,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 3
 | Avg load | 146.8kg | 130.4kg | ↑ 16.4kg |
 | Tonnage | 1547.5kg | 9722.5kg | ↓ 8175kg |
 | Avg tonnage/session | 309.5kg | 1944.5kg | ↓ 1635kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 1035 | 4363 | ↓ 3328 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 207 | 873 | ↓ 666 |
 
 - Top single: 160kg x 1 @ 9.50
 - Previous top single: -
@@ -688,6 +785,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 3
 | Avg load | 103kg | 97.1kg | ↑ 5.9kg |
 | Tonnage | 3287.5kg | 7120kg | ↓ 3832.5kg |
 | Avg tonnage/session | 657.5kg | 1424kg | ↓ 766.5kg |
+| Estimated stress | 120 | 151 | ↓ 32 |
+| Real stress | 2007 | 3150 | ↓ 1143 |
+| Avg est stress/session | 24 | 30 | ↓ 6 |
+| Avg real stress/session | 402 | 630 | ↓ 228 |
 
 - Top single: 130kg x 1 @ 9.50
 - Previous top single: 120kg x 1 @ 8
@@ -707,6 +808,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 3
 | Avg load | 149.4kg | 141.6kg | ↑ 7.8kg |
 | Tonnage | 3380kg | 10095kg | ↓ 6715kg |
 | Avg tonnage/session | 676kg | 2019kg | ↓ 1343kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 1352 | 4155 | ↓ 2803 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 270 | 831 | ↓ 561 |
 
 - Top single: 185kg x 1 @ 9
 - Previous top single: -
@@ -744,6 +849,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 2
 | Avg load | 130.4kg | 129.6kg | ↑ 0.8kg |
 | Tonnage | 9722.5kg | 10111kg | ↓ 388.5kg |
 | Avg tonnage/session | 1944.5kg | 2022.2kg | ↓ 77.7kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 4363 | 4469 | ↓ 106 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 873 | 894 | ↓ 21 |
 
 - Top single: -
 - Previous top single: -
@@ -763,6 +872,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 2
 | Avg load | 97.1kg | 95.7kg | ↑ 1.4kg |
 | Tonnage | 7120kg | 8052kg | ↓ 932kg |
 | Avg tonnage/session | 1424kg | 1610.4kg | ↓ 186.4kg |
+| Estimated stress | 151 | 144 | ↑ 8 |
+| Real stress | 3150 | 3348 | ↓ 198 |
+| Avg est stress/session | 30 | 29 | ↑ 2 |
+| Avg real stress/session | 630 | 670 | ↓ 40 |
 
 - Top single: 120kg x 1 @ 8
 - Previous top single: 117.5kg x 1 @ 7
@@ -782,6 +895,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 2
 | Avg load | 141.6kg | 140.8kg | ↑ 0.8kg |
 | Tonnage | 10095kg | 10455kg | ↓ 360kg |
 | Avg tonnage/session | 2019kg | 2091kg | ↓ 72kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 4155 | 4112 | ↑ 43 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 831 | 822 | ↑ 9 |
 
 - Top single: -
 - Previous top single: -
@@ -819,6 +936,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 1
 | Avg load | 129.6kg | 121kg | ↑ 8.6kg |
 | Tonnage | 10111kg | 9518kg | ↑ 593kg |
 | Avg tonnage/session | 2022.2kg | 1903.6kg | ↑ 118.6kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 4469 | 3250 | ↑ 1219 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 894 | 650 | ↑ 244 |
 
 - Top single: -
 - Previous top single: -
@@ -838,6 +959,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 1
 | Avg load | 95.7kg | 90.2kg | ↑ 5.5kg |
 | Tonnage | 8052kg | 7870kg | ↑ 182kg |
 | Avg tonnage/session | 1610.4kg | 1574kg | ↑ 36.4kg |
+| Estimated stress | 144 | 145 | ↓ 2 |
+| Real stress | 3348 | 2479 | ↑ 870 |
+| Avg est stress/session | 29 | 29 | ↓ 0 |
+| Avg real stress/session | 670 | 496 | ↑ 174 |
 
 - Top single: 117.5kg x 1 @ 7
 - Previous top single: 115kg x 1 @ 7
@@ -857,6 +982,10 @@ Comparison baseline: Ultra Frequency Building Block / Week 1
 | Avg load | 140.8kg | 131.1kg | ↑ 9.7kg |
 | Tonnage | 10455kg | 10555kg | ↓ 100kg |
 | Avg tonnage/session | 2091kg | 2111kg | ↓ 20kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 4112 | 3179 | ↑ 933 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 822 | 636 | ↑ 186 |
 
 - Top single: -
 - Previous top single: -
@@ -894,6 +1023,10 @@ Comparison baseline: Transmutation Block / Week 4
 | Avg load | 121kg | 145.8kg | ↓ 24.8kg |
 | Tonnage | 9518kg | 3442.5kg | ↑ 6075.5kg |
 | Avg tonnage/session | 1903.6kg | 1147.5kg | ↑ 756.1kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 3250 | 2570 | ↑ 680 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 650 | 857 | ↓ 207 |
 
 - Top single: -
 - Previous top single: 165kg x 1 @ 9.50
@@ -913,6 +1046,10 @@ Comparison baseline: Transmutation Block / Week 4
 | Avg load | 90.2kg | 100.2kg | ↓ 10kg |
 | Tonnage | 7870kg | 3327.5kg | ↑ 4542.5kg |
 | Avg tonnage/session | 1574kg | 831.9kg | ↑ 742.1kg |
+| Estimated stress | 145 | 129 | ↑ 16 |
+| Real stress | 2479 | 2205 | ↑ 273 |
+| Avg est stress/session | 29 | 32 | ↓ 3 |
+| Avg real stress/session | 496 | 551 | ↓ 56 |
 
 - Top single: 115kg x 1 @ 7
 - Previous top single: 130kg x 1 @ 9.50
@@ -932,6 +1069,10 @@ Comparison baseline: Transmutation Block / Week 4
 | Avg load | 131.1kg | 146.3kg | ↓ 15.2kg |
 | Tonnage | 10555kg | 5975kg | ↑ 4580kg |
 | Avg tonnage/session | 2111kg | 1991.7kg | ↑ 119.3kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 3179 | 1957 | ↑ 1222 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 636 | 652 | ↓ 16 |
 
 - Top single: -
 - Previous top single: 190kg x 1 @ 9.50
@@ -969,6 +1110,10 @@ Comparison baseline: Transmutation Block / Week 3
 | Avg load | 145.8kg | 142.1kg | ↑ 3.7kg |
 | Tonnage | 3442.5kg | 5080kg | ↓ 1637.5kg |
 | Avg tonnage/session | 1147.5kg | 1693.3kg | ↓ 545.8kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2570 | 3778 | ↓ 1207 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 857 | 1259 | ↓ 402 |
 
 - Top single: 165kg x 1 @ 9.50
 - Previous top single: 160kg x 1 @ 8.50
@@ -988,6 +1133,10 @@ Comparison baseline: Transmutation Block / Week 3
 | Avg load | 100.2kg | 100kg | ↑ 0.2kg |
 | Tonnage | 3327.5kg | 4860kg | ↓ 1532.5kg |
 | Avg tonnage/session | 831.9kg | 1215kg | ↓ 383.1kg |
+| Estimated stress | 129 | 138 | ↓ 8 |
+| Real stress | 2205 | 3034 | ↓ 828 |
+| Avg est stress/session | 32 | 34 | ↓ 2 |
+| Avg real stress/session | 551 | 758 | ↓ 207 |
 
 - Top single: 130kg x 1 @ 9.50
 - Previous top single: 127.5kg x 1 @ 9
@@ -1007,6 +1156,10 @@ Comparison baseline: Transmutation Block / Week 3
 | Avg load | 146.3kg | 147.5kg | ↓ 1.2kg |
 | Tonnage | 5975kg | 5705kg | ↑ 270kg |
 | Avg tonnage/session | 1991.7kg | 1901.7kg | ↑ 90kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 1957 | 2942 | ↓ 986 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 652 | 981 | ↓ 328 |
 
 - Top single: 190kg x 1 @ 9.50
 - Previous top single: 185kg x 1 @ 9
@@ -1044,6 +1197,10 @@ Comparison baseline: Transmutation Block / Week 2
 | Avg load | 142.1kg | 137.9kg | ↑ 4.2kg |
 | Tonnage | 5080kg | 5930kg | ↓ 850kg |
 | Avg tonnage/session | 1693.3kg | 1976.7kg | ↓ 283.4kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 3778 | 3777 | ↑ 1 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 1259 | 1259 | ↑ 0 |
 
 - Top single: 160kg x 1 @ 8.50
 - Previous top single: 155kg x 1 @ 9
@@ -1063,6 +1220,10 @@ Comparison baseline: Transmutation Block / Week 2
 | Avg load | 100kg | 101.6kg | ↓ 1.6kg |
 | Tonnage | 4860kg | 5455kg | ↓ 595kg |
 | Avg tonnage/session | 1215kg | 1363.8kg | ↓ 148.8kg |
+| Estimated stress | 138 | 77 | ↑ 61 |
+| Real stress | 3034 | 3277 | ↓ 244 |
+| Avg est stress/session | 34 | 19 | ↑ 15 |
+| Avg real stress/session | 758 | 819 | ↓ 61 |
 
 - Top single: 127.5kg x 1 @ 9
 - Previous top single: 122.5kg x 1 @ 9
@@ -1082,6 +1243,10 @@ Comparison baseline: Transmutation Block / Week 2
 | Avg load | 147.5kg | 143.2kg | ↑ 4.3kg |
 | Tonnage | 5705kg | 5902.5kg | ↓ 197.5kg |
 | Avg tonnage/session | 1901.7kg | 1967.5kg | ↓ 65.8kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2942 | 2622 | ↑ 320 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 981 | 874 | ↑ 107 |
 
 - Top single: 185kg x 1 @ 9
 - Previous top single: 177.5kg x 1 @ 8
@@ -1119,6 +1284,10 @@ Comparison baseline: Transmutation Block / Week 1
 | Avg load | 137.9kg | 127.7kg | ↑ 10.2kg |
 | Tonnage | 5930kg | 6119kg | ↓ 189kg |
 | Avg tonnage/session | 1976.7kg | 2039.7kg | ↓ 63kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 3777 | 2519 | ↑ 1258 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 1259 | 840 | ↑ 419 |
 
 - Top single: 155kg x 1 @ 9
 - Previous top single: 147.5kg x 1 @ 8
@@ -1138,6 +1307,10 @@ Comparison baseline: Transmutation Block / Week 1
 | Avg load | 101.6kg | 93.5kg | ↑ 8.1kg |
 | Tonnage | 5455kg | 7280kg | ↓ 1825kg |
 | Avg tonnage/session | 1363.8kg | 1820kg | ↓ 456.2kg |
+| Estimated stress | 77 | 137 | ↓ 60 |
+| Real stress | 3277 | 3250 | ↑ 27 |
+| Avg est stress/session | 19 | 34 | ↓ 15 |
+| Avg real stress/session | 819 | 812 | ↑ 7 |
 
 - Top single: 122.5kg x 1 @ 9
 - Previous top single: -
@@ -1157,6 +1330,10 @@ Comparison baseline: Transmutation Block / Week 1
 | Avg load | 143.2kg | 133.8kg | ↑ 9.4kg |
 | Tonnage | 5902.5kg | 7110kg | ↓ 1207.5kg |
 | Avg tonnage/session | 1967.5kg | 2370kg | ↓ 402.5kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2622 | 2377 | ↑ 245 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 874 | 792 | ↑ 82 |
 
 - Top single: 177.5kg x 1 @ 8
 - Previous top single: -
@@ -1194,6 +1371,10 @@ Comparison baseline: Test Week / Week 1
 | Avg load | 127.7kg | 126.9kg | ↑ 0.8kg |
 | Tonnage | 6119kg | 867.5kg | ↑ 5251.5kg |
 | Avg tonnage/session | 2039.7kg | 433.8kg | ↑ 1605.9kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2519 | 70 | ↑ 2449 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 840 | 35 | ↑ 805 |
 
 - Top single: 147.5kg x 1 @ 8
 - Previous top single: 147.5kg x 1 @ 6
@@ -1213,6 +1394,10 @@ Comparison baseline: Test Week / Week 1
 | Avg load | 93.5kg | 99.4kg | ↓ 5.9kg |
 | Tonnage | 7280kg | 682.5kg | ↑ 6597.5kg |
 | Avg tonnage/session | 1820kg | 341.2kg | ↑ 1478.8kg |
+| Estimated stress | 137 | - | n/a |
+| Real stress | 3250 | 53 | ↑ 3198 |
+| Avg est stress/session | 34 | - | n/a |
+| Avg real stress/session | 812 | 26 | ↑ 786 |
 
 - Top single: -
 - Previous top single: 112.5kg x 1 @ 6
@@ -1232,6 +1417,10 @@ Comparison baseline: Test Week / Week 1
 | Avg load | 133.8kg | 140kg | ↓ 6.2kg |
 | Tonnage | 7110kg | 420kg | ↑ 6690kg |
 | Avg tonnage/session | 2370kg | 420kg | ↑ 1950kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2377 | 134 | ↑ 2243 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 792 | 134 | ↑ 659 |
 
 - Top single: -
 - Previous top single: 140kg x 1 @ 6
@@ -1269,6 +1458,10 @@ Comparison baseline: Strength Block v4 / Week 3
 | Avg load | 126.9kg | 146.8kg | ↓ 19.9kg |
 | Tonnage | 867.5kg | 4917.5kg | ↓ 4050kg |
 | Avg tonnage/session | 433.8kg | 1639.2kg | ↓ 1205.4kg |
+| Estimated stress | - | 3016 | n/a |
+| Real stress | 70 | 3018 | ↓ 2948 |
+| Avg est stress/session | - | 1006 | n/a |
+| Avg real stress/session | 35 | 1006 | ↓ 971 |
 
 - Top single: 147.5kg x 1 @ 6
 - Previous top single: 165kg x 1 @ 8.50
@@ -1288,6 +1481,10 @@ Comparison baseline: Strength Block v4 / Week 3
 | Avg load | 99.4kg | 101.2kg | ↓ 1.8kg |
 | Tonnage | 682.5kg | 5422.5kg | ↓ 4740kg |
 | Avg tonnage/session | 341.2kg | 1355.6kg | ↓ 1014.4kg |
+| Estimated stress | - | 3154 | n/a |
+| Real stress | 53 | 3612 | ↓ 3559 |
+| Avg est stress/session | - | 788 | n/a |
+| Avg real stress/session | 26 | 903 | ↓ 876 |
 
 - Top single: 112.5kg x 1 @ 6
 - Previous top single: 130kg x 1 @ 8.50
@@ -1307,6 +1504,10 @@ Comparison baseline: Strength Block v4 / Week 3
 | Avg load | 140kg | 162.9kg | ↓ 22.9kg |
 | Tonnage | 420kg | 7052.5kg | ↓ 6632.5kg |
 | Avg tonnage/session | 420kg | 2350.8kg | ↓ 1930.8kg |
+| Estimated stress | - | 4214 | n/a |
+| Real stress | 134 | 4779 | ↓ 4645 |
+| Avg est stress/session | - | 1404 | n/a |
+| Avg real stress/session | 134 | 1593 | ↓ 1459 |
 
 - Top single: 140kg x 1 @ 6
 - Previous top single: 180kg x 1 @ 7
@@ -1344,6 +1545,10 @@ Comparison baseline: Strength Block v4 / Week 2
 | Avg load | 146.8kg | 145.5kg | ↑ 1.3kg |
 | Tonnage | 4917.5kg | 4880kg | ↑ 37.5kg |
 | Avg tonnage/session | 1639.2kg | 1626.7kg | ↑ 12.5kg |
+| Estimated stress | 3016 | 2896 | ↑ 120 |
+| Real stress | 3018 | 2982 | ↑ 36 |
+| Avg est stress/session | 1006 | 965 | ↑ 40 |
+| Avg real stress/session | 1006 | 994 | ↑ 12 |
 
 - Top single: 165kg x 1 @ 8.50
 - Previous top single: 167.5kg x 1 @ 9
@@ -1363,6 +1568,10 @@ Comparison baseline: Strength Block v4 / Week 2
 | Avg load | 101.2kg | 101kg | ↑ 0.2kg |
 | Tonnage | 5422.5kg | 5467.5kg | ↓ 45kg |
 | Avg tonnage/session | 1355.6kg | 1366.9kg | ↓ 11.3kg |
+| Estimated stress | 3154 | 2971 | ↑ 183 |
+| Real stress | 3612 | 3326 | ↑ 285 |
+| Avg est stress/session | 788 | 743 | ↑ 46 |
+| Avg real stress/session | 903 | 832 | ↑ 71 |
 
 - Top single: 130kg x 1 @ 8.50
 - Previous top single: 127.5kg x 1 @ 8.50
@@ -1382,6 +1591,10 @@ Comparison baseline: Strength Block v4 / Week 2
 | Avg load | 162.9kg | 163.3kg | ↓ 0.4kg |
 | Tonnage | 7052.5kg | 6912.5kg | ↑ 140kg |
 | Avg tonnage/session | 2350.8kg | 2304.2kg | ↑ 46.6kg |
+| Estimated stress | 4214 | 4223 | ↓ 9 |
+| Real stress | 4779 | 3966 | ↑ 813 |
+| Avg est stress/session | 1404 | 1408 | ↓ 3 |
+| Avg real stress/session | 1593 | 1322 | ↑ 271 |
 
 - Top single: 180kg x 1 @ 7
 - Previous top single: 187.5kg x 1 @ 8.50
@@ -1419,6 +1632,10 @@ Comparison baseline: Strength Block v4 / Week 1
 | Avg load | 145.5kg | 143.2kg | ↑ 2.3kg |
 | Tonnage | 4880kg | 5240kg | ↓ 360kg |
 | Avg tonnage/session | 1626.7kg | 1746.7kg | ↓ 120kg |
+| Estimated stress | 2896 | 2762 | ↑ 134 |
+| Real stress | 2982 | 2682 | ↑ 300 |
+| Avg est stress/session | 965 | 921 | ↑ 45 |
+| Avg real stress/session | 994 | 894 | ↑ 100 |
 
 - Top single: 167.5kg x 1 @ 9
 - Previous top single: 165kg x 1 @ 8.50
@@ -1438,6 +1655,10 @@ Comparison baseline: Strength Block v4 / Week 1
 | Avg load | 101kg | 99.5kg | ↑ 1.5kg |
 | Tonnage | 5467.5kg | 5405kg | ↑ 62.5kg |
 | Avg tonnage/session | 1366.9kg | 1351.2kg | ↑ 15.7kg |
+| Estimated stress | 2971 | 2652 | ↑ 320 |
+| Real stress | 3326 | 2853 | ↑ 473 |
+| Avg est stress/session | 743 | 663 | ↑ 80 |
+| Avg real stress/session | 832 | 713 | ↑ 118 |
 
 - Top single: 127.5kg x 1 @ 8.50
 - Previous top single: 125kg x 1 @ 8
@@ -1457,6 +1678,10 @@ Comparison baseline: Strength Block v4 / Week 1
 | Avg load | 163.3kg | 160.8kg | ↑ 2.5kg |
 | Tonnage | 6912.5kg | 6770kg | ↑ 142.5kg |
 | Avg tonnage/session | 2304.2kg | 2256.7kg | ↑ 47.5kg |
+| Estimated stress | 4223 | 3576 | ↑ 647 |
+| Real stress | 3966 | 3425 | ↑ 541 |
+| Avg est stress/session | 1408 | 1192 | ↑ 216 |
+| Avg real stress/session | 1322 | 1142 | ↑ 180 |
 
 - Top single: 187.5kg x 1 @ 8.50
 - Previous top single: 187.5kg x 1 @ 8.50
@@ -1494,6 +1719,10 @@ Comparison baseline: Strength Block v2 / Week 4
 | Avg load | 143.2kg | 127.3kg | ↑ 15.9kg |
 | Tonnage | 5240kg | 8205kg | ↓ 2965kg |
 | Avg tonnage/session | 1746.7kg | 2735kg | ↓ 988.3kg |
+| Estimated stress | 2762 | - | n/a |
+| Real stress | 2682 | 3464 | ↓ 782 |
+| Avg est stress/session | 921 | - | n/a |
+| Avg real stress/session | 894 | 1155 | ↓ 260 |
 
 - Top single: 165kg x 1 @ 8.50
 - Previous top single: 150kg x 1 @ 8
@@ -1513,6 +1742,10 @@ Comparison baseline: Strength Block v2 / Week 4
 | Avg load | 99.5kg | 95.4kg | ↑ 4.1kg |
 | Tonnage | 5405kg | 7057.5kg | ↓ 1652.5kg |
 | Avg tonnage/session | 1351.2kg | 1764.4kg | ↓ 413.2kg |
+| Estimated stress | 2652 | 156 | ↑ 2496 |
+| Real stress | 2853 | 5088 | ↓ 2235 |
+| Avg est stress/session | 663 | 39 | ↑ 624 |
+| Avg real stress/session | 713 | 1272 | ↓ 559 |
 
 - Top single: 125kg x 1 @ 8
 - Previous top single: 122.5kg x 1 @ 9
@@ -1532,6 +1765,10 @@ Comparison baseline: Strength Block v2 / Week 4
 | Avg load | 160.8kg | 142.5kg | ↑ 18.3kg |
 | Tonnage | 6770kg | 6930kg | ↓ 160kg |
 | Avg tonnage/session | 2256.7kg | 2310kg | ↓ 53.3kg |
+| Estimated stress | 3576 | - | n/a |
+| Real stress | 3425 | 1945 | ↑ 1480 |
+| Avg est stress/session | 1192 | - | n/a |
+| Avg real stress/session | 1142 | 648 | ↑ 493 |
 
 - Top single: 187.5kg x 1 @ 8.50
 - Previous top single: 180kg x 1 @ 7.50
@@ -1569,6 +1806,10 @@ Comparison baseline: Strength Block v2 / Week 3
 | Avg load | 127.3kg | 137.2kg | ↓ 9.9kg |
 | Tonnage | 8205kg | 4875kg | ↑ 3330kg |
 | Avg tonnage/session | 2735kg | 1625kg | ↑ 1110kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 3464 | 2730 | ↑ 734 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 1155 | 910 | ↑ 245 |
 
 - Top single: 150kg x 1 @ 8
 - Previous top single: -
@@ -1588,6 +1829,10 @@ Comparison baseline: Strength Block v2 / Week 3
 | Avg load | 95.4kg | 101.1kg | ↓ 5.7kg |
 | Tonnage | 7057.5kg | 5330kg | ↑ 1727.5kg |
 | Avg tonnage/session | 1764.4kg | 1332.5kg | ↑ 431.9kg |
+| Estimated stress | 156 | 173 | ↓ 17 |
+| Real stress | 5088 | 4054 | ↑ 1035 |
+| Avg est stress/session | 39 | 43 | ↓ 4 |
+| Avg real stress/session | 1272 | 1013 | ↑ 259 |
 
 - Top single: 122.5kg x 1 @ 9
 - Previous top single: 127.5kg x 1 @ 8.50
@@ -1607,6 +1852,10 @@ Comparison baseline: Strength Block v2 / Week 3
 | Avg load | 142.5kg | 160.2kg | ↓ 17.7kg |
 | Tonnage | 6930kg | 5627.5kg | ↑ 1302.5kg |
 | Avg tonnage/session | 2310kg | 1875.8kg | ↑ 434.2kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 1945 | 3452 | ↓ 1506 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 648 | 1150 | ↓ 502 |
 
 - Top single: 180kg x 1 @ 7.50
 - Previous top single: 180kg x 1 @ 7
@@ -1644,6 +1893,10 @@ Comparison baseline: Strength Block v2 / Week 2
 | Avg load | 137.2kg | 139kg | ↓ 1.8kg |
 | Tonnage | 4875kg | 4370kg | ↑ 505kg |
 | Avg tonnage/session | 1625kg | 1456.7kg | ↑ 168.3kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2730 | 2745 | ↓ 16 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 910 | 915 | ↓ 5 |
 
 - Top single: -
 - Previous top single: 160kg x 1 @ 9.50
@@ -1663,6 +1916,10 @@ Comparison baseline: Strength Block v2 / Week 2
 | Avg load | 101.1kg | 99.3kg | ↑ 1.8kg |
 | Tonnage | 5330kg | 5035kg | ↑ 295kg |
 | Avg tonnage/session | 1332.5kg | 1258.8kg | ↑ 73.7kg |
+| Estimated stress | 173 | 132 | ↑ 41 |
+| Real stress | 4054 | 3362 | ↑ 692 |
+| Avg est stress/session | 43 | 33 | ↑ 10 |
+| Avg real stress/session | 1013 | 840 | ↑ 173 |
 
 - Top single: 127.5kg x 1 @ 8.50
 - Previous top single: 130kg x 1 @ 9.50
@@ -1682,6 +1939,10 @@ Comparison baseline: Strength Block v2 / Week 2
 | Avg load | 160.2kg | 169.3kg | ↓ 9.1kg |
 | Tonnage | 5627.5kg | 3195kg | ↑ 2432.5kg |
 | Avg tonnage/session | 1875.8kg | 1597.5kg | ↑ 278.3kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 3452 | 1216 | ↑ 2236 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 1150 | 608 | ↑ 542 |
 
 - Top single: 180kg x 1 @ 7
 - Previous top single: 180kg x 1 @ -
@@ -1719,6 +1980,10 @@ Comparison baseline: Strength Block v2 / Week 1
 | Avg load | 139kg | 134.2kg | ↑ 4.8kg |
 | Tonnage | 4370kg | 4092.5kg | ↑ 277.5kg |
 | Avg tonnage/session | 1456.7kg | 1364.2kg | ↑ 92.5kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2745 | 2098 | ↑ 647 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 915 | 700 | ↑ 216 |
 
 - Top single: 160kg x 1 @ 9.50
 - Previous top single: 155kg x 1 @ 9.50
@@ -1738,6 +2003,10 @@ Comparison baseline: Strength Block v2 / Week 1
 | Avg load | 99.3kg | 97.1kg | ↑ 2.2kg |
 | Tonnage | 5035kg | 4902.5kg | ↑ 132.5kg |
 | Avg tonnage/session | 1258.8kg | 1225.6kg | ↑ 33.2kg |
+| Estimated stress | 132 | 110 | ↑ 22 |
+| Real stress | 3362 | 2726 | ↑ 636 |
+| Avg est stress/session | 33 | 28 | ↑ 6 |
+| Avg real stress/session | 840 | 681 | ↑ 159 |
 
 - Top single: 130kg x 1 @ 9.50
 - Previous top single: 122.5kg x 1 @ 8
@@ -1757,6 +2026,10 @@ Comparison baseline: Strength Block v2 / Week 1
 | Avg load | 169.3kg | 152.1kg | ↑ 17.2kg |
 | Tonnage | 3195kg | 6535kg | ↓ 3340kg |
 | Avg tonnage/session | 1597.5kg | 2178.3kg | ↓ 580.8kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 1216 | 2416 | ↓ 1200 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 608 | 805 | ↓ 197 |
 
 - Top single: 180kg x 1 @ -
 - Previous top single: 190kg x 1 @ 8.50
@@ -1794,6 +2067,10 @@ Comparison baseline: Peaking Block v6 / Week 4
 | Avg load | 134.2kg | 163.8kg | ↓ 29.6kg |
 | Tonnage | 4092.5kg | 655kg | ↑ 3437.5kg |
 | Avg tonnage/session | 1364.2kg | 218.3kg | ↑ 1145.9kg |
+| Estimated stress | - | 517 | n/a |
+| Real stress | 2098 | 593 | ↑ 1506 |
+| Avg est stress/session | - | 172 | n/a |
+| Avg real stress/session | 700 | 198 | ↑ 502 |
 
 - Top single: 155kg x 1 @ 9.50
 - Previous top single: 175kg x 1 @ 10
@@ -1813,6 +2090,10 @@ Comparison baseline: Peaking Block v6 / Week 4
 | Avg load | 97.1kg | 107.2kg | ↓ 10.1kg |
 | Tonnage | 4902.5kg | 1747.5kg | ↑ 3155kg |
 | Avg tonnage/session | 1225.6kg | 349.5kg | ↑ 876.1kg |
+| Estimated stress | 110 | 869 | ↓ 759 |
+| Real stress | 2726 | 874 | ↑ 1851 |
+| Avg est stress/session | 28 | 174 | ↓ 146 |
+| Avg real stress/session | 681 | 175 | ↑ 506 |
 
 - Top single: 122.5kg x 1 @ 8
 - Previous top single: 140kg x 1 @ 9.50
@@ -1832,6 +2113,10 @@ Comparison baseline: Peaking Block v6 / Week 4
 | Avg load | 152.1kg | 185.4kg | ↓ 33.3kg |
 | Tonnage | 6535kg | 1112.5kg | ↑ 5422.5kg |
 | Avg tonnage/session | 2178.3kg | 370.8kg | ↑ 1807.5kg |
+| Estimated stress | - | 938 | n/a |
+| Real stress | 2416 | 1023 | ↑ 1393 |
+| Avg est stress/session | - | 312 | n/a |
+| Avg real stress/session | 805 | 341 | ↑ 464 |
 
 - Top single: 190kg x 1 @ 8.50
 - Previous top single: 195kg x 1 @ 10
@@ -1844,13 +2129,13 @@ Comparison baseline: Peaking Block v6 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 6 | 7 | ↓ 1 |
-| Avg steps/day | 8554 | 16927 | ↓ 8373 |
-| Avg distance/day | 5.91km | 13.78km | ↓ 7.87km |
-| Avg kcal/day | 1950 | 2666 | ↓ 716 |
-| Avg bodyweight | 77.8kg | 79.5kg | ↓ 1.7kg |
-| Avg resting HR | 44bpm | 41.1bpm | ↑ 2.9bpm |
-| Avg sleep | 7.87h | 6.75h | ↑ 1.12h |
+| Days with data | 6 | - | n/a |
+| Avg steps/day | 8554 | - | n/a |
+| Avg distance/day | 5.91km | - | n/a |
+| Avg kcal/day | 1950 | - | n/a |
+| Avg bodyweight | 77.8kg | - | n/a |
+| Avg resting HR | 44bpm | - | n/a |
+| Avg sleep | 7.87h | - | n/a |
 
 - Latest health date in period: 2026-01-03
 
@@ -1869,6 +2154,10 @@ Comparison baseline: Peaking Block v6 / Week 3
 | Avg load | 163.8kg | 150.7kg | ↑ 13.1kg |
 | Tonnage | 655kg | 2185kg | ↓ 1530kg |
 | Avg tonnage/session | 218.3kg | 728.3kg | ↓ 510kg |
+| Estimated stress | 517 | 1130 | ↓ 613 |
+| Real stress | 593 | 1178 | ↓ 585 |
+| Avg est stress/session | 172 | 377 | ↓ 204 |
+| Avg real stress/session | 198 | 392 | ↓ 195 |
 
 - Top single: 175kg x 1 @ 10
 - Previous top single: 165kg x 1 @ 9
@@ -1888,6 +2177,10 @@ Comparison baseline: Peaking Block v6 / Week 3
 | Avg load | 107.2kg | 109.8kg | ↓ 2.6kg |
 | Tonnage | 1747.5kg | 2107.5kg | ↓ 360kg |
 | Avg tonnage/session | 349.5kg | 526.9kg | ↓ 177.4kg |
+| Estimated stress | 869 | 1144 | ↓ 275 |
+| Real stress | 874 | 1141 | ↓ 266 |
+| Avg est stress/session | 174 | 286 | ↓ 112 |
+| Avg real stress/session | 175 | 285 | ↓ 110 |
 
 - Top single: 140kg x 1 @ 9.50
 - Previous top single: 132.5kg x 1 @ 8.50
@@ -1907,6 +2200,10 @@ Comparison baseline: Peaking Block v6 / Week 3
 | Avg load | 185.4kg | 174kg | ↑ 11.4kg |
 | Tonnage | 1112.5kg | 1200kg | ↓ 87.5kg |
 | Avg tonnage/session | 370.8kg | 600kg | ↓ 229.2kg |
+| Estimated stress | 938 | 742 | ↑ 196 |
+| Real stress | 1023 | 476 | ↑ 547 |
+| Avg est stress/session | 312 | 371 | ↓ 58 |
+| Avg real stress/session | 341 | 238 | ↑ 103 |
 
 - Top single: 195kg x 1 @ 10
 - Previous top single: 185kg x 1 @ -
@@ -1914,20 +2211,6 @@ Comparison baseline: Peaking Block v6 / Week 3
 - Top work set: -
 - Previous top work set: 165kg x 2 @ 6.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
-
-### Health / Recovery
-
-| Metric | Current | Previous | Delta |
-|---|---:|---:|---:|
-| Days with data | 7 | 6 | ↑ 1 |
-| Avg steps/day | 16927 | 18347 | ↓ 1420 |
-| Avg distance/day | 13.78km | 14.90km | ↓ 1.12km |
-| Avg kcal/day | 2666 | 2762 | ↓ 96 |
-| Avg bodyweight | 79.5kg | 79.7kg | ↓ 0.2kg |
-| Avg resting HR | 41.1bpm | 42bpm | ↓ 0.9bpm |
-| Avg sleep | 6.75h | 6.52h | ↑ 0.23h |
-
-- Latest health date in period: 2026-05-02
 
 ## Peaking Block v6 / Week 3
 
@@ -1944,6 +2227,10 @@ Comparison baseline: Peaking Block v6 / Week 2
 | Avg load | 150.7kg | 147.2kg | ↑ 3.5kg |
 | Tonnage | 2185kg | 3747.5kg | ↓ 1562.5kg |
 | Avg tonnage/session | 728.3kg | 1249.2kg | ↓ 520.9kg |
+| Estimated stress | 1130 | 1959 | ↓ 829 |
+| Real stress | 1178 | 2164 | ↓ 987 |
+| Avg est stress/session | 377 | 653 | ↓ 276 |
+| Avg real stress/session | 392 | 722 | ↓ 329 |
 
 - Top single: 165kg x 1 @ 9
 - Previous top single: 165kg x 1 @ 8.50
@@ -1963,6 +2250,10 @@ Comparison baseline: Peaking Block v6 / Week 2
 | Avg load | 109.8kg | 99.8kg | ↑ 10kg |
 | Tonnage | 2107.5kg | 3062.5kg | ↓ 955kg |
 | Avg tonnage/session | 526.9kg | 765.6kg | ↓ 238.7kg |
+| Estimated stress | 1144 | 1449 | ↓ 305 |
+| Real stress | 1141 | 1872 | ↓ 732 |
+| Avg est stress/session | 286 | 362 | ↓ 76 |
+| Avg real stress/session | 285 | 468 | ↓ 183 |
 
 - Top single: 132.5kg x 1 @ 8.50
 - Previous top single: 132.5kg x 1 @ 9.50
@@ -1982,6 +2273,10 @@ Comparison baseline: Peaking Block v6 / Week 2
 | Avg load | 174kg | 167.5kg | ↑ 6.5kg |
 | Tonnage | 1200kg | 2015kg | ↓ 815kg |
 | Avg tonnage/session | 600kg | 1007.5kg | ↓ 407.5kg |
+| Estimated stress | 742 | 1937 | ↓ 1195 |
+| Real stress | 476 | 1105 | ↓ 628 |
+| Avg est stress/session | 371 | 968 | ↓ 598 |
+| Avg real stress/session | 238 | 552 | ↓ 314 |
 
 - Top single: 185kg x 1 @ -
 - Previous top single: 175kg x 1 @ 8.50
@@ -1989,20 +2284,6 @@ Comparison baseline: Peaking Block v6 / Week 2
 - Top work set: 165kg x 2 @ 6.50
 - Previous top work set: 180kg x 2 @ 8.50
 - Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
-
-### Health / Recovery
-
-| Metric | Current | Previous | Delta |
-|---|---:|---:|---:|
-| Days with data | 6 | 6 | → 0 |
-| Avg steps/day | 18347 | 6734 | ↑ 11613 |
-| Avg distance/day | 14.90km | 5.88km | ↑ 9.02km |
-| Avg kcal/day | 2762 | 2501 | ↑ 261 |
-| Avg bodyweight | 79.7kg | 80kg | ↓ 0.3kg |
-| Avg resting HR | 42bpm | 43bpm | ↓ 1bpm |
-| Avg sleep | 6.52h | 7.14h | ↓ 0.62h |
-
-- Latest health date in period: 2026-04-25
 
 ## Peaking Block v6 / Week 2
 
@@ -2019,6 +2300,10 @@ Comparison baseline: Peaking Block v6 / Week 1
 | Avg load | 147.2kg | 144.1kg | ↑ 3.1kg |
 | Tonnage | 3747.5kg | 4425kg | ↓ 677.5kg |
 | Avg tonnage/session | 1249.2kg | 1475kg | ↓ 225.8kg |
+| Estimated stress | 1959 | 2266 | ↓ 307 |
+| Real stress | 2164 | 1652 | ↑ 512 |
+| Avg est stress/session | 653 | 755 | ↓ 102 |
+| Avg real stress/session | 722 | 551 | ↑ 171 |
 
 - Top single: 165kg x 1 @ 8.50
 - Previous top single: 160kg x 1 @ 8
@@ -2038,6 +2323,10 @@ Comparison baseline: Peaking Block v6 / Week 1
 | Avg load | 99.8kg | 99.6kg | ↑ 0.2kg |
 | Tonnage | 3062.5kg | 3587.5kg | ↓ 525kg |
 | Avg tonnage/session | 765.6kg | 896.9kg | ↓ 131.3kg |
+| Estimated stress | 1449 | 1509 | ↓ 60 |
+| Real stress | 1872 | 1971 | ↓ 98 |
+| Avg est stress/session | 362 | 377 | ↓ 15 |
+| Avg real stress/session | 468 | 493 | ↓ 25 |
 
 - Top single: 132.5kg x 1 @ 9.50
 - Previous top single: 130kg x 1 @ 8.50
@@ -2057,6 +2346,10 @@ Comparison baseline: Peaking Block v6 / Week 1
 | Avg load | 167.5kg | 157.2kg | ↑ 10.3kg |
 | Tonnage | 2015kg | 3307.5kg | ↓ 1292.5kg |
 | Avg tonnage/session | 1007.5kg | 1653.8kg | ↓ 646.3kg |
+| Estimated stress | 1937 | 1935 | ↑ 2 |
+| Real stress | 1105 | 1580 | ↓ 476 |
+| Avg est stress/session | 968 | 967 | ↑ 1 |
+| Avg real stress/session | 552 | 790 | ↓ 238 |
 
 - Top single: 175kg x 1 @ 8.50
 - Previous top single: 187.5kg x 1 @ 8.50
@@ -2069,15 +2362,15 @@ Comparison baseline: Peaking Block v6 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 6 | 6 | → 0 |
-| Avg steps/day | 6734 | 7067 | ↓ 333 |
-| Avg distance/day | 5.88km | 5.97km | ↓ 0.09km |
-| Avg kcal/day | 2501 | 2784 | ↓ 283 |
-| Avg bodyweight | 80kg | 79.5kg | ↑ 0.5kg |
-| Avg resting HR | 43bpm | 45bpm | ↓ 2bpm |
-| Avg sleep | 7.14h | 7.25h | ↓ 0.11h |
+| Days with data | 1 | 6 | ↓ 5 |
+| Avg steps/day | 3178 | 7067 | ↓ 3889 |
+| Avg distance/day | 2.58km | 5.97km | ↓ 3.39km |
+| Avg kcal/day | 1328 | 2784 | ↓ 1456 |
+| Avg bodyweight | -kg | 79.5kg | n/a |
+| Avg resting HR | 44bpm | 45bpm | ↓ 1bpm |
+| Avg sleep | 7.73h | 7.25h | ↑ 0.48h |
 
-- Latest health date in period: 2026-04-18
+- Latest health date in period: 2026-04-13
 
 ## Peaking Block v6 / Week 1
 
@@ -2094,6 +2387,10 @@ Comparison baseline: Peaking Block v4 / Week 4
 | Avg load | 144.1kg | 149.2kg | ↓ 5.1kg |
 | Tonnage | 4425kg | 2020kg | ↑ 2405kg |
 | Avg tonnage/session | 1475kg | 673.3kg | ↑ 801.7kg |
+| Estimated stress | 2266 | 575 | ↑ 1690 |
+| Real stress | 1652 | 1216 | ↑ 436 |
+| Avg est stress/session | 755 | 192 | ↑ 564 |
+| Avg real stress/session | 551 | 405 | ↑ 145 |
 
 - Top single: 160kg x 1 @ 8
 - Previous top single: 177.5kg x 1 @ 9.50
@@ -2113,6 +2410,10 @@ Comparison baseline: Peaking Block v4 / Week 4
 | Avg load | 99.6kg | 98.6kg | ↑ 1kg |
 | Tonnage | 3587.5kg | 2680kg | ↑ 907.5kg |
 | Avg tonnage/session | 896.9kg | 670kg | ↑ 226.9kg |
+| Estimated stress | 1509 | 392 | ↑ 1117 |
+| Real stress | 1971 | 1282 | ↑ 689 |
+| Avg est stress/session | 377 | 98 | ↑ 279 |
+| Avg real stress/session | 493 | 320 | ↑ 172 |
 
 - Top single: 130kg x 1 @ 8.50
 - Previous top single: 135kg x 1 @ 9.50
@@ -2132,6 +2433,10 @@ Comparison baseline: Peaking Block v4 / Week 4
 | Avg load | 157.2kg | 150kg | ↑ 7.2kg |
 | Tonnage | 3307.5kg | 2660kg | ↑ 647.5kg |
 | Avg tonnage/session | 1653.8kg | 886.7kg | ↑ 767.1kg |
+| Estimated stress | 1935 | 368 | ↑ 1567 |
+| Real stress | 1580 | 574 | ↑ 1007 |
+| Avg est stress/session | 967 | 123 | ↑ 845 |
+| Avg real stress/session | 790 | 191 | ↑ 599 |
 
 - Top single: 187.5kg x 1 @ 8.50
 - Previous top single: 195kg x 1 @ 9.50
@@ -2169,6 +2474,10 @@ Comparison baseline: Peaking Block v4 / Week 3
 | Avg load | 149.2kg | 128.5kg | ↑ 20.7kg |
 | Tonnage | 2020kg | 6765kg | ↓ 4745kg |
 | Avg tonnage/session | 673.3kg | 2255kg | ↓ 1581.7kg |
+| Estimated stress | 575 | 619 | ↓ 44 |
+| Real stress | 1216 | 3278 | ↓ 2062 |
+| Avg est stress/session | 192 | 206 | ↓ 15 |
+| Avg real stress/session | 405 | 1093 | ↓ 688 |
 
 - Top single: 177.5kg x 1 @ 9.50
 - Previous top single: 165kg x 1 @ 9.50
@@ -2188,6 +2497,10 @@ Comparison baseline: Peaking Block v4 / Week 3
 | Avg load | 98.6kg | 99.1kg | ↓ 0.5kg |
 | Tonnage | 2680kg | 4928kg | ↓ 2248kg |
 | Avg tonnage/session | 670kg | 1232kg | ↓ 562kg |
+| Estimated stress | 392 | 166 | ↑ 226 |
+| Real stress | 1282 | 3577 | ↓ 2296 |
+| Avg est stress/session | 98 | 42 | ↑ 56 |
+| Avg real stress/session | 320 | 894 | ↓ 574 |
 
 - Top single: 135kg x 1 @ 9.50
 - Previous top single: 130kg x 1 @ 8.50
@@ -2207,6 +2520,10 @@ Comparison baseline: Peaking Block v4 / Week 3
 | Avg load | 150kg | 158.9kg | ↓ 8.9kg |
 | Tonnage | 2660kg | 4620kg | ↓ 1960kg |
 | Avg tonnage/session | 886.7kg | 1540kg | ↓ 653.3kg |
+| Estimated stress | 368 | - | n/a |
+| Real stress | 574 | 2645 | ↓ 2071 |
+| Avg est stress/session | 123 | - | n/a |
+| Avg real stress/session | 191 | 882 | ↓ 690 |
 
 - Top single: 195kg x 1 @ 9.50
 - Previous top single: -
@@ -2244,6 +2561,10 @@ Comparison baseline: Peaking Block v4 / Week 2
 | Avg load | 128.5kg | 124.4kg | ↑ 4.1kg |
 | Tonnage | 6765kg | 6502.5kg | ↑ 262.5kg |
 | Avg tonnage/session | 2255kg | 2167.5kg | ↑ 87.5kg |
+| Estimated stress | 619 | 374 | ↑ 246 |
+| Real stress | 3278 | 2861 | ↑ 417 |
+| Avg est stress/session | 206 | 124 | ↑ 82 |
+| Avg real stress/session | 1093 | 954 | ↑ 139 |
 
 - Top single: 165kg x 1 @ 9.50
 - Previous top single: 162.5kg x 1 @ 9
@@ -2263,6 +2584,10 @@ Comparison baseline: Peaking Block v4 / Week 2
 | Avg load | 99.1kg | 96.2kg | ↑ 2.9kg |
 | Tonnage | 4928kg | 7457.5kg | ↓ 2529.5kg |
 | Avg tonnage/session | 1232kg | 1491.5kg | ↓ 259.5kg |
+| Estimated stress | 166 | 132 | ↑ 34 |
+| Real stress | 3577 | 3668 | ↓ 91 |
+| Avg est stress/session | 42 | 26 | ↑ 15 |
+| Avg real stress/session | 894 | 734 | ↑ 161 |
 
 - Top single: 130kg x 1 @ 8.50
 - Previous top single: 125kg x 1 @ 8.50
@@ -2282,6 +2607,10 @@ Comparison baseline: Peaking Block v4 / Week 2
 | Avg load | 158.9kg | 158.9kg | → 0kg |
 | Tonnage | 4620kg | 4295kg | ↑ 325kg |
 | Avg tonnage/session | 1540kg | 1431.7kg | ↑ 108.3kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2645 | 2238 | ↑ 407 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 882 | 746 | ↑ 136 |
 
 - Top single: -
 - Previous top single: 185kg x 1 @ 8.50
@@ -2319,6 +2648,10 @@ Comparison baseline: Peaking Block v3 / Week 1
 | Avg load | 124.4kg | 135kg | ↓ 10.6kg |
 | Tonnage | 6502.5kg | 4665kg | ↑ 1837.5kg |
 | Avg tonnage/session | 2167.5kg | 1555kg | ↑ 612.5kg |
+| Estimated stress | 374 | - | n/a |
+| Real stress | 2861 | 2314 | ↑ 547 |
+| Avg est stress/session | 124 | - | n/a |
+| Avg real stress/session | 954 | 771 | ↑ 182 |
 
 - Top single: 162.5kg x 1 @ 9
 - Previous top single: 160kg x 1 @ 9
@@ -2338,6 +2671,10 @@ Comparison baseline: Peaking Block v3 / Week 1
 | Avg load | 96.2kg | 96.1kg | ↑ 0.1kg |
 | Tonnage | 7457.5kg | 5487.5kg | ↑ 1970kg |
 | Avg tonnage/session | 1491.5kg | 1371.9kg | ↑ 119.6kg |
+| Estimated stress | 132 | 110 | ↑ 22 |
+| Real stress | 3668 | 2999 | ↑ 669 |
+| Avg est stress/session | 26 | 28 | ↓ 1 |
+| Avg real stress/session | 734 | 750 | ↓ 16 |
 
 - Top single: 125kg x 1 @ 8.50
 - Previous top single: 125kg x 1 @ 8
@@ -2357,6 +2694,10 @@ Comparison baseline: Peaking Block v3 / Week 1
 | Avg load | 158.9kg | 159.1kg | ↓ 0.2kg |
 | Tonnage | 4295kg | 5670kg | ↓ 1375kg |
 | Avg tonnage/session | 1431.7kg | 1890kg | ↓ 458.3kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2238 | 2992 | ↓ 754 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 746 | 997 | ↓ 251 |
 
 - Top single: 185kg x 1 @ 8.50
 - Previous top single: 190kg x 1 @ 9.50
@@ -2394,6 +2735,10 @@ Comparison baseline: Mad Power Variation 1 / Week 4
 | Avg load | 135kg | 128.8kg | ↑ 6.2kg |
 | Tonnage | 4665kg | 3602.5kg | ↑ 1062.5kg |
 | Avg tonnage/session | 1555kg | 1200.8kg | ↑ 354.2kg |
+| Estimated stress | - | 2058 | n/a |
+| Real stress | 2314 | 2469 | ↓ 155 |
+| Avg est stress/session | - | 686 | n/a |
+| Avg real stress/session | 771 | 823 | ↓ 52 |
 
 - Top single: 160kg x 1 @ 9
 - Previous top single: 155kg x 1 @ 10
@@ -2413,6 +2758,10 @@ Comparison baseline: Mad Power Variation 1 / Week 4
 | Avg load | 96.1kg | 92.2kg | ↑ 3.9kg |
 | Tonnage | 5487.5kg | 7137.5kg | ↓ 1650kg |
 | Avg tonnage/session | 1371.9kg | 1784.4kg | ↓ 412.5kg |
+| Estimated stress | 110 | 2431 | ↓ 2321 |
+| Real stress | 2999 | 4204 | ↓ 1205 |
+| Avg est stress/session | 28 | 608 | ↓ 580 |
+| Avg real stress/session | 750 | 1051 | ↓ 301 |
 
 - Top single: 125kg x 1 @ 8
 - Previous top single: 127.5kg x 1 @ 10
@@ -2432,6 +2781,10 @@ Comparison baseline: Mad Power Variation 1 / Week 4
 | Avg load | 159.1kg | 148.5kg | ↑ 10.6kg |
 | Tonnage | 5670kg | 4570kg | ↑ 1100kg |
 | Avg tonnage/session | 1890kg | 1523.3kg | ↑ 366.7kg |
+| Estimated stress | - | 2483 | n/a |
+| Real stress | 2992 | 2442 | ↑ 550 |
+| Avg est stress/session | - | 828 | n/a |
+| Avg real stress/session | 997 | 814 | ↑ 184 |
 
 - Top single: 190kg x 1 @ 9.50
 - Previous top single: 190kg x 1 @ 10
@@ -2469,6 +2822,10 @@ Comparison baseline: Mad Power Variation 1 / Week 3
 | Avg load | 128.8kg | 126.5kg | ↑ 2.3kg |
 | Tonnage | 3602.5kg | 4597.5kg | ↓ 995kg |
 | Avg tonnage/session | 1200.8kg | 1532.5kg | ↓ 331.7kg |
+| Estimated stress | 2058 | 2974 | ↓ 916 |
+| Real stress | 2469 | 3108 | ↓ 639 |
+| Avg est stress/session | 686 | 991 | ↓ 305 |
+| Avg real stress/session | 823 | 1036 | ↓ 213 |
 
 - Top single: 155kg x 1 @ 10
 - Previous top single: 152.5kg x 1 @ 8.50
@@ -2488,6 +2845,10 @@ Comparison baseline: Mad Power Variation 1 / Week 3
 | Avg load | 92.2kg | 93.3kg | ↓ 1.1kg |
 | Tonnage | 7137.5kg | 8103.5kg | ↓ 966kg |
 | Avg tonnage/session | 1784.4kg | 2025.9kg | ↓ 241.5kg |
+| Estimated stress | 2431 | 3016 | ↓ 586 |
+| Real stress | 4204 | 4737 | ↓ 533 |
+| Avg est stress/session | 608 | 754 | ↓ 146 |
+| Avg real stress/session | 1051 | 1184 | ↓ 133 |
 
 - Top single: 127.5kg x 1 @ 10
 - Previous top single: 122.5kg x 1 @ 9
@@ -2507,6 +2868,10 @@ Comparison baseline: Mad Power Variation 1 / Week 3
 | Avg load | 148.5kg | 147.9kg | ↑ 0.6kg |
 | Tonnage | 4570kg | 5547.5kg | ↓ 977.5kg |
 | Avg tonnage/session | 1523.3kg | 1849.2kg | ↓ 325.9kg |
+| Estimated stress | 2483 | 3247 | ↓ 764 |
+| Real stress | 2442 | 3250 | ↓ 808 |
+| Avg est stress/session | 828 | 1082 | ↓ 254 |
+| Avg real stress/session | 814 | 1083 | ↓ 270 |
 
 - Top single: 190kg x 1 @ 10
 - Previous top single: 180kg x 1 @ 9
@@ -2544,6 +2909,10 @@ Comparison baseline: Mad Power Variation 1 / Week 2
 | Avg load | 126.5kg | 122.7kg | ↑ 3.8kg |
 | Tonnage | 4597.5kg | 5697.5kg | ↓ 1100kg |
 | Avg tonnage/session | 1532.5kg | 1899.2kg | ↓ 366.7kg |
+| Estimated stress | 2974 | 3536 | ↓ 562 |
+| Real stress | 3108 | 4126 | ↓ 1019 |
+| Avg est stress/session | 991 | 1179 | ↓ 187 |
+| Avg real stress/session | 1036 | 1375 | ↓ 340 |
 
 - Top single: 152.5kg x 1 @ 8.50
 - Previous top single: 140kg x 1 @ 6.50
@@ -2563,6 +2932,10 @@ Comparison baseline: Mad Power Variation 1 / Week 2
 | Avg load | 93.3kg | 91.4kg | ↑ 1.9kg |
 | Tonnage | 8103.5kg | 8651.5kg | ↓ 548kg |
 | Avg tonnage/session | 2025.9kg | 2162.9kg | ↓ 137kg |
+| Estimated stress | 3016 | 3093 | ↓ 77 |
+| Real stress | 4737 | 4938 | ↓ 201 |
+| Avg est stress/session | 754 | 773 | ↓ 19 |
+| Avg real stress/session | 1184 | 1235 | ↓ 50 |
 
 - Top single: 122.5kg x 1 @ 9
 - Previous top single: 120kg x 1 @ 8
@@ -2582,6 +2955,10 @@ Comparison baseline: Mad Power Variation 1 / Week 2
 | Avg load | 147.9kg | 148.6kg | ↓ 0.7kg |
 | Tonnage | 5547.5kg | 6100kg | ↓ 552.5kg |
 | Avg tonnage/session | 1849.2kg | 2033.3kg | ↓ 184.1kg |
+| Estimated stress | 3247 | 3303 | ↓ 56 |
+| Real stress | 3250 | 3344 | ↓ 94 |
+| Avg est stress/session | 1082 | 1101 | ↓ 19 |
+| Avg real stress/session | 1083 | 1115 | ↓ 31 |
 
 - Top single: 180kg x 1 @ 9
 - Previous top single: 175kg x 1 @ 7.50
@@ -2619,6 +2996,10 @@ Comparison baseline: Mad Power Variation 1 / Week 1
 | Avg load | 122.7kg | 126.2kg | ↓ 3.5kg |
 | Tonnage | 5697.5kg | 7055kg | ↓ 1357.5kg |
 | Avg tonnage/session | 1899.2kg | 2351.7kg | ↓ 452.5kg |
+| Estimated stress | 3536 | 3894 | ↓ 358 |
+| Real stress | 4126 | 4696 | ↓ 569 |
+| Avg est stress/session | 1179 | 1298 | ↓ 120 |
+| Avg real stress/session | 1375 | 1565 | ↓ 190 |
 
 - Top single: 140kg x 1 @ 6.50
 - Previous top single: 137.5kg x 1 @ 6
@@ -2638,6 +3019,10 @@ Comparison baseline: Mad Power Variation 1 / Week 1
 | Avg load | 91.4kg | 89.6kg | ↑ 1.8kg |
 | Tonnage | 8651.5kg | 9267.5kg | ↓ 616kg |
 | Avg tonnage/session | 2162.9kg | 2316.9kg | ↓ 154kg |
+| Estimated stress | 3093 | 3308 | ↓ 215 |
+| Real stress | 4938 | 5009 | ↓ 70 |
+| Avg est stress/session | 773 | 827 | ↓ 54 |
+| Avg real stress/session | 1235 | 1252 | ↓ 18 |
 
 - Top single: 120kg x 1 @ 8
 - Previous top single: 115kg x 1 @ 7
@@ -2657,6 +3042,10 @@ Comparison baseline: Mad Power Variation 1 / Week 1
 | Avg load | 148.6kg | 147.1kg | ↑ 1.5kg |
 | Tonnage | 6100kg | 5530kg | ↑ 570kg |
 | Avg tonnage/session | 2033.3kg | 1843.3kg | ↑ 190kg |
+| Estimated stress | 3303 | 2698 | ↑ 606 |
+| Real stress | 3344 | 3897 | ↓ 553 |
+| Avg est stress/session | 1101 | 899 | ↑ 202 |
+| Avg real stress/session | 1115 | 1299 | ↓ 184 |
 
 - Top single: 175kg x 1 @ 7.50
 - Previous top single: 160kg x 1 @ 6
@@ -2694,6 +3083,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 6
 | Avg load | 126.2kg | 137kg | ↓ 10.8kg |
 | Tonnage | 7055kg | 3617.5kg | ↑ 3437.5kg |
 | Avg tonnage/session | 2351.7kg | 1205.8kg | ↑ 1145.9kg |
+| Estimated stress | 3894 | 2987 | ↑ 907 |
+| Real stress | 4696 | 2533 | ↑ 2163 |
+| Avg est stress/session | 1298 | 996 | ↑ 302 |
+| Avg real stress/session | 1565 | 844 | ↑ 721 |
 
 - Top single: 137.5kg x 1 @ 6
 - Previous top single: 160kg x 1 @ -
@@ -2713,6 +3106,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 6
 | Avg load | 89.6kg | 92kg | ↓ 2.4kg |
 | Tonnage | 9267.5kg | 7617.5kg | ↑ 1650kg |
 | Avg tonnage/session | 2316.9kg | 1904.4kg | ↑ 412.5kg |
+| Estimated stress | 3308 | 4066 | ↓ 758 |
+| Real stress | 5009 | 3062 | ↑ 1947 |
+| Avg est stress/session | 827 | 1017 | ↓ 190 |
+| Avg real stress/session | 1252 | 766 | ↑ 487 |
 
 - Top single: 115kg x 1 @ 7
 - Previous top single: 125kg x 1 @ 10
@@ -2732,6 +3129,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 6
 | Avg load | 147.1kg | 152kg | ↓ 4.9kg |
 | Tonnage | 5530kg | 5275kg | ↑ 255kg |
 | Avg tonnage/session | 1843.3kg | 1758.3kg | ↑ 85kg |
+| Estimated stress | 2698 | 2698 | → 0 |
+| Real stress | 3897 | 1520 | ↑ 2377 |
+| Avg est stress/session | 899 | 899 | → 0 |
+| Avg real stress/session | 1299 | 506 | ↑ 792 |
 
 - Top single: 160kg x 1 @ 6
 - Previous top single: 180kg x 1 @ -
@@ -2769,6 +3170,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 5
 | Avg load | 137kg | 134kg | ↑ 3kg |
 | Tonnage | 3617.5kg | 5282.5kg | ↓ 1665kg |
 | Avg tonnage/session | 1205.8kg | 1760.8kg | ↓ 555kg |
+| Estimated stress | 2987 | 3696 | ↓ 709 |
+| Real stress | 2533 | 4018 | ↓ 1486 |
+| Avg est stress/session | 996 | 1232 | ↓ 236 |
+| Avg real stress/session | 844 | 1340 | ↓ 495 |
 
 - Top single: 160kg x 1 @ -
 - Previous top single: 152.5kg x 1 @ 8.50
@@ -2788,6 +3193,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 5
 | Avg load | 92kg | 92.1kg | ↓ 0.1kg |
 | Tonnage | 7617.5kg | 7737.5kg | ↓ 120kg |
 | Avg tonnage/session | 1904.4kg | 1934.4kg | ↓ 30kg |
+| Estimated stress | 4066 | 4289 | ↓ 223 |
+| Real stress | 3062 | 3662 | ↓ 600 |
+| Avg est stress/session | 1017 | 1072 | ↓ 56 |
+| Avg real stress/session | 766 | 916 | ↓ 150 |
 
 - Top single: 125kg x 1 @ 10
 - Previous top single: 122.5kg x 1 @ 9
@@ -2807,6 +3216,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 5
 | Avg load | 152kg | 151.1kg | ↑ 0.9kg |
 | Tonnage | 5275kg | 6675kg | ↓ 1400kg |
 | Avg tonnage/session | 1758.3kg | 2225kg | ↓ 466.7kg |
+| Estimated stress | 2698 | 3280 | ↓ 582 |
+| Real stress | 1520 | 3706 | ↓ 2186 |
+| Avg est stress/session | 899 | 1093 | ↓ 194 |
+| Avg real stress/session | 506 | 1235 | ↓ 729 |
 
 - Top single: 180kg x 1 @ -
 - Previous top single: 185kg x 1 @ 9
@@ -2844,6 +3257,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 4
 | Avg load | 134kg | 129.4kg | ↑ 4.6kg |
 | Tonnage | 5282.5kg | 6605kg | ↓ 1322.5kg |
 | Avg tonnage/session | 1760.8kg | 2201.7kg | ↓ 440.9kg |
+| Estimated stress | 3696 | 4201 | ↓ 505 |
+| Real stress | 4018 | 4687 | ↓ 669 |
+| Avg est stress/session | 1232 | 1400 | ↓ 168 |
+| Avg real stress/session | 1340 | 1562 | ↓ 223 |
 
 - Top single: 152.5kg x 1 @ 8.50
 - Previous top single: 145kg x 1 @ 7
@@ -2863,6 +3280,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 4
 | Avg load | 92.1kg | 89kg | ↑ 3.1kg |
 | Tonnage | 7737.5kg | 8267.5kg | ↓ 530kg |
 | Avg tonnage/session | 1934.4kg | 2066.9kg | ↓ 132.5kg |
+| Estimated stress | 4289 | 4285 | ↑ 4 |
+| Real stress | 3662 | 4207 | ↓ 545 |
+| Avg est stress/session | 1072 | 1071 | ↑ 1 |
+| Avg real stress/session | 916 | 1052 | ↓ 136 |
 
 - Top single: 122.5kg x 1 @ 9
 - Previous top single: 117.5kg x 1 @ 8
@@ -2882,6 +3303,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 4
 | Avg load | 151.1kg | 148kg | ↑ 3.1kg |
 | Tonnage | 6675kg | 6965kg | ↓ 290kg |
 | Avg tonnage/session | 2225kg | 2321.7kg | ↓ 96.7kg |
+| Estimated stress | 3280 | 3213 | ↑ 67 |
+| Real stress | 3706 | 3412 | ↑ 294 |
+| Avg est stress/session | 1093 | 1071 | ↑ 22 |
+| Avg real stress/session | 1235 | 1137 | ↑ 98 |
 
 - Top single: 185kg x 1 @ 9
 - Previous top single: 175kg x 1 @ 8
@@ -2919,6 +3344,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 3
 | Avg load | 129.4kg | 124.8kg | ↑ 4.6kg |
 | Tonnage | 6605kg | 7402.5kg | ↓ 797.5kg |
 | Avg tonnage/session | 2201.7kg | 2467.5kg | ↓ 265.8kg |
+| Estimated stress | 4201 | 4667 | ↓ 466 |
+| Real stress | 4687 | 4897 | ↓ 210 |
+| Avg est stress/session | 1400 | 1556 | ↓ 155 |
+| Avg real stress/session | 1562 | 1632 | ↓ 70 |
 
 - Top single: 145kg x 1 @ 7
 - Previous top single: 137.5kg x 1 @ 6
@@ -2938,6 +3367,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 3
 | Avg load | 89kg | 88.1kg | ↑ 0.9kg |
 | Tonnage | 8267.5kg | 9276kg | ↓ 1008.5kg |
 | Avg tonnage/session | 2066.9kg | 2319kg | ↓ 252.1kg |
+| Estimated stress | 4285 | 4669 | ↓ 384 |
+| Real stress | 4207 | 5547 | ↓ 1340 |
+| Avg est stress/session | 1071 | 1167 | ↓ 96 |
+| Avg real stress/session | 1052 | 1387 | ↓ 335 |
 
 - Top single: 117.5kg x 1 @ 8
 - Previous top single: 111kg x 1 @ 6
@@ -2957,6 +3390,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 3
 | Avg load | 148kg | 145.7kg | ↑ 2.3kg |
 | Tonnage | 6965kg | 7047.5kg | ↓ 82.5kg |
 | Avg tonnage/session | 2321.7kg | 2349.2kg | ↓ 27.5kg |
+| Estimated stress | 3213 | 3303 | ↓ 90 |
+| Real stress | 3412 | 3456 | ↓ 44 |
+| Avg est stress/session | 1071 | 1101 | ↓ 30 |
+| Avg real stress/session | 1137 | 1152 | ↓ 15 |
 
 - Top single: 175kg x 1 @ 8
 - Previous top single: 172.5kg x 1 @ 7
@@ -2994,6 +3431,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 2
 | Avg load | 124.8kg | 119kg | ↑ 5.8kg |
 | Tonnage | 7402.5kg | 8227.5kg | ↓ 825kg |
 | Avg tonnage/session | 2467.5kg | 2742.5kg | ↓ 275kg |
+| Estimated stress | 4667 | 4562 | ↑ 105 |
+| Real stress | 4897 | 4685 | ↑ 212 |
+| Avg est stress/session | 1556 | 1521 | ↑ 35 |
+| Avg real stress/session | 1632 | 1562 | ↑ 71 |
 
 - Top single: 137.5kg x 1 @ 6
 - Previous top single: -
@@ -3013,6 +3454,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 2
 | Avg load | 88.1kg | 85kg | ↑ 3.1kg |
 | Tonnage | 9276kg | 10066kg | ↓ 790kg |
 | Avg tonnage/session | 2319kg | 2516.5kg | ↓ 197.5kg |
+| Estimated stress | 4669 | 4964 | ↓ 295 |
+| Real stress | 5547 | 5460 | ↑ 86 |
+| Avg est stress/session | 1167 | 1241 | ↓ 74 |
+| Avg real stress/session | 1387 | 1365 | ↑ 22 |
 
 - Top single: 111kg x 1 @ 6
 - Previous top single: -
@@ -3032,6 +3477,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 2
 | Avg load | 145.7kg | 143kg | ↑ 2.7kg |
 | Tonnage | 7047.5kg | 7695kg | ↓ 647.5kg |
 | Avg tonnage/session | 2349.2kg | 2565kg | ↓ 215.8kg |
+| Estimated stress | 3303 | 3711 | ↓ 408 |
+| Real stress | 3456 | 3626 | ↓ 170 |
+| Avg est stress/session | 1101 | 1237 | ↓ 136 |
+| Avg real stress/session | 1152 | 1209 | ↓ 57 |
 
 - Top single: 172.5kg x 1 @ 7
 - Previous top single: 160kg x 1 @ 6
@@ -3069,6 +3518,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 1
 | Avg load | 119kg | 114.6kg | ↑ 4.4kg |
 | Tonnage | 8227.5kg | 8000kg | ↑ 227.5kg |
 | Avg tonnage/session | 2742.5kg | 2666.7kg | ↑ 75.8kg |
+| Estimated stress | 4562 | 4066 | ↑ 497 |
+| Real stress | 4685 | 4144 | ↑ 541 |
+| Avg est stress/session | 1521 | 1355 | ↑ 166 |
+| Avg real stress/session | 1562 | 1381 | ↑ 180 |
 
 - Top single: -
 - Previous top single: 140kg x 1 @ 7
@@ -3088,6 +3541,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 1
 | Avg load | 85kg | 82.5kg | ↑ 2.5kg |
 | Tonnage | 10066kg | 13222.5kg | ↓ 3156.5kg |
 | Avg tonnage/session | 2516.5kg | 2644.5kg | ↓ 128kg |
+| Estimated stress | 4964 | 5272 | ↓ 307 |
+| Real stress | 5460 | 5666 | ↓ 206 |
+| Avg est stress/session | 1241 | 1054 | ↑ 187 |
+| Avg real stress/session | 1365 | 1133 | ↑ 232 |
 
 - Top single: -
 - Previous top single: 115kg x 1 @ 7
@@ -3107,6 +3564,10 @@ Comparison baseline: Mad Power 6 weeks v1 / Week 1
 | Avg load | 143kg | 138.4kg | ↑ 4.6kg |
 | Tonnage | 7695kg | 7842.5kg | ↓ 147.5kg |
 | Avg tonnage/session | 2565kg | 2614.2kg | ↓ 49.2kg |
+| Estimated stress | 3711 | 3490 | ↑ 221 |
+| Real stress | 3626 | 3348 | ↑ 278 |
+| Avg est stress/session | 1237 | 1163 | ↑ 74 |
+| Avg real stress/session | 1209 | 1116 | ↑ 93 |
 
 - Top single: 160kg x 1 @ 6
 - Previous top single: 170kg x 1 @ 7.50
@@ -3144,6 +3605,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 6
 | Avg load | 114.6kg | 138.1kg | ↓ 23.5kg |
 | Tonnage | 8000kg | 4540kg | ↑ 3460kg |
 | Avg tonnage/session | 2666.7kg | 1513.3kg | ↑ 1153.4kg |
+| Estimated stress | 4066 | 2713 | ↑ 1353 |
+| Real stress | 4144 | 2722 | ↑ 1422 |
+| Avg est stress/session | 1355 | 904 | ↑ 451 |
+| Avg real stress/session | 1381 | 907 | ↑ 474 |
 
 - Top single: 140kg x 1 @ 7
 - Previous top single: 170kg x 1 @ 9.50
@@ -3163,6 +3628,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 6
 | Avg load | 82.5kg | 97.6kg | ↓ 15.1kg |
 | Tonnage | 13222.5kg | 4668.5kg | ↑ 8554kg |
 | Avg tonnage/session | 2644.5kg | 1167.1kg | ↑ 1477.4kg |
+| Estimated stress | 5272 | 1955 | ↑ 3317 |
+| Real stress | 5666 | 2864 | ↑ 2802 |
+| Avg est stress/session | 1054 | 489 | ↑ 566 |
+| Avg real stress/session | 1133 | 716 | ↑ 417 |
 
 - Top single: 115kg x 1 @ 7
 - Previous top single: 130kg x 1 @ 10
@@ -3182,6 +3651,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 6
 | Avg load | 138.4kg | 149.3kg | ↓ 10.9kg |
 | Tonnage | 7842.5kg | 6612.5kg | ↑ 1230kg |
 | Avg tonnage/session | 2614.2kg | 2204.2kg | ↑ 410kg |
+| Estimated stress | 3490 | 1511 | ↑ 1979 |
+| Real stress | 3348 | 1766 | ↑ 1582 |
+| Avg est stress/session | 1163 | 504 | ↑ 660 |
+| Avg real stress/session | 1116 | 589 | ↑ 527 |
 
 - Top single: 170kg x 1 @ 7.50
 - Previous top single: 190kg x 1 @ 9.50
@@ -3219,6 +3692,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 5
 | Avg load | 138.1kg | 140.2kg | ↓ 2.1kg |
 | Tonnage | 4540kg | 3862.5kg | ↑ 677.5kg |
 | Avg tonnage/session | 1513.3kg | 1287.5kg | ↑ 225.8kg |
+| Estimated stress | 2713 | 2698 | ↑ 15 |
+| Real stress | 2722 | 3042 | ↓ 320 |
+| Avg est stress/session | 904 | 899 | ↑ 5 |
+| Avg real stress/session | 907 | 1014 | ↓ 107 |
 
 - Top single: 170kg x 1 @ 9.50
 - Previous top single: 152.5kg x 1 @ 7.50
@@ -3238,6 +3715,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 5
 | Avg load | 97.6kg | 97.9kg | ↓ 0.3kg |
 | Tonnage | 4668.5kg | 4078.5kg | ↑ 590kg |
 | Avg tonnage/session | 1167.1kg | 1019.6kg | ↑ 147.5kg |
+| Estimated stress | 1955 | 2039 | ↓ 84 |
+| Real stress | 2864 | 2311 | ↑ 553 |
+| Avg est stress/session | 489 | 510 | ↓ 21 |
+| Avg real stress/session | 716 | 578 | ↑ 138 |
 
 - Top single: 130kg x 1 @ 10
 - Previous top single: 120kg x 1 @ 8
@@ -3257,6 +3738,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 5
 | Avg load | 149.3kg | 149.6kg | ↓ 0.3kg |
 | Tonnage | 6612.5kg | 6675kg | ↓ 62.5kg |
 | Avg tonnage/session | 2204.2kg | 2225kg | ↓ 20.8kg |
+| Estimated stress | 1511 | 1670 | ↓ 159 |
+| Real stress | 1766 | 1985 | ↓ 219 |
+| Avg est stress/session | 504 | 557 | ↓ 53 |
+| Avg real stress/session | 589 | 662 | ↓ 73 |
 
 - Top single: 190kg x 1 @ 9.50
 - Previous top single: 185kg x 1 @ 10
@@ -3294,6 +3779,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 4
 | Avg load | 140.2kg | 137.1kg | ↑ 3.1kg |
 | Tonnage | 3862.5kg | 5290kg | ↓ 1427.5kg |
 | Avg tonnage/session | 1287.5kg | 1763.3kg | ↓ 475.8kg |
+| Estimated stress | 2698 | 3282 | ↓ 584 |
+| Real stress | 3042 | 3729 | ↓ 687 |
+| Avg est stress/session | 899 | 1094 | ↓ 195 |
+| Avg real stress/session | 1014 | 1243 | ↓ 229 |
 
 - Top single: 152.5kg x 1 @ 7.50
 - Previous top single: 140kg x 1 @ 7.50
@@ -3313,6 +3802,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 4
 | Avg load | 97.9kg | 95.7kg | ↑ 2.2kg |
 | Tonnage | 4078.5kg | 5576kg | ↓ 1497.5kg |
 | Avg tonnage/session | 1019.6kg | 1394kg | ↓ 374.4kg |
+| Estimated stress | 2039 | 2455 | ↓ 416 |
+| Real stress | 2311 | 3232 | ↓ 921 |
+| Avg est stress/session | 510 | 614 | ↓ 104 |
+| Avg real stress/session | 578 | 808 | ↓ 230 |
 
 - Top single: 120kg x 1 @ 8
 - Previous top single: 113.5kg x 1 @ 8.50
@@ -3332,6 +3825,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 4
 | Avg load | 149.6kg | 146kg | ↑ 3.6kg |
 | Tonnage | 6675kg | 7407.5kg | ↓ 732.5kg |
 | Avg tonnage/session | 2225kg | 2469.2kg | ↓ 244.2kg |
+| Estimated stress | 1670 | 1901 | ↓ 231 |
+| Real stress | 1985 | 2152 | ↓ 166 |
+| Avg est stress/session | 557 | 634 | ↓ 77 |
+| Avg real stress/session | 662 | 717 | ↓ 56 |
 
 - Top single: 185kg x 1 @ 10
 - Previous top single: 175kg x 1 @ 8
@@ -3369,6 +3866,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 3
 | Avg load | 137.1kg | 136kg | ↑ 1.1kg |
 | Tonnage | 5290kg | 5097.5kg | ↑ 192.5kg |
 | Avg tonnage/session | 1763.3kg | 1699.2kg | ↑ 64.1kg |
+| Estimated stress | 3282 | 2964 | ↑ 318 |
+| Real stress | 3729 | 3175 | ↑ 554 |
+| Avg est stress/session | 1094 | 988 | ↑ 106 |
+| Avg real stress/session | 1243 | 1058 | ↑ 185 |
 
 - Top single: 140kg x 1 @ 7.50
 - Previous top single: 140kg x 1 @ 8
@@ -3388,6 +3889,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 3
 | Avg load | 95.7kg | 94.9kg | ↑ 0.8kg |
 | Tonnage | 5576kg | 5910.5kg | ↓ 334.5kg |
 | Avg tonnage/session | 1394kg | 1477.6kg | ↓ 83.6kg |
+| Estimated stress | 2455 | 2251 | ↑ 205 |
+| Real stress | 3232 | 3319 | ↓ 87 |
+| Avg est stress/session | 614 | 563 | ↑ 51 |
+| Avg real stress/session | 808 | 830 | ↓ 22 |
 
 - Top single: 113.5kg x 1 @ 8.50
 - Previous top single: 112.5kg x 1 @ 7.50
@@ -3407,6 +3912,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 3
 | Avg load | 146kg | 144kg | ↑ 2kg |
 | Tonnage | 7407.5kg | 7102.5kg | ↑ 305kg |
 | Avg tonnage/session | 2469.2kg | 2367.5kg | ↑ 101.7kg |
+| Estimated stress | 1901 | 1693 | ↑ 208 |
+| Real stress | 2152 | 1888 | ↑ 264 |
+| Avg est stress/session | 634 | 564 | ↑ 70 |
+| Avg real stress/session | 717 | 629 | ↑ 88 |
 
 - Top single: 175kg x 1 @ 8
 - Previous top single: 175kg x 1 @ 7.50
@@ -3444,6 +3953,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 2
 | Avg load | 136kg | 129.8kg | ↑ 6.2kg |
 | Tonnage | 5097.5kg | 6130kg | ↓ 1032.5kg |
 | Avg tonnage/session | 1699.2kg | 2043.3kg | ↓ 344.1kg |
+| Estimated stress | 2964 | 3062 | ↓ 98 |
+| Real stress | 3175 | 3591 | ↓ 416 |
+| Avg est stress/session | 988 | 1021 | ↓ 33 |
+| Avg real stress/session | 1058 | 1197 | ↓ 139 |
 
 - Top single: 140kg x 1 @ 8
 - Previous top single: 130kg x 1 @ 7
@@ -3463,6 +3976,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 2
 | Avg load | 94.9kg | 93.3kg | ↑ 1.6kg |
 | Tonnage | 5910.5kg | 5885.5kg | ↑ 25kg |
 | Avg tonnage/session | 1477.6kg | 1471.4kg | ↑ 6.2kg |
+| Estimated stress | 2251 | 2494 | ↓ 243 |
+| Real stress | 3319 | 3440 | ↓ 121 |
+| Avg est stress/session | 563 | 624 | ↓ 61 |
+| Avg real stress/session | 830 | 860 | ↓ 30 |
 
 - Top single: 112.5kg x 1 @ 7.50
 - Previous top single: 112.5kg x 1 @ 8
@@ -3482,6 +3999,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 2
 | Avg load | 144kg | 139.6kg | ↑ 4.4kg |
 | Tonnage | 7102.5kg | 7710kg | ↓ 607.5kg |
 | Avg tonnage/session | 2367.5kg | 2570kg | ↓ 202.5kg |
+| Estimated stress | 1693 | 1873 | ↓ 180 |
+| Real stress | 1888 | 2465 | ↓ 577 |
+| Avg est stress/session | 564 | 624 | ↓ 60 |
+| Avg real stress/session | 629 | 822 | ↓ 192 |
 
 - Top single: 175kg x 1 @ 7.50
 - Previous top single: 172.5kg x 1 @ 7.50
@@ -3519,6 +4040,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 1
 | Avg load | 129.8kg | 120.6kg | ↑ 9.2kg |
 | Tonnage | 6130kg | 3925kg | ↑ 2205kg |
 | Avg tonnage/session | 2043.3kg | 1962.5kg | ↑ 80.8kg |
+| Estimated stress | 3062 | 1690 | ↑ 1372 |
+| Real stress | 3591 | 2148 | ↑ 1444 |
+| Avg est stress/session | 1021 | 845 | ↑ 176 |
+| Avg real stress/session | 1197 | 1074 | ↑ 123 |
 
 - Top single: 130kg x 1 @ 7
 - Previous top single: 120kg x 1 @ 6
@@ -3538,6 +4063,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 1
 | Avg load | 93.3kg | 86kg | ↑ 7.3kg |
 | Tonnage | 5885.5kg | 6627.5kg | ↓ 742kg |
 | Avg tonnage/session | 1471.4kg | 1656.9kg | ↓ 185.5kg |
+| Estimated stress | 2494 | 2026 | ↑ 468 |
+| Real stress | 3440 | 2114 | ↑ 1326 |
+| Avg est stress/session | 624 | 506 | ↑ 117 |
+| Avg real stress/session | 860 | 529 | ↑ 331 |
 
 - Top single: 112.5kg x 1 @ 8
 - Previous top single: 120kg x 1 @ 9
@@ -3557,6 +4086,10 @@ Comparison baseline: Mad Power 6 Weeks v2 / Week 1
 | Avg load | 139.6kg | 152.2kg | ↓ 12.6kg |
 | Tonnage | 7710kg | 4717.5kg | ↑ 2992.5kg |
 | Avg tonnage/session | 2570kg | 2358.8kg | ↑ 211.2kg |
+| Estimated stress | 1873 | 2091 | ↓ 218 |
+| Real stress | 2465 | 2857 | ↓ 392 |
+| Avg est stress/session | 624 | 1046 | ↓ 421 |
+| Avg real stress/session | 822 | 1428 | ↓ 607 |
 
 - Top single: 172.5kg x 1 @ 7.50
 - Previous top single: 172.5kg x 1 @ 7.50
@@ -3594,6 +4127,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 5
 | Avg load | 120.6kg | 137.5kg | ↓ 16.9kg |
 | Tonnage | 3925kg | 6260kg | ↓ 2335kg |
 | Avg tonnage/session | 1962.5kg | 2086.7kg | ↓ 124.2kg |
+| Estimated stress | 1690 | 710 | ↑ 980 |
+| Real stress | 2148 | 3227 | ↓ 1079 |
+| Avg est stress/session | 845 | 237 | ↑ 608 |
+| Avg real stress/session | 1074 | 1076 | ↓ 2 |
 
 - Top single: 120kg x 1 @ 6
 - Previous top single: 170kg x 1 @ 9.50
@@ -3613,6 +4150,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 5
 | Avg load | 86kg | 100.9kg | ↓ 14.9kg |
 | Tonnage | 6627.5kg | 4827.5kg | ↑ 1800kg |
 | Avg tonnage/session | 1656.9kg | 1206.9kg | ↑ 450kg |
+| Estimated stress | 2026 | 659 | ↑ 1366 |
+| Real stress | 2114 | 3375 | ↓ 1261 |
+| Avg est stress/session | 506 | 165 | ↑ 342 |
+| Avg real stress/session | 529 | 844 | ↓ 315 |
 
 - Top single: 120kg x 1 @ 9
 - Previous top single: 132.5kg x 1 @ 10
@@ -3632,6 +4173,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 5
 | Avg load | 152.2kg | 140kg | ↑ 12.2kg |
 | Tonnage | 4717.5kg | 7040kg | ↓ 2322.5kg |
 | Avg tonnage/session | 2358.8kg | 2346.7kg | ↑ 12.1kg |
+| Estimated stress | 2091 | 868 | ↑ 1223 |
+| Real stress | 2857 | 1886 | ↑ 971 |
+| Avg est stress/session | 1046 | 290 | ↑ 756 |
+| Avg real stress/session | 1428 | 629 | ↑ 800 |
 
 - Top single: 172.5kg x 1 @ 7.50
 - Previous top single: 190kg x 1 @ -
@@ -3669,6 +4214,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 4
 | Avg load | 137.5kg | 137.1kg | ↑ 0.4kg |
 | Tonnage | 6260kg | 4955kg | ↑ 1305kg |
 | Avg tonnage/session | 2086.7kg | 1651.7kg | ↑ 435kg |
+| Estimated stress | 710 | 612 | ↑ 99 |
+| Real stress | 3227 | 2751 | ↑ 475 |
+| Avg est stress/session | 237 | 204 | ↑ 33 |
+| Avg real stress/session | 1076 | 917 | ↑ 158 |
 
 - Top single: 170kg x 1 @ 9.50
 - Previous top single: 157.5kg x 1 @ 9
@@ -3688,6 +4237,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 4
 | Avg load | 100.9kg | 101kg | ↓ 0.1kg |
 | Tonnage | 4827.5kg | 4635kg | ↑ 192.5kg |
 | Avg tonnage/session | 1206.9kg | 1158.8kg | ↑ 48.1kg |
+| Estimated stress | 659 | 676 | ↓ 17 |
+| Real stress | 3375 | 2855 | ↑ 520 |
+| Avg est stress/session | 165 | 169 | ↓ 4 |
+| Avg real stress/session | 844 | 714 | ↑ 130 |
 
 - Top single: 132.5kg x 1 @ 10
 - Previous top single: 125kg x 1 @ 9
@@ -3707,6 +4260,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 4
 | Avg load | 140kg | 143.1kg | ↓ 3.1kg |
 | Tonnage | 7040kg | 7317.5kg | ↓ 277.5kg |
 | Avg tonnage/session | 2346.7kg | 2439.2kg | ↓ 92.5kg |
+| Estimated stress | 868 | 920 | ↓ 51 |
+| Real stress | 1886 | 2406 | ↓ 521 |
+| Avg est stress/session | 290 | 307 | ↓ 17 |
+| Avg real stress/session | 629 | 802 | ↓ 174 |
 
 - Top single: 190kg x 1 @ -
 - Previous top single: 185kg x 1 @ 9
@@ -3744,6 +4301,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 3
 | Avg load | 137.1kg | 135.4kg | ↑ 1.7kg |
 | Tonnage | 4955kg | 5835kg | ↓ 880kg |
 | Avg tonnage/session | 1651.7kg | 1945kg | ↓ 293.3kg |
+| Estimated stress | 612 | 649 | ↓ 37 |
+| Real stress | 2751 | 3603 | ↓ 852 |
+| Avg est stress/session | 204 | 216 | ↓ 12 |
+| Avg real stress/session | 917 | 1201 | ↓ 284 |
 
 - Top single: 157.5kg x 1 @ 9
 - Previous top single: -
@@ -3763,6 +4324,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 3
 | Avg load | 101kg | 99.2kg | ↑ 1.8kg |
 | Tonnage | 4635kg | 6365kg | ↓ 1730kg |
 | Avg tonnage/session | 1158.8kg | 1591.2kg | ↓ 432.4kg |
+| Estimated stress | 676 | 667 | ↑ 9 |
+| Real stress | 2855 | 4397 | ↓ 1542 |
+| Avg est stress/session | 169 | 167 | ↑ 2 |
+| Avg real stress/session | 714 | 1099 | ↓ 386 |
 
 - Top single: 125kg x 1 @ 9
 - Previous top single: 115kg x 1 @ 8
@@ -3782,6 +4347,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 3
 | Avg load | 143.1kg | 136kg | ↑ 7.1kg |
 | Tonnage | 7317.5kg | 7972.5kg | ↓ 655kg |
 | Avg tonnage/session | 2439.2kg | 2657.5kg | ↓ 218.3kg |
+| Estimated stress | 920 | 753 | ↑ 167 |
+| Real stress | 2406 | 2304 | ↑ 102 |
+| Avg est stress/session | 307 | 251 | ↑ 56 |
+| Avg real stress/session | 802 | 768 | ↑ 34 |
 
 - Top single: 185kg x 1 @ 9
 - Previous top single: 182.5kg x 1 @ 8.50
@@ -3819,6 +4388,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 2
 | Avg load | 135.4kg | 132.3kg | ↑ 3.1kg |
 | Tonnage | 5835kg | 7735kg | ↓ 1900kg |
 | Avg tonnage/session | 1945kg | 2578.3kg | ↓ 633.3kg |
+| Estimated stress | 649 | 634 | ↑ 15 |
+| Real stress | 3603 | 4815 | ↓ 1212 |
+| Avg est stress/session | 216 | 211 | ↑ 5 |
+| Avg real stress/session | 1201 | 1605 | ↓ 404 |
 
 - Top single: -
 - Previous top single: -
@@ -3838,6 +4411,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 2
 | Avg load | 99.2kg | 98.1kg | ↑ 1.1kg |
 | Tonnage | 6365kg | 5977.5kg | ↑ 387.5kg |
 | Avg tonnage/session | 1591.2kg | 1494.4kg | ↑ 96.8kg |
+| Estimated stress | 667 | 658 | ↑ 9 |
+| Real stress | 4397 | 4018 | ↑ 380 |
+| Avg est stress/session | 167 | 164 | ↑ 2 |
+| Avg real stress/session | 1099 | 1004 | ↑ 95 |
 
 - Top single: 115kg x 1 @ 8
 - Previous top single: 115kg x 1 @ 8.50
@@ -3857,6 +4434,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 2
 | Avg load | 136kg | 150.9kg | ↓ 14.9kg |
 | Tonnage | 7972.5kg | 7702.5kg | ↑ 270kg |
 | Avg tonnage/session | 2657.5kg | 2567.5kg | ↑ 90kg |
+| Estimated stress | 753 | 748 | ↑ 5 |
+| Real stress | 2304 | 2331 | ↓ 27 |
+| Avg est stress/session | 251 | 249 | ↑ 2 |
+| Avg real stress/session | 768 | 777 | ↓ 9 |
 
 - Top single: 182.5kg x 1 @ 8.50
 - Previous top single: -
@@ -3894,6 +4475,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 1
 | Avg load | 132.3kg | 129.3kg | ↑ 3kg |
 | Tonnage | 7735kg | 7634.5kg | ↑ 100.5kg |
 | Avg tonnage/session | 2578.3kg | 2544.8kg | ↑ 33.5kg |
+| Estimated stress | 634 | 612 | ↑ 23 |
+| Real stress | 4815 | 3909 | ↑ 906 |
+| Avg est stress/session | 211 | 204 | ↑ 8 |
+| Avg real stress/session | 1605 | 1303 | ↑ 302 |
 
 - Top single: -
 - Previous top single: -
@@ -3913,6 +4498,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 1
 | Avg load | 98.1kg | 95.3kg | ↑ 2.8kg |
 | Tonnage | 5977.5kg | 6820kg | ↓ 842.5kg |
 | Avg tonnage/session | 1494.4kg | 1705kg | ↓ 210.6kg |
+| Estimated stress | 658 | 635 | ↑ 22 |
+| Real stress | 4018 | 3710 | ↑ 308 |
+| Avg est stress/session | 164 | 159 | ↑ 6 |
+| Avg real stress/session | 1004 | 927 | ↑ 77 |
 
 - Top single: 115kg x 1 @ 8.50
 - Previous top single: 115kg x 1 @ 8.50
@@ -3932,6 +4521,10 @@ Comparison baseline: Mad Power 5 Weeks v3 / Week 1
 | Avg load | 150.9kg | 148.3kg | ↑ 2.6kg |
 | Tonnage | 7702.5kg | 9175kg | ↓ 1472.5kg |
 | Avg tonnage/session | 2567.5kg | 3058.3kg | ↓ 490.8kg |
+| Estimated stress | 748 | 1022 | ↓ 274 |
+| Real stress | 2331 | 3633 | ↓ 1302 |
+| Avg est stress/session | 249 | 341 | ↓ 91 |
+| Avg real stress/session | 777 | 1211 | ↓ 434 |
 
 - Top single: -
 - Previous top single: -
@@ -3969,6 +4562,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 5
 | Avg load | 129.3kg | 140.6kg | ↓ 11.3kg |
 | Tonnage | 7634.5kg | 6057.5kg | ↑ 1577kg |
 | Avg tonnage/session | 2544.8kg | 2019.2kg | ↑ 525.6kg |
+| Estimated stress | 612 | 710 | ↓ 99 |
+| Real stress | 3909 | 3794 | ↑ 115 |
+| Avg est stress/session | 204 | 237 | ↓ 33 |
+| Avg real stress/session | 1303 | 1265 | ↑ 38 |
 
 - Top single: -
 - Previous top single: 170kg x 1 @ 9.50
@@ -3988,6 +4585,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 5
 | Avg load | 95.3kg | 100.4kg | ↓ 5.1kg |
 | Tonnage | 6820kg | 4535kg | ↑ 2285kg |
 | Avg tonnage/session | 1705kg | 1133.8kg | ↑ 571.2kg |
+| Estimated stress | 635 | 685 | ↓ 50 |
+| Real stress | 3710 | 3261 | ↑ 448 |
+| Avg est stress/session | 159 | 171 | ↓ 12 |
+| Avg real stress/session | 927 | 815 | ↑ 112 |
 
 - Top single: 115kg x 1 @ 8.50
 - Previous top single: 130kg x 1 @ 10
@@ -4007,6 +4608,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 5
 | Avg load | 148.3kg | 151.4kg | ↓ 3.1kg |
 | Tonnage | 9175kg | 7450kg | ↑ 1725kg |
 | Avg tonnage/session | 3058.3kg | 2483.3kg | ↑ 575kg |
+| Estimated stress | 1022 | 920 | ↑ 102 |
+| Real stress | 3633 | 958 | ↑ 2675 |
+| Avg est stress/session | 341 | 307 | ↑ 34 |
+| Avg real stress/session | 1211 | 319 | ↑ 892 |
 
 - Top single: -
 - Previous top single: 200kg x 1 @ -
@@ -4044,6 +4649,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 4
 | Avg load | 140.6kg | 142.2kg | ↓ 1.6kg |
 | Tonnage | 6057.5kg | 4905.5kg | ↑ 1152kg |
 | Avg tonnage/session | 2019.2kg | 1635.2kg | ↑ 384kg |
+| Estimated stress | 710 | 710 | → 0 |
+| Real stress | 3794 | 3231 | ↑ 563 |
+| Avg est stress/session | 237 | 237 | → 0 |
+| Avg real stress/session | 1265 | 1077 | ↑ 188 |
 
 - Top single: 170kg x 1 @ 9.50
 - Previous top single: 160kg x 1 @ 9
@@ -4063,6 +4672,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 4
 | Avg load | 100.4kg | 99.7kg | ↑ 0.7kg |
 | Tonnage | 4535kg | 4722.5kg | ↓ 187.5kg |
 | Avg tonnage/session | 1133.8kg | 1180.6kg | ↓ 46.8kg |
+| Estimated stress | 685 | 670 | ↑ 15 |
+| Real stress | 3261 | 3305 | ↓ 44 |
+| Avg est stress/session | 171 | 167 | ↑ 4 |
+| Avg real stress/session | 815 | 826 | ↓ 11 |
 
 - Top single: 130kg x 1 @ 10
 - Previous top single: 122.5kg x 1 @ 9
@@ -4082,6 +4695,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 4
 | Avg load | 151.4kg | 152.9kg | ↓ 1.5kg |
 | Tonnage | 7450kg | 9130kg | ↓ 1680kg |
 | Avg tonnage/session | 2483.3kg | 3043.3kg | ↓ 560kg |
+| Estimated stress | 920 | 1280 | ↓ 360 |
+| Real stress | 958 | 3170 | ↓ 2212 |
+| Avg est stress/session | 307 | 427 | ↓ 120 |
+| Avg real stress/session | 319 | 1057 | ↓ 737 |
 
 - Top single: 200kg x 1 @ -
 - Previous top single: 185kg x 1 @ 9
@@ -4119,6 +4736,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 3
 | Avg load | 142.2kg | 135.1kg | ↑ 7.1kg |
 | Tonnage | 4905.5kg | 7075.5kg | ↓ 2170kg |
 | Avg tonnage/session | 1635.2kg | 2358.5kg | ↓ 723.3kg |
+| Estimated stress | 710 | 626 | ↑ 84 |
+| Real stress | 3231 | 3861 | ↓ 630 |
+| Avg est stress/session | 237 | 209 | ↑ 28 |
+| Avg real stress/session | 1077 | 1287 | ↓ 210 |
 
 - Top single: 160kg x 1 @ 9
 - Previous top single: -
@@ -4138,6 +4759,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 3
 | Avg load | 99.7kg | 96.5kg | ↑ 3.2kg |
 | Tonnage | 4722.5kg | 7102kg | ↓ 2379.5kg |
 | Avg tonnage/session | 1180.6kg | 1775.5kg | ↓ 594.9kg |
+| Estimated stress | 670 | 661 | ↑ 8 |
+| Real stress | 3305 | 4772 | ↓ 1467 |
+| Avg est stress/session | 167 | 165 | ↑ 2 |
+| Avg real stress/session | 826 | 1193 | ↓ 367 |
 
 - Top single: 122.5kg x 1 @ 9
 - Previous top single: 112.5kg x 1 @ 8.50
@@ -4157,6 +4782,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 3
 | Avg load | 152.9kg | 153.3kg | ↓ 0.4kg |
 | Tonnage | 9130kg | 8690kg | ↑ 440kg |
 | Avg tonnage/session | 3043.3kg | 2896.7kg | ↑ 146.6kg |
+| Estimated stress | 1280 | 1155 | ↑ 125 |
+| Real stress | 3170 | 2610 | ↑ 560 |
+| Avg est stress/session | 427 | 385 | ↑ 42 |
+| Avg real stress/session | 1057 | 870 | ↑ 187 |
 
 - Top single: 185kg x 1 @ 9
 - Previous top single: 180kg x 1 @ 7.50
@@ -4194,6 +4823,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 2
 | Avg load | 135.1kg | 129.7kg | ↑ 5.4kg |
 | Tonnage | 7075.5kg | 7290.5kg | ↓ 215kg |
 | Avg tonnage/session | 2358.5kg | 2430.2kg | ↓ 71.7kg |
+| Estimated stress | 626 | 549 | ↑ 77 |
+| Real stress | 3861 | 3841 | ↑ 20 |
+| Avg est stress/session | 209 | 183 | ↑ 26 |
+| Avg real stress/session | 1287 | 1280 | ↑ 7 |
 
 - Top single: -
 - Previous top single: -
@@ -4213,6 +4846,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 2
 | Avg load | 96.5kg | 94.9kg | ↑ 1.6kg |
 | Tonnage | 7102kg | 7188.5kg | ↓ 86.5kg |
 | Avg tonnage/session | 1775.5kg | 1797.1kg | ↓ 21.6kg |
+| Estimated stress | 661 | - | n/a |
+| Real stress | 4772 | 3536 | ↑ 1235 |
+| Avg est stress/session | 165 | - | n/a |
+| Avg real stress/session | 1193 | 884 | ↑ 309 |
 
 - Top single: 112.5kg x 1 @ 8.50
 - Previous top single: 112.5kg x 1 @ 9
@@ -4232,6 +4869,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 2
 | Avg load | 153.3kg | 149.8kg | ↑ 3.5kg |
 | Tonnage | 8690kg | 8632.5kg | ↑ 57.5kg |
 | Avg tonnage/session | 2896.7kg | 2877.5kg | ↑ 19.2kg |
+| Estimated stress | 1155 | 1101 | ↑ 54 |
+| Real stress | 2610 | 2354 | ↑ 256 |
+| Avg est stress/session | 385 | 367 | ↑ 18 |
+| Avg real stress/session | 870 | 785 | ↑ 85 |
 
 - Top single: 180kg x 1 @ 7.50
 - Previous top single: -
@@ -4269,6 +4910,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 1
 | Avg load | 129.7kg | 129kg | ↑ 0.7kg |
 | Tonnage | 7290.5kg | 7475kg | ↓ 184.5kg |
 | Avg tonnage/session | 2430.2kg | 2491.7kg | ↓ 61.5kg |
+| Estimated stress | 549 | 549 | → 0 |
+| Real stress | 3841 | 3681 | ↑ 160 |
+| Avg est stress/session | 183 | 183 | → 0 |
+| Avg real stress/session | 1280 | 1227 | ↑ 54 |
 
 - Top single: -
 - Previous top single: -
@@ -4288,6 +4933,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 1
 | Avg load | 94.9kg | 94.1kg | ↑ 0.8kg |
 | Tonnage | 7188.5kg | 8080kg | ↓ 891.5kg |
 | Avg tonnage/session | 1797.1kg | 2020kg | ↓ 222.9kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 3536 | 4088 | ↓ 552 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 884 | 1022 | ↓ 138 |
 
 - Top single: 112.5kg x 1 @ 9
 - Previous top single: -
@@ -4307,6 +4956,10 @@ Comparison baseline: Mad Power 5 Weeks v2 / Week 1
 | Avg load | 149.8kg | 147kg | ↑ 2.8kg |
 | Tonnage | 8632.5kg | 9847.5kg | ↓ 1215kg |
 | Avg tonnage/session | 2877.5kg | 3282.5kg | ↓ 405kg |
+| Estimated stress | 1101 | 1083 | ↑ 18 |
+| Real stress | 2354 | 2598 | ↓ 244 |
+| Avg est stress/session | 367 | 361 | ↑ 6 |
+| Avg real stress/session | 785 | 866 | ↓ 81 |
 
 - Top single: -
 - Previous top single: -
@@ -4344,6 +4997,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 5
 | Avg load | 129kg | 138.4kg | ↓ 9.4kg |
 | Tonnage | 7475kg | 4452.5kg | ↑ 3022.5kg |
 | Avg tonnage/session | 2491.7kg | 1484.2kg | ↑ 1007.5kg |
+| Estimated stress | 549 | 612 | ↓ 62 |
+| Real stress | 3681 | 2791 | ↑ 890 |
+| Avg est stress/session | 183 | 204 | ↓ 21 |
+| Avg real stress/session | 1227 | 930 | ↑ 297 |
 
 - Top single: -
 - Previous top single: 172.5kg x 1 @ 10
@@ -4363,6 +5020,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 5
 | Avg load | 94.1kg | 98.7kg | ↓ 4.6kg |
 | Tonnage | 8080kg | 5400kg | ↑ 2680kg |
 | Avg tonnage/session | 2020kg | 1350kg | ↑ 670kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 4088 | 3450 | ↑ 639 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 1022 | 862 | ↑ 160 |
 
 - Top single: -
 - Previous top single: 130kg x 1 @ 10
@@ -4382,6 +5043,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 5
 | Avg load | 147kg | 148.2kg | ↓ 1.2kg |
 | Tonnage | 9847.5kg | 7772.5kg | ↑ 2075kg |
 | Avg tonnage/session | 3282.5kg | 2590.8kg | ↑ 691.7kg |
+| Estimated stress | 1083 | 1222 | ↓ 139 |
+| Real stress | 2598 | 1650 | ↑ 948 |
+| Avg est stress/session | 361 | 407 | ↓ 46 |
+| Avg real stress/session | 866 | 550 | ↑ 316 |
 
 - Top single: -
 - Previous top single: 197.5kg x 1 @ -
@@ -4419,6 +5084,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 4
 | Avg load | 138.4kg | 139.6kg | ↓ 1.2kg |
 | Tonnage | 4452.5kg | 4782.5kg | ↓ 330kg |
 | Avg tonnage/session | 1484.2kg | 1594.2kg | ↓ 110kg |
+| Estimated stress | 612 | 630 | ↓ 18 |
+| Real stress | 2791 | 3049 | ↓ 258 |
+| Avg est stress/session | 204 | 210 | ↓ 6 |
+| Avg real stress/session | 930 | 1016 | ↓ 86 |
 
 - Top single: 172.5kg x 1 @ 10
 - Previous top single: 160kg x 1 @ 8
@@ -4438,6 +5107,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 4
 | Avg load | 98.7kg | 99kg | ↓ 0.3kg |
 | Tonnage | 5400kg | 4782.5kg | ↑ 617.5kg |
 | Avg tonnage/session | 1350kg | 1195.6kg | ↑ 154.4kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 3450 | 2750 | ↑ 700 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 862 | 687 | ↑ 175 |
 
 - Top single: 130kg x 1 @ 10
 - Previous top single: 122.5kg x 1 @ 8.50
@@ -4457,6 +5130,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 4
 | Avg load | 148.2kg | 148.8kg | ↓ 0.6kg |
 | Tonnage | 7772.5kg | 8217.5kg | ↓ 445kg |
 | Avg tonnage/session | 2590.8kg | 2739.2kg | ↓ 148.4kg |
+| Estimated stress | 1222 | 1011 | ↑ 212 |
+| Real stress | 1650 | 2121 | ↓ 471 |
+| Avg est stress/session | 407 | 337 | ↑ 70 |
+| Avg real stress/session | 550 | 707 | ↓ 157 |
 
 - Top single: 197.5kg x 1 @ -
 - Previous top single: 180kg x 1 @ 8.50
@@ -4494,6 +5171,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 3
 | Avg load | 139.6kg | 124kg | ↑ 15.6kg |
 | Tonnage | 4782.5kg | 8027.5kg | ↓ 3245kg |
 | Avg tonnage/session | 1594.2kg | 2675.8kg | ↓ 1081.6kg |
+| Estimated stress | 630 | 427 | ↑ 203 |
+| Real stress | 3049 | 3895 | ↓ 846 |
+| Avg est stress/session | 210 | 142 | ↑ 68 |
+| Avg real stress/session | 1016 | 1298 | ↓ 282 |
 
 - Top single: 160kg x 1 @ 8
 - Previous top single: -
@@ -4513,6 +5194,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 3
 | Avg load | 99kg | 97.2kg | ↑ 1.8kg |
 | Tonnage | 4782.5kg | 5209kg | ↓ 426.5kg |
 | Avg tonnage/session | 1195.6kg | 1302.2kg | ↓ 106.6kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2750 | 2971 | ↓ 221 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 687 | 743 | ↓ 55 |
 
 - Top single: 122.5kg x 1 @ 8.50
 - Previous top single: 115kg x 1 @ 8
@@ -4532,6 +5217,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 3
 | Avg load | 148.8kg | 139.2kg | ↑ 9.6kg |
 | Tonnage | 8217.5kg | 8905kg | ↓ 687.5kg |
 | Avg tonnage/session | 2739.2kg | 2968.3kg | ↓ 229.1kg |
+| Estimated stress | 1011 | 872 | ↑ 139 |
+| Real stress | 2121 | 1727 | ↑ 394 |
+| Avg est stress/session | 337 | 291 | ↑ 46 |
+| Avg real stress/session | 707 | 576 | ↑ 131 |
 
 - Top single: 180kg x 1 @ 8.50
 - Previous top single: 175kg x 1 @ 7.50
@@ -4569,6 +5258,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 2
 | Avg load | 124kg | 135.5kg | ↓ 11.5kg |
 | Tonnage | 8027.5kg | 5684kg | ↑ 2343.5kg |
 | Avg tonnage/session | 2675.8kg | 1894.7kg | ↑ 781.1kg |
+| Estimated stress | 427 | 630 | ↓ 203 |
+| Real stress | 3895 | 2999 | ↑ 896 |
+| Avg est stress/session | 142 | 210 | ↓ 68 |
+| Avg real stress/session | 1298 | 1000 | ↑ 299 |
 
 - Top single: -
 - Previous top single: -
@@ -4588,6 +5281,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 2
 | Avg load | 97.2kg | 95.2kg | ↑ 2kg |
 | Tonnage | 5209kg | 5361.5kg | ↓ 152.5kg |
 | Avg tonnage/session | 1302.2kg | 1340.4kg | ↓ 38.2kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2971 | 2421 | ↑ 550 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 743 | 605 | ↑ 138 |
 
 - Top single: 115kg x 1 @ 8
 - Previous top single: -
@@ -4607,6 +5304,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 2
 | Avg load | 139.2kg | 145.2kg | ↓ 6kg |
 | Tonnage | 8905kg | 8502.5kg | ↑ 402.5kg |
 | Avg tonnage/session | 2968.3kg | 2834.2kg | ↑ 134.1kg |
+| Estimated stress | 872 | 983 | ↓ 111 |
+| Real stress | 1727 | 2330 | ↓ 603 |
+| Avg est stress/session | 291 | 328 | ↓ 37 |
+| Avg real stress/session | 576 | 777 | ↓ 201 |
 
 - Top single: 175kg x 1 @ 7.50
 - Previous top single: -
@@ -4644,6 +5345,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 1
 | Avg load | 135.5kg | 129.4kg | ↑ 6.1kg |
 | Tonnage | 5684kg | 7344kg | ↓ 1660kg |
 | Avg tonnage/session | 1894.7kg | 2448kg | ↓ 553.3kg |
+| Estimated stress | 630 | 630 | → 0 |
+| Real stress | 2999 | 3414 | ↓ 415 |
+| Avg est stress/session | 210 | 210 | → 0 |
+| Avg real stress/session | 1000 | 1138 | ↓ 138 |
 
 - Top single: -
 - Previous top single: -
@@ -4663,6 +5368,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 1
 | Avg load | 95.2kg | 91.5kg | ↑ 3.7kg |
 | Tonnage | 5361.5kg | 7097.5kg | ↓ 1736kg |
 | Avg tonnage/session | 1340.4kg | 1774.4kg | ↓ 434kg |
+| Estimated stress | - | - | n/a |
+| Real stress | 2421 | 3462 | ↓ 1041 |
+| Avg est stress/session | - | - | n/a |
+| Avg real stress/session | 605 | 866 | ↓ 260 |
 
 - Top single: -
 - Previous top single: -
@@ -4682,6 +5391,10 @@ Comparison baseline: Mad Power 5 Weeks / Week 1
 | Avg load | 145.2kg | 140.4kg | ↑ 4.8kg |
 | Tonnage | 8502.5kg | 9765kg | ↓ 1262.5kg |
 | Avg tonnage/session | 2834.2kg | 3255kg | ↓ 420.8kg |
+| Estimated stress | 983 | 942 | ↑ 40 |
+| Real stress | 2330 | 2494 | ↓ 164 |
+| Avg est stress/session | 328 | 314 | ↑ 14 |
+| Avg real stress/session | 777 | 831 | ↓ 54 |
 
 - Top single: -
 - Previous top single: -
@@ -4719,6 +5432,10 @@ Comparison baseline: Mad Power 2 Weeks / Week 2
 | Avg load | 129.4kg | 134.6kg | ↓ 5.2kg |
 | Tonnage | 7344kg | 4785kg | ↑ 2559kg |
 | Avg tonnage/session | 2448kg | 1595kg | ↑ 853kg |
+| Estimated stress | 630 | 3127 | ↓ 2497 |
+| Real stress | 3414 | 3270 | ↑ 144 |
+| Avg est stress/session | 210 | 1042 | ↓ 832 |
+| Avg real stress/session | 1138 | 1090 | ↑ 48 |
 
 - Top single: -
 - Previous top single: 152.5kg x 1 @ 8
@@ -4738,6 +5455,10 @@ Comparison baseline: Mad Power 2 Weeks / Week 2
 | Avg load | 91.5kg | 96.3kg | ↓ 4.8kg |
 | Tonnage | 7097.5kg | 7120.5kg | ↓ 23kg |
 | Avg tonnage/session | 1774.4kg | 1424.1kg | ↑ 350.3kg |
+| Estimated stress | - | 4179 | n/a |
+| Real stress | 3462 | 3696 | ↓ 234 |
+| Avg est stress/session | - | 836 | n/a |
+| Avg real stress/session | 866 | 739 | ↑ 126 |
 
 - Top single: -
 - Previous top single: 122.5kg x 1 @ 9
@@ -4757,6 +5478,10 @@ Comparison baseline: Mad Power 2 Weeks / Week 2
 | Avg load | 140.4kg | 158.8kg | ↓ 18.4kg |
 | Tonnage | 9765kg | 6010kg | ↑ 3755kg |
 | Avg tonnage/session | 3255kg | 2003.3kg | ↑ 1251.7kg |
+| Estimated stress | 942 | 3415 | ↓ 2473 |
+| Real stress | 2494 | 4202 | ↓ 1708 |
+| Avg est stress/session | 314 | 1138 | ↓ 824 |
+| Avg real stress/session | 831 | 1401 | ↓ 570 |
 
 - Top single: -
 - Previous top single: 185kg x 1 @ 10
@@ -4794,6 +5519,10 @@ Comparison baseline: Mad Power 2 Weeks / Week 1
 | Avg load | 134.6kg | 129.8kg | ↑ 4.8kg |
 | Tonnage | 4785kg | 5567.5kg | ↓ 782.5kg |
 | Avg tonnage/session | 1595kg | 1855.8kg | ↓ 260.8kg |
+| Estimated stress | 3127 | 3170 | ↓ 43 |
+| Real stress | 3270 | 3455 | ↓ 185 |
+| Avg est stress/session | 1042 | 1057 | ↓ 14 |
+| Avg real stress/session | 1090 | 1152 | ↓ 62 |
 
 - Top single: 152.5kg x 1 @ 8
 - Previous top single: 145kg x 1 @ 7.50
@@ -4813,6 +5542,10 @@ Comparison baseline: Mad Power 2 Weeks / Week 1
 | Avg load | 96.3kg | 91.8kg | ↑ 4.5kg |
 | Tonnage | 7120.5kg | 8910kg | ↓ 1789.5kg |
 | Avg tonnage/session | 1424.1kg | 1782kg | ↓ 357.9kg |
+| Estimated stress | 4179 | 4844 | ↓ 665 |
+| Real stress | 3696 | 5327 | ↓ 1632 |
+| Avg est stress/session | 836 | 969 | ↓ 133 |
+| Avg real stress/session | 739 | 1066 | ↓ 326 |
 
 - Top single: 122.5kg x 1 @ 9
 - Previous top single: 117.5kg x 1 @ 8
@@ -4832,6 +5565,10 @@ Comparison baseline: Mad Power 2 Weeks / Week 1
 | Avg load | 158.8kg | 149.8kg | ↑ 9kg |
 | Tonnage | 6010kg | 6747.5kg | ↓ 737.5kg |
 | Avg tonnage/session | 2003.3kg | 2249.2kg | ↓ 245.9kg |
+| Estimated stress | 3415 | 3657 | ↓ 242 |
+| Real stress | 4202 | 4732 | ↓ 529 |
+| Avg est stress/session | 1138 | 1219 | ↓ 81 |
+| Avg real stress/session | 1401 | 1577 | ↓ 176 |
 
 - Top single: 185kg x 1 @ 10
 - Previous top single: 180kg x 1 @ 8
@@ -4869,6 +5606,10 @@ Comparison baseline: Mad Power / Week 4
 | Avg load | 129.8kg | 122.5kg | ↑ 7.3kg |
 | Tonnage | 5567.5kg | 2980kg | ↑ 2587.5kg |
 | Avg tonnage/session | 1855.8kg | 993.3kg | ↑ 862.5kg |
+| Estimated stress | 3170 | 1750 | ↑ 1420 |
+| Real stress | 3455 | 2064 | ↑ 1391 |
+| Avg est stress/session | 1057 | 583 | ↑ 474 |
+| Avg real stress/session | 1152 | 688 | ↑ 464 |
 
 - Top single: 145kg x 1 @ 7.50
 - Previous top single: 155kg x 1 @ 10
@@ -4888,6 +5629,10 @@ Comparison baseline: Mad Power / Week 4
 | Avg load | 91.8kg | 91.7kg | ↑ 0.1kg |
 | Tonnage | 8910kg | 7931kg | ↑ 979kg |
 | Avg tonnage/session | 1782kg | 1982.8kg | ↓ 200.8kg |
+| Estimated stress | 4844 | 2770 | ↑ 2074 |
+| Real stress | 5327 | 4734 | ↑ 594 |
+| Avg est stress/session | 969 | 692 | ↑ 276 |
+| Avg real stress/session | 1066 | 1183 | ↓ 118 |
 
 - Top single: 117.5kg x 1 @ 8
 - Previous top single: 128.5kg x 1 @ 10
@@ -4907,6 +5652,10 @@ Comparison baseline: Mad Power / Week 4
 | Avg load | 149.8kg | 143.8kg | ↑ 6kg |
 | Tonnage | 6747.5kg | 5867.5kg | ↑ 880kg |
 | Avg tonnage/session | 2249.2kg | 1955.8kg | ↑ 293.4kg |
+| Estimated stress | 3657 | 1476 | ↑ 2181 |
+| Real stress | 4732 | 3635 | ↑ 1096 |
+| Avg est stress/session | 1219 | 492 | ↑ 727 |
+| Avg real stress/session | 1577 | 1212 | ↑ 366 |
 
 - Top single: 180kg x 1 @ 8
 - Previous top single: 180kg x 1 @ 10
@@ -4944,6 +5693,10 @@ Comparison baseline: Mad Power / Week 3
 | Avg load | 122.5kg | 127.3kg | ↓ 4.8kg |
 | Tonnage | 2980kg | 4302.5kg | ↓ 1322.5kg |
 | Avg tonnage/session | 993.3kg | 1434.2kg | ↓ 440.9kg |
+| Estimated stress | 1750 | 3241 | ↓ 1491 |
+| Real stress | 2064 | 3596 | ↓ 1532 |
+| Avg est stress/session | 583 | 1080 | ↓ 497 |
+| Avg real stress/session | 688 | 1199 | ↓ 511 |
 
 - Top single: 155kg x 1 @ 10
 - Previous top single: 152.5kg x 1 @ 8.50
@@ -4963,6 +5716,10 @@ Comparison baseline: Mad Power / Week 3
 | Avg load | 91.7kg | 92.1kg | ↓ 0.4kg |
 | Tonnage | 7931kg | 8806.5kg | ↓ 875.5kg |
 | Avg tonnage/session | 1982.8kg | 2201.6kg | ↓ 218.8kg |
+| Estimated stress | 2770 | 3408 | ↓ 638 |
+| Real stress | 4734 | 4955 | ↓ 222 |
+| Avg est stress/session | 692 | 852 | ↓ 159 |
+| Avg real stress/session | 1183 | 1239 | ↓ 55 |
 
 - Top single: 128.5kg x 1 @ 10
 - Previous top single: 125kg x 1 @ 9.50
@@ -4982,6 +5739,10 @@ Comparison baseline: Mad Power / Week 3
 | Avg load | 143.8kg | 143.6kg | ↑ 0.2kg |
 | Tonnage | 5867.5kg | 6590kg | ↓ 722.5kg |
 | Avg tonnage/session | 1955.8kg | 2196.7kg | ↓ 240.9kg |
+| Estimated stress | 1476 | 2150 | ↓ 673 |
+| Real stress | 3635 | 3950 | ↓ 315 |
+| Avg est stress/session | 492 | 717 | ↓ 224 |
+| Avg real stress/session | 1212 | 1317 | ↓ 105 |
 
 - Top single: 180kg x 1 @ 10
 - Previous top single: 180kg x 1 @ 8.50
@@ -5019,6 +5780,10 @@ Comparison baseline: Mad Power / Week 2
 | Avg load | 127.3kg | 116.5kg | ↑ 10.8kg |
 | Tonnage | 4302.5kg | 4877.5kg | ↓ 575kg |
 | Avg tonnage/session | 1434.2kg | 1625.8kg | ↓ 191.6kg |
+| Estimated stress | 3241 | 4046 | ↓ 805 |
+| Real stress | 3596 | 4657 | ↓ 1061 |
+| Avg est stress/session | 1080 | 1349 | ↓ 268 |
+| Avg real stress/session | 1199 | 1552 | ↓ 354 |
 
 - Top single: 152.5kg x 1 @ 8.50
 - Previous top single: 140kg x 1 @ 7
@@ -5038,6 +5803,10 @@ Comparison baseline: Mad Power / Week 2
 | Avg load | 92.1kg | 89kg | ↑ 3.1kg |
 | Tonnage | 8806.5kg | 9192.5kg | ↓ 386kg |
 | Avg tonnage/session | 2201.6kg | 2298.1kg | ↓ 96.5kg |
+| Estimated stress | 3408 | 3753 | ↓ 345 |
+| Real stress | 4955 | 4568 | ↑ 387 |
+| Avg est stress/session | 852 | 938 | ↓ 86 |
+| Avg real stress/session | 1239 | 1142 | ↑ 97 |
 
 - Top single: 125kg x 1 @ 9.50
 - Previous top single: 117.5kg x 1 @ 7
@@ -5057,6 +5826,10 @@ Comparison baseline: Mad Power / Week 2
 | Avg load | 143.6kg | 139.6kg | ↑ 4kg |
 | Tonnage | 6590kg | 6915kg | ↓ 325kg |
 | Avg tonnage/session | 2196.7kg | 2305kg | ↓ 108.3kg |
+| Estimated stress | 2150 | 2177 | ↓ 27 |
+| Real stress | 3950 | 2540 | ↑ 1410 |
+| Avg est stress/session | 717 | 726 | ↓ 9 |
+| Avg real stress/session | 1317 | 846 | ↑ 470 |
 
 - Top single: 180kg x 1 @ 8.50
 - Previous top single: 175kg x 1 @ 7.50
@@ -5094,6 +5867,10 @@ Comparison baseline: Mad Power / Week 1
 | Avg load | 116.5kg | 114.3kg | ↑ 2.2kg |
 | Tonnage | 4877.5kg | 6235kg | ↓ 1357.5kg |
 | Avg tonnage/session | 1625.8kg | 3117.5kg | ↓ 1491.7kg |
+| Estimated stress | 4046 | 3468 | ↑ 578 |
+| Real stress | 4657 | 3454 | ↑ 1204 |
+| Avg est stress/session | 1349 | 1734 | ↓ 386 |
+| Avg real stress/session | 1552 | 1727 | ↓ 174 |
 
 - Top single: 140kg x 1 @ 7
 - Previous top single: 130kg x 1 @ 6
@@ -5113,6 +5890,10 @@ Comparison baseline: Mad Power / Week 1
 | Avg load | 89kg | 92.9kg | ↓ 3.9kg |
 | Tonnage | 9192.5kg | 8985kg | ↑ 207.5kg |
 | Avg tonnage/session | 2298.1kg | 2246.2kg | ↑ 51.9kg |
+| Estimated stress | 3753 | 3677 | ↑ 76 |
+| Real stress | 4568 | 5688 | ↓ 1120 |
+| Avg est stress/session | 938 | 919 | ↑ 19 |
+| Avg real stress/session | 1142 | 1422 | ↓ 280 |
 
 - Top single: 117.5kg x 1 @ 7
 - Previous top single: 120kg x 1 @ 8.50
@@ -5132,6 +5913,10 @@ Comparison baseline: Mad Power / Week 1
 | Avg load | 139.6kg | 131.8kg | ↑ 7.8kg |
 | Tonnage | 6915kg | 5680kg | ↑ 1235kg |
 | Avg tonnage/session | 2305kg | 1893.3kg | ↑ 411.7kg |
+| Estimated stress | 2177 | 2314 | ↓ 137 |
+| Real stress | 2540 | 1897 | ↑ 642 |
+| Avg est stress/session | 726 | 771 | ↓ 46 |
+| Avg real stress/session | 846 | 632 | ↑ 214 |
 
 - Top single: 175kg x 1 @ 7.50
 - Previous top single: 160kg x 1 @ -
@@ -5169,6 +5954,10 @@ Comparison baseline: Holiday Summer Camp / Week 2
 | Avg load | 114.3kg | 138.3kg | ↓ 24kg |
 | Tonnage | 6235kg | 4290kg | ↑ 1945kg |
 | Avg tonnage/session | 3117.5kg | 2145kg | ↑ 972.5kg |
+| Estimated stress | 3468 | 2247 | ↑ 1221 |
+| Real stress | 3454 | 2968 | ↑ 486 |
+| Avg est stress/session | 1734 | 1124 | ↑ 611 |
+| Avg real stress/session | 1727 | 1484 | ↑ 243 |
 
 - Top single: 130kg x 1 @ 6
 - Previous top single: 152.5kg x 1 @ 8.50
@@ -5188,6 +5977,10 @@ Comparison baseline: Holiday Summer Camp / Week 2
 | Avg load | 92.9kg | 109.7kg | ↓ 16.8kg |
 | Tonnage | 8985kg | 3305kg | ↑ 5680kg |
 | Avg tonnage/session | 2246.2kg | 1652.5kg | ↑ 593.7kg |
+| Estimated stress | 3677 | 1762 | ↑ 1915 |
+| Real stress | 5688 | 2663 | ↑ 3025 |
+| Avg est stress/session | 919 | 881 | ↑ 38 |
+| Avg real stress/session | 1422 | 1331 | ↑ 91 |
 
 - Top single: 120kg x 1 @ 8.50
 - Previous top single: 120kg x 1 @ 9.50
@@ -5207,6 +6000,10 @@ Comparison baseline: Holiday Summer Camp / Week 2
 | Avg load | 131.8kg | 165kg | ↓ 33.2kg |
 | Tonnage | 5680kg | 2930kg | ↑ 2750kg |
 | Avg tonnage/session | 1893.3kg | 1465kg | ↑ 428.3kg |
+| Estimated stress | 2314 | 1820 | ↑ 494 |
+| Real stress | 1897 | 1716 | ↑ 182 |
+| Avg est stress/session | 771 | 910 | ↓ 139 |
+| Avg real stress/session | 632 | 858 | ↓ 226 |
 
 - Top single: 160kg x 1 @ -
 - Previous top single: 180kg x 1 @ 9.50
@@ -5244,6 +6041,10 @@ Comparison baseline: Holiday Summer Camp / Week 1
 | Avg load | 138.3kg | 125kg | ↑ 13.3kg |
 | Tonnage | 4290kg | 10655kg | ↓ 6365kg |
 | Avg tonnage/session | 2145kg | 2663.8kg | ↓ 518.8kg |
+| Estimated stress | 2247 | 5308 | ↓ 3061 |
+| Real stress | 2968 | 5020 | ↓ 2052 |
+| Avg est stress/session | 1124 | 1327 | ↓ 203 |
+| Avg real stress/session | 1484 | 1255 | ↑ 229 |
 
 - Top single: 152.5kg x 1 @ 8.50
 - Previous top single: -
@@ -5263,6 +6064,10 @@ Comparison baseline: Holiday Summer Camp / Week 1
 | Avg load | 109.7kg | 103.3kg | ↑ 6.4kg |
 | Tonnage | 3305kg | 8833.5kg | ↓ 5528.5kg |
 | Avg tonnage/session | 1652.5kg | 2208.4kg | ↓ 555.9kg |
+| Estimated stress | 1762 | 4918 | ↓ 3155 |
+| Real stress | 2663 | 5675 | ↓ 3012 |
+| Avg est stress/session | 881 | 1229 | ↓ 348 |
+| Avg real stress/session | 1331 | 1419 | ↓ 87 |
 
 - Top single: 120kg x 1 @ 9.50
 - Previous top single: -
@@ -5282,6 +6087,10 @@ Comparison baseline: Holiday Summer Camp / Week 1
 | Avg load | 165kg | 145.7kg | ↑ 19.3kg |
 | Tonnage | 2930kg | 7795kg | ↓ 4865kg |
 | Avg tonnage/session | 1465kg | 2598.3kg | ↓ 1133.3kg |
+| Estimated stress | 1820 | 3730 | ↓ 1910 |
+| Real stress | 1716 | 3859 | ↓ 2144 |
+| Avg est stress/session | 910 | 1243 | ↓ 333 |
+| Avg real stress/session | 858 | 1286 | ↓ 429 |
 
 - Top single: 180kg x 1 @ 9.50
 - Previous top single: -
@@ -5317,6 +6126,10 @@ Comparison baseline: Holiday Summer Camp / Week 1
 | Avg load | 125kg | - | n/a |
 | Tonnage | 10655kg | - | n/a |
 | Avg tonnage/session | 2663.8kg | - | n/a |
+| Estimated stress | 5308 | - | n/a |
+| Real stress | 5020 | - | n/a |
+| Avg est stress/session | 1327 | - | n/a |
+| Avg real stress/session | 1255 | - | n/a |
 
 - Top single: -
 - Top work set: 142.5kg x 2 @ 8
@@ -5332,6 +6145,10 @@ Comparison baseline: Holiday Summer Camp / Week 1
 | Avg load | 103.3kg | - | n/a |
 | Tonnage | 8833.5kg | - | n/a |
 | Avg tonnage/session | 2208.4kg | - | n/a |
+| Estimated stress | 4918 | - | n/a |
+| Real stress | 5675 | - | n/a |
+| Avg est stress/session | 1229 | - | n/a |
+| Avg real stress/session | 1419 | - | n/a |
 
 - Top single: -
 - Top work set: 110kg x 6 @ 10
@@ -5347,6 +6164,10 @@ Comparison baseline: Holiday Summer Camp / Week 1
 | Avg load | 145.7kg | - | n/a |
 | Tonnage | 7795kg | - | n/a |
 | Avg tonnage/session | 2598.3kg | - | n/a |
+| Estimated stress | 3730 | - | n/a |
+| Real stress | 3859 | - | n/a |
+| Avg est stress/session | 1243 | - | n/a |
+| Avg real stress/session | 1286 | - | n/a |
 
 - Top single: -
 - Top work set: 170kg x 2 @ 8
