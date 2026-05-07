@@ -1,0 +1,89 @@
+id: squat_deadlift_rebuild_v1
+created: '2026-05-05'
+status: active
+reason: >
+  Squat and deadlift have stalled across recent mock meets while bench continues
+  progressing. Current lower-body strategy appears too posterior-chain dominant:
+  squat shifts to hips/back out of the hole, and deadlift stress accumulates in
+  back/lockout position.
+
+global_goal: >
+  Use this block to develop positions Ren normally avoids, not simply reinforce
+  the strongest-feeling current pattern.
+
+squat:
+  hypothesis: >
+    Current low-bar pattern is strong enough but may cap progress by letting knees
+    retreat early and shifting work to hips/back.
+  priority:
+    - Build knee-forward tolerance and quad contribution.
+    - Keep chest and hips rising together.
+    - Treat high bar as developmental work, not just another way to move weight.
+  daily_assessment_rule: >
+    When assessing squat days, judge success by positional quality first: knees
+    stay forward out of the hole, bar remains midfoot, and hips do not outrun
+    chest. Do not over-reward heavier loads if they reinforce the good-morning
+    pattern.
+  main_cue: Keep knees forward for the first inch.
+
+deadlift:
+  hypothesis: >
+    Sumo remains the preferred competition style, but the current priority should
+    shift from strongest start position to maintaining lat/back/hip position
+    through lockout.
+  priority:
+    - Keep sumo as the main deadlift style.
+    - Test static start and slightly wider stance seriously.
+    - Avoid hips shooting up before the bar breaks.
+    - Prioritize lats locked, ribs down, neutral neck, and clean lockout.
+  daily_assessment_rule: >
+    When assessing deadlift days, judge whether the setup preserves position
+    through the top half, not only whether the bar leaves the floor fast.
+  main_cue: Lock lats, push floor, then hips through.
+
+block_goals:
+  volume_block_v6:
+    test_format: 5RM
+    squat_low_bar:
+      baseline: 155kg x5 @9 on 2026-03-09
+      goal: 157.5-160kg x5 @9-9.5 with less hip-rise / chest-lag
+      stretch: 160kg x5 clean enough that lower back is not the obvious limiter
+    sumo_deadlift:
+      baseline: 170kg x5 @7.5 on 2026-03-14; 170kg x6 @10 on 2026-04-04
+      goal: 177.5kg x5 @9-9.5 with cleaner lockout than previous heavy rep work
+      stretch: 180kg x5 if position stays clean through the top half
+  strength_block_v5:
+    test_format: 3RM
+    squat_low_bar:
+      baseline: 160kg x3 @9.5 on 2026-03-30
+      goal: 162.5kg x3 @9-9.5 with better knee-forward timing
+      stretch: 165kg x3 without major good-morning pattern
+    sumo_deadlift:
+      baseline: 185kg x2 @9 on 2026-04-04; no clean recent 3RM benchmark
+      goal: 185kg x3 @9-9.5 if lat/lockout position holds
+      stretch: 187.5kg x3 with acceptable top-half position
+  peaking_block_v7:
+    test_format: 1RM
+    squat_low_bar:
+      baseline: 175kg x1 @10 on 2026-05-02; lifetime 177.5kg x1 @9.5 on 2026-02-21
+      goal: 180kg
+      stretch: 182.5kg if 180kg is not a grinder
+    sumo_deadlift:
+      baseline: 195kg x1 @10 on 2026-05-02; lifetime 200kg on 2025-08-26
+      goal: 200kg
+      stretch: 202.5kg if 200kg is not a grinder
+
+success_criteria:
+  load_metrics:
+    - Meet or beat the active block goal without exceeding the target RPE range.
+    - If load does not increase, show the same load at lower RPE or with clearly cleaner position.
+    - By the next mock meet, squat and deadlift estimated strength should move up, not only bench.
+  squat_position_metrics:
+    - High bar volume improves without turning into hip/back-dominant reps.
+    - Low bar heavy reps show less hip-rise / chest-lag.
+    - Knees stay forward through the first inch out of the hole.
+    - Bar remains over midfoot without a visible forward rebalance at the bottom.
+  deadlift_position_metrics:
+    - Sumo reps finish cleaner above the knee with less lower-back fatigue.
+    - Hips do not shoot up before the bar breaks.
+    - Lats/upper back stay connected enough that lockout is legal and not shoulder-position limited.
