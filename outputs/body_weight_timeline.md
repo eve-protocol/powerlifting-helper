@@ -52,7 +52,7 @@ This view merges old Zepp/Xiaomi scale history with newer Health Connect / VeSyn
 | 2026-02 | 11 | 79 kg | 78.2 kg (2026-02-01) | 79.6 kg (2026-02-27) | 78.2 kg | 79.6 kg | +1.4 kg | VeSync | 177.5 kg | 186.7 kg | 135 kg | 143 kg | 195 kg | 204.8 kg |
 | 2026-03 | 23 | 79.4 kg | 78.4 kg (2026-03-03) | 80.5 kg (2026-03-29) | 80.3 kg | 79.6 kg | -0.7 kg | VeSync | 167.5 kg | 189.3 kg | 127.5 kg | 139 kg | 190 kg | 212.5 kg |
 | 2026-04 | 21 | 79.7 kg | 79 kg (2026-04-26) | 80.9 kg (2026-04-12) | 79.2 kg | 79.8 kg | +0.6 kg | VeSync | 165 kg | 182 kg | 132.5 kg | 147.9 kg | 190 kg | 209.7 kg |
-| 2026-05 | 6 | 79 kg | 78.6 kg (2026-05-03) | 79.6 kg (2026-05-01) | 79.6 kg | 79.2 kg | -0.4 kg | VeSync | 175 kg | 180.8 kg | 140 kg | 149 kg | 195 kg | 202.1 kg |
+| 2026-05 | 6 | 79 kg | 78.6 kg (2026-05-03) | 79.6 kg (2026-05-01) | 79.6 kg | 79.2 kg | -0.4 kg | VeSync | 175 kg | 180.8 kg | 140 kg | 149 kg | 195 kg | 210.7 kg |
 
 ## Recent Daily Entries
 
