@@ -1,6 +1,6 @@
 name: Volume Block v6
 description: "4-week accumulation block (8s \u2192 6s \u2192 5s \u2192 5RM benchmark).\
-  \ Monday moves to paused bench + high bar squat to fix Saturday deadlift \u2192\
+  \ Monday moves to high bar squat + paused bench to fix Saturday deadlift \u2192\
   \ Monday fatigue. Heavy low bar sits Wednesday for max recovery. 4 bench exposures:\
   \ paused (Mon), incline DB (Tue), competition (Thu), Larsen (Sat). Pull-ups twice\
   \ weekly, then tapered in benchmark week. Straight sets throughout \u2014 no potentiation\
@@ -11,25 +11,8 @@ days_per_week: 5
 workouts:
 - week: 1
   day: 1
-  name: Monday - Paused Bench / High Bar / Pull-Ups
+  name: Monday - High Bar / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
-    type: Barbell
-    muscles:
-    - Chest
-    sets:
-    - target: 6
-      rpe:
-      - 6
-      - 6.5
-    - target: 6
-      rpe:
-      - 6
-      - 6.5
-    - target: 6
-      rpe:
-      - 6
-      - 6.5
   - name: High Bar Squat (Barbell)
     type: Barbell
     muscles:
@@ -44,6 +27,23 @@ workouts:
       - 6
       - 6.5
     - target: 8
+      rpe:
+      - 6
+      - 6.5
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 6
+      rpe:
+      - 6
+      - 6.5
+    - target: 6
+      rpe:
+      - 6
+      - 6.5
+    - target: 6
       rpe:
       - 6
       - 6.5
@@ -349,25 +349,8 @@ workouts:
       - 6.5
 - week: 2
   day: 1
-  name: Monday - Paused Bench / High Bar / Pull-Ups
+  name: Monday - High Bar / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
-    type: Barbell
-    muscles:
-    - Chest
-    sets:
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
-    - target: 5
-      rpe:
-      - 6.5
-      - 7
   - name: High Bar Squat (Barbell)
     type: Barbell
     muscles:
@@ -382,6 +365,23 @@ workouts:
       - 6.5
       - 7
     - target: 6
+      rpe:
+      - 6.5
+      - 7
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+    - target: 5
       rpe:
       - 6.5
       - 7
@@ -687,25 +687,8 @@ workouts:
       - 7
 - week: 3
   day: 1
-  name: Monday - Paused Bench / High Bar / Pull-Ups
+  name: Monday - High Bar / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
-    type: Barbell
-    muscles:
-    - Chest
-    sets:
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
   - name: High Bar Squat (Barbell)
     type: Barbell
     muscles:
@@ -720,6 +703,23 @@ workouts:
       - 7
       - 7.5
     - target: 5
+      rpe:
+      - 7
+      - 7.5
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
       rpe:
       - 7
       - 7.5
@@ -1021,21 +1021,8 @@ workouts:
       - 7
 - week: 4
   day: 1
-  name: Monday - Paused Bench / High Bar / Pull-Ups
+  name: Monday - High Bar / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
-    type: Barbell
-    muscles:
-    - Chest
-    sets:
-    - target: 3
-      rpe:
-      - 6
-      - 6.5
-    - target: 3
-      rpe:
-      - 6
-      - 6.5
   - name: High Bar Squat (Barbell)
     type: Barbell
     muscles:
@@ -1046,6 +1033,19 @@ workouts:
       - 6
       - 6.5
     - target: 5
+      rpe:
+      - 6
+      - 6.5
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    - target: 3
       rpe:
       - 6
       - 6.5

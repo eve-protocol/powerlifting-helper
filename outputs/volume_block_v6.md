@@ -1,6 +1,6 @@
 # Volume Block v6
 
-4-week accumulation block (8s → 6s → 5s → 5RM benchmark). Monday moves to paused bench + high bar squat to fix Saturday deadlift → Monday fatigue. Heavy low bar sits Wednesday for max recovery. 4 bench exposures: paused (Mon), incline DB (Tue), competition (Thu), Larsen (Sat). Pull-ups twice weekly, then tapered in benchmark week. Straight sets throughout — no potentiation singles. Week 1 RPE is deliberately low for post-mock-meet re-entry. Week 4 uses top 5s at @9-9.5 with light backoffs instead of full-volume hard accessories.
+4-week accumulation block (8s → 6s → 5s → 5RM benchmark). Monday moves to high bar squat + paused bench to fix Saturday deadlift → Monday fatigue. Heavy low bar sits Wednesday for max recovery. 4 bench exposures: paused (Mon), incline DB (Tue), competition (Thu), Larsen (Sat). Pull-ups twice weekly, then tapered in benchmark week. Straight sets throughout — no potentiation singles. Week 1 RPE is deliberately low for post-mock-meet re-entry. Week 4 uses top 5s at @9-9.5 with light backoffs instead of full-volume hard accessories.
 
 ## Overview
 
@@ -12,12 +12,12 @@
 
 ### Week 1
 
-#### Day 1 — Monday - Paused Bench / High Bar / Pull-Ups
+#### Day 1 — Monday - High Bar / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 6 reps @ RPE 6-6.5; 6 reps @ RPE 6-6.5; 6 reps @ RPE 6-6.5 |
-| 2 | High Bar Squat (Barbell) | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
+| 1 | High Bar Squat (Barbell) | 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5; 8 reps @ RPE 6-6.5 |
+| 2 | Bench Press (Paused) | 6 reps @ RPE 6-6.5; 6 reps @ RPE 6-6.5; 6 reps @ RPE 6-6.5 |
 | 3 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 4 | Cable Crunch | 15 reps @ RPE 6.5-7; 15 reps @ RPE 6.5-7 |
 
@@ -67,12 +67,12 @@
 
 ### Week 2
 
-#### Day 1 — Monday - Paused Bench / High Bar / Pull-Ups
+#### Day 1 — Monday - High Bar / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
-| 2 | High Bar Squat (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
+| 1 | High Bar Squat (Barbell) | 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7; 6 reps @ RPE 6.5-7 |
+| 2 | Bench Press (Paused) | 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7; 5 reps @ RPE 6.5-7 |
 | 3 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 4 | Cable Crunch | 15 reps @ RPE 6.5-7; 15 reps @ RPE 6.5-7 |
 
@@ -122,12 +122,12 @@
 
 ### Week 3
 
-#### Day 1 — Monday - Paused Bench / High Bar / Pull-Ups
+#### Day 1 — Monday - High Bar / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
-| 2 | High Bar Squat (Barbell) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
+| 1 | High Bar Squat (Barbell) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
+| 2 | Bench Press (Paused) | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
 | 3 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 4 | Cable Crunch | 15 reps @ RPE 6.5-7; 15 reps @ RPE 6.5-7 |
 
@@ -177,12 +177,12 @@
 
 ### Week 4
 
-#### Day 1 — Monday - Paused Bench / High Bar / Pull-Ups
+#### Day 1 — Monday - High Bar / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 3 reps @ RPE 6-6.5; 3 reps @ RPE 6-6.5 |
-| 2 | High Bar Squat (Barbell) | 5 reps @ RPE 6-6.5; 5 reps @ RPE 6-6.5 |
+| 1 | High Bar Squat (Barbell) | 5 reps @ RPE 6-6.5; 5 reps @ RPE 6-6.5 |
+| 2 | Bench Press (Paused) | 3 reps @ RPE 6-6.5; 3 reps @ RPE 6-6.5 |
 | 3 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5; 6 reps @ RPE 7-7.5 |
 | 4 | Cable Crunch | 15 reps @ RPE 6.5-7; 15 reps @ RPE 6.5-7 |
 
