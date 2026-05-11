@@ -13,17 +13,17 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 55 | 166 | ↓ 111 |
-| Total sets | 186 | 641 | ↓ 455 |
+| Sessions | 56 | 166 | ↓ 110 |
+| Total sets | 189 | 641 | ↓ 452 |
 | Avg sets/session | 3.38 | 3.86 | ↓ 0.48 |
-| Avg RPE | 7.42 | 7.66 | ↓ 0.24 |
-| Avg load | 138.4kg | 130.4kg | ↑ 8kg |
-| Tonnage | 94622.5kg | 312712kg | ↓ 218089.5kg |
-| Avg tonnage/session | 1720.4kg | 1883.8kg | ↓ 163.4kg |
-| Estimated stress | 26858 | 87265 | ↓ 60407 |
-| Real stress | 46321 | 177617 | ↓ 131296 |
-| Avg est stress/session | 488 | 526 | ↓ 37 |
-| Avg real stress/session | 842 | 1070 | ↓ 228 |
+| Avg RPE | 7.41 | 7.66 | ↓ 0.25 |
+| Avg load | 138.1kg | 130.4kg | ↑ 7.7kg |
+| Tonnage | 96767.5kg | 312712kg | ↓ 215944.5kg |
+| Avg tonnage/session | 1728kg | 1883.8kg | ↓ 155.8kg |
+| Estimated stress | 27596 | 87265 | ↓ 59670 |
+| Real stress | 47081 | 177617 | ↓ 130536 |
+| Avg est stress/session | 493 | 526 | ↓ 33 |
+| Avg real stress/session | 841 | 1070 | ↓ 229 |
 
 - Top single: 177.5kg x 1 @ 9.50
 - Previous top single: 172.5kg x 1 @ 10
@@ -36,16 +36,16 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 77 | 213 | ↓ 136 |
-| Total sets | 249 | 824 | ↓ 575 |
+| Sessions | 78 | 213 | ↓ 135 |
+| Total sets | 252 | 824 | ↓ 572 |
 | Avg sets/session | 3.23 | 3.87 | ↓ 0.64 |
 | Avg RPE | 8.11 | 8.26 | ↓ 0.15 |
 | Avg load | 99kg | 94.5kg | ↑ 4.5kg |
-| Tonnage | 97170.5kg | 351010kg | ↓ 253839.5kg |
-| Avg tonnage/session | 1262kg | 1647.9kg | ↓ 385.9kg |
-| Estimated stress | 24097 | 86915 | ↓ 62819 |
-| Real stress | 54889 | 184264 | ↓ 129375 |
-| Avg est stress/session | 313 | 408 | ↓ 95 |
+| Tonnage | 98683kg | 351010kg | ↓ 252327kg |
+| Avg tonnage/session | 1265.2kg | 1647.9kg | ↓ 382.7kg |
+| Estimated stress | 24695 | 86915 | ↓ 62220 |
+| Real stress | 55597 | 184264 | ↓ 128667 |
+| Avg est stress/session | 317 | 408 | ↓ 92 |
 | Avg real stress/session | 713 | 865 | ↓ 152 |
 
 - Top single: 140kg x 1 @ 9.50

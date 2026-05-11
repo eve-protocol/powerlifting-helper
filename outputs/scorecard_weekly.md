@@ -5,6 +5,70 @@
 Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.
 Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.
 
+## Volume Block v6 / Week 2
+
+Comparison baseline: Volume Block v6 / Week 1
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 3 | 9 | ↓ 6 |
+| Avg sets/session | 3 | 3 | → 0 |
+| Avg RPE | 6.83 | 6.57 | ↑ 0.26 |
+| Avg load | 119.2kg | 123.3kg | ↓ 4.1kg |
+| Tonnage | 2145kg | 7320kg | ↓ 5175kg |
+| Avg tonnage/session | 2145kg | 2440kg | ↓ 295kg |
+| Estimated stress | 737 | 2848 | ↓ 2111 |
+| Real stress | 760 | 2242 | ↓ 1482 |
+| Avg est stress/session | 737 | 949 | ↓ 212 |
+| Avg real stress/session | 760 | 747 | ↑ 13 |
+
+- Top single: -
+- Previous top single: 130kg x 1 @ -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 120kg x 6 @ 7
+- Previous top work set: 130kg x 8 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 4 | ↓ 3 |
+| Total sets | 3 | 11 | ↓ 8 |
+| Avg sets/session | 3 | 2.75 | ↑ 0.25 |
+| Avg RPE | 7.50 | 7.05 | ↑ 0.45 |
+| Avg load | 100.8kg | 87kg | ↑ 13.8kg |
+| Tonnage | 1512.5kg | 6937.5kg | ↓ 5425kg |
+| Avg tonnage/session | 1512.5kg | 1734.4kg | ↓ 221.9kg |
+| Estimated stress | 598 | 2368 | ↓ 1770 |
+| Real stress | 708 | 2495 | ↓ 1786 |
+| Avg est stress/session | 598 | 592 | ↑ 6 |
+| Avg real stress/session | 708 | 624 | ↑ 85 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 102.5kg x 5 @ 8
+- Previous top work set: 107.5kg x 8 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 1 | 6 | ↓ 5 |
+| Avg steps/day | - | 8288 | n/a |
+| Avg distance/day | -km | 7.29km | n/a |
+| Avg kcal/day | 1672 | 2659 | ↓ 987 |
+| Avg bodyweight | -kg | 79.1kg | n/a |
+| Avg resting HR | -bpm | 43.3bpm | n/a |
+| Avg sleep | -h | 7.31h | n/a |
+
+- Latest health date in period: 2026-05-11
+
 ## Volume Block v6 / Week 1
 
 Comparison baseline: Volume Block v5 / Week 3
