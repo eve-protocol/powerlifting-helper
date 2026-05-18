@@ -55,6 +55,20 @@ Comparison baseline: Volume Block v6 / Week 2
 - Previous top work set: 112.5kg x 6 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 1 | 6 | ↓ 5 |
+| Avg steps/day | 2631 | 7183 | ↓ 4552 |
+| Avg distance/day | 4.10km | 5.95km | ↓ 1.85km |
+| Avg kcal/day | 2400 | 2563 | ↓ 163 |
+| Avg bodyweight | -kg | 78.8kg | n/a |
+| Avg resting HR | 41bpm | 42.3bpm | ↓ 1.3bpm |
+| Avg sleep | 7.73h | 7.33h | ↑ 0.40h |
+
+- Latest health date in period: 2026-05-18
+
 ## Volume Block v6 / Week 2
 
 Comparison baseline: Volume Block v6 / Week 1
