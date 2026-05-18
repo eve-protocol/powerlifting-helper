@@ -5,6 +5,56 @@
 Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.
 Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.
 
+## Volume Block v6 / Week 3
+
+Comparison baseline: Volume Block v6 / Week 2
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 3 | 8 | ↓ 5 |
+| Avg sets/session | 3 | 2.67 | ↑ 0.33 |
+| Avg RPE | 7.75 | 6.92 | ↑ 0.83 |
+| Avg load | 125.8kg | 131.6kg | ↓ 5.8kg |
+| Tonnage | 1887.5kg | 6045kg | ↓ 4157.5kg |
+| Avg tonnage/session | 1887.5kg | 2015kg | ↓ 127.5kg |
+| Estimated stress | 807 | 2597 | ↓ 1789 |
+| Real stress | 625 | 2092 | ↓ 1467 |
+| Avg est stress/session | 807 | 866 | ↓ 58 |
+| Avg real stress/session | 625 | 697 | ↓ 72 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 127.5kg x 5 @ 7.50
+- Previous top work set: 142.5kg x 6 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 4 | ↓ 3 |
+| Total sets | 3 | 11 | ↓ 8 |
+| Avg sets/session | 3 | 2.75 | ↑ 0.25 |
+| Avg RPE | 7.67 | 7.32 | ↑ 0.35 |
+| Avg load | 105kg | 90kg | ↑ 15kg |
+| Tonnage | 1260kg | 5637.5kg | ↓ 4377.5kg |
+| Avg tonnage/session | 1260kg | 1409.4kg | ↓ 149.4kg |
+| Estimated stress | 602 | 2246 | ↓ 1643 |
+| Real stress | 662 | 2505 | ↓ 1844 |
+| Avg est stress/session | 602 | 561 | ↑ 41 |
+| Avg real stress/session | 662 | 626 | ↑ 35 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 105kg x 4 @ 7.50
+- Previous top work set: 112.5kg x 6 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
 ## Volume Block v6 / Week 2
 
 Comparison baseline: Volume Block v6 / Week 1
