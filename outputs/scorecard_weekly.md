@@ -36,17 +36,17 @@ Comparison baseline: Volume Block v6 / Week 2
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 4 | ↓ 3 |
-| Total sets | 3 | 11 | ↓ 8 |
+| Sessions | 2 | 4 | ↓ 2 |
+| Total sets | 6 | 11 | ↓ 5 |
 | Avg sets/session | 3 | 2.75 | ↑ 0.25 |
-| Avg RPE | 7.67 | 7.32 | ↑ 0.35 |
-| Avg load | 105kg | 90kg | ↑ 15kg |
-| Tonnage | 1260kg | 5637.5kg | ↓ 4377.5kg |
-| Avg tonnage/session | 1260kg | 1409.4kg | ↓ 149.4kg |
-| Estimated stress | 602 | 2246 | ↓ 1643 |
-| Real stress | 662 | 2505 | ↓ 1844 |
-| Avg est stress/session | 602 | 561 | ↑ 41 |
-| Avg real stress/session | 662 | 626 | ↑ 35 |
+| Avg RPE | 7.42 | 7.32 | ↑ 0.10 |
+| Avg load | 75.4kg | 90kg | ↓ 14.6kg |
+| Tonnage | 2085kg | 5637.5kg | ↓ 3552.5kg |
+| Avg tonnage/session | 1042.5kg | 1409.4kg | ↓ 366.9kg |
+| Estimated stress | 678 | 2246 | ↓ 1568 |
+| Real stress | 738 | 2505 | ↓ 1767 |
+| Avg est stress/session | 339 | 561 | ↓ 222 |
+| Avg real stress/session | 369 | 626 | ↓ 257 |
 
 - Top single: -
 - Previous top single: -
@@ -55,19 +55,42 @@ Comparison baseline: Volume Block v6 / Week 2
 - Previous top work set: 112.5kg x 6 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 2 | ↓ 1 |
+| Total sets | 2 | 6 | ↓ 4 |
+| Avg sets/session | 2 | 3 | ↓ 1 |
+| Avg RPE | 7.25 | 6.67 | ↑ 0.58 |
+| Avg load | 160kg | 161.7kg | ↓ 1.7kg |
+| Tonnage | 1280kg | 4377.5kg | ↓ 3097.5kg |
+| Avg tonnage/session | 1280kg | 2188.8kg | ↓ 908.8kg |
+| Estimated stress | 625 | 2260 | ↓ 1636 |
+| Real stress | 696 | 2179 | ↓ 1483 |
+| Avg est stress/session | 625 | 1130 | ↓ 505 |
+| Avg real stress/session | 696 | 1090 | ↓ 393 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 160kg x 4 @ 7
+- Previous top work set: 167.5kg x 5 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
 ### Health / Recovery
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 1 | 6 | ↓ 5 |
+| Days with data | 2 | 6 | ↓ 4 |
 | Avg steps/day | 2631 | 7183 | ↓ 4552 |
 | Avg distance/day | 4.10km | 5.95km | ↓ 1.85km |
-| Avg kcal/day | 2400 | 2563 | ↓ 163 |
+| Avg kcal/day | 1224 | 2563 | ↓ 1339 |
 | Avg bodyweight | -kg | 78.8kg | n/a |
 | Avg resting HR | 41bpm | 42.3bpm | ↓ 1.3bpm |
 | Avg sleep | 7.73h | 7.33h | ↑ 0.40h |
 
-- Latest health date in period: 2026-05-18
+- Latest health date in period: 2026-05-19
 
 ## Volume Block v6 / Week 2
 
