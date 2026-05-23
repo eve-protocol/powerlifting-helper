@@ -531,6 +531,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Sleep: 7.64 h asleep (7.96 h in bed, deep 1.43 h, REM 0.98 h, awake 0.32 h)
 
 **Squat (Low Bar)**
+- Exercise notes: Added extra rep because of discount
 - Set 1: 8 × 130kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=425; real_stress=446]
 - Set 2: 8 × 130kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=425; real_stress=446]
 - Set 3: 7 × 130kg @ RPE 6 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=425; real_stress=317]
@@ -1631,6 +1632,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 4: 10 × 30kg @ RPE 8 [target_reps=10, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
 
 **Leg Curl**
+- Exercise notes: Interestingly every single time my left leg is stronger and finish lower RPE.
 - Set 1: 10 × 35kg @ RPE 8 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 10 × 35kg @ RPE 8.5 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
 - Set 3: 10 × 35kg @ RPE 9 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]

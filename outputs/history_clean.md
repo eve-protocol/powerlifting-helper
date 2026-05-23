@@ -454,6 +454,8 @@ Finished: 2026-05-06 10:16:30
 
 ### Squat (Low Bar)
 
+Exercise notes: Added extra rep because of discount
+
   Set 1: 130.0kg x 8 @ RPE 7 [target RPE: 6.5-7] [est_stress=425, real_stress=446]
   Set 2: 130.0kg x 8 @ RPE 7 [target RPE: 6.5-7] [est_stress=425, real_stress=446]
   Set 3: 130.0kg x 7 @ RPE 6 [target: 8 reps, target RPE: 6.5-7] [est_stress=425, real_stress=317]
@@ -1666,6 +1668,8 @@ Finished: 2026-03-19 09:35:38
   Set 4: 30.0kg x 10 @ RPE 8 [target RPE: 8.5-9]
 
 ### Leg Curl
+
+Exercise notes: Interestingly every single time my left leg is stronger and finish lower RPE.
 
   Set 1: 35.0kg x 10 @ RPE 8 [target RPE: 8-8.5]
   Set 2: 35.0kg x 10 @ RPE 8.5 [target RPE: 8-8.5]
@@ -3596,6 +3600,8 @@ Finished: 2026-01-12 10:21:55
 
 ### Squat (Low Bar)
 
+Exercise notes: Best 3 RM
+
   Set 2: 155.0kg x 3 @ RPE 9.5 [target RPE: 88] [est_stress=-, real_stress=507]
   Set 3: 142.5kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=321]
   Set 4: 142.5kg x 3 @ RPE 8.5 [target RPE: 83] [est_stress=-, real_stress=321]
@@ -4046,6 +4052,8 @@ Finished: 2025-12-27 10:19:11
 
 ### Sumo Deadlift (Barbell)
 
+Exercise notes: Attempt 5 RM PR
+
   Set 1: 180.0kg x 1 @ RPE 8.5 [target RPE: 90] [est_stress=-, real_stress=160]
   Set 2: 162.5kg x 5 @ RPE 6.5 [target RPE: 81] [est_stress=-, real_stress=389]
   Set 3: 160.0kg x 5 @ RPE 6.5 [target RPE: 75] [est_stress=-, real_stress=371]
@@ -4090,6 +4098,8 @@ Finished: 2025-12-27 10:19:11
 Finished: 2025-12-24 09:48:58
 
 ### Bench Press (Barbell)
+
+Exercise notes: Attempt 5 RM PR
 
   Set 1: 122.0kg x 1 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=124]
   Set 2: 115.0kg x 4 @ RPE 9.5 [target: 5 reps, target RPE: 83] [est_stress=-, real_stress=468]
@@ -4170,6 +4180,8 @@ Finished: 2025-12-22 18:53:06
 Finished: 2025-12-21 10:14:05
 
 ### Squat (Low Bar)
+
+Exercise notes: Attempt 5 RM PR
 
   Set 1: 157.5kg x 1 @ RPE 9 [target RPE: 91] [est_stress=-, real_stress=158]
   Set 2: 142.5kg x 5 @ RPE 9 [target RPE: 82] [est_stress=-, real_stress=583]
@@ -9316,6 +9328,8 @@ Finished: 2025-06-18 10:39:32
 
 ### Bulgarian Split Squat (Barbell)
 
+Exercise notes: Dernière série masse pauses
+
   Set 1: 62.5kg x 10 [target RPE: 9-10]
   Set 2: 62.5kg x 9 [target RPE: 9-10]
   Set 3: 62.5kg x 9 [target RPE: 9-10]
@@ -11540,6 +11554,8 @@ Finished: 2025-03-20 10:06:30
 
 ### Leg Extension
 
+Exercise notes: Unilateral
+
   Set 1: 30.0kg x 15 [target RPE: 9-10]
   Set 2: 35.0kg x 14 [target RPE: 9-10]
   Set 3: 35.0kg x 15 [target RPE: 9-10]
@@ -11725,6 +11741,8 @@ Finished: 2025-03-13 10:12:45
 
 ### Leg Extension
 
+Exercise notes: Unilateral
+
   Set 1: 20.0kg x 18 [target RPE: 9-10]
   Set 2: 22.5kg x 16 [target RPE: 9-10]
   Set 3: 25.0kg x 15 [target RPE: 9-10]
@@ -11874,6 +11892,8 @@ Finished: 2025-03-08 10:27:05
 
 ### Leg Curl
 
+Exercise notes: Unilateral ( divide weight by 2 )
+
   Set 1: 35.0kg x 10 [target RPE: 9-10]
   Set 2: 32.5kg x 10 [target RPE: 9-10]
   Set 3: 30.0kg x 10 [target RPE: 9-10]
@@ -11913,6 +11933,8 @@ Finished: 2025-03-06 10:16:32
   Set 3: 27.5kg x 4 [target RPE: 9-10]
 
 ### Leg Extension
+
+Exercise notes: Did both legs ( multiply by 2 )
 
   Set 1: 20.0kg x 15 [target RPE: 9-10]
   Set 2: 22.5kg x 14 [target RPE: 9-10]
@@ -12294,6 +12316,8 @@ Finished: 2025-02-15 10:29:02
 
 ### Leg Curl
 
+Exercise notes: Did unilatéral ( divide weight by 2 for real weight )
+
   Set 1: 32.5kg x 13 [target RPE: 10]
   Set 2: 35.0kg x 10 [target RPE: 10]
   Set 3: 32.5kg x 11 [target RPE: 10]
@@ -12481,6 +12505,8 @@ Finished: 2025-02-08 10:16:10
 
 ### Leg Curl
 
+Exercise notes: Did unilateral (multiplied weight by 2)
+
   Set 1: 32.5kg x 10 @ RPE 10 [target RPE: 10]
   Set 2: 31.0kg x 12 @ RPE 10 [target RPE: 10]
   Set 3: 31.0kg x 10 [target RPE: 10]
@@ -12667,6 +12693,8 @@ Finished: 2025-02-01 10:30:06
   Set 3: 60.0kg x 8 @ RPE 9.5 [target RPE: 10]
 
 ### Leg Curl
+
+Exercise notes: Did unilatéral ( multiplied weight by 2 )
 
   Set 1: 30.0kg x 15 @ RPE 9.5 [target RPE: 10]
   Set 2: 32.5kg x 10 @ RPE 9.5 [target RPE: 10]
@@ -13511,6 +13539,8 @@ Finished: 2025-01-04 10:37:48
 Finished: 2025-01-02 10:10:15
 
 ### Deadlift (Barbell)
+
+Exercise notes: Switched to sumo after the 1 rep
 
   Set 1: 160.0kg x 1 [target RPE: 6] [est_stress=104, real_stress=-]
   Set 2: 160.0kg x 2 @ RPE 8 [target: 4 reps, target RPE: 8] [est_stress=640, real_stress=320]
