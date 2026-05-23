@@ -53,6 +53,19 @@ FAMILY_LABELS = {
 }
 
 
+def format_exercise_notes(record):
+    """Return Boostcamp exercise notes as a compact markdown-safe string."""
+    notes = []
+    for key in ('user_notes', 'notes'):
+        value = record.get(key)
+        if not value or value is False:
+            continue
+        note = ' '.join(str(value).split())
+        if note and note not in notes:
+            notes.append(note)
+    return ' | '.join(notes)
+
+
 def parse_week_day(title):
     if not title:
         return None, None
@@ -353,6 +366,10 @@ def render_clean_history(output_path, workouts, health_daily, reference_resolver
             family = get_exercise_family(exercise_name)
             lines.append(f"### {exercise_name}")
             lines.append("")
+            exercise_notes = format_exercise_notes(record)
+            if exercise_notes:
+                lines.append(f"Exercise notes: {exercise_notes}")
+                lines.append("")
             for i, set_data in enumerate(record.get('sets', []), 1):
                 set_str = format_set(set_data, i, family, workout['date'], reference_resolver)
                 if set_str:

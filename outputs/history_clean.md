@@ -14,11 +14,15 @@ Finished: 2026-05-23 09:47:32
 
 ### Sumo Deadlift (Barbell)
 
+Exercise notes: On set 1 rep 3 and 5th were not locked On set 2 rep 5 was not locked but I tried again a 6h and did not lock either. The bar is too slippery. 3rd set I used straps
+
   Set 1: 170.0kg x 3 @ RPE 8 [target: 5 reps, target RPE: 7.5-8] [est_stress=583, real_stress=368]
   Set 2: 170.0kg x 4 @ RPE 8.5 [target: 5 reps, target RPE: 7.5-8] [est_stress=583, real_stress=540]
   Set 3: 170.0kg x 5 @ RPE 9 [target RPE: 7.5-8] [est_stress=583, real_stress=737]
 
 ### Squat (Low Bar)
+
+Exercise notes: 137.5 felt easy ( <5 ) 140 felt maybe rpe 5
 
   Set 1: 137.5kg x 4 [target RPE: 5.5-6] [est_stress=202, real_stress=-]
   Set 2: 140.0kg x 4 [target RPE: 5.5-6] [est_stress=213, real_stress=-]

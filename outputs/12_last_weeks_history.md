@@ -281,11 +281,13 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Total kcal burned: 1672
 
 **Sumo Deadlift (Barbell)**
+- Exercise notes: On set 1 rep 3 and 5th were not locked On set 2 rep 5 was not locked but I tried again a 6h and did not lock either. The bar is too slippery. 3rd set I used straps
 - Set 1: 3 × 170kg @ RPE 8 [target_reps=5, target_intensity=[7.5, 8]RPE_range; est_stress=583; real_stress=368]
 - Set 2: 4 × 170kg @ RPE 8.5 [target_reps=5, target_intensity=[7.5, 8]RPE_range; est_stress=583; real_stress=540]
 - Set 3: 5 × 170kg @ RPE 9 [target_reps=5, target_intensity=[7.5, 8]RPE_range; est_stress=583; real_stress=737]
 
 **Squat (Low Bar)**
+- Exercise notes: 137.5 felt easy ( <5 ) 140 felt maybe rpe 5
 - Set 1: 4 × 137kg @ RPE - [target_reps=4, target_intensity=[5.5, 6]RPE_range; est_stress=200; real_stress=-]
 - Set 2: 4 × 140kg @ RPE - [target_reps=4, target_intensity=[5.5, 6]RPE_range; est_stress=213; real_stress=-]
 

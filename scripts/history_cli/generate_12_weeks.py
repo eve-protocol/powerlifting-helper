@@ -54,6 +54,19 @@ def get_day_name(date_str):
     return dt.strftime('%A')
 
 
+def format_exercise_notes(exercise):
+    """Return Boostcamp exercise notes as a compact markdown-safe string."""
+    notes = []
+    for key in ('user_notes', 'notes'):
+        value = exercise.get(key)
+        if not value or value is False:
+            continue
+        note = ' '.join(str(value).split())
+        if note and note not in notes:
+            notes.append(note)
+    return ' | '.join(notes)
+
+
 def format_target_info(set_data):
     """Format target info (percentage/RPE/reps)."""
     parts = []
@@ -143,6 +156,7 @@ def parse_workout_data(data, start_date, end_date, reference_resolver):
             
             for exercise in records:
                 exercise_name = exercise.get('name', 'Unknown Exercise')
+                exercise_notes = format_exercise_notes(exercise)
                 sets_data = []
                 
                 for s in exercise.get('sets', []):
@@ -195,6 +209,7 @@ def parse_workout_data(data, start_date, end_date, reference_resolver):
                 if sets_data:
                     weeks[week_key]['days'][date_str].append({
                         'exercise': exercise_name,
+                        'notes': exercise_notes,
                         'sets': sets_data
                     })
     
@@ -387,6 +402,8 @@ def generate_markdown(weeks, start_date, end_date, health_daily):
             
             for ex in exercises:
                 lines.append(f"**{ex['exercise']}**")
+                if ex.get('notes'):
+                    lines.append(f"- Exercise notes: {ex['notes']}")
                 
                 for i, s in enumerate(ex['sets'], 1):
                     failed_tag = " [failed]" if s.get('failed') else ""
