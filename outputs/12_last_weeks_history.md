@@ -278,7 +278,11 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### Health / Recovery
 
-- Total kcal burned: 1672
+- Steps: 16849
+- Distance: 13.71 km
+- Total kcal burned: 2310
+- Resting heart rate: 42 bpm
+- Sleep: 7.48 h asleep (7.57 h in bed, deep 1.73 h, REM 1.35 h, awake 0.08 h)
 
 **Sumo Deadlift (Barbell)**
 - Exercise notes: On set 1 rep 3 and 5th were not locked On set 2 rep 5 was not locked but I tried again a 6h and did not lock either. The bar is too slippery. 3rd set I used straps
