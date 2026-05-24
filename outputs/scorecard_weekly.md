@@ -83,9 +83,9 @@ Comparison baseline: Volume Block v6 / Week 2
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Days with data | 6 | 6 | → 0 |
-| Avg steps/day | 7439 | 7183 | ↑ 256 |
-| Avg distance/day | 6.60km | 5.95km | ↑ 0.65km |
-| Avg kcal/day | 2424 | 2563 | ↓ 139 |
+| Avg steps/day | 7654 | 7183 | ↑ 471 |
+| Avg distance/day | 6.78km | 5.95km | ↑ 0.83km |
+| Avg kcal/day | 2521 | 2563 | ↓ 42 |
 | Avg bodyweight | 79.1kg | 78.8kg | ↑ 0.2kg |
 | Avg resting HR | 42bpm | 42.3bpm | ↓ 0.3bpm |
 | Avg sleep | 7.07h | 7.33h | ↓ 0.26h |
