@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-05-25 |
-| Training Days | 358 |
-| Total Sets | 4496 |
+| Date Range | 2024-12-28 → 2026-05-26 |
+| Training Days | 359 |
+| Total Sets | 4505 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -41,8 +41,8 @@
 
 W22:
   Squat    │ 0kg
-  Bench    │▓▓ 645kg
-  Deadlift │ 0kg
+  Bench    │▓▓▓▓▓ 1185kg
+  Deadlift │░░░░ 982kg
 
 W21:
   Squat    │██████████████ 3322kg
@@ -218,7 +218,7 @@ W13:
 |------|--------|------|-----|------|
 | 1RM | 150.0kg | - | 9 | 🟠 2025-10-27 |
 | 3RM | 140.0kg | 165.2kg | 7 | 🟠 2025-10-13 |
-| 4RM | 120.0kg | 158.5kg | 6 | 🔴 2025-05-26 |
+| 4RM | 120.0kg | 158.5kg | 6 | 🟣 2025-05-26 |
 | 5RM | 115.0kg | 150.0kg | 7 | 🟣 2025-05-12 |
 
 #### Squat (Smith Machine)
@@ -260,7 +260,7 @@ W13:
 | 2RM | 132.5kg | 148.2kg | 6 | 🟡 2026-02-18 |
 | 3RM | 140.0kg | 158.6kg | 8 | 🟡 2026-02-11 |
 | 4RM | 122.5kg | 155.1kg | 7 | 🟡 2025-12-24 |
-| 5RM | 130.0kg | 158.6kg | 7 | 🟢 2026-02-25 |
+| 5RM | 130.0kg | 158.6kg | 7 | 🟡 2026-02-25 |
 | 6RM | 110.0kg | 148.2kg | 6.5 | 🟡 2026-01-21 |
 
 #### Tempo Squat High Bar (Barbell)
