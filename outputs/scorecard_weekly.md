@@ -13,24 +13,24 @@ Comparison baseline: Volume Block v6 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 3 | ↓ 2 |
-| Total sets | 2 | 8 | ↓ 6 |
-| Avg sets/session | 2 | 2.67 | ↓ 0.67 |
-| Avg RPE | 6.50 | 7.60 | ↓ 1.10 |
-| Avg load | 127.5kg | 137.2kg | ↓ 9.7kg |
-| Tonnage | 1275kg | 5210kg | ↓ 3935kg |
-| Avg tonnage/session | 1275kg | 1736.7kg | ↓ 461.7kg |
-| Estimated stress | 453 | 2675 | ↓ 2222 |
-| Real stress | 253 | 2006 | ↓ 1753 |
-| Avg est stress/session | 453 | 892 | ↓ 439 |
-| Avg real stress/session | 253 | 669 | ↓ 416 |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 5 | 8 | ↓ 3 |
+| Avg sets/session | 2.50 | 2.67 | ↓ 0.17 |
+| Avg RPE | 7.50 | 7.60 | ↓ 0.10 |
+| Avg load | 139kg | 137.2kg | ↑ 1.8kg |
+| Tonnage | 3475kg | 5210kg | ↓ 1735kg |
+| Avg tonnage/session | 1737.5kg | 1736.7kg | ↑ 0.8kg |
+| Estimated stress | 1946 | 2675 | ↓ 729 |
+| Real stress | 1892 | 2006 | ↓ 114 |
+| Avg est stress/session | 973 | 892 | ↑ 81 |
+| Avg real stress/session | 946 | 669 | ↑ 277 |
 
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 130kg x 5 @ 6.50
+- Top work set: 160kg x 5 @ 10
 - Previous top work set: 150kg x 5 @ 8
-- Top work-set delta: ↓ 20kg (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↑ 10kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
@@ -82,15 +82,15 @@ Comparison baseline: Volume Block v6 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 2 | 6 | ↓ 4 |
+| Days with data | 3 | 6 | ↓ 3 |
 | Avg steps/day | 2904 | 7654 | ↓ 4750 |
 | Avg distance/day | 2.99km | 6.78km | ↓ 3.79km |
-| Avg kcal/day | 1952 | 2521 | ↓ 569 |
+| Avg kcal/day | 1858 | 2521 | ↓ 663 |
 | Avg bodyweight | 79.1kg | 79.1kg | ↑ 0kg |
 | Avg resting HR | 40bpm | 42bpm | ↓ 2bpm |
 | Avg sleep | 7.12h | 7.07h | ↑ 0.05h |
 
-- Latest health date in period: 2026-05-26
+- Latest health date in period: 2026-05-27
 
 ## Volume Block v6 / Week 3
 
