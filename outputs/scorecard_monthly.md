@@ -13,17 +13,17 @@ Comparison baseline: 2026-04
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 12 | 13 | ↓ 1 |
-| Total sets | 32 | 35 | ↓ 3 |
-| Avg sets/session | 2.67 | 2.69 | ↓ 0.02 |
-| Avg RPE | 7.25 | 7.30 | ↓ 0.05 |
-| Avg load | 134.2kg | 146.4kg | ↓ 12.2kg |
-| Tonnage | 22390kg | 14045kg | ↑ 8345kg |
-| Avg tonnage/session | 1865.8kg | 1080.4kg | ↑ 785.4kg |
-| Estimated stress | 10412 | 7284 | ↑ 3128 |
-| Real stress | 8644 | 6899 | ↑ 1745 |
-| Avg est stress/session | 868 | 560 | ↑ 307 |
-| Avg real stress/session | 720 | 531 | ↑ 190 |
+| Sessions | 13 | 13 | → 0 |
+| Total sets | 34 | 35 | ↓ 1 |
+| Avg sets/session | 2.62 | 2.69 | ↓ 0.07 |
+| Avg RPE | 7.20 | 7.30 | ↓ 0.10 |
+| Avg load | 134.6kg | 146.4kg | ↓ 11.8kg |
+| Tonnage | 23230kg | 14045kg | ↑ 9185kg |
+| Avg tonnage/session | 1786.9kg | 1080.4kg | ↑ 706.5kg |
+| Estimated stress | 10693 | 7284 | ↑ 3409 |
+| Real stress | 8814 | 6899 | ↑ 1915 |
+| Avg est stress/session | 823 | 560 | ↑ 262 |
+| Avg real stress/session | 678 | 531 | ↑ 147 |
 
 - Top single: 175kg x 1 @ 10
 - Previous top single: 165kg x 1 @ 8.50
@@ -36,17 +36,17 @@ Comparison baseline: 2026-04
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 16 | 18 | ↓ 2 |
-| Total sets | 43 | 47 | ↓ 4 |
-| Avg sets/session | 2.69 | 2.61 | ↑ 0.08 |
-| Avg RPE | 7.46 | 7.87 | ↓ 0.41 |
-| Avg load | 93.8kg | 104.3kg | ↓ 10.5kg |
-| Tonnage | 20625kg | 13375kg | ↑ 7250kg |
-| Avg tonnage/session | 1289.1kg | 743.1kg | ↑ 546kg |
-| Estimated stress | 8820 | 6860 | ↑ 1960 |
-| Real stress | 9537 | 8107 | ↑ 1430 |
-| Avg est stress/session | 551 | 381 | ↑ 170 |
-| Avg real stress/session | 596 | 450 | ↑ 146 |
+| Sessions | 17 | 18 | ↓ 1 |
+| Total sets | 45 | 47 | ↓ 2 |
+| Avg sets/session | 2.65 | 2.61 | ↑ 0.04 |
+| Avg RPE | 7.42 | 7.87 | ↓ 0.45 |
+| Avg load | 94.6kg | 104.3kg | ↓ 9.7kg |
+| Tonnage | 21505kg | 13375kg | ↑ 8130kg |
+| Avg tonnage/session | 1265kg | 743.1kg | ↑ 521.9kg |
+| Estimated stress | 9193 | 6860 | ↑ 2333 |
+| Real stress | 9931 | 8107 | ↑ 1824 |
+| Avg est stress/session | 541 | 381 | ↑ 160 |
+| Avg real stress/session | 584 | 450 | ↑ 134 |
 
 - Top single: 140kg x 1 @ 9.50
 - Previous top single: 132.5kg x 1 @ 8.50
@@ -59,22 +59,22 @@ Comparison baseline: 2026-04
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 8 | 10 | ↓ 2 |
-| Total sets | 22 | 34 | ↓ 12 |
-| Avg sets/session | 2.75 | 3.40 | ↓ 0.65 |
-| Avg RPE | 7.27 | 7.88 | ↓ 0.61 |
-| Avg load | 165kg | 165.5kg | ↓ 0.5kg |
-| Tonnage | 14382.5kg | 12022.5kg | ↑ 2360kg |
-| Avg tonnage/session | 1797.8kg | 1202.2kg | ↑ 595.6kg |
-| Estimated stress | 7905 | 7962 | ↓ 57 |
-| Real stress | 7975 | 7006 | ↑ 969 |
-| Avg est stress/session | 988 | 796 | ↑ 192 |
-| Avg real stress/session | 997 | 701 | ↑ 296 |
+| Sessions | 9 | 10 | ↓ 1 |
+| Total sets | 25 | 34 | ↓ 9 |
+| Avg sets/session | 2.78 | 3.40 | ↓ 0.62 |
+| Avg RPE | 7.35 | 7.88 | ↓ 0.53 |
+| Avg load | 165.2kg | 165.5kg | ↓ 0.3kg |
+| Tonnage | 16882.5kg | 12022.5kg | ↑ 4860kg |
+| Avg tonnage/session | 1875.8kg | 1202.2kg | ↑ 673.6kg |
+| Estimated stress | 9596 | 7962 | ↑ 1634 |
+| Real stress | 9348 | 7006 | ↑ 2341 |
+| Avg est stress/session | 1066 | 796 | ↑ 270 |
+| Avg real stress/session | 1039 | 701 | ↑ 338 |
 
 - Top single: 195kg x 1 @ 10
 - Previous top single: 187.5kg x 1 @ 8.50
 - Top single delta: ↑ 7.5kg (only meaningful when the variation is comparable)
-- Top work set: 170kg x 5 @ 9
+- Top work set: 177.5kg x 5 @ 9.50
 - Previous top work set: 185kg x 2 @ 9
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
