@@ -55,13 +55,17 @@ block_goals:
   strength_block_v5:
     test_format: 3RM
     squat_low_bar:
-      baseline: 160kg x3 @9.5 on 2026-03-30
-      goal: 162.5kg x3 @9-9.5 with better knee-forward timing
-      stretch: 165kg x3 without major good-morning pattern
+      baseline: 160kg x5 @10 on 2026-05-27; 160kg x3 @9.5 on 2026-03-30
+      goal: 165kg x3 @9-9.5 with better chest/hip timing than the final reps of 160kg x5
+      stretch: 167.5kg x3 if rep 2 does not already show chest-lag / hips shooting back
+    bench_press:
+      baseline: 127.5kg x3 @9.5 on 2026-03-31; 120kg x5 x2 @9 on 2026-05-21
+      goal: 130kg x3 @9-9.5 if pec/shoulder feels quiet and warm-ups move normally
+      stretch: 132.5kg x3 only if the opener-like single is sharp and there is no pec/shoulder hesitation
     sumo_deadlift:
-      baseline: 185kg x2 @9 on 2026-04-04; no clean recent 3RM benchmark
+      baseline: 177.5kg x5 @9.5 on 2026-05-30; 185kg x2 @9 on 2026-04-04
       goal: 185kg x3 @9-9.5 if lat/lockout position holds
-      stretch: 187.5kg x3 with acceptable top-half position
+      stretch: 187.5kg x3 with acceptable top-half position; 190kg x3 only if lockout is clearly cleaner than 177.5kg x5
   peaking_block_v7:
     test_format: 1RM
     squat_low_bar:
