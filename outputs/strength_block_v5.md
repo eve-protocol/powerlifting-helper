@@ -12,12 +12,12 @@
 
 ### Week 1
 
-#### Day 1 — Monday - Paused Bench / Pause Squat / Pull-Ups
+#### Day 1 — Monday - Pause Squat / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
-| 2 | Squat (Paused) | 4 reps @ RPE 6.5-7; 4 reps @ RPE 6.5-7; 4 reps @ RPE 6.5-7 |
+| 1 | Squat (Paused) | 4 reps @ RPE 6.5-7; 4 reps @ RPE 6.5-7; 4 reps @ RPE 6.5-7 |
+| 2 | Bench Press (Paused) | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -67,12 +67,12 @@
 
 ### Week 2
 
-#### Day 1 — Monday - Paused Bench / Pause Squat / Pull-Ups
+#### Day 1 — Monday - Pause Squat / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5 |
-| 2 | Squat (Paused) | 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5 |
+| 1 | Squat (Paused) | 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5 |
+| 2 | Bench Press (Paused) | 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -122,12 +122,12 @@
 
 ### Week 3
 
-#### Day 1 — Monday - Paused Bench / Pause Squat / Pull-Ups
+#### Day 1 — Monday - Pause Squat / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 3 reps @ RPE 7.5-8; 3 reps @ RPE 7.5-8 |
-| 2 | Squat (Paused) | 3 reps @ RPE 7.5-8; 3 reps @ RPE 7.5-8 |
+| 1 | Squat (Paused) | 3 reps @ RPE 7.5-8; 3 reps @ RPE 7.5-8 |
+| 2 | Bench Press (Paused) | 3 reps @ RPE 7.5-8; 3 reps @ RPE 7.5-8 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 
@@ -177,12 +177,12 @@
 
 ### Week 4
 
-#### Day 1 — Monday - Paused Bench / Pause Squat / Pull-Ups
+#### Day 1 — Monday - Pause Squat / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 2 reps @ RPE 6.5-7; 2 reps @ RPE 6.5-7 |
-| 2 | Squat (Paused) | 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
+| 1 | Squat (Paused) | 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
+| 2 | Bench Press (Paused) | 2 reps @ RPE 6.5-7; 2 reps @ RPE 6.5-7 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8; 5 reps @ RPE 7.5-8 |
 | 4 | Cable Crunch | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 

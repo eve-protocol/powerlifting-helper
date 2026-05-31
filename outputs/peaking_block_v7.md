@@ -1,6 +1,6 @@
 # Peaking Block v7
 
-4-week realization/peaking block. All lifts competition-specific — no squat variations, no Larsen. Heavy singles ramp across the block toward mock meet. Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse opener/second-attempt execution, followed by controlled backoff doubles. Week 4 is a mock-meet realization week with openers Monday, easy-but-loaded squat/bench practice midweek, and full mock meet Saturday rather than an aggressive taper. Incline DB stays weeks 1-2 then drops out. Paused bench and paused deadlift serve as lighter technique work. Monday stays upper-focused with light low bar to preserve the Saturday→Monday recovery fix.
+4-week realization/peaking block. All lifts competition-specific — no squat variations, no Larsen. Heavy singles ramp across the block toward mock meet. Week 3 is the final heavy practice week: RPE-based singles are intended to rehearse opener/second-attempt execution, followed by controlled backoff doubles. Week 4 is a mock-meet realization week with openers Monday, easy-but-loaded squat/bench practice midweek, and full mock meet Saturday rather than an aggressive taper. Incline DB stays weeks 1-2 then drops out. Paused bench and paused deadlift serve as lighter technique work. Monday starts with light low bar before paused bench to preserve the Saturday→Monday recovery fix.
 
 ## Overview
 
@@ -12,12 +12,12 @@
 
 ### Week 1
 
-#### Day 1 — Monday - Paused Bench / Light Low Bar / Pull-Ups
+#### Day 1 — Monday - Light Low Bar / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5 |
-| 2 | Squat (Low Bar) | 3 reps @ RPE 6-6.5; 3 reps @ RPE 6-6.5 |
+| 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5; 3 reps @ RPE 6-6.5 |
+| 2 | Bench Press (Paused) | 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5; 3 reps @ RPE 7-7.5 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Paused Deadlift / Incline DB
@@ -62,12 +62,12 @@
 
 ### Week 2
 
-#### Day 1 — Monday - Paused Bench / Light Low Bar / Pull-Ups
+#### Day 1 — Monday - Light Low Bar / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 6-6.5; 2 reps @ RPE 6-6.5 |
+| 1 | Squat (Low Bar) | 2 reps @ RPE 6-6.5; 2 reps @ RPE 6-6.5 |
+| 2 | Bench Press (Paused) | 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5; 2 reps @ RPE 7-7.5 |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5; 5 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Paused Deadlift / Incline DB
@@ -112,12 +112,12 @@
 
 ### Week 3
 
-#### Day 1 — Monday - Paused Bench / Light Low Bar / Pull-Ups
+#### Day 1 — Monday - Light Low Bar / Paused Bench / Pull-Ups
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Paused) | 2 reps @ RPE 6.5-7; 2 reps @ RPE 6.5-7 |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6; 2 reps @ RPE 5.5-6 |
+| 1 | Squat (Low Bar) | 2 reps @ RPE 5.5-6; 2 reps @ RPE 5.5-6 |
+| 2 | Bench Press (Paused) | 2 reps @ RPE 6.5-7; 2 reps @ RPE 6.5-7 |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 7-7.5; 4 reps @ RPE 7-7.5 |
 
 #### Day 2 — Tuesday - Paused Deadlift / Shoulders
