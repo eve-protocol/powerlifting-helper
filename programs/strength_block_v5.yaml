@@ -10,25 +10,8 @@ days_per_week: 5
 workouts:
 - week: 1
   day: 1
-  name: Monday - Paused Bench / Pause Squat / Pull-Ups
+  name: Monday - Pause Squat / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
-    type: Barbell
-    muscles:
-    - Chest
-    sets:
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
   - name: Squat (Paused)
     type: Barbell
     muscles:
@@ -46,6 +29,23 @@ workouts:
       rpe:
       - 6.5
       - 7
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:
@@ -352,12 +352,12 @@ workouts:
       - 7
 - week: 2
   day: 1
-  name: Monday - Paused Bench / Pause Squat / Pull-Ups
+  name: Monday - Pause Squat / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
+  - name: Squat (Paused)
     type: Barbell
     muscles:
-    - Chest
+    - Legs
     sets:
     - target: 3
       rpe:
@@ -371,10 +371,10 @@ workouts:
       rpe:
       - 7
       - 7.5
-  - name: Squat (Paused)
+  - name: Bench Press (Paused)
     type: Barbell
     muscles:
-    - Legs
+    - Chest
     sets:
     - target: 3
       rpe:
@@ -694,12 +694,12 @@ workouts:
       - 7.5
 - week: 3
   day: 1
-  name: Monday - Paused Bench / Pause Squat / Pull-Ups
+  name: Monday - Pause Squat / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
+  - name: Squat (Paused)
     type: Barbell
     muscles:
-    - Chest
+    - Legs
     sets:
     - target: 3
       rpe:
@@ -709,10 +709,10 @@ workouts:
       rpe:
       - 7.5
       - 8
-  - name: Squat (Paused)
+  - name: Bench Press (Paused)
     type: Barbell
     muscles:
-    - Legs
+    - Chest
     sets:
     - target: 3
       rpe:
@@ -1024,21 +1024,8 @@ workouts:
       - 7.5
 - week: 4
   day: 1
-  name: Monday - Paused Bench / Pause Squat / Pull-Ups
+  name: Monday - Pause Squat / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
-    type: Barbell
-    muscles:
-    - Chest
-    sets:
-    - target: 2
-      rpe:
-      - 6.5
-      - 7
-    - target: 2
-      rpe:
-      - 6.5
-      - 7
   - name: Squat (Paused)
     type: Barbell
     muscles:
@@ -1052,6 +1039,19 @@ workouts:
       rpe:
       - 7
       - 7.5
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:

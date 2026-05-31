@@ -6,15 +6,28 @@ description: '4-week realization/peaking block. All lifts competition-specific â
   is a mock-meet realization week with openers Monday, easy-but-loaded squat/bench
   practice midweek, and full mock meet Saturday rather than an aggressive taper.
   Incline DB stays weeks 1-2 then drops out. Paused bench and paused deadlift serve
-  as lighter technique work. Monday stays upper-focused with light low bar to preserve
+  as lighter technique work. Monday starts with light low bar before paused bench to preserve
   the Saturdayâ†’Monday recovery fix.'
 weeks: 4
 days_per_week: 5
 workouts:
 - week: 1
   day: 1
-  name: Monday - Paused Bench / Light Low Bar / Pull-Ups
+  name: Monday - Light Low Bar / Paused Bench / Pull-Ups
   exercises:
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
   - name: Bench Press (Paused)
     type: Barbell
     muscles:
@@ -32,19 +45,6 @@ workouts:
       rpe:
       - 7
       - 7.5
-  - name: Squat (Low Bar)
-    type: Barbell
-    muscles:
-    - Legs
-    sets:
-    - target: 3
-      rpe:
-      - 6
-      - 6.5
-    - target: 3
-      rpe:
-      - 6
-      - 6.5
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:
@@ -254,8 +254,21 @@ workouts:
       - 6.5
 - week: 2
   day: 1
-  name: Monday - Paused Bench / Light Low Bar / Pull-Ups
+  name: Monday - Light Low Bar / Paused Bench / Pull-Ups
   exercises:
+  - name: Squat (Low Bar)
+    type: Barbell
+    muscles:
+    - Legs
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
   - name: Bench Press (Paused)
     type: Barbell
     muscles:
@@ -273,19 +286,6 @@ workouts:
       rpe:
       - 7
       - 7.5
-  - name: Squat (Low Bar)
-    type: Barbell
-    muscles:
-    - Legs
-    sets:
-    - target: 2
-      rpe:
-      - 6
-      - 6.5
-    - target: 2
-      rpe:
-      - 6
-      - 6.5
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:
@@ -491,21 +491,8 @@ workouts:
       - 6.5
 - week: 3
   day: 1
-  name: Monday - Paused Bench / Light Low Bar / Pull-Ups
+  name: Monday - Light Low Bar / Paused Bench / Pull-Ups
   exercises:
-  - name: Bench Press (Paused)
-    type: Barbell
-    muscles:
-    - Chest
-    sets:
-    - target: 2
-      rpe:
-      - 6.5
-      - 7
-    - target: 2
-      rpe:
-      - 6.5
-      - 7
   - name: Squat (Low Bar)
     type: Barbell
     muscles:
@@ -519,6 +506,19 @@ workouts:
       rpe:
       - 5.5
       - 6
+  - name: Bench Press (Paused)
+    type: Barbell
+    muscles:
+    - Chest
+    sets:
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
   - name: Pull-Up (Weighted)
     type: Dumbbell
     muscles:
