@@ -5,6 +5,70 @@
 Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.
 Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.
 
+## 2026-06
+
+Comparison baseline: 2026-05
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 13 | ↓ 12 |
+| Total sets | 3 | 34 | ↓ 31 |
+| Avg sets/session | 3 | 2.62 | ↑ 0.38 |
+| Avg RPE | 6.83 | 7.20 | ↓ 0.37 |
+| Avg load | 132.5kg | 134.6kg | ↓ 2.1kg |
+| Tonnage | 1590kg | 23230kg | ↓ 21640kg |
+| Avg tonnage/session | 1590kg | 1786.9kg | ↓ 196.9kg |
+| Estimated stress | 676 | 10693 | ↓ 10017 |
+| Real stress | 699 | 8814 | ↓ 8115 |
+| Avg est stress/session | 676 | 823 | ↓ 146 |
+| Avg real stress/session | 699 | 678 | ↑ 21 |
+
+- Top single: -
+- Previous top single: 175kg x 1 @ 10
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 135kg x 4 @ 7.50
+- Previous top work set: 160kg x 5 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 17 | ↓ 16 |
+| Total sets | 3 | 45 | ↓ 42 |
+| Avg sets/session | 3 | 2.65 | ↑ 0.35 |
+| Avg RPE | 7.17 | 7.42 | ↓ 0.25 |
+| Avg load | 105.8kg | 94.6kg | ↑ 11.2kg |
+| Tonnage | 1270kg | 21505kg | ↓ 20235kg |
+| Avg tonnage/session | 1270kg | 1265kg | ↑ 5kg |
+| Estimated stress | 617 | 9193 | ↓ 8576 |
+| Real stress | 606 | 9931 | ↓ 9324 |
+| Avg est stress/session | 617 | 541 | ↑ 76 |
+| Avg real stress/session | 606 | 584 | ↑ 22 |
+
+- Top single: -
+- Previous top single: 140kg x 1 @ 9.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 107.5kg x 4 @ 7.50
+- Previous top work set: 122.5kg x 4 @ 10
+- Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 1 | 31 | ↓ 30 |
+| Avg steps/day | - | 9672 | n/a |
+| Avg distance/day | -km | 8.16km | n/a |
+| Avg kcal/day | 35 | 2584 | ↓ 2549 |
+| Avg bodyweight | -kg | 79.2kg | n/a |
+| Avg resting HR | -bpm | 42.4bpm | n/a |
+| Avg sleep | -h | 7.17h | n/a |
+
+- Latest health date in period: 2026-06-01
+
 ## 2026-05
 
 Comparison baseline: 2026-04

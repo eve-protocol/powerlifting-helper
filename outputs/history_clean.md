@@ -3,6 +3,41 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-06-01
+
+### Health / Recovery
+
+- Total kcal burned: 35
+
+**Week 1 · Day 1**
+Finished: 2026-06-01 09:51:11
+
+### Squat (Paused)
+
+  Set 1: 130.0kg x 4 @ RPE 6 [target RPE: 6.5-7] [est_stress=213, real_stress=181]
+  Set 2: 132.5kg x 4 @ RPE 7 [target RPE: 6.5-7] [est_stress=225, real_stress=236]
+  Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=238, real_stress=281]
+
+### Bench Press (Paused)
+
+  Set 1: 107.5kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=216, real_stress=228]
+  Set 2: 105.0kg x 4 @ RPE 7 [target RPE: 7-7.5] [est_stress=201, real_stress=189]
+  Set 3: 105.0kg x 4 @ RPE 7 [target RPE: 7-7.5] [est_stress=201, real_stress=189]
+
+### Pull-Up (Weighted)
+
+  Set 1: 22.5kg x 5 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 22.5kg x 5 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 3: 22.5kg x 5 @ RPE 8 [target RPE: 7.5-8]
+
+### Cable Crunch
+
+Exercise notes: I tried 50kg but it's way too hard.
+
+  Set 1: 45.0kg x 14 @ RPE 7.5 [target: 12 reps, target RPE: 7-7.5]
+  Set 2: 45.0kg x 12 @ RPE 8 [target RPE: 7-7.5]
+  Set 3: 45.0kg x 8 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
+
 ## 2026-05-30
 
 ### Health / Recovery

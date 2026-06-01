@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-05-30 |
-| Training Days | 362 |
-| Total Sets | 4532 |
+| Date Range | 2024-12-28 → 2026-06-01 |
+| Training Days | 363 |
+| Total Sets | 4544 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -38,6 +38,11 @@
 ## 🏋️ Weekly Training Volume
 
 ```
+
+W23:
+  Squat    │██████ 1590kg
+  Bench    │▓▓▓▓▓ 1270kg
+  Deadlift │ 0kg
 
 W22:
   Squat    │████████████ 3040kg
@@ -83,11 +88,6 @@ W14:
   Squat    │████████████████████ 4918kg
   Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 5422kg
   Deadlift │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7052kg
-
-W13:
-  Squat    │████████████████████ 4880kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 5468kg
-  Deadlift │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6912kg
 
   █ Squat  ▓ Bench  ░ Deadlift
 ```
@@ -218,7 +218,7 @@ W13:
 |------|--------|------|-----|------|
 | 1RM | 150.0kg | - | 9 | 🟠 2025-10-27 |
 | 3RM | 140.0kg | 165.2kg | 7 | 🟠 2025-10-13 |
-| 4RM | 120.0kg | 158.5kg | 6 | 🟣 2025-05-26 |
+| 4RM | 135.0kg | 163.6kg | 7.5 | 🟢 2026-06-01 |
 | 5RM | 115.0kg | 150.0kg | 7 | 🟣 2025-05-12 |
 
 #### Squat (Smith Machine)
