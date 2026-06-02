@@ -36,17 +36,17 @@ Comparison baseline: 2026-05
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 17 | ↓ 16 |
-| Total sets | 3 | 45 | ↓ 42 |
+| Sessions | 2 | 17 | ↓ 15 |
+| Total sets | 6 | 45 | ↓ 39 |
 | Avg sets/session | 3 | 2.65 | ↑ 0.35 |
-| Avg RPE | 7.17 | 7.42 | ↓ 0.25 |
-| Avg load | 105.8kg | 94.6kg | ↑ 11.2kg |
-| Tonnage | 1270kg | 21505kg | ↓ 20235kg |
-| Avg tonnage/session | 1270kg | 1265kg | ↑ 5kg |
-| Estimated stress | 617 | 9193 | ↓ 8576 |
-| Real stress | 606 | 9931 | ↓ 9324 |
-| Avg est stress/session | 617 | 541 | ↑ 76 |
-| Avg real stress/session | 606 | 584 | ↑ 22 |
+| Avg RPE | 7.25 | 7.42 | ↓ 0.17 |
+| Avg load | 75.8kg | 94.6kg | ↓ 18.8kg |
+| Tonnage | 2095kg | 21505kg | ↓ 19410kg |
+| Avg tonnage/session | 1047.5kg | 1265kg | ↓ 217.5kg |
+| Estimated stress | 692 | 9193 | ↓ 8501 |
+| Real stress | 686 | 9931 | ↓ 9245 |
+| Avg est stress/session | 346 | 541 | ↓ 195 |
+| Avg real stress/session | 343 | 584 | ↓ 241 |
 
 - Top single: -
 - Previous top single: 140kg x 1 @ 9.50
@@ -54,6 +54,29 @@ Comparison baseline: 2026-05
 - Top work set: 107.5kg x 4 @ 7.50
 - Previous top work set: 122.5kg x 4 @ 10
 - Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
+
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 9 | ↓ 8 |
+| Total sets | 3 | 25 | ↓ 22 |
+| Avg sets/session | 3 | 2.78 | ↑ 0.22 |
+| Avg RPE | 7 | 7.35 | ↓ 0.35 |
+| Avg load | 160.8kg | 165.2kg | ↓ 4.4kg |
+| Tonnage | 1930kg | 16882.5kg | ↓ 14952.5kg |
+| Avg tonnage/session | 1930kg | 1875.8kg | ↑ 54.2kg |
+| Estimated stress | 952 | 9596 | ↓ 8644 |
+| Real stress | 1011 | 9348 | ↓ 8337 |
+| Avg est stress/session | 952 | 1066 | ↓ 114 |
+| Avg real stress/session | 1011 | 1039 | ↓ 28 |
+
+- Top single: -
+- Previous top single: 195kg x 1 @ 10
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 162.5kg x 4 @ 7.50
+- Previous top work set: 177.5kg x 5 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Health / Recovery
 
