@@ -1726,23 +1726,23 @@ Comparison baseline: Strength Block v5 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 1 | ↑ 1 |
-| Total sets | 4 | 3 | ↑ 1 |
-| Avg sets/session | 2 | 3 | ↓ 1 |
-| Avg RPE | 6 | 6.83 | ↓ 0.83 |
-| Avg load | 126.9kg | 132.5kg | ↓ 5.6kg |
-| Tonnage | 867.5kg | 1590kg | ↓ 722.5kg |
-| Avg tonnage/session | 433.8kg | 1590kg | ↓ 1156.2kg |
-| Estimated stress | - | 676 | n/a |
-| Real stress | 70 | 699 | ↓ 629 |
-| Avg est stress/session | - | 676 | n/a |
-| Avg real stress/session | 35 | 699 | ↓ 664 |
+| Sessions | 2 | 2 | → 0 |
+| Total sets | 4 | 7 | ↓ 3 |
+| Avg sets/session | 2 | 3.50 | ↓ 1.50 |
+| Avg RPE | 6 | 7 | ↓ 1 |
+| Avg load | 126.9kg | 141.8kg | ↓ 14.9kg |
+| Tonnage | 867.5kg | 3490kg | ↓ 2622.5kg |
+| Avg tonnage/session | 433.8kg | 1745kg | ↓ 1311.2kg |
+| Estimated stress | - | 1812 | n/a |
+| Real stress | 70 | 1770 | ↓ 1700 |
+| Avg est stress/session | - | 906 | n/a |
+| Avg real stress/session | 35 | 885 | ↓ 850 |
 
 - Top single: 147.5kg x 1 @ 6
-- Previous top single: -
-- Top single delta: n/a (only meaningful when the variation is comparable)
+- Previous top single: 160kg x 1 @ 7
+- Top single delta: ↓ 12.5kg (only meaningful when the variation is comparable)
 - Top work set: 120kg x 2 @ -
-- Previous top work set: 135kg x 4 @ 7.50
+- Previous top work set: 145kg x 4 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
@@ -1795,10 +1795,10 @@ Comparison baseline: Strength Block v5 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 3 | 2 | ↑ 1 |
+| Days with data | 3 | 3 | → 0 |
 | Avg steps/day | 11806 | 6826 | ↑ 4980 |
 | Avg distance/day | 8.19km | 5.61km | ↑ 2.58km |
-| Avg kcal/day | 2098 | 2663 | ↓ 565 |
+| Avg kcal/day | 2098 | 1787 | ↑ 311 |
 | Avg bodyweight | 78.2kg | 78.4kg | ↓ 0.2kg |
 | Avg resting HR | 44.3bpm | 42bpm | ↑ 2.3bpm |
 | Avg sleep | 7.97h | 7.14h | ↑ 0.83h |
@@ -1813,22 +1813,22 @@ Comparison baseline: Strength Block v4 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 3 | ↓ 2 |
-| Total sets | 3 | 10 | ↓ 7 |
-| Avg sets/session | 3 | 3.33 | ↓ 0.33 |
-| Avg RPE | 6.83 | 7.60 | ↓ 0.77 |
-| Avg load | 132.5kg | 146.8kg | ↓ 14.3kg |
-| Tonnage | 1590kg | 4917.5kg | ↓ 3327.5kg |
-| Avg tonnage/session | 1590kg | 1639.2kg | ↓ 49.2kg |
-| Estimated stress | 676 | 3016 | ↓ 2340 |
-| Real stress | 699 | 3018 | ↓ 2319 |
-| Avg est stress/session | 676 | 1006 | ↓ 329 |
-| Avg real stress/session | 699 | 1006 | ↓ 307 |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 7 | 10 | ↓ 3 |
+| Avg sets/session | 3.50 | 3.33 | ↑ 0.17 |
+| Avg RPE | 7 | 7.60 | ↓ 0.60 |
+| Avg load | 141.8kg | 146.8kg | ↓ 5kg |
+| Tonnage | 3490kg | 4917.5kg | ↓ 1427.5kg |
+| Avg tonnage/session | 1745kg | 1639.2kg | ↑ 105.8kg |
+| Estimated stress | 1812 | 3016 | ↓ 1204 |
+| Real stress | 1770 | 3018 | ↓ 1248 |
+| Avg est stress/session | 906 | 1006 | ↓ 99 |
+| Avg real stress/session | 885 | 1006 | ↓ 121 |
 
-- Top single: -
+- Top single: 160kg x 1 @ 7
 - Previous top single: 165kg x 1 @ 8.50
-- Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 135kg x 4 @ 7.50
+- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
+- Top work set: 145kg x 4 @ 7
 - Previous top work set: 160kg x 3 @ 9.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -1882,15 +1882,15 @@ Comparison baseline: Strength Block v4 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 2 | 6 | ↓ 4 |
+| Days with data | 3 | 6 | ↓ 3 |
 | Avg steps/day | 6826 | 7306 | ↓ 480 |
 | Avg distance/day | 5.61km | 6km | ↓ 0.39km |
-| Avg kcal/day | 2663 | 2625 | ↑ 38 |
+| Avg kcal/day | 1787 | 2625 | ↓ 838 |
 | Avg bodyweight | 78.4kg | 79.5kg | ↓ 1.1kg |
 | Avg resting HR | 42bpm | 45.5bpm | ↓ 3.5bpm |
 | Avg sleep | 7.14h | 7.20h | ↓ 0.06h |
 
-- Latest health date in period: 2026-06-02
+- Latest health date in period: 2026-06-03
 
 ## Strength Block v4 / Week 3
 
