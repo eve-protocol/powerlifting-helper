@@ -7,7 +7,11 @@
 
 ### Health / Recovery
 
-- Total kcal burned: 35
+- Steps: 7867
+- Distance: 6.46 km
+- Total kcal burned: 2412
+- Resting heart rate: 43 bpm
+- Sleep: 7.23 h asleep (7.52 h in bed, deep 0.85 h, REM 1 h, awake 0.28 h)
 
 **Week 1 · Day 3**
 Finished: 2026-06-03 11:39:39
@@ -44,6 +48,7 @@ Finished: 2026-06-03 11:39:39
 - Steps: 9272
 - Distance: 7.57 km
 - Total kcal burned: 2942
+- Weight: 78.6 kg
 - Resting heart rate: 43 bpm
 - Sleep: 7.03 h asleep (7.82 h in bed, deep 1.05 h, REM 1.30 h, awake 0.78 h)
 
