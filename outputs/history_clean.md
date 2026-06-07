@@ -3,6 +3,27 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-06-07
+
+**Week 1 · Day 5**
+Finished: 2026-06-07 20:42:38
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 182.5kg x 1 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=129, real_stress=137]
+  Set 2: 170.0kg x 4 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=467, real_stress=442]
+  Set 3: 170.0kg x 4 @ RPE 7 [target RPE: 7-7.5] [est_stress=418, real_stress=393]
+
+### Squat (Low Bar)
+
+  Set 1: 140.0kg x 4 @ RPE 6 [target RPE: 5.5-6] [est_stress=213, real_stress=226]
+  Set 2: 140.0kg x 4 @ RPE 6 [target RPE: 5.5-6] [est_stress=213, real_stress=226]
+
+### Larsen Press (Barbell)
+
+  Set 1: 107.5kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=242, real_stress=230]
+  Set 2: 107.5kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=242, real_stress=254]
+
 ## 2026-06-04
 
 ### Health / Recovery
