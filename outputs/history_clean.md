@@ -3,11 +3,51 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-06-10
+
+### Health / Recovery
+
+- Steps: 26
+- Distance: 0.02 km
+- Total kcal burned: 326
+
+**Week 2 · Day 3**
+Finished: 2026-06-10 10:27:03
+
+### Squat (Low Bar)
+
+  Set 1: 162.5kg x 1 @ RPE 7 [target RPE: 7.5-8] [est_stress=129, real_stress=109]
+  Set 2: 150.0kg x 3 @ RPE 7.5 [target RPE: 8-8] [est_stress=321, real_stress=289]
+  Set 3: 150.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=305, real_stress=289]
+  Set 4: 150.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=305, real_stress=289]
+
+### Leg Extension
+
+  Set 1: 65.0kg x 10 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 65.0kg x 10 @ RPE 6.5 [target RPE: 7.5-8]
+  Set 3: 70.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
+
+### Standing T Bar Row
+
+  Set 1: 62.5kg x 10 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 65.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
+  Set 3: 65.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
+
+### Leg Curl
+
+  Set 1: 30.0kg x 12 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 2: 30.0kg x 12 @ RPE 9 [target RPE: 7.5-8]
+  Set 3: 25.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
+
 ## 2026-06-09
 
 ### Health / Recovery
 
-- Total kcal burned: 37
+- Steps: 5788
+- Distance: 5.71 km
+- Total kcal burned: 2563
+- Resting heart rate: 41 bpm
+- Sleep: 7.92 h asleep (8.40 h in bed, deep 1.17 h, REM 0.92 h, awake 0.48 h)
 
 **Week 2 · Day 2**
 Finished: 2026-06-09 09:42:07
@@ -42,6 +82,7 @@ Finished: 2026-06-09 09:42:07
 - Steps: 6540
 - Distance: 5.57 km
 - Total kcal burned: 2442
+- Weight: 78.6 kg
 - Resting heart rate: 41 bpm
 - Sleep: 6.77 h asleep (7.82 h in bed, deep 0.95 h, REM 1.02 h, awake 1.05 h)
 

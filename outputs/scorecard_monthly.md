@@ -13,22 +13,22 @@ Comparison baseline: 2026-05
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 4 | 13 | ↓ 9 |
-| Total sets | 12 | 34 | ↓ 22 |
-| Avg sets/session | 3 | 2.62 | ↑ 0.38 |
-| Avg RPE | 6.92 | 7.20 | ↓ 0.28 |
-| Avg load | 140kg | 134.6kg | ↑ 5.4kg |
-| Tonnage | 5832.5kg | 23230kg | ↓ 17397.5kg |
-| Avg tonnage/session | 1458.1kg | 1786.9kg | ↓ 328.8kg |
-| Estimated stress | 2848 | 10693 | ↓ 7846 |
-| Real stress | 2846 | 8814 | ↓ 5968 |
-| Avg est stress/session | 712 | 823 | ↓ 111 |
-| Avg real stress/session | 711 | 678 | ↑ 33 |
+| Sessions | 5 | 13 | ↓ 8 |
+| Total sets | 16 | 34 | ↓ 18 |
+| Avg sets/session | 3.20 | 2.62 | ↑ 0.58 |
+| Avg RPE | 7.03 | 7.20 | ↓ 0.17 |
+| Avg load | 143.3kg | 134.6kg | ↑ 8.7kg |
+| Tonnage | 7345kg | 23230kg | ↓ 15885kg |
+| Avg tonnage/session | 1469kg | 1786.9kg | ↓ 317.9kg |
+| Estimated stress | 3909 | 10693 | ↓ 6784 |
+| Real stress | 3822 | 8814 | ↓ 4992 |
+| Avg est stress/session | 782 | 823 | ↓ 41 |
+| Avg real stress/session | 764 | 678 | ↑ 86 |
 
-- Top single: 160kg x 1 @ 7
+- Top single: 162.5kg x 1 @ 7
 - Previous top single: 175kg x 1 @ 10
-- Top single delta: ↓ 15kg (only meaningful when the variation is comparable)
-- Top work set: 145kg x 4 @ 7
+- Top single delta: ↓ 12.5kg (only meaningful when the variation is comparable)
+- Top work set: 150kg x 3 @ 7.50
 - Previous top work set: 160kg x 5 @ 10
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -82,15 +82,15 @@ Comparison baseline: 2026-05
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 9 | 31 | ↓ 22 |
-| Avg steps/day | 10803 | 9672 | ↑ 1131 |
-| Avg distance/day | 8.94km | 8.16km | ↑ 0.78km |
-| Avg kcal/day | 2342 | 2584 | ↓ 242 |
+| Days with data | 10 | 31 | ↓ 21 |
+| Avg steps/day | 9224 | 9672 | ↓ 448 |
+| Avg distance/day | 7.72km | 8.16km | ↓ 0.44km |
+| Avg kcal/day | 2393 | 2584 | ↓ 191 |
 | Avg bodyweight | 78.8kg | 79.2kg | ↓ 0.4kg |
-| Avg resting HR | 42.2bpm | 42.4bpm | ↓ 0.2bpm |
-| Avg sleep | 6.87h | 7.17h | ↓ 0.30h |
+| Avg resting HR | 42.1bpm | 42.4bpm | ↓ 0.3bpm |
+| Avg sleep | 6.99h | 7.17h | ↓ 0.18h |
 
-- Latest health date in period: 2026-06-09
+- Latest health date in period: 2026-06-10
 
 ## 2026-05
 
