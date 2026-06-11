@@ -1749,23 +1749,23 @@ Comparison baseline: Strength Block v5 / Week 2
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 2 | → 0 |
-| Total sets | 4 | 6 | ↓ 2 |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 4 | 9 | ↓ 5 |
 | Avg sets/session | 2 | 3 | ↓ 1 |
-| Avg RPE | 6 | 7.33 | ↓ 1.33 |
-| Avg load | 99.4kg | 77.9kg | ↑ 21.5kg |
-| Tonnage | 682.5kg | 1815kg | ↓ 1132.5kg |
-| Avg tonnage/session | 341.2kg | 907.5kg | ↓ 566.3kg |
-| Estimated stress | - | 595 | n/a |
-| Real stress | 53 | 624 | ↓ 572 |
-| Avg est stress/session | - | 297 | n/a |
-| Avg real stress/session | 26 | 312 | ↓ 286 |
+| Avg RPE | 6 | 7.61 | ↓ 1.61 |
+| Avg load | 99.4kg | 93.1kg | ↑ 6.3kg |
+| Tonnage | 682.5kg | 2665kg | ↓ 1982.5kg |
+| Avg tonnage/session | 341.2kg | 888.3kg | ↓ 547.1kg |
+| Estimated stress | - | 1217 | n/a |
+| Real stress | 53 | 1276 | ↓ 1224 |
+| Avg est stress/session | - | 406 | n/a |
+| Avg real stress/session | 26 | 426 | ↓ 399 |
 
 - Top single: 112.5kg x 1 @ 6
-- Previous top single: -
-- Top single delta: n/a (only meaningful when the variation is comparable)
+- Previous top single: 130kg x 1 @ 8.50
+- Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
 - Top work set: 95kg x 2 @ -
-- Previous top work set: 110kg x 3 @ 7.50
+- Previous top work set: 120kg x 3 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Deadlift family
@@ -1795,10 +1795,10 @@ Comparison baseline: Strength Block v5 / Week 2
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 3 | 3 | → 0 |
-| Avg steps/day | 11806 | 6481 | ↑ 5325 |
+| Days with data | 3 | 4 | ↓ 1 |
+| Avg steps/day | 11806 | 4862 | ↑ 6944 |
 | Avg distance/day | 8.19km | 5.69km | ↑ 2.50km |
-| Avg kcal/day | 2098 | 2494 | ↓ 396 |
+| Avg kcal/day | 2098 | 2289 | ↓ 191 |
 | Avg bodyweight | 78.2kg | 78.8kg | ↓ 0.6kg |
 | Avg resting HR | 44.3bpm | 41.7bpm | ↑ 2.7bpm |
 | Avg sleep | 7.97h | 7.02h | ↑ 0.95h |
@@ -1836,22 +1836,22 @@ Comparison baseline: Strength Block v5 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 4 | ↓ 2 |
-| Total sets | 6 | 11 | ↓ 5 |
+| Sessions | 3 | 4 | ↓ 1 |
+| Total sets | 9 | 11 | ↓ 2 |
 | Avg sets/session | 3 | 2.75 | ↑ 0.25 |
-| Avg RPE | 7.33 | 7.41 | ↓ 0.08 |
-| Avg load | 77.9kg | 94.1kg | ↓ 16.2kg |
-| Tonnage | 1815kg | 4240kg | ↓ 2425kg |
-| Avg tonnage/session | 907.5kg | 1060kg | ↓ 152.5kg |
-| Estimated stress | 595 | 1867 | ↓ 1272 |
-| Real stress | 624 | 1955 | ↓ 1330 |
-| Avg est stress/session | 297 | 467 | ↓ 169 |
-| Avg real stress/session | 312 | 489 | ↓ 177 |
+| Avg RPE | 7.61 | 7.41 | ↑ 0.20 |
+| Avg load | 93.1kg | 94.1kg | ↓ 1kg |
+| Tonnage | 2665kg | 4240kg | ↓ 1575kg |
+| Avg tonnage/session | 888.3kg | 1060kg | ↓ 171.7kg |
+| Estimated stress | 1217 | 1867 | ↓ 650 |
+| Real stress | 1276 | 1955 | ↓ 678 |
+| Avg est stress/session | 406 | 467 | ↓ 61 |
+| Avg real stress/session | 426 | 489 | ↓ 63 |
 
-- Top single: -
+- Top single: 130kg x 1 @ 8.50
 - Previous top single: 130kg x 1 @ 8.50
-- Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 110kg x 3 @ 7.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
+- Top work set: 120kg x 3 @ 7.50
 - Previous top work set: 117.5kg x 4 @ 7.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -1882,15 +1882,15 @@ Comparison baseline: Strength Block v5 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 3 | 7 | ↓ 4 |
-| Avg steps/day | 6481 | 11412 | ↓ 4931 |
+| Days with data | 4 | 7 | ↓ 3 |
+| Avg steps/day | 4862 | 11412 | ↓ 6550 |
 | Avg distance/day | 5.69km | 9.42km | ↓ 3.73km |
-| Avg kcal/day | 2494 | 2657 | ↓ 163 |
+| Avg kcal/day | 2289 | 2657 | ↓ 368 |
 | Avg bodyweight | 78.8kg | 78.8kg | → 0kg |
 | Avg resting HR | 41.7bpm | 42.4bpm | ↓ 0.8bpm |
 | Avg sleep | 7.02h | 6.89h | ↑ 0.13h |
 
-- Latest health date in period: 2026-06-10
+- Latest health date in period: 2026-06-11
 
 ## Strength Block v5 / Week 1
 
