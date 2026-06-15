@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-03-23 to 2026-06-13
+**Period:** 2026-03-30 to 2026-06-15
 ---
 
 ## Format Guide
@@ -22,6 +22,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
+| 2026-W25 | 2 (-7) | 2 (-9) | 0 (-6) |
 | 2026-W24 | 9 (=) | 11 (=) | 6 (=) |
 | 2026-W23 | 9 (+2) | 11 (+2) | 6 (+1) |
 | 2026-W22 | 7 (-1) | 9 (-2) | 5 (=) |
@@ -32,14 +33,14 @@
 | 2026-W17 | 8 (-1) | 12 (+1) | 7 (-1) |
 | 2026-W16 | 9 (-2) | 11 (-1) | 8 (-2) |
 | 2026-W15 | 11 (+1) | 12 (-2) | 10 (-3) |
-| 2026-W14 | 10 (=) | 14 (-1) | 13 (=) |
-| 2026-W13 | 10 | 15 | 13 |
+| 2026-W14 | 10 | 14 | 13 |
 
 ### Volume (kg) with Week-over-Week Change
 
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
+2026-W25  │    822kg (-2781) │    672kg (-2870) │      0kg (-2720)
 2026-W24  │   3603kg (-1005) │   3542kg  (-684) │   2720kg  (-750)
 2026-W23  │   4608kg  (+293) │   4226kg  (+573) │   3470kg    (-6)
 2026-W22  │   4315kg  (-883) │   3653kg (-1207) │   3476kg  (+156)
@@ -50,8 +51,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 2026-W17  │   2340kg (-1402) │   2232kg  (-815) │   1555kg  (-460)
 2026-W16  │   3742kg  (-683) │   3047kg  (-532) │   2015kg (-1286)
 2026-W15  │   4425kg  (-490) │   3579kg (-1819) │   3301kg (-3751)
-2026-W14  │   4915kg   (+45) │   5398kg   (-49) │   7052kg  (+143)
-2026-W13  │   4870kg         │   5447kg         │   6909kg        
+2026-W14  │   4915kg         │   5398kg         │   7052kg        
 ```
 
 ### Estimated Stress with Week-over-Week Change
@@ -59,6 +59,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ```
 Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ───────────┼──────────────────┼──────────────────┼─────────────────────
+2026-W25  │     465 (-1557) │     409 (-1269) │       0 (-1793)
 2026-W24  │    2022  (-214) │    1678  (-171) │    1793  (-168)
 2026-W23  │    2236    (+9) │    1849   (+63) │    1961  (-169)
 2026-W22  │    2227  (-431) │    1786  (-520) │    2130  (-245)
@@ -69,8 +70,7 @@ Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 2026-W17  │    1211  (-739) │    1217  (-216) │     934 (-1003)
 2026-W16  │    1950  (-316) │    1433   (-72) │    1937   (+16)
 2026-W15  │    2266  (-747) │    1505 (-1616) │    1921 (-2292)
-2026-W14  │    3013  (+135) │    3121  (+175) │    4213    (-1)
-2026-W13  │    2878         │    2946         │    4214        
+2026-W14  │    3013         │    3121         │    4213        
 ```
 
 ### Real Stress with Week-over-Week Change
@@ -78,6 +78,7 @@ Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ```
 Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 ───────────┼───────────────────┼───────────────────┼──────────────────────
+2026-W25  │     441 (-1154) │     452 (-1285) │       0 (-1796)
 2026-W24  │    1595  (-626) │    1737  (-198) │    1796  (-182)
 2026-W23  │    2221  (+159) │    1935  (+220) │    1978  (+142)
 2026-W22  │    2062   (+68) │    1715 (-1047) │    1836  (-506)
@@ -88,14 +89,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 2026-W17  │    1254  (-901) │    1217  (-633) │     680  (-425)
 2026-W16  │    2155  (+503) │    1850  (-115) │    1105  (-462)
 2026-W15  │    1652 (-1362) │    1965 (-1609) │    1567 (-3211)
-2026-W14  │    3014   (+51) │    3574  (+276) │    4778  (+820)
-2026-W13  │    2963         │    3298         │    3958        
+2026-W14  │    3014         │    3574         │    4778        
 ```
 
 ### Volume Graphs
 
 **Squat Volume (kg)**
 ```
+2026-W25 │██░░░░░░░░░░░░░░░░░░░░░░░│ 822kg
 2026-W24 │████████████░░░░░░░░░░░░░│ 3,603kg
 2026-W23 │███████████████░░░░░░░░░░│ 4,608kg
 2026-W22 │██████████████░░░░░░░░░░░│ 4,315kg
@@ -107,11 +108,11 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 2026-W16 │████████████░░░░░░░░░░░░░│ 3,742kg
 2026-W15 │███████████████░░░░░░░░░░│ 4,425kg
 2026-W14 │████████████████░░░░░░░░░│ 4,915kg
-2026-W13 │████████████████░░░░░░░░░│ 4,870kg
 ```
 
 **Bench Volume (kg)**
 ```
+2026-W25 │██░░░░░░░░░░░░░░░░░░░░░░░│ 672kg
 2026-W24 │████████████░░░░░░░░░░░░░│ 3,542kg
 2026-W23 │██████████████░░░░░░░░░░░│ 4,226kg
 2026-W22 │████████████░░░░░░░░░░░░░│ 3,653kg
@@ -123,11 +124,11 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 2026-W16 │██████████░░░░░░░░░░░░░░░│ 3,047kg
 2026-W15 │████████████░░░░░░░░░░░░░│ 3,579kg
 2026-W14 │██████████████████░░░░░░░│ 5,398kg
-2026-W13 │██████████████████░░░░░░░│ 5,447kg
 ```
 
 **Deadlift Volume (kg)**
 ```
+2026-W25 │░░░░░░░░░░░░░░░░░░░░░░░░░│ 0kg
 2026-W24 │█████████░░░░░░░░░░░░░░░░│ 2,720kg
 2026-W23 │███████████░░░░░░░░░░░░░░│ 3,470kg
 2026-W22 │███████████░░░░░░░░░░░░░░│ 3,476kg
@@ -139,12 +140,43 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 2026-W16 │██████░░░░░░░░░░░░░░░░░░░│ 2,015kg
 2026-W15 │███████████░░░░░░░░░░░░░░│ 3,301kg
 2026-W14 │████████████████████████░│ 7,052kg
-2026-W13 │███████████████████████░░│ 6,909kg
 ```
 
 ---
 
 ## 📋 Detailed Training Log
+
+## 2026-W25
+
+**Weekly Summary:** Squat: 2 sets / 822kg | Bench: 2 sets / 672kg | Deadlift: 0 sets / 0kg
+**Stress Summary:** Squat est/real: 465/441 | Bench est/real: 409/452 | Deadlift est/real: 0/0
+
+### 2026-06-15 (Monday)
+
+### Health / Recovery
+
+- Steps: 53
+- Distance: 0.04 km
+- Total kcal burned: 76
+
+**Squat (Paused)**
+- Set 1: 3 × 137kg @ RPE 7.5 [target_reps=3, target_intensity=[7.5, 8]RPE_range; est_stress=233; real_stress=220]
+- Set 2: 3 × 137kg @ RPE 7.5 [target_reps=3, target_intensity=[7.5, 8]RPE_range; est_stress=233; real_stress=220]
+
+**Bench Press (Paused)**
+- Set 1: 3 × 112kg @ RPE 7.5 [target_reps=3, target_intensity=[7.5, 8]RPE_range; est_stress=204; real_stress=194]
+- Set 2: 3 × 112kg @ RPE 9 [target_reps=3, target_intensity=[7.5, 8]RPE_range; est_stress=204; real_stress=258]
+
+**Pull-Up (Weighted)**
+- Set 1: 5 × 25kg @ RPE 7.5 [target_reps=5, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 5 × 25kg @ RPE 7.5 [target_reps=5, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 5 × 25kg @ RPE 8.5 [target_reps=5, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+
+**Cable Crunch**
+- Set 1: 15 × 45kg @ RPE 7.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 15 × 45kg @ RPE 7.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+---
 
 ## 2026-W24
 
@@ -1793,175 +1825,5 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 1: 5 × 112kg @ RPE 7 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=328; real_stress=308]
 - Set 2: 5 × 115kg @ RPE 8.5 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=355; real_stress=459]
 - Set 3: 5 × 112kg @ RPE 8 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=328; real_stress=385]
-
----
-
-## 2026-W13
-
-**Weekly Summary:** Squat: 10 sets / 4,870kg | Bench: 15 sets / 5,447kg | Deadlift: 13 sets / 6,909kg
-**Stress Summary:** Squat est/real: 2878/2963 | Bench est/real: 2946/3298 | Deadlift est/real: 4214/3958
-
-### 2026-03-23 (Monday)
-
-### Health / Recovery
-
-- Steps: 8389
-- Distance: 6.80 km
-- Total kcal burned: 2609
-- Weight: 78.8 kg
-- Resting heart rate: 41 bpm
-- Sleep: 8.22 h asleep (8.33 h in bed, deep 1.95 h, REM 2.08 h, awake 0.12 h)
-
-**Squat (Low Bar)**
-- Set 1: 1 × 167kg @ RPE 9 [target_reps=1, target_intensity=[8, 8.5]RPE_range; est_stress=155; real_stress=177]
-- Set 2: 3 × 147kg @ RPE 8 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=318; real_stress=302]
-- Set 3: 3 × 147kg @ RPE 7.5 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=318; real_stress=272]
-- Set 4: 3 × 147kg @ RPE 8.5 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=318; real_stress=333]
-
-**Bench Press (Paused)**
-- Set 1: 1 × 120kg @ RPE 8 [target_reps=1, target_intensity=[7, 7.5]RPE_range; est_stress=81; real_stress=95]
-- Set 2: 4 × 110kg @ RPE 8 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=248; real_stress=292]
-- Set 3: 4 × 107kg @ RPE 8 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=229; real_stress=269]
-- Set 4: 4 × 107kg @ RPE 8.5 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=229; real_stress=296]
-
-**Cable Crunch**
-- Set 1: 12 × 45kg @ RPE 7 [target_reps=12, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 12 × 40kg @ RPE 6 [target_reps=12, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 12 × 45kg @ RPE 7.5 [target_reps=12, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
-
-**Pull-Up (Weighted)**
-- Set 1: 5 × 25kg @ RPE 8 [target_reps=5, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 5 × 25kg @ RPE 8.5 [target_reps=5, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 5 × 22kg @ RPE 8.5 [target_reps=5, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-
-### 2026-03-24 (Tuesday)
-
-### Health / Recovery
-
-- Steps: 4490
-- Distance: 3.86 km
-- Total kcal burned: 2576
-- Weight: 79.8 kg
-- Resting heart rate: 44 bpm
-- Sleep: 7.15 h asleep (7.53 h in bed, deep 0.78 h, REM 1.53 h, awake 0.38 h)
-
-**Sumo Deadlift (Paused)**
-- Set 1: 1 × 170kg @ RPE 7.5 [target_reps=1, target_intensity=[7, 7.5]RPE_range; est_stress=104; real_stress=111]
-- Set 2: 3 × 160kg @ RPE 7.5 [target_reps=3, target_intensity=[7, 7.5]RPE_range; est_stress=261; real_stress=276]
-- Set 3: 3 × 160kg @ RPE 7.5 [target_reps=3, target_intensity=[7, 7.5]RPE_range; est_stress=261; real_stress=276]
-- Set 4: 3 × 160kg @ RPE 7 [target_reps=3, target_intensity=[7, 7.5]RPE_range; est_stress=261; real_stress=246]
-- Set 5: 3 × 160kg @ RPE 7 [target_reps=3, target_intensity=[7, 7.5]RPE_range; est_stress=261; real_stress=246]
-
-**Incline Bench Press (Dumbbell)**
-- Set 1: 6 × 47kg @ RPE 7.5 [target_reps=6, target_intensity=[7.5, 8]RPE_range; est_stress=32; real_stress=31]
-- Set 2: 6 × 47kg @ RPE 8.5 [target_reps=6, target_intensity=[7.5, 8]RPE_range; est_stress=32; real_stress=38]
-- Set 3: 6 × 47kg @ RPE 9 [target_reps=6, target_intensity=[7.5, 8]RPE_range; est_stress=32; real_stress=41]
-
-**Lateral Raise (Dumbbell)**
-- Set 1: 15 × 10kg @ RPE 8.5 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 13 × 10kg @ RPE 8.5 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 11 × 10kg @ RPE 8.5 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-
-**Rear Delt Fly (Dumbbell)**
-- Set 1: 12 × 6kg @ RPE 8 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 15 × 6kg @ RPE 8 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 15 × 6kg @ RPE 8 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-
-### 2026-03-25 (Wednesday)
-
-### Health / Recovery
-
-- Steps: 4115
-- Distance: 3.33 km
-- Total kcal burned: 2628
-- Weight: 79.6 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.75 h asleep (7.05 h in bed, deep 0.82 h, REM 1.28 h, awake 0.30 h)
-
-**Tempo Squat (Barbell)**
-- Set 1: 3 × 140kg @ RPE 7.5 [target_reps=3, target_intensity=[7.5, 8]RPE_range; est_stress=248; real_stress=235]
-- Set 2: 3 × 140kg @ RPE 8 [target_reps=3, target_intensity=[7.5, 8]RPE_range; est_stress=248; real_stress=261]
-- Set 3: 3 × 140kg @ RPE 8 [target_reps=3, target_intensity=[7.5, 8]RPE_range; est_stress=248; real_stress=261]
-
-**Romanian Deadlift (Barbell)**
-- Set 1: 6 × 135kg @ RPE 6.5 [target_reps=6, target_intensity=[7.5, 8]RPE_range; est_stress=351; real_stress=268]
-- Set 2: 6 × 140kg @ RPE 6.5 [target_reps=6, target_intensity=[7.5, 8]RPE_range; est_stress=391; real_stress=298]
-- Set 3: 6 × 145kg @ RPE 8.5 [target_reps=6, target_intensity=[7.5, 8]RPE_range; est_stress=434; real_stress=503]
-
-**Leg Extension**
-- Set 1: 12 × 60kg @ RPE 8 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 12 × 62kg @ RPE 8 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 12 × 65kg @ RPE 8.5 [target_reps=12, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-
-**Standing T Bar Row**
-- Set 1: 12 × 50kg @ RPE 8 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 10 × 55kg @ RPE 8 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 10 × 55kg @ RPE 9 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-
-### 2026-03-26 (Thursday)
-
-### Health / Recovery
-
-- Steps: 7376
-- Distance: 6.03 km
-- Total kcal burned: 2505
-- Resting heart rate: 45 bpm
-- Sleep: 7.22 h asleep (7.70 h in bed, deep 1.35 h, REM 1.17 h, awake 0.48 h)
-
-**Bench Press (Barbell)**
-- Set 1: 1 × 127kg @ RPE 8.5 [target_reps=1, target_intensity=[8, 8.5]RPE_range; est_stress=118; real_stress=124]
-- Set 2: 3 × 117kg @ RPE 8 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=277; real_stress=264]
-- Set 3: 3 × 117kg @ RPE 8.5 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=277; real_stress=290]
-- Set 4: 3 × 117kg @ RPE 9 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=277; real_stress=316]
-- Set 5: 3 × 115kg @ RPE 8.5 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=263; real_stress=275]
-
-**Pull-Up (Weighted)**
-- Set 1: 5 × 25kg @ RPE 8 [target_reps=5, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 5 × 25kg @ RPE 8.5 [target_reps=5, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 5 × 25kg @ RPE 8.5 [target_reps=5, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-- Set 4: 5 × 25kg @ RPE 9 [target_reps=5, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-
-**Overhead Tricep Extension (Cable)**
-- Set 1: 13 × 30kg @ RPE 8 [target_reps=10, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 8 × 32kg @ RPE 8 [target_reps=10, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 10 × 30kg @ RPE 8.5 [target_reps=10, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-- Set 4: 8 × 30kg @ RPE 9 [target_reps=10, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-
-**Leg Curl**
-- Set 1: 10 × 35kg @ RPE 8 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 8 × 35kg @ RPE 9 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 10 × 32kg @ RPE 8.5 [target_reps=10, target_intensity=[8, 8.5]RPE_range; est_stress=-; real_stress=-]
-
-**Bicep Curl (EZ Bar)**
-- Set 1: 10 × 20kg @ RPE 7.5 [target_reps=10, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 10 × 22kg @ RPE 8 [target_reps=10, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-- Set 3: 9 × 22kg @ RPE 9 [target_reps=10, target_intensity=[8.5, 9]RPE_range; est_stress=-; real_stress=-]
-
-### 2026-03-28 (Saturday)
-
-### Health / Recovery
-
-- Steps: 12900
-- Distance: 10.55 km
-- Total kcal burned: 3134
-- Resting heart rate: 45 bpm
-- Sleep: 7.28 h asleep (7.40 h in bed, deep 1.67 h, REM 1.30 h, awake 0.12 h)
-
-**Sumo Deadlift (Barbell)**
-- Set 1: 1 × 187kg @ RPE 8.5 [target_reps=1, target_intensity=[8, 8.5]RPE_range; est_stress=172; real_stress=180]
-- Set 2: 3 × 175kg @ RPE 8 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=422; real_stress=402]
-- Set 3: 3 × 175kg @ RPE 7.5 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=422; real_stress=362]
-- Set 4: 3 × 177kg @ RPE 8 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=437; real_stress=416]
-- Set 5: 3 × 177kg @ RPE 7.5 [target_reps=3, target_intensity=[8, 8.5]RPE_range; est_stress=437; real_stress=374]
-
-**Squat (Low Bar)**
-- Set 1: 5 × 142kg @ RPE 7 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=346; real_stress=364]
-- Set 2: 5 × 142kg @ RPE 7.5 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=346; real_stress=409]
-- Set 3: 5 × 140kg @ RPE 7 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=332; real_stress=348]
-
-**Spoto Press**
-- Set 1: 5 × 112kg @ RPE 7.5 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=294; real_stress=347]
-- Set 2: 5 × 110kg @ RPE 7.5 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=278; real_stress=329]
-- Set 3: 5 × 110kg @ RPE 7 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=278; real_stress=292]
 
 ---

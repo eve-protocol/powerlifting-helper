@@ -3,6 +3,38 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-06-15
+
+### Health / Recovery
+
+- Steps: 53
+- Distance: 0.04 km
+- Total kcal burned: 76
+
+**Week 3 · Day 1**
+Finished: 2026-06-15 10:27:17
+
+### Squat (Paused)
+
+  Set 1: 137.5kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=235, real_stress=223]
+  Set 2: 137.5kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=235, real_stress=223]
+
+### Bench Press (Paused)
+
+  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=207, real_stress=196]
+  Set 2: 112.5kg x 3 @ RPE 9 [target RPE: 7.5-8] [est_stress=207, real_stress=262]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 2: 25.0kg x 5 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 3: 25.0kg x 5 @ RPE 8.5 [target RPE: 7.5-8]
+
+### Cable Crunch
+
+  Set 1: 45.0kg x 15 @ RPE 7.5 [target: 12 reps, target RPE: 7-7.5]
+  Set 2: 45.0kg x 15 @ RPE 7.5 [target: 12 reps, target RPE: 7-7.5]
+
 ## 2026-06-13
 
 ### Health / Recovery
