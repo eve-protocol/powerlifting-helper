@@ -3,6 +3,42 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-06-17
+
+### Health / Recovery
+
+- Steps: 847
+- Distance: 0.69 km
+- Total kcal burned: 92
+
+**Week 3 · Day 3**
+Finished: 2026-06-17 09:47:32
+
+### Squat (Low Bar)
+
+  Set 1: 165.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=150, real_stress=157]
+  Set 2: 155.0kg x 3 @ RPE 8 [target RPE: 8.5-9] [est_stress=408, real_stress=355]
+  Set 3: 157.5kg x 3 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=353, real_stress=409]
+  Set 4: 152.5kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=321, real_stress=304]
+
+### Leg Extension
+
+  Set 1: 70.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
+  Set 2: 70.0kg x 10 @ RPE 9 [target RPE: 7.5-8]
+  Set 3: 65.0kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
+
+### Standing T Bar Row
+
+  Set 1: 65.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
+  Set 2: 65.0kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 3: 65.0kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
+
+### Leg Curl
+
+  Set 1: 30.0kg x 12 @ RPE 8 [target RPE: 7.5-8]
+  Set 2: 30.0kg x 12 @ RPE 9 [target RPE: 7.5-8]
+  Set 3: 25.0kg x 12 @ RPE 8 [target RPE: 7.5-8]
+
 ## 2026-06-16
 
 ### Health / Recovery
