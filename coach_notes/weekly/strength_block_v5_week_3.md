@@ -40,7 +40,7 @@
 - Squat rep-3 position. The 157.5kg triple supports the 165kg x3 goal, but the technical limit appeared before the strength limit. Do not let a Week 4 benchmark become an old-pattern good morning.
 - Bench setup. 130kg+ strength is there, but self-unrack and bar path disruption can turn a reasonable attempt into a messy one. A handoff should be treated as part of the plan, not a luxury.
 - Repeat-load aggression. Week 3 repeatedly showed that a good first set does not guarantee the same load is appropriate for every remaining set.
-- Lower-back / heel monitoring. Wednesday's lower-back soreness and transient left heel pain did not stop training, but they are worth checking before Week 4 lower-body decisions.
+- Lower-back / foot/Achilles-area monitoring. Wednesday's lower-back soreness and transient left heel pain did not stop training, but after Saturday's session Ren reported slight walking pain at the back of the foot rather than the heel. Check this before Week 4 lower-body decisions.
 
 ## Week 4 implications
 - Sumo deadlift: 185kg x3 is justified as the target if warm-ups reproduce the shin-to-bar setup and the calibration single does not become a lockout grind. If the top-half position is loose, take 182.5kg or 180kg for a cleaner triple rather than forcing the benchmark.
