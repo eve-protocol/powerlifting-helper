@@ -3,6 +3,33 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-06-20
+
+### Health / Recovery
+
+- Steps: 200
+- Distance: 0.16 km
+- Total kcal burned: 76
+
+**Week 3 · Day 5**
+Finished: 2026-06-20 10:25:31
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 185.0kg x 1 @ RPE 9 [target RPE: 8-8.5] [est_stress=166, real_stress=190]
+  Set 2: 180.0kg x 3 @ RPE 8 [target RPE: 8.5-9] [est_stress=503, real_stress=437]
+  Set 3: 180.0kg x 3 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=416, real_stress=481]
+
+### Squat (Low Bar)
+
+  Set 1: 145.0kg x 3 [target RPE: 5.5-6] [est_stress=178, real_stress=-]
+  Set 2: 147.5kg x 3 @ RPE 6 [target RPE: 5.5-6] [est_stress=187, real_stress=199]
+
+### Larsen Press (Barbell)
+
+  Set 1: 112.5kg x 4 @ RPE 7 [target RPE: 7-7.5] [est_stress=247, real_stress=232]
+  Set 2: 115.0kg x 4 @ RPE 8 [target RPE: 7-7.5] [est_stress=264, real_stress=310]
+
 ## 2026-06-18
 
 ### Health / Recovery
