@@ -1796,12 +1796,12 @@ Comparison baseline: Strength Block v5 / Week 4
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Days with data | 3 | 6 | ↓ 3 |
-| Avg steps/day | 11806 | 12907 | ↓ 1101 |
-| Avg distance/day | 8.19km | 10.49km | ↓ 2.30km |
-| Avg kcal/day | 2098 | 2729 | ↓ 631 |
-| Avg bodyweight | 78.2kg | 78.2kg | → 0kg |
-| Avg resting HR | 44.3bpm | 43.2bpm | ↑ 1.1bpm |
-| Avg sleep | 7.97h | 4.58h | ↑ 3.39h |
+| Avg steps/day | 11806 | 16154 | ↓ 4348 |
+| Avg distance/day | 8.19km | 13.14km | ↓ 4.95km |
+| Avg kcal/day | 2098 | 2855 | ↓ 757 |
+| Avg bodyweight | 78.2kg | 78.2kg | ↓ 0kg |
+| Avg resting HR | 44.3bpm | 43.2bpm | ↑ 1.2bpm |
+| Avg sleep | 7.97h | 4.89h | ↑ 3.08h |
 
 - Latest health date in period: 2025-12-01
 
@@ -1883,12 +1883,12 @@ Comparison baseline: Strength Block v5 / Week 3
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Days with data | 6 | 6 | → 0 |
-| Avg steps/day | 12907 | 12893 | ↑ 14 |
-| Avg distance/day | 10.49km | 10.83km | ↓ 0.34km |
-| Avg kcal/day | 2729 | 2818 | ↓ 89 |
+| Avg steps/day | 16154 | 12893 | ↑ 3261 |
+| Avg distance/day | 13.14km | 10.83km | ↑ 2.31km |
+| Avg kcal/day | 2855 | 2818 | ↑ 37 |
 | Avg bodyweight | 78.2kg | 78.7kg | ↓ 0.5kg |
-| Avg resting HR | 43.2bpm | 43.3bpm | ↓ 0.1bpm |
-| Avg sleep | 4.58h | 6.48h | ↓ 1.90h |
+| Avg resting HR | 43.2bpm | 43.3bpm | ↓ 0.2bpm |
+| Avg sleep | 4.89h | 6.48h | ↓ 1.59h |
 
 - Latest health date in period: 2026-06-27
 
