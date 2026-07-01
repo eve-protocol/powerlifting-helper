@@ -7,7 +7,11 @@
 
 ### Health / Recovery
 
-- Total kcal burned: 1672
+- Steps: 2571
+- Distance: 2.10 km
+- Total kcal burned: 1460
+- Resting heart rate: 40 bpm
+- Sleep: 7.53 h asleep (7.78 h in bed, deep 1.43 h, REM 1.70 h, awake 0.25 h)
 
 **Week 1 · Day 3**
 Finished: 2026-07-01 10:07:11
@@ -37,6 +41,7 @@ Exercise notes: Did drop set with two legs @ 50kg did 8 reps finished around rpe
 - Steps: 4104
 - Distance: 3.36 km
 - Total kcal burned: 2322
+- Weight: 78.3 kg
 - Resting heart rate: 39 bpm
 - Sleep: 7.30 h asleep (7.45 h in bed, deep 1.15 h, REM 1.17 h, awake 0.15 h)
 
