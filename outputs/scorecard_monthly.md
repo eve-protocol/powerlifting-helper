@@ -5,6 +5,47 @@
 Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.
 Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.
 
+## 2026-07
+
+Comparison baseline: 2026-06
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 13 | ↓ 12 |
+| Total sets | 3 | 35 | ↓ 32 |
+| Avg sets/session | 3 | 2.69 | ↑ 0.31 |
+| Avg RPE | 7.83 | 7.26 | ↑ 0.57 |
+| Avg load | 160kg | 146.8kg | ↑ 13.2kg |
+| Tonnage | 795kg | 14652.5kg | ↓ 13857.5kg |
+| Avg tonnage/session | 795kg | 1127.1kg | ↓ 332.1kg |
+| Estimated stress | 607 | 8258 | ↓ 7652 |
+| Real stress | 614 | 7343 | ↓ 6729 |
+| Avg est stress/session | 607 | 635 | ↓ 28 |
+| Avg real stress/session | 614 | 565 | ↑ 49 |
+
+- Top single: 165kg x 1 @ 8
+- Previous top single: 165kg x 1 @ 8.50
+- Top single delta: → 0kg (only meaningful when the variation is comparable)
+- Top work set: 157.5kg x 2 @ 7.50
+- Previous top work set: 165kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 1 | 30 | ↓ 29 |
+| Avg steps/day | - | 13353 | n/a |
+| Avg distance/day | -km | 11.01km | n/a |
+| Avg kcal/day | 1672 | 2723 | ↓ 1051 |
+| Avg bodyweight | -kg | 78.7kg | n/a |
+| Avg resting HR | -bpm | 42.6bpm | n/a |
+| Avg sleep | -h | 6.38h | n/a |
+
+- Latest health date in period: 2026-07-01
+
 ## 2026-06
 
 Comparison baseline: 2026-05
@@ -83,12 +124,12 @@ Comparison baseline: 2026-05
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Days with data | 30 | 31 | ↓ 1 |
-| Avg steps/day | 13651 | 9672 | ↑ 3979 |
-| Avg distance/day | 11.26km | 8.16km | ↑ 3.10km |
-| Avg kcal/day | 2673 | 2584 | ↑ 89 |
+| Avg steps/day | 13353 | 9672 | ↑ 3681 |
+| Avg distance/day | 11.01km | 8.16km | ↑ 2.85km |
+| Avg kcal/day | 2723 | 2584 | ↑ 139 |
 | Avg bodyweight | 78.7kg | 79.2kg | ↓ 0.5kg |
-| Avg resting HR | 42.7bpm | 42.4bpm | ↑ 0.3bpm |
-| Avg sleep | 6.35h | 7.17h | ↓ 0.82h |
+| Avg resting HR | 42.6bpm | 42.4bpm | ↑ 0.2bpm |
+| Avg sleep | 6.38h | 7.17h | ↓ 0.79h |
 
 - Latest health date in period: 2026-06-30
 
