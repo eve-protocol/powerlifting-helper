@@ -11,7 +11,7 @@ block_sequence:
 - strength_block_v5
 - peaking_block_v7
 current_block: peaking_block_v7
-completed_workouts_in_current_block: 3
-last_completed_date: '2026-07-01'
+completed_workouts_in_current_block: 4
+last_completed_date: '2026-07-02'
 progression_mode: explicit
 active_coaching_focus: squat_deadlift_rebuild_v1
