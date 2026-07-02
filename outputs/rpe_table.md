@@ -1,7 +1,7 @@
 # Historical RPE Tables
 
 Source: `values/history.json` parsed workout sets. Cells show best kg for exact (reps, integer RPE), with staleness emoji for the date of that best.
-Reference date: 2026-07-01
+Reference date: 2026-07-02
 
 > Legend: 🟢 <3mo • 🟡 3-6mo • 🟠 6-9mo • 🔴 9-12mo • 🟣 >1yr
 
@@ -41,7 +41,7 @@ Reference date: 2026-07-01
 
 | Reps \ RPE | @10 | @9 | @8 | @7 | @6 |
 |---|---|---|---|---|---|
-| 1 | 195.0 🟢 | 190.0 🟡 | 190.0 🟡 | 185.0 🟢 | 175.0 🟢 |
+| 1 | 195.0 🟢 | 190.0 🟡 | 190.0 🟠 | 185.0 🟢 | 175.0 🟢 |
 | 2 | 185.0 🟢 | 185.0 🟢 | 180.0 🟢 | 172.5 🟢 | 170.0 🟡 |
 | 3 | 182.5 🟡 | 180.0 🟡 | 180.0 🟢 | 170.0 🟡 | 172.5 🟡 |
 | 4 | - | 160.0 🟣 | 170.0 🟢 | 170.0 🟢 | 150.0 🟠 |
