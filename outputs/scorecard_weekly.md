@@ -2683,23 +2683,23 @@ Comparison baseline: Peaking Block v7 / Week 2
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 1 | ↑ 2 |
-| Total sets | 10 | 2 | ↑ 8 |
-| Avg sets/session | 3.33 | 2 | ↑ 1.33 |
-| Avg RPE | 7.89 | 6 | ↑ 1.89 |
-| Avg load | 134.2kg | 151.2kg | ↓ 17kg |
-| Tonnage | 4092.5kg | 605kg | ↑ 3487.5kg |
-| Avg tonnage/session | 1364.2kg | 605kg | ↑ 759.2kg |
-| Estimated stress | - | 302 | n/a |
-| Real stress | 2098 | 146 | ↑ 1952 |
-| Avg est stress/session | - | 302 | n/a |
-| Avg real stress/session | 700 | 146 | ↑ 553 |
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 10 | 5 | ↑ 5 |
+| Avg sets/session | 3.33 | 2.50 | ↑ 0.83 |
+| Avg RPE | 7.89 | 7.50 | ↑ 0.39 |
+| Avg load | 134.2kg | 158kg | ↓ 23.8kg |
+| Tonnage | 4092.5kg | 1247.5kg | ↑ 2845kg |
+| Avg tonnage/session | 1364.2kg | 623.8kg | ↑ 740.4kg |
+| Estimated stress | - | 796 | n/a |
+| Real stress | 2098 | 659 | ↑ 1440 |
+| Avg est stress/session | - | 398 | n/a |
+| Avg real stress/session | 700 | 329 | ↑ 370 |
 
 - Top single: 155kg x 1 @ 9.50
-- Previous top single: -
-- Top single delta: n/a (only meaningful when the variation is comparable)
+- Previous top single: 170kg x 1 @ 9
+- Top single delta: ↓ 15kg (only meaningful when the variation is comparable)
 - Top work set: 142.5kg x 3 @ 8.50
-- Previous top work set: 152.5kg x 2 @ 6
+- Previous top work set: 155kg x 2 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Bench family
@@ -2752,10 +2752,10 @@ Comparison baseline: Peaking Block v7 / Week 2
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 6 | 2 | ↑ 4 |
+| Days with data | 6 | 3 | ↑ 3 |
 | Avg steps/day | 8554 | 4882 | ↑ 3672 |
 | Avg distance/day | 5.91km | 4.01km | ↑ 1.90km |
-| Avg kcal/day | 1950 | 2017 | ↓ 67 |
+| Avg kcal/day | 1950 | 1902 | ↑ 48 |
 | Avg bodyweight | 77.8kg | 78.3kg | ↓ 0.5kg |
 | Avg resting HR | 44bpm | 43.5bpm | ↑ 0.5bpm |
 | Avg sleep | 7.87h | 6.02h | ↑ 1.85h |
@@ -2770,24 +2770,24 @@ Comparison baseline: Peaking Block v7 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 3 | ↓ 2 |
-| Total sets | 2 | 7 | ↓ 5 |
-| Avg sets/session | 2 | 2.33 | ↓ 0.33 |
-| Avg RPE | 6 | 7.08 | ↓ 1.08 |
-| Avg load | 151.2kg | 152.9kg | ↓ 1.7kg |
-| Tonnage | 605kg | 2565kg | ↓ 1960kg |
-| Avg tonnage/session | 605kg | 855kg | ↓ 250kg |
-| Estimated stress | 302 | 1404 | ↓ 1102 |
-| Real stress | 146 | 1268 | ↓ 1122 |
-| Avg est stress/session | 302 | 468 | ↓ 166 |
-| Avg real stress/session | 146 | 423 | ↓ 276 |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 5 | 7 | ↓ 2 |
+| Avg sets/session | 2.50 | 2.33 | ↑ 0.17 |
+| Avg RPE | 7.50 | 7.08 | ↑ 0.42 |
+| Avg load | 158kg | 152.9kg | ↑ 5.1kg |
+| Tonnage | 1247.5kg | 2565kg | ↓ 1317.5kg |
+| Avg tonnage/session | 623.8kg | 855kg | ↓ 231.2kg |
+| Estimated stress | 796 | 1404 | ↓ 608 |
+| Real stress | 659 | 1268 | ↓ 610 |
+| Avg est stress/session | 398 | 468 | ↓ 70 |
+| Avg real stress/session | 329 | 423 | ↓ 93 |
 
-- Top single: -
+- Top single: 170kg x 1 @ 9
 - Previous top single: 165kg x 1 @ 8
-- Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 152.5kg x 2 @ 6
+- Top single delta: ↑ 5kg (only meaningful when the variation is comparable)
+- Top work set: 155kg x 2 @ 7
 - Previous top work set: 157.5kg x 2 @ 7.50
-- Top work-set delta: ↓ 5kg (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↓ 2.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
@@ -2839,15 +2839,15 @@ Comparison baseline: Peaking Block v7 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 2 | 6 | ↓ 4 |
+| Days with data | 3 | 6 | ↓ 3 |
 | Avg steps/day | 4882 | 10040 | ↓ 5158 |
 | Avg distance/day | 4.01km | 8.27km | ↓ 4.26km |
-| Avg kcal/day | 2017 | 2484 | ↓ 467 |
+| Avg kcal/day | 1902 | 2484 | ↓ 582 |
 | Avg bodyweight | 78.3kg | 79kg | ↓ 0.7kg |
 | Avg resting HR | 43.5bpm | 40.7bpm | ↑ 2.8bpm |
 | Avg sleep | 6.02h | 7.56h | ↓ 1.54h |
 
-- Latest health date in period: 2026-07-07
+- Latest health date in period: 2026-07-08
 
 ## Peaking Block v7 / Week 1
 

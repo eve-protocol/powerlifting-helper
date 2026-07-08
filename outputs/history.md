@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-07-07 |
-| Training Days | 389 |
-| Total Sets | 4792 |
+| Date Range | 2024-12-28 → 2026-07-08 |
+| Training Days | 390 |
+| Total Sets | 4799 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -40,7 +40,7 @@
 ```
 
 W28:
-  Squat    │███ 605kg
+  Squat    │███████ 1248kg
   Bench    │▓▓▓▓▓▓ 1210kg
   Deadlift │░░░░░ 1035kg
 
@@ -244,7 +244,7 @@ W19:
 | 6RM | 155.0kg | 209.2kg | 7.5 | 🟡 2026-01-20 |
 | 8RM | 130.0kg | 179.6kg | 9 | 🔴 2025-08-21 |
 | 9RM | 140.0kg | 180.0kg | - | 🟠 2025-12-13 |
-| 12RM | 95.0kg | 136.8kg | - | 🔴 2025-07-08 |
+| 12RM | 95.0kg | 136.8kg | - | 🟣 2025-07-08 |
 
 #### Sumo Romanian Deadlift
 
