@@ -23,6 +23,7 @@ Exercise notes: Did 180kg felt super easy so I jumped to 190kg but failed. Bar w
   Set 1: 180.0kg x 1 @ RPE 6.5 [target RPE: 8-8.5] [est_stress=153, real_stress=106]
   Set 2: 190.0kg x 1 [failed] [target RPE: 7.5-8] [est_stress=163, real_stress=-]
   Set 3: 185.0kg x 1 @ RPE 8.5 [target: 2 reps, target RPE: 7-7.5] [est_stress=269, real_stress=174]
+  Set 4: 180.0kg x 2 [target RPE: 7-7.5] [est_stress=248, real_stress=-]
 
 ### Squat (Low Bar)
 
