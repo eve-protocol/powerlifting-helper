@@ -3,6 +3,39 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-07-10
+
+### Health / Recovery
+
+- Steps: 18567
+- Distance: 18 km
+- Total kcal burned: 3488
+- Resting heart rate: 48 bpm
+- Sleep: 1.83 h asleep (2.63 h in bed, deep 0.10 h, REM 0 h, awake 0.80 h)
+
+**Week 2 · Day 5**
+Finished: 2026-07-10 21:58:38
+
+### Sumo Deadlift (Barbell)
+
+Exercise notes: Did 180kg felt super easy so I jumped to 190kg but failed. Bar was thicker than usual powerlifting bar, and grip was smooth. So even tho 180 was easy, I failed 190 and did 185 instead.
+
+  Set 1: 180.0kg x 1 @ RPE 6.5 [target RPE: 8-8.5] [est_stress=153, real_stress=106]
+  Set 2: 190.0kg x 1 [failed] [target RPE: 7.5-8] [est_stress=163, real_stress=-]
+  Set 3: 185.0kg x 1 @ RPE 8.5 [target: 2 reps, target RPE: 7-7.5] [est_stress=269, real_stress=174]
+
+### Squat (Low Bar)
+
+  Set 1: 150.0kg x 2 [target RPE: 5.5-6] [est_stress=131, real_stress=-]
+  Set 2: 155.0kg x 2 @ RPE 6.5 [target RPE: 5.5-6] [est_stress=145, real_stress=171]
+
+### Bench Press (Barbell)
+
+Exercise notes: Despite the bar rolling A LOT and throwing me off balance. I managed to keep 117.5 very low rpe ( 5 to 5.5 )
+
+  Set 1: 117.5kg x 2 [target RPE: 6-6.5] [est_stress=114, real_stress=-]
+  Set 2: 120.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=121, real_stress=128]
+
 ## 2026-07-09
 
 ### Health / Recovery
