@@ -3,6 +3,28 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-07-11
+
+**Week 3 · Day 1**
+Finished: 2026-07-11 12:32:33
+
+### Squat (Low Bar)
+
+Exercise notes: Felt between 5 and 6 closer to 5
+
+  Set 1: 150.0kg x 2 @ RPE 6 [target RPE: 5.5-6] [est_stress=131, real_stress=139]
+  Set 2: 150.0kg x 2 @ RPE 6 [target RPE: 5.5-6] [est_stress=131, real_stress=139]
+
+### Bench Press (Paused)
+
+  Set 1: 115.0kg x 2 @ RPE 6 [target RPE: 6.5-7] [est_stress=118, real_stress=101]
+  Set 2: 117.5kg x 2 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=126, real_stress=120]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 7 [target: 4 reps, target RPE: 7-7.5]
+  Set 2: 25.0kg x 5 @ RPE 7.5 [target: 4 reps, target RPE: 7-7.5]
+
 ## 2026-07-10
 
 ### Health / Recovery
@@ -23,7 +45,7 @@ Exercise notes: Did 180kg felt super easy so I jumped to 190kg but failed. Bar w
   Set 1: 180.0kg x 1 @ RPE 6.5 [target RPE: 8-8.5] [est_stress=153, real_stress=106]
   Set 2: 190.0kg x 1 [failed] [target RPE: 7.5-8] [est_stress=163, real_stress=-]
   Set 3: 185.0kg x 1 @ RPE 8.5 [target: 2 reps, target RPE: 7-7.5] [est_stress=269, real_stress=174]
-  Set 4: 180.0kg x 2 [target RPE: 7-7.5] [est_stress=248, real_stress=-]
+  Set 4: 180.0kg x 2 @ RPE 8 [target RPE: 7-7.5] [est_stress=248, real_stress=292]
 
 ### Squat (Low Bar)
 
