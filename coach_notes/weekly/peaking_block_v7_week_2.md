@@ -19,10 +19,10 @@
 - Support work: keep light low-bar, paused bench, pull-ups, and accessories productive without adding recovery debt.
 
 ## Current trajectory
-- Overall: still on track, but the process warning is louder. The week produced useful strength signals: 170kg low-bar x1 @9, 132.5kg bench x1 @8, and an easy 180kg deadlift single followed by 185kg x1 @8.5 after a 190kg miss. Those are enough to keep the Week 4 mock-meet goals live, but the week again showed that the main risk is attempt selection and turning planned exposures into proof work.
+- Overall: still on track, but the process warning is louder. The week produced useful strength signals: 170kg low-bar x1 @9, 132.5kg bench x1 @8, and an easy 180kg deadlift single followed by 185kg x1 @8.5 and a 180kg double after a 190kg miss. Those are enough to keep the Week 4 mock-meet goals live, but the week again showed that the main risk is attempt selection and turning planned exposures into proof work.
 - Squat: on track with caution. 170kg x1 @9 was hotter than prescribed but technically useful, and the backoffs at 162.5kg x1 @8 and 155kg x2 @7 were controlled. The 180kg goal remains plausible, but Week 3 should require clean bridge singles before moving above 170kg.
 - Bench: best trend of the week. Heavy bench improved from Week 1's 130kg x2 @9.5 overshoot to a controlled 132.5kg x1 @8 and 125kg x2 @7.5. Bench is expressing strength better when singles stay as singles.
-- Deadlift: capacity is present, execution discipline is the limiter. Paused sumo was strong but slightly overshot at 175kg x2 @8.5. The Saturday 180kg x1 @6.5 readiness signal was good, but the direct jump to 190kg on a worse bar created an avoidable failed attempt. The later 185kg x1 @8.5 preserves the trajectory but does not cleanly advance it.
+- Deadlift: capacity is present, execution discipline is the limiter. Paused sumo was strong but slightly overshot at 175kg x2 @8.5. The Saturday 180kg x1 @6.5 readiness signal was good, but the direct jump to 190kg on a worse bar created an avoidable failed attempt. The later 185kg x1 @8.5 and 180kg x2 preserve the trajectory, but the sequence does not cleanly advance it.
 - Accessories/support work: mostly fine. Pull-ups and curls were contained. Lateral raises and leg curls had small load-selection overshoots, but nothing that materially changes the peak.
 
 ## Main evidence
@@ -31,7 +31,7 @@
 - Tuesday paused sumo: 170kg x2 @7, 172.5kg x2 @7, 175kg x2 @8.5; strength positive, final set too hot for the technical slot.
 - Wednesday heavy low-bar: 170kg x1 @9, then 162.5kg x1 @8 and 155kg x2 @7; productive but not a green light to accelerate.
 - Thursday heavy bench: 130kg x1 @7, 132.5kg x1 @8, 127.5kg x1 @7, 125kg x2 @7.5; strongest controlled bench day of the block.
-- Friday pulled-forward Saturday session: deadlift 180kg x1 @6.5, 190kg miss, 185kg x1 @8.5; light low-bar 150kg x2 and 155kg x2 @6.5; bench 117.5kg x2 and 120kg x2 @6.5.
+- Friday pulled-forward Saturday session: deadlift 180kg x1 @6.5, 190kg miss, 185kg x1 @8.5, and 180kg x2; light low-bar 150kg x2 and 155kg x2 @6.5; bench 117.5kg x2 and 120kg x2 @6.5.
 
 ## Programming audit
 - The programmed structure is working. The week gave repeated specific exposures without excessive volume, and the main lifts all showed enough strength for a peaking trajectory.
