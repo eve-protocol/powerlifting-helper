@@ -3,6 +3,30 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-07-12
+
+**Week 3 · Day 2**
+Finished: 2026-07-12 11:49:45
+
+### Sumo Deadlift (Paused)
+
+  Set 1: 175.0kg x 2 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=228, real_stress=295]
+  Set 2: 175.0kg x 2 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=228, real_stress=295]
+
+### Lateral Raise (Dumbbell)
+
+  Set 1: 9.0kg x 15 @ RPE 6.5 [target: 10 reps, target RPE: 7-7.5]
+  Set 2: 12.5kg x 8 @ RPE 8 [target: 10 reps, target RPE: 7-7.5]
+
+### Rear Delt Fly (Machine)
+
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 50.0kg x 5 @ RPE 7 [est_stress=-, real_stress=26]
+  Set 2: 56.5kg x 2 @ RPE 9 [est_stress=-, real_stress=22]
+  Set 3: 50.0kg x 5 @ RPE 7 [est_stress=-, real_stress=26]
+
 ## 2026-07-11
 
 ### Health / Recovery
