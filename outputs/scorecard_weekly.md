@@ -2755,7 +2755,7 @@ Comparison baseline: Peaking Block v7 / Week 3
 | Days with data | 6 | 3 | ↑ 3 |
 | Avg steps/day | 8554 | 11521 | ↓ 2967 |
 | Avg distance/day | 5.91km | 9.67km | ↓ 3.76km |
-| Avg kcal/day | 1950 | 2604 | ↓ 654 |
+| Avg kcal/day | 1950 | 2653 | ↓ 703 |
 | Avg bodyweight | 77.8kg | - | n/a |
 | Avg resting HR | 44bpm | 42bpm | ↑ 2bpm |
 | Avg sleep | 7.87h | 7.91h | ↓ 0.04h |
@@ -2842,7 +2842,7 @@ Comparison baseline: Peaking Block v7 / Week 2
 | Days with data | 3 | 5 | ↓ 2 |
 | Avg steps/day | 11521 | 9644 | ↑ 1877 |
 | Avg distance/day | 9.67km | 8.55km | ↑ 1.12km |
-| Avg kcal/day | 2604 | 2848 | ↓ 244 |
+| Avg kcal/day | 2653 | 2848 | ↓ 195 |
 | Avg bodyweight | -kg | 78.2kg | n/a |
 | Avg resting HR | 42bpm | 44.8bpm | ↓ 2.8bpm |
 | Avg sleep | 7.91h | 5.46h | ↑ 2.45h |
