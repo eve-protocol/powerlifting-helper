@@ -169,6 +169,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-07-15 (Wednesday)
 
+### Health / Recovery
+
+- Steps: 16296
+- Distance: 13.48 km
+- Total kcal burned: 2332
+- Resting heart rate: 43 bpm
+- Sleep: 9.45 h asleep (9.90 h in bed, deep 1.02 h, REM 2.47 h, awake 0.45 h)
+
 **Bench Press (Barbell)**
 - Exercise notes: Koh Lanta commercial gym setup: unknown bar weight, no rings, hooks too high, solo unrack bad. Loads are estimates. Do not use this session for normal bench calibration.
 - Set 1: 1 × 135kg @ RPE - [target_reps=1, target_intensity=[8.5, 9]RPE_range; est_stress=144; real_stress=-]
