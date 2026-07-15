@@ -3,6 +3,29 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-07-15
+
+**Week 3 · Day 4**
+Finished: 2026-07-15 12:20:23
+
+### Bench Press (Barbell)
+
+Exercise notes: Koh Lanta commercial gym setup: unknown bar weight, no rings, hooks too high, solo unrack bad. Loads are estimates. Do not use this session for normal bench calibration.
+
+  Set 1: 135.0kg x 1 [target RPE: 8.5-9] [est_stress=144, real_stress=-]
+  Set 2: 130.0kg x 1 [target RPE: 8-8.5] [est_stress=118, real_stress=-]
+  Set 3: 122.5kg x 2 @ RPE 7 [target RPE: 7-7.5] [est_stress=159, real_stress=150]
+  Set 4: 122.5kg x 2 @ RPE 7 [target RPE: 7-7.5] [est_stress=159, real_stress=150]
+
+### Pull-Up (Weighted)
+
+
+### Bicep Curl (EZ Bar)
+
+  Set 1: 22.5kg x 10 @ RPE 7 [target: 8 reps, target RPE: 7-7.5]
+  Set 2: 22.5kg x 10 @ RPE 7.5 [target: 8 reps, target RPE: 7-7.5]
+  Set 3: 22.5kg x 10 @ RPE 8.5 [target: 8 reps, target RPE: 7-7.5]
+
 ## 2026-07-13
 
 ### Health / Recovery
