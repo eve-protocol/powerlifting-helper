@@ -2677,28 +2677,115 @@ Comparison baseline: Strength Block v2 / Week 1
 
 ## Strength Block v2 / Week 1
 
+Comparison baseline: Peaking Block v7 / Week 4
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 1 | ↑ 2 |
+| Total sets | 10 | 1 | ↑ 9 |
+| Avg sets/session | 3.33 | 1 | ↑ 2.33 |
+| Avg RPE | 7.89 | 7.50 | ↑ 0.39 |
+| Avg load | 134.2kg | 160kg | ↓ 25.8kg |
+| Tonnage | 4092.5kg | 160kg | ↑ 3932.5kg |
+| Avg tonnage/session | 1364.2kg | 160kg | ↑ 1204.2kg |
+| Estimated stress | - | 124 | n/a |
+| Real stress | 2098 | 117 | ↑ 1981 |
+| Avg est stress/session | - | 124 | n/a |
+| Avg real stress/session | 700 | 117 | ↑ 582 |
+
+- Top single: 155kg x 1 @ 9.50
+- Previous top single: 160kg x 1 @ 7.50
+- Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
+- Top work set: 142.5kg x 3 @ 8.50
+- Previous top work set: -
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 4 | 1 | ↑ 3 |
+| Total sets | 14 | 1 | ↑ 13 |
+| Avg sets/session | 3.50 | 1 | ↑ 2.50 |
+| Avg RPE | 7.89 | 9 | ↓ 1.11 |
+| Avg load | 97.1kg | 132.5kg | ↓ 35.4kg |
+| Tonnage | 4902.5kg | 132.5kg | ↑ 4770kg |
+| Avg tonnage/session | 1225.6kg | 132.5kg | ↑ 1093.1kg |
+| Estimated stress | 110 | 113 | ↓ 3 |
+| Real stress | 2726 | 142 | ↑ 2583 |
+| Avg est stress/session | 28 | 113 | ↓ 85 |
+| Avg real stress/session | 681 | 142 | ↑ 539 |
+
+- Top single: 122.5kg x 1 @ 8
+- Previous top single: 132.5kg x 1 @ 9
+- Top single delta: ↓ 10kg (only meaningful when the variation is comparable)
+- Top work set: 115kg x 3 @ 8
+- Previous top work set: -
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 3 | 1 | ↑ 2 |
+| Total sets | 12 | 1 | ↑ 11 |
+| Avg sets/session | 4 | 1 | ↑ 3 |
+| Avg RPE | 7.72 | 8.50 | ↓ 0.78 |
+| Avg load | 152.1kg | 180kg | ↓ 27.9kg |
+| Tonnage | 6535kg | 180kg | ↑ 6355kg |
+| Avg tonnage/session | 2178.3kg | 180kg | ↑ 1998.3kg |
+| Estimated stress | - | 138 | n/a |
+| Real stress | 2416 | 160 | ↑ 2256 |
+| Avg est stress/session | - | 138 | n/a |
+| Avg real stress/session | 805 | 160 | ↑ 645 |
+
+- Top single: 190kg x 1 @ 8.50
+- Previous top single: 180kg x 1 @ 8.50
+- Top single delta: ↑ 10kg (only meaningful when the variation is comparable)
+- Top work set: 165kg x 3 @ 6.50
+- Previous top work set: -
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 6 | - | n/a |
+| Avg steps/day | 8554 | - | n/a |
+| Avg distance/day | 5.91km | - | n/a |
+| Avg kcal/day | 1950 | - | n/a |
+| Avg bodyweight | 77.8kg | - | n/a |
+| Avg resting HR | 44bpm | - | n/a |
+| Avg sleep | 7.87h | - | n/a |
+
+- Latest health date in period: 2026-01-03
+
+## Peaking Block v7 / Week 4
+
 Comparison baseline: Peaking Block v7 / Week 3
 
 ### Squat family
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 3 | → 0 |
-| Total sets | 10 | 8 | ↑ 2 |
-| Avg sets/session | 3.33 | 2.67 | ↑ 0.66 |
-| Avg RPE | 7.89 | 7 | ↑ 0.89 |
-| Avg load | 134.2kg | 156.6kg | ↓ 22.4kg |
-| Tonnage | 4092.5kg | 2167.5kg | ↑ 1925kg |
-| Avg tonnage/session | 1364.2kg | 722.5kg | ↑ 641.7kg |
-| Estimated stress | - | 1284 | n/a |
-| Real stress | 2098 | 1322 | ↑ 776 |
-| Avg est stress/session | - | 428 | n/a |
-| Avg real stress/session | 700 | 441 | ↑ 259 |
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 1 | 8 | ↓ 7 |
+| Avg sets/session | 1 | 2.67 | ↓ 1.67 |
+| Avg RPE | 7.50 | 7 | ↑ 0.50 |
+| Avg load | 160kg | 156.6kg | ↑ 3.4kg |
+| Tonnage | 160kg | 2167.5kg | ↓ 2007.5kg |
+| Avg tonnage/session | 160kg | 722.5kg | ↓ 562.5kg |
+| Estimated stress | 124 | 1284 | ↓ 1160 |
+| Real stress | 117 | 1322 | ↓ 1205 |
+| Avg est stress/session | 124 | 428 | ↓ 304 |
+| Avg real stress/session | 117 | 441 | ↓ 324 |
 
-- Top single: 155kg x 1 @ 9.50
+- Top single: 160kg x 1 @ 7.50
 - Previous top single: 172.5kg x 1 @ 9
-- Top single delta: ↓ 17.5kg (only meaningful when the variation is comparable)
-- Top work set: 142.5kg x 3 @ 8.50
+- Top single delta: ↓ 12.5kg (only meaningful when the variation is comparable)
+- Top work set: -
 - Previous top work set: 157.5kg x 2 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -2706,22 +2793,22 @@ Comparison baseline: Peaking Block v7 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 4 | 4 | → 0 |
-| Total sets | 14 | 11 | ↑ 3 |
-| Avg sets/session | 3.50 | 2.75 | ↑ 0.75 |
-| Avg RPE | 7.89 | 6.89 | ↑ 1 |
-| Avg load | 97.1kg | 103.8kg | ↓ 6.7kg |
-| Tonnage | 4902.5kg | 2318kg | ↑ 2584.5kg |
-| Avg tonnage/session | 1225.6kg | 579.5kg | ↑ 646.1kg |
-| Estimated stress | 110 | 1062 | ↓ 952 |
-| Real stress | 2726 | 845 | ↑ 1881 |
-| Avg est stress/session | 28 | 266 | ↓ 238 |
-| Avg real stress/session | 681 | 211 | ↑ 470 |
+| Sessions | 1 | 4 | ↓ 3 |
+| Total sets | 1 | 11 | ↓ 10 |
+| Avg sets/session | 1 | 2.75 | ↓ 1.75 |
+| Avg RPE | 9 | 6.89 | ↑ 2.11 |
+| Avg load | 132.5kg | 103.8kg | ↑ 28.7kg |
+| Tonnage | 132.5kg | 2318kg | ↓ 2185.5kg |
+| Avg tonnage/session | 132.5kg | 579.5kg | ↓ 447kg |
+| Estimated stress | 113 | 1062 | ↓ 949 |
+| Real stress | 142 | 845 | ↓ 702 |
+| Avg est stress/session | 113 | 266 | ↓ 153 |
+| Avg real stress/session | 142 | 211 | ↓ 69 |
 
-- Top single: 122.5kg x 1 @ 8
+- Top single: 132.5kg x 1 @ 9
 - Previous top single: 135kg x 1 @ -
-- Top single delta: ↓ 12.5kg (only meaningful when the variation is comparable)
-- Top work set: 115kg x 3 @ 8
+- Top single delta: ↓ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: -
 - Previous top work set: 122.5kg x 2 @ 6.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -2729,38 +2816,24 @@ Comparison baseline: Peaking Block v7 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 2 | ↑ 1 |
-| Total sets | 12 | 5 | ↑ 7 |
-| Avg sets/session | 4 | 2.50 | ↑ 1.50 |
-| Avg RPE | 7.72 | 8.70 | ↓ 0.98 |
-| Avg load | 152.1kg | 179kg | ↓ 26.9kg |
-| Tonnage | 6535kg | 1420kg | ↑ 5115kg |
-| Avg tonnage/session | 2178.3kg | 710kg | ↑ 1468.3kg |
-| Estimated stress | - | 1032 | n/a |
-| Real stress | 2416 | 1254 | ↑ 1162 |
-| Avg est stress/session | - | 516 | n/a |
-| Avg real stress/session | 805 | 627 | ↑ 178 |
+| Sessions | 1 | 2 | ↓ 1 |
+| Total sets | 1 | 5 | ↓ 4 |
+| Avg sets/session | 1 | 2.50 | ↓ 1.50 |
+| Avg RPE | 8.50 | 8.70 | ↓ 0.20 |
+| Avg load | 180kg | 179kg | ↑ 1kg |
+| Tonnage | 180kg | 1420kg | ↓ 1240kg |
+| Avg tonnage/session | 180kg | 710kg | ↓ 530kg |
+| Estimated stress | 138 | 1032 | ↓ 894 |
+| Real stress | 160 | 1254 | ↓ 1094 |
+| Avg est stress/session | 138 | 516 | ↓ 378 |
+| Avg real stress/session | 160 | 627 | ↓ 467 |
 
-- Top single: 190kg x 1 @ 8.50
+- Top single: 180kg x 1 @ 8.50
 - Previous top single: 187.5kg x 1 @ 9.50
-- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
-- Top work set: 165kg x 3 @ 6.50
+- Top single delta: ↓ 7.5kg (only meaningful when the variation is comparable)
+- Top work set: -
 - Previous top work set: 175kg x 2 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
-
-### Health / Recovery
-
-| Metric | Current | Previous | Delta |
-|---|---:|---:|---:|
-| Days with data | 6 | 9 | ↓ 3 |
-| Avg steps/day | 8554 | 14177 | ↓ 5623 |
-| Avg distance/day | 5.91km | 12.39km | ↓ 6.48km |
-| Avg kcal/day | 1950 | 2773 | ↓ 823 |
-| Avg bodyweight | 77.8kg | 78.8kg | ↓ 1kg |
-| Avg resting HR | 44bpm | 42.6bpm | ↑ 1.4bpm |
-| Avg sleep | 7.87h | 7.17h | ↑ 0.70h |
-
-- Latest health date in period: 2026-01-03
 
 ## Peaking Block v7 / Week 3
 
