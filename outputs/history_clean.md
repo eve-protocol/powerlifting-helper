@@ -5,6 +5,14 @@
 
 ## 2026-07-21
 
+### Health / Recovery
+
+- Steps: 2240
+- Distance: 1.89 km
+- Total kcal burned: 1806
+- Resting heart rate: 42 bpm
+- Sleep: 7.50 h asleep (7.82 h in bed, deep 0.82 h, REM 2.05 h, awake 0.32 h)
+
 **Week 4 · Day 2**
 Finished: 2026-07-21 09:31:09
 
@@ -29,6 +37,7 @@ Finished: 2026-07-21 09:31:09
 - Steps: 4670
 - Distance: 4.24 km
 - Total kcal burned: 2399
+- Weight: 78.2 kg
 - Resting heart rate: 42 bpm
 - Sleep: 7.50 h asleep (8 h in bed, deep 0.97 h, REM 0.98 h, awake 0.50 h)
 
