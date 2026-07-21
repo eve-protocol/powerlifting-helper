@@ -3,6 +3,25 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-07-21
+
+**Week 4 · Day 2**
+Finished: 2026-07-21 09:31:09
+
+### Bench Press (Paused)
+
+  Set 1: 117.5kg x 1 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=57, real_stress=60]
+
+### Lateral Raise (Dumbbell)
+
+  Set 1: 10.0kg x 10 @ RPE 6 [target RPE: 6-6.5]
+  Set 2: 10.0kg x 10 @ RPE 6 [target RPE: 6-6.5]
+
+### Rear Delt Fly (Machine)
+
+  Set 1: 40.0kg x 12 @ RPE 6 [target RPE: 6-6.5]
+  Set 2: 45.0kg x 10 @ RPE 6 [target: 12 reps, target RPE: 6-6.5]
+
 ## 2026-07-20
 
 ### Health / Recovery

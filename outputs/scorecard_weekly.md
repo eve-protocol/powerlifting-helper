@@ -2706,17 +2706,17 @@ Comparison baseline: Peaking Block v7 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 4 | 1 | ↑ 3 |
-| Total sets | 14 | 1 | ↑ 13 |
+| Sessions | 4 | 2 | ↑ 2 |
+| Total sets | 14 | 2 | ↑ 12 |
 | Avg sets/session | 3.50 | 1 | ↑ 2.50 |
-| Avg RPE | 7.89 | 9 | ↓ 1.11 |
-| Avg load | 97.1kg | 132.5kg | ↓ 35.4kg |
-| Tonnage | 4902.5kg | 132.5kg | ↑ 4770kg |
-| Avg tonnage/session | 1225.6kg | 132.5kg | ↑ 1093.1kg |
-| Estimated stress | 110 | 113 | ↓ 3 |
-| Real stress | 2726 | 142 | ↑ 2583 |
-| Avg est stress/session | 28 | 113 | ↓ 85 |
-| Avg real stress/session | 681 | 142 | ↑ 539 |
+| Avg RPE | 7.89 | 7.75 | ↑ 0.14 |
+| Avg load | 97.1kg | 125kg | ↓ 27.9kg |
+| Tonnage | 4902.5kg | 250kg | ↑ 4652.5kg |
+| Avg tonnage/session | 1225.6kg | 125kg | ↑ 1100.6kg |
+| Estimated stress | 110 | 170 | ↓ 60 |
+| Real stress | 2726 | 202 | ↑ 2523 |
+| Avg est stress/session | 28 | 85 | ↓ 57 |
+| Avg real stress/session | 681 | 101 | ↑ 580 |
 
 - Top single: 122.5kg x 1 @ 8
 - Previous top single: 132.5kg x 1 @ 9
@@ -2793,17 +2793,17 @@ Comparison baseline: Peaking Block v7 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 4 | ↓ 3 |
-| Total sets | 1 | 11 | ↓ 10 |
+| Sessions | 2 | 4 | ↓ 2 |
+| Total sets | 2 | 11 | ↓ 9 |
 | Avg sets/session | 1 | 2.75 | ↓ 1.75 |
-| Avg RPE | 9 | 6.89 | ↑ 2.11 |
-| Avg load | 132.5kg | 103.8kg | ↑ 28.7kg |
-| Tonnage | 132.5kg | 2318kg | ↓ 2185.5kg |
-| Avg tonnage/session | 132.5kg | 579.5kg | ↓ 447kg |
-| Estimated stress | 113 | 1062 | ↓ 949 |
-| Real stress | 142 | 845 | ↓ 702 |
-| Avg est stress/session | 113 | 266 | ↓ 153 |
-| Avg real stress/session | 142 | 211 | ↓ 69 |
+| Avg RPE | 7.75 | 6.89 | ↑ 0.86 |
+| Avg load | 125kg | 103.8kg | ↑ 21.2kg |
+| Tonnage | 250kg | 2318kg | ↓ 2068kg |
+| Avg tonnage/session | 125kg | 579.5kg | ↓ 454.5kg |
+| Estimated stress | 170 | 1062 | ↓ 892 |
+| Real stress | 202 | 845 | ↓ 642 |
+| Avg est stress/session | 85 | 266 | ↓ 181 |
+| Avg real stress/session | 101 | 211 | ↓ 110 |
 
 - Top single: 132.5kg x 1 @ 9
 - Previous top single: 135kg x 1 @ -
