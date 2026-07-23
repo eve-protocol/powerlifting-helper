@@ -216652,6 +216652,108 @@
         "type": 1,
         "name": "Peaking Block v7"
       }
+    ],
+    "2026-07-23": [
+      {
+        "program_id": "user-c995a8dd-08fc-4166-b6bb-eff4a54107f1",
+        "id": "BRciO1lgQmVRr8ht",
+        "user_id": "l8XHYRXwevhoJf4XffuZyECxgMP2",
+        "finished_at": "2026-07-23 09:21:53",
+        "day": 3,
+        "week": 3,
+        "workout": "{}",
+        "records": [
+          {
+            "id": "5edc4dba-2459-4ffe-a93c-e7803c3288f6",
+            "name": "Bench Press (Barbell)",
+            "sets": [
+              {
+                "id": "5ce59211-e763-4668-a9ce-fd0bf50c6d86",
+                "from": "app",
+                "value": "",
+                "amount": "2",
+                "custom": false,
+                "source": "user created",
+                "target": 2,
+                "skipped": false,
+                "intensity": [
+                  6,
+                  6.5
+                ],
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 6,
+                "previous_rpe": 9,
+                "archived_reps": 2,
+                "previous_reps": 1,
+                "intensity_unit": "RPE_range",
+                "archived_weight": 264.554712,
+                "previous_weight": 292.1124945,
+                "support_distance": false
+              },
+              {
+                "id": "3386d3c4-c276-4eeb-b032-5369bf751cfd",
+                "from": "app",
+                "value": "120",
+                "amount": "2",
+                "custom": false,
+                "source": "user created",
+                "target": 2,
+                "skipped": false,
+                "intensity": [
+                  6,
+                  6.5
+                ],
+                "time_unit": "minutes",
+                "valueEmpty": false,
+                "amountEmpty": false,
+                "target_type": "reps",
+                "target_unit": "minutes",
+                "weight_unit": "kg",
+                "archived_rpe": 6.5,
+                "archived_reps": 2,
+                "intensity_unit": "RPE_range",
+                "archived_weight": 270.0662685,
+                "support_distance": false
+              }
+            ],
+            "type": "Barbell",
+            "uniq": "b618ee11-4ffe-4174-a9d1-02708266fe01",
+            "video": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
+            "custom": false,
+            "source": "coach",
+            "muscles": [
+              "Chest"
+            ],
+            "create_from": "web",
+            "target_type": "reps",
+            "alternatives": [],
+            "muscles_list": [
+              {
+                "muscle": "Chest",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Triceps",
+                "percent": "100%"
+              },
+              {
+                "muscle": "Front Delts",
+                "percent": "100%"
+              }
+            ],
+            "support_distance": false
+          }
+        ],
+        "legacy": {},
+        "title": "Week 4 · Day 4",
+        "type": 1,
+        "name": "Peaking Block v7"
+      }
     ]
   },
   "code": 200
