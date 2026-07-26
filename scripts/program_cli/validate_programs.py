@@ -41,6 +41,17 @@ def validate_set(set_data, exercise_name, workout_name):
         target = set_data['target']
         if not isinstance(target, int) or target < 1:
             errors.append(f"  Invalid target reps for {exercise_name}: {target}")
+
+    if 'target_weight_kg' in set_data:
+        target_weight = set_data['target_weight_kg']
+        if (
+            isinstance(target_weight, bool)
+            or not isinstance(target_weight, (int, float))
+            or target_weight <= 0
+        ):
+            errors.append(
+                f"  Invalid target_weight_kg for {exercise_name}: {target_weight}"
+            )
     
     return errors
 
@@ -53,6 +64,11 @@ def validate_exercise(exercise_data, workout_name):
     for field in REQUIRED_EXERCISE_FIELDS:
         if field not in exercise_data:
             errors.append(f"  Missing '{field}' in exercise '{exercise_name}'")
+
+    if 'intent' in exercise_data:
+        intent = exercise_data['intent']
+        if not isinstance(intent, str) or not intent.strip():
+            errors.append(f"  Invalid intent for exercise '{exercise_name}'")
     
     # Validate sets
     if 'sets' in exercise_data:
@@ -132,6 +148,26 @@ def validate_program(file_path):
             for workout_data in workouts:
                 workout_errors = validate_workout(workout_data)
                 errors.extend(workout_errors)
+
+    # Anchor-based programs are coaching documents as well as Boostcamp inputs.
+    # Require the context that prevents a target weight from becoming rigid.
+    if data.get('load_policy') and isinstance(data.get('workouts'), list):
+        for workout_data in data['workouts']:
+            workout_name = workout_data.get('name', 'Unknown')
+            if not str(workout_data.get('intent', '')).strip():
+                errors.append(f"  Missing workout intent in '{workout_name}'")
+            for exercise_data in workout_data.get('exercises', []):
+                exercise_name = exercise_data.get('name', 'Unknown')
+                if not str(exercise_data.get('intent', '')).strip():
+                    errors.append(
+                        f"  Missing exercise intent for '{exercise_name}' in '{workout_name}'"
+                    )
+                for set_index, set_data in enumerate(exercise_data.get('sets', []), start=1):
+                    if 'target_weight_kg' not in set_data:
+                        errors.append(
+                            f"  Missing target_weight_kg for set {set_index} of "
+                            f"'{exercise_name}' in '{workout_name}'"
+                        )
     
     return errors
 

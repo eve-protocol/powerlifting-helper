@@ -1,93 +1,254 @@
-id: squat_deadlift_rebuild_v1
-created: '2026-05-05'
+id: volume_transfer_realization_v2
+created: '2026-07-26'
 status: active
 reason: >
-  Squat and deadlift have stalled across recent mock meets while bench continues
-  progressing. Current lower-body strategy appears too posterior-chain dominant:
-  squat shifts to hips/back out of the hole, and deadlift stress accumulates in
-  back/lockout position.
+  The 2026-05-04 to 2026-07-26 macrocycle produced rep PRs in the volume block,
+  missed bench and deadlift triple benchmarks in the strength block, and ended
+  with a 500kg mock-meet total versus 510kg before the cycle. Ren currently
+  expresses strength best through productive rep work and loses performance
+  when useful volume is removed in favor of prolonged high-intensity exposure.
 
 global_goal: >
-  Use this block to develop positions Ren normally avoids, not simply reinforce
-  the strongest-feeling current pattern.
+  Preserve the rep-strength stimulus that works for Ren while progressively
+  improving competition-lift specificity. Convert volume into a 530kg primary
+  mock-meet target on 2026-10-17, with 540kg as the stretch outcome, using
+  objective checkpoints that change later programming when they are missed.
+
+evidence_basis:
+  scope: Literature checked through 2026-07-26; athlete-specific decisions are constrained by Ren's logged response.
+  principles:
+    - >
+      Keep fixed load anchors subordinate to autoregulation because daily
+      performance varies and autoregulated resistance training is at least a
+      defensible alternative to fixed percentage loading for maximal strength.
+    - >
+      Most work stops short of failure because failure training has not shown a
+      consistent strength advantage and creates avoidable fatigue near the
+      competition lifts.
+    - >
+      Preserve meaningful volume during intensification because Ren's own
+      previous cycle deteriorated when productive rep work was removed faster
+      than his heavy-lift expression improved.
+    - >
+      Reduce volume substantially during the final week while retaining some
+      lift-specific intensity; exact strength-sport taper parameters remain
+      uncertain, so Ren's prior failed taper and current response govern the
+      implementation.
+  sources:
+    - title: Autoregulated resistance training for maximal strength enhancement
+      type: systematic review and network meta-analysis
+      year: 2025
+      url: https://pubmed.ncbi.nlm.nih.gov/40791980/
+    - title: Effects of resistance training performed to repetition failure or non-failure
+      type: systematic review and meta-analysis
+      year: 2021
+      url: https://pubmed.ncbi.nlm.nih.gov/33497853/
+    - title: Exploring the dose-response relationship between proximity to failure, strength gain, and hypertrophy
+      type: meta-regression
+      year: 2024
+      url: https://pubmed.ncbi.nlm.nih.gov/38970765/
+    - title: Tapering and peaking maximal strength for powerlifting performance
+      type: review
+      year: 2020
+      url: https://pubmed.ncbi.nlm.nih.gov/32917000/
+
+athlete_constraints:
+  schedule:
+    training_days:
+      - monday
+      - tuesday
+      - wednesday
+      - friday
+      - saturday
+    thursday: rest
+    session_duration: 2-3 hours is acceptable, including approximately 30 minutes of preparation
+  relocation:
+    date: '2026-08-25'
+    destination: Toronto, Canada
+    rule: >
+      Never compress, double, or catch up missed relocation sessions. Mark
+      omitted work and continue the sequence. Recalibrate machine and bar
+      anchors in Toronto before treating Japan loads as equivalent.
+  bodyweight:
+    current_kg: approximately 78
+    direction: no cutting; aim gradually toward 79-80kg without forcing the rate
+  initial_symptom_context:
+    captured: '2026-07-26 after mock meet'
+    achilles: 3-4 out of 10
+    knees: 2 out of 10
+    right_elbow: 3-4 out of 10
+    pec_shoulder: 0-1 out of 10
+    lower_back: 2 out of 10
+    glute_cheek: 0 out of 10
+    rule: >
+      These are starting context, not fixed diagnoses. Reassess the relevant
+      symptom during warm-ups and adjust load, range, or exercise on the day.
+  equipment:
+    japan:
+      - power rack with pull-up station
+      - combo rack
+      - dumbbells and adjustable bench
+      - fixed low and high cable positions
+      - standing T-bar row
+      - lying leg curl and leg extension
+      - press/hack-squat machine
+      - EZ bar
+      - chest-fly/rear-delt machine
+    toronto: unknown until calibrated
+
+load_anchor_policy:
+  rule: >
+    target_weight_kg is the planned anchor from Ren's history, not a second
+    rigid prescription. Live load calls must still verify the exact session,
+    current pain, warm-ups, movement quality, and recent performance.
+  hierarchy:
+    - Pain and safe movement response.
+    - Exercise intent and required technique.
+    - Target RPE.
+    - Target weight anchor.
+    - Block checkpoint.
+  adjustment: >
+    Reduce or hold load when the first work set exceeds the RPE ceiling or loses
+    the required position. Increase only when the first set is below target and
+    the block objective is still protected.
 
 squat:
   hypothesis: >
-    Current low-bar pattern is strong enough but may cap progress by letting knees
-    retreat early and shifting work to hips/back.
+    Squat shoes plus weekly high-bar work produced Ren's most consistent
+    knee-forward pattern and upper-back control. Heavy low-bar performance still
+    becomes hip/back dominant near limit effort, so rep strength must be
+    preserved while heavy specificity is introduced gradually.
   priority:
-    - Build knee-forward tolerance and quad contribution.
-    - Keep chest and hips rising together.
-    - Treat high bar as developmental work, not just another way to move weight.
-  daily_assessment_rule: >
-    When assessing squat days, judge success by positional quality first: knees
-    stay forward out of the hole, bar remains midfoot, and hips do not outrun
-    chest. Do not over-reward heavier loads if they reinforce the good-morning
-    pattern.
-  main_cue: Keep knees forward for the first inch.
+    - Keep squat shoes for all programmed barbell squats unless symptoms require a live change.
+    - Retain high bar as the primary developmental variation.
+    - Keep low bar present throughout every block.
+    - Do not add stiletto squats while Achilles symptoms are active.
+    - Remove pause squat unless a later checkpoint identifies a specific need.
+  main_cue: Knees forward for the first inch; chest and hips rise together.
+  pass_condition: >
+    Heavy low-bar reps must show better chest/hip timing than the prior
+    160kg x5 and 165kg x3 limit sets. Load alone is not a pass.
+
+bench:
+  hypothesis: >
+    Ren's widest legal grip and new final-position self-unrack are productive.
+    Incline dumbbell bench is a primary bench movement and a valued strength
+    outcome, not accessory work. Heavy competition bench needs continued
+    handoff practice without making handoffs mandatory for normal work.
+  priority:
+    - Use the widest legal grip for competition and paused bench.
+    - Practise the new self-unrack on normal work.
+    - Use a handoff above 130kg when available while retaining occasional controlled self-unrack exposure.
+    - Progress incline dumbbell bench as a primary movement with its own benchmark.
+    - Keep Larsen press as a lower-priority force-production variation.
+  main_cue: Settle in the final position, hold the pause, then drive back into the bench.
+  pass_condition: >
+    Competition-bench benchmarks require a stable unrack or handoff, repeatable
+    touch point, legal pause, and no major right-left press disruption.
 
 deadlift:
   hypothesis: >
-    Sumo remains the preferred competition style, but the current priority should
-    shift from strongest start position to maintaining lat/back/hip position
-    through lockout.
+    Ren has enough floor strength. The persistent limiter is maintaining
+    upper-back/bar connection while moving from the knee into a legal stacked
+    lockout. Prolonged high-RPE paused and competition pulls created fatigue
+    without changing this result.
   priority:
-    - Keep sumo as the main deadlift style.
-    - Test static start and slightly wider stance seriously.
-    - Avoid hips shooting up before the bar breaks.
-    - Prioritize lats locked, ribs down, neutral neck, and clean lockout.
-  daily_assessment_rule: >
-    When assessing deadlift days, judge whether the setup preserves position
-    through the top half, not only whether the bar leaves the floor fast.
-  main_cue: Lock lats, push floor, then hips through.
+    - Keep sumo as the competition style.
+    - Use RDLs during accumulation for familiar hip-extensor and hamstring volume.
+    - In intensification, pause when the bar center reaches the top edge of the kneecap.
+    - Hold a true one-second dead stop without sinking, re-bending the knees, or re-wedging.
+    - Keep the paused bar touching the legs, lats locked, ribs down, and knees fixed.
+    - Restart by bringing hips to the bar while continuing to stand; do not lean back.
+    - Do not use floor-break pauses because floor strength is not the current limiter.
+    - Do not add block pulls and pin pulls simultaneously with the new pause variation.
+  main_cue: Stay connected to the knee, then hips through before the bar slows.
+  pass_condition: >
+    Heavy sumo reps must finish with knees, hips, and shoulders stacked. Fast
+    floor speed does not justify a heavier attempt when lockout is a rescue.
+
+pull_ups:
+  status: secondary_goal
+  frequency: twice weekly
+  reason: >
+    Weighted pull-ups are personally important to Ren and should progress even
+    though they rank below the competition lifts and incline dumbbell bench.
+  placement:
+    - Monday
+    - Wednesday
+  guardrail: >
+    Do not place hard pull-ups on Friday because Saturday deadlift requires a
+    fresh upper back and grip.
+
+accessories:
+  importance: high
+  reason: >
+    Accessories are mentally important to Ren and contribute to training
+    adherence. They remain programmed throughout the cycle using available
+    equipment, with volume reduced rather than erased during realization.
+  guardrail: >
+    A productive first set does not authorize automatic repeat-load overshoots.
+    Once a set reaches the top of the RPE target, reduce the next set when needed.
 
 block_goals:
-  volume_block_v6:
-    test_format: 5RM
-    squat_low_bar:
-      baseline: 155kg x5 @9 on 2026-03-09
-      goal: 157.5-160kg x5 @9-9.5 with less hip-rise / chest-lag
-      stretch: 160kg x5 clean enough that lower back is not the obvious limiter
-    sumo_deadlift:
-      baseline: 170kg x5 @7.5 on 2026-03-14; 170kg x6 @10 on 2026-04-04
-      goal: 177.5kg x5 @9-9.5 with cleaner lockout than previous heavy rep work
-      stretch: 180kg x5 if position stays clean through the top half
-  strength_block_v5:
-    test_format: 3RM
-    squat_low_bar:
-      baseline: 160kg x5 @10 on 2026-05-27; 160kg x3 @9.5 on 2026-03-30
-      goal: 165kg x3 @9-9.5 with better chest/hip timing than the final reps of 160kg x5
-      stretch: 167.5kg x3 if rep 2 does not already show chest-lag / hips shooting back
-    bench_press:
-      baseline: 127.5kg x3 @9.5 on 2026-03-31; 120kg x5 x2 @9 on 2026-05-21
-      goal: 130kg x3 @9-9.5 if pec/shoulder feels quiet and warm-ups move normally
-      stretch: 132.5kg x3 only if the opener-like single is sharp and there is no pec/shoulder hesitation
-    sumo_deadlift:
-      baseline: 177.5kg x5 @9.5 on 2026-05-30; 185kg x2 @9 on 2026-04-04
-      goal: 185kg x3 @9-9.5 if lat/lockout position holds
-      stretch: 187.5kg x3 with acceptable top-half position; 190kg x3 only if lockout is clearly cleaner than 177.5kg x5
-  peaking_block_v7:
-    test_format: 1RM
-    squat_low_bar:
-      baseline: 175kg x1 @10 on 2026-05-02; lifetime 177.5kg x1 @9.5 on 2026-02-21
-      goal: 180kg
-      stretch: 182.5kg if 180kg is not a grinder
-    sumo_deadlift:
-      baseline: 195kg x1 @10 on 2026-05-02; lifetime 200kg on 2025-08-26
-      goal: 200kg
-      stretch: 202.5kg if 200kg is not a grinder
+  volume_block_v7:
+    role: accumulation
+    dates: '2026-07-27 to 2026-08-29'
+    checkpoints:
+      squat_low_bar:
+        goal: 160kg x5 below the prior RPE 10 result with cleaner final-rep torso timing
+        stretch: 162.5kg x5 only when 160kg is clearly available below limit effort
+      bench_press:
+        goal: complete 122.5kg x5 without the prior missed fifth rep
+        stretch: 125kg x5 only when setup and warm-ups justify it
+      incline_dumbbell_bench:
+        goal: 52.5kg per hand x6 at RPE 8.5-9
+        stretch: cleaner or lower-RPE completion at the same load
+      sumo_deadlift:
+        goal: 180kg x5 at RPE 9-9.5 with legal connected lockout mechanics
+        stretch: same load below RPE 9 or a heavier set only after clean lockout evidence
+    relocation_rule: Week 5 is a bridge, not a catch-up week.
+  strength_block_v6:
+    role: intensification
+    dates: '2026-08-31 to 2026-09-26'
+    checkpoints:
+      squat_low_bar:
+        goal: 167.5kg x3 at RPE 9-9.5 with better chest/hip timing than 165kg x3
+      bench_press:
+        goal: complete 130kg x3 at RPE 9-9.5
+        stretch: 132.5kg x3 only when 130kg is clearly available
+      incline_dumbbell_bench:
+        goal: 55kg per hand x5 at RPE 9-9.5
+      sumo_deadlift:
+        goal: 187.5kg x3 at RPE 9-9.5 with legal stacked lockout
+        stretch: 190kg x3 only after the target load finishes cleanly
+    failure_rule: >
+      A missed benchmark or repeated technical failure changes the realization
+      targets immediately. Do not carry an optimistic projection into peaking.
+  peaking_block_v8:
+    role: realization_and_taper
+    dates: '2026-09-28 to 2026-10-17'
+    final_heavy_timing:
+      squat: 10 days before mock meet
+      bench: 8 days before mock meet
+      deadlift: 7 days before mock meet
+    mock_meet:
+      minimum:
+        total_kg: 512.5
+        requirement: beat the prior 510kg total
+      primary:
+        squat_kg: 182.5
+        bench_kg: 145
+        deadlift_kg: 202.5
+        total_kg: 530
+      stretch:
+        squat_kg: 185
+        bench_kg: 147.5
+        deadlift_kg: 207.5
+        total_kg: 540
 
 success_criteria:
-  load_metrics:
-    - Meet or beat the active block goal without exceeding the target RPE range.
-    - If load does not increase, show the same load at lower RPE or with clearly cleaner position.
-    - By the next mock meet, squat and deadlift estimated strength should move up, not only bench.
-  squat_position_metrics:
-    - High bar volume improves without turning into hip/back-dominant reps.
-    - Low bar heavy reps show less hip-rise / chest-lag.
-    - Knees stay forward through the first inch out of the hole.
-    - Bar remains over midfoot without a visible forward rebalance at the bottom.
-  deadlift_position_metrics:
-    - Sumo reps finish cleaner above the knee with less lower-back fatigue.
-    - Hips do not shoot up before the bar breaks.
-    - Lats/upper back stay connected enough that lockout is legal and not shoulder-position limited.
+  - Beat the prior 510kg mock-meet total.
+  - Set new successful one-rep PRs rather than relying on estimated strength.
+  - Preserve or improve rep-strength benchmarks during intensification.
+  - Reach the mock meet without schedule compression or late heavy deadlift repetition.
+  - Use objective checkpoint failures to change later targets before the mock meet.

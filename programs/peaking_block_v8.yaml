@@ -1,0 +1,929 @@
+name: Peaking Block v8
+description: Three-week athlete-specific realization block. Week 1 expresses heavier singles while retaining doubles and primary
+  incline work. Week 2 places the final heavy squat, bench, and deadlift 10, 8, and 7 days before the mock meet. Week 3 reduces
+  volume by roughly half without token empty sessions. No @9.5 single, no repeated proof attempt, and no deadlift inside the
+  final seven days.
+weeks: 3
+days_per_week: 5
+planned_start_date: '2026-09-28'
+mock_meet_date: '2026-10-17'
+mock_meet_targets:
+  minimum_total_kg: 512.5
+  primary:
+    squat_kg: 182.5
+    bench_kg: 145
+    deadlift_kg: 202.5
+    total_kg: 530
+  stretch:
+    squat_kg: 185
+    bench_kg: 147.5
+    deadlift_kg: 207.5
+    total_kg: 540
+load_policy:
+  target_weight_role: Anchor from completed strength checkpoints; never override live RPE, pain, setup, or position.
+  heavy_single_rule: No single above RPE 9 before mock-meet day and no immediate proof retry after a miss or technical failure.
+  taper_rule: Preserve meaningful technique load while reducing pre-meet volume; do not add work because a taper set feels easy.
+attempt_policy:
+  rule: Third-attempt stretch loads are earned by the second attempt, not chosen in advance.
+  squat_gate: Chest and hips rise together; no early knee retreat or rescue good morning.
+  bench_gate: Stable handoff/unrack, legal pause, no major asymmetric press.
+  deadlift_gate: Knees, hips, and shoulders finish stacked; floor speed alone does not justify a jump.
+workouts:
+- week: 1
+  day: 1
+  name: Monday - Specific Squat / Paused Bench / Pull-Ups
+  intent: Retain useful rep work while reducing fatigue and increasing competition specificity.
+  priority: required
+  exercises:
+  - name: Squat (Low Bar)
+    intent: Keep competition-squat positions active without adding a second heavy squat day.
+    role: competition_lift
+    sets:
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 145
+    - target: 3
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 145
+  - name: Bench Press (Paused)
+    intent: Retain long-pause pressing strength through controlled triples.
+    role: primary_bench
+    sets:
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 112.5
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 112.5
+    - target: 3
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 112.5
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 25
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 25
+  - name: Cable Crunch
+    intent: Maintain trunk work during realization.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 45
+    equipment_dependent: true
+- week: 1
+  day: 2
+  name: Tuesday - Paused Sumo at Knee / Incline DB
+  intent: Keep the lockout transition and primary incline movement alive at controlled effort.
+  priority: required
+  exercises:
+  - name: Sumo Deadlift (Paused at Knee)
+    intent: Pause with the bar center at the top edge of the kneecap and finish by bringing hips to the bar.
+    role: developmental_deadlift
+    sets:
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 150
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 150
+  - name: Incline Bench Press (Dumbbell)
+    intent: Maintain primary incline dumbbell strength during realization.
+    role: primary_bench
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 52.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 52.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 52.5
+  - name: Lateral Raise (Dumbbell)
+    intent: Maintain shoulder musculature with reduced volume.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 10
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 10
+  - name: Rear Delt Fly (Machine)
+    intent: Maintain rear-delt strength with reduced volume.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 40
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 40
+    equipment_dependent: true
+- week: 1
+  day: 3
+  name: Wednesday - Heavy Low Bar / Back
+  intent: Express heavier squat strength while preserving enough doubles to retain rep capacity.
+  priority: required
+  exercises:
+  - name: Squat (Low Bar)
+    intent: Make 172.5kg look cleaner than the prior @9.5 result, then reinforce position with doubles.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+      target_weight_kg: 172.5
+    - target: 2
+      rpe:
+      - 7.5
+      - 8
+      target_weight_kg: 162.5
+    - target: 2
+      rpe:
+      - 7.5
+      - 8
+      target_weight_kg: 162.5
+  - name: Standing T Bar Row
+    intent: Maintain upper-back strength with reduced realization volume.
+    role: accessory
+    sets:
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 65
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 65
+    equipment_dependent: true
+  - name: Leg Curl
+    intent: Maintain hamstring work without soreness spillover.
+    role: accessory
+    sets:
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 30
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 30
+    equipment_dependent: true
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
+    sets:
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 27.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 27.5
+- week: 1
+  day: 4
+  name: Friday - Heavy Competition Bench / Arms
+  intent: Express heavier bench strength while preserving the setup and enough backoff reps.
+  priority: required
+  exercises:
+  - name: Bench Press (Barbell)
+    intent: Make 140kg a controlled heavy single with a handoff when available, then reinforce doubles.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+      target_weight_kg: 140
+    - target: 2
+      rpe:
+      - 7.5
+      - 8
+      target_weight_kg: 130
+    - target: 2
+      rpe:
+      - 7.5
+      - 8
+      target_weight_kg: 130
+  - name: Chest Fly (Machine)
+    intent: Maintain pec work at reduced volume.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 85
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 85
+    equipment_dependent: true
+  - name: Overhead Tricep Extension (Cable)
+    intent: Maintain triceps strength without affecting Saturday deadlift.
+    role: accessory
+    sets:
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 30
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 30
+    equipment_dependent: true
+  - name: Bicep Curl (EZ Bar)
+    intent: Maintain elbow-flexor strength with stable symptoms.
+    role: accessory
+    sets:
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 22.5
+    - target: 8
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 22.5
+- week: 1
+  day: 5
+  name: Saturday - Heavy Sumo / Light Low Bar / Bench
+  intent: Express a clean heavy deadlift while retaining controlled backoff doubles.
+  priority: required
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    intent: Make 195kg a legal stacked single; floor speed alone does not pass the set.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+      target_weight_kg: 195
+    - target: 2
+      rpe:
+      - 7.5
+      - 8
+      target_weight_kg: 182.5
+    - target: 2
+      rpe:
+      - 7.5
+      - 8
+      target_weight_kg: 182.5
+  - name: Squat (Low Bar)
+    intent: Maintain low-fatigue squat specificity after deadlift.
+    role: competition_lift
+    sets:
+    - target: 2
+      rpe:
+      - 5.5
+      - 6
+      target_weight_kg: 145
+    - target: 2
+      rpe:
+      - 5.5
+      - 6
+      target_weight_kg: 145
+  - name: Bench Press (Barbell)
+    intent: Maintain competition-bench frequency with low-fatigue doubles.
+    role: competition_lift
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 122.5
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 122.5
+- week: 2
+  day: 1
+  name: Monday - Specific Squat / Paused Bench / Pull-Ups
+  intent: Start the final heavy-practice week with useful but contained rep work.
+  priority: required
+  exercises:
+  - name: Squat (Low Bar)
+    intent: Keep squat positions active before the final heavy Wednesday single.
+    role: competition_lift
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 150
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 150
+  - name: Bench Press (Paused)
+    intent: Keep pause strength active before the final heavy Friday single.
+    role: primary_bench
+    sets:
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 115
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 115
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
+    sets:
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 20
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 20
+  - name: Cable Crunch
+    intent: Maintain trunk strength with reduced volume.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 45
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 45
+    equipment_dependent: true
+- week: 2
+  day: 2
+  name: Tuesday - Light Paused Sumo / Incline DB
+  intent: Keep the lockout cue and incline strength alive without compromising final heavy sessions.
+  priority: required
+  exercises:
+  - name: Sumo Deadlift (Paused at Knee)
+    intent: Use a light exact-position pause; no grind and no loss of upper-back tension.
+    role: developmental_deadlift
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 140
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 140
+  - name: Incline Bench Press (Dumbbell)
+    intent: Perform meaningful but non-fatiguing primary incline work.
+    role: primary_bench
+    sets:
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 50
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 50
+  - name: Lateral Raise (Dumbbell)
+    intent: Maintain shoulder work with reduced volume.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 10
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 10
+  - name: Rear Delt Fly (Machine)
+    intent: Maintain rear-delt work with reduced volume.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 40
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 40
+    equipment_dependent: true
+- week: 2
+  day: 3
+  name: Wednesday - Final Heavy Squat
+  intent: Complete the final heavy squat 10 days before the mock meet.
+  priority: required
+  exercises:
+  - name: Squat (Low Bar)
+    intent: Make 175kg a clean @8-8.5 confidence single; no heavier attempt this day.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+      target_weight_kg: 175
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 160
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 160
+  - name: Standing T Bar Row
+    intent: Maintain upper-back strength without adding fatigue.
+    role: accessory
+    sets:
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 60
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 60
+    equipment_dependent: true
+  - name: Leg Curl
+    intent: Maintain hamstring work without soreness.
+    role: accessory
+    sets:
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 25
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 25
+    equipment_dependent: true
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
+    sets:
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 22.5
+    - target: 4
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 22.5
+- week: 2
+  day: 4
+  name: Friday - Final Heavy Bench
+  intent: Complete the final heavy bench eight days before the mock meet.
+  priority: required
+  exercises:
+  - name: Bench Press (Barbell)
+    intent: Make 140kg a controlled @8.5-9 single with the meet setup; no extra proof attempt.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8.5
+      - 9
+      target_weight_kg: 140
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 125
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 125
+  - name: Chest Fly (Machine)
+    intent: Maintain controlled pec work with minimal residual fatigue.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 80
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 80
+    equipment_dependent: true
+  - name: Overhead Tricep Extension (Cable)
+    intent: Maintain triceps work with minimal residual fatigue.
+    role: accessory
+    sets:
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 25
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 25
+    equipment_dependent: true
+  - name: Bicep Curl (EZ Bar)
+    intent: Maintain elbow-flexor work with minimal residual fatigue.
+    role: accessory
+    sets:
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 20
+    - target: 8
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 20
+- week: 2
+  day: 5
+  name: Saturday - Final Heavy Deadlift
+  intent: Complete the final heavy deadlift seven days before the mock meet.
+  priority: required
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    intent: Make 195kg a clean @8-8.5 single; omit the backoff if lockout becomes a rescue.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8.5
+      target_weight_kg: 195
+    - target: 2
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 180
+  - name: Squat (Low Bar)
+    intent: Keep a small amount of squat-specific work without fatigue.
+    role: competition_lift
+    sets:
+    - target: 2
+      rpe:
+      - 5.5
+      - 6
+      target_weight_kg: 140
+    - target: 2
+      rpe:
+      - 5.5
+      - 6
+      target_weight_kg: 140
+  - name: Bench Press (Barbell)
+    intent: Keep a small amount of competition-bench work without fatigue.
+    role: competition_lift
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 120
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 120
+- week: 3
+  day: 1
+  name: Monday - Taper Squat / Paused Bench / Pull-Ups
+  intent: Reduce volume while preserving meaningful competition patterns and upper-body work.
+  priority: required
+  exercises:
+  - name: Squat (Low Bar)
+    intent: Keep squat coordination without accumulating fatigue.
+    role: competition_lift
+    sets:
+    - target: 3
+      rpe:
+      - 5.5
+      - 6
+      target_weight_kg: 135
+    - target: 3
+      rpe:
+      - 5.5
+      - 6
+      target_weight_kg: 135
+  - name: Bench Press (Paused)
+    intent: Keep pause strength and touch-point consistency.
+    role: primary_bench
+    sets:
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 105
+    - target: 2
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 105
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
+    sets:
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 20
+    - target: 5
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 20
+  - name: Cable Crunch
+    intent: Maintain trunk work during the taper.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 40
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 40
+    equipment_dependent: true
+- week: 3
+  day: 2
+  name: Tuesday - Taper Incline DB / Shoulders
+  intent: Keep incline dumbbell and shoulder work meaningful but non-fatiguing.
+  priority: required
+  exercises:
+  - name: Incline Bench Press (Dumbbell)
+    intent: Retain primary incline movement quality during mock-meet week.
+    role: primary_bench
+    sets:
+    - target: 5
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 45
+    - target: 5
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 45
+  - name: Lateral Raise (Dumbbell)
+    intent: Maintain shoulder work without soreness.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 9
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 9
+  - name: Rear Delt Fly (Machine)
+    intent: Maintain rear-delt work without soreness.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 35
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 35
+    equipment_dependent: true
+- week: 3
+  day: 3
+  name: Wednesday - Taper Squat Technique / Pull-Ups
+  intent: Use the final squat touch to confirm technique, not readiness.
+  priority: required
+  exercises:
+  - name: Squat (Low Bar)
+    intent: Finish the final squat exposure with competition commands and clean positions.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 145
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 145
+  - name: Leg Extension
+    intent: Keep light quadriceps work without soreness.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 50
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 50
+    equipment_dependent: true
+  - name: Leg Curl
+    intent: Keep light hamstring work without soreness.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 20
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 20
+    equipment_dependent: true
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
+    sets:
+    - target: 4
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 15
+    - target: 4
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 15
+- week: 3
+  day: 4
+  name: Friday - Taper Bench Technique
+  intent: Use the final bench touch for commands, pause, and unrack consistency.
+  priority: required
+  exercises:
+  - name: Bench Press (Barbell)
+    intent: Perform two clean command-style singles and leave fully fresh.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 120
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 120
+- week: 3
+  day: 5
+  name: Saturday - MOCK MEET
+  intent: Realize the cycle with a 530kg primary target and 540kg stretch target.
+  priority: required
+  exercises:
+  - name: Squat (Low Bar)
+    intent: Target 167.5/180/182.5kg; 185kg replaces the third only when 180kg is a true @9 or easier.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8
+      target_weight_kg: 167.5
+    - target: 1
+      rpe:
+      - 9
+      - 9
+      target_weight_kg: 180
+    - target: 1
+      rpe:
+      - 10
+      - 10
+      target_weight_kg: 182.5
+  - name: Bench Press (Barbell)
+    intent: Target 132.5/142.5/145kg; 147.5kg replaces the third only when 142.5kg is secure.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8
+      target_weight_kg: 132.5
+    - target: 1
+      rpe:
+      - 9
+      - 9
+      target_weight_kg: 142.5
+    - target: 1
+      rpe:
+      - 10
+      - 10
+      target_weight_kg: 145
+  - name: Sumo Deadlift (Barbell)
+    intent: Target 185/197.5/202.5kg; 207.5kg replaces the third only after two legal connected lockouts.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 8
+      - 8
+      target_weight_kg: 185
+    - target: 1
+      rpe:
+      - 9
+      - 9
+      target_weight_kg: 197.5
+    - target: 1
+      rpe:
+      - 10
+      - 10
+      target_weight_kg: 202.5
