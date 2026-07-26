@@ -1,12 +1,12 @@
 # Volume Block v7
 
-Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep structure that produced Ren's best cycle results, Week 4 uses objective five-rep benchmarks, and Week 5 is a meaningful relocation bridge with a strict no-compression rule. Incline DB bench is a primary bench movement, weighted pull-ups are trained twice weekly, high bar is retained, pause squat is removed, Spoto replaces Larsen to preserve leg-drive timing, and RDLs build hip-extension capacity.
+Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep structure that produced Ren's best cycle results, Week 4 uses objective five-rep benchmarks, Week 5 is a conditional relocation transition with a strict no-compression rule, and Week 6 restores productive Toronto volume. Incline DB bench is a primary bench movement, weighted pull-ups are trained twice weekly, high bar is retained, pause squat is removed, Spoto replaces Larsen to preserve leg-drive timing, and RDLs build hip-extension capacity.
 
 ## Overview
 
-- Weeks: 5
+- Weeks: 6
 - Days per week: 5
-- Total workouts: 25
+- Total workouts: 30
 
 ## Program Structure
 
@@ -517,3 +517,103 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 | Squat | 7 | 35 |
 | Bench | 10 | 55 |
 | Deadlift | 5 | 24 |
+
+### Week 6
+
+#### Day 1 — Monday - Toronto High Bar / Paused Bench / Pull-Ups
+
+**Day intent:** Restore normal productive volume after relocation without retesting the Week 4 benchmarks.
+
+| # | Exercise | Prescription |
+|---|----------|--------------|
+| 1 | High Bar Squat (Barbell) | 6 reps @ RPE 6.5-7 · 122.5kg anchor; 6 reps @ RPE 6.5-7 · 122.5kg anchor; 6 reps @ RPE 6.5-7 · 122.5kg anchor |
+| 2 | Bench Press (Paused) | 5 reps @ RPE 6.5-7 · 107.5kg anchor; 5 reps @ RPE 6.5-7 · 107.5kg anchor; 5 reps @ RPE 6.5-7 · 107.5kg anchor |
+| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
+| 4 | Cable Crunch | 15 reps @ RPE 7-7.5 · 45kg anchor; 15 reps @ RPE 7-7.5 · 45kg anchor |
+
+**Why these movements:**
+
+- **High Bar Squat (Barbell):** Progress high-bar sixes while preserving knee-forward mechanics.
+- **Bench Press (Paused):** Build long-pause strength with repeatable fives.
+- **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
+- **Cable Crunch:** Maintain productive trunk work.
+
+#### Day 2 — Tuesday - Toronto RDL / Incline DB Bench
+
+**Day intent:** Re-establish RDL and primary incline progression on calibrated Toronto equipment.
+
+| # | Exercise | Prescription |
+|---|----------|--------------|
+| 1 | Romanian Deadlift (Barbell) | 6 reps @ RPE 7-7.5 · 132.5kg anchor; 6 reps @ RPE 7-7.5 · 132.5kg anchor; 6 reps @ RPE 7-7.5 · 132.5kg anchor |
+| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
+| 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
+| 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
+
+**Why these movements:**
+
+- **Romanian Deadlift (Barbell):** Progress heavier hip-extension work without shortening range.
+- **Incline Bench Press (Dumbbell):** Progress the primary incline dumbbell movement through strong sixes.
+- **Lateral Raise (Dumbbell):** Maintain shoulder volume without chasing the 12kg jump.
+- **Rear Delt Fly (Machine):** Progress rear-delt work only if the machine matches the Japan stack.
+
+#### Day 3 — Wednesday - Toronto Low Bar Volume / Legs / Back
+
+**Day intent:** Consolidate competition-squat fives before lower-rep intensification begins.
+
+| # | Exercise | Prescription |
+|---|----------|--------------|
+| 1 | Squat (Low Bar) | 5 reps @ RPE 7-7.5 · 152.5kg anchor; 5 reps @ RPE 7-7.5 · 152.5kg anchor; 5 reps @ RPE 7-7.5 · 152.5kg anchor |
+| 2 | Leg Extension | 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor |
+| 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor |
+| 4 | Leg Curl | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
+| 5 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
+
+**Why these movements:**
+
+- **Squat (Low Bar):** Build heavy competition-squat sixes without rep-six good-morning mechanics.
+- **Leg Extension:** Build quadriceps strength while keeping repeated sets below RPE 8.
+- **Standing T Bar Row:** Build upper-back strength with consistent torso support.
+- **Leg Curl:** Build hamstring strength through controlled tens.
+- **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
+
+#### Day 4 — Friday - Toronto Competition Bench / Arms
+
+**Day intent:** Consolidate competition-bench fives with the Toronto bench setup now calibrated.
+
+| # | Exercise | Prescription |
+|---|----------|--------------|
+| 1 | Bench Press (Barbell) | 5 reps @ RPE 7-7.5 · 120kg anchor; 5 reps @ RPE 7-7.5 · 120kg anchor; 5 reps @ RPE 7-7.5 · 120kg anchor |
+| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
+| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
+| 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7.5-8 · 22.5kg anchor; 10 reps @ RPE 7.5-8 · 22.5kg anchor |
+
+**Why these movements:**
+
+- **Bench Press (Barbell):** Build heavy competition-bench sixes with the new unrack and widest legal grip.
+- **Chest Fly (Machine):** Maintain pec volume while stopping before shoulder position changes.
+- **Overhead Tricep Extension (Cable):** Build triceps strength without repeating a load after it reaches RPE 8.
+- **Bicep Curl (EZ Bar):** Build elbow-flexor strength through controlled tens.
+
+#### Day 5 — Saturday - Toronto Sumo Volume / Light Low Bar / Spoto
+
+**Day intent:** Finish accumulation with controlled sumo fours, light squat positions, and precise Spoto work.
+
+| # | Exercise | Prescription |
+|---|----------|--------------|
+| 1 | Sumo Deadlift (Barbell) | 4 reps @ RPE 7-7.5 · 172.5kg anchor; 4 reps @ RPE 7-7.5 · 172.5kg anchor; 4 reps @ RPE 7-7.5 · 172.5kg anchor |
+| 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6 · 140kg anchor; 4 reps @ RPE 5.5-6 · 140kg anchor |
+| 3 | Spoto Press | 6 reps @ RPE 6.5-7 · 107.5kg anchor; 6 reps @ RPE 6.5-7 · 107.5kg anchor |
+
+**Why these movements:**
+
+- **Sumo Deadlift (Barbell):** Build heavy sumo fives while keeping shoulders, knees, and hips stacked at lockout.
+- **Squat (Low Bar):** Maintain low-fatigue squat specificity after pulling.
+- **Spoto Press:** Build bottom-range force while preserving the competition setup and leg drive.
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Reps |
+|------|------|------|
+| Squat | 8 | 41 |
+| Bench | 11 | 60 |
+| Deadlift | 6 | 30 |

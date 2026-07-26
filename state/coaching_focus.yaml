@@ -30,6 +30,11 @@ evidence_basis:
       previous cycle deteriorated when productive rep work was removed faster
       than his heavy-lift expression improved.
     - >
+      Heavy loading is required for maximal-strength specificity, but weekly
+      singles are not. Ren's prior strength block repeatedly turned intended
+      submaximal bench and deadlift singles into RPE 8.5-9 work, so this cycle
+      uses one deliberately easy single exposure before the triple benchmarks.
+    - >
       Reduce volume substantially during the final week while retaining some
       lift-specific intensity; exact strength-sport taper parameters remain
       uncertain, so Ren's prior failed taper and current response govern the
@@ -66,9 +71,11 @@ athlete_constraints:
     date: '2026-08-25'
     destination: Toronto, Canada
     rule: >
-      Never compress, double, or catch up missed relocation sessions. Mark
-      omitted work and continue the sequence. Recalibrate machine and bar
-      anchors in Toronto before treating Japan loads as equivalent.
+      Week 5 is conditional transition work, not an automatic deload. Complete
+      the written session when logistics and equipment are normal. If moving
+      tasks disrupt training, omit support work by priority and continue the
+      sequence; never compress, double, or catch up missed work. Recalibrate
+      machine and bar anchors before treating Japan loads as equivalent.
   bodyweight:
     current_kg: approximately 78
     direction: no cutting; aim gradually toward 79-80kg without forcing the rate
@@ -138,7 +145,11 @@ bench:
     and moved from a 140kg to a 137.5kg mock-meet bench. The preceding
     Spoto-based cycle moved the mock-meet bench from 135kg to 140kg. This is
     associative rather than causal, but Spoto also preserves the leg-drive
-    timing that Ren's 2026-05-07 video identified as a technical need.
+    timing that Ren's 2026-05-07 video identified as a technical need. The
+    2026-07-26 142.5kg miss stopped below midrange after the right elbow opened
+    early and produced a bad right-shoulder sensation; treat that as a
+    technique- and symptom-limited miss rather than proof that pressing force
+    was absent.
   priority:
     - Use the widest legal grip for competition and paused bench.
     - Practise the new self-unrack on normal work.
@@ -206,7 +217,7 @@ accessories:
 block_goals:
   volume_block_v7:
     role: accumulation
-    dates: '2026-07-27 to 2026-08-29'
+    dates: '2026-07-27 to 2026-09-05'
     checkpoints:
       squat_low_bar:
         goal: 160kg x5 below the prior RPE 10 result with cleaner final-rep torso timing
@@ -220,10 +231,19 @@ block_goals:
       sumo_deadlift:
         goal: 180kg x5 at RPE 9-9.5 with legal connected lockout mechanics
         stretch: same load below RPE 9 or a heavier set only after clean lockout evidence
-    relocation_rule: Week 5 is a bridge, not a catch-up week.
+    relocation_rule: Week 5 is conditional transition work, not a mandatory low-output week or a catch-up week.
+    post_relocation_rule: Week 6 restores normal productive fives/fours on calibrated Toronto equipment.
   strength_block_v6:
     role: intensification
-    dates: '2026-08-31 to 2026-09-26'
+    dates: '2026-09-07 to 2026-09-26'
+    structure:
+      week_1: Competition fours without singles.
+      week_2: One competition single per lift at RPE 7-7.5, followed by triples.
+      week_3: Objective triple benchmarks without a preliminary single.
+    single_rule: >
+      Heavy singles are a tool, not a requirement. The Week 2 single ends when
+      it reaches RPE 7-7.5; do not add weight because it feels less dramatic
+      than a normal heavy single.
     checkpoints:
       squat_low_bar:
         goal: 167.5kg x3 at RPE 9-9.5 with better chest/hip timing than 165kg x3
@@ -241,6 +261,10 @@ block_goals:
   peaking_block_v8:
     role: realization_and_taper
     dates: '2026-09-28 to 2026-10-17'
+    structure:
+      week_1: Realization/loading week with submaximal singles and doubles; not a taper week.
+      week_2: Final heavy exposures and the start of volume reduction.
+      week_3: Actual taper and mock-meet week.
     final_heavy_timing:
       squat: 10 days before mock meet
       bench: 8 days before mock meet

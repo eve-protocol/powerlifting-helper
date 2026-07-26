@@ -1,16 +1,17 @@
 name: Strength Block v6
-description: Four-week athlete-specific intensification block that preserves meaningful rep work. High bar, paused bench,
-  incline DB, Spoto, pull-ups twice weekly, and backoff triples/fours remain in place while competition singles calibrate
-  rather than test. Paused sumo moves to the top edge of the kneecap to train the transition into Ren's lockout limiter.
-  Week 4 uses objective triple benchmarks and no target-load calibration single.
-weeks: 4
+description: Three-week athlete-specific intensification block that preserves meaningful rep work. Week 1 transitions through
+  competition-lift fours without singles, Week 2 uses one deliberately submaximal single before triples, and Week 3 tests
+  objective triple benchmarks without a calibration single. High bar, paused bench, incline DB, Spoto, pull-ups twice weekly,
+  and backoff work remain in place. Paused sumo at the top edge of the kneecap trains Ren's transition into lockout.
+weeks: 3
 days_per_week: 5
-planned_start_date: '2026-08-31'
+planned_start_date: '2026-09-07'
 planned_end_date: '2026-09-26'
 load_policy:
   target_weight_role: Anchor from completed volume benchmarks and Ren's history; never override live RPE, pain, or position.
-  single_rule: Singles calibrate backoff work and stop at the prescribed set. No extra proof attempts.
-  benchmark_rule: Week 4 target triples use normal warm-ups, not a programmed single at or near the target load.
+  single_rule: Only Week 2 contains singles. They are technique exposures capped at RPE 7-7.5; no escalation when the anchor
+    lands inside the range and no proof attempts.
+  benchmark_rule: Week 3 target triples use normal warm-ups, not a programmed single at or near the target load.
 workouts:
 - week: 1
   day: 1
@@ -176,34 +177,29 @@ workouts:
     equipment_dependent: true
 - week: 1
   day: 3
-  name: Wednesday - Primary Low Bar / Legs / Back
-  intent: Convert retained rep strength into heavier competition-squat performance.
+  name: Wednesday - Low Bar Fours / Legs / Back
+  intent: Transition to competition-squat fours without spending fatigue on a preliminary single.
   priority: required
   exercises:
   - name: Squat (Low Bar)
-    intent: Use the single to calibrate, then build heavy rep strength without hips outrunning the chest.
+    intent: Build competition-squat strength through fours without hips outrunning the chest.
     role: competition_lift
     sets:
-    - target: 1
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 160
     - target: 4
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 150
+      target_weight_kg: 157.5
     - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 150
+      target_weight_kg: 152.5
     - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 150
+      target_weight_kg: 152.5
   - name: Leg Extension
     intent: Keep direct quadriceps work in the strength block.
     role: accessory
@@ -280,34 +276,29 @@ workouts:
       target_weight_kg: 27.5
 - week: 1
   day: 4
-  name: Friday - Primary Competition Bench / Arms
-  intent: Convert retained pressing volume into competition-bench strength without pre-deadlift back fatigue.
+  name: Friday - Competition Bench Fours / Arms
+  intent: Transition to competition-bench fours while keeping setup and leg-drive timing repeatable.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
-    intent: Use the single as setup practice, then retain enough backoff reps to keep pressing capacity.
+    intent: Build competition-bench strength through fours with repeatable setup and leg-drive timing.
     role: competition_lift
     sets:
-    - target: 1
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 130
     - target: 4
       rpe:
       - 7.5
       - 8
+      target_weight_kg: 122.5
+    - target: 4
+      rpe:
+      - 7
+      - 7.5
       target_weight_kg: 120
     - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 117.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 117.5
+      target_weight_kg: 120
   - name: Chest Fly (Machine)
     intent: Maintain pec work while respecting any shoulder or elbow warning.
     role: accessory
@@ -359,24 +350,19 @@ workouts:
       target_weight_kg: 22.5
 - week: 1
   day: 5
-  name: Saturday - Primary Sumo / Light Low Bar / Spoto
-  intent: Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
+  name: Saturday - Sumo Fours / Light Low Bar / Spoto
+  intent: Transition to competition-deadlift fours while preserving connected legal lockouts.
   priority: required
   exercises:
   - name: Sumo Deadlift (Barbell)
-    intent: Use the single to calibrate floor-to-lockout connection, then retain productive backoff reps.
+    intent: Build competition-deadlift strength through fours with connected legal lockouts.
     role: competition_lift
     sets:
-    - target: 1
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 182.5
     - target: 4
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 172.5
+      target_weight_kg: 177.5
     - target: 4
       rpe:
       - 7
@@ -580,410 +566,22 @@ workouts:
 - week: 2
   day: 3
   name: Wednesday - Primary Low Bar / Legs / Back
-  intent: Convert retained rep strength into heavier competition-squat performance.
+  intent: Use one deliberately easy competition single for skill, then express strength through triples.
   priority: required
   exercises:
   - name: Squat (Low Bar)
-    intent: Use the single to calibrate, then build heavy rep strength without hips outrunning the chest.
+    intent: Use the deliberately easy single to rehearse competition skill, then build triples without hips outrunning the chest.
     role: competition_lift
     sets:
     - target: 1
       rpe:
+      - 7
       - 7.5
-      - 8
-      target_weight_kg: 165
+      target_weight_kg: 162.5
     - target: 3
       rpe:
       - 8
       - 8.5
-      target_weight_kg: 155
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 155
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 155
-  - name: Leg Extension
-    intent: Keep direct quadriceps work in the strength block.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    equipment_dependent: true
-  - name: Standing T Bar Row
-    intent: Maintain upper-back strength away from Saturday deadlift.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    equipment_dependent: true
-  - name: Leg Curl
-    intent: Maintain knee-flexion hamstring strength.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    equipment_dependent: true
-  - name: Pull-Up (Weighted)
-    intent: Progress weighted pull-up strength without compromising the next primary lift.
-    role: secondary_goal
-    sets:
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 27.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 27.5
-- week: 2
-  day: 4
-  name: Friday - Primary Competition Bench / Arms
-  intent: Convert retained pressing volume into competition-bench strength without pre-deadlift back fatigue.
-  priority: required
-  exercises:
-  - name: Bench Press (Barbell)
-    intent: Use the single as setup practice, then retain enough backoff reps to keep pressing capacity.
-    role: competition_lift
-    sets:
-    - target: 1
-      rpe:
-      - 8
-      - 8.5
-      target_weight_kg: 132.5
-    - target: 3
-      rpe:
-      - 8
-      - 8.5
-      target_weight_kg: 125
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 122.5
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 122.5
-  - name: Chest Fly (Machine)
-    intent: Maintain pec work while respecting any shoulder or elbow warning.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 85
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 85
-    equipment_dependent: true
-  - name: Overhead Tricep Extension (Cable)
-    intent: Build triceps strength with early load drops after an RPE-8 set.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 30
-    equipment_dependent: true
-  - name: Bicep Curl (EZ Bar)
-    intent: Maintain elbow-flexor strength without provoking tendon symptoms.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 22.5
-    - target: 10
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 22.5
-- week: 2
-  day: 5
-  name: Saturday - Primary Sumo / Light Low Bar / Spoto
-  intent: Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
-  priority: required
-  exercises:
-  - name: Sumo Deadlift (Barbell)
-    intent: Use the single to calibrate floor-to-lockout connection, then retain productive backoff reps.
-    role: competition_lift
-    sets:
-    - target: 1
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 185
-    - target: 3
-      rpe:
-      - 8
-      - 8.5
-      target_weight_kg: 177.5
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 177.5
-    - target: 3
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 177.5
-  - name: Squat (Low Bar)
-    intent: Maintain low-fatigue squat specificity after pulling.
-    role: competition_lift
-    sets:
-    - target: 3
-      rpe:
-      - 5.5
-      - 6
-      target_weight_kg: 147.5
-    - target: 3
-      rpe:
-      - 5.5
-      - 6
-      target_weight_kg: 147.5
-  - name: Spoto Press
-    intent: Maintain competition setup, bottom-range tension, and leg-drive timing without relying on Friday recovery.
-    role: primary_bench
-    sets:
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 112.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 112.5
-- week: 3
-  day: 1
-  name: Monday - High Bar / Paused Bench / Pull-Ups
-  intent: Retain rep strength and developmental squat work while competition intensity rises.
-  priority: required
-  exercises:
-  - name: High Bar Squat (Barbell)
-    intent: Keep knee-forward quad development active through intensification.
-    role: developmental_squat
-    sets:
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 132.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 132.5
-  - name: Bench Press (Paused)
-    intent: Keep long-pause bench volume active as competition work intensifies.
-    role: primary_bench
-    sets:
-    - target: 3
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 115
-    - target: 3
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 115
-  - name: Pull-Up (Weighted)
-    intent: Progress weighted pull-up strength without compromising the next primary lift.
-    role: secondary_goal
-    sets:
-    - target: 4
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 32.5
-    - target: 4
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 32.5
-    - target: 4
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 32.5
-  - name: Cable Crunch
-    intent: Maintain trunk strength without interfering with primary lifts.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    equipment_dependent: true
-- week: 3
-  day: 2
-  name: Tuesday - Paused Sumo at Knee / Incline DB Bench
-  intent: Train the deadlift transition into lockout and continue primary incline progression.
-  priority: required
-  exercises:
-  - name: Sumo Deadlift (Paused at Knee)
-    intent: Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather
-      than leaning back.
-    role: developmental_deadlift
-    sets:
-    - target: 3
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 155
-    - target: 3
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 155
-  - name: Incline Bench Press (Dumbbell)
-    intent: Progress incline dumbbell strength as a primary bench outcome.
-    role: primary_bench
-    sets:
-    - target: 4
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 55
-    - target: 4
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 55
-    - target: 4
-      rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 55
-  - name: Lateral Raise (Dumbbell)
-    intent: Maintain shoulder volume with stable repeated sets.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 10
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 10
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 10
-  - name: Rear Delt Fly (Machine)
-    intent: Maintain rear-delt strength on calibrated equipment.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 40
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 40
-    equipment_dependent: true
-- week: 3
-  day: 3
-  name: Wednesday - Primary Low Bar / Legs / Back
-  intent: Convert retained rep strength into heavier competition-squat performance.
-  priority: required
-  exercises:
-  - name: Squat (Low Bar)
-    intent: Use the single to calibrate, then build heavy rep strength without hips outrunning the chest.
-    role: competition_lift
-    sets:
-    - target: 1
-      rpe:
-      - 8
-      - 8.5
-      target_weight_kg: 170
-    - target: 3
-      rpe:
-      - 8.5
-      - 9
       target_weight_kg: 160
     - target: 3
       rpe:
@@ -1069,36 +667,36 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 27.5
-- week: 3
+- week: 2
   day: 4
   name: Friday - Primary Competition Bench / Arms
-  intent: Convert retained pressing volume into competition-bench strength without pre-deadlift back fatigue.
+  intent: Use one deliberately easy competition single for setup skill, then express strength through triples.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
-    intent: Use the single as setup practice, then retain enough backoff reps to keep pressing capacity.
+    intent: Use the deliberately easy single as setup practice, then retain enough triples to keep pressing capacity.
     role: competition_lift
     sets:
     - target: 1
       rpe:
-      - 8
-      - 8.5
-      target_weight_kg: 137.5
-    - target: 3
-      rpe:
-      - 8.5
-      - 9
+      - 7
+      - 7.5
       target_weight_kg: 127.5
     - target: 3
       rpe:
-      - 7.5
       - 8
+      - 8.5
       target_weight_kg: 125
     - target: 3
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 125
+      target_weight_kg: 122.5
+    - target: 3
+      rpe:
+      - 7.5
+      - 8
+      target_weight_kg: 122.5
   - name: Chest Fly (Machine)
     intent: Maintain pec work while respecting any shoulder or elbow warning.
     role: accessory
@@ -1148,25 +746,25 @@ workouts:
       - 7.5
       - 8
       target_weight_kg: 22.5
-- week: 3
+- week: 2
   day: 5
   name: Saturday - Primary Sumo / Light Low Bar / Spoto
-  intent: Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
+  intent: Use one deliberately easy competition single for lockout skill, then express strength through triples.
   priority: required
   exercises:
   - name: Sumo Deadlift (Barbell)
-    intent: Use the single to calibrate floor-to-lockout connection, then retain productive backoff reps.
+    intent: Use the deliberately easy single to rehearse floor-to-lockout connection, then retain productive triples.
     role: competition_lift
     sets:
     - target: 1
       rpe:
-      - 8
-      - 8.5
-      target_weight_kg: 190
+      - 7
+      - 7.5
+      target_weight_kg: 182.5
     - target: 3
       rpe:
+      - 8
       - 8.5
-      - 9
       target_weight_kg: 180
     - target: 3
       rpe:
@@ -1186,12 +784,12 @@ workouts:
       rpe:
       - 5.5
       - 6
-      target_weight_kg: 150
+      target_weight_kg: 147.5
     - target: 3
       rpe:
       - 5.5
       - 6
-      target_weight_kg: 150
+      target_weight_kg: 147.5
   - name: Spoto Press
     intent: Maintain competition setup, bottom-range tension, and leg-drive timing without relying on Friday recovery.
     role: primary_bench
@@ -1200,13 +798,13 @@ workouts:
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 115
+      target_weight_kg: 112.5
     - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 115
-- week: 4
+      target_weight_kg: 112.5
+- week: 3
   day: 1
   name: Monday - High Bar / Paused Bench / Pull-Ups
   intent: Retain rep strength and developmental squat work while competition intensity rises.
@@ -1269,7 +867,7 @@ workouts:
       - 7.5
       target_weight_kg: 45
     equipment_dependent: true
-- week: 4
+- week: 3
   day: 2
   name: Tuesday - Paused Sumo at Knee / Incline DB Bench
   intent: Train the deadlift transition into lockout and continue primary incline progression.
@@ -1338,7 +936,7 @@ workouts:
       - 7.5
       target_weight_kg: 40
     equipment_dependent: true
-- week: 4
+- week: 3
   day: 3
   name: Wednesday - Primary Low Bar / Legs / Back
   intent: Convert retained rep strength into heavier competition-squat performance.
@@ -1417,7 +1015,7 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 27.5
-- week: 4
+- week: 3
   day: 4
   name: Friday - Primary Competition Bench / Arms
   intent: Convert retained pressing volume into competition-bench strength without pre-deadlift back fatigue.
@@ -1481,7 +1079,7 @@ workouts:
       - 7.5
       - 8
       target_weight_kg: 22.5
-- week: 4
+- week: 3
   day: 5
   name: Saturday - Primary Sumo / Light Low Bar / Spoto
   intent: Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
