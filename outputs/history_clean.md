@@ -3,6 +3,29 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-07-26
+
+**Week 4 · Day 5**
+Finished: 2026-07-26 10:03:35
+
+### Squat (Low Bar)
+
+  Set 1: 162.5kg x 1 @ RPE 7.5 [target RPE: 8-8] [est_stress=136, real_stress=123]
+  Set 2: 172.5kg x 1 @ RPE 9.5 [target RPE: 9-9] [est_stress=196, real_stress=220]
+  Set 3: 0kg x 0 [target: 1 reps, target RPE: 10-10] [est_stress=-, real_stress=-]
+
+### Bench Press (Barbell)
+
+  Set 1: 130.0kg x 1 @ RPE 7.5 [target RPE: 8-8] [est_stress=112, real_stress=101]
+  Set 2: 137.5kg x 1 @ RPE 9.5 [target RPE: 9-9] [est_stress=159, real_stress=179]
+  Set 3: 0kg x 0 [target: 1 reps, target RPE: 10-10] [est_stress=-, real_stress=-]
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 180.0kg x 1 @ RPE 7.5 [target RPE: 8-8] [est_stress=146, real_stress=131]
+  Set 2: 190.0kg x 1 @ RPE 9 [target RPE: 9-9] [est_stress=206, real_stress=206]
+  Set 3: 0kg x 0 [target: 1 reps, target RPE: 10-10] [est_stress=-, real_stress=-]
+
 ## 2026-07-23
 
 ### Health / Recovery
