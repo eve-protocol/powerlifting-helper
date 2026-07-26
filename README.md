@@ -30,6 +30,19 @@ Tools for fetching, normalizing, and rendering training data from Boostcamp plus
 - `python scripts/generate_program_docs.py`
 - `python scripts/sync_programs.py`
 
+Program sets may include a local coaching anchor:
+
+```yaml
+- target: 5
+  rpe: [7, 7.5]
+  target_weight_kg: 150
+```
+
+`target_weight_kg` is validated and rendered in program documentation, but the
+Boostcamp payload intentionally ignores it. Daily coaching can adjust the
+anchor for current pain, equipment, technique, and observed RPE without
+changing the programmed rep/RPE target.
+
 ### Health ingestion
 
 - `python scripts/fetch_health_connect.py ...`

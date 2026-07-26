@@ -39,10 +39,14 @@ def format_program_set(set_data: dict) -> str:
     """Format a program prescription set for markdown output."""
     target = set_data.get("target", "-")
     rpe = set_data.get("rpe")
+    target_weight = set_data.get("target_weight_kg")
     if isinstance(rpe, (list, tuple)) and len(rpe) == 2:
         rpe_str = f"RPE {rpe[0]}-{rpe[1]}"
     elif rpe is not None:
         rpe_str = f"RPE {rpe}"
     else:
         rpe_str = "RPE -"
-    return f"{target} reps @ {rpe_str}"
+    prescription = f"{target} reps @ {rpe_str}"
+    if target_weight is not None:
+        prescription += f" · {target_weight}kg anchor"
+    return prescription

@@ -82,12 +82,23 @@ def render_program(program: dict) -> str:
             wname = workout.get("name", f"Day {day}")
             lines.append(f"#### Day {day} — {wname}")
             lines.append("")
+            workout_intent = workout.get("intent")
+            if workout_intent:
+                lines.append(f"**Day intent:** {workout_intent}")
+                lines.append("")
+            priority = workout.get("priority")
+            if priority and priority != "required":
+                lines.append(f"**Priority:** {priority}")
+                lines.append("")
             lines.append("| # | Exercise | Prescription |")
             lines.append("|---|----------|--------------|")
+            exercise_intents = []
             for idx, ex in enumerate(workout.get("exercises", []), start=1):
                 ex_name = ex.get("name", "Unknown")
                 prescription = summarize_sets(ex.get("sets", []))
                 lines.append(f"| {idx} | {ex_name} | {prescription} |")
+                if ex.get("intent"):
+                    exercise_intents.append((ex_name, ex["intent"]))
 
                 # Count big 3 sets/reps
                 lift = is_big3(ex_name)
@@ -98,6 +109,12 @@ def render_program(program: dict) -> str:
                         s.get("target", 0) for s in ex_sets
                     )
             lines.append("")
+            if exercise_intents:
+                lines.append("**Why these movements:**")
+                lines.append("")
+                for ex_name, intent in exercise_intents:
+                    lines.append(f"- **{ex_name}:** {intent}")
+                lines.append("")
 
         # Big 3 weekly summary
         lines.append("#### Weekly Big 3 Volume")
