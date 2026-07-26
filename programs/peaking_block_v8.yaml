@@ -23,6 +23,8 @@ load_policy:
   target_weight_role: Anchor from completed strength checkpoints; never override live RPE, pain, setup, or position.
   heavy_single_rule: No single above RPE 9 before mock-meet day and no immediate proof retry after a miss or technical failure.
   taper_rule: Preserve meaningful technique load while reducing pre-meet volume; do not add work because a taper set feels easy.
+final_week_schedule:
+  friday: Full rest. The final bench technique exposure is combined with Wednesday rather than creating a one-exercise trip.
 attempt_policy:
   rule: Third-attempt stretch loads are earned by the second attempt, not chosen in advance.
   squat_gate: Chest and hips rise together; no early knee retreat or rescue good morning.
@@ -782,8 +784,8 @@ workouts:
     equipment_dependent: true
 - week: 3
   day: 3
-  name: Wednesday - Taper Squat Technique / Pull-Ups
-  intent: Use the final squat touch to confirm technique, not readiness.
+  name: Wednesday - Taper Squat / Bench Technique / Pull-Ups
+  intent: Use the final squat and bench touches to confirm commands and positions, not readiness.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -800,6 +802,20 @@ workouts:
       - 6
       - 6.5
       target_weight_kg: 145
+  - name: Bench Press (Barbell)
+    intent: Perform two clean command-style singles, then take Thursday and Friday away from benching.
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 120
+    - target: 1
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 120
   - name: Leg Extension
     intent: Keep light quadriceps work without soreness.
     role: accessory
@@ -844,26 +860,6 @@ workouts:
       - 6
       - 6.5
       target_weight_kg: 15
-- week: 3
-  day: 4
-  name: Friday - Taper Bench Technique
-  intent: Use the final bench touch for commands, pause, and unrack consistency.
-  priority: required
-  exercises:
-  - name: Bench Press (Barbell)
-    intent: Perform two clean command-style singles and leave fully fresh.
-    role: competition_lift
-    sets:
-    - target: 1
-      rpe:
-      - 6
-      - 6.5
-      target_weight_kg: 120
-    - target: 1
-      rpe:
-      - 6
-      - 6.5
-      target_weight_kg: 120
 - week: 3
   day: 5
   name: Saturday - MOCK MEET

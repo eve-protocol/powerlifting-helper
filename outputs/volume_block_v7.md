@@ -1,6 +1,6 @@
 # Volume Block v7
 
-Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep structure that produced Ren's best cycle results, Week 4 uses objective five-rep benchmarks, and Week 5 is a meaningful relocation bridge with a strict no-compression rule. Incline DB bench is a primary bench movement, weighted pull-ups are trained twice weekly, high bar is retained, pause squat is removed, and RDLs build hip-extension capacity.
+Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep structure that produced Ren's best cycle results, Week 4 uses objective five-rep benchmarks, and Week 5 is a meaningful relocation bridge with a strict no-compression rule. Incline DB bench is a primary bench movement, weighted pull-ups are trained twice weekly, high bar is retained, pause squat is removed, Spoto replaces Larsen to preserve leg-drive timing, and RDLs build hip-extension capacity.
 
 ## Overview
 
@@ -86,7 +86,7 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 - **Overhead Tricep Extension (Cable):** Build long-head triceps strength while avoiding repeated-set overshoots.
 - **Bicep Curl (EZ Bar):** Build elbow-flexor strength with elbow-tolerant loading.
 
-#### Day 5 — Saturday - Sumo Volume / Light Low Bar / Larsen
+#### Day 5 — Saturday - Sumo Volume / Light Low Bar / Spoto
 
 **Day intent:** Build deadlift rep strength and legal lockout mechanics without turning the day into a test.
 
@@ -94,13 +94,13 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 6 reps @ RPE 6.5-7 · 160kg anchor; 6 reps @ RPE 6.5-7 · 160kg anchor; 6 reps @ RPE 6.5-7 · 160kg anchor |
 | 2 | Squat (Low Bar) | 6 reps @ RPE 5.5-6 · 132.5kg anchor; 6 reps @ RPE 5.5-6 · 132.5kg anchor |
-| 3 | Larsen Press (Barbell) | 8 reps @ RPE 6.5-7 · 100kg anchor; 8 reps @ RPE 6.5-7 · 100kg anchor |
+| 3 | Spoto Press | 8 reps @ RPE 6.5-7 · 100kg anchor; 8 reps @ RPE 6.5-7 · 100kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Accumulate clean sumo volume with the bar connected through the top half.
 - **Squat (Low Bar):** Practice low-fatigue competition-squat positions after deadlift.
-- **Larsen Press (Barbell):** Build pressing force without relying on leg drive.
+- **Spoto Press:** Build bottom-range tension and leg-drive timing from a one-second hover above the competition touch point.
 
 #### Weekly Big 3 Volume
 
@@ -186,7 +186,7 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 - **Overhead Tricep Extension (Cable):** Progress triceps volume with an automatic load drop if set two reaches RPE 8.
 - **Bicep Curl (EZ Bar):** Progress elbow-flexor strength without aggravating the right elbow.
 
-#### Day 5 — Saturday - Sumo Volume / Light Low Bar / Larsen
+#### Day 5 — Saturday - Sumo Volume / Light Low Bar / Spoto
 
 **Day intent:** Progress sumo fives while keeping the top half connected.
 
@@ -194,13 +194,13 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7-7.5 · 167.5kg anchor; 5 reps @ RPE 7-7.5 · 167.5kg anchor; 5 reps @ RPE 7-7.5 · 167.5kg anchor |
 | 2 | Squat (Low Bar) | 5 reps @ RPE 5.5-6 · 137.5kg anchor; 5 reps @ RPE 5.5-6 · 137.5kg anchor |
-| 3 | Larsen Press (Barbell) | 7 reps @ RPE 6.5-7 · 105kg anchor; 7 reps @ RPE 6.5-7 · 105kg anchor |
+| 3 | Spoto Press | 7 reps @ RPE 6.5-7 · 102.5kg anchor; 7 reps @ RPE 6.5-7 · 102.5kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Progress sumo rep strength with clean knee and hip extension.
 - **Squat (Low Bar):** Keep low-bar positions familiar without adding meaningful fatigue.
-- **Larsen Press (Barbell):** Progress no-leg pressing strength through controlled sevens.
+- **Spoto Press:** Progress bottom-range tension and leg-drive timing through controlled sevens.
 
 #### Weekly Big 3 Volume
 
@@ -286,7 +286,7 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 - **Overhead Tricep Extension (Cable):** Build triceps strength without repeating a load after it reaches RPE 8.
 - **Bicep Curl (EZ Bar):** Build elbow-flexor strength through controlled tens.
 
-#### Day 5 — Saturday - Sumo Volume / Light Low Bar / Larsen
+#### Day 5 — Saturday - Sumo Volume / Light Low Bar / Spoto
 
 **Day intent:** Bridge deadlift volume into the five-rep benchmark with clean lockouts.
 
@@ -294,13 +294,13 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7.5-8 · 172.5kg anchor; 5 reps @ RPE 7.5-8 · 172.5kg anchor; 5 reps @ RPE 7.5-8 · 172.5kg anchor |
 | 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6 · 140kg anchor; 4 reps @ RPE 5.5-6 · 140kg anchor |
-| 3 | Larsen Press (Barbell) | 6 reps @ RPE 6.5-7 · 110kg anchor; 6 reps @ RPE 6.5-7 · 110kg anchor |
+| 3 | Spoto Press | 6 reps @ RPE 6.5-7 · 107.5kg anchor; 6 reps @ RPE 6.5-7 · 107.5kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Build heavy sumo fives while keeping shoulders, knees, and hips stacked at lockout.
 - **Squat (Low Bar):** Maintain low-fatigue squat specificity after pulling.
-- **Larsen Press (Barbell):** Build no-leg pressing strength without Friday fatigue spillover.
+- **Spoto Press:** Build bottom-range force while preserving the competition setup and leg drive.
 
 #### Weekly Big 3 Volume
 
@@ -394,13 +394,13 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 9-9.5 · 180kg anchor; 5 reps @ RPE 7-7.5 · 165kg anchor; 5 reps @ RPE 7-7.5 · 165kg anchor |
 | 2 | Squat (Low Bar) | 3 reps @ RPE 5.5-6 · 140kg anchor; 3 reps @ RPE 5.5-6 · 140kg anchor |
-| 3 | Larsen Press (Barbell) | 5 reps @ RPE 6.5-7 · 112.5kg anchor; 5 reps @ RPE 6.5-7 · 112.5kg anchor |
+| 3 | Spoto Press | 5 reps @ RPE 6.5-7 · 110kg anchor; 5 reps @ RPE 6.5-7 · 110kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Hit 180kg for five only with connected top-half mechanics; lockout quality is part of the benchmark.
 - **Squat (Low Bar):** Keep post-deadlift squat work technical and low fatigue.
-- **Larsen Press (Barbell):** Maintain no-leg pressing strength through controlled fives.
+- **Spoto Press:** Maintain precise hover position and leg-drive timing through controlled fives.
 
 #### Weekly Big 3 Volume
 
@@ -492,7 +492,7 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 - **Overhead Tricep Extension (Cable):** Calibrate the Toronto cable stack without forcing the Japan number.
 - **Bicep Curl (EZ Bar):** Maintain elbow-flexor strength through the move.
 
-#### Day 5 — Saturday - Relocation Sumo / Light Low Bar / Larsen
+#### Day 5 — Saturday - Relocation Sumo / Light Low Bar / Spoto
 
 **Day intent:** Re-establish deadlift bar and platform anchors without turning the first Toronto pull into a test.
 
@@ -502,13 +502,13 @@ Five-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep str
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 4 reps @ RPE 6.5-7 · 165kg anchor; 4 reps @ RPE 6.5-7 · 165kg anchor; 4 reps @ RPE 6.5-7 · 165kg anchor |
 | 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6 · 135kg anchor; 4 reps @ RPE 5.5-6 · 135kg anchor |
-| 3 | Larsen Press (Barbell) | 6 reps @ RPE 6.5-7 · 105kg anchor; 6 reps @ RPE 6.5-7 · 105kg anchor |
+| 3 | Spoto Press | 6 reps @ RPE 6.5-7 · 105kg anchor; 6 reps @ RPE 6.5-7 · 105kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Calibrate the Toronto bar and platform through clean fours.
 - **Squat (Low Bar):** Maintain low-fatigue squat specificity after deadlift.
-- **Larsen Press (Barbell):** Maintain no-leg pressing while learning the new bench.
+- **Spoto Press:** Recalibrate hover height, touch-point relationship, and leg drive on the new bench.
 
 #### Weekly Big 3 Volume
 

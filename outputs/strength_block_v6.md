@@ -1,6 +1,6 @@
 # Strength Block v6
 
-Four-week athlete-specific intensification block that preserves meaningful rep work. High bar, paused bench, incline DB, pull-ups twice weekly, and backoff triples/fours remain in place while competition singles calibrate rather than test. Paused sumo moves to the top edge of the kneecap to train the transition into Ren's lockout limiter. Week 4 uses objective triple benchmarks and no target-load calibration single.
+Four-week athlete-specific intensification block that preserves meaningful rep work. High bar, paused bench, incline DB, Spoto, pull-ups twice weekly, and backoff triples/fours remain in place while competition singles calibrate rather than test. Paused sumo moves to the top edge of the kneecap to train the transition into Ren's lockout limiter. Week 4 uses objective triple benchmarks and no target-load calibration single.
 
 ## Overview
 
@@ -86,7 +86,7 @@ Four-week athlete-specific intensification block that preserves meaningful rep w
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
 - **Bicep Curl (EZ Bar):** Maintain elbow-flexor strength without provoking tendon symptoms.
 
-#### Day 5 — Saturday - Primary Sumo / Light Low Bar / Larsen
+#### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 
 **Day intent:** Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
 
@@ -94,13 +94,13 @@ Four-week athlete-specific intensification block that preserves meaningful rep w
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7.5-8 · 182.5kg anchor; 4 reps @ RPE 7.5-8 · 172.5kg anchor; 4 reps @ RPE 7-7.5 · 172.5kg anchor; 4 reps @ RPE 7-7.5 · 172.5kg anchor |
 | 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6 · 145kg anchor; 4 reps @ RPE 5.5-6 · 145kg anchor |
-| 3 | Larsen Press (Barbell) | 5 reps @ RPE 6.5-7 · 110kg anchor; 5 reps @ RPE 6.5-7 · 110kg anchor |
+| 3 | Spoto Press | 5 reps @ RPE 6.5-7 · 110kg anchor; 5 reps @ RPE 6.5-7 · 110kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Use the single to calibrate floor-to-lockout connection, then retain productive backoff reps.
 - **Squat (Low Bar):** Maintain low-fatigue squat specificity after pulling.
-- **Larsen Press (Barbell):** Maintain no-leg pressing strength without relying on Friday recovery.
+- **Spoto Press:** Maintain competition setup, bottom-range tension, and leg-drive timing without relying on Friday recovery.
 
 #### Weekly Big 3 Volume
 
@@ -186,7 +186,7 @@ Four-week athlete-specific intensification block that preserves meaningful rep w
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
 - **Bicep Curl (EZ Bar):** Maintain elbow-flexor strength without provoking tendon symptoms.
 
-#### Day 5 — Saturday - Primary Sumo / Light Low Bar / Larsen
+#### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 
 **Day intent:** Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
 
@@ -194,13 +194,13 @@ Four-week athlete-specific intensification block that preserves meaningful rep w
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7.5-8 · 185kg anchor; 3 reps @ RPE 8-8.5 · 177.5kg anchor; 3 reps @ RPE 7.5-8 · 177.5kg anchor; 3 reps @ RPE 7.5-8 · 177.5kg anchor |
 | 2 | Squat (Low Bar) | 3 reps @ RPE 5.5-6 · 147.5kg anchor; 3 reps @ RPE 5.5-6 · 147.5kg anchor |
-| 3 | Larsen Press (Barbell) | 4 reps @ RPE 7-7.5 · 112.5kg anchor; 4 reps @ RPE 7-7.5 · 112.5kg anchor |
+| 3 | Spoto Press | 4 reps @ RPE 7-7.5 · 112.5kg anchor; 4 reps @ RPE 7-7.5 · 112.5kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Use the single to calibrate floor-to-lockout connection, then retain productive backoff reps.
 - **Squat (Low Bar):** Maintain low-fatigue squat specificity after pulling.
-- **Larsen Press (Barbell):** Maintain no-leg pressing strength without relying on Friday recovery.
+- **Spoto Press:** Maintain competition setup, bottom-range tension, and leg-drive timing without relying on Friday recovery.
 
 #### Weekly Big 3 Volume
 
@@ -286,7 +286,7 @@ Four-week athlete-specific intensification block that preserves meaningful rep w
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
 - **Bicep Curl (EZ Bar):** Maintain elbow-flexor strength without provoking tendon symptoms.
 
-#### Day 5 — Saturday - Primary Sumo / Light Low Bar / Larsen
+#### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 
 **Day intent:** Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
 
@@ -294,13 +294,13 @@ Four-week athlete-specific intensification block that preserves meaningful rep w
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 190kg anchor; 3 reps @ RPE 8.5-9 · 180kg anchor; 3 reps @ RPE 7.5-8 · 177.5kg anchor; 3 reps @ RPE 7.5-8 · 177.5kg anchor |
 | 2 | Squat (Low Bar) | 3 reps @ RPE 5.5-6 · 150kg anchor; 3 reps @ RPE 5.5-6 · 150kg anchor |
-| 3 | Larsen Press (Barbell) | 4 reps @ RPE 7-7.5 · 115kg anchor; 4 reps @ RPE 7-7.5 · 115kg anchor |
+| 3 | Spoto Press | 4 reps @ RPE 7-7.5 · 115kg anchor; 4 reps @ RPE 7-7.5 · 115kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Use the single to calibrate floor-to-lockout connection, then retain productive backoff reps.
 - **Squat (Low Bar):** Maintain low-fatigue squat specificity after pulling.
-- **Larsen Press (Barbell):** Maintain no-leg pressing strength without relying on Friday recovery.
+- **Spoto Press:** Maintain competition setup, bottom-range tension, and leg-drive timing without relying on Friday recovery.
 
 #### Weekly Big 3 Volume
 
@@ -386,7 +386,7 @@ Four-week athlete-specific intensification block that preserves meaningful rep w
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
 - **Bicep Curl (EZ Bar):** Maintain elbow-flexor strength without provoking tendon symptoms.
 
-#### Day 5 — Saturday - Primary Sumo / Light Low Bar / Larsen
+#### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 
 **Day intent:** Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
 
@@ -394,13 +394,13 @@ Four-week athlete-specific intensification block that preserves meaningful rep w
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 9-9.5 · 187.5kg anchor; 3 reps @ RPE 7-7.5 · 175kg anchor |
 | 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6 · 140kg anchor; 2 reps @ RPE 5.5-6 · 140kg anchor |
-| 3 | Larsen Press (Barbell) | 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor |
+| 3 | Spoto Press | 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Complete 187.5kg for three with a legal stacked lockout; 190kg is a stretch only if the top half is clearly improved.
 - **Squat (Low Bar):** Maintain low-fatigue squat specificity after pulling.
-- **Larsen Press (Barbell):** Maintain no-leg pressing strength without relying on Friday recovery.
+- **Spoto Press:** Retain precise bottom-range tension without adding fatigue after the benchmark pulls.
 
 #### Weekly Big 3 Volume
 

@@ -1,8 +1,8 @@
 name: Strength Block v6
 description: Four-week athlete-specific intensification block that preserves meaningful rep work. High bar, paused bench,
-  incline DB, pull-ups twice weekly, and backoff triples/fours remain in place while competition singles calibrate rather
-  than test. Paused sumo moves to the top edge of the kneecap to train the transition into Ren's lockout limiter. Week 4 uses
-  objective triple benchmarks and no target-load calibration single.
+  incline DB, Spoto, pull-ups twice weekly, and backoff triples/fours remain in place while competition singles calibrate
+  rather than test. Paused sumo moves to the top edge of the kneecap to train the transition into Ren's lockout limiter.
+  Week 4 uses objective triple benchmarks and no target-load calibration single.
 weeks: 4
 days_per_week: 5
 planned_start_date: '2026-08-31'
@@ -359,7 +359,7 @@ workouts:
       target_weight_kg: 22.5
 - week: 1
   day: 5
-  name: Saturday - Primary Sumo / Light Low Bar / Larsen
+  name: Saturday - Primary Sumo / Light Low Bar / Spoto
   intent: Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
   priority: required
   exercises:
@@ -401,8 +401,8 @@ workouts:
       - 5.5
       - 6
       target_weight_kg: 145
-  - name: Larsen Press (Barbell)
-    intent: Maintain no-leg pressing strength without relying on Friday recovery.
+  - name: Spoto Press
+    intent: Maintain competition setup, bottom-range tension, and leg-drive timing without relying on Friday recovery.
     role: primary_bench
     sets:
     - target: 5
@@ -762,7 +762,7 @@ workouts:
       target_weight_kg: 22.5
 - week: 2
   day: 5
-  name: Saturday - Primary Sumo / Light Low Bar / Larsen
+  name: Saturday - Primary Sumo / Light Low Bar / Spoto
   intent: Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
   priority: required
   exercises:
@@ -804,8 +804,8 @@ workouts:
       - 5.5
       - 6
       target_weight_kg: 147.5
-  - name: Larsen Press (Barbell)
-    intent: Maintain no-leg pressing strength without relying on Friday recovery.
+  - name: Spoto Press
+    intent: Maintain competition setup, bottom-range tension, and leg-drive timing without relying on Friday recovery.
     role: primary_bench
     sets:
     - target: 4
@@ -1150,7 +1150,7 @@ workouts:
       target_weight_kg: 22.5
 - week: 3
   day: 5
-  name: Saturday - Primary Sumo / Light Low Bar / Larsen
+  name: Saturday - Primary Sumo / Light Low Bar / Spoto
   intent: Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
   priority: required
   exercises:
@@ -1192,8 +1192,8 @@ workouts:
       - 5.5
       - 6
       target_weight_kg: 150
-  - name: Larsen Press (Barbell)
-    intent: Maintain no-leg pressing strength without relying on Friday recovery.
+  - name: Spoto Press
+    intent: Maintain competition setup, bottom-range tension, and leg-drive timing without relying on Friday recovery.
     role: primary_bench
     sets:
     - target: 4
@@ -1483,7 +1483,7 @@ workouts:
       target_weight_kg: 22.5
 - week: 4
   day: 5
-  name: Saturday - Primary Sumo / Light Low Bar / Larsen
+  name: Saturday - Primary Sumo / Light Low Bar / Spoto
   intent: Convert deadlift rep strength into heavier work while retaining clean lockout mechanics.
   priority: required
   exercises:
@@ -1515,8 +1515,8 @@ workouts:
       - 5.5
       - 6
       target_weight_kg: 140
-  - name: Larsen Press (Barbell)
-    intent: Maintain no-leg pressing strength without relying on Friday recovery.
+  - name: Spoto Press
+    intent: Retain precise bottom-range tension without adding fatigue after the benchmark pulls.
     role: primary_bench
     sets:
     - target: 3

@@ -133,14 +133,28 @@ bench:
   hypothesis: >
     Ren's widest legal grip and new final-position self-unrack are productive.
     Incline dumbbell bench is a primary bench movement and a valued strength
-    outcome, not accessory work. Heavy competition bench needs continued
-    handoff practice without making handoffs mandatory for normal work.
+    outcome, not accessory work. Larsen press improved as a standalone movement
+    across eight prior-cycle exposures, but that cycle still missed 130kg x3
+    and moved from a 140kg to a 137.5kg mock-meet bench. The preceding
+    Spoto-based cycle moved the mock-meet bench from 135kg to 140kg. This is
+    associative rather than causal, but Spoto also preserves the leg-drive
+    timing that Ren's 2026-05-07 video identified as a technical need.
   priority:
     - Use the widest legal grip for competition and paused bench.
     - Practise the new self-unrack on normal work.
     - Use a handoff above 130kg when available while retaining occasional controlled self-unrack exposure.
     - Progress incline dumbbell bench as a primary movement with its own benchmark.
-    - Keep Larsen press as a lower-priority force-production variation.
+    - Use Spoto press as the fourth weekly bench exposure through accumulation and intensification.
+    - Do not use Larsen press this cycle unless later evidence identifies a specific no-leg pressing need.
+  spoto_standard:
+    position: Stop the bar 1-2cm above the normal competition touch point.
+    pause: Hold a true one-second hover without touching, sinking, or drifting toward the face.
+    body: Keep the competition arch, upper-back pressure, foot pressure, and leg drive active.
+    restart: Press from the motionless hover while driving back toward the rack.
+    purpose: >
+      Train bottom-range tension, touch-point control, and leg-drive timing
+      without receiving rebound or support from the chest.
+    main_cue: Hover over the touch point, stay in the legs, then press back.
   main_cue: Settle in the final position, hold the pause, then drive back into the bench.
   pass_condition: >
     Competition-bench benchmarks require a stable unrack or handoff, repeatable
@@ -231,6 +245,9 @@ block_goals:
       squat: 10 days before mock meet
       bench: 8 days before mock meet
       deadlift: 7 days before mock meet
+    final_week:
+      wednesday: Combine the final low-RPE squat and bench command singles with the normal support work.
+      friday: Full rest; do not create a one-exercise bench trip the day before the mock meet.
     mock_meet:
       minimum:
         total_kg: 512.5
