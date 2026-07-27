@@ -3,6 +3,42 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-07-27
+
+### Health / Recovery
+
+- Steps: 19
+- Distance: 0.01 km
+- Total kcal burned: 22
+
+**Week 1 · Day 1**
+Finished: 2026-07-27 09:28:49
+
+### High Bar Squat (Barbell)
+
+  Set 1: 100.0kg x 8 [target RPE: 6-6.5] [est_stress=175, real_stress=-]
+  Set 2: 105.0kg x 8 @ RPE 6 [target RPE: 6-6.5] [est_stress=202, real_stress=191]
+  Set 3: 107.5kg x 9 @ RPE 6 [target: 8 reps, target RPE: 6-6.5] [est_stress=217, real_stress=231]
+
+### Bench Press (Paused)
+
+  Set 1: 100.0kg x 6 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=233, real_stress=222]
+  Set 2: 102.5kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=251, real_stress=297]
+  Set 3: 100.0kg x 6 @ RPE 7 [target RPE: 6.5-7] [est_stress=233, real_stress=245]
+
+### Pull-Up (Weighted)
+
+  Set 1: 20.0kg x 6 @ RPE 6.5 [target RPE: 7-7.5]
+  Set 2: 22.5kg x 6 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 3: 22.5kg x 6 @ RPE 8.5 [target RPE: 7-7.5]
+
+### Cable Crunch
+
+Exercise notes: Kept it easy with a hold at the bottom to really feel the muscles.
+
+  Set 1: 40.0kg x 15 [target RPE: 6.5-7]
+  Set 2: 40.0kg x 15 @ RPE 6 [target RPE: 6.5-7]
+
 ## 2026-07-26
 
 ### Health / Recovery
