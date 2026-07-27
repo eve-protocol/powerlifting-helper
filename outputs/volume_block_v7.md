@@ -1,6 +1,6 @@
 # Volume Block v7
 
-Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep structure that produced Ren's best cycle results, Week 4 uses objective five-rep benchmarks, Week 5 is a conditional relocation transition with a strict no-compression rule, and Week 6 restores productive Toronto volume. Incline DB bench is a primary bench movement, weighted pull-ups are trained twice weekly, high bar is retained, pause squat is removed, Spoto replaces Larsen to preserve leg-drive timing, and RDLs build hip-extension capacity.
+Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep structure that produced Ren's best cycle results, Week 4 uses objective five-rep benchmarks, Week 5 is a conditional relocation transition with a strict no-compression rule, and Week 6 restores productive Toronto volume. Incline DB bench is a primary bench movement, weighted pull-ups are trained twice weekly, high bar is retained, pause squat is removed, Spoto replaces Larsen to preserve leg-drive timing, and paused-at-knee sumo builds competition-specific lockout capacity.
 
 ## Overview
 
@@ -30,20 +30,20 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 - **Cable Crunch:** Train trunk flexion strength without lower-body fatigue.
 
-#### Day 2 — Tuesday - RDL / Incline DB Bench
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB Bench
 
-**Day intent:** Develop hip extensors and make incline dumbbell pressing a measurable primary progression.
+**Day intent:** Build competition-specific knee-to-lockout control and make incline dumbbell pressing a measurable primary progression.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Romanian Deadlift (Barbell) | 8 reps @ RPE 6.5-7 · 120kg anchor; 8 reps @ RPE 6.5-7 · 120kg anchor; 8 reps @ RPE 6.5-7 · 120kg anchor |
+| 1 | Sumo Deadlift (Paused at Knee) | 5 reps @ RPE 6.5-7 · 150kg anchor; 5 reps @ RPE 6.5-7 · 150kg anchor; 5 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 6.5-7 · 45kg anchor; 8 reps @ RPE 6.5-7 · 45kg anchor; 8 reps @ RPE 6.5-7 · 45kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5 · 40kg anchor; 15 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Romanian Deadlift (Barbell):** Build hamstring and hip-extension capacity through controlled full-range repetitions.
+- **Sumo Deadlift (Paused at Knee):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
 - **Incline Bench Press (Dumbbell):** Build incline dumbbell strength as a primary bench movement, not accessory work.
 - **Lateral Raise (Dumbbell):** Build shoulder musculature with stable repeated sets.
 - **Rear Delt Fly (Machine):** Build rear-delt capacity without turning the final set into a test.
@@ -108,7 +108,7 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 |------|------|------|
 | Squat | 8 | 60 |
 | Bench | 11 | 82 |
-| Deadlift | 6 | 42 |
+| Deadlift | 6 | 33 |
 
 ### Week 2
 
@@ -130,20 +130,20 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 - **Cable Crunch:** Progress trunk strength with stable technique.
 
-#### Day 2 — Tuesday - RDL / Incline DB Bench
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB Bench
 
-**Day intent:** Progress both hip-extension volume and incline dumbbell strength.
+**Day intent:** Progress competition-specific knee-to-lockout control and incline dumbbell strength.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Romanian Deadlift (Barbell) | 8 reps @ RPE 7-7.5 · 125kg anchor; 8 reps @ RPE 7-7.5 · 125kg anchor; 8 reps @ RPE 7-7.5 · 125kg anchor |
+| 1 | Sumo Deadlift (Paused at Knee) | 5 reps @ RPE 6.5-7 · 155kg anchor; 5 reps @ RPE 6.5-7 · 155kg anchor; 5 reps @ RPE 6.5-7 · 155kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 7 reps @ RPE 7-7.5 · 47.5kg anchor; 7 reps @ RPE 7-7.5 · 47.5kg anchor; 7 reps @ RPE 7-7.5 · 47.5kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5 · 40kg anchor; 15 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Romanian Deadlift (Barbell):** Progress hamstring and hip-extension capacity without grip or lockout compensation.
+- **Sumo Deadlift (Paused at Knee):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
 - **Incline Bench Press (Dumbbell):** Progress the primary incline dumbbell movement through controlled sevens.
 - **Lateral Raise (Dumbbell):** Build shoulder musculature through repeatable volume.
 - **Rear Delt Fly (Machine):** Build rear-delt capacity with equipment-specific loading.
@@ -208,7 +208,7 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 |------|------|------|
 | Squat | 8 | 52 |
 | Bench | 11 | 71 |
-| Deadlift | 6 | 39 |
+| Deadlift | 6 | 30 |
 
 ### Week 3
 
@@ -230,20 +230,20 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 - **Cable Crunch:** Maintain productive trunk work.
 
-#### Day 2 — Tuesday - RDL / Incline DB Bench
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB Bench
 
-**Day intent:** Raise primary incline and RDL loads while retaining rep quality.
+**Day intent:** Raise primary incline and paused-sumo loads while retaining rep and positional quality.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Romanian Deadlift (Barbell) | 6 reps @ RPE 7-7.5 · 135kg anchor; 6 reps @ RPE 7-7.5 · 135kg anchor; 6 reps @ RPE 7-7.5 · 135kg anchor |
+| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
-- **Romanian Deadlift (Barbell):** Progress heavier hip-extension work without shortening range.
+- **Sumo Deadlift (Paused at Knee):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
 - **Incline Bench Press (Dumbbell):** Progress the primary incline dumbbell movement through strong sixes.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume without chasing the 12kg jump.
 - **Rear Delt Fly (Machine):** Progress rear-delt work only if the machine matches the Japan stack.
@@ -308,7 +308,7 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 |------|------|------|
 | Squat | 8 | 44 |
 | Bench | 11 | 63 |
-| Deadlift | 6 | 33 |
+| Deadlift | 6 | 27 |
 
 ### Week 4
 
@@ -330,20 +330,20 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 - **Cable Crunch:** Maintain trunk work before benchmark sessions.
 
-#### Day 2 — Tuesday - RDL / Incline DB Benchmark
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB Benchmark
 
 **Day intent:** Benchmark incline dumbbell progress without exhausting the Wednesday squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Romanian Deadlift (Barbell) | 6 reps @ RPE 7-7.5 · 140kg anchor; 6 reps @ RPE 7-7.5 · 140kg anchor |
+| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 7-7.5 · 165kg anchor; 4 reps @ RPE 7-7.5 · 165kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 8.5-9 · 52.5kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Romanian Deadlift (Barbell):** Maintain hip-extension strength with reduced volume.
+- **Sumo Deadlift (Paused at Knee):** Reinforce the knee-to-lockout position with reduced volume before Saturday's sumo benchmark.
 - **Incline Bench Press (Dumbbell):** Test a primary incline dumbbell six, then preserve quality with backoffs.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume during benchmark week.
 - **Rear Delt Fly (Machine):** Maintain rear-delt work without repeated-set overshoot.
@@ -408,7 +408,7 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 |------|------|------|
 | Squat | 7 | 31 |
 | Bench | 10 | 49 |
-| Deadlift | 5 | 27 |
+| Deadlift | 5 | 23 |
 
 ### Week 5
 
@@ -432,22 +432,22 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 - **Cable Crunch:** Maintain trunk strength before travel.
 
-#### Day 2 — Tuesday - Relocation RDL / Incline DB
+#### Day 2 — Tuesday - Relocation Paused Sumo / Incline DB
 
-**Day intent:** Maintain the two primary developmental movements without testing unfamiliar equipment.
+**Day intent:** Maintain competition-specific pulling and incline strength without testing unfamiliar equipment.
 
 **Priority:** support
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6.5-7 · 125kg anchor; 6 reps @ RPE 6.5-7 · 125kg anchor |
+| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 6.5-7 · 150kg anchor; 4 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6.5-7 · 47.5kg anchor; 6 reps @ RPE 6.5-7 · 47.5kg anchor; 6 reps @ RPE 6.5-7 · 47.5kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 6.5-7 · 10kg anchor; 12 reps @ RPE 6.5-7 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 6.5-7 · 40kg anchor; 12 reps @ RPE 6.5-7 · 40kg anchor |
 
 **Why these movements:**
 
-- **Romanian Deadlift (Barbell):** Maintain hip-extension strength with controlled sixes.
+- **Sumo Deadlift (Paused at Knee):** Maintain the knee-to-lockout pattern at low fatigue during relocation.
 - **Incline Bench Press (Dumbbell):** Maintain primary incline dumbbell strength through the relocation.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume on available equipment.
 - **Rear Delt Fly (Machine):** Maintain rear-delt work if a comparable machine is available.
@@ -516,7 +516,7 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 |------|------|------|
 | Squat | 7 | 35 |
 | Bench | 10 | 55 |
-| Deadlift | 5 | 24 |
+| Deadlift | 5 | 20 |
 
 ### Week 6
 
@@ -538,20 +538,20 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 - **Cable Crunch:** Maintain productive trunk work.
 
-#### Day 2 — Tuesday - Toronto RDL / Incline DB Bench
+#### Day 2 — Tuesday - Toronto Paused Sumo / Incline DB Bench
 
-**Day intent:** Re-establish RDL and primary incline progression on calibrated Toronto equipment.
+**Day intent:** Re-establish paused-sumo and primary incline progression on calibrated Toronto equipment.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Romanian Deadlift (Barbell) | 6 reps @ RPE 7-7.5 · 132.5kg anchor; 6 reps @ RPE 7-7.5 · 132.5kg anchor; 6 reps @ RPE 7-7.5 · 132.5kg anchor |
+| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
-- **Romanian Deadlift (Barbell):** Progress heavier hip-extension work without shortening range.
+- **Sumo Deadlift (Paused at Knee):** Re-establish competition-specific knee-to-lockout control on calibrated Toronto equipment.
 - **Incline Bench Press (Dumbbell):** Progress the primary incline dumbbell movement through strong sixes.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume without chasing the 12kg jump.
 - **Rear Delt Fly (Machine):** Progress rear-delt work only if the machine matches the Japan stack.
@@ -616,4 +616,4 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 |------|------|------|
 | Squat | 8 | 41 |
 | Bench | 11 | 60 |
-| Deadlift | 6 | 30 |
+| Deadlift | 6 | 24 |
