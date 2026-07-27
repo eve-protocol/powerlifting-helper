@@ -3,7 +3,7 @@ description: Six-week athlete-specific accumulation block. Weeks 1-3 retain the 
   cycle results, Week 4 uses objective five-rep benchmarks, Week 5 is a conditional relocation transition with a strict no-compression
   rule, and Week 6 restores productive Toronto volume. Incline DB bench is a primary bench movement, weighted pull-ups are
   trained twice weekly, high bar is retained, pause squat is removed, Spoto replaces Larsen to preserve leg-drive timing,
-  and RDLs build hip-extension capacity.
+  and paused-at-knee sumo builds competition-specific lockout capacity.
 weeks: 6
 days_per_week: 5
 cycle_start_date: '2026-07-27'
@@ -106,29 +106,29 @@ workouts:
     equipment_dependent: true
 - week: 1
   day: 2
-  name: Tuesday - RDL / Incline DB Bench
-  intent: Develop hip extensors and make incline dumbbell pressing a measurable primary progression.
+  name: Tuesday - Paused Sumo at Knee / Incline DB Bench
+  intent: Build competition-specific knee-to-lockout control and make incline dumbbell pressing a measurable primary progression.
   priority: required
   exercises:
-  - name: Romanian Deadlift (Barbell)
-    intent: Build hamstring and hip-extension capacity through controlled full-range repetitions.
+  - name: Sumo Deadlift (Paused at Knee)
+    intent: Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
     role: developmental_deadlift
     sets:
-    - target: 8
+    - target: 5
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 120
-    - target: 8
+      target_weight_kg: 150
+    - target: 5
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 120
-    - target: 8
+      target_weight_kg: 150
+    - target: 5
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 120
+      target_weight_kg: 150
   - name: Incline Bench Press (Dumbbell)
     intent: Build incline dumbbell strength as a primary bench movement, not accessory work.
     role: primary_bench
@@ -493,29 +493,29 @@ workouts:
     equipment_dependent: true
 - week: 2
   day: 2
-  name: Tuesday - RDL / Incline DB Bench
-  intent: Progress both hip-extension volume and incline dumbbell strength.
+  name: Tuesday - Paused Sumo at Knee / Incline DB Bench
+  intent: Progress competition-specific knee-to-lockout control and incline dumbbell strength.
   priority: required
   exercises:
-  - name: Romanian Deadlift (Barbell)
-    intent: Progress hamstring and hip-extension capacity without grip or lockout compensation.
+  - name: Sumo Deadlift (Paused at Knee)
+    intent: Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
     role: developmental_deadlift
     sets:
-    - target: 8
+    - target: 5
       rpe:
+      - 6.5
       - 7
-      - 7.5
-      target_weight_kg: 125
-    - target: 8
+      target_weight_kg: 155
+    - target: 5
       rpe:
+      - 6.5
       - 7
-      - 7.5
-      target_weight_kg: 125
-    - target: 8
+      target_weight_kg: 155
+    - target: 5
       rpe:
+      - 6.5
       - 7
-      - 7.5
-      target_weight_kg: 125
+      target_weight_kg: 155
   - name: Incline Bench Press (Dumbbell)
     intent: Progress the primary incline dumbbell movement through controlled sevens.
     role: primary_bench
@@ -880,29 +880,29 @@ workouts:
     equipment_dependent: true
 - week: 3
   day: 2
-  name: Tuesday - RDL / Incline DB Bench
-  intent: Raise primary incline and RDL loads while retaining rep quality.
+  name: Tuesday - Paused Sumo at Knee / Incline DB Bench
+  intent: Raise primary incline and paused-sumo loads while retaining rep and positional quality.
   priority: required
   exercises:
-  - name: Romanian Deadlift (Barbell)
-    intent: Progress heavier hip-extension work without shortening range.
+  - name: Sumo Deadlift (Paused at Knee)
+    intent: Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
     role: developmental_deadlift
     sets:
-    - target: 6
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 135
-    - target: 6
+      target_weight_kg: 160
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 135
-    - target: 6
+      target_weight_kg: 160
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 135
+      target_weight_kg: 160
   - name: Incline Bench Press (Dumbbell)
     intent: Progress the primary incline dumbbell movement through strong sixes.
     role: primary_bench
@@ -1257,24 +1257,24 @@ workouts:
     equipment_dependent: true
 - week: 4
   day: 2
-  name: Tuesday - RDL / Incline DB Benchmark
+  name: Tuesday - Paused Sumo at Knee / Incline DB Benchmark
   intent: Benchmark incline dumbbell progress without exhausting the Wednesday squat.
   priority: required
   exercises:
-  - name: Romanian Deadlift (Barbell)
-    intent: Maintain hip-extension strength with reduced volume.
+  - name: Sumo Deadlift (Paused at Knee)
+    intent: Reinforce the knee-to-lockout position with reduced volume before Saturday's sumo benchmark.
     role: developmental_deadlift
     sets:
-    - target: 6
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 140
-    - target: 6
+      target_weight_kg: 165
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 140
+      target_weight_kg: 165
   - name: Incline Bench Press (Dumbbell)
     intent: Test a primary incline dumbbell six, then preserve quality with backoffs.
     role: primary_bench
@@ -1589,24 +1589,24 @@ workouts:
     equipment_dependent: true
 - week: 5
   day: 2
-  name: Tuesday - Relocation RDL / Incline DB
-  intent: Maintain the two primary developmental movements without testing unfamiliar equipment.
+  name: Tuesday - Relocation Paused Sumo / Incline DB
+  intent: Maintain competition-specific pulling and incline strength without testing unfamiliar equipment.
   priority: support
   exercises:
-  - name: Romanian Deadlift (Barbell)
-    intent: Maintain hip-extension strength with controlled sixes.
+  - name: Sumo Deadlift (Paused at Knee)
+    intent: Maintain the knee-to-lockout pattern at low fatigue during relocation.
     role: developmental_deadlift
     sets:
-    - target: 6
+    - target: 4
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 125
-    - target: 6
+      target_weight_kg: 150
+    - target: 4
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 125
+      target_weight_kg: 150
   - name: Incline Bench Press (Dumbbell)
     intent: Maintain primary incline dumbbell strength through the relocation.
     role: primary_bench
@@ -1926,29 +1926,29 @@ workouts:
     equipment_dependent: true
 - week: 6
   day: 2
-  name: Tuesday - Toronto RDL / Incline DB Bench
-  intent: Re-establish RDL and primary incline progression on calibrated Toronto equipment.
+  name: Tuesday - Toronto Paused Sumo / Incline DB Bench
+  intent: Re-establish paused-sumo and primary incline progression on calibrated Toronto equipment.
   priority: required
   exercises:
-  - name: Romanian Deadlift (Barbell)
-    intent: Progress heavier hip-extension work without shortening range.
+  - name: Sumo Deadlift (Paused at Knee)
+    intent: Re-establish competition-specific knee-to-lockout control on calibrated Toronto equipment.
     role: developmental_deadlift
     sets:
-    - target: 6
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 132.5
-    - target: 6
+      target_weight_kg: 160
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 132.5
-    - target: 6
+      target_weight_kg: 160
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 132.5
+      target_weight_kg: 160
   - name: Incline Bench Press (Dumbbell)
     intent: Progress the primary incline dumbbell movement through strong sixes.
     role: primary_bench
