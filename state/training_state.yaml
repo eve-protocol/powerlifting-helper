@@ -11,8 +11,8 @@ block_sequence:
 - strength_block_v6
 - peaking_block_v8
 current_block: volume_block_v7
-completed_workouts_in_current_block: 1
-last_completed_date: '2026-07-27'
+completed_workouts_in_current_block: 2
+last_completed_date: '2026-07-28'
 progression_mode: explicit
 active_coaching_focus: volume_transfer_realization_v2
 cycle_start_date: '2026-07-27'
