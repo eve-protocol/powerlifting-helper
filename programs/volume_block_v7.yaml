@@ -110,7 +110,7 @@ workouts:
   intent: Build competition-specific knee-to-lockout control and make incline dumbbell pressing a measurable primary progression.
   priority: required
   exercises:
-  - name: Sumo Deadlift (Paused at Knee)
+  - name: Sumo Deadlift (Paused)
     intent: Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
     role: developmental_deadlift
     sets:
@@ -497,7 +497,7 @@ workouts:
   intent: Progress competition-specific knee-to-lockout control and incline dumbbell strength.
   priority: required
   exercises:
-  - name: Sumo Deadlift (Paused at Knee)
+  - name: Sumo Deadlift (Paused)
     intent: Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
     role: developmental_deadlift
     sets:
@@ -884,7 +884,7 @@ workouts:
   intent: Raise primary incline and paused-sumo loads while retaining rep and positional quality.
   priority: required
   exercises:
-  - name: Sumo Deadlift (Paused at Knee)
+  - name: Sumo Deadlift (Paused)
     intent: Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
     role: developmental_deadlift
     sets:
@@ -1261,7 +1261,7 @@ workouts:
   intent: Benchmark incline dumbbell progress without exhausting the Wednesday squat.
   priority: required
   exercises:
-  - name: Sumo Deadlift (Paused at Knee)
+  - name: Sumo Deadlift (Paused)
     intent: Reinforce the knee-to-lockout position with reduced volume before Saturday's sumo benchmark.
     role: developmental_deadlift
     sets:
@@ -1593,7 +1593,7 @@ workouts:
   intent: Maintain competition-specific pulling and incline strength without testing unfamiliar equipment.
   priority: support
   exercises:
-  - name: Sumo Deadlift (Paused at Knee)
+  - name: Sumo Deadlift (Paused)
     intent: Maintain the knee-to-lockout pattern at low fatigue during relocation.
     role: developmental_deadlift
     sets:
@@ -1930,7 +1930,7 @@ workouts:
   intent: Re-establish paused-sumo and primary incline progression on calibrated Toronto equipment.
   priority: required
   exercises:
-  - name: Sumo Deadlift (Paused at Knee)
+  - name: Sumo Deadlift (Paused)
     intent: Re-establish competition-specific knee-to-lockout control on calibrated Toronto equipment.
     role: developmental_deadlift
     sets:

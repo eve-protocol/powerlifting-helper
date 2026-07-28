@@ -105,7 +105,7 @@ workouts:
   intent: Keep the lockout transition and primary incline movement alive at controlled effort.
   priority: required
   exercises:
-  - name: Sumo Deadlift (Paused at Knee)
+  - name: Sumo Deadlift (Paused)
     intent: Pause with the bar center at the top edge of the kneecap and finish by bringing hips to the bar.
     role: developmental_deadlift
     sets:
@@ -427,7 +427,7 @@ workouts:
   intent: Keep the lockout cue and incline strength alive without compromising final heavy sessions.
   priority: required
   exercises:
-  - name: Sumo Deadlift (Paused at Knee)
+  - name: Sumo Deadlift (Paused)
     intent: Use a light exact-position pause; no grind and no loss of upper-back tension.
     role: developmental_deadlift
     sets:
