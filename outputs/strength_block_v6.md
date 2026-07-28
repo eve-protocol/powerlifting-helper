@@ -36,14 +36,14 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 6-6.5 · 140kg anchor; 4 reps @ RPE 6-6.5 · 140kg anchor; 4 reps @ RPE 6-6.5 · 140kg anchor |
+| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 6-6.5 · 140kg anchor; 4 reps @ RPE 6-6.5 · 140kg anchor; 4 reps @ RPE 6-6.5 · 140kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
+- **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume with stable repeated sets.
 - **Rear Delt Fly (Machine):** Maintain rear-delt strength on calibrated equipment.
@@ -136,14 +136,14 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 3 reps @ RPE 6.5-7 · 150kg anchor; 3 reps @ RPE 6.5-7 · 150kg anchor; 3 reps @ RPE 6.5-7 · 150kg anchor |
+| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6.5-7 · 150kg anchor; 3 reps @ RPE 6.5-7 · 150kg anchor; 3 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
+- **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume with stable repeated sets.
 - **Rear Delt Fly (Machine):** Maintain rear-delt strength on calibrated equipment.
@@ -236,14 +236,14 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 2 reps @ RPE 6-6.5 · 145kg anchor; 2 reps @ RPE 6-6.5 · 145kg anchor |
+| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-6.5 · 145kg anchor; 2 reps @ RPE 6-6.5 · 145kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 9-9.5 · 55kg anchor; 5 reps @ RPE 7-7.5 · 50kg anchor; 5 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
+- **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume with stable repeated sets.
 - **Rear Delt Fly (Machine):** Maintain rear-delt strength on calibrated equipment.

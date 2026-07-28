@@ -36,14 +36,14 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 2 reps @ RPE 6.5-7 · 150kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
+| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6.5-7 · 150kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 10 reps @ RPE 7-7.5 · 10kg anchor; 10 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Pause with the bar center at the top edge of the kneecap and finish by bringing hips to the bar.
+- **Sumo Deadlift (Paused):** Pause with the bar center at the top edge of the kneecap and finish by bringing hips to the bar.
 - **Incline Bench Press (Dumbbell):** Maintain primary incline dumbbell strength during realization.
 - **Lateral Raise (Dumbbell):** Maintain shoulder musculature with reduced volume.
 - **Rear Delt Fly (Machine):** Maintain rear-delt strength with reduced volume.
@@ -134,14 +134,14 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 2 reps @ RPE 6-6.5 · 140kg anchor; 2 reps @ RPE 6-6.5 · 140kg anchor |
+| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-6.5 · 140kg anchor; 2 reps @ RPE 6-6.5 · 140kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6.5-7 · 50kg anchor; 5 reps @ RPE 6.5-7 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 10 reps @ RPE 6.5-7 · 10kg anchor; 10 reps @ RPE 6.5-7 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 10 reps @ RPE 6.5-7 · 40kg anchor; 10 reps @ RPE 6.5-7 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Use a light exact-position pause; no grind and no loss of upper-back tension.
+- **Sumo Deadlift (Paused):** Use a light exact-position pause; no grind and no loss of upper-back tension.
 - **Incline Bench Press (Dumbbell):** Perform meaningful but non-fatiguing primary incline work.
 - **Lateral Raise (Dumbbell):** Maintain shoulder work with reduced volume.
 - **Rear Delt Fly (Machine):** Maintain rear-delt work with reduced volume.

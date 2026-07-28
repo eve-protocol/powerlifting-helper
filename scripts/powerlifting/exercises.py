@@ -66,7 +66,7 @@ EXERCISE_FAMILY_MAP = {
     'Block Pull (Barbell)': 'deadlift',
     'Sumo Deadlift (Barbell)': 'deadlift',
     'Sumo Deadlift (Paused)': 'deadlift',
-    'Sumo Deadlift (Paused at Knee)': 'deadlift',
+    'Sumo Deadlift (Paused)': 'deadlift',
     'Sumo Deadlift (Banded)': 'deadlift',
     'Romanian Deadlift (Barbell)': 'deadlift',
     'Sumo Romanian Deadlift': 'deadlift',
@@ -85,7 +85,7 @@ MAIN_LIFT_VARIATIONS = {
     'deadlift': {
         'Deadlift (Barbell)', 'Deadlift (Paused)', 'Deadlift (Deficit)',
         'Block Pull (Barbell)', 'Sumo Deadlift (Barbell)', 'Sumo Deadlift (Paused)',
-        'Sumo Deadlift (Paused at Knee)', 'Sumo Deadlift (Banded)',
+        'Sumo Deadlift (Paused)', 'Sumo Deadlift (Banded)',
         'Romanian Deadlift (Barbell)', 'Sumo Romanian Deadlift',
     },
 }
@@ -96,7 +96,7 @@ TRACKED_BODYWEIGHT_TIMELINE_EXERCISES = {
     'Bench Press (Paused)',
     'Sumo Deadlift (Barbell)',
     'Sumo Deadlift (Paused)',
-    'Sumo Deadlift (Paused at Knee)',
+    'Sumo Deadlift (Paused)',
 }
 
 FAMILY_PATTERN_HINTS = {

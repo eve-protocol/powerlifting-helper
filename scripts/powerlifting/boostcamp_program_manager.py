@@ -31,7 +31,7 @@ VIDEO_URLS = {
     "Bench Press (Spoto)": "https://s3.boostcamp.app/master-exercise/2190025974.mp4",
     "Sumo Deadlift (Barbell)": "https://s3.boostcamp.app/master-exercise/952218791.mp4",
     "Sumo Deadlift (Paused)": "https://s3.boostcamp.app/master-exercise/952218791.mp4",
-    "Sumo Deadlift (Paused at Knee)": "https://s3.boostcamp.app/master-exercise/952218791.mp4",
+    "Sumo Deadlift (Paused)": "https://s3.boostcamp.app/master-exercise/952218791.mp4",
     "Incline Bench Press (Dumbbell)": "https://s3.boostcamp.app/master-exercise/3546442638.mp4",
     "Lateral Raise (Dumbbell)": "https://s3.boostcamp.app/master-exercise/1333027272.mp4",
     "Face Pull": "https://s3.boostcamp.app/master-exercise/2918226957.mp4",

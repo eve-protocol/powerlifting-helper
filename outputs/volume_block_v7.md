@@ -36,14 +36,14 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 5 reps @ RPE 6.5-7 · 150kg anchor; 5 reps @ RPE 6.5-7 · 150kg anchor; 5 reps @ RPE 6.5-7 · 150kg anchor |
+| 1 | Sumo Deadlift (Paused) | 5 reps @ RPE 6.5-7 · 150kg anchor; 5 reps @ RPE 6.5-7 · 150kg anchor; 5 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 6.5-7 · 45kg anchor; 8 reps @ RPE 6.5-7 · 45kg anchor; 8 reps @ RPE 6.5-7 · 45kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5 · 40kg anchor; 15 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
+- **Sumo Deadlift (Paused):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
 - **Incline Bench Press (Dumbbell):** Build incline dumbbell strength as a primary bench movement, not accessory work.
 - **Lateral Raise (Dumbbell):** Build shoulder musculature with stable repeated sets.
 - **Rear Delt Fly (Machine):** Build rear-delt capacity without turning the final set into a test.
@@ -136,14 +136,14 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 5 reps @ RPE 6.5-7 · 155kg anchor; 5 reps @ RPE 6.5-7 · 155kg anchor; 5 reps @ RPE 6.5-7 · 155kg anchor |
+| 1 | Sumo Deadlift (Paused) | 5 reps @ RPE 6.5-7 · 155kg anchor; 5 reps @ RPE 6.5-7 · 155kg anchor; 5 reps @ RPE 6.5-7 · 155kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 7 reps @ RPE 7-7.5 · 47.5kg anchor; 7 reps @ RPE 7-7.5 · 47.5kg anchor; 7 reps @ RPE 7-7.5 · 47.5kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5 · 40kg anchor; 15 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
+- **Sumo Deadlift (Paused):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
 - **Incline Bench Press (Dumbbell):** Progress the primary incline dumbbell movement through controlled sevens.
 - **Lateral Raise (Dumbbell):** Build shoulder musculature through repeatable volume.
 - **Rear Delt Fly (Machine):** Build rear-delt capacity with equipment-specific loading.
@@ -236,14 +236,14 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor |
+| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
+- **Sumo Deadlift (Paused):** Pause at the top edge of the kneecap, hold a true one-second dead stop, then finish stacked with hips through.
 - **Incline Bench Press (Dumbbell):** Progress the primary incline dumbbell movement through strong sixes.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume without chasing the 12kg jump.
 - **Rear Delt Fly (Machine):** Progress rear-delt work only if the machine matches the Japan stack.
@@ -336,14 +336,14 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 7-7.5 · 165kg anchor; 4 reps @ RPE 7-7.5 · 165kg anchor |
+| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 7-7.5 · 165kg anchor; 4 reps @ RPE 7-7.5 · 165kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 8.5-9 · 52.5kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Reinforce the knee-to-lockout position with reduced volume before Saturday's sumo benchmark.
+- **Sumo Deadlift (Paused):** Reinforce the knee-to-lockout position with reduced volume before Saturday's sumo benchmark.
 - **Incline Bench Press (Dumbbell):** Test a primary incline dumbbell six, then preserve quality with backoffs.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume during benchmark week.
 - **Rear Delt Fly (Machine):** Maintain rear-delt work without repeated-set overshoot.
@@ -440,14 +440,14 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 6.5-7 · 150kg anchor; 4 reps @ RPE 6.5-7 · 150kg anchor |
+| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 6.5-7 · 150kg anchor; 4 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6.5-7 · 47.5kg anchor; 6 reps @ RPE 6.5-7 · 47.5kg anchor; 6 reps @ RPE 6.5-7 · 47.5kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 6.5-7 · 10kg anchor; 12 reps @ RPE 6.5-7 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 6.5-7 · 40kg anchor; 12 reps @ RPE 6.5-7 · 40kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Maintain the knee-to-lockout pattern at low fatigue during relocation.
+- **Sumo Deadlift (Paused):** Maintain the knee-to-lockout pattern at low fatigue during relocation.
 - **Incline Bench Press (Dumbbell):** Maintain primary incline dumbbell strength through the relocation.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume on available equipment.
 - **Rear Delt Fly (Machine):** Maintain rear-delt work if a comparable machine is available.
@@ -544,14 +544,14 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused at Knee) | 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor |
+| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
 | 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused at Knee):** Re-establish competition-specific knee-to-lockout control on calibrated Toronto equipment.
+- **Sumo Deadlift (Paused):** Re-establish competition-specific knee-to-lockout control on calibrated Toronto equipment.
 - **Incline Bench Press (Dumbbell):** Progress the primary incline dumbbell movement through strong sixes.
 - **Lateral Raise (Dumbbell):** Maintain shoulder volume without chasing the 12kg jump.
 - **Rear Delt Fly (Machine):** Progress rear-delt work only if the machine matches the Japan stack.
