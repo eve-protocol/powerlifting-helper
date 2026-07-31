@@ -36,22 +36,22 @@ Comparison baseline: Volume Block v6 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 4 | ↓ 2 |
-| Total sets | 6 | 9 | ↓ 3 |
+| Sessions | 3 | 4 | ↓ 1 |
+| Total sets | 9 | 9 | → 0 |
 | Avg sets/session | 3 | 2.25 | ↑ 0.75 |
-| Avg RPE | 7.25 | 7.12 | ↑ 0.13 |
-| Avg load | 72.5kg | 96.4kg | ↓ 23.9kg |
-| Tonnage | 2875kg | 3655kg | ↓ 780kg |
-| Avg tonnage/session | 1437.5kg | 913.8kg | ↑ 523.7kg |
-| Estimated stress | 799 | 1794 | ↓ 995 |
-| Real stress | 859 | 1722 | ↓ 863 |
-| Avg est stress/session | 399 | 448 | ↓ 49 |
-| Avg real stress/session | 430 | 430 | ↓ 1 |
+| Avg RPE | 7.22 | 7.12 | ↑ 0.10 |
+| Avg load | 84.2kg | 96.4kg | ↓ 12.2kg |
+| Tonnage | 5455kg | 3655kg | ↑ 1800kg |
+| Avg tonnage/session | 1818.3kg | 913.8kg | ↑ 904.5kg |
+| Estimated stress | 1959 | 1794 | ↑ 165 |
+| Real stress | 2140 | 1722 | ↑ 418 |
+| Avg est stress/session | 653 | 448 | ↑ 204 |
+| Avg real stress/session | 713 | 430 | ↑ 283 |
 
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 102.5kg x 6 @ 7.50
+- Top work set: 107.5kg x 8 @ 6.50
 - Previous top work set: 122.5kg x 4 @ 10
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -82,15 +82,15 @@ Comparison baseline: Volume Block v6 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 3 | 6 | ↓ 3 |
-| Avg steps/day | 4105 | 6130 | ↓ 2025 |
-| Avg distance/day | 3.33km | 5.26km | ↓ 1.93km |
-| Avg kcal/day | 2473 | 2510 | ↓ 37 |
-| Avg bodyweight | 78.7kg | 79.2kg | ↓ 0.5kg |
-| Avg resting HR | 43bpm | 42bpm | ↑ 1bpm |
-| Avg sleep | 7.29h | 6.79h | ↑ 0.50h |
+| Days with data | 5 | 6 | ↓ 1 |
+| Avg steps/day | 5508 | 6130 | ↓ 622 |
+| Avg distance/day | 4.47km | 5.26km | ↓ 0.79km |
+| Avg kcal/day | 1951 | 2510 | ↓ 559 |
+| Avg bodyweight | 78.5kg | 79.2kg | ↓ 0.6kg |
+| Avg resting HR | 43.2bpm | 42bpm | ↑ 1.2bpm |
+| Avg sleep | 7.34h | 6.79h | ↑ 0.55h |
 
-- Latest health date in period: 2026-07-29
+- Latest health date in period: 2026-07-31
 
 ## Volume Block v6 / Week 4
 
