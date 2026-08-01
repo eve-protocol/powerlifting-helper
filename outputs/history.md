@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-07-31 |
-| Training Days | 406 |
-| Total Sets | 4913 |
+| Date Range | 2024-12-28 → 2026-08-01 |
+| Training Days | 407 |
+| Total Sets | 4920 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -22,7 +22,7 @@
 
 ```
    226 ┤                                                  
-       │       ▲                                          
+       │       ▲                                       ▲  
        │  ▲         ▲    ▲    ▲    ▲    ▲    ▲    ▲    ●  
        │       ●    ●    ●                                
    181 ┤                      ●         ●    ●    ●       
@@ -40,54 +40,54 @@
 ```
 
 W31:
-  Squat    │█████████████████ 3180kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 5455kg
-  Deadlift │░░░░░░░░░░░░ 2200kg
+  Squat    │████████████████████ 4770kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 7155kg
+  Deadlift │░░░░░░░░░░░░░░░░░░░░░ 5080kg
 
 W30:
-  Squat    │█████ 1065kg
-  Bench    │▓▓▓▓▓ 1002kg
-  Deadlift │░░░ 550kg
+  Squat    │████ 1065kg
+  Bench    │▓▓▓▓ 1002kg
+  Deadlift │░░ 550kg
 
 W29:
-  Squat    │████████ 1568kg
-  Bench    │▓▓▓▓▓▓ 1240kg
+  Squat    │██████ 1568kg
+  Bench    │▓▓▓▓▓ 1240kg
   Deadlift │░░░ 720kg
 
 W28:
-  Squat    │█████████████ 2458kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 3403kg
-  Deadlift │░░░░░░░░░░░░░ 2460kg
+  Squat    │██████████ 2458kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 3403kg
+  Deadlift │░░░░░░░░░░ 2460kg
 
 W27:
-  Squat    │██████████████ 2565kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 3210kg
-  Deadlift │░░░░░░░░░░░░░ 2435kg
+  Squat    │██████████ 2565kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓ 3210kg
+  Deadlift │░░░░░░░░░░ 2435kg
 
 W26:
-  Squat    │████████████ 2275kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 2790kg
-  Deadlift │░░░░░░░░░ 1765kg
+  Squat    │█████████ 2275kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓▓ 2790kg
+  Deadlift │░░░░░░░ 1765kg
 
 W25:
-  Squat    │█████████████████ 3262kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓ 2428kg
-  Deadlift │░░░░░░░░░░░░ 2270kg
+  Squat    │█████████████ 3262kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓ 2428kg
+  Deadlift │░░░░░░░░░ 2270kg
 
 W24:
-  Squat    │███████████████████ 3605kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 2665kg
-  Deadlift │░░░░░░░░░░░░░░ 2720kg
+  Squat    │███████████████ 3605kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓▓ 2665kg
+  Deadlift │░░░░░░░░░░░ 2720kg
 
 W23:
-  Squat    │█████████████████████████ 4610kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 3165kg
-  Deadlift │░░░░░░░░░░░░░░░░░░░ 3472kg
+  Squat    │███████████████████ 4610kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓ 3165kg
+  Deadlift │░░░░░░░░░░░░░░ 3472kg
 
 W22:
-  Squat    │████████████████ 3040kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 2775kg
-  Deadlift │░░░░░░░░░░░░░░░░░░░ 3482kg
+  Squat    │████████████ 3040kg
+  Bench    │▓▓▓▓▓▓▓▓▓▓▓ 2775kg
+  Deadlift │░░░░░░░░░░░░░░ 3482kg
 
   █ Squat  ▓ Bench  ░ Deadlift
 ```
@@ -212,6 +212,7 @@ W22:
 | 5RM | 115.0kg | 134.1kg | 8.5 | 🟡 2026-04-04 |
 | 6RM | 107.5kg | 133.5kg | 6.5 | 🟡 2026-03-14 |
 | 8RM | 100.0kg | 133.8kg | 7 | 🟠 2025-12-20 |
+| 9RM | 100.0kg | 160.0kg | 7 | 🟢 2026-08-01 |
 
 #### Squat (Paused)
 
