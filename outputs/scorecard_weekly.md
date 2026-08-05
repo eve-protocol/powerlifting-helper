@@ -13,22 +13,22 @@ Comparison baseline: Volume Block v7 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 3 | ↓ 2 |
-| Total sets | 3 | 8 | ↓ 5 |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 6 | 8 | ↓ 2 |
 | Avg sets/session | 3 | 2.67 | ↑ 0.33 |
-| Avg RPE | 7.17 | 6.50 | ↑ 0.67 |
-| Avg load | 114.2kg | 121.9kg | ↓ 7.7kg |
-| Tonnage | 2397.5kg | 7377.5kg | ↓ 4980kg |
-| Avg tonnage/session | 2397.5kg | 2459.2kg | ↓ 61.7kg |
-| Estimated stress | 756 | 2487 | ↓ 1731 |
-| Real stress | 828 | 2142 | ↓ 1314 |
-| Avg est stress/session | 756 | 829 | ↓ 73 |
-| Avg real stress/session | 828 | 714 | ↑ 114 |
+| Avg RPE | 7.25 | 6.50 | ↑ 0.75 |
+| Avg load | 127.1kg | 121.9kg | ↑ 5.2kg |
+| Tonnage | 5337.5kg | 7377.5kg | ↓ 2040kg |
+| Avg tonnage/session | 2668.8kg | 2459.2kg | ↑ 209.6kg |
+| Estimated stress | 2311 | 2487 | ↓ 176 |
+| Real stress | 2413 | 2142 | ↑ 271 |
+| Avg est stress/session | 1156 | 829 | ↑ 326 |
+| Avg real stress/session | 1206 | 714 | ↑ 492 |
 
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 115kg x 7 @ 7
+- Top work set: 140kg x 7 @ 7
 - Previous top work set: 132.5kg x 8 @ 6.50
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -82,15 +82,15 @@ Comparison baseline: Volume Block v7 / Week 1
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 2 | 6 | ↓ 4 |
-| Avg steps/day | 6600 | 7498 | ↓ 898 |
-| Avg distance/day | 5.42km | 6.12km | ↓ 0.70km |
-| Avg kcal/day | 2739 | 2562 | ↑ 177 |
+| Days with data | 3 | 6 | ↓ 3 |
+| Avg steps/day | 4412 | 7498 | ↓ 3086 |
+| Avg distance/day | 3.62km | 6.12km | ↓ 2.50km |
+| Avg kcal/day | 2383 | 2562 | ↓ 179 |
 | Avg bodyweight | 77.7kg | 78.5kg | ↓ 0.8kg |
 | Avg resting HR | 43.5bpm | 43.3bpm | ↑ 0.2bpm |
 | Avg sleep | 7.28h | 7.24h | ↑ 0.04h |
 
-- Latest health date in period: 2026-08-04
+- Latest health date in period: 2026-08-05
 
 ## Volume Block v7 / Week 1
 
