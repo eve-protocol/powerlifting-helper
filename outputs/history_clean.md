@@ -3,6 +3,42 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-08-07
+
+### Health / Recovery
+
+- Total kcal burned: 1672
+
+**Week 2 · Day 4**
+Finished: 2026-08-07 09:21:58
+
+### Bench Press (Barbell)
+
+  Set 1: 112.5kg x 7 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=432, real_stress=458]
+  Set 2: 112.5kg x 7 @ RPE 8 [target RPE: 7-7.5] [est_stress=432, real_stress=509]
+  Set 3: 110.0kg x 7 @ RPE 9.5 [target RPE: 7-7.5] [est_stress=404, real_stress=642]
+
+### Chest Fly (Machine)
+
+Exercise notes: Miscounted on first set, did one extra rep not consciously
+
+  Set 1: 90.0kg x 13 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
+  Set 2: 85.0kg x 12 @ RPE 7 [target RPE: 7-7.5]
+
+### Overhead Tricep Extension (Cable)
+
+  Set 1: 30.0kg x 12 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 2: 27.5kg x 12 @ RPE 7 [target RPE: 7.5-8]
+  Set 3: 27.5kg x 12 @ RPE 9 [target RPE: 7.5-8]
+
+### Bicep Curl (EZ Bar)
+
+Exercise notes: Very long pause between set 2 and 3 ( ~ 10-15 min )
+
+  Set 1: 22.5kg x 12 @ RPE 8 [target RPE: 7.5-8]
+  Set 2: 20.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 3: 20.0kg x 12 @ RPE 7 [target RPE: 7.5-8]
+
 ## 2026-08-05
 
 ### Health / Recovery
