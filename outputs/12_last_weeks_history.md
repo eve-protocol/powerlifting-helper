@@ -153,6 +153,14 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-08-10 (Monday)
 
+### Health / Recovery
+
+- Steps: 5391
+- Distance: 4.38 km
+- Total kcal burned: 2030
+- Resting heart rate: 41 bpm
+- Sleep: 7.92 h asleep (8.25 h in bed, deep 1.70 h, REM 1.60 h, awake 0.33 h)
+
 **High Bar Squat (Barbell)**
 - Exercise notes: First set tried to keep going ATG but it was too heavy lol. I did it for rep 1-3, and then rep 4-5 were comp depth. For set 2 and 3 went to comp depth
 - Set 1: 5 × 120kg @ RPE 7.5 [target_reps=6, target_intensity=[7, 7.5]RPE_range; est_stress=280; real_stress=247]
