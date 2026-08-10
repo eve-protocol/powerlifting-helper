@@ -5,6 +5,56 @@
 Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.
 Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.
 
+## Volume Block v7 / Week 3
+
+Comparison baseline: Volume Block v7 / Week 2
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 3 | 8 | ↓ 5 |
+| Avg sets/session | 3 | 2.67 | ↑ 0.33 |
+| Avg RPE | 7 | 7 | → 0 |
+| Avg load | 120kg | 129.7kg | ↓ 9.7kg |
+| Tonnage | 2040kg | 6712.5kg | ↓ 4672.5kg |
+| Avg tonnage/session | 2040kg | 2237.5kg | ↓ 197.5kg |
+| Estimated stress | 839 | 2816 | ↓ 1977 |
+| Real stress | 749 | 2980 | ↓ 2231 |
+| Avg est stress/session | 839 | 939 | ↓ 100 |
+| Avg real stress/session | 749 | 993 | ↓ 245 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 120kg x 6 @ 6.50
+- Previous top work set: 140kg x 7 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 4 | ↓ 3 |
+| Total sets | 3 | 11 | ↓ 8 |
+| Avg sets/session | 3 | 2.75 | ↑ 0.25 |
+| Avg RPE | 8.50 | 7.77 | ↑ 0.73 |
+| Avg load | 105kg | 90.5kg | ↑ 14.5kg |
+| Tonnage | 1575kg | 6335kg | ↓ 4760kg |
+| Avg tonnage/session | 1575kg | 1583.8kg | ↓ 8.8kg |
+| Estimated stress | 754 | 2607 | ↓ 1853 |
+| Real stress | 980 | 3044 | ↓ 2064 |
+| Avg est stress/session | 754 | 652 | ↑ 102 |
+| Avg real stress/session | 980 | 761 | ↑ 219 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 107.5kg x 5 @ 9
+- Previous top work set: 112.5kg x 7 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
 ## Volume Block v7 / Week 2
 
 Comparison baseline: Volume Block v7 / Week 1
