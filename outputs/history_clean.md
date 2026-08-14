@@ -3,6 +3,33 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-08-14
+
+**Week 3 · Day 4**
+Finished: 2026-08-14 09:25:06
+
+### Bench Press (Barbell)
+
+  Set 1: 115.0kg x 6 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=396, real_stress=419]
+  Set 2: 112.5kg x 6 @ RPE 8 [target RPE: 7-7.5] [est_stress=370, real_stress=436]
+  Set 3: 112.5kg x 6 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=370, real_stress=479]
+
+### Chest Fly (Machine)
+
+  Set 1: 85.0kg x 12 @ RPE 7 [target RPE: 7-7.5]
+  Set 2: 90.0kg x 12 @ RPE 7.5 [target RPE: 7-7.5]
+
+### Overhead Tricep Extension (Cable)
+
+  Set 1: 30.0kg x 10 @ RPE 6.5 [target RPE: 7.5-8]
+  Set 2: 30.0kg x 10 @ RPE 7 [target RPE: 7.5-8]
+  Set 3: 30.0kg x 12 @ RPE 8.5 [target: 10 reps, target RPE: 7.5-8]
+
+### Bicep Curl (EZ Bar)
+
+  Set 1: 22.5kg x 12 @ RPE 7.5 [target: 10 reps, target RPE: 7.5-8]
+  Set 2: 22.5kg x 12 @ RPE 8.5 [target: 10 reps, target RPE: 7.5-8]
+
 ## 2026-08-12
 
 ### Health / Recovery
