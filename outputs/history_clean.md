@@ -27,8 +27,8 @@ Finished: 2026-08-14 09:25:06
 
 ### Bicep Curl (EZ Bar)
 
-  Set 1: 22.5kg x 12 @ RPE 7.5 [target: 10 reps, target RPE: 7.5-8]
-  Set 2: 22.5kg x 12 @ RPE 8.5 [target: 10 reps, target RPE: 7.5-8]
+  Set 1: 22.5kg x 10 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
 
 ## 2026-08-12
 

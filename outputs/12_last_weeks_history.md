@@ -266,8 +266,8 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 3: 12 × 30kg @ RPE 8.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
 
 **Bicep Curl (EZ Bar)**
-- Set 1: 12 × 22kg @ RPE 7.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
-- Set 2: 12 × 22kg @ RPE 8.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 1: 10 × 22kg @ RPE 7.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 22kg @ RPE 8.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
 
 ---
 
