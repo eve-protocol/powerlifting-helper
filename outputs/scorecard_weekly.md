@@ -5,6 +5,56 @@
 Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.
 Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.
 
+## Volume Block v7 / Week 4
+
+Comparison baseline: Volume Block v7 / Week 3
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 3 | ↓ 2 |
+| Total sets | 2 | 8 | ↓ 6 |
+| Avg sets/session | 2 | 2.67 | ↓ 0.67 |
+| Avg RPE | 6.75 | 7.33 | ↓ 0.58 |
+| Avg load | 127.5kg | 135.9kg | ↓ 8.4kg |
+| Tonnage | 1275kg | 5840kg | ↓ 4565kg |
+| Avg tonnage/session | 1275kg | 1946.7kg | ↓ 671.7kg |
+| Estimated stress | 502 | 3049 | ↓ 2547 |
+| Real stress | 515 | 2491 | ↓ 1976 |
+| Avg est stress/session | 502 | 1016 | ↓ 514 |
+| Avg real stress/session | 515 | 830 | ↓ 315 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 130kg x 5 @ 7.50
+- Previous top work set: 150kg x 6 @ 8
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 4 | ↓ 3 |
+| Total sets | 2 | 11 | ↓ 9 |
+| Avg sets/session | 2 | 2.75 | ↓ 0.75 |
+| Avg RPE | 7.50 | 7.86 | ↓ 0.36 |
+| Avg load | 111.2kg | 92kg | ↑ 19.2kg |
+| Tonnage | 667.5kg | 5760kg | ↓ 5092.5kg |
+| Avg tonnage/session | 667.5kg | 1440kg | ↓ 772.5kg |
+| Estimated stress | 322 | 2539 | ↓ 2218 |
+| Real stress | 380 | 2953 | ↓ 2573 |
+| Avg est stress/session | 322 | 635 | ↓ 313 |
+| Avg real stress/session | 380 | 738 | ↓ 359 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 112.5kg x 3 @ 7.50
+- Previous top work set: 115kg x 6 @ 7.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
 ## Volume Block v7 / Week 3
 
 Comparison baseline: Volume Block v7 / Week 2

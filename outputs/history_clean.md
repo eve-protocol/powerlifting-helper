@@ -3,6 +3,34 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-08-17
+
+**Week 4 · Day 1**
+Finished: 2026-08-17 09:49:32
+
+### High Bar Squat (Barbell)
+
+Exercise notes: Did comp depth. ATG over 120kg is not yet realistic 😂 during warm up I did 2 reps ATG @ 120KG
+
+  Set 1: 125.0kg x 5 @ RPE 6 [target RPE: 6.5-7] [est_stress=236, real_stress=201]
+  Set 2: 130.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=266, real_stress=314]
+
+### Bench Press (Paused)
+
+  Set 1: 112.5kg x 3 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=166, real_stress=196]
+  Set 2: 110.0kg x 3 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=155, real_stress=183]
+
+### Pull-Up (Weighted)
+
+  Set 1: 27.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
+  Set 2: 25.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 3: 25.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
+
+### Cable Crunch
+
+  Set 1: 45.0kg x 15 @ RPE 7 [target RPE: 6.5-7]
+  Set 2: 40.0kg x 15 @ RPE 6 [target RPE: 6.5-7]
+
 ## 2026-08-15
 
 ### Health / Recovery
