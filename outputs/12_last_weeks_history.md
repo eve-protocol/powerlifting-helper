@@ -155,9 +155,10 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### Health / Recovery
 
-- Steps: 6597
-- Distance: 5.34 km
-- Total kcal burned: 2637
+- Steps: 6685
+- Distance: 5.41 km
+- Total kcal burned: 2710
+- Weight: 77.5 kg
 - Resting heart rate: 47 bpm
 - Sleep: 6.92 h asleep (7.63 h in bed, deep 0.95 h, REM 0.77 h, awake 0.72 h)
 
@@ -183,7 +184,11 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### Health / Recovery
 
-- Total kcal burned: 1672
+- Steps: 7216
+- Distance: 5.89 km
+- Total kcal burned: 2782
+- Resting heart rate: 44 bpm
+- Sleep: 6.82 h asleep (7.38 h in bed, deep 1.58 h, REM 0.27 h, awake 0.57 h)
 
 **Sumo Deadlift (Paused)**
 - Set 1: 4 × 160kg @ RPE 7 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=348; real_stress=328]
