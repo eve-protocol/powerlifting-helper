@@ -3,6 +3,41 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-08-19
+
+### Health / Recovery
+
+- Total kcal burned: 1672
+
+**Week 4 · Day 3**
+Finished: 2026-08-19 10:05:56
+
+### Squat (Low Bar)
+
+  Set 1: 160.0kg x 5 @ RPE 9 [target RPE: 9-9.5] [est_stress=829, real_stress=780]
+  Set 2: 147.5kg x 5 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=433, real_stress=560]
+  Set 3: 140.0kg x 5 @ RPE 7 [target RPE: 7-7.5] [est_stress=370, real_stress=348]
+
+### Leg Extension
+
+  Set 1: 65.0kg x 10 @ RPE 6 [target RPE: 6.5-7]
+  Set 2: 70.0kg x 10 @ RPE 7 [target RPE: 6.5-7]
+
+### Standing T Bar Row
+
+  Set 1: 60.0kg x 10 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 2: 60.0kg x 10 @ RPE 7.5 [target RPE: 6.5-7]
+
+### Leg Curl
+
+  Set 1: 27.5kg x 10 @ RPE 6 [target RPE: 6.5-7]
+  Set 2: 30.0kg x 10 @ RPE 7.5 [target RPE: 6.5-7]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 7 [target RPE: 7-7.5]
+  Set 2: 25.0kg x 5 @ RPE 7 [target RPE: 7-7.5]
+
 ## 2026-08-18
 
 ### Health / Recovery
