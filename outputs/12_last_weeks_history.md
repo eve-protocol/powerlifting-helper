@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-06-01 to 2026-08-19
+**Period:** 2026-06-01 to 2026-08-21
 ---
 
 ## Format Guide
@@ -22,7 +22,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W34 | 5 (-3) | 5 (-6) | 2 (-3) |
+| 2026-W34 | 5 (-3) | 7 (-4) | 2 (-3) |
 | 2026-W33 | 8 (=) | 11 (=) | 5 (-1) |
 | 2026-W32 | 8 (=) | 11 (=) | 6 (=) |
 | 2026-W31 | 8 (+3) | 11 (+5) | 6 (+3) |
@@ -40,7 +40,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W34  │   3510kg (-2322) │   1533kg (-4207) │   1280kg (-2620)
+2026-W34  │   3510kg (-2322) │   2633kg (-3107) │   1280kg (-2620)
 2026-W33  │   5832kg  (-872) │   5740kg  (-574) │   3900kg (-1072)
 2026-W32  │   6704kg  (-651) │   6314kg  (-822) │   4972kg  (-108)
 2026-W31  │   7355kg (+6291) │   7136kg (+6136) │   5080kg (+4530)
@@ -59,7 +59,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ```
 Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ───────────┼──────────────────┼──────────────────┼─────────────────────
-2026-W34  │    2130  (-905) │     417 (-2099) │     696 (-1439)
+2026-W34  │    2130  (-905) │     995 (-1521) │     696 (-1439)
 2026-W33  │    3035  (+227) │    2516   (-72) │    2135  (-371)
 2026-W32  │    2808  (+345) │    2588   (+27) │    2506  (+196)
 2026-W31  │    2463 (+1758) │    2561 (+1875) │    2310 (+1820)
@@ -78,7 +78,7 @@ Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ```
 Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 ───────────┼───────────────────┼───────────────────┼──────────────────────
-2026-W34  │    2198  (-282) │     483 (-2442) │     696 (-1439)
+2026-W34  │    2198  (-282) │    1060 (-1865) │     696 (-1439)
 2026-W33  │    2480  (-490) │    2925   (-97) │    2135  (-525)
 2026-W32  │    2970  (+851) │    3022  (+273) │    2660   (+32)
 2026-W31  │    2119 (+1663) │    2749 (+2022) │    2628 (+2131)
@@ -112,7 +112,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 **Bench Volume (kg)**
 ```
-2026-W34 │█████░░░░░░░░░░░░░░░░░░░░│ 1,533kg
+2026-W34 │████████░░░░░░░░░░░░░░░░░│ 2,633kg
 2026-W33 │███████████████████░░░░░░│ 5,740kg
 2026-W32 │█████████████████████░░░░│ 6,314kg
 2026-W31 │████████████████████████░│ 7,136kg
@@ -148,8 +148,8 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ## 2026-W34
 
-**Weekly Summary:** Squat: 5 sets / 3,510kg | Bench: 5 sets / 1,533kg | Deadlift: 2 sets / 1,280kg
-**Stress Summary:** Squat est/real: 2130/2198 | Bench est/real: 417/483 | Deadlift est/real: 696/696
+**Weekly Summary:** Squat: 5 sets / 3,510kg | Bench: 7 sets / 2,633kg | Deadlift: 2 sets / 1,280kg
+**Stress Summary:** Squat est/real: 2130/2198 | Bench est/real: 995/1060 | Deadlift est/real: 696/696
 
 ### 2026-08-17 (Monday)
 
@@ -238,6 +238,29 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 **Pull-Up (Weighted)**
 - Set 1: 5 × 25kg @ RPE 7 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 5 × 25kg @ RPE 7 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+### 2026-08-21 (Friday)
+
+### Health / Recovery
+
+- Steps: 17
+- Total kcal burned: 15
+
+**Bench Press (Barbell)**
+- Set 1: 4 × 122kg [failed] @ RPE 10 [target_reps=5, target_intensity=[9, 9.5]RPE_range; est_stress=591; real_stress=556]
+- Set 2: 5 × 110kg @ RPE 7.5 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=289; real_stress=306]
+- Set 3: 5 × 110kg @ RPE 7 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=289; real_stress=272]
+
+**Chest Fly (Machine)**
+- Set 1: 12 × 85kg @ RPE 6.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 12 × 85kg @ RPE 7 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Overhead Tricep Extension (Cable)**
+- Set 1: 10 × 30kg @ RPE 7 [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 30kg @ RPE 7 [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Bicep Curl (EZ Bar)**
+- Set 1: 10 × 20kg @ RPE - [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
 
 ---
 
