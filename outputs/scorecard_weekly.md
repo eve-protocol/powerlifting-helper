@@ -13,17 +13,17 @@ Comparison baseline: Volume Block v7 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 3 | ↓ 1 |
-| Total sets | 5 | 8 | ↓ 3 |
-| Avg sets/session | 2.50 | 2.67 | ↓ 0.17 |
-| Avg RPE | 7.60 | 7.33 | ↑ 0.27 |
-| Avg load | 140.5kg | 135.9kg | ↑ 4.6kg |
-| Tonnage | 3512.5kg | 5840kg | ↓ 2327.5kg |
-| Avg tonnage/session | 1756.2kg | 1946.7kg | ↓ 190.5kg |
-| Estimated stress | 2134 | 3049 | ↓ 915 |
-| Real stress | 2204 | 2491 | ↓ 288 |
-| Avg est stress/session | 1067 | 1016 | ↑ 51 |
-| Avg real stress/session | 1102 | 830 | ↑ 272 |
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 7 | 8 | ↓ 1 |
+| Avg sets/session | 2.33 | 2.67 | ↓ 0.34 |
+| Avg RPE | 7.14 | 7.33 | ↓ 0.19 |
+| Avg load | 140.4kg | 135.9kg | ↑ 4.5kg |
+| Tonnage | 4352.5kg | 5840kg | ↓ 1487.5kg |
+| Avg tonnage/session | 1450.8kg | 1946.7kg | ↓ 495.9kg |
+| Estimated stress | 2454 | 3049 | ↓ 595 |
+| Real stress | 2544 | 2491 | ↑ 52 |
+| Avg est stress/session | 818 | 1016 | ↓ 198 |
+| Avg real stress/session | 848 | 830 | ↑ 17 |
 
 - Top single: -
 - Previous top single: -
@@ -36,17 +36,17 @@ Comparison baseline: Volume Block v7 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 4 | ↓ 1 |
-| Total sets | 7 | 11 | ↓ 4 |
-| Avg sets/session | 2.33 | 2.75 | ↓ 0.42 |
-| Avg RPE | 7.64 | 7.86 | ↓ 0.22 |
-| Avg load | 83.9kg | 92kg | ↓ 8.1kg |
-| Tonnage | 2640kg | 5760kg | ↓ 3120kg |
-| Avg tonnage/session | 880kg | 1440kg | ↓ 560kg |
-| Estimated stress | 998 | 2539 | ↓ 1541 |
-| Real stress | 1064 | 2953 | ↓ 1888 |
-| Avg est stress/session | 333 | 635 | ↓ 302 |
-| Avg real stress/session | 355 | 738 | ↓ 383 |
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 9 | 11 | ↓ 2 |
+| Avg sets/session | 2.25 | 2.75 | ↓ 0.50 |
+| Avg RPE | 7.89 | 7.86 | ↑ 0.03 |
+| Avg load | 89.7kg | 92kg | ↓ 2.3kg |
+| Tonnage | 3740kg | 5760kg | ↓ 2020kg |
+| Avg tonnage/session | 935kg | 1440kg | ↓ 505kg |
+| Estimated stress | 1516 | 2539 | ↓ 1023 |
+| Real stress | 1862 | 2953 | ↓ 1090 |
+| Avg est stress/session | 379 | 635 | ↓ 256 |
+| Avg real stress/session | 466 | 738 | ↓ 273 |
 
 - Top single: -
 - Previous top single: -
@@ -59,22 +59,22 @@ Comparison baseline: Volume Block v7 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 2 | ↓ 1 |
-| Total sets | 2 | 5 | ↓ 3 |
-| Avg sets/session | 2 | 2.50 | ↓ 0.50 |
-| Avg RPE | 7.25 | 8 | ↓ 0.75 |
-| Avg load | 160kg | 162.5kg | ↓ 2.5kg |
-| Tonnage | 1280kg | 3902.5kg | ↓ 2622.5kg |
-| Avg tonnage/session | 1280kg | 1951.2kg | ↓ 671.2kg |
-| Estimated stress | 696 | 2140 | ↓ 1444 |
-| Real stress | 696 | 2142 | ↓ 1446 |
-| Avg est stress/session | 696 | 1070 | ↓ 374 |
-| Avg real stress/session | 696 | 1071 | ↓ 375 |
+| Sessions | 2 | 2 | → 0 |
+| Total sets | 5 | 5 | → 0 |
+| Avg sets/session | 2.50 | 2.50 | → 0 |
+| Avg RPE | 7.50 | 8 | ↓ 0.50 |
+| Avg load | 168kg | 162.5kg | ↑ 5.5kg |
+| Tonnage | 3160kg | 3902.5kg | ↓ 742.5kg |
+| Avg tonnage/session | 1580kg | 1951.2kg | ↓ 371.2kg |
+| Estimated stress | 2681 | 2140 | ↑ 540 |
+| Real stress | 1988 | 2142 | ↓ 154 |
+| Avg est stress/session | 1340 | 1070 | ↑ 270 |
+| Avg real stress/session | 994 | 1071 | ↓ 77 |
 
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 160kg x 4 @ 7
+- Top work set: 180kg x 3 @ 7.50
 - Previous top work set: 172.5kg x 5 @ 9
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
@@ -82,15 +82,15 @@ Comparison baseline: Volume Block v7 / Week 3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 5 | 6 | ↓ 1 |
-| Avg steps/day | 9345 | 10767 | ↓ 1422 |
-| Avg distance/day | 7.61km | 8.94km | ↓ 1.33km |
-| Avg kcal/day | 2689 | 2830 | ↓ 141 |
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 8082 | 10767 | ↓ 2685 |
+| Avg distance/day | 6.43km | 8.94km | ↓ 2.51km |
+| Avg kcal/day | 2524 | 2830 | ↓ 306 |
 | Avg bodyweight | 77.5kg | 77.4kg | ↑ 0.2kg |
 | Avg resting HR | 45.8bpm | 42.5bpm | ↑ 3.3bpm |
 | Avg sleep | 6.60h | 6.77h | ↓ 0.17h |
 
-- Latest health date in period: 2026-08-21
+- Latest health date in period: 2026-08-22
 
 ## Volume Block v7 / Week 3
 
