@@ -3,6 +3,40 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-08-24
+
+### Health / Recovery
+
+- Steps: 63
+- Total kcal burned: 1672
+
+**Week 5 · Day 1**
+Finished: 2026-08-24 09:46:50
+
+### High Bar Squat (Barbell)
+
+Exercise notes: Second set was under rpe 6. I really focused on moving my shoulders ( upper back ) and hips together
+
+  Set 1: 120.0kg x 6 @ RPE 6 [target RPE: 6-6.5] [est_stress=226, real_stress=214]
+  Set 2: 120.0kg x 6 [target RPE: 6-6.5] [est_stress=226, real_stress=-]
+
+### Bench Press (Paused)
+
+  Set 1: 105.0kg x 5 @ RPE 7.5 [target RPE: 6-6.5] [est_stress=203, real_stress=266]
+  Set 2: 102.5kg x 5 @ RPE 7.5 [target RPE: 6-6.5] [est_stress=189, real_stress=247]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 6.5 [target: 6 reps, target RPE: 6.5-7]
+  Set 2: 25.0kg x 5 @ RPE 7 [target: 6 reps, target RPE: 6.5-7]
+
+### Cable Crunch
+
+Exercise notes: Feel better at 40kg as usual. 45kg makes my legs lift from the floor.
+
+  Set 1: 45.0kg x 12 [target RPE: 6.5-7]
+  Set 2: 40.0kg x 12 [target RPE: 6.5-7]
+
 ## 2026-08-22
 
 ### Health / Recovery
