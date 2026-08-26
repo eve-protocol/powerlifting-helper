@@ -63,7 +63,7 @@ Comparison baseline: Volume Block v7 / Week 4
 | Avg steps/day | 24566 | 11467 | ↑ 13099 |
 | Avg distance/day | 20.05km | 9.38km | ↑ 10.67km |
 | Avg kcal/day | 3276 | 2720 | ↑ 556 |
-| Avg bodyweight | -kg | 77.5kg | n/a |
+| Avg bodyweight | 77.4kg | 77.5kg | ↓ 0.1kg |
 | Avg resting HR | 40bpm | 46bpm | ↓ 6bpm |
 | Avg sleep | 7.27h | 6.52h | ↑ 0.75h |
 

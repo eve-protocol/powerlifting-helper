@@ -10,6 +10,7 @@
 - Steps: 24566
 - Distance: 20.05 km
 - Total kcal burned: 3276
+- Weight: 77.4 kg
 - Resting heart rate: 40 bpm
 - Sleep: 7.27 h asleep (7.28 h in bed, deep 1.13 h, REM 1.90 h, awake 0.02 h)
 
