@@ -13,24 +13,24 @@ Comparison baseline: Volume Block v7 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 3 | ↓ 2 |
-| Total sets | 2 | 7 | ↓ 5 |
-| Avg sets/session | 2 | 2.33 | ↓ 0.33 |
-| Avg RPE | 6 | 7.14 | ↓ 1.14 |
-| Avg load | 120kg | 140.4kg | ↓ 20.4kg |
-| Tonnage | 1440kg | 4352.5kg | ↓ 2912.5kg |
-| Avg tonnage/session | 1440kg | 1450.8kg | ↓ 10.8kg |
-| Estimated stress | 452 | 2454 | ↓ 2002 |
-| Real stress | 214 | 2544 | ↓ 2330 |
-| Avg est stress/session | 452 | 818 | ↓ 366 |
-| Avg real stress/session | 214 | 848 | ↓ 634 |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 5 | 7 | ↓ 2 |
+| Avg sets/session | 2.50 | 2.33 | ↑ 0.17 |
+| Avg RPE | 6.50 | 7.14 | ↓ 0.64 |
+| Avg load | 134kg | 140.4kg | ↓ 6.4kg |
+| Tonnage | 3590kg | 4352.5kg | ↓ 762.5kg |
+| Avg tonnage/session | 1795kg | 1450.8kg | ↑ 344.2kg |
+| Estimated stress | 1522 | 2454 | ↓ 932 |
+| Real stress | 952 | 2544 | ↓ 1592 |
+| Avg est stress/session | 761 | 818 | ↓ 57 |
+| Avg real stress/session | 476 | 848 | ↓ 372 |
 
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 120kg x 6 @ -
+- Top work set: 145kg x 5 @ 6.50
 - Previous top work set: 160kg x 5 @ 9
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 
@@ -59,15 +59,15 @@ Comparison baseline: Volume Block v7 / Week 4
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 1 | 6 | ↓ 5 |
-| Avg steps/day | 24566 | 11467 | ↑ 13099 |
-| Avg distance/day | 20.05km | 9.38km | ↑ 10.67km |
-| Avg kcal/day | 3276 | 2720 | ↑ 556 |
+| Days with data | 3 | 6 | ↓ 3 |
+| Avg steps/day | 19785 | 11467 | ↑ 8318 |
+| Avg distance/day | 18.17km | 9.38km | ↑ 8.79km |
+| Avg kcal/day | 3977 | 2720 | ↑ 1257 |
 | Avg bodyweight | 77.4kg | 77.5kg | ↓ 0.1kg |
-| Avg resting HR | 40bpm | 46bpm | ↓ 6bpm |
-| Avg sleep | 7.27h | 6.52h | ↑ 0.75h |
+| Avg resting HR | 44.3bpm | 46bpm | ↓ 1.7bpm |
+| Avg sleep | 5.18h | 6.52h | ↓ 1.34h |
 
-- Latest health date in period: 2026-08-24
+- Latest health date in period: 2026-08-26
 
 ## Volume Block v7 / Week 4
 
