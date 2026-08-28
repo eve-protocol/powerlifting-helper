@@ -3,6 +3,42 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-08-29
+
+**Week 5 · Day 4**
+Finished: 2026-08-29 05:54:54
+
+### Bench Press (Barbell)
+
+Exercise notes: Bench in this gym is very hard and hurt my neck. It was not as easy as I'm used to lol
+
+  Set 1: 115.0kg x 6 @ RPE 8.5 [target: 5 reps, target RPE: 6.5-7] [est_stress=296, real_stress=512]
+  Set 2: 115.0kg x 4 @ RPE 9 [target: 5 reps, target RPE: 6.5-7] [est_stress=296, real_stress=372]
+  Set 3: 110.0kg x 5 @ RPE 8.5 [target RPE: 6.5-7] [est_stress=259, real_stress=373]
+  Set 4: 110.0kg x 5 @ RPE 9 [target RPE: 6.5-7] [est_stress=259, real_stress=407]
+
+### Chest Fly (Machine)
+
+Exercise notes: Did it with a cable cross over machine and a bench to seat on it. It felt great in the pec, it burned like crazy. But yeah new machine.
+
+  Set 1: 36.0kg x 12 @ RPE 8.5 [target RPE: 6.5-7]
+  Set 2: 32.0kg x 12 @ RPE 7.5 [target RPE: 6.5-7]
+
+### Overhead Tricep Extension (Cable)
+
+Exercise notes: Very difference machine obviously so the weight seems like PR, they are not, the pulley is just way easier.
+
+  Set 1: 57.0kg x 10 @ RPE 6 [target RPE: 7-7.5]
+  Set 2: 64.0kg x 10 @ RPE 9 [target RPE: 7-7.5]
+
+### Bicep Curl (EZ Bar)
+
+Exercise notes: Couldn't find 1.25 disc so yeah I just did more at 20kg , different bar too, so yeah a bit different feeling too.
+
+  Set 1: 20.0kg x 10 @ RPE 6 [target RPE: 7-7.5]
+  Set 2: 20.0kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 3: 20.0kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
+
 ## 2026-08-27
 
 ### Health / Recovery
