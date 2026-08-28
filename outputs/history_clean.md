@@ -5,6 +5,15 @@
 
 ## 2026-08-27
 
+### Health / Recovery
+
+- Steps: 19799
+- Distance: 16.09 km
+- Total kcal burned: 2594
+- Weight: 77.1 kg
+- Resting heart rate: 42 bpm
+- Sleep: 8.47 h asleep (8.57 h in bed, deep 1.38 h, REM 1.40 h, awake 0.10 h)
+
 **Week 5 · Day 3**
 Finished: 2026-08-27 07:03:08
 
