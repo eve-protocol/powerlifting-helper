@@ -5,6 +5,29 @@
 
 ## 2026-08-29
 
+**Week 5 · Day 5**
+Finished: 2026-08-29 22:45:42
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 170.0kg x 4 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=375, real_stress=356]
+  Set 2: 170.0kg x 4 @ RPE 6 [target RPE: 6.5-7] [est_stress=375, real_stress=319]
+  Set 3: 172.5kg x 4 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=391, real_stress=372]
+
+### Squat (Low Bar)
+
+Exercise notes: Second set felt slightly easier than first
+
+  Set 1: 140.0kg x 4 @ RPE 6 [target RPE: 5.5-6] [est_stress=213, real_stress=226]
+  Set 2: 140.0kg x 4 [target RPE: 5.5-6] [est_stress=213, real_stress=-]
+
+### Spoto Press
+
+  Set 1: 105.0kg x 6 @ RPE 6 [target RPE: 6.5-7] [est_stress=270, real_stress=230]
+  Set 2: 107.5kg x 6 @ RPE 8 [target RPE: 6.5-7] [est_stress=290, real_stress=380]
+
+## 2026-08-29
+
 **Week 5 · Day 4**
 Finished: 2026-08-29 05:54:54
 
