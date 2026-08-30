@@ -4,13 +4,13 @@ This view merges old Zepp/Xiaomi scale history with newer Health Connect / VeSyn
 
 ## Overall Summary
 
-- Logged days: 779
+- Logged days: 781
 - Average bodyweight: 76.1 kg
 - Lowest bodyweight: 69.5 kg on 2024-01-04
 - Highest bodyweight: 81.4 kg on 2019-03-15
 - First logged day: 2019-03-15 (81.4 kg, Zepp Life)
-- Last logged day: 2026-08-27 (77.1 kg, VeSync)
-- Net change: -4.3 kg
+- Last logged day: 2026-08-29 (77.2 kg, VeSync)
+- Net change: -4.2 kg
 
 ## Month-by-Month Summary
 
@@ -55,14 +55,12 @@ This view merges old Zepp/Xiaomi scale history with newer Health Connect / VeSyn
 | 2026-05 | 22 | 79.2 kg | 78.5 kg (2026-05-11) | 80.1 kg (2026-05-24) | 79.6 kg | 79.2 kg | -0.4 kg | VeSync | 175 kg | 186.7 kg | 140 kg | 149 kg | 195 kg | 212.2 kg |
 | 2026-06 | 23 | 78.7 kg | 77.8 kg (2026-06-25) | 79.4 kg (2026-06-14) | 78.4 kg | 78.3 kg | -0.1 kg | VeSync | 165 kg | 185 kg | 130 kg | 145 kg | 185 kg | 210 kg |
 | 2026-07 | 18 | 78.5 kg | 77.3 kg (2026-07-19) | 80 kg (2026-07-03) | 78.5 kg | 77.9 kg | -0.6 kg | VeSync | 172.5 kg | 184 kg | 137.5 kg | 148.7 kg | 190 kg | 207 kg |
-| 2026-08 | 20 | 77.7 kg | 77.1 kg (2026-08-10) | 78.7 kg (2026-08-02) | 78.7 kg | 77.1 kg | -1.6 kg | VeSync | - kg | 192 kg | - kg | 148.1 kg | - kg | 215.6 kg |
+| 2026-08 | 22 | 77.6 kg | 76.7 kg (2026-08-28) | 78.7 kg (2026-08-02) | 78.7 kg | 77.2 kg | -1.5 kg | VeSync | - kg | 192 kg | - kg | 148.1 kg | - kg | 215.6 kg |
 
 ## Recent Daily Entries
 
 | Date | Weight | Source |
 |---|---:|---|
-| 2026-07-21 | 78.5 kg | VeSync |
-| 2026-07-22 | 78.6 kg | VeSync |
 | 2026-07-23 | 78.4 kg | VeSync |
 | 2026-07-24 | 78.5 kg | VeSync |
 | 2026-07-25 | 78.1 kg | VeSync |
@@ -91,3 +89,5 @@ This view merges old Zepp/Xiaomi scale history with newer Health Connect / VeSyn
 | 2026-08-23 | 77.8 kg | VeSync |
 | 2026-08-24 | 77.4 kg | VeSync |
 | 2026-08-27 | 77.1 kg | VeSync |
+| 2026-08-28 | 76.7 kg | VeSync |
+| 2026-08-29 | 77.2 kg | VeSync |

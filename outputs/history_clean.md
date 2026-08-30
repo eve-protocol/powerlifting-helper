@@ -5,6 +5,15 @@
 
 ## 2026-08-29
 
+### Health / Recovery
+
+- Steps: 22640
+- Distance: 18.34 km
+- Total kcal burned: 2563
+- Weight: 77.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 5.67 h asleep (5.88 h in bed, deep 1.03 h, REM 0.93 h, awake 0.22 h)
+
 **Week 5 · Day 5**
 Finished: 2026-08-29 22:45:42
 
@@ -27,6 +36,15 @@ Exercise notes: Second set felt slightly easier than first
   Set 2: 107.5kg x 6 @ RPE 8 [target RPE: 6.5-7] [est_stress=290, real_stress=380]
 
 ## 2026-08-29
+
+### Health / Recovery
+
+- Steps: 22640
+- Distance: 18.34 km
+- Total kcal burned: 2563
+- Weight: 77.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 5.67 h asleep (5.88 h in bed, deep 1.03 h, REM 0.93 h, awake 0.22 h)
 
 **Week 5 · Day 4**
 Finished: 2026-08-29 05:54:54
