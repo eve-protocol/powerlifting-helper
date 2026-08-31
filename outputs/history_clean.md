@@ -3,6 +3,42 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-08-31
+
+### Health / Recovery
+
+- Steps: 19
+- Distance: 0.01 km
+- Total kcal burned: 78
+
+**Week 6 · Day 1**
+Finished: 2026-08-31 23:01:07
+
+### High Bar Squat (Barbell)
+
+  Set 1: 122.5kg x 6 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=267, real_stress=254]
+  Set 2: 122.5kg x 6 @ RPE 7 [target RPE: 6.5-7] [est_stress=267, real_stress=280]
+  Set 3: 122.5kg x 6 @ RPE 7 [target RPE: 6.5-7] [est_stress=267, real_stress=280]
+
+### Bench Press (Paused)
+
+  Set 1: 105.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=225, real_stress=266]
+  Set 2: 100.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=195, real_stress=204]
+  Set 3: 100.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=195, real_stress=185]
+
+### Pull-Up (Weighted)
+
+  Set 1: 27.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 2: 27.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
+  Set 3: 25.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+
+### Cable Crunch
+
+Exercise notes: 91 is maxing out this Toronto cable machine. I can add 2.3kg twice to that with additional weights.
+
+  Set 1: 91.0kg x 15 @ RPE 6 [target RPE: 7-7.5]
+  Set 2: 93.5kg x 15 @ RPE 7 [target RPE: 7-7.5]
+
 ## 2026-08-29
 
 ### Health / Recovery
