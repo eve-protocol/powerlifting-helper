@@ -3,6 +3,38 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-02
+
+**Week 6 · Day 2**
+Finished: 2026-09-02 00:50:30
+
+### Sumo Deadlift (Paused)
+
+  Set 1: 160.0kg x 4 @ RPE 7 [target RPE: 7-7.5] [est_stress=348, real_stress=328]
+  Set 2: 160.0kg x 4 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=348, real_stress=297]
+  Set 3: 160.0kg x 4 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=348, real_stress=297]
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 45.5kg x 6 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=25, real_stress=21]
+  Set 2: 50.0kg x 5 @ RPE 8.5 [target: 6 reps, target RPE: 7-7.5] [est_stress=33, real_stress=35]
+  Set 3: 45.5kg x 6 @ RPE 7 [target RPE: 7-7.5] [est_stress=25, real_stress=23]
+
+### Lateral Raise (Cable)
+
+Exercise notes: Right arm is significantly easier.
+
+  Set 1: 9.0kg x 15 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 2: 9.0kg x 15 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 3: 9.0kg x 12 @ RPE 8.5 [target: 15 reps, target RPE: 7-7.5]
+
+### Rear Delt Fly (Cable)
+
+Exercise notes: Lower than that it's way too easy ( it's basically the lightest weight on the machine )
+
+  Set 1: 9.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 7-7.5]
+  Set 2: 9.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 7-7.5]
+
 ## 2026-08-31
 
 ### Health / Recovery

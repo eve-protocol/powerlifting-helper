@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-06-15 to 2026-08-31
+**Period:** 2026-06-15 to 2026-09-02
 ---
 
 ## Format Guide
@@ -22,7 +22,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W36 | 3 (-4) | 3 (-5) | 0 (-3) |
+| 2026-W36 | 3 (-4) | 6 (-2) | 3 (=) |
 | 2026-W35 | 7 (=) | 8 (-1) | 3 (-2) |
 | 2026-W34 | 7 (-1) | 9 (-2) | 5 (=) |
 | 2026-W33 | 8 (=) | 11 (=) | 5 (-1) |
@@ -40,7 +40,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W36  │   2196kg (-2514) │   1525kg (-3032) │      0kg (-2048)
+2026-W36  │   2196kg (-2514) │   2315kg (-2242) │   1920kg  (-128)
 2026-W35  │   4710kg  (+360) │   4557kg  (+824) │   2048kg (-1112)
 2026-W34  │   4350kg (-1482) │   3733kg (-2007) │   3160kg  (-740)
 2026-W33  │   5832kg  (-872) │   5740kg  (-574) │   3900kg (-1072)
@@ -59,7 +59,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ```
 Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ───────────┼──────────────────┼──────────────────┼─────────────────────
-2026-W36  │     791 (-1158) │     614 (-1441) │       0 (-1137)
+2026-W36  │     791 (-1158) │     694 (-1361) │    1044   (-93)
 2026-W35  │    1949  (-501) │    2055  (+543) │    1137 (-1544)
 2026-W34  │    2450  (-585) │    1512 (-1004) │    2681  (+546)
 2026-W33  │    3035  (+227) │    2516   (-72) │    2135  (-371)
@@ -78,7 +78,7 @@ Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ```
 Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 ───────────┼───────────────────┼───────────────────┼──────────────────────
-2026-W36  │     804  (-374) │     655 (-2125) │       0 (-1044)
+2026-W36  │     804  (-374) │     732 (-2048) │     922  (-122)
 2026-W35  │    1178 (-1360) │    2780  (+922) │    1044  (-944)
 2026-W34  │    2538   (+58) │    1858 (-1067) │    1988  (-147)
 2026-W33  │    2480  (-490) │    2925   (-97) │    2135  (-525)
@@ -112,7 +112,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 **Bench Volume (kg)**
 ```
-2026-W36 │█████░░░░░░░░░░░░░░░░░░░░│ 1,525kg
+2026-W36 │███████░░░░░░░░░░░░░░░░░░│ 2,315kg
 2026-W35 │███████████████░░░░░░░░░░│ 4,557kg
 2026-W34 │████████████░░░░░░░░░░░░░│ 3,733kg
 2026-W33 │███████████████████░░░░░░│ 5,740kg
@@ -128,7 +128,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 **Deadlift Volume (kg)**
 ```
-2026-W36 │░░░░░░░░░░░░░░░░░░░░░░░░░│ 0kg
+2026-W36 │██████░░░░░░░░░░░░░░░░░░░│ 1,920kg
 2026-W35 │██████░░░░░░░░░░░░░░░░░░░│ 2,048kg
 2026-W34 │██████████░░░░░░░░░░░░░░░│ 3,160kg
 2026-W33 │█████████████░░░░░░░░░░░░│ 3,900kg
@@ -148,8 +148,8 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ## 2026-W36
 
-**Weekly Summary:** Squat: 3 sets / 2,196kg | Bench: 3 sets / 1,525kg | Deadlift: 0 sets / 0kg
-**Stress Summary:** Squat est/real: 791/804 | Bench est/real: 614/655 | Deadlift est/real: 0/0
+**Weekly Summary:** Squat: 3 sets / 2,196kg | Bench: 6 sets / 2,315kg | Deadlift: 3 sets / 1,920kg
+**Stress Summary:** Squat est/real: 791/804 | Bench est/real: 694/732 | Deadlift est/real: 1044/922
 
 ### 2026-08-31 (Monday)
 
@@ -181,6 +181,29 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Exercise notes: 91 is maxing out this Toronto cable machine. I can add 2.3kg twice to that with additional weights.
 - Set 1: 15 × 91kg @ RPE 6 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 15 × 93kg @ RPE 7 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+### 2026-09-02 (Wednesday)
+
+**Sumo Deadlift (Paused)**
+- Set 1: 4 × 160kg @ RPE 7 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=348; real_stress=328]
+- Set 2: 4 × 160kg @ RPE 6.5 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=348; real_stress=297]
+- Set 3: 4 × 160kg @ RPE 6.5 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=348; real_stress=297]
+
+**Incline Bench Press (Dumbbell)**
+- Set 1: 6 × 45kg @ RPE 6.5 [target_reps=6, target_intensity=[7, 7.5]RPE_range; est_stress=24; real_stress=20]
+- Set 2: 5 × 50kg @ RPE 8.5 [target_reps=6, target_intensity=[7, 7.5]RPE_range; est_stress=33; real_stress=35]
+- Set 3: 6 × 45kg @ RPE 7 [target_reps=6, target_intensity=[7, 7.5]RPE_range; est_stress=24; real_stress=22]
+
+**Lateral Raise (Cable)**
+- Exercise notes: Right arm is significantly easier.
+- Set 1: 15 × 9kg @ RPE 8.5 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 15 × 9kg @ RPE 8.5 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 12 × 9kg @ RPE 8.5 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Rear Delt Fly (Cable)**
+- Exercise notes: Lower than that it's way too easy ( it's basically the lightest weight on the machine )
+- Set 1: 10 × 9kg @ RPE 9.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 9kg @ RPE 9 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
 
 ---
 

@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-08-31 |
-| Training Days | 426 |
-| Total Sets | 5118 |
+| Date Range | 2024-12-28 → 2026-09-02 |
+| Training Days | 427 |
+| Total Sets | 5129 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -41,8 +41,8 @@
 
 W36:
   Squat    │ 0kg
-  Bench    │▓▓▓▓▓▓ 1525kg
-  Deadlift │ 0kg
+  Bench    │▓▓▓▓▓▓▓▓▓ 2321kg
+  Deadlift │░░░░░░░░ 1920kg
 
 W35:
   Squat    │█████████████ 3270kg
