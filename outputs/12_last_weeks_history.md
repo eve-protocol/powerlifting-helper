@@ -184,6 +184,10 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-09-02 (Wednesday)
 
+### Health / Recovery
+
+- Total kcal burned: 39
+
 **Sumo Deadlift (Paused)**
 - Set 1: 4 × 160kg @ RPE 7 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=348; real_stress=328]
 - Set 2: 4 × 160kg @ RPE 6.5 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=348; real_stress=297]
