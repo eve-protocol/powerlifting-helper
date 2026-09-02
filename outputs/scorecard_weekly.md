@@ -13,24 +13,24 @@ Comparison baseline: Volume Block v7 / Week 5
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 3 | ↓ 2 |
-| Total sets | 3 | 7 | ↓ 4 |
+| Sessions | 2 | 3 | ↓ 1 |
+| Total sets | 6 | 7 | ↓ 1 |
 | Avg sets/session | 3 | 2.33 | ↑ 0.67 |
-| Avg RPE | 6.83 | 6.38 | ↑ 0.45 |
-| Avg load | 122.5kg | 135.7kg | ↓ 13.2kg |
-| Tonnage | 2205kg | 4710kg | ↓ 2505kg |
-| Avg tonnage/session | 2205kg | 1570kg | ↑ 635kg |
-| Estimated stress | 801 | 1949 | ↓ 1148 |
-| Real stress | 814 | 1178 | ↓ 364 |
-| Avg est stress/session | 801 | 650 | ↑ 151 |
-| Avg real stress/session | 814 | 393 | ↑ 421 |
+| Avg RPE | 7.50 | 6.38 | ↑ 1.12 |
+| Avg load | 134.6kg | 135.7kg | ↓ 1.1kg |
+| Tonnage | 4405kg | 4710kg | ↓ 305kg |
+| Avg tonnage/session | 2202.5kg | 1570kg | ↑ 632.5kg |
+| Estimated stress | 2081 | 1949 | ↑ 132 |
+| Real stress | 2386 | 1178 | ↑ 1208 |
+| Avg est stress/session | 1040 | 650 | ↑ 391 |
+| Avg real stress/session | 1193 | 393 | ↑ 800 |
 
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 122.5kg x 6 @ 6.50
+- Top work set: 152.5kg x 5 @ 9
 - Previous top work set: 145kg x 5 @ 6.50
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Top work-set delta: ↑ 7.5kg (only meaningful when the rep scheme is comparable)
 
 ### Bench family
 

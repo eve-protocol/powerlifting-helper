@@ -9,6 +9,29 @@ Estimated stress uses target reps/RPE with target load when available, otherwise
 
 Comparison baseline: 2026-08
 
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 14 | ↓ 13 |
+| Total sets | 3 | 35 | ↓ 32 |
+| Avg sets/session | 3 | 2.50 | ↑ 0.50 |
+| Avg RPE | 8.17 | 6.97 | ↑ 1.20 |
+| Avg load | 146.7kg | 134kg | ↑ 12.7kg |
+| Tonnage | 2200kg | 25410kg | ↓ 23210kg |
+| Avg tonnage/session | 2200kg | 1815kg | ↑ 385kg |
+| Estimated stress | 1280 | 11612 | ↓ 10332 |
+| Real stress | 1572 | 10295 | ↓ 8722 |
+| Avg est stress/session | 1280 | 830 | ↑ 450 |
+| Avg real stress/session | 1572 | 735 | ↑ 837 |
+
+- Top single: -
+- Previous top single: -
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 152.5kg x 5 @ 9
+- Previous top work set: 160kg x 5 @ 9
+- Top work-set delta: ↓ 7.5kg (only meaningful when the rep scheme is comparable)
+
 ### Bench family
 
 | Metric | Current | Previous | Delta |

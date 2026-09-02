@@ -3,6 +3,43 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-03
+
+**Week 6 · Day 3**
+Finished: 2026-09-03 05:40:01
+
+### Squat (Low Bar)
+
+  Set 1: 152.5kg x 5 @ RPE 9 [target RPE: 7-7.5] [est_stress=478, real_stress=675]
+  Set 2: 145.0kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=411, real_stress=484]
+  Set 3: 142.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=390, real_stress=413]
+
+### Leg Extension
+
+  Set 1: 61.0kg x 10 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 61.0kg x 10 @ RPE 6.5 [target RPE: 7.5-8]
+  Set 3: 63.5kg x 10 @ RPE 7.5 [target RPE: 7.5-8]
+
+### Seated Row (Cable)
+
+  Set 1: 48.0kg x 10 @ RPE 6.5 [target RPE: 7.5-8]
+  Set 2: 55.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
+  Set 3: 50.5kg x 10 @ RPE 7.5 [target RPE: 7.5-8]
+
+### Leg Curl
+
+Exercise notes: Wow ok my hamstrings are so cooked it seems lol
+
+  Set 1: 29.5kg x 10 @ RPE 9 [target RPE: 7.5-8]
+  Set 2: 27.0kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 3: 24.5kg x 10 @ RPE 7 [target RPE: 7.5-8]
+
+### Pull-Up (Weighted)
+
+  Set 1: 27.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 2: 27.5kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
+  Set 3: 25.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
+
 ## 2026-09-02
 
 ### Health / Recovery
