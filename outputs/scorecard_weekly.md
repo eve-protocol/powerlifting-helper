@@ -82,15 +82,15 @@ Comparison baseline: Volume Block v7 / Week 5
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 3 | 6 | ↓ 3 |
-| Avg steps/day | 14525 | 21015 | ↓ 6490 |
-| Avg distance/day | 13.10km | 18.11km | ↓ 5.01km |
-| Avg kcal/day | 1954 | 3455 | ↓ 1501 |
-| Avg bodyweight | 77kg | 77.1kg | ↓ 0kg |
-| Avg resting HR | 41.5bpm | 43.3bpm | ↓ 1.8bpm |
-| Avg sleep | 7.67h | 6.33h | ↑ 1.34h |
+| Days with data | 4 | 6 | ↓ 2 |
+| Avg steps/day | 12392 | 21015 | ↓ 8623 |
+| Avg distance/day | 11km | 18.11km | ↓ 7.11km |
+| Avg kcal/day | 2098 | 3455 | ↓ 1357 |
+| Avg bodyweight | 77.1kg | 77.1kg | → 0kg |
+| Avg resting HR | 42.3bpm | 43.3bpm | ↓ 1bpm |
+| Avg sleep | 7.01h | 6.33h | ↑ 0.68h |
 
-- Latest health date in period: 2026-09-02
+- Latest health date in period: 2026-09-03
 
 ## Volume Block v7 / Week 5
 

@@ -5,6 +5,10 @@
 
 ## 2026-09-03
 
+### Health / Recovery
+
+- Total kcal burned: 39
+
 **Week 6 · Day 3**
 Finished: 2026-09-03 05:40:01
 
@@ -44,7 +48,12 @@ Exercise notes: Wow ok my hamstrings are so cooked it seems lol
 
 ### Health / Recovery
 
-- Total kcal burned: 39
+- Steps: 8126
+- Distance: 6.80 km
+- Total kcal burned: 2529
+- Weight: 77.2 kg
+- Resting heart rate: 44 bpm
+- Sleep: 5.68 h asleep (6.72 h in bed, deep 0.65 h, REM 0.95 h, awake 1.03 h)
 
 **Week 6 · Day 2**
 Finished: 2026-09-02 00:50:30
