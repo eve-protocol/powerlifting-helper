@@ -5,6 +5,10 @@
 
 ## 2026-09-05
 
+### Health / Recovery
+
+- Total kcal burned: 41
+
 **Week 6 · Day 4**
 Finished: 2026-09-05 05:21:34
 

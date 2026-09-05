@@ -253,6 +253,10 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### 2026-09-05 (Saturday)
 
+### Health / Recovery
+
+- Total kcal burned: 41
+
 **Bench Press (Barbell)**
 - Set 1: 5 × 120kg @ RPE 8 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=375; real_stress=441]
 - Set 2: 5 × 115kg @ RPE 8 [target_reps=5, target_intensity=[7, 7.5]RPE_range; est_stress=330; real_stress=388]
