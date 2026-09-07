@@ -2,8 +2,8 @@ name: Strength Block v6
 description: Three-week athlete-specific intensification block that preserves meaningful rep work. Week 1 uses competition-lift
   fours without singles, Week 2 uses one deliberately submaximal single before triples, and Week 3 tests objective triple
   benchmarks without a calibration single. Primary low-bar squat and competition bench are consolidated on Wednesday, while
-  Friday remains a written condo accessory day. High bar, paused bench, incline dumbbells, Spoto, twice-weekly pull-ups, backoff
-  work, and paused sumo at the top edge of the kneecap remain in place.
+  Friday remains a written condo accessory day. High bar, paused bench, incline dumbbells, Spoto, twice-weekly pull-ups, hack
+  squat support work, backoff work, and paused sumo at the top edge of the kneecap remain in place.
 weeks: 3
 days_per_week: 5
 planned_start_date: '2026-09-07'
@@ -401,8 +401,9 @@ workouts:
       target_weight_kg: 110
 - week: 2
   day: 1
-  name: Monday - High Bar / Paused Bench / Pull-Ups
-  intent: Retain rep strength and developmental squat work while competition intensity rises.
+  name: Monday - High Bar / Paused Bench / Pull-Ups / Hack Squat
+  intent: Retain rep strength and developmental squat work while competition intensity rises, then calibrate stable quad-biased
+    support work without adding meaningful axial fatigue.
   priority: required
   exercises:
   - name: High Bar Squat (Barbell)
@@ -462,6 +463,22 @@ workouts:
       - 7.5
       - 8
       target_weight_kg: 30
+  - name: Hack Squat
+    intent: Replace the rejected belt-squat setup with stable bilateral quadriceps work; use a medium-low stance, allow controlled
+      knee travel, and calibrate this Toronto machine conservatively.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 20
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 20
+    equipment_dependent: true
 - week: 2
   day: 2
   name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch

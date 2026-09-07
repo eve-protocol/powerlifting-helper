@@ -1,6 +1,6 @@
 # Strength Block v6
 
-Three-week athlete-specific intensification block that preserves meaningful rep work. Week 1 uses competition-lift fours without singles, Week 2 uses one deliberately submaximal single before triples, and Week 3 tests objective triple benchmarks without a calibration single. Primary low-bar squat and competition bench are consolidated on Wednesday, while Friday remains a written condo accessory day. High bar, paused bench, incline dumbbells, Spoto, twice-weekly pull-ups, backoff work, and paused sumo at the top edge of the kneecap remain in place.
+Three-week athlete-specific intensification block that preserves meaningful rep work. Week 1 uses competition-lift fours without singles, Week 2 uses one deliberately submaximal single before triples, and Week 3 tests objective triple benchmarks without a calibration single. Primary low-bar squat and competition bench are consolidated on Wednesday, while Friday remains a written condo accessory day. High bar, paused bench, incline dumbbells, Spoto, twice-weekly pull-ups, hack squat support work, backoff work, and paused sumo at the top edge of the kneecap remain in place.
 
 ## Overview
 
@@ -112,21 +112,23 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 ### Week 2
 
-#### Day 1 — Monday - High Bar / Paused Bench / Pull-Ups
+#### Day 1 — Monday - High Bar / Paused Bench / Pull-Ups / Hack Squat
 
-**Day intent:** Retain rep strength and developmental squat work while competition intensity rises.
+**Day intent:** Retain rep strength and developmental squat work while competition intensity rises, then calibrate stable quad-biased support work without adding meaningful axial fatigue.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | High Bar Squat (Barbell) | 4 reps @ RPE 7-7.5 · 130kg anchor; 4 reps @ RPE 7-7.5 · 130kg anchor; 4 reps @ RPE 7-7.5 · 130kg anchor |
 | 2 | Bench Press (Paused) | 3 reps @ RPE 7-7.5 · 112.5kg anchor; 3 reps @ RPE 7-7.5 · 112.5kg anchor; 3 reps @ RPE 7-7.5 · 112.5kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8 · 30kg anchor; 5 reps @ RPE 7.5-8 · 30kg anchor; 5 reps @ RPE 7.5-8 · 30kg anchor |
+| 4 | Hack Squat | 10 reps @ RPE 6.5-7 · 20kg anchor; 10 reps @ RPE 6.5-7 · 20kg anchor |
 
 **Why these movements:**
 
 - **High Bar Squat (Barbell):** Keep knee-forward quad development active through intensification.
 - **Bench Press (Paused):** Keep long-pause bench volume active as competition work intensifies.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
+- **Hack Squat:** Replace the rejected belt-squat setup with stable bilateral quadriceps work; use a medium-low stance, allow controlled knee travel, and calibrate this Toronto machine conservatively.
 
 #### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
 
