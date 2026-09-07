@@ -3,19 +3,19 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
-## 2026-09-06
+## 2026-09-05
 
 ### Health / Recovery
 
-- Steps: 15713
-- Distance: 12.74 km
-- Total kcal burned: 2527
-- Weight: 77.4 kg
-- Resting heart rate: 41 bpm
-- Sleep: 8.28 h asleep (8.58 h in bed, deep 0.60 h, REM 1.42 h, awake 0.30 h)
+- Steps: 12522
+- Distance: 10.14 km
+- Total kcal burned: 3071
+- Weight: 77.5 kg
+- Resting heart rate: 43 bpm
+- Sleep: 8.20 h asleep (8.48 h in bed, deep 0.65 h, REM 1.45 h, awake 0.28 h)
 
 **Week 6 · Day 5**
-Finished: 2026-09-06 00:43:56
+Finished: 2026-09-05 11:43:56
 
 ### Sumo Deadlift (Barbell)
 
@@ -33,19 +33,19 @@ Finished: 2026-09-06 00:43:56
   Set 1: 107.5kg x 6 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=290, real_stress=276]
   Set 2: 107.5kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=290, real_stress=342]
 
-## 2026-09-05
+## 2026-09-04
 
 ### Health / Recovery
 
-- Steps: 12522
-- Distance: 10.14 km
-- Total kcal burned: 3071
-- Weight: 77.5 kg
-- Resting heart rate: 43 bpm
-- Sleep: 8.20 h asleep (8.48 h in bed, deep 0.65 h, REM 1.45 h, awake 0.28 h)
+- Steps: 12929
+- Distance: 10.54 km
+- Total kcal burned: 2504
+- Weight: 77.8 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.02 h asleep (7.10 h in bed, deep 1.45 h, REM 1.10 h, awake 0.08 h)
 
 **Week 6 · Day 4**
-Finished: 2026-09-05 05:21:34
+Finished: 2026-09-04 16:21:34
 
 ### Bench Press (Barbell)
 
@@ -69,19 +69,19 @@ Finished: 2026-09-05 05:21:34
   Set 1: 20.0kg x 10 @ RPE 7 [target RPE: 7.5-8]
   Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
 
-## 2026-09-03
+## 2026-09-02
 
 ### Health / Recovery
 
-- Steps: 11111
-- Distance: 9 km
-- Total kcal burned: 2327
+- Steps: 8126
+- Distance: 6.80 km
+- Total kcal burned: 2529
 - Weight: 77.2 kg
-- Resting heart rate: 43 bpm
-- Sleep: 8.48 h asleep (9.73 h in bed, deep 0.93 h, REM 1.23 h, awake 1.25 h)
+- Resting heart rate: 44 bpm
+- Sleep: 5.68 h asleep (6.72 h in bed, deep 0.65 h, REM 0.95 h, awake 1.03 h)
 
 **Week 6 · Day 3**
-Finished: 2026-09-03 05:40:01
+Finished: 2026-09-02 16:40:01
 
 ### Squat (Low Bar)
 
@@ -115,19 +115,19 @@ Exercise notes: Wow ok my hamstrings are so cooked it seems lol
   Set 2: 27.5kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
   Set 3: 25.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5]
 
-## 2026-09-02
+## 2026-09-01
 
 ### Health / Recovery
 
-- Steps: 8126
-- Distance: 6.80 km
-- Total kcal burned: 2529
-- Weight: 77.2 kg
-- Resting heart rate: 44 bpm
-- Sleep: 5.68 h asleep (6.72 h in bed, deep 0.65 h, REM 0.95 h, awake 1.03 h)
+- Steps: 15409
+- Distance: 15.13 km
+- Total kcal burned: 2842
+- Weight: 76.8 kg
+- Resting heart rate: 42 bpm
+- Sleep: 8.03 h asleep (8.07 h in bed, deep 1.08 h, REM 1.45 h, awake 0.03 h)
 
 **Week 6 · Day 2**
-Finished: 2026-09-02 00:50:30
+Finished: 2026-09-01 11:50:30
 
 ### Sumo Deadlift (Paused)
 
@@ -168,7 +168,7 @@ Exercise notes: Lower than that it's way too easy ( it's basically the lightest 
 - Sleep: 7.30 h asleep (8.07 h in bed, deep 0.58 h, REM 1.73 h, awake 0.77 h)
 
 **Week 6 · Day 1**
-Finished: 2026-08-31 23:01:07
+Finished: 2026-08-31 10:01:07
 
 ### High Bar Squat (Barbell)
 
@@ -207,7 +207,7 @@ Exercise notes: 91 is maxing out this Toronto cable machine. I can add 2.3kg twi
 - Sleep: 5.67 h asleep (5.88 h in bed, deep 1.03 h, REM 0.93 h, awake 0.22 h)
 
 **Week 5 · Day 5**
-Finished: 2026-08-29 22:45:42
+Finished: 2026-08-29 09:45:42
 
 ### Sumo Deadlift (Barbell)
 
@@ -227,19 +227,19 @@ Exercise notes: Second set felt slightly easier than first
   Set 1: 105.0kg x 6 @ RPE 6 [target RPE: 6.5-7] [est_stress=270, real_stress=230]
   Set 2: 107.5kg x 6 @ RPE 8 [target RPE: 6.5-7] [est_stress=290, real_stress=380]
 
-## 2026-08-29
+## 2026-08-28
 
 ### Health / Recovery
 
-- Steps: 23346
-- Distance: 18.91 km
-- Total kcal burned: 2956
-- Weight: 77.2 kg
-- Resting heart rate: 42 bpm
-- Sleep: 5.67 h asleep (5.88 h in bed, deep 1.03 h, REM 0.93 h, awake 0.22 h)
+- Steps: 21872
+- Distance: 17.77 km
+- Total kcal burned: 2788
+- Weight: 76.7 kg
+- Resting heart rate: 43 bpm
+- Sleep: 8.30 h asleep (8.77 h in bed, deep 1.18 h, REM 1.18 h, awake 0.47 h)
 
 **Week 5 · Day 4**
-Finished: 2026-08-29 05:54:54
+Finished: 2026-08-28 16:54:54
 
 ### Bench Press (Barbell)
 
@@ -272,19 +272,18 @@ Exercise notes: Couldn't find 1.25 disc so yeah I just did more at 20kg , differ
   Set 2: 20.0kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
   Set 3: 20.0kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-08-27
+## 2026-08-26
 
 ### Health / Recovery
 
-- Steps: 19799
-- Distance: 16.09 km
-- Total kcal burned: 2594
-- Weight: 77.1 kg
-- Resting heart rate: 42 bpm
-- Sleep: 8.47 h asleep (8.57 h in bed, deep 1.38 h, REM 1.40 h, awake 0.10 h)
+- Steps: 24087
+- Distance: 19.78 km
+- Total kcal burned: 4079
+- Resting heart rate: 45 bpm
+- Sleep: 6.82 h asleep (7.07 h in bed, deep 1.42 h, REM 0.15 h, awake 0.25 h)
 
 **Week 5 · Day 3**
-Finished: 2026-08-27 07:03:08
+Finished: 2026-08-26 18:03:08
 
 ### Squat (Low Bar)
 
@@ -308,19 +307,19 @@ Finished: 2026-08-27 07:03:08
   Set 1: 27.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
   Set 2: 27.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-08-24
+## 2026-08-23
 
 ### Health / Recovery
 
-- Steps: 24566
-- Distance: 20.05 km
-- Total kcal burned: 3276
-- Weight: 77.4 kg
-- Resting heart rate: 40 bpm
+- Steps: 28207
+- Distance: 23.10 km
+- Total kcal burned: 2757
+- Weight: 77.8 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.27 h asleep (7.28 h in bed, deep 1.13 h, REM 1.90 h, awake 0.02 h)
 
 **Week 5 · Day 1**
-Finished: 2026-08-24 09:46:50
+Finished: 2026-08-23 20:46:50
 
 ### High Bar Squat (Barbell)
 
@@ -346,18 +345,19 @@ Exercise notes: Feel better at 40kg as usual. 45kg makes my legs lift from the f
   Set 1: 45.0kg x 12 [target RPE: 6.5-7]
   Set 2: 40.0kg x 12 [target RPE: 6.5-7]
 
-## 2026-08-22
+## 2026-08-21
 
 ### Health / Recovery
 
-- Steps: 22078
-- Distance: 18.24 km
-- Total kcal burned: 2870
-- Resting heart rate: 47 bpm
+- Steps: 10653
+- Distance: 8.79 km
+- Total kcal burned: 2717
+- Weight: 78 kg
+- Resting heart rate: 46 bpm
 - Sleep: 6.13 h asleep (6.18 h in bed, deep 0.95 h, REM 0.50 h, awake 0.05 h)
 
 **Week 4 · Day 5**
-Finished: 2026-08-22 10:35:25
+Finished: 2026-08-21 21:35:25
 
 ### Sumo Deadlift (Barbell)
 
@@ -384,10 +384,10 @@ Finished: 2026-08-22 10:35:25
 - Total kcal burned: 2717
 - Weight: 78 kg
 - Resting heart rate: 46 bpm
-- Sleep: 8.53 h asleep (8.60 h in bed, deep 1.55 h, REM 1.62 h, awake 0.07 h)
+- Sleep: 6.13 h asleep (6.18 h in bed, deep 0.95 h, REM 0.50 h, awake 0.05 h)
 
 **Week 4 · Day 4**
-Finished: 2026-08-21 20:04:56
+Finished: 2026-08-21 07:04:56
 
 ### Bench Press (Barbell)
 
@@ -409,18 +409,19 @@ Finished: 2026-08-21 20:04:56
 
   Set 1: 20.0kg x 10 [target RPE: 7-7.5]
 
-## 2026-08-19
+## 2026-08-18
 
 ### Health / Recovery
 
-- Steps: 11241
-- Distance: 9.10 km
-- Total kcal burned: 2781
+- Steps: 7245
+- Distance: 5.91 km
+- Total kcal burned: 2844
+- Weight: 77.3 kg
 - Resting heart rate: 44 bpm
 - Sleep: 5.33 h asleep (6.88 h in bed, deep 0.92 h, REM 0 h, awake 1.55 h)
 
 **Week 4 · Day 3**
-Finished: 2026-08-19 10:05:56
+Finished: 2026-08-18 21:05:56
 
 ### Squat (Low Bar)
 
@@ -448,19 +449,19 @@ Finished: 2026-08-19 10:05:56
   Set 1: 25.0kg x 5 @ RPE 7 [target RPE: 7-7.5]
   Set 2: 25.0kg x 5 @ RPE 7 [target RPE: 7-7.5]
 
-## 2026-08-18
+## 2026-08-17
 
 ### Health / Recovery
 
-- Steps: 7245
-- Distance: 5.91 km
-- Total kcal burned: 2844
-- Weight: 77.3 kg
-- Resting heart rate: 44 bpm
+- Steps: 6685
+- Distance: 5.41 km
+- Total kcal burned: 2710
+- Weight: 77.5 kg
+- Resting heart rate: 47 bpm
 - Sleep: 6.82 h asleep (7.38 h in bed, deep 1.58 h, REM 0.27 h, awake 0.57 h)
 
 **Week 4 · Day 2**
-Finished: 2026-08-18 09:49:26
+Finished: 2026-08-17 20:49:26
 
 ### Sumo Deadlift (Paused)
 
@@ -483,19 +484,19 @@ Finished: 2026-08-18 09:49:26
   Set 1: 50.0kg x 12 @ RPE 7 [target RPE: 7-7.5]
   Set 2: 50.0kg x 12 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-08-17
+## 2026-08-16
 
 ### Health / Recovery
 
-- Steps: 6685
-- Distance: 5.41 km
-- Total kcal burned: 2710
-- Weight: 77.5 kg
-- Resting heart rate: 47 bpm
+- Steps: 14724
+- Distance: 12.05 km
+- Total kcal burned: 2740
+- Weight: 78.1 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.92 h asleep (7.63 h in bed, deep 0.95 h, REM 0.77 h, awake 0.72 h)
 
 **Week 4 · Day 1**
-Finished: 2026-08-17 09:49:32
+Finished: 2026-08-16 20:49:32
 
 ### High Bar Squat (Barbell)
 
@@ -520,19 +521,19 @@ Exercise notes: Did comp depth. ATG over 120kg is not yet realistic 😂 during 
   Set 1: 45.0kg x 15 @ RPE 7 [target RPE: 6.5-7]
   Set 2: 40.0kg x 15 @ RPE 6 [target RPE: 6.5-7]
 
-## 2026-08-15
+## 2026-08-14
 
 ### Health / Recovery
 
-- Steps: 17666
-- Distance: 14.36 km
-- Total kcal burned: 3017
-- Weight: 77.5 kg
-- Resting heart rate: 44 bpm
+- Steps: 9882
+- Distance: 8 km
+- Total kcal burned: 2731
+- Weight: 77.4 kg
+- Resting heart rate: 41 bpm
 - Sleep: 7.32 h asleep (7.48 h in bed, deep 0.98 h, REM 1.37 h, awake 0.17 h)
 
 **Week 3 · Day 5**
-Finished: 2026-08-15 09:47:29
+Finished: 2026-08-14 20:47:29
 
 ### Sumo Deadlift (Barbell)
 
@@ -552,19 +553,19 @@ Exercise notes: Set 1 was maybe rpe 4-4.5 Set 2 was closer to 5.5 to 6
   Set 1: 105.0kg x 6 @ RPE 6 [target RPE: 6.5-7] [est_stress=270, real_stress=230]
   Set 2: 107.5kg x 6 @ RPE 7 [target RPE: 6.5-7] [est_stress=290, real_stress=304]
 
-## 2026-08-14
+## 2026-08-13
 
 ### Health / Recovery
 
-- Steps: 9882
-- Distance: 8 km
-- Total kcal burned: 2731
-- Weight: 77.4 kg
-- Resting heart rate: 41 bpm
+- Steps: 11581
+- Distance: 9.38 km
+- Total kcal burned: 2468
+- Weight: 77.8 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.22 h asleep (7.23 h in bed, deep 1.80 h, REM 1.42 h, awake 0.02 h)
 
 **Week 3 · Day 4**
-Finished: 2026-08-14 09:25:06
+Finished: 2026-08-13 20:25:06
 
 ### Bench Press (Barbell)
 
@@ -588,19 +589,19 @@ Finished: 2026-08-14 09:25:06
   Set 1: 22.5kg x 10 @ RPE 7.5 [target RPE: 7.5-8]
   Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
 
-## 2026-08-12
+## 2026-08-11
 
 ### Health / Recovery
 
-- Steps: 10206
-- Distance: 8.29 km
-- Total kcal burned: 3036
+- Steps: 7732
+- Distance: 7.48 km
+- Total kcal burned: 2826
 - Weight: 77.2 kg
-- Resting heart rate: 43 bpm
+- Resting heart rate: 44 bpm
 - Sleep: 6.57 h asleep (6.87 h in bed, deep 0.27 h, REM 0.78 h, awake 0.30 h)
 
 **Week 3 · Day 3**
-Finished: 2026-08-12 10:02:59
+Finished: 2026-08-11 21:02:59
 
 ### Squat (Low Bar)
 
@@ -632,19 +633,19 @@ Finished: 2026-08-12 10:02:59
   Set 2: 27.5kg x 5 @ RPE 8 [target RPE: 7.5-8]
   Set 3: 27.5kg x 5 @ RPE 8.5 [target RPE: 7.5-8]
 
-## 2026-08-11
+## 2026-08-10
 
 ### Health / Recovery
 
-- Steps: 7732
-- Distance: 7.48 km
-- Total kcal burned: 2826
-- Weight: 77.2 kg
-- Resting heart rate: 44 bpm
+- Steps: 7533
+- Distance: 6.12 km
+- Total kcal burned: 2905
+- Weight: 77.1 kg
+- Resting heart rate: 41 bpm
 - Sleep: 6.13 h asleep (6.52 h in bed, deep 0.95 h, REM 1.02 h, awake 0.38 h)
 
 **Week 3 · Day 2**
-Finished: 2026-08-11 09:42:44
+Finished: 2026-08-10 20:42:44
 
 ### Sumo Deadlift (Paused)
 
@@ -669,19 +670,19 @@ Finished: 2026-08-11 09:42:44
   Set 1: 45.0kg x 15 @ RPE 7 [target: 12 reps, target RPE: 7-7.5]
   Set 2: 50.0kg x 12 @ RPE 6 [target RPE: 7-7.5]
 
-## 2026-08-10
+## 2026-08-09
 
 ### Health / Recovery
 
-- Steps: 7533
-- Distance: 6.12 km
-- Total kcal burned: 2905
-- Weight: 77.1 kg
-- Resting heart rate: 41 bpm
+- Steps: 15679
+- Distance: 12.87 km
+- Total kcal burned: 2384
+- Weight: 77.8 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.92 h asleep (8.25 h in bed, deep 1.70 h, REM 1.60 h, awake 0.33 h)
 
 **Week 3 · Day 1**
-Finished: 2026-08-10 09:49:50
+Finished: 2026-08-09 20:49:50
 
 ### High Bar Squat (Barbell)
 
@@ -710,18 +711,19 @@ Exercise notes: No idea what happened, no pressing power today.
   Set 1: 45.0kg x 15 @ RPE 7 [target RPE: 7-7.5]
   Set 2: 45.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-08-08
+## 2026-08-07
 
 ### Health / Recovery
 
-- Steps: 18732
-- Distance: 15.23 km
-- Total kcal burned: 3018
-- Resting heart rate: 44 bpm
+- Steps: 6600
+- Distance: 5.36 km
+- Total kcal burned: 2672
+- Weight: 78.4 kg
+- Resting heart rate: 45 bpm
 - Sleep: 7.35 h asleep (7.35 h in bed, deep 1.12 h, REM 1.47 h, awake 0 h)
 
 **Week 2 · Day 5**
-Finished: 2026-08-08 09:40:48
+Finished: 2026-08-07 20:40:48
 
 ### Sumo Deadlift (Barbell)
 
@@ -739,19 +741,19 @@ Finished: 2026-08-08 09:40:48
   Set 1: 100.0kg x 7 @ RPE 6 [target RPE: 6.5-7] [est_stress=272, real_stress=232]
   Set 2: 102.5kg x 7 @ RPE 7 [target RPE: 6.5-7] [est_stress=293, real_stress=308]
 
-## 2026-08-07
+## 2026-08-06
 
 ### Health / Recovery
 
-- Steps: 6600
-- Distance: 5.36 km
-- Total kcal burned: 2672
-- Weight: 78.4 kg
-- Resting heart rate: 45 bpm
+- Steps: 9217
+- Distance: 7.46 km
+- Total kcal burned: 2366
+- Weight: 78.3 kg
+- Resting heart rate: 46 bpm
 - Sleep: 7.05 h asleep (7.40 h in bed, deep 1.57 h, REM 0.33 h, awake 0.35 h)
 
 **Week 2 · Day 4**
-Finished: 2026-08-07 09:21:58
+Finished: 2026-08-06 20:21:58
 
 ### Bench Press (Barbell)
 
@@ -780,18 +782,19 @@ Exercise notes: Very long pause between set 2 and 3 ( ~ 10-15 min )
   Set 2: 20.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
   Set 3: 20.0kg x 12 @ RPE 7 [target RPE: 7.5-8]
 
-## 2026-08-05
+## 2026-08-04
 
 ### Health / Recovery
 
-- Steps: 4325
-- Distance: 4.02 km
-- Total kcal burned: 2631
+- Steps: 8682
+- Distance: 7.13 km
+- Total kcal burned: 3025
+- Weight: 77.5 kg
 - Resting heart rate: 44 bpm
 - Sleep: 6.52 h asleep (6.90 h in bed, deep 0.88 h, REM 0.82 h, awake 0.38 h)
 
 **Week 2 · Day 3**
-Finished: 2026-08-05 10:04:27
+Finished: 2026-08-04 21:04:27
 
 ### Squat (Low Bar)
 
@@ -823,19 +826,19 @@ Finished: 2026-08-05 10:04:27
   Set 2: 22.5kg x 6 @ RPE 7 [target RPE: 7.5-8]
   Set 3: 25.0kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
 
-## 2026-08-04
+## 2026-08-03
 
 ### Health / Recovery
 
-- Steps: 8682
-- Distance: 7.13 km
-- Total kcal burned: 3025
-- Weight: 77.5 kg
-- Resting heart rate: 44 bpm
+- Steps: 4518
+- Distance: 3.70 km
+- Total kcal burned: 2453
+- Weight: 77.7 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.02 h asleep (7.17 h in bed, deep 1.03 h, REM 1 h, awake 0.15 h)
 
 **Week 2 · Day 2**
-Finished: 2026-08-04 09:53:22
+Finished: 2026-08-03 20:53:22
 
 ### Sumo Deadlift (Paused)
 
@@ -860,19 +863,19 @@ Finished: 2026-08-04 09:53:22
   Set 1: 45.0kg x 15 @ RPE 7 [target RPE: 7-7.5]
   Set 2: 45.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-08-03
+## 2026-08-02
 
 ### Health / Recovery
 
-- Steps: 4518
-- Distance: 3.70 km
-- Total kcal burned: 2453
-- Weight: 77.7 kg
-- Resting heart rate: 43 bpm
+- Steps: 18178
+- Distance: 14.84 km
+- Total kcal burned: 2563
+- Weight: 78.7 kg
+- Resting heart rate: 41 bpm
 - Sleep: 7.55 h asleep (7.63 h in bed, deep 1.08 h, REM 1.20 h, awake 0.08 h)
 
 **Week 2 · Day 1**
-Finished: 2026-08-03 09:42:34
+Finished: 2026-08-02 20:42:34
 
 ### High Bar Squat (Barbell)
 
@@ -897,18 +900,19 @@ Finished: 2026-08-03 09:42:34
   Set 1: 45.0kg x 15 @ RPE 6.5 [target RPE: 6.5-7]
   Set 2: 45.0kg x 15 @ RPE 6.5 [target RPE: 6.5-7]
 
-## 2026-08-01
+## 2026-07-31
 
 ### Health / Recovery
 
-- Steps: 18127
-- Distance: 14.87 km
-- Total kcal burned: 3159
-- Resting heart rate: 44 bpm
+- Steps: 4825
+- Distance: 3.99 km
+- Total kcal burned: 2461
+- Weight: 77.9 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.78 h asleep (6.85 h in bed, deep 0.95 h, REM 1.65 h, awake 0.07 h)
 
 **Week 1 · Day 5**
-Finished: 2026-08-01 09:21:20
+Finished: 2026-07-31 20:21:20
 
 ### Sumo Deadlift (Barbell)
 
@@ -928,19 +932,19 @@ Exercise notes: Miscounted on first set, I did 9 instead of 8
   Set 1: 100.0kg x 9 @ RPE 7 [target: 8 reps, target RPE: 6.5-7] [est_stress=311, real_stress=367]
   Set 2: 100.0kg x 8 @ RPE 6 [target RPE: 6.5-7] [est_stress=311, real_stress=265]
 
-## 2026-07-31
+## 2026-07-30
 
 ### Health / Recovery
 
-- Steps: 4825
-- Distance: 3.99 km
-- Total kcal burned: 2461
-- Weight: 77.9 kg
-- Resting heart rate: 43 bpm
+- Steps: 9719
+- Distance: 7.88 km
+- Total kcal burned: 2334
+- Weight: 78.9 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.30 h asleep (7.42 h in bed, deep 1.38 h, REM 1.38 h, awake 0.12 h)
 
 **Week 1 · Day 4**
-Finished: 2026-07-31 09:13:25
+Finished: 2026-07-30 20:13:25
 
 ### Bench Press (Barbell)
 
@@ -970,18 +974,19 @@ Exercise notes: Added an extra set for fun
   Set 2: 20.0kg x 12 @ RPE 8 [target RPE: 7.5-8]
   Set 3: 20.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 7.5-8]
 
-## 2026-07-29
+## 2026-07-28
 
 ### Health / Recovery
 
-- Steps: 4937
-- Distance: 4.02 km
-- Total kcal burned: 2705
-- Resting heart rate: 43 bpm
+- Steps: 3366
+- Distance: 2.73 km
+- Total kcal burned: 2451
+- Weight: 78.9 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.22 h asleep (7.62 h in bed, deep 0.95 h, REM 1.12 h, awake 0.40 h)
 
 **Week 1 · Day 3**
-Finished: 2026-07-29 09:48:17
+Finished: 2026-07-28 20:48:17
 
 ### Squat (Low Bar)
 
@@ -1013,19 +1018,19 @@ Finished: 2026-07-29 09:48:17
   Set 2: 22.5kg x 6 @ RPE 8 [target RPE: 7-7.5]
   Set 3: 20.0kg x 6 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-07-28
+## 2026-07-27
 
 ### Health / Recovery
 
-- Steps: 3366
-- Distance: 2.73 km
-- Total kcal burned: 2451
-- Weight: 78.9 kg
-- Resting heart rate: 42 bpm
+- Steps: 4011
+- Distance: 3.25 km
+- Total kcal burned: 2263
+- Weight: 78.5 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.15 h asleep (7.40 h in bed, deep 1.42 h, REM 2 h, awake 0.25 h)
 
 **Week 1 · Day 2**
-Finished: 2026-07-28 09:31:25
+Finished: 2026-07-27 20:31:25
 
 ### Sumo Deadlift (Paused)
 
@@ -1052,19 +1057,19 @@ Exercise notes: On third set I tried AI cue , and it made things worse even with
   Set 1: 40.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
   Set 2: 40.0kg x 15 @ RPE 8 [target RPE: 7-7.5]
 
-## 2026-07-27
+## 2026-07-26
 
 ### Health / Recovery
 
-- Steps: 4011
-- Distance: 3.25 km
-- Total kcal burned: 2263
-- Weight: 78.5 kg
+- Steps: 18655
+- Distance: 15.12 km
+- Total kcal burned: 3050
+- Weight: 78 kg
 - Resting heart rate: 44 bpm
 - Sleep: 7.52 h asleep (7.65 h in bed, deep 0.92 h, REM 0.58 h, awake 0.13 h)
 
 **Week 1 · Day 1**
-Finished: 2026-07-27 09:28:49
+Finished: 2026-07-26 20:28:49
 
 ### High Bar Squat (Barbell)
 
@@ -1091,19 +1096,19 @@ Exercise notes: Kept it easy with a hold at the bottom to really feel the muscle
   Set 1: 40.0kg x 15 [target RPE: 6.5-7]
   Set 2: 40.0kg x 15 @ RPE 6 [target RPE: 6.5-7]
 
-## 2026-07-26
+## 2026-07-25
 
 ### Health / Recovery
 
-- Steps: 18655
-- Distance: 15.12 km
-- Total kcal burned: 3050
-- Weight: 78 kg
-- Resting heart rate: 44 bpm
+- Steps: 22941
+- Distance: 18.83 km
+- Total kcal burned: 3027
+- Weight: 78.1 kg
+- Resting heart rate: 46 bpm
 - Sleep: 8.13 h asleep (8.15 h in bed, deep 1.42 h, REM 1.72 h, awake 0.02 h)
 
 **Week 4 · Day 5**
-Finished: 2026-07-26 10:03:35
+Finished: 2026-07-25 21:03:35
 
 ### Squat (Low Bar)
 
@@ -1123,25 +1128,6 @@ Finished: 2026-07-26 10:03:35
   Set 2: 190.0kg x 1 @ RPE 9 [target RPE: 9-9] [est_stress=206, real_stress=206]
   Set 3: 0kg x 0 [target: 1 reps, target RPE: 10-10] [est_stress=-, real_stress=-]
 
-## 2026-07-23
-
-### Health / Recovery
-
-- Steps: 4809
-- Distance: 3.91 km
-- Total kcal burned: 2421
-- Weight: 78.4 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.67 h asleep (7.80 h in bed, deep 1.62 h, REM 1.45 h, awake 0.13 h)
-
-**Week 4 · Day 4**
-Finished: 2026-07-23 09:21:53
-
-### Bench Press (Barbell)
-
-  Set 1: 120.0kg x 2 @ RPE 6 [target RPE: 6-6.5] [est_stress=121, real_stress=115]
-  Set 2: 122.5kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=129, real_stress=136]
-
 ## 2026-07-22
 
 ### Health / Recovery
@@ -1151,17 +1137,15 @@ Finished: 2026-07-23 09:21:53
 - Total kcal burned: 2219
 - Weight: 78.6 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.17 h asleep (7.38 h in bed, deep 1.30 h, REM 1.08 h, awake 0.22 h)
+- Sleep: 7.67 h asleep (7.80 h in bed, deep 1.62 h, REM 1.45 h, awake 0.13 h)
 
-**Week 4 · Day 3**
-Finished: 2026-07-22 10:06:20
+**Week 4 · Day 4**
+Finished: 2026-07-22 20:21:53
 
-### Squat (Low Bar)
+### Bench Press (Barbell)
 
-Exercise notes: Both under rpe 6
-
-  Set 1: 140.0kg x 2 [target RPE: 6-6.5] [est_stress=120, real_stress=-]
-  Set 2: 145.0kg x 2 [target RPE: 6-6.5] [est_stress=133, real_stress=-]
+  Set 1: 120.0kg x 2 @ RPE 6 [target RPE: 6-6.5] [est_stress=121, real_stress=115]
+  Set 2: 122.5kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=129, real_stress=136]
 
 ## 2026-07-21
 
@@ -1172,10 +1156,31 @@ Exercise notes: Both under rpe 6
 - Total kcal burned: 2250
 - Weight: 78.5 kg
 - Resting heart rate: 42 bpm
+- Sleep: 7.17 h asleep (7.38 h in bed, deep 1.30 h, REM 1.08 h, awake 0.22 h)
+
+**Week 4 · Day 3**
+Finished: 2026-07-21 21:06:20
+
+### Squat (Low Bar)
+
+Exercise notes: Both under rpe 6
+
+  Set 1: 140.0kg x 2 [target RPE: 6-6.5] [est_stress=120, real_stress=-]
+  Set 2: 145.0kg x 2 [target RPE: 6-6.5] [est_stress=133, real_stress=-]
+
+## 2026-07-20
+
+### Health / Recovery
+
+- Steps: 4670
+- Distance: 4.24 km
+- Total kcal burned: 2399
+- Weight: 78.2 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.50 h asleep (7.82 h in bed, deep 0.82 h, REM 2.05 h, awake 0.32 h)
 
 **Week 4 · Day 2**
-Finished: 2026-07-21 09:31:09
+Finished: 2026-07-20 20:31:09
 
 ### Bench Press (Paused)
 
@@ -1191,19 +1196,19 @@ Finished: 2026-07-21 09:31:09
   Set 1: 40.0kg x 12 @ RPE 6 [target RPE: 6-6.5]
   Set 2: 45.0kg x 10 @ RPE 6 [target: 12 reps, target RPE: 6-6.5]
 
-## 2026-07-20
+## 2026-07-19
 
 ### Health / Recovery
 
-- Steps: 4670
-- Distance: 4.24 km
-- Total kcal burned: 2399
-- Weight: 78.2 kg
-- Resting heart rate: 42 bpm
+- Steps: 19319
+- Distance: 15.70 km
+- Total kcal burned: 3058
+- Weight: 77.3 kg
+- Resting heart rate: 41 bpm
 - Sleep: 7.50 h asleep (8 h in bed, deep 0.97 h, REM 0.98 h, awake 0.50 h)
 
 **Week 4 · Day 1**
-Finished: 2026-07-20 10:08:02
+Finished: 2026-07-19 21:08:02
 
 ### Squat (Low Bar)
 
@@ -1221,19 +1226,19 @@ Finished: 2026-07-20 10:08:02
 
   Set 1: 25.0kg x 4 [target RPE: 6-6.5]
 
-## 2026-07-19
+## 2026-07-18
 
 ### Health / Recovery
 
-- Steps: 19319
-- Distance: 15.70 km
-- Total kcal burned: 3058
-- Weight: 77.3 kg
-- Resting heart rate: 41 bpm
+- Steps: 10690
+- Distance: 14.67 km
+- Total kcal burned: 3370
+- Weight: 78.8 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.55 h asleep (8.03 h in bed, deep 0.62 h, REM 1.16 h, awake 0.48 h)
 
 **Week 3 · Day 5**
-Finished: 2026-07-19 10:36:52
+Finished: 2026-07-18 21:36:52
 
 ### Sumo Deadlift (Barbell)
 
@@ -1251,18 +1256,18 @@ Finished: 2026-07-19 10:36:52
   Set 1: 120.0kg x 2 @ RPE 6 [target RPE: 6-6] [est_stress=115, real_stress=115]
   Set 2: 122.5kg x 2 @ RPE 6.5 [target RPE: 6-6] [est_stress=122, real_stress=136]
 
-## 2026-07-15
+## 2026-07-14
 
 ### Health / Recovery
 
-- Steps: 17975
-- Distance: 14.84 km
-- Total kcal burned: 2859
-- Resting heart rate: 43 bpm
+- Steps: 14581
+- Distance: 11.81 km
+- Total kcal burned: 2476
+- Resting heart rate: 44 bpm
 - Sleep: 9.45 h asleep (9.90 h in bed, deep 1.02 h, REM 2.47 h, awake 0.45 h)
 
 **Week 3 · Day 4**
-Finished: 2026-07-15 12:20:23
+Finished: 2026-07-14 23:20:23
 
 ### Bench Press (Barbell)
 
@@ -1282,18 +1287,18 @@ Exercise notes: Koh Lanta commercial gym setup: unknown bar weight, no rings, ho
   Set 2: 22.5kg x 10 @ RPE 7.5 [target: 8 reps, target RPE: 7-7.5]
   Set 3: 22.5kg x 10 @ RPE 8.5 [target: 8 reps, target RPE: 7-7.5]
 
-## 2026-07-13
+## 2026-07-12
 
 ### Health / Recovery
 
-- Steps: 14182
-- Distance: 11.49 km
-- Total kcal burned: 2713
-- Resting heart rate: 43 bpm
+- Steps: 6352
+- Distance: 6.09 km
+- Total kcal burned: 2673
+- Resting heart rate: 41 bpm
 - Sleep: 7.17 h asleep (7.17 h in bed, deep 1.02 h, REM 1.88 h, awake 0 h)
 
 **Week 3 · Day 3**
-Finished: 2026-07-13 12:25:04
+Finished: 2026-07-12 23:25:04
 
 ### Squat (Low Bar)
 
@@ -1308,18 +1313,18 @@ Finished: 2026-07-13 12:25:04
 ### Leg Curl
 
 
-## 2026-07-12
+## 2026-07-11
 
 ### Health / Recovery
 
-- Steps: 6352
-- Distance: 6.09 km
-- Total kcal burned: 2673
-- Resting heart rate: 41 bpm
+- Steps: 14028
+- Distance: 11.43 km
+- Total kcal burned: 2572
+- Resting heart rate: 42 bpm
 - Sleep: 8.43 h asleep (8.45 h in bed, deep 1.35 h, REM 1.85 h, awake 0.02 h)
 
 **Week 3 · Day 2**
-Finished: 2026-07-12 11:49:45
+Finished: 2026-07-11 22:49:45
 
 ### Sumo Deadlift (Paused)
 
@@ -1340,18 +1345,18 @@ Finished: 2026-07-12 11:49:45
   Set 2: 56.5kg x 2 @ RPE 9 [est_stress=-, real_stress=22]
   Set 3: 50.0kg x 5 @ RPE 7 [est_stress=-, real_stress=26]
 
-## 2026-07-11
+## 2026-07-10
 
 ### Health / Recovery
 
-- Steps: 14028
-- Distance: 11.43 km
-- Total kcal burned: 2572
-- Resting heart rate: 42 bpm
+- Steps: 18921
+- Distance: 18.29 km
+- Total kcal burned: 3703
+- Resting heart rate: 48 bpm
 - Sleep: 8.13 h asleep (8.28 h in bed, deep 1.50 h, REM 2.03 h, awake 0.15 h)
 
 **Week 3 · Day 1**
-Finished: 2026-07-11 12:32:33
+Finished: 2026-07-10 23:32:33
 
 ### Squat (Low Bar)
 
@@ -1378,10 +1383,10 @@ Exercise notes: Felt between 5 and 6 closer to 5
 - Distance: 18.29 km
 - Total kcal burned: 3703
 - Resting heart rate: 48 bpm
-- Sleep: 1.83 h asleep (2.63 h in bed, deep 0.10 h, REM 0 h, awake 0.80 h)
+- Sleep: 8.13 h asleep (8.28 h in bed, deep 1.50 h, REM 2.03 h, awake 0.15 h)
 
 **Week 2 · Day 5**
-Finished: 2026-07-10 21:58:38
+Finished: 2026-07-10 08:58:38
 
 ### Sumo Deadlift (Barbell)
 
@@ -1404,18 +1409,19 @@ Exercise notes: Despite the bar rolling A LOT and throwing me off balance. I man
   Set 1: 117.5kg x 2 [target RPE: 6-6.5] [est_stress=114, real_stress=-]
   Set 2: 120.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=121, real_stress=128]
 
-## 2026-07-09
+## 2026-07-08
 
 ### Health / Recovery
 
-- Steps: 12069
-- Distance: 9.82 km
-- Total kcal burned: 2603
-- Resting heart rate: 46 bpm
+- Steps: 4518
+- Distance: 4.25 km
+- Total kcal burned: 2936
+- Weight: 78.1 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.08 h asleep (6.20 h in bed, deep 0.97 h, REM 1.10 h, awake 0.12 h)
 
 **Week 2 · Day 4**
-Finished: 2026-07-09 09:07:29
+Finished: 2026-07-08 20:07:29
 
 ### Bench Press (Barbell)
 
@@ -1434,19 +1440,19 @@ Finished: 2026-07-09 09:07:29
   Set 1: 22.5kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
   Set 2: 22.5kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-07-08
+## 2026-07-07
 
 ### Health / Recovery
 
-- Steps: 4518
-- Distance: 4.25 km
-- Total kcal burned: 2936
-- Weight: 78.1 kg
-- Resting heart rate: 43 bpm
+- Steps: 6412
+- Distance: 5.25 km
+- Total kcal burned: 2670
+- Weight: 78.2 kg
+- Resting heart rate: 45 bpm
 - Sleep: 7.36 h asleep (7.50 h in bed, deep 1.45 h, REM 0.93 h, awake 0.13 h)
 
 **Week 2 · Day 3**
-Finished: 2026-07-08 10:26:57
+Finished: 2026-07-07 21:26:57
 
 ### Squat (Low Bar)
 
@@ -1464,19 +1470,18 @@ Finished: 2026-07-08 10:26:57
   Set 1: 30.0kg x 10 @ RPE 6 [target RPE: 7-7.5]
   Set 2: 35.0kg x 10 @ RPE 8.5 [target RPE: 7-7.5]
 
-## 2026-07-07
+## 2026-07-06
 
 ### Health / Recovery
 
-- Steps: 6412
-- Distance: 5.25 km
-- Total kcal burned: 2670
-- Weight: 78.2 kg
-- Resting heart rate: 45 bpm
+- Steps: 6302
+- Distance: 5.16 km
+- Total kcal burned: 2327
+- Resting heart rate: 42 bpm
 - Sleep: 4.43 h asleep (4.50 h in bed, deep 0.72 h, REM 0.38 h, awake 0.07 h)
 
 **Week 2 · Day 2**
-Finished: 2026-07-07 10:51:50
+Finished: 2026-07-06 21:51:50
 
 ### Sumo Deadlift (Paused)
 
@@ -1494,18 +1499,19 @@ Finished: 2026-07-07 10:51:50
   Set 1: 10.0kg x 12 @ RPE 6 [target RPE: 7-7.5]
   Set 2: 12.0kg x 8 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-07-06
+## 2026-07-05
 
 ### Health / Recovery
 
-- Steps: 6302
-- Distance: 5.16 km
-- Total kcal burned: 2327
-- Resting heart rate: 42 bpm
+- Steps: 21520
+- Distance: 17.43 km
+- Total kcal burned: 2568
+- Weight: 78.9 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.60 h asleep (7.88 h in bed, deep 1.07 h, REM 1.18 h, awake 0.28 h)
 
 **Week 2 · Day 1**
-Finished: 2026-07-06 10:33:07
+Finished: 2026-07-05 21:33:07
 
 ### Squat (Low Bar)
 
@@ -1523,18 +1529,19 @@ Finished: 2026-07-06 10:33:07
   Set 1: 25.0kg x 5 @ RPE 7 [target RPE: 7-7.5]
   Set 2: 25.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-07-04
+## 2026-07-03
 
 ### Health / Recovery
 
-- Steps: 23341
-- Distance: 18.97 km
-- Total kcal burned: 3101
-- Resting heart rate: 43 bpm
+- Steps: 13885
+- Distance: 11.83 km
+- Total kcal burned: 2494
+- Weight: 80 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.61 h asleep (7.84 h in bed, deep 1.05 h, REM 1.12 h, awake 0.23 h)
 
 **Week 1 · Day 5**
-Finished: 2026-07-04 10:12:27
+Finished: 2026-07-03 21:12:27
 
 ### Sumo Deadlift (Barbell)
 
@@ -1554,18 +1561,19 @@ Exercise notes: Second set felt between 5.5 to 6
   Set 1: 115.0kg x 3 @ RPE 6 [target RPE: 6-6.5] [est_stress=160, real_stress=151]
   Set 2: 117.5kg x 3 @ RPE 6 [target RPE: 6-6.5] [est_stress=171, real_stress=161]
 
-## 2026-07-02
+## 2026-07-01
 
 ### Health / Recovery
 
-- Steps: 7451
-- Distance: 6.05 km
-- Total kcal burned: 2382
-- Resting heart rate: 42 bpm
+- Steps: 3628
+- Distance: 3.06 km
+- Total kcal burned: 2338
+- Weight: 78.5 kg
+- Resting heart rate: 40 bpm
 - Sleep: 7.18 h asleep (7.57 h in bed, deep 1.15 h, REM 1.08 h, awake 0.38 h)
 
 **Week 1 · Day 4**
-Finished: 2026-07-02 10:01:13
+Finished: 2026-07-01 21:01:13
 
 ### Bench Press (Barbell)
 
@@ -1582,19 +1590,19 @@ Finished: 2026-07-02 10:01:13
 
   Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 7-7.5]
 
-## 2026-07-01
+## 2026-06-30
 
 ### Health / Recovery
 
-- Steps: 3628
-- Distance: 3.06 km
-- Total kcal burned: 2338
-- Weight: 78.5 kg
-- Resting heart rate: 40 bpm
+- Steps: 4104
+- Distance: 3.36 km
+- Total kcal burned: 2322
+- Weight: 78.3 kg
+- Resting heart rate: 39 bpm
 - Sleep: 7.53 h asleep (7.78 h in bed, deep 1.43 h, REM 1.70 h, awake 0.25 h)
 
 **Week 1 · Day 3**
-Finished: 2026-07-01 10:07:11
+Finished: 2026-06-30 21:07:11
 
 ### Squat (Low Bar)
 
@@ -1614,19 +1622,19 @@ Exercise notes: Did drop set with two legs @ 50kg did 8 reps finished around rpe
   Set 1: 30.0kg x 10 @ RPE 6.5 [target RPE: 7-7.5]
   Set 2: 30.0kg x 10 @ RPE 6.5 [target RPE: 7-7.5]
 
-## 2026-06-30
+## 2026-06-29
 
 ### Health / Recovery
 
-- Steps: 4104
-- Distance: 3.36 km
-- Total kcal burned: 2322
-- Weight: 78.3 kg
-- Resting heart rate: 39 bpm
+- Steps: 7833
+- Distance: 6.38 km
+- Total kcal burned: 2269
+- Weight: 79.2 kg
+- Resting heart rate: 38 bpm
 - Sleep: 7.30 h asleep (7.45 h in bed, deep 1.15 h, REM 1.17 h, awake 0.15 h)
 
 **Week 1 · Day 2**
-Finished: 2026-06-30 10:08:51
+Finished: 2026-06-29 21:08:51
 
 ### Sumo Deadlift (Paused)
 
@@ -1645,19 +1653,19 @@ Finished: 2026-06-30 10:08:51
   Set 1: 10.0kg x 12 @ RPE 6.5 [target RPE: 7-7.5]
   Set 2: 10.0kg x 14 @ RPE 7.5 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-06-29
+## 2026-06-28
 
 ### Health / Recovery
 
-- Steps: 7833
-- Distance: 6.38 km
-- Total kcal burned: 2269
-- Weight: 79.2 kg
-- Resting heart rate: 38 bpm
+- Steps: 28767
+- Distance: 23.36 km
+- Total kcal burned: 2772
+- Weight: 78.8 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.40 h asleep (7.40 h in bed, deep 1.11 h, REM 1.40 h, awake 0 h)
 
 **Week 1 · Day 1**
-Finished: 2026-06-29 10:10:03
+Finished: 2026-06-28 21:10:03
 
 ### Squat (Low Bar)
 
@@ -1675,18 +1683,19 @@ Finished: 2026-06-29 10:10:03
   Set 1: 25.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
   Set 2: 25.0kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-06-27
+## 2026-06-26
 
 ### Health / Recovery
 
-- Steps: 25510
-- Distance: 20.79 km
-- Total kcal burned: 3117
-- Resting heart rate: 43 bpm
+- Steps: 14699
+- Distance: 12.03 km
+- Total kcal burned: 2705
+- Weight: 78.2 kg
+- Resting heart rate: 44 bpm
 - Sleep: 6.42 h asleep (6.42 h in bed, deep 1.03 h, REM 1.22 h, awake 0 h)
 
 **Week 4 · Day 5**
-Finished: 2026-06-27 10:02:46
+Finished: 2026-06-26 21:02:46
 
 ### Sumo Deadlift (Barbell)
 
@@ -1706,19 +1715,19 @@ Exercise notes: Felt between 5.5 to 6
   Set 1: 115.0kg x 3 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=178, real_stress=210]
   Set 2: 115.0kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=178, real_stress=186]
 
-## 2026-06-25
+## 2026-06-24
 
 ### Health / Recovery
 
-- Steps: 20149
-- Distance: 16.36 km
-- Total kcal burned: 2930
-- Weight: 77.8 kg
+- Steps: 12222
+- Distance: 9.92 km
+- Total kcal burned: 2816
+- Weight: 78.2 kg
 - Resting heart rate: 44 bpm
 - Sleep: 5.17 h asleep (5.20 h in bed, deep 1.22 h, REM 1 h, awake 0.03 h)
 
 **Week 4 · Day 4**
-Finished: 2026-06-25 07:50:39
+Finished: 2026-06-24 18:50:39
 
 ### Bench Press (Barbell)
 
@@ -1747,19 +1756,19 @@ Finished: 2026-06-25 07:50:39
   Set 1: 22.5kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
   Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 7-7.5]
 
-## 2026-06-24
+## 2026-06-23
 
 ### Health / Recovery
 
-- Steps: 12222
-- Distance: 9.92 km
-- Total kcal burned: 2816
-- Weight: 78.2 kg
-- Resting heart rate: 44 bpm
+- Steps: 20558
+- Distance: 16.68 km
+- Total kcal burned: 3621
+- Weight: 78.3 kg
+- Resting heart rate: 43 bpm
 - Sleep: 3.60 h asleep (3.60 h in bed, deep 0.78 h, REM 0.67 h, awake 0 h)
 
 **Week 4 · Day 3**
-Finished: 2026-06-24 08:18:48
+Finished: 2026-06-23 19:18:48
 
 ### Squat (Low Bar)
 
@@ -1782,19 +1791,19 @@ Finished: 2026-06-24 08:18:48
   Set 1: 25.0kg x 14 @ RPE 7 [target: 12 reps, target RPE: 6.5-7]
   Set 2: 25.0kg x 12 @ RPE 6 [target RPE: 6.5-7]
 
-## 2026-06-23
+## 2026-06-22
 
 ### Health / Recovery
 
-- Steps: 20558
-- Distance: 16.68 km
-- Total kcal burned: 3621
+- Steps: 9752
+- Distance: 7.90 km
+- Total kcal burned: 2627
 - Weight: 78.3 kg
-- Resting heart rate: 43 bpm
+- Resting heart rate: 41 bpm
 - Sleep: 5.17 h asleep (5.17 h in bed, deep 1.17 h, REM 1.20 h, awake 0 h)
 
 **Week 4 · Day 2**
-Finished: 2026-06-23 08:50:24
+Finished: 2026-06-22 19:50:24
 
 ### Sumo Deadlift (Paused)
 
@@ -1817,19 +1826,19 @@ Finished: 2026-06-23 08:50:24
   Set 1: 40.0kg x 15 @ RPE 8 [target RPE: 7-7.5]
   Set 2: 40.0kg x 15 @ RPE 7 [target RPE: 7-7.5]
 
-## 2026-06-22
+## 2026-06-21
 
 ### Health / Recovery
 
-- Steps: 9752
-- Distance: 7.90 km
-- Total kcal burned: 2627
-- Weight: 78.3 kg
-- Resting heart rate: 41 bpm
+- Steps: 29734
+- Distance: 24.09 km
+- Total kcal burned: 2697
+- Weight: 78.8 kg
+- Resting heart rate: 43 bpm
 - Sleep: 5.08 h asleep (5.17 h in bed, deep 1.63 h, REM 0.68 h, awake 0.08 h)
 
 **Week 4 · Day 1**
-Finished: 2026-06-22 08:10:49
+Finished: 2026-06-21 19:10:49
 
 ### Squat (Paused)
 
@@ -1852,18 +1861,19 @@ Finished: 2026-06-22 08:10:49
   Set 1: 45.0kg x 15 @ RPE 7 [target: 12 reps, target RPE: 7-7.5]
   Set 2: 45.0kg x 15 @ RPE 7.5 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-06-20
+## 2026-06-19
 
 ### Health / Recovery
 
-- Steps: 29755
-- Distance: 24.14 km
-- Total kcal burned: 3647
+- Steps: 5335
+- Distance: 4.38 km
+- Total kcal burned: 2447
+- Weight: 79.4 kg
 - Resting heart rate: 44 bpm
 - Sleep: 7.35 h asleep (7.38 h in bed, deep 1.27 h, REM 1.48 h, awake 0.03 h)
 
 **Week 3 · Day 5**
-Finished: 2026-06-20 10:25:31
+Finished: 2026-06-19 21:25:31
 
 ### Sumo Deadlift (Barbell)
 
@@ -1881,18 +1891,19 @@ Finished: 2026-06-20 10:25:31
   Set 1: 112.5kg x 4 @ RPE 7 [target RPE: 7-7.5] [est_stress=247, real_stress=232]
   Set 2: 115.0kg x 4 @ RPE 8 [target RPE: 7-7.5] [est_stress=264, real_stress=310]
 
-## 2026-06-18
+## 2026-06-17
 
 ### Health / Recovery
 
-- Steps: 9622
-- Distance: 7.91 km
-- Total kcal burned: 2874
-- Resting heart rate: 47 bpm
+- Steps: 16634
+- Distance: 15.32 km
+- Total kcal burned: 2861
+- Weight: 78.3 kg
+- Resting heart rate: 43 bpm
 - Sleep: 5.58 h asleep (5.60 h in bed, deep 1.23 h, REM 0.77 h, awake 0.02 h)
 
 **Week 3 · Day 4**
-Finished: 2026-06-18 09:44:29
+Finished: 2026-06-17 20:44:29
 
 ### Bench Press (Barbell)
 
@@ -1923,19 +1934,19 @@ Finished: 2026-06-18 09:44:29
   Set 1: 22.5kg x 10 @ RPE 7.5 [target RPE: 8-8.5]
   Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 8-8.5]
 
-## 2026-06-17
+## 2026-06-16
 
 ### Health / Recovery
 
-- Steps: 16634
-- Distance: 15.32 km
-- Total kcal burned: 2861
-- Weight: 78.3 kg
-- Resting heart rate: 43 bpm
+- Steps: 4747
+- Distance: 3.93 km
+- Total kcal burned: 2549
+- Weight: 78.6 kg
+- Resting heart rate: 40 bpm
 - Sleep: 5.48 h asleep (5.58 h in bed, deep 0.90 h, REM 1.23 h, awake 0.10 h)
 
 **Week 3 · Day 3**
-Finished: 2026-06-17 09:47:32
+Finished: 2026-06-16 20:47:32
 
 ### Squat (Low Bar)
 
@@ -1962,19 +1973,19 @@ Finished: 2026-06-17 09:47:32
   Set 2: 30.0kg x 12 @ RPE 9 [target RPE: 7.5-8]
   Set 3: 25.0kg x 12 @ RPE 8 [target RPE: 7.5-8]
 
-## 2026-06-16
+## 2026-06-15
 
 ### Health / Recovery
 
-- Steps: 4747
-- Distance: 3.93 km
-- Total kcal burned: 2549
-- Weight: 78.6 kg
-- Resting heart rate: 40 bpm
+- Steps: 11264
+- Distance: 9.32 km
+- Total kcal burned: 2531
+- Weight: 78.5 kg
+- Resting heart rate: 42 bpm
 - Sleep: 5.43 h asleep (5.45 h in bed, deep 1.10 h, REM 0.85 h, awake 0.02 h)
 
 **Week 3 · Day 2**
-Finished: 2026-06-16 09:50:05
+Finished: 2026-06-15 20:50:05
 
 ### Sumo Deadlift (Paused)
 
@@ -1999,19 +2010,19 @@ Finished: 2026-06-16 09:50:05
   Set 2: 45.0kg x 13 @ RPE 8 [target: 15 reps, target RPE: 7-7.5]
   Set 3: 45.0kg x 12 @ RPE 8 [target: 15 reps, target RPE: 7-7.5]
 
-## 2026-06-15
+## 2026-06-14
 
 ### Health / Recovery
 
-- Steps: 11264
-- Distance: 9.32 km
-- Total kcal burned: 2531
-- Weight: 78.5 kg
-- Resting heart rate: 42 bpm
+- Steps: 20986
+- Distance: 17 km
+- Total kcal burned: 2738
+- Weight: 79.4 kg
+- Resting heart rate: 46 bpm
 - Sleep: 7.33 h asleep (7.35 h in bed, deep 1.33 h, REM 1.97 h, awake 0.02 h)
 
 **Week 3 · Day 1**
-Finished: 2026-06-15 10:27:17
+Finished: 2026-06-14 21:27:17
 
 ### Squat (Paused)
 
@@ -2034,18 +2045,19 @@ Finished: 2026-06-15 10:27:17
   Set 1: 45.0kg x 15 @ RPE 7.5 [target: 12 reps, target RPE: 7-7.5]
   Set 2: 45.0kg x 15 @ RPE 7.5 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-06-13
+## 2026-06-12
 
 ### Health / Recovery
 
-- Steps: 19492
-- Distance: 16.07 km
-- Total kcal burned: 3349
-- Resting heart rate: 46 bpm
+- Steps: 5514
+- Distance: 4.77 km
+- Total kcal burned: 2170
+- Weight: 79.2 kg
+- Resting heart rate: 43 bpm
 - Sleep: 5.20 h asleep (5.25 h in bed, deep 1.57 h, REM 0.53 h, awake 0.05 h)
 
 **Week 2 · Day 5**
-Finished: 2026-06-13 09:44:33
+Finished: 2026-06-12 20:44:33
 
 ### Sumo Deadlift (Barbell)
 
@@ -2065,18 +2077,19 @@ Exercise notes: Felt between 5 and 5.5
   Set 1: 110.0kg x 4 @ RPE 7 [target RPE: 7-7.5] [est_stress=231, real_stress=217]
   Set 2: 110.0kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=231, real_stress=244]
 
-## 2026-06-11
+## 2026-06-10
 
 ### Health / Recovery
 
-- Steps: 4580
-- Distance: 3.73 km
-- Total kcal burned: 2562
-- Resting heart rate: 40 bpm
+- Steps: 7114
+- Distance: 5.78 km
+- Total kcal burned: 2478
+- Weight: 79.1 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.85 h asleep (7.88 h in bed, deep 0.98 h, REM 1.53 h, awake 0.03 h)
 
 **Week 2 · Day 4**
-Finished: 2026-06-11 09:29:53
+Finished: 2026-06-10 20:29:53
 
 ### Bench Press (Barbell)
 
@@ -2106,19 +2119,19 @@ Finished: 2026-06-11 09:29:53
   Set 1: 22.5kg x 10 @ RPE 8 [target RPE: 8-8.5]
   Set 2: 22.5kg x 10 @ RPE 9.5 [target RPE: 8-8.5]
 
-## 2026-06-10
+## 2026-06-09
 
 ### Health / Recovery
 
-- Steps: 7114
-- Distance: 5.78 km
-- Total kcal burned: 2478
-- Weight: 79.1 kg
-- Resting heart rate: 43 bpm
+- Steps: 5788
+- Distance: 5.71 km
+- Total kcal burned: 2563
+- Weight: 79 kg
+- Resting heart rate: 41 bpm
 - Sleep: 6.37 h asleep (6.55 h in bed, deep 1.10 h, REM 1.27 h, awake 0.18 h)
 
 **Week 2 · Day 3**
-Finished: 2026-06-10 10:27:03
+Finished: 2026-06-09 21:27:03
 
 ### Squat (Low Bar)
 
@@ -2145,19 +2158,19 @@ Finished: 2026-06-10 10:27:03
   Set 2: 30.0kg x 12 @ RPE 9 [target RPE: 7.5-8]
   Set 3: 25.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
 
-## 2026-06-09
+## 2026-06-08
 
 ### Health / Recovery
 
-- Steps: 5788
-- Distance: 5.71 km
-- Total kcal burned: 2563
-- Weight: 79 kg
+- Steps: 6540
+- Distance: 5.57 km
+- Total kcal burned: 2442
+- Weight: 78.6 kg
 - Resting heart rate: 41 bpm
 - Sleep: 7.92 h asleep (8.40 h in bed, deep 1.17 h, REM 0.92 h, awake 0.48 h)
 
 **Week 2 · Day 2**
-Finished: 2026-06-09 09:42:07
+Finished: 2026-06-08 20:42:07
 
 ### Sumo Deadlift (Paused)
 
@@ -2182,19 +2195,19 @@ Finished: 2026-06-09 09:42:07
   Set 1: 40.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
   Set 2: 40.0kg x 15 @ RPE 8 [target RPE: 7-7.5]
 
-## 2026-06-08
+## 2026-06-07
 
 ### Health / Recovery
 
-- Steps: 6540
-- Distance: 5.57 km
-- Total kcal burned: 2442
-- Weight: 78.6 kg
-- Resting heart rate: 41 bpm
+- Steps: 16132
+- Distance: 13.20 km
+- Total kcal burned: 2585
+- Weight: 79 kg
+- Resting heart rate: 44 bpm
 - Sleep: 6.77 h asleep (7.82 h in bed, deep 0.95 h, REM 1.02 h, awake 1.05 h)
 
 **Week 2 · Day 1**
-Finished: 2026-06-08 09:46:58
+Finished: 2026-06-07 20:46:58
 
 ### Squat (Paused)
 
@@ -2228,10 +2241,10 @@ Finished: 2026-06-08 09:46:58
 - Total kcal burned: 2585
 - Weight: 79 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.57 h asleep (7.77 h in bed, deep 0.53 h, REM 1.68 h, awake 0.20 h)
+- Sleep: 6.77 h asleep (7.82 h in bed, deep 0.95 h, REM 1.02 h, awake 1.05 h)
 
 **Week 1 · Day 5**
-Finished: 2026-06-07 20:42:38
+Finished: 2026-06-07 07:42:38
 
 ### Sumo Deadlift (Barbell)
 
@@ -2249,19 +2262,19 @@ Finished: 2026-06-07 20:42:38
   Set 1: 107.5kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=242, real_stress=230]
   Set 2: 107.5kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=242, real_stress=254]
 
-## 2026-06-04
+## 2026-06-03
 
 ### Health / Recovery
 
-- Steps: 3828
-- Distance: 3.19 km
-- Total kcal burned: 2410
-- Weight: 79.2 kg
-- Resting heart rate: 42 bpm
+- Steps: 7867
+- Distance: 6.46 km
+- Total kcal burned: 2412
+- Weight: 78.8 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.05 h asleep (7.32 h in bed, deep 1.17 h, REM 1.38 h, awake 0.27 h)
 
 **Week 1 · Day 4**
-Finished: 2026-06-04 09:34:48
+Finished: 2026-06-03 20:34:48
 
 ### Bench Press (Barbell)
 
@@ -2291,19 +2304,19 @@ Finished: 2026-06-04 09:34:48
   Set 1: 22.5kg x 10 @ RPE 8 [target RPE: 8-8.5]
   Set 2: 22.5kg x 8 @ RPE 9.5 [target: 10 reps, target RPE: 8-8.5]
 
-## 2026-06-03
+## 2026-06-02
 
 ### Health / Recovery
 
-- Steps: 7867
-- Distance: 6.46 km
-- Total kcal burned: 2412
-- Weight: 78.8 kg
+- Steps: 9272
+- Distance: 7.57 km
+- Total kcal burned: 2942
+- Weight: 78.6 kg
 - Resting heart rate: 43 bpm
 - Sleep: 7.23 h asleep (7.52 h in bed, deep 0.85 h, REM 1 h, awake 0.28 h)
 
 **Week 1 · Day 3**
-Finished: 2026-06-03 11:39:39
+Finished: 2026-06-02 22:39:39
 
 ### Squat (Low Bar)
 
@@ -2330,19 +2343,19 @@ Finished: 2026-06-03 11:39:39
   Set 2: 30.0kg x 8 @ RPE 9.5 [target: 12 reps, target RPE: 7.5-8]
   Set 3: 25.0kg x 12 @ RPE 7.5 [target RPE: 7.5-8]
 
-## 2026-06-02
+## 2026-06-01
 
 ### Health / Recovery
 
-- Steps: 9272
-- Distance: 7.57 km
-- Total kcal burned: 2942
-- Weight: 78.6 kg
-- Resting heart rate: 43 bpm
+- Steps: 4381
+- Distance: 3.65 km
+- Total kcal burned: 2384
+- Weight: 78.4 kg
+- Resting heart rate: 41 bpm
 - Sleep: 7.03 h asleep (7.82 h in bed, deep 1.05 h, REM 1.30 h, awake 0.78 h)
 
 **Week 1 · Day 2**
-Finished: 2026-06-02 09:40:36
+Finished: 2026-06-01 20:40:36
 
 ### Sumo Deadlift (Paused)
 
@@ -2367,19 +2380,19 @@ Finished: 2026-06-02 09:40:36
   Set 1: 40.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
   Set 2: 40.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-06-01
+## 2026-05-31
 
 ### Health / Recovery
 
-- Steps: 4381
-- Distance: 3.65 km
-- Total kcal burned: 2384
-- Weight: 78.4 kg
-- Resting heart rate: 41 bpm
+- Steps: 19415
+- Distance: 15.85 km
+- Total kcal burned: 2564
+- Weight: 79.2 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.25 h asleep (7.25 h in bed, deep 1.28 h, REM 1.87 h, awake 0 h)
 
 **Week 1 · Day 1**
-Finished: 2026-06-01 09:51:11
+Finished: 2026-05-31 20:51:11
 
 ### Squat (Paused)
 
@@ -2407,18 +2420,19 @@ Exercise notes: I tried 50kg but it's way too hard.
   Set 2: 45.0kg x 12 @ RPE 8 [target RPE: 7-7.5]
   Set 3: 45.0kg x 8 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-05-30
+## 2026-05-29
 
 ### Health / Recovery
 
-- Steps: 18860
-- Distance: 15.34 km
-- Total kcal burned: 3149
-- Resting heart rate: 44 bpm
+- Steps: 2370
+- Distance: 1.95 km
+- Total kcal burned: 2104
+- Weight: 79.8 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.82 h asleep (6.88 h in bed, deep 1.57 h, REM 0.92 h, awake 0.07 h)
 
 **Week 4 · Day 5**
-Finished: 2026-05-30 10:08:43
+Finished: 2026-05-29 21:08:43
 
 ### Sumo Deadlift (Barbell)
 
@@ -2440,18 +2454,19 @@ Exercise notes: Second set felt closer to 5.5
   Set 1: 110.0kg x 4 @ RPE 6 [target RPE: 6-6.5] [est_stress=187, real_stress=177]
   Set 2: 110.0kg x 4 @ RPE 7 [target RPE: 6-6.5] [est_stress=187, real_stress=217]
 
-## 2026-05-28
+## 2026-05-27
 
 ### Health / Recovery
 
-- Steps: 5709
-- Distance: 4.88 km
-- Total kcal burned: 2562
-- Resting heart rate: 43 bpm
+- Steps: 2511
+- Distance: 2.20 km
+- Total kcal burned: 2492
+- Weight: 78.8 kg
+- Resting heart rate: 42 bpm
 - Sleep: 6.63 h asleep (6.85 h in bed, deep 0.75 h, REM 1.05 h, awake 0.22 h)
 
 **Week 4 · Day 4**
-Finished: 2026-05-28 09:25:48
+Finished: 2026-05-27 20:25:48
 
 ### Bench Press (Barbell)
 
@@ -2479,19 +2494,19 @@ Finished: 2026-05-28 09:25:48
   Set 1: 20.0kg x 12 @ RPE 8 [target RPE: 7-7.5]
   Set 2: 20.0kg x 12 @ RPE 9.5 [target RPE: 7-7.5]
 
-## 2026-05-27
+## 2026-05-26
 
 ### Health / Recovery
 
-- Steps: 2511
-- Distance: 2.20 km
-- Total kcal burned: 2492
-- Weight: 78.8 kg
-- Resting heart rate: 42 bpm
+- Steps: 2785
+- Distance: 3.22 km
+- Total kcal burned: 2455
+- Weight: 78.9 kg
+- Resting heart rate: 40 bpm
 - Sleep: 6.55 h asleep (6.88 h in bed, deep 1.15 h, REM 1.15 h, awake 0.33 h)
 
 **Week 4 · Day 3**
-Finished: 2026-05-27 10:12:16
+Finished: 2026-05-26 21:12:16
 
 ### Squat (Low Bar)
 
@@ -2514,19 +2529,19 @@ Finished: 2026-05-27 10:12:16
   Set 1: 30.0kg x 12 @ RPE 8.5 [target RPE: 6.5-7]
   Set 2: 25.0kg x 12 @ RPE 6 [target RPE: 6.5-7]
 
-## 2026-05-26
+## 2026-05-25
 
 ### Health / Recovery
 
-- Steps: 2785
-- Distance: 3.22 km
-- Total kcal burned: 2455
-- Weight: 78.9 kg
+- Steps: 4547
+- Distance: 4.01 km
+- Total kcal burned: 2298
+- Weight: 79.1 kg
 - Resting heart rate: 40 bpm
 - Sleep: 7.03 h asleep (7.20 h in bed, deep 1.47 h, REM 1.15 h, awake 0.17 h)
 
 **Week 4 · Day 2**
-Finished: 2026-05-26 09:41:45
+Finished: 2026-05-25 20:41:45
 
 ### Sumo Deadlift (Paused)
 
@@ -2549,19 +2564,19 @@ Finished: 2026-05-26 09:41:45
   Set 1: 40.0kg x 15 @ RPE 7 [target RPE: 7-7.5]
   Set 2: 40.0kg x 15 @ RPE 7 [target RPE: 7-7.5]
 
-## 2026-05-25
+## 2026-05-24
 
 ### Health / Recovery
 
-- Steps: 4547
-- Distance: 4.01 km
-- Total kcal burned: 2298
-- Weight: 79.1 kg
-- Resting heart rate: 40 bpm
+- Steps: 20305
+- Distance: 16.45 km
+- Total kcal burned: 2561
+- Weight: 80.1 kg
+- Resting heart rate: 41 bpm
 - Sleep: 7.22 h asleep (7.23 h in bed, deep 2.03 h, REM 1.18 h, awake 0.02 h)
 
 **Week 4 · Day 1**
-Finished: 2026-05-25 09:42:35
+Finished: 2026-05-24 20:42:35
 
 ### Bench Press (Paused)
 
@@ -2586,18 +2601,19 @@ Exercise notes: 1st set was rpe 5-ish
   Set 1: 45.0kg x 15 @ RPE 7 [target RPE: 6.5-7]
   Set 2: 45.0kg x 15 @ RPE 7 [target RPE: 6.5-7]
 
-## 2026-05-23
+## 2026-05-22
 
 ### Health / Recovery
 
-- Steps: 18137
-- Distance: 14.77 km
-- Total kcal burned: 2894
-- Resting heart rate: 42 bpm
+- Steps: 7084
+- Distance: 5.78 km
+- Total kcal burned: 2263
+- Weight: 79.7 kg
+- Resting heart rate: 41 bpm
 - Sleep: 7.48 h asleep (7.57 h in bed, deep 1.73 h, REM 1.35 h, awake 0.08 h)
 
 **Week 3 · Day 5**
-Finished: 2026-05-23 09:47:32
+Finished: 2026-05-22 20:47:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -2619,18 +2635,19 @@ Exercise notes: 137.5 felt easy ( <5 ) 140 felt maybe rpe 5
   Set 1: 110.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=259, real_stress=246]
   Set 2: 112.5kg x 5 @ RPE 8.5 [target RPE: 6.5-7] [est_stress=277, real_stress=400]
 
-## 2026-05-21
+## 2026-05-20
 
 ### Health / Recovery
 
-- Steps: 7977
-- Distance: 7.60 km
-- Total kcal burned: 2625
-- Resting heart rate: 44 bpm
+- Steps: 6324
+- Distance: 5.28 km
+- Total kcal burned: 2477
+- Weight: 78.8 kg
+- Resting heart rate: 42 bpm
 - Sleep: 6.70 h asleep (7.38 h in bed, deep 0.98 h, REM 0.82 h, awake 0.68 h)
 
 **Week 3 · Day 4**
-Finished: 2026-05-21 09:28:50
+Finished: 2026-05-20 20:28:50
 
 ### Bench Press (Barbell)
 
@@ -2660,19 +2677,19 @@ Finished: 2026-05-21 09:28:50
   Set 1: 20.0kg x 12 @ RPE 8 [target RPE: 7.5-8]
   Set 2: 20.0kg x 12 @ RPE 9.5 [target RPE: 7.5-8]
 
-## 2026-05-20
+## 2026-05-19
 
 ### Health / Recovery
 
-- Steps: 6324
-- Distance: 5.28 km
-- Total kcal burned: 2477
+- Steps: 3768
+- Distance: 3.15 km
+- Total kcal burned: 2468
 - Weight: 78.8 kg
 - Resting heart rate: 42 bpm
 - Sleep: 6.92 h asleep (7.15 h in bed, deep 1.18 h, REM 1.57 h, awake 0.23 h)
 
 **Week 3 · Day 3**
-Finished: 2026-05-20 09:55:09
+Finished: 2026-05-19 20:55:09
 
 ### Squat (Low Bar)
 
@@ -2698,19 +2715,19 @@ Finished: 2026-05-20 09:55:09
   Set 2: 30.0kg x 12 @ RPE 8.5 [target RPE: 7-7.5]
   Set 3: 25.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-05-19
+## 2026-05-18
 
 ### Health / Recovery
 
-- Steps: 3768
-- Distance: 3.15 km
-- Total kcal burned: 2468
-- Weight: 78.8 kg
-- Resting heart rate: 42 bpm
+- Steps: 2631
+- Distance: 4.10 km
+- Total kcal burned: 2400
+- Weight: 79 kg
+- Resting heart rate: 41 bpm
 - Sleep: 6.35 h asleep (6.48 h in bed, deep 0.77 h, REM 1.42 h, awake 0.13 h)
 
 **Week 3 · Day 2**
-Finished: 2026-05-19 09:40:31
+Finished: 2026-05-18 20:40:31
 
 ### Sumo Deadlift (Paused)
 
@@ -2734,19 +2751,19 @@ Finished: 2026-05-19 09:40:31
   Set 1: 40.0kg x 15 @ RPE 6.5 [target RPE: 7-7.5]
   Set 2: 40.0kg x 15 @ RPE 7 [target RPE: 7-7.5]
 
-## 2026-05-18
+## 2026-05-17
 
 ### Health / Recovery
 
-- Steps: 2631
-- Distance: 4.10 km
-- Total kcal burned: 2400
-- Weight: 79 kg
-- Resting heart rate: 41 bpm
+- Steps: 27624
+- Distance: 22.46 km
+- Total kcal burned: 2854
+- Weight: 79.3 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.73 h asleep (7.82 h in bed, deep 1.55 h, REM 1.58 h, awake 0.08 h)
 
 **Week 3 · Day 1**
-Finished: 2026-05-18 09:53:47
+Finished: 2026-05-17 20:53:47
 
 ### Bench Press (Paused)
 
@@ -2771,18 +2788,19 @@ Finished: 2026-05-18 09:53:47
   Set 1: 40.0kg x 15 [target RPE: 6.5-7]
   Set 2: 42.5kg x 15 @ RPE 6 [target RPE: 6.5-7]
 
-## 2026-05-16
+## 2026-05-15
 
 ### Health / Recovery
 
-- Steps: 22977
-- Distance: 18.64 km
-- Total kcal burned: 3327
-- Resting heart rate: 43 bpm
+- Steps: 2032
+- Distance: 2.14 km
+- Total kcal burned: 2097
+- Weight: 79.6 kg
+- Resting heart rate: 41 bpm
 - Sleep: 6.74 h asleep (6.81 h in bed, deep 1.23 h, REM 1.44 h, awake 0.07 h)
 
 **Week 2 · Day 5**
-Finished: 2026-05-16 09:47:14
+Finished: 2026-05-15 20:47:14
 
 ### Sumo Deadlift (Barbell)
 
@@ -2800,18 +2818,19 @@ Finished: 2026-05-16 09:47:14
   Set 1: 107.5kg x 6 @ RPE 6 [target RPE: 6.5-7] [est_stress=290, real_stress=247]
   Set 2: 110.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=311, real_stress=367]
 
-## 2026-05-14
+## 2026-05-13
 
 ### Health / Recovery
 
-- Steps: 5279
-- Distance: 4.29 km
-- Total kcal burned: 2479
+- Steps: 4243
+- Distance: 3.49 km
+- Total kcal burned: 2500
+- Weight: 78.8 kg
 - Resting heart rate: 43 bpm
 - Sleep: 7.03 h asleep (7.15 h in bed, deep 1.10 h, REM 1.23 h, awake 0.12 h)
 
 **Week 2 · Day 4**
-Finished: 2026-05-14 09:18:37
+Finished: 2026-05-13 20:18:37
 
 ### Bench Press (Barbell)
 
@@ -2842,19 +2861,19 @@ Finished: 2026-05-14 09:18:37
   Set 2: 20.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 7.5-8]
   Set 3: 20.0kg x 8 @ RPE 8 [target: 12 reps, target RPE: 7.5-8]
 
-## 2026-05-13
+## 2026-05-12
 
 ### Health / Recovery
 
-- Steps: 4243
-- Distance: 3.49 km
-- Total kcal burned: 2500
-- Weight: 78.8 kg
-- Resting heart rate: 43 bpm
+- Steps: 4375
+- Distance: 3.58 km
+- Total kcal burned: 2501
+- Weight: 78.5 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.23 h asleep (7.65 h in bed, deep 0.82 h, REM 1.23 h, awake 0.42 h)
 
 **Week 2 · Day 3**
-Finished: 2026-05-13 09:55:43
+Finished: 2026-05-12 20:55:43
 
 ### Squat (Low Bar)
 
@@ -2880,19 +2899,19 @@ Finished: 2026-05-13 09:55:43
   Set 2: 30.0kg x 12 @ RPE 8.5 [target RPE: 7-7.5]
   Set 3: 30.0kg x 11 @ RPE 9.5 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-05-12
+## 2026-05-11
 
 ### Health / Recovery
 
-- Steps: 4375
-- Distance: 3.58 km
-- Total kcal burned: 2501
+- Steps: 4192
+- Distance: 3.55 km
+- Total kcal burned: 2474
 - Weight: 78.5 kg
 - Resting heart rate: 42 bpm
 - Sleep: 7.25 h asleep (7.88 h in bed, deep 1.05 h, REM 1.80 h, awake 0.63 h)
 
 **Week 2 · Day 2**
-Finished: 2026-05-12 09:45:32
+Finished: 2026-05-11 20:45:32
 
 ### Sumo Deadlift (Paused)
 
@@ -2918,19 +2937,19 @@ Finished: 2026-05-12 09:45:32
   Set 2: 40.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
   Set 3: 40.0kg x 15 @ RPE 8.5 [target RPE: 7-7.5]
 
-## 2026-05-11
+## 2026-05-10
 
 ### Health / Recovery
 
-- Steps: 4192
-- Distance: 3.55 km
-- Total kcal burned: 2474
-- Weight: 78.5 kg
-- Resting heart rate: 42 bpm
+- Steps: 20348
+- Distance: 16.69 km
+- Total kcal burned: 2566
+- Weight: 79.9 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.58 h asleep (7.63 h in bed, deep 1.03 h, REM 1.48 h, awake 0.05 h)
 
 **Week 2 · Day 1**
-Finished: 2026-05-11 09:47:12
+Finished: 2026-05-10 20:47:12
 
 ### Bench Press (Paused)
 
@@ -2955,18 +2974,19 @@ Finished: 2026-05-11 09:47:12
   Set 1: 40.0kg x 15 @ RPE 6.5 [target RPE: 6.5-7]
   Set 2: 42.5kg x 15 @ RPE 7 [target RPE: 6.5-7]
 
-## 2026-05-09
+## 2026-05-08
 
 ### Health / Recovery
 
-- Steps: 17252
-- Distance: 14.23 km
-- Total kcal burned: 3195
+- Steps: 3969
+- Distance: 3.21 km
+- Total kcal burned: 2099
+- Weight: 79.8 kg
 - Resting heart rate: 43 bpm
 - Sleep: 7.30 h asleep (7.30 h in bed, deep 1.10 h, REM 1.20 h, awake 0 h)
 
 **Week 1 · Day 5**
-Finished: 2026-05-09 09:53:12
+Finished: 2026-05-08 20:53:12
 
 ### Sumo Deadlift (Barbell)
 
@@ -2989,18 +3009,19 @@ Finished: 2026-05-09 09:53:12
   Set 1: 85.0kg x 12 @ RPE 6.5
   Set 2: 90.0kg x 12 @ RPE 9
 
-## 2026-05-07
+## 2026-05-06
 
 ### Health / Recovery
 
-- Steps: 6039
-- Distance: 4.97 km
-- Total kcal burned: 2413
-- Resting heart rate: 44 bpm
+- Steps: 5652
+- Distance: 7.69 km
+- Total kcal burned: 2636
+- Weight: 79 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.20 h asleep (7.70 h in bed, deep 0.92 h, REM 1.33 h, awake 0.50 h)
 
 **Week 1 · Day 4**
-Finished: 2026-05-07 09:23:07
+Finished: 2026-05-06 20:23:07
 
 ### Bench Press (Barbell)
 
@@ -3025,19 +3046,19 @@ Finished: 2026-05-07 09:23:07
   Set 1: 20.0kg x 12 @ RPE 7.5 [target RPE: 7.5-8]
   Set 2: 20.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 7.5-8]
 
-## 2026-05-06
+## 2026-05-05
 
 ### Health / Recovery
 
-- Steps: 5652
-- Distance: 7.69 km
-- Total kcal burned: 2636
+- Steps: 12768
+- Distance: 10.34 km
+- Total kcal burned: 2908
 - Weight: 79 kg
 - Resting heart rate: 43 bpm
 - Sleep: 7.64 h asleep (7.96 h in bed, deep 1.43 h, REM 0.98 h, awake 0.32 h)
 
 **Week 1 · Day 3**
-Finished: 2026-05-06 10:16:30
+Finished: 2026-05-05 21:16:30
 
 ### Squat (Low Bar)
 
@@ -3066,19 +3087,19 @@ Exercise notes: Added extra rep because of discount
   Set 2: 32.5kg x 12 @ RPE 9 [target RPE: 7-7.5]
   Set 3: 30.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-05-05
+## 2026-05-04
 
 ### Health / Recovery
 
-- Steps: 12768
-- Distance: 10.34 km
-- Total kcal burned: 2908
-- Weight: 79 kg
-- Resting heart rate: 43 bpm
+- Steps: 4046
+- Distance: 3.28 km
+- Total kcal burned: 2702
+- Weight: 78.7 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.11 h asleep (7.26 h in bed, deep 0.95 h, REM 1.15 h, awake 0.15 h)
 
 **Week 1 · Day 2**
-Finished: 2026-05-05 09:47:16
+Finished: 2026-05-04 20:47:16
 
 ### Sumo Deadlift (Paused)
 
@@ -3104,19 +3125,19 @@ Finished: 2026-05-05 09:47:16
   Set 2: 35.0kg x 15 @ RPE 7 [target RPE: 7-7.5]
   Set 3: 35.0kg x 15 @ RPE 7.5 [target RPE: 7-7.5]
 
-## 2026-05-04
+## 2026-05-03
 
 ### Health / Recovery
 
-- Steps: 4046
-- Distance: 3.28 km
-- Total kcal burned: 2702
-- Weight: 78.7 kg
-- Resting heart rate: 44 bpm
+- Steps: 17303
+- Distance: 14.15 km
+- Total kcal burned: 2553
+- Weight: 78.6 kg
+- Resting heart rate: 45 bpm
 - Sleep: 6.87 h asleep (6.88 h in bed, deep 1.35 h, REM 1.25 h, awake 0.02 h)
 
 **Week 1 · Day 1**
-Finished: 2026-05-04 09:26:55
+Finished: 2026-05-03 20:26:55
 
 ### Bench Press (Paused)
 
@@ -3141,18 +3162,19 @@ Finished: 2026-05-04 09:26:55
   Set 1: 45.0kg x 14 @ RPE 9 [target: 15 reps, target RPE: 6.5-7]
   Set 2: 40.0kg x 15 @ RPE 7 [target RPE: 6.5-7]
 
-## 2026-05-02
+## 2026-05-01
 
 ### Health / Recovery
 
-- Steps: 15736
-- Distance: 12.76 km
-- Total kcal burned: 3383
-- Resting heart rate: 43 bpm
+- Steps: 3578
+- Distance: 2.91 km
+- Total kcal burned: 2105
+- Weight: 79.6 kg
+- Resting heart rate: 39 bpm
 - Sleep: 5.97 h asleep (6.70 h in bed, deep 1.17 h, REM 0.87 h, awake 0.73 h)
 
 **Week 4 · Day 5**
-Finished: 2026-05-02 10:20:32
+Finished: 2026-05-01 21:20:32
 
 ### Squat (Low Bar)
 
@@ -3172,18 +3194,19 @@ Finished: 2026-05-02 10:20:32
   Set 2: 192.5kg x 1 @ RPE 9.5 [target RPE: 9-9] [est_stress=214, real_stress=241]
   Set 3: 195.0kg x 1 @ RPE 10 [target RPE: 9.5-10] [est_stress=264, real_stress=278]
 
-## 2026-04-30
+## 2026-04-29
 
 ### Health / Recovery
 
-- Steps: 20364
-- Distance: 16.49 km
-- Total kcal burned: 2777
-- Resting heart rate: 40 bpm
+- Steps: 20953
+- Distance: 17.32 km
+- Total kcal burned: 2524
+- Weight: 79.8 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.30 h asleep (7.32 h in bed, deep 1.75 h, REM 0.92 h, awake 0.02 h)
 
 **Week 4 · Day 4**
-Finished: 2026-04-30 08:38:52
+Finished: 2026-04-29 19:38:52
 
 ### Bench Press (Barbell)
 
@@ -3209,10 +3232,10 @@ Finished: 2026-04-30 08:38:52
 - Distance: 15.30 km
 - Total kcal burned: 2531
 - Resting heart rate: 41 bpm
-- Sleep: 7.05 h asleep (7.23 h in bed, deep 1.33 h, REM 1.68 h, awake 0.18 h)
+- Sleep: 7.59 h asleep (7.62 h in bed, deep 1.58 h, REM 1.23 h, awake 0.03 h)
 
 **Week 4 · Day 3**
-Finished: 2026-04-28 19:24:32
+Finished: 2026-04-28 06:24:32
 
 ### Squat (Low Bar)
 
@@ -3226,18 +3249,19 @@ Finished: 2026-04-28 19:24:32
 
   Set 1: 185.0kg x 1 @ RPE 7 [target RPE: 6-6.5] [est_stress=109, real_stress=127]
 
-## 2026-04-27
+## 2026-04-26
 
 ### Health / Recovery
 
-- Steps: 16002
-- Distance: 13 km
-- Total kcal burned: 2560
-- Resting heart rate: 41 bpm
+- Steps: 22964
+- Distance: 18.64 km
+- Total kcal burned: 2783
+- Weight: 79 kg
+- Resting heart rate: 42 bpm
 - Sleep: 6.70 h asleep (6.93 h in bed, deep 0.92 h, REM 1.37 h, awake 0.23 h)
 
 **Week 4 · Day 2**
-Finished: 2026-04-27 07:31:54
+Finished: 2026-04-26 18:31:54
 
 ### Incline Bench Press (Dumbbell)
 
@@ -3254,19 +3278,19 @@ Finished: 2026-04-27 07:31:54
   Set 1: 7.0kg x 12 @ RPE 6 [target RPE: 6-6.5]
   Set 2: 7.0kg x 12 @ RPE 6 [target RPE: 6-6.5]
 
-## 2026-04-26
+## 2026-04-25
 
 ### Health / Recovery
 
-- Steps: 22964
-- Distance: 18.64 km
-- Total kcal burned: 2783
-- Weight: 79 kg
-- Resting heart rate: 42 bpm
+- Steps: 19276
+- Distance: 15.69 km
+- Total kcal burned: 3054
+- Weight: 79.2 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.02 h asleep (6.53 h in bed, deep 1.35 h, REM 0.17 h, awake 0.52 h)
 
 **Week 4 · Day 1**
-Finished: 2026-04-26 08:00:37
+Finished: 2026-04-25 19:00:37
 
 ### Squat (Low Bar)
 
@@ -3286,19 +3310,19 @@ Finished: 2026-04-26 08:00:37
   Set 1: 20.0kg x 5 @ RPE 6 [target RPE: 6-6.5]
   Set 2: 20.0kg x 5 @ RPE 6.5 [target RPE: 6-6.5]
 
-## 2026-04-25
+## 2026-04-24
 
 ### Health / Recovery
 
-- Steps: 19276
-- Distance: 15.69 km
-- Total kcal burned: 3054
-- Weight: 79.2 kg
-- Resting heart rate: 43 bpm
+- Steps: 20055
+- Distance: 16.24 km
+- Total kcal burned: 2448
+- Weight: 79.7 kg
+- Resting heart rate: 41 bpm
 - Sleep: 6.07 h asleep (6.17 h in bed, deep 1.60 h, REM 0.98 h, awake 0.10 h)
 
 **Week 3 · Day 5**
-Finished: 2026-04-25 08:14:33
+Finished: 2026-04-24 19:14:33
 
 ### Sumo Deadlift (Barbell)
 
@@ -3321,18 +3345,19 @@ Finished: 2026-04-25 08:14:33
   Set 2: 125.0kg x 2 @ RPE 6.5 [target RPE: 6-6] [est_stress=139, real_stress=155]
   Set 3: 125.0kg x 2 @ RPE 7 [target RPE: 6-6] [est_stress=139, real_stress=171]
 
-## 2026-04-23
+## 2026-04-22
 
 ### Health / Recovery
 
-- Steps: 22242
-- Distance: 18.03 km
-- Total kcal burned: 2703
-- Resting heart rate: 43 bpm
+- Steps: 17049
+- Distance: 13.89 km
+- Total kcal burned: 2662
+- Weight: 80.5 kg
+- Resting heart rate: 42 bpm
 - Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
 
 **Week 3 · Day 4**
-Finished: 2026-04-23 07:56:26
+Finished: 2026-04-22 18:56:26
 
 ### Bench Press (Barbell)
 
@@ -3364,29 +3389,29 @@ Finished: 2026-04-23 07:56:26
 - Total kcal burned: 2662
 - Weight: 80.5 kg
 - Resting heart rate: 42 bpm
-- Sleep: 6.33 h asleep (6.45 h in bed, deep 1.07 h, REM 0.98 h, awake 0.12 h)
+- Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
 
 **Week 3 · Day 3**
-Finished: 2026-04-22 21:13:57
+Finished: 2026-04-22 08:13:57
 
 ### Squat (Low Bar)
 
   Set 1: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=133, real_stress=140]
   Set 2: 145.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=133, real_stress=140]
 
-## 2026-04-21
+## 2026-04-20
 
 ### Health / Recovery
 
-- Steps: 21385
-- Distance: 17.36 km
-- Total kcal burned: 3008
-- Weight: 79.8 kg
-- Resting heart rate: 43 bpm
+- Steps: 10074
+- Distance: 8.20 km
+- Total kcal burned: 2700
+- Weight: 79.2 kg
+- Resting heart rate: 40 bpm
 - Sleep: 4.58 h asleep (5.05 h in bed, deep 0.48 h, REM 0.28 h, awake 0.47 h)
 
 **Week 3 · Day 2**
-Finished: 2026-04-21 07:46:28
+Finished: 2026-04-20 18:46:28
 
 ### Sumo Deadlift (Paused)
 
@@ -3404,19 +3429,19 @@ Finished: 2026-04-21 07:46:28
   Set 1: 10.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
   Set 2: 10.0kg x 12 @ RPE 8.5 [target RPE: 7-7.5]
 
-## 2026-04-20
+## 2026-04-19
 
 ### Health / Recovery
 
-- Steps: 10074
-- Distance: 8.20 km
-- Total kcal burned: 2700
-- Weight: 79.2 kg
-- Resting heart rate: 40 bpm
+- Steps: 19299
+- Distance: 15.82 km
+- Total kcal burned: 2558
+- Weight: 80.2 kg
+- Resting heart rate: 42 bpm
 - Sleep: 7.80 h asleep (7.95 h in bed, deep 1.45 h, REM 1.58 h, awake 0.15 h)
 
 **Week 3 · Day 1**
-Finished: 2026-04-20 10:03:11
+Finished: 2026-04-19 21:03:11
 
 ### Squat (Low Bar)
 
@@ -3435,18 +3460,19 @@ Finished: 2026-04-20 10:03:11
   Set 1: 25.0kg x 5 @ RPE 8 [target RPE: 7-7.5]
   Set 2: 25.0kg x 5 @ RPE 8 [target RPE: 7-7.5]
 
-## 2026-04-18
+## 2026-04-17
 
 ### Health / Recovery
 
-- Steps: 16801
-- Distance: 13.69 km
-- Total kcal burned: 2907
+- Steps: 3086
+- Distance: 2.50 km
+- Total kcal burned: 2102
+- Weight: 80 kg
 - Resting heart rate: 43 bpm
 - Sleep: 7.63 h asleep (7.65 h in bed, deep 1.15 h, REM 1.83 h, awake 0.02 h)
 
 **Week 2 · Day 5**
-Finished: 2026-04-18 10:26:21
+Finished: 2026-04-17 21:26:21
 
 ### Sumo Deadlift (Barbell)
 
@@ -3468,18 +3494,19 @@ Finished: 2026-04-18 10:26:21
   Set 1: 115.0kg x 3 @ RPE 6 [target RPE: 6-6.5] [est_stress=172, real_stress=163]
   Set 2: 117.5kg x 5 @ RPE 8 [target: 3 reps, target RPE: 6-6.5] [est_stress=184, real_stress=445]
 
-## 2026-04-16
+## 2026-04-15
 
 ### Health / Recovery
 
-- Steps: 3055
-- Distance: 2.47 km
-- Total kcal burned: 2356
-- Resting heart rate: 43 bpm
+- Steps: 3503
+- Distance: 2.86 km
+- Total kcal burned: 2282
+- Weight: 79.9 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Week 2 · Day 4**
-Finished: 2026-04-16 09:37:42
+Finished: 2026-04-15 20:37:42
 
 ### Bench Press (Barbell)
 
@@ -3507,19 +3534,19 @@ Finished: 2026-04-16 09:37:42
   Set 1: 35.0kg x 10 @ RPE 8.5
   Set 2: 35.0kg x 10 @ RPE 8.5
 
-## 2026-04-15
+## 2026-04-14
 
 ### Health / Recovery
 
-- Steps: 3503
-- Distance: 2.86 km
-- Total kcal burned: 2282
-- Weight: 79.9 kg
-- Resting heart rate: 44 bpm
+- Steps: 9341
+- Distance: 10.01 km
+- Total kcal burned: 2990
+- Weight: 80 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
 
 **Week 2 · Day 3**
-Finished: 2026-04-15 10:04:17
+Finished: 2026-04-14 21:04:17
 
 ### Squat (Low Bar)
 
@@ -3542,19 +3569,19 @@ Finished: 2026-04-15 10:04:17
   Set 3: 55.0kg x 10 @ RPE 7 [target RPE: 7.5-8]
   Set 4: 55.0kg x 10 @ RPE 7.5 [target RPE: 7.5-8]
 
-## 2026-04-14
+## 2026-04-13
 
 ### Health / Recovery
 
-- Steps: 9341
-- Distance: 10.01 km
-- Total kcal burned: 2990
+- Steps: 4616
+- Distance: 3.75 km
+- Total kcal burned: 2370
 - Weight: 80 kg
-- Resting heart rate: 43 bpm
+- Resting heart rate: 42 bpm
 - Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
 
 **Week 2 · Day 2**
-Finished: 2026-04-14 09:43:00
+Finished: 2026-04-13 20:43:00
 
 ### Sumo Deadlift (Paused)
 
@@ -3575,19 +3602,19 @@ Finished: 2026-04-14 09:43:00
   Set 1: 10.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 7.5-8]
   Set 2: 10.0kg x 15 @ RPE 8.5 [target: 12 reps, target RPE: 7.5-8]
 
-## 2026-04-13
+## 2026-04-12
 
 ### Health / Recovery
 
-- Steps: 4616
-- Distance: 3.75 km
-- Total kcal burned: 2370
-- Weight: 80 kg
-- Resting heart rate: 42 bpm
+- Steps: 15031
+- Distance: 12.29 km
+- Total kcal burned: 2523
+- Weight: 80.9 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Week 2 · Day 1**
-Finished: 2026-04-13 10:01:11
+Finished: 2026-04-12 21:01:11
 
 ### Squat (Low Bar)
 
@@ -3611,18 +3638,19 @@ Finished: 2026-04-13 10:01:11
   Set 1: 7.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
   Set 2: 7.0kg x 20 @ RPE 9.5 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-04-11
+## 2026-04-10
 
 ### Health / Recovery
 
-- Steps: 15123
-- Distance: 12.35 km
-- Total kcal burned: 3651
-- Resting heart rate: 44 bpm
+- Steps: 2842
+- Distance: 2.31 km
+- Total kcal burned: 2127
+- Weight: 80.1 kg
+- Resting heart rate: 46 bpm
 - Sleep: 7.33 h asleep (7.38 h in bed, deep 1.98 h, REM 1.07 h, awake 0.05 h)
 
 **Week 1 · Day 5**
-Finished: 2026-04-11 09:59:25
+Finished: 2026-04-10 20:59:25
 
 ### Sumo Deadlift (Barbell)
 
@@ -3641,18 +3669,19 @@ Finished: 2026-04-11 09:59:25
   Set 1: 115.0kg x 3 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=172, real_stress=182]
   Set 2: 115.0kg x 7 @ RPE 9 [target: 3 reps, target RPE: 6-6.5] [est_stress=172, real_stress=701]
 
-## 2026-04-09
+## 2026-04-08
 
 ### Health / Recovery
 
-- Steps: 4834
-- Distance: 3.98 km
-- Total kcal burned: 2809
-- Resting heart rate: 47 bpm
+- Steps: 4529
+- Distance: 4.25 km
+- Total kcal burned: 2536
+- Weight: 79.1 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.12 h asleep (7.42 h in bed, deep 1.10 h, REM 1.02 h, awake 0.30 h)
 
 **Week 1 · Day 4**
-Finished: 2026-04-09 09:29:57
+Finished: 2026-04-08 20:29:57
 
 ### Bench Press (Barbell)
 
@@ -3679,19 +3708,19 @@ Finished: 2026-04-09 09:29:57
   Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
   Set 3: 22.5kg x 10 @ RPE 9 [target RPE: 7.5-8]
 
-## 2026-04-08
+## 2026-04-07
 
 ### Health / Recovery
 
-- Steps: 4529
-- Distance: 4.25 km
-- Total kcal burned: 2536
-- Weight: 79.1 kg
+- Steps: 7700
+- Distance: 6.69 km
+- Total kcal burned: 2595
+- Weight: 79.2 kg
 - Resting heart rate: 44 bpm
 - Sleep: 6.67 h asleep (7.25 h in bed, deep 0.95 h, REM 0.70 h, awake 0.58 h)
 
 **Week 1 · Day 3**
-Finished: 2026-04-08 09:51:03
+Finished: 2026-04-07 20:51:03
 
 ### Squat (Low Bar)
 
@@ -3714,19 +3743,19 @@ Finished: 2026-04-08 09:51:03
   Set 2: 60.0kg x 10 @ RPE 8.5 [target RPE: 7.5-8]
   Set 3: 60.0kg x 10 @ RPE 8 [target RPE: 7.5-8]
 
-## 2026-04-07
+## 2026-04-06
 
 ### Health / Recovery
 
-- Steps: 7700
-- Distance: 6.69 km
-- Total kcal burned: 2595
-- Weight: 79.2 kg
-- Resting heart rate: 44 bpm
+- Steps: 7375
+- Distance: 6.24 km
+- Total kcal burned: 2983
+- Weight: 79.4 kg
+- Resting heart rate: 45 bpm
 - Sleep: 6.75 h asleep (7.33 h in bed, deep 1 h, REM 1.33 h, awake 0.58 h)
 
 **Week 1 · Day 2**
-Finished: 2026-04-07 10:02:00
+Finished: 2026-04-06 21:02:00
 
 ### Sumo Deadlift (Paused)
 
@@ -3750,19 +3779,19 @@ Finished: 2026-04-07 10:02:00
   Set 3: 10.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 7.5-8]
   Set 4: 10.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 7.5-8]
 
-## 2026-04-06
+## 2026-04-05
 
 ### Health / Recovery
 
-- Steps: 7375
-- Distance: 6.24 km
-- Total kcal burned: 2983
-- Weight: 79.4 kg
-- Resting heart rate: 45 bpm
+- Steps: 9892
+- Distance: 8.01 km
+- Total kcal burned: 2383
+- Weight: 80.3 kg
+- Resting heart rate: 43 bpm
 - Sleep: 7.23 h asleep (7.82 h in bed, deep 1.25 h, REM 1.13 h, awake 0.58 h)
 
 **Week 1 · Day 1**
-Finished: 2026-04-06 10:02:59
+Finished: 2026-04-05 21:02:59
 
 ### Squat (Low Bar)
 
@@ -3788,18 +3817,19 @@ Finished: 2026-04-06 10:02:59
   Set 2: 7.0kg x 18 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
   Set 3: 7.0kg x 17 @ RPE 8 [target: 12 reps, target RPE: 7-7.5]
 
-## 2026-04-04
+## 2026-04-03
 
 ### Health / Recovery
 
-- Steps: 10087
-- Distance: 8.19 km
-- Total kcal burned: 2805
+- Steps: 8804
+- Distance: 7.13 km
+- Total kcal burned: 2499
+- Weight: 79.8 kg
 - Resting heart rate: 46 bpm
 - Sleep: 7.53 h asleep (7.55 h in bed, deep 1.32 h, REM 1.33 h, awake 0.02 h)
 
 **Week 3 · Day 5**
-Finished: 2026-04-04 09:56:17
+Finished: 2026-04-03 20:56:17
 
 ### Sumo Deadlift (Barbell)
 
@@ -3821,19 +3851,19 @@ Finished: 2026-04-04 09:56:17
   Set 2: 115.0kg x 5 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=355, real_stress=459]
   Set 3: 112.5kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=332, real_stress=391]
 
-## 2026-04-02
+## 2026-04-01
 
 ### Health / Recovery
 
-- Steps: 9315
-- Distance: 7.56 km
-- Total kcal burned: 2684
-- Weight: 79.3 kg
-- Resting heart rate: 46 bpm
+- Steps: 4043
+- Distance: 3.27 km
+- Total kcal burned: 2616
+- Weight: 79.2 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.12 h asleep (7.22 h in bed, deep 1.10 h, REM 1.55 h, awake 0.10 h)
 
 **Week 3 · Day 4**
-Finished: 2026-04-02 09:47:04
+Finished: 2026-04-01 20:47:04
 
 ### Bench Press (Barbell)
 
@@ -3869,19 +3899,19 @@ Finished: 2026-04-02 09:47:04
   Set 2: 22.5kg x 10 @ RPE 8.5 [target RPE: 8.5-9]
   Set 3: 22.5kg x 10 @ RPE 8.5 [target RPE: 8.5-9]
 
-## 2026-04-01
+## 2026-03-31
 
 ### Health / Recovery
 
-- Steps: 4043
-- Distance: 3.27 km
-- Total kcal burned: 2616
-- Weight: 79.2 kg
-- Resting heart rate: 44 bpm
+- Steps: 7351
+- Distance: 6.02 km
+- Total kcal burned: 2524
+- Weight: 79.6 kg
+- Resting heart rate: 46 bpm
 - Sleep: 7.23 h asleep (7.45 h in bed, deep 1.20 h, REM 0.90 h, awake 0.22 h)
 
 **Week 3 · Day 3**
-Finished: 2026-04-01 10:05:23
+Finished: 2026-03-31 21:05:23
 
 ### Tempo Squat (Barbell)
 
@@ -3907,19 +3937,19 @@ Finished: 2026-04-01 10:05:23
   Set 2: 55.0kg x 10 @ RPE 8 [target RPE: 8-8.5]
   Set 3: 55.0kg x 10 @ RPE 9 [target RPE: 8-8.5]
 
-## 2026-03-31
+## 2026-03-30
 
 ### Health / Recovery
 
-- Steps: 7351
-- Distance: 6.02 km
-- Total kcal burned: 2524
+- Steps: 4235
+- Distance: 3.82 km
+- Total kcal burned: 2623
 - Weight: 79.6 kg
-- Resting heart rate: 46 bpm
+- Resting heart rate: 45 bpm
 - Sleep: 6.36 h asleep (6.86 h in bed, deep 0.93 h, REM 0.35 h, awake 0.50 h)
 
 **Week 3 · Day 2**
-Finished: 2026-03-31 10:00:00
+Finished: 2026-03-30 21:00:00
 
 ### Sumo Deadlift (Paused)
 
@@ -3947,19 +3977,19 @@ Finished: 2026-03-31 10:00:00
   Set 2: 6.0kg x 15 @ RPE 7.5 [target: 12 reps, target RPE: 8-8.5]
   Set 3: 6.0kg x 15 @ RPE 7.5 [target: 12 reps, target RPE: 8-8.5]
 
-## 2026-03-30
+## 2026-03-29
 
 ### Health / Recovery
 
-- Steps: 4235
-- Distance: 3.82 km
-- Total kcal burned: 2623
-- Weight: 79.6 kg
+- Steps: 17278
+- Distance: 14.05 km
+- Total kcal burned: 2569
+- Weight: 80.5 kg
 - Resting heart rate: 45 bpm
 - Sleep: 7.52 h asleep (7.72 h in bed, deep 1.10 h, REM 0.93 h, awake 0.20 h)
 
 **Week 3 · Day 1**
-Finished: 2026-03-30 10:09:15
+Finished: 2026-03-29 21:09:15
 
 ### Squat (Low Bar)
 
@@ -3987,18 +4017,19 @@ Finished: 2026-03-30 10:09:15
   Set 2: 27.5kg x 5 @ RPE 9 [target RPE: 8-8.5]
   Set 3: 25.0kg x 5 @ RPE 8.5 [target RPE: 8-8.5]
 
-## 2026-03-28
+## 2026-03-27
 
 ### Health / Recovery
 
-- Steps: 12900
-- Distance: 10.55 km
-- Total kcal burned: 3134
+- Steps: 9579
+- Distance: 7.80 km
+- Total kcal burned: 2389
+- Weight: 80.2 kg
 - Resting heart rate: 45 bpm
 - Sleep: 7.28 h asleep (7.40 h in bed, deep 1.67 h, REM 1.30 h, awake 0.12 h)
 
 **Week 2 · Day 5**
-Finished: 2026-03-28 10:03:01
+Finished: 2026-03-27 21:03:01
 
 ### Sumo Deadlift (Barbell)
 
@@ -4020,18 +4051,19 @@ Finished: 2026-03-28 10:03:01
   Set 2: 110.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=278, real_stress=329]
   Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=278, real_stress=292]
 
-## 2026-03-26
+## 2026-03-25
 
 ### Health / Recovery
 
-- Steps: 7376
-- Distance: 6.03 km
-- Total kcal burned: 2505
-- Resting heart rate: 45 bpm
+- Steps: 4115
+- Distance: 3.33 km
+- Total kcal burned: 2628
+- Weight: 79.6 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.22 h asleep (7.70 h in bed, deep 1.35 h, REM 1.17 h, awake 0.48 h)
 
 **Week 2 · Day 4**
-Finished: 2026-03-26 09:55:32
+Finished: 2026-03-25 20:55:32
 
 ### Bench Press (Barbell)
 
@@ -4067,19 +4099,19 @@ Finished: 2026-03-26 09:55:32
   Set 2: 22.5kg x 10 @ RPE 8 [target RPE: 8.5-9]
   Set 3: 22.5kg x 9 @ RPE 9 [target: 10 reps, target RPE: 8.5-9]
 
-## 2026-03-25
+## 2026-03-24
 
 ### Health / Recovery
 
-- Steps: 4115
-- Distance: 3.33 km
-- Total kcal burned: 2628
-- Weight: 79.6 kg
+- Steps: 4490
+- Distance: 3.86 km
+- Total kcal burned: 2576
+- Weight: 79.8 kg
 - Resting heart rate: 44 bpm
 - Sleep: 6.75 h asleep (7.05 h in bed, deep 0.82 h, REM 1.28 h, awake 0.30 h)
 
 **Week 2 · Day 3**
-Finished: 2026-03-25 10:05:56
+Finished: 2026-03-24 21:05:56
 
 ### Tempo Squat (Barbell)
 
@@ -4105,19 +4137,19 @@ Finished: 2026-03-25 10:05:56
   Set 2: 55.0kg x 10 @ RPE 8 [target RPE: 8-8.5]
   Set 3: 55.0kg x 10 @ RPE 9 [target RPE: 8-8.5]
 
-## 2026-03-24
+## 2026-03-23
 
 ### Health / Recovery
 
-- Steps: 4490
-- Distance: 3.86 km
-- Total kcal burned: 2576
-- Weight: 79.8 kg
-- Resting heart rate: 44 bpm
+- Steps: 8389
+- Distance: 6.80 km
+- Total kcal burned: 2609
+- Weight: 78.8 kg
+- Resting heart rate: 41 bpm
 - Sleep: 7.15 h asleep (7.53 h in bed, deep 0.78 h, REM 1.53 h, awake 0.38 h)
 
 **Week 2 · Day 2**
-Finished: 2026-03-24 10:02:03
+Finished: 2026-03-23 21:02:03
 
 ### Sumo Deadlift (Paused)
 
@@ -4145,19 +4177,19 @@ Finished: 2026-03-24 10:02:03
   Set 2: 6.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 8-8.5]
   Set 3: 6.0kg x 15 @ RPE 8 [target: 12 reps, target RPE: 8-8.5]
 
-## 2026-03-23
+## 2026-03-22
 
 ### Health / Recovery
 
-- Steps: 8389
-- Distance: 6.80 km
-- Total kcal burned: 2609
-- Weight: 78.8 kg
-- Resting heart rate: 41 bpm
+- Steps: 19726
+- Distance: 15.98 km
+- Total kcal burned: 2677
+- Weight: 80 kg
+- Resting heart rate: 44 bpm
 - Sleep: 8.22 h asleep (8.33 h in bed, deep 1.95 h, REM 2.08 h, awake 0.12 h)
 
 **Week 2 · Day 1**
-Finished: 2026-03-23 09:59:05
+Finished: 2026-03-22 20:59:05
 
 ### Squat (Low Bar)
 
@@ -4186,18 +4218,19 @@ Finished: 2026-03-23 09:59:05
   Set 2: 25.0kg x 5 @ RPE 8.5 [target RPE: 8-8.5]
   Set 3: 22.5kg x 5 @ RPE 8.5 [target RPE: 8-8.5]
 
-## 2026-03-21
+## 2026-03-20
 
 ### Health / Recovery
 
-- Steps: 17130
-- Distance: 13.87 km
-- Total kcal burned: 3037
-- Resting heart rate: 45 bpm
+- Steps: 8200
+- Distance: 6.71 km
+- Total kcal burned: 2638
+- Weight: 79.8 kg
+- Resting heart rate: 44 bpm
 - Sleep: 7.62 h asleep (7.64 h in bed, deep 1.07 h, REM 1.52 h, awake 0.02 h)
 
 **Week 1 · Day 5**
-Finished: 2026-03-21 10:03:57
+Finished: 2026-03-20 21:03:57
 
 ### Sumo Deadlift (Barbell)
 
@@ -4219,18 +4252,19 @@ Finished: 2026-03-21 10:03:57
   Set 2: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=278, real_stress=292]
   Set 3: 110.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=278, real_stress=292]
 
-## 2026-03-19
+## 2026-03-18
 
 ### Health / Recovery
 
-- Steps: 6439
-- Distance: 5.22 km
-- Total kcal burned: 2759
-- Resting heart rate: 46 bpm
+- Steps: 2399
+- Distance: 2.49 km
+- Total kcal burned: 2474
+- Weight: 79.2 kg
+- Resting heart rate: 45 bpm
 - Sleep: 6.23 h asleep (6.77 h in bed, deep 0.55 h, REM 0.77 h, awake 0.53 h)
 
 **Week 1 · Day 4**
-Finished: 2026-03-19 09:35:38
+Finished: 2026-03-18 20:35:38
 
 ### Bench Press (Barbell)
 
@@ -4277,10 +4311,10 @@ Exercise notes: Interestingly every single time my left leg is stronger and fini
 - Total kcal burned: 2474
 - Weight: 79.2 kg
 - Resting heart rate: 45 bpm
-- Sleep: 6.85 h asleep (7.18 h in bed, deep 0.98 h, REM 1.28 h, awake 0.33 h)
+- Sleep: 6.23 h asleep (6.77 h in bed, deep 0.55 h, REM 0.77 h, awake 0.53 h)
 
 **Week 1 · Day 3**
-Finished: 2026-03-18 13:17:46
+Finished: 2026-03-18 00:17:46
 
 ### Tempo Squat (Barbell)
 
@@ -4306,19 +4340,19 @@ Finished: 2026-03-18 13:17:46
   Set 2: 52.5kg x 10 @ RPE 8.5 [target RPE: 8-8.5]
   Set 3: 50.0kg x 10 @ RPE 8 [target RPE: 8-8.5]
 
-## 2026-03-17
+## 2026-03-16
 
 ### Health / Recovery
 
-- Steps: 11939
-- Distance: 9.67 km
-- Total kcal burned: 3191
-- Weight: 78.8 kg
-- Resting heart rate: 46 bpm
+- Steps: 4151
+- Distance: 3.48 km
+- Total kcal burned: 2537
+- Weight: 79.3 kg
+- Resting heart rate: 44 bpm
 - Sleep: 5.58 h asleep (5.92 h in bed, deep 1.03 h, REM 1.02 h, awake 0.33 h)
 
 **Week 1 · Day 2**
-Finished: 2026-03-17 08:51:11
+Finished: 2026-03-16 19:51:11
 
 ### Sumo Deadlift (Paused)
 
@@ -4346,19 +4380,19 @@ Finished: 2026-03-17 08:51:11
   Set 2: 6.0kg x 12 @ RPE 7.5 [target RPE: 8-8.5]
   Set 3: 6.0kg x 12 @ RPE 7.5 [target RPE: 8-8.5]
 
-## 2026-03-16
+## 2026-03-15
 
 ### Health / Recovery
 
-- Steps: 4151
-- Distance: 3.48 km
-- Total kcal burned: 2537
-- Weight: 79.3 kg
-- Resting heart rate: 44 bpm
+- Steps: 18822
+- Distance: 15.26 km
+- Total kcal burned: 2933
+- Weight: 80.1 kg
+- Resting heart rate: 45 bpm
 - Sleep: 7.02 h asleep (7.35 h in bed, deep 0.95 h, REM 0.90 h, awake 0.33 h)
 
 **Week 1 · Day 1**
-Finished: 2026-03-16 10:12:03
+Finished: 2026-03-15 21:12:03
 
 ### Squat (Low Bar)
 
@@ -4387,18 +4421,19 @@ Finished: 2026-03-16 10:12:03
   Set 2: 25.0kg x 5 @ RPE 8.5 [target RPE: 8-8.5]
   Set 3: 22.5kg x 5 @ RPE 8 [target RPE: 8-8.5]
 
-## 2026-03-14
+## 2026-03-13
 
 ### Health / Recovery
 
-- Steps: 16702
-- Distance: 13.57 km
-- Total kcal burned: 3490
+- Steps: 3165
+- Distance: 2.59 km
+- Total kcal burned: 2165
+- Weight: 79.6 kg
 - Resting heart rate: 46 bpm
 - Sleep: 7.07 h asleep (7.17 h in bed, deep 0.93 h, REM 1.23 h, awake 0.10 h)
 
 **Week 3 · Day 5**
-Finished: 2026-03-14 09:54:12
+Finished: 2026-03-13 20:54:12
 
 ### Sumo Deadlift (Barbell)
 
@@ -4419,18 +4454,19 @@ Finished: 2026-03-14 09:54:12
   Set 2: 107.5kg x 6 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=312, real_stress=297]
   Set 3: 107.5kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=312, real_stress=368]
 
-## 2026-03-12
+## 2026-03-11
 
 ### Health / Recovery
 
-- Steps: 4737
-- Distance: 3.85 km
-- Total kcal burned: 2588
-- Resting heart rate: 47 bpm
+- Steps: 2356
+- Distance: 1.35 km
+- Total kcal burned: 1849
+- Weight: 79.1 kg
+- Resting heart rate: 46 bpm
 - Sleep: 6.90 h asleep (7.13 h in bed, deep 0.53 h, REM 1.52 h, awake 0.23 h)
 
 **Week 3 · Day 4**
-Finished: 2026-03-12 09:35:07
+Finished: 2026-03-11 20:35:07
 
 ### Bench Press (Barbell)
 
@@ -4463,19 +4499,19 @@ Finished: 2026-03-12 09:35:07
   Set 2: 20.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
   Set 3: 20.0kg x 12 @ RPE 9 [target RPE: 7.5-8]
 
-## 2026-03-11
+## 2026-03-10
 
 ### Health / Recovery
 
-- Steps: 2356
-- Distance: 1.35 km
-- Total kcal burned: 1849
-- Weight: 79.1 kg
-- Resting heart rate: 46 bpm
-- Sleep: 7.17 h asleep (7.50 h in bed, deep 0.88 h, REM 0.78 h, awake 0.33 h)
+- Steps: 1217
+- Distance: 0.64 km
+- Total kcal burned: 1913
+- Weight: 79.3 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.85 h asleep (6.87 h in bed, deep 0.72 h, REM 1.05 h, awake 0.02 h)
 
 **Week 3 · Day 3**
-Finished: 2026-03-11 09:57:00
+Finished: 2026-03-10 20:57:00
 
 ### Tempo Squat (Barbell)
 
@@ -4498,19 +4534,19 @@ Finished: 2026-03-11 09:57:00
   Set 1: 52.5kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
   Set 2: 50.0kg x 12 @ RPE 8.5 [target RPE: 7.5-8]
 
-## 2026-03-10
+## 2026-03-09
 
 ### Health / Recovery
 
-- Steps: 1217
-- Distance: 0.64 km
-- Total kcal burned: 1913
-- Weight: 79.3 kg
+- Steps: 1886
+- Distance: 1 km
+- Total kcal burned: 1786
+- Weight: 78.9 kg
 - Resting heart rate: 45 bpm
-- Sleep: 6.85 h asleep (6.87 h in bed, deep 0.72 h, REM 1.05 h, awake 0.02 h)
+- Sleep: 7.82 h asleep (7.82 h in bed, deep 1.17 h, REM 1.95 h, awake 0 h)
 
 **Week 3 · Day 2**
-Finished: 2026-03-10 10:07:48
+Finished: 2026-03-09 21:07:48
 
 ### Sumo Deadlift (Paused)
 
@@ -4537,19 +4573,19 @@ Finished: 2026-03-10 10:07:48
   Set 2: 5.0kg x 15 @ RPE 7.5 [target RPE: 7.5-8]
   Set 3: 5.0kg x 15 @ RPE 8 [target RPE: 7.5-8]
 
-## 2026-03-09
+## 2026-03-08
 
 ### Health / Recovery
 
-- Steps: 1886
-- Distance: 1 km
-- Total kcal burned: 1786
-- Weight: 78.9 kg
+- Steps: 20151
+- Distance: 14.11 km
+- Total kcal burned: 2451
+- Weight: 79.5 kg
 - Resting heart rate: 45 bpm
-- Sleep: 7.82 h asleep (7.82 h in bed, deep 1.17 h, REM 1.95 h, awake 0 h)
+- Sleep: 8.27 h asleep (8.32 h in bed, deep 1.30 h, REM 1.80 h, awake 0.05 h)
 
 **Week 3 · Day 1**
-Finished: 2026-03-09 10:14:39
+Finished: 2026-03-08 21:14:39
 
 ### Squat (Low Bar)
 
@@ -4577,18 +4613,19 @@ Finished: 2026-03-09 10:14:39
   Set 2: 22.5kg x 6 @ RPE 7.5 [target RPE: 7.5-8]
   Set 3: 22.5kg x 6 @ RPE 8.5 [target RPE: 7.5-8]
 
-## 2026-03-07
+## 2026-03-06
 
 ### Health / Recovery
 
-- Steps: 12066
-- Distance: 8.35 km
-- Total kcal burned: 2178
+- Steps: 1927
+- Distance: 1.20 km
+- Total kcal burned: 1706
+- Weight: 79.4 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.30 h asleep (7.35 h in bed, deep 1.10 h, REM 1.87 h, awake 0.05 h)
+- Sleep: 8.38 h asleep (8.85 h in bed, deep 1.37 h, REM 1.27 h, awake 0.47 h)
 
 **Week 2 · Day 5**
-Finished: 2026-03-07 10:06:07
+Finished: 2026-03-06 21:06:07
 
 ### Sumo Deadlift (Barbell)
 
@@ -4609,18 +4646,19 @@ Finished: 2026-03-07 10:06:07
   Set 2: 105.0kg x 6 @ RPE 7 [target RPE: 6.5-7] [est_stress=291, real_stress=305]
   Set 3: 105.0kg x 6 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=291, real_stress=343]
 
-## 2026-03-05
+## 2026-03-04
 
 ### Health / Recovery
 
-- Steps: 3533
-- Distance: 2.20 km
-- Total kcal burned: 1785
+- Steps: 4663
+- Distance: 3.02 km
+- Total kcal burned: 1807
+- Weight: 78.4 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.28 h asleep (6.33 h in bed, deep 1.22 h, REM 0.67 h, awake 0.05 h)
+- Sleep: 6.83 h asleep (7.18 h in bed, deep 0.57 h, REM 1.17 h, awake 0.35 h)
 
 **Week 2 · Day 4**
-Finished: 2026-03-05 08:04:27
+Finished: 2026-03-04 19:04:27
 
 ### Bench Press (Barbell)
 
@@ -4657,19 +4695,19 @@ Finished: 2026-03-05 08:04:27
   Set 3: 20.0kg x 12 @ RPE 9 [target RPE: 7.5-8]
   Set 4: 20.0kg x 12 @ RPE 8 [target RPE: 7.5-8]
 
-## 2026-03-04
+## 2026-03-03
 
 ### Health / Recovery
 
-- Steps: 4663
-- Distance: 3.02 km
-- Total kcal burned: 1807
+- Steps: 4727
+- Distance: 3.25 km
+- Total kcal burned: 1883
 - Weight: 78.4 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.83 h asleep (7.18 h in bed, deep 0.57 h, REM 1.17 h, awake 0.35 h)
+- Sleep: 6.12 h asleep (6.17 h in bed, deep 0.37 h, REM 1.35 h, awake 0.05 h)
 
 **Week 2 · Day 3**
-Finished: 2026-03-04 09:58:05
+Finished: 2026-03-03 20:58:05
 
 ### Tempo Squat (Barbell)
 
@@ -4697,19 +4735,19 @@ Finished: 2026-03-04 09:58:05
   Set 2: 50.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 7.5-8]
   Set 3: 50.0kg x 10 @ RPE 8.5 [target: 12 reps, target RPE: 7.5-8]
 
-## 2026-03-03
+## 2026-03-02
 
 ### Health / Recovery
 
-- Steps: 4727
-- Distance: 3.25 km
-- Total kcal burned: 1883
-- Weight: 78.4 kg
+- Steps: 2221
+- Distance: 1.31 km
+- Total kcal burned: 1798
+- Weight: 79.1 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.12 h asleep (6.17 h in bed, deep 0.37 h, REM 1.35 h, awake 0.05 h)
+- Sleep: 7.72 h asleep (7.82 h in bed, deep 1.37 h, REM 1.23 h, awake 0.10 h)
 
 **Week 2 · Day 2**
-Finished: 2026-03-03 09:51:22
+Finished: 2026-03-02 20:51:22
 
 ### Sumo Deadlift (Paused)
 
@@ -4736,19 +4774,19 @@ Finished: 2026-03-03 09:51:22
   Set 2: 10.0kg x 15 @ RPE 6 [target RPE: 7.5-8]
   Set 3: 15.0kg x 12 @ RPE 8.5 [target: 15 reps, target RPE: 7.5-8]
 
-## 2026-03-02
+## 2026-03-01
 
 ### Health / Recovery
 
-- Steps: 2221
-- Distance: 1.31 km
-- Total kcal burned: 1798
-- Weight: 79.1 kg
+- Steps: 13079
+- Distance: 9.03 km
+- Total kcal burned: 1952
+- Weight: 80.3 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.72 h asleep (7.82 h in bed, deep 1.37 h, REM 1.23 h, awake 0.10 h)
+- Sleep: 9.32 h asleep (9.72 h in bed, deep 0.68 h, REM 2.25 h, awake 0.40 h)
 
 **Week 2 · Day 1**
-Finished: 2026-03-02 10:03:42
+Finished: 2026-03-01 21:03:42
 
 ### Squat (Low Bar)
 
@@ -4776,18 +4814,19 @@ Finished: 2026-03-02 10:03:42
   Set 2: 20.0kg x 6 @ RPE 8
   Set 3: 20.0kg x 6 @ RPE 9
 
-## 2026-02-28
+## 2026-02-27
 
 ### Health / Recovery
 
-- Steps: 12678
-- Distance: 8.81 km
-- Total kcal burned: 2110
+- Steps: 1569
+- Distance: 0.98 km
+- Total kcal burned: 1760
+- Weight: 79.6 kg
 - Resting heart rate: 43 bpm
-- Sleep: 8.02 h asleep (8.07 h in bed, deep 1.07 h, REM 1.82 h, awake 0.05 h)
+- Sleep: 6.83 h asleep (7.07 h in bed, deep 0.90 h, REM 1.27 h, awake 0.23 h)
 
 **Week 1 · Day 5**
-Finished: 2026-02-28 11:52:15
+Finished: 2026-02-27 22:52:15
 
 ### Sumo Deadlift (Barbell)
 
@@ -4808,18 +4847,19 @@ Finished: 2026-02-28 11:52:15
   Set 2: 102.5kg x 6 @ RPE 6 [target RPE: 6-6.5] [est_stress=244, real_stress=230]
   Set 3: 105.0kg x 6 @ RPE 7 [target RPE: 6-6.5] [est_stress=262, real_stress=305]
 
-## 2026-02-26
+## 2026-02-25
 
 ### Health / Recovery
 
-- Steps: 1962
-- Distance: 1.13 km
-- Total kcal burned: 1781
+- Steps: 5343
+- Distance: 3.62 km
+- Total kcal burned: 1888
+- Weight: 79.5 kg
 - Resting heart rate: 43 bpm
-- Sleep: 6.18 h asleep (6.72 h in bed, deep 1.07 h, REM 0.70 h, awake 0.53 h)
+- Sleep: 7.22 h asleep (7.30 h in bed, deep 0.92 h, REM 1.75 h, awake 0.08 h)
 
 **Week 1 · Day 4**
-Finished: 2026-02-26 09:38:49
+Finished: 2026-02-25 20:38:49
 
 ### Bench Press (Barbell)
 
@@ -4847,19 +4887,19 @@ Finished: 2026-02-26 09:38:49
   Set 2: 25.0kg x 12 @ RPE 6 [target RPE: 9]
   Set 3: 25.0kg x 12 @ RPE 7.5 [target RPE: 9]
 
-## 2026-02-25
+## 2026-02-24
 
 ### Health / Recovery
 
-- Steps: 5343
-- Distance: 3.62 km
-- Total kcal burned: 1888
-- Weight: 79.5 kg
+- Steps: 2075
+- Distance: 1.21 km
+- Total kcal burned: 1729
+- Weight: 79.3 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.22 h asleep (7.30 h in bed, deep 0.92 h, REM 1.75 h, awake 0.08 h)
+- Sleep: 6.88 h asleep (7.50 h in bed, deep 0.95 h, REM 1.30 h, awake 0.62 h)
 
 **Week 1 · Day 3**
-Finished: 2026-02-25 09:58:39
+Finished: 2026-02-24 20:58:39
 
 ### Tempo Squat (Barbell)
 
@@ -4896,19 +4936,19 @@ Finished: 2026-02-25 09:58:39
   Set 3: 20.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 8]
   Set 4: 20.0kg x 10 @ RPE 8 [target: 12 reps, target RPE: 8]
 
-## 2026-02-24
+## 2026-02-23
 
 ### Health / Recovery
 
-- Steps: 2075
-- Distance: 1.21 km
-- Total kcal burned: 1729
-- Weight: 79.3 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.88 h asleep (7.50 h in bed, deep 0.95 h, REM 1.30 h, awake 0.62 h)
+- Steps: 15238
+- Distance: 10.75 km
+- Total kcal burned: 2090
+- Weight: 79.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 4.92 h asleep (4.92 h in bed, deep 1.07 h, REM 0.58 h, awake 0 h)
 
 **Week 1 · Day 2**
-Finished: 2026-02-24 10:07:47
+Finished: 2026-02-23 21:07:47
 
 ### Sumo Deadlift (Paused)
 
@@ -4936,19 +4976,19 @@ Finished: 2026-02-24 10:07:47
   Set 2: 10.0kg x 12 @ RPE 8 [target: 15 reps, target RPE: 8]
   Set 3: 10.0kg x 10 @ RPE 8 [target: 15 reps, target RPE: 8]
 
-## 2026-02-23
+## 2026-02-22
 
 ### Health / Recovery
 
-- Steps: 15238
-- Distance: 10.75 km
-- Total kcal burned: 2090
-- Weight: 79.1 kg
-- Resting heart rate: 44 bpm
-- Sleep: 4.92 h asleep (4.92 h in bed, deep 1.07 h, REM 0.58 h, awake 0 h)
+- Steps: 19300
+- Distance: 13.52 km
+- Total kcal burned: 2392
+- Weight: 79 kg
+- Resting heart rate: 45 bpm
+- Sleep: 9.68 h asleep (10.40 h in bed, deep 1.40 h, REM 2.85 h, awake 0.72 h)
 
 **Week 1 · Day 1**
-Finished: 2026-02-23 10:27:40
+Finished: 2026-02-22 21:27:40
 
 ### Squat (Low Bar)
 
@@ -4989,7 +5029,7 @@ Finished: 2026-02-23 10:27:40
 - Sleep: 7.05 h asleep (7.38 h in bed, deep 1.50 h, REM 1.35 h, awake 0.33 h)
 
 **Week 4 · Day 5**
-Finished: 2026-02-21 15:24:55
+Finished: 2026-02-21 02:24:55
 
 ### Squat (Low Bar)
 
@@ -5007,18 +5047,19 @@ Finished: 2026-02-21 15:24:55
   Set 1: 180.0kg x 1 @ RPE 7 [target RPE: 8] [est_stress=146, real_stress=117]
   Set 2: 195.0kg x 1 @ RPE 9.5 [target RPE: 9] [est_stress=222, real_stress=250]
 
-## 2026-02-19
+## 2026-02-18
 
 ### Health / Recovery
 
-- Steps: 2349
-- Distance: 1.32 km
-- Total kcal burned: 1727
+- Steps: 6318
+- Distance: 4.23 km
+- Total kcal burned: 1870
+- Weight: 79.1 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.18 h asleep (7.33 h in bed, deep 1.48 h, REM 0.90 h, awake 0.15 h)
+- Sleep: 7.83 h asleep (8.05 h in bed, deep 1.47 h, REM 1.58 h, awake 0.22 h)
 
 **Week 4 · Day 4**
-Finished: 2026-02-19 09:42:09
+Finished: 2026-02-18 20:42:09
 
 ### Bench Press (Barbell)
 
@@ -5044,19 +5085,19 @@ Finished: 2026-02-19 09:42:09
   Set 2: 25.0kg x 12 @ RPE 7.5 [target RPE: 7]
   Set 3: 25.0kg x 13 @ RPE 7 [target: 12 reps, target RPE: 7]
 
-## 2026-02-18
+## 2026-02-17
 
 ### Health / Recovery
 
-- Steps: 6318
-- Distance: 4.23 km
-- Total kcal burned: 1870
-- Weight: 79.1 kg
+- Steps: 7796
+- Distance: 5.12 km
+- Total kcal burned: 1861
+- Weight: 78.5 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.83 h asleep (8.05 h in bed, deep 1.47 h, REM 1.58 h, awake 0.22 h)
+- Sleep: 7.72 h asleep (8.08 h in bed, deep 1.17 h, REM 1.13 h, awake 0.37 h)
 
 **Week 4 · Day 3**
-Finished: 2026-02-18 10:20:23
+Finished: 2026-02-17 21:20:23
 
 ### Tempo Squat (Barbell)
 
@@ -5088,19 +5129,19 @@ Finished: 2026-02-18 10:20:23
   Set 2: 17.5kg x 12 @ RPE 8 [target RPE: 7]
   Set 3: 5.0kg x 12 @ RPE 8 [target RPE: 7]
 
-## 2026-02-17
+## 2026-02-16
 
 ### Health / Recovery
 
-- Steps: 7796
-- Distance: 5.12 km
-- Total kcal burned: 1861
-- Weight: 78.5 kg
+- Steps: 5819
+- Distance: 3.85 km
+- Total kcal burned: 1928
+- Weight: 78.3 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.72 h asleep (8.08 h in bed, deep 1.17 h, REM 1.13 h, awake 0.37 h)
+- Sleep: 3.53 h asleep (3.73 h in bed, deep 1.43 h, REM 0 h, awake 0.20 h)
 
 **Week 4 · Day 2**
-Finished: 2026-02-17 10:01:57
+Finished: 2026-02-16 21:01:57
 
 ### Sumo Deadlift (Paused)
 
@@ -5126,19 +5167,19 @@ Finished: 2026-02-17 10:01:57
   Set 2: 10.0kg x 13 @ RPE 8.5 [target: 15 reps, target RPE: 7]
   Set 3: 10.0kg x 12 @ RPE 8.5 [target: 15 reps, target RPE: 7]
 
-## 2026-02-16
+## 2026-02-15
 
 ### Health / Recovery
 
-- Steps: 5819
-- Distance: 3.85 km
-- Total kcal burned: 1928
-- Weight: 78.3 kg
+- Steps: 1490
+- Distance: 0.99 km
+- Total kcal burned: 1540
+- Weight: 79.1 kg
 - Resting heart rate: 46 bpm
-- Sleep: 3.53 h asleep (3.73 h in bed, deep 1.43 h, REM 0 h, awake 0.20 h)
+- Sleep: 2.38 h asleep (2.43 h in bed, deep 0.72 h, REM 0.30 h, awake 0.05 h)
 
 **Week 4 · Day 1**
-Finished: 2026-02-16 10:39:01
+Finished: 2026-02-15 21:39:01
 
 ### Squat (Low Bar)
 
@@ -5174,7 +5215,7 @@ Finished: 2026-02-16 10:39:01
 - Sleep: 6.92 h asleep (6.93 h in bed, deep 1.07 h, REM 1.48 h, awake 0.02 h)
 
 **Week 3 · Day 5**
-Finished: 2026-02-14 17:32:54
+Finished: 2026-02-14 04:32:54
 
 ### Sumo Deadlift (Barbell)
 
@@ -5212,7 +5253,7 @@ Finished: 2026-02-14 17:32:54
 - Sleep: 5.35 h asleep (5.40 h in bed, deep 1.20 h, REM 0.97 h, awake 0.05 h)
 
 **Week 3 · Day 4**
-Finished: 2026-02-12 15:10:28
+Finished: 2026-02-12 02:10:28
 
 ### Bench Press (Barbell)
 
@@ -5250,7 +5291,7 @@ Finished: 2026-02-12 15:10:28
 - Sleep: 7.97 h asleep (8.15 h in bed, deep 0.97 h, REM 1.30 h, awake 0.18 h)
 
 **Week 3 · Day 3**
-Finished: 2026-02-11 18:03:56
+Finished: 2026-02-11 05:03:56
 
 ### Tempo Squat (Barbell)
 
@@ -5294,7 +5335,7 @@ Finished: 2026-02-11 18:03:56
 - Sleep: 5.38 h asleep (5.47 h in bed, deep 0.92 h, REM 0.83 h, awake 0.08 h)
 
 **Week 3 · Day 2**
-Finished: 2026-02-10 15:12:02
+Finished: 2026-02-10 02:12:02
 
 ### Sumo Deadlift (Paused)
 
@@ -5332,7 +5373,7 @@ Finished: 2026-02-10 15:12:02
 - Sleep: 5.97 h asleep (6.05 h in bed, deep 1.08 h, REM 0.78 h, awake 0.08 h)
 
 **Week 3 · Day 1**
-Finished: 2026-02-09 15:28:21
+Finished: 2026-02-09 02:28:21
 
 ### Squat (Low Bar)
 
@@ -5370,7 +5411,7 @@ Finished: 2026-02-09 15:28:21
 - Sleep: 6.70 h asleep (6.83 h in bed, deep 1.15 h, REM 1.47 h, awake 0.13 h)
 
 **Week 2 · Day 5**
-Finished: 2026-02-07 17:06:42
+Finished: 2026-02-07 04:06:42
 
 ### Sumo Deadlift (Barbell)
 
@@ -5396,18 +5437,18 @@ Finished: 2026-02-07 17:06:42
   Set 2: 0kg x 12 @ RPE 8 [target RPE: 7.5]
   Set 3: 0kg x 12 @ RPE 8 [target RPE: 7.5]
 
-## 2026-02-07
+## 2026-02-06
 
 ### Health / Recovery
 
-- Steps: 15358
-- Distance: 10.39 km
-- Total kcal burned: 1926
+- Steps: 10094
+- Distance: 7.05 km
+- Total kcal burned: 1844
 - Resting heart rate: 48 bpm
-- Sleep: 6.70 h asleep (6.83 h in bed, deep 1.15 h, REM 1.47 h, awake 0.13 h)
+- Sleep: 5 h asleep (5.03 h in bed, deep 1.35 h, REM 0.93 h, awake 0.03 h)
 
 **Week 2 · Day 4**
-Finished: 2026-02-07 03:19:23
+Finished: 2026-02-06 14:19:23
 
 ### Bench Press (Barbell)
 
@@ -5435,18 +5476,18 @@ Finished: 2026-02-07 03:19:23
   Set 2: 0kg x 12 [target RPE: 7.5]
   Set 3: 0kg x 12 [target RPE: 7.5]
 
-## 2026-02-05
+## 2026-02-04
 
 ### Health / Recovery
 
-- Steps: 8850
-- Distance: 6.03 km
-- Total kcal burned: 1807
+- Steps: 4941
+- Distance: 3.09 km
+- Total kcal burned: 1879
 - Resting heart rate: 48 bpm
-- Sleep: 5.82 h asleep (5.82 h in bed, deep 0.87 h, REM 1.03 h, awake 0 h)
+- Sleep: 6.45 h asleep (6.50 h in bed, deep 0.83 h, REM 1.13 h, awake 0.05 h)
 
 **Feb 4 Workout**
-Finished: 2026-02-05 03:09:50
+Finished: 2026-02-04 14:09:50
 
 ### Bench Press (Barbell)
 
@@ -5460,18 +5501,18 @@ Finished: 2026-02-05 03:09:50
   Set 2: 100.0kg x 5 [est_stress=-, real_stress=-]
   Set 3: 100.0kg x 5 [est_stress=-, real_stress=-]
 
-## 2026-02-04
+## 2026-02-03
 
 ### Health / Recovery
 
-- Steps: 4941
-- Distance: 3.09 km
-- Total kcal burned: 1879
-- Resting heart rate: 48 bpm
-- Sleep: 6.45 h asleep (6.50 h in bed, deep 0.83 h, REM 1.13 h, awake 0.05 h)
+- Steps: 8598
+- Distance: 5.88 km
+- Total kcal burned: 2072
+- Resting heart rate: 47 bpm
+- Sleep: 3.65 h asleep (4.35 h in bed, deep 0.83 h, REM 0 h, awake 0.70 h)
 
 **Week 2 · Day 3**
-Finished: 2026-02-04 00:39:28
+Finished: 2026-02-03 11:39:28
 
 ### Tempo Squat (Barbell)
 
@@ -5511,18 +5552,19 @@ Finished: 2026-02-04 00:39:28
   Set 2: 90.0kg x 8 [est_stress=-, real_stress=-]
   Set 3: 90.0kg x 8 [est_stress=-, real_stress=-]
 
-## 2026-02-02
+## 2026-02-01
 
 ### Health / Recovery
 
-- Steps: 6444
-- Distance: 4.34 km
-- Total kcal burned: 2595
-- Resting heart rate: 47 bpm
-- Sleep: 4.82 h asleep (4.93 h in bed, deep 0.48 h, REM 0.57 h, awake 0.12 h)
+- Steps: 24995
+- Distance: 17.64 km
+- Total kcal burned: 2586
+- Weight: 78.2 kg
+- Resting heart rate: 46 bpm
+- Sleep: 6.87 h asleep (7.07 h in bed, deep 0.92 h, REM 0.78 h, awake 0.20 h)
 
 **Week 2 · Day 2**
-Finished: 2026-02-02 10:05:07
+Finished: 2026-02-01 21:05:07
 
 ### Sumo Deadlift (Paused)
 
@@ -5550,19 +5592,19 @@ Finished: 2026-02-02 10:05:07
   Set 3: 37.5kg x 15 @ RPE 8.5 [target RPE: 7.5]
   Set 4: 37.5kg x 15 @ RPE 8.5 [target RPE: 7.5]
 
-## 2026-02-01
+## 2026-01-31
 
 ### Health / Recovery
 
-- Steps: 24995
-- Distance: 17.64 km
-- Total kcal burned: 2586
-- Weight: 78.2 kg
+- Steps: 2843
+- Distance: 1.72 km
+- Total kcal burned: 1701
+- Weight: 78.8 kg
 - Resting heart rate: 46 bpm
-- Sleep: 6.87 h asleep (7.07 h in bed, deep 0.92 h, REM 0.78 h, awake 0.20 h)
+- Sleep: 3.87 h asleep (3.87 h in bed, deep 1.30 h, REM 0.68 h, awake 0 h)
 
 **Week 2 · Day 1**
-Finished: 2026-02-01 11:01:32
+Finished: 2026-01-31 22:01:32
 
 ### Squat (Low Bar)
 
@@ -5590,19 +5632,19 @@ Finished: 2026-02-01 11:01:32
   Set 2: 10.0kg x 12 @ RPE 9 [target: 15 reps, target RPE: 7.5]
   Set 3: 10.0kg x 11 @ RPE 9 [target: 15 reps, target RPE: 7.5]
 
-## 2026-01-31
+## 2026-01-30
 
 ### Health / Recovery
 
-- Steps: 2843
-- Distance: 1.72 km
-- Total kcal burned: 1701
-- Weight: 78.8 kg
+- Steps: 2542
+- Distance: 1.56 km
+- Total kcal burned: 1650
+- Weight: 78.1 kg
 - Resting heart rate: 46 bpm
-- Sleep: 3.87 h asleep (3.87 h in bed, deep 1.30 h, REM 0.68 h, awake 0 h)
+- Sleep: 9.18 h asleep (9.27 h in bed, deep 1.17 h, REM 2.07 h, awake 0.08 h)
 
 **Week 1 · Day 5**
-Finished: 2026-01-31 10:17:12
+Finished: 2026-01-30 21:17:12
 
 ### Sumo Deadlift (Barbell)
 
@@ -5631,18 +5673,19 @@ Finished: 2026-01-31 10:17:12
   Set 3: 135.0kg x 3 @ RPE 6.5 [est_stress=-, real_stress=180]
   Set 4: 135.0kg x 3 @ RPE 6.5 [est_stress=-, real_stress=180]
 
-## 2026-01-29
+## 2026-01-28
 
 ### Health / Recovery
 
-- Steps: 3502
-- Distance: 2.23 km
-- Total kcal burned: 1666
+- Steps: 1640
+- Distance: 0.98 km
+- Total kcal burned: 1702
+- Weight: 77.3 kg
 - Resting heart rate: 46 bpm
-- Sleep: 6.93 h asleep (7.35 h in bed, deep 1.15 h, REM 0.88 h, awake 0.42 h)
+- Sleep: 7.40 h asleep (7.48 h in bed, deep 1.20 h, REM 1.82 h, awake 0.08 h)
 
 **Week 1 · Day 4**
-Finished: 2026-01-29 09:57:58
+Finished: 2026-01-28 20:57:58
 
 ### Romanian Deadlift (Barbell)
 
@@ -5675,19 +5718,18 @@ Finished: 2026-01-29 09:57:58
   Set 2: 15.0kg x 8 @ RPE 9 [target RPE: 8]
   Set 3: 15.0kg x 8 @ RPE 10 [target RPE: 8]
 
-## 2026-01-28
+## 2026-01-27
 
 ### Health / Recovery
 
-- Steps: 1640
-- Distance: 0.98 km
-- Total kcal burned: 1702
-- Weight: 77.3 kg
+- Steps: 2441
+- Distance: 1.40 km
+- Total kcal burned: 1761
 - Resting heart rate: 46 bpm
-- Sleep: 7.40 h asleep (7.48 h in bed, deep 1.20 h, REM 1.82 h, awake 0.08 h)
+- Sleep: 5.65 h asleep (6.18 h in bed, deep 0.80 h, REM 1.07 h, awake 0.53 h)
 
 **Week 1 · Day 3**
-Finished: 2026-01-28 10:13:19
+Finished: 2026-01-27 21:13:19
 
 ### Squat (Paused)
 
@@ -5714,18 +5756,19 @@ Finished: 2026-01-28 10:13:19
   Set 2: 65.0kg x 12 @ RPE 7.5 [target RPE: 8]
   Set 3: 65.0kg x 12 @ RPE 8 [target RPE: 8]
 
-## 2026-01-27
+## 2026-01-26
 
 ### Health / Recovery
 
-- Steps: 2441
-- Distance: 1.40 km
-- Total kcal burned: 1761
+- Steps: 2108
+- Distance: 1.23 km
+- Total kcal burned: 1820
+- Weight: 77.5 kg
 - Resting heart rate: 46 bpm
-- Sleep: 5.65 h asleep (6.18 h in bed, deep 0.80 h, REM 1.07 h, awake 0.53 h)
+- Sleep: 7.33 h asleep (7.35 h in bed, deep 1.68 h, REM 1.48 h, awake 0.02 h)
 
 **Week 1 · Day 2**
-Finished: 2026-01-27 10:14:41
+Finished: 2026-01-26 21:14:41
 
 ### Sumo Deadlift (Paused)
 
@@ -5751,19 +5794,19 @@ Finished: 2026-01-27 10:14:41
   Set 2: 25.0kg x 4 @ RPE 7.5 [target RPE: 8]
   Set 3: 27.5kg x 4 @ RPE 8 [target RPE: 8]
 
-## 2026-01-26
+## 2026-01-25
 
 ### Health / Recovery
 
-- Steps: 2108
-- Distance: 1.23 km
-- Total kcal burned: 1820
-- Weight: 77.5 kg
+- Steps: 8690
+- Distance: 5.98 km
+- Total kcal burned: 1925
+- Weight: 79 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.33 h asleep (7.35 h in bed, deep 1.68 h, REM 1.48 h, awake 0.02 h)
+- Sleep: 8.48 h asleep (8.88 h in bed, deep 0.90 h, REM 1.83 h, awake 0.40 h)
 
 **Week 1 · Day 1**
-Finished: 2026-01-26 10:13:24
+Finished: 2026-01-25 21:13:24
 
 ### Squat (Low Bar)
 
@@ -5793,18 +5836,19 @@ Finished: 2026-01-26 10:13:24
   Set 2: 12.5kg x 11 @ RPE 9.5 [target: 12 reps, target RPE: 7]
   Set 3: 12.5kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 7]
 
-## 2026-01-24
+## 2026-01-23
 
 ### Health / Recovery
 
-- Steps: 11035
-- Distance: 7.46 km
-- Total kcal burned: 1757
-- Resting heart rate: 46 bpm
-- Sleep: 6.32 h asleep (6.70 h in bed, deep 1.22 h, REM 0.63 h, awake 0.38 h)
+- Steps: 4044
+- Distance: 2.72 km
+- Total kcal burned: 1762
+- Weight: 78.7 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.85 h asleep (6.87 h in bed, deep 0.80 h, REM 1.05 h, awake 0.02 h)
 
 **Week 4 · Day 5**
-Finished: 2026-01-24 10:20:41
+Finished: 2026-01-23 21:20:41
 
 ### Squat (Low Bar)
 
@@ -5832,19 +5876,19 @@ Finished: 2026-01-24 10:20:41
   Set 3: 27.5kg x 8 @ RPE 9.5 [target: 12 reps, target RPE: 9]
   Set 4: 25.0kg x 12 @ RPE 9.5 [target RPE: 9]
 
-## 2026-01-22
+## 2026-01-21
 
 ### Health / Recovery
 
-- Steps: 2076
-- Distance: 1.14 km
-- Total kcal burned: 1690
+- Steps: 2226
+- Distance: 1.39 km
+- Total kcal burned: 1757
 - Weight: 78.2 kg
 - Resting heart rate: 46 bpm
-- Sleep: 6.80 h asleep (6.93 h in bed, deep 0.98 h, REM 1 h, awake 0.13 h)
+- Sleep: 6.98 h asleep (7.05 h in bed, deep 1.33 h, REM 1.73 h, awake 0.07 h)
 
 **Week 4 · Day 4**
-Finished: 2026-01-22 09:44:04
+Finished: 2026-01-21 20:44:04
 
 ### Bench Press (Barbell)
 
@@ -5873,19 +5917,19 @@ Finished: 2026-01-22 09:44:04
   Set 3: 25.0kg x 10 @ RPE 9 [target: 15 reps, target RPE: 9]
   Set 4: 25.0kg x 10 @ RPE 10 [target: 15 reps, target RPE: 9]
 
-## 2026-01-21
+## 2026-01-20
 
 ### Health / Recovery
 
-- Steps: 2226
-- Distance: 1.39 km
-- Total kcal burned: 1757
-- Weight: 78.2 kg
+- Steps: 2692
+- Distance: 1.59 km
+- Total kcal burned: 1732
+- Weight: 77.9 kg
 - Resting heart rate: 46 bpm
-- Sleep: 6.98 h asleep (7.05 h in bed, deep 1.33 h, REM 1.73 h, awake 0.07 h)
+- Sleep: 7.73 h asleep (7.75 h in bed, deep 0.93 h, REM 1.88 h, awake 0.02 h)
 
 **Week 4 · Day 3**
-Finished: 2026-01-21 10:38:49
+Finished: 2026-01-20 21:38:49
 
 ### Tempo Squat (Barbell)
 
@@ -5925,19 +5969,19 @@ Finished: 2026-01-21 10:38:49
 
   Set 1: 100.0kg x 15 [est_stress=-, real_stress=-]
 
-## 2026-01-20
+## 2026-01-19
 
 ### Health / Recovery
 
-- Steps: 2692
-- Distance: 1.59 km
-- Total kcal burned: 1732
+- Steps: 2128
+- Distance: 1.22 km
+- Total kcal burned: 1714
 - Weight: 77.9 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.73 h asleep (7.75 h in bed, deep 0.93 h, REM 1.88 h, awake 0.02 h)
+- Sleep: 7.27 h asleep (7.55 h in bed, deep 1.18 h, REM 0.75 h, awake 0.28 h)
 
 **Week 4 · Day 2**
-Finished: 2026-01-20 10:33:08
+Finished: 2026-01-19 21:33:08
 
 ### Sumo Deadlift (Paused)
 
@@ -5965,19 +6009,19 @@ Finished: 2026-01-20 10:33:08
   Set 3: 10.0kg x 7 @ RPE 9.5 [target: 15 reps, target RPE: 8]
   Set 4: 10.0kg x 8 @ RPE 9.5 [target: 15 reps, target RPE: 8]
 
-## 2026-01-19
+## 2026-01-18
 
 ### Health / Recovery
 
-- Steps: 2128
-- Distance: 1.22 km
-- Total kcal burned: 1714
-- Weight: 77.9 kg
+- Steps: 14266
+- Distance: 9.97 km
+- Total kcal burned: 2234
+- Weight: 78.4 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.27 h asleep (7.55 h in bed, deep 1.18 h, REM 0.75 h, awake 0.28 h)
+- Sleep: 7.48 h asleep (7.62 h in bed, deep 1.22 h, REM 1.77 h, awake 0.13 h)
 
 **Week 4 · Day 1**
-Finished: 2026-01-19 10:24:19
+Finished: 2026-01-18 21:24:19
 
 ### Squat (Low Bar)
 
@@ -6005,18 +6049,19 @@ Finished: 2026-01-19 10:24:19
   Set 2: 40.0kg x 11 @ RPE 9 [target: 15 reps, target RPE: 8]
   Set 3: 37.5kg x 15 @ RPE 8.5 [target RPE: 8]
 
-## 2026-01-17
+## 2026-01-16
 
 ### Health / Recovery
 
-- Steps: 10290
-- Distance: 7.02 km
-- Total kcal burned: 1943
+- Steps: 2763
+- Distance: 1.77 km
+- Total kcal burned: 1831
+- Weight: 78 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.23 h asleep (7.23 h in bed, deep 1.28 h, REM 1.37 h, awake 0 h)
+- Sleep: 7.30 h asleep (7.33 h in bed, deep 1.17 h, REM 1.85 h, awake 0.03 h)
 
 **Week 3 · Day 5**
-Finished: 2026-01-17 10:12:26
+Finished: 2026-01-16 21:12:26
 
 ### Sumo Deadlift (Barbell)
 
@@ -6044,18 +6089,19 @@ Finished: 2026-01-17 10:12:26
   Set 3: 27.5kg x 11 @ RPE 9.5 [target: 12 reps, target RPE: 9]
   Set 4: 27.5kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
-## 2026-01-15
+## 2026-01-14
 
 ### Health / Recovery
 
-- Steps: 2247
-- Distance: 1.31 km
-- Total kcal burned: 1786
-- Resting heart rate: 46 bpm
-- Sleep: 6.47 h asleep (6.52 h in bed, deep 0.53 h, REM 1.40 h, awake 0.05 h)
+- Steps: 3121
+- Distance: 1.77 km
+- Total kcal burned: 1751
+- Weight: 78.2 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.22 h asleep (7.83 h in bed, deep 1.05 h, REM 1.80 h, awake 0.62 h)
 
 **Week 3 · Day 4**
-Finished: 2026-01-15 09:49:26
+Finished: 2026-01-14 20:49:26
 
 ### Bench Press (Barbell)
 
@@ -6084,19 +6130,19 @@ Finished: 2026-01-15 09:49:26
   Set 3: 25.0kg x 12 @ RPE 9.5 [target RPE: 9]
   Set 4: 25.0kg x 8 @ RPE 10 [target: 12 reps, target RPE: 9]
 
-## 2026-01-14
+## 2026-01-13
 
 ### Health / Recovery
 
-- Steps: 3121
-- Distance: 1.77 km
-- Total kcal burned: 1751
-- Weight: 78.2 kg
-- Resting heart rate: 45 bpm
-- Sleep: 7.22 h asleep (7.83 h in bed, deep 1.05 h, REM 1.80 h, awake 0.62 h)
+- Steps: 2598
+- Distance: 1.54 km
+- Total kcal burned: 1824
+- Weight: 77.7 kg
+- Resting heart rate: 46 bpm
+- Sleep: 6.37 h asleep (6.50 h in bed, deep 0.75 h, REM 1.12 h, awake 0.13 h)
 
 **Week 3 · Day 3**
-Finished: 2026-01-14 10:33:10
+Finished: 2026-01-13 21:33:10
 
 ### Tempo Squat (Barbell)
 
@@ -6132,19 +6178,19 @@ Finished: 2026-01-14 10:33:10
   Set 3: 20.0kg x 9 @ RPE 9.5 [target: 10 reps, target RPE: 10]
   Set 4: 20.0kg x 9 @ RPE 9.5 [target: 10 reps, target RPE: 10]
 
-## 2026-01-13
+## 2026-01-12
 
 ### Health / Recovery
 
-- Steps: 2598
-- Distance: 1.54 km
-- Total kcal burned: 1824
+- Steps: 1532
+- Distance: 0.87 km
+- Total kcal burned: 1750
 - Weight: 77.7 kg
 - Resting heart rate: 46 bpm
-- Sleep: 6.37 h asleep (6.50 h in bed, deep 0.75 h, REM 1.12 h, awake 0.13 h)
+- Sleep: 7.67 h asleep (7.73 h in bed, deep 1.48 h, REM 1.15 h, awake 0.07 h)
 
 **Week 3 · Day 2**
-Finished: 2026-01-13 09:58:20
+Finished: 2026-01-12 20:58:20
 
 ### Sumo Deadlift (Paused)
 
@@ -6171,19 +6217,19 @@ Finished: 2026-01-13 09:58:20
   Set 3: 10.0kg x 10 @ RPE 9.5 [target: 15 reps, target RPE: 10]
   Set 4: 10.0kg x 8 @ RPE 10 [target: 15 reps, target RPE: 10]
 
-## 2026-01-12
+## 2026-01-11
 
 ### Health / Recovery
 
-- Steps: 1532
-- Distance: 0.87 km
-- Total kcal burned: 1750
-- Weight: 77.7 kg
-- Resting heart rate: 46 bpm
-- Sleep: 7.67 h asleep (7.73 h in bed, deep 1.48 h, REM 1.15 h, awake 0.07 h)
+- Steps: 9961
+- Distance: 6.84 km
+- Total kcal burned: 2033
+- Weight: 78.5 kg
+- Resting heart rate: 45 bpm
+- Sleep: 8.22 h asleep (8.42 h in bed, deep 0.83 h, REM 2.07 h, awake 0.20 h)
 
 **Week 3 · Day 1**
-Finished: 2026-01-12 10:21:55
+Finished: 2026-01-11 21:21:55
 
 ### Squat (Low Bar)
 
@@ -6211,18 +6257,19 @@ Exercise notes: Best 3 RM
   Set 2: 40.0kg x 9
   Set 3: 35.0kg x 15
 
-## 2026-01-10
+## 2026-01-09
 
 ### Health / Recovery
 
-- Steps: 11163
-- Distance: 7.76 km
-- Total kcal burned: 2040
+- Steps: 2315
+- Distance: 1.52 km
+- Total kcal burned: 1692
+- Weight: 78.8 kg
 - Resting heart rate: 45 bpm
-- Sleep: 7.57 h asleep (7.75 h in bed, deep 1.20 h, REM 0.83 h, awake 0.18 h)
+- Sleep: 6.98 h asleep (7.05 h in bed, deep 0.92 h, REM 1.43 h, awake 0.07 h)
 
 **Week 2 · Day 5**
-Finished: 2026-01-10 10:23:39
+Finished: 2026-01-09 21:23:39
 
 ### Sumo Deadlift (Barbell)
 
@@ -6250,19 +6297,19 @@ Finished: 2026-01-10 10:23:39
   Set 3: 25.0kg x 12 @ RPE 9.5 [target RPE: 9]
   Set 4: 25.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
-## 2026-01-08
+## 2026-01-07
 
 ### Health / Recovery
 
-- Steps: 6430
-- Distance: 4.55 km
-- Total kcal burned: 1897
-- Weight: 78.5 kg
+- Steps: 2123
+- Distance: 1.34 km
+- Total kcal burned: 1849
+- Weight: 78.4 kg
 - Resting heart rate: 45 bpm
-- Sleep: 7.12 h asleep (7.35 h in bed, deep 0.63 h, REM 1.22 h, awake 0.23 h)
+- Sleep: 6.97 h asleep (7.10 h in bed, deep 1.02 h, REM 0.90 h, awake 0.13 h)
 
 **Week 2 · Day 4**
-Finished: 2026-01-08 11:55:00
+Finished: 2026-01-07 22:55:00
 
 ### Bench Press (Barbell)
 
@@ -6286,19 +6333,19 @@ Finished: 2026-01-08 11:55:00
   Set 3: 30.0kg x 6 @ RPE 9.5 [target: 12 reps, target RPE: 9]
   Set 4: 25.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
-## 2026-01-07
+## 2026-01-06
 
 ### Health / Recovery
 
-- Steps: 2123
-- Distance: 1.34 km
-- Total kcal burned: 1849
-- Weight: 78.4 kg
+- Steps: 1819
+- Distance: 1.09 km
+- Total kcal burned: 1818
+- Weight: 78.5 kg
 - Resting heart rate: 45 bpm
-- Sleep: 6.97 h asleep (7.10 h in bed, deep 1.02 h, REM 0.90 h, awake 0.13 h)
+- Sleep: 6.70 h asleep (8.25 h in bed, deep 0.97 h, REM 1.10 h, awake 1.55 h)
 
 **Week 2 · Day 3**
-Finished: 2026-01-07 10:32:35
+Finished: 2026-01-06 21:32:35
 
 ### Tempo Squat (Barbell)
 
@@ -6332,19 +6379,19 @@ Finished: 2026-01-07 10:32:35
   Set 2: 20.0kg x 8 @ RPE 9.5 [target: 10 reps, target RPE: 9]
   Set 3: 20.0kg x 8 @ RPE 9.5 [target: 10 reps, target RPE: 9]
 
-## 2026-01-06
+## 2026-01-05
 
 ### Health / Recovery
 
-- Steps: 1819
-- Distance: 1.09 km
-- Total kcal burned: 1818
-- Weight: 78.5 kg
+- Steps: 2893
+- Distance: 1.82 km
+- Total kcal burned: 1830
+- Weight: 78.2 kg
 - Resting heart rate: 45 bpm
-- Sleep: 6.70 h asleep (8.25 h in bed, deep 0.97 h, REM 1.10 h, awake 1.55 h)
+- Sleep: 8.12 h asleep (8.42 h in bed, deep 1.12 h, REM 1.47 h, awake 0.30 h)
 
 **Week 2 · Day 2**
-Finished: 2026-01-06 10:14:40
+Finished: 2026-01-05 21:14:40
 
 ### Sumo Deadlift (Paused)
 
@@ -6372,19 +6419,19 @@ Finished: 2026-01-06 10:14:40
   Set 3: 10.0kg x 9 @ RPE 9.5 [target: 15 reps, target RPE: 9]
   Set 4: 10.0kg x 8 @ RPE 9.5 [target: 15 reps, target RPE: 9]
 
-## 2026-01-05
+## 2026-01-04
 
 ### Health / Recovery
 
-- Steps: 2893
-- Distance: 1.82 km
-- Total kcal burned: 1830
-- Weight: 78.2 kg
+- Steps: 11922
+- Distance: 8.06 km
+- Total kcal burned: 1935
+- Weight: 78.1 kg
 - Resting heart rate: 45 bpm
-- Sleep: 8.12 h asleep (8.42 h in bed, deep 1.12 h, REM 1.47 h, awake 0.30 h)
+- Sleep: 8.35 h asleep (8.45 h in bed, deep 0.43 h, REM 2.42 h, awake 0.10 h)
 
 **Week 2 · Day 1**
-Finished: 2026-01-05 10:09:55
+Finished: 2026-01-04 21:09:55
 
 ### Squat (Low Bar)
 
@@ -6412,18 +6459,19 @@ Finished: 2026-01-05 10:09:55
   Set 3: 0kg x 12 @ RPE 7 [target RPE: 9]
   Set 4: 0kg x 12 @ RPE 7.5 [target RPE: 9]
 
-## 2026-01-03
+## 2026-01-02
 
 ### Health / Recovery
 
-- Steps: 13830
-- Distance: 9.66 km
-- Total kcal burned: 2096
-- Resting heart rate: 45 bpm
-- Sleep: 7.58 h asleep (7.95 h in bed, deep 1.08 h, REM 1.03 h, awake 0.37 h)
+- Steps: 9294
+- Distance: 6.58 km
+- Total kcal burned: 2022
+- Weight: 78.6 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.57 h asleep (8.70 h in bed, deep 0.85 h, REM 2.10 h, awake 0.13 h)
 
 **Week 1 · Day 5**
-Finished: 2026-01-03 10:18:26
+Finished: 2026-01-02 21:18:26
 
 ### Sumo Deadlift (Barbell)
 
@@ -6452,18 +6500,19 @@ Finished: 2026-01-03 10:18:26
   Set 3: 25.0kg x 12 @ RPE 9.5 [target RPE: 9]
   Set 4: 25.0kg x 9 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
-## 2026-01-01
+## 2025-12-31
 
 ### Health / Recovery
 
-- Steps: 3899
-- Distance: 2.46 km
-- Total kcal burned: 1662
+- Steps: 15115
+- Distance: 10.60 km
+- Total kcal burned: 2247
+- Weight: 77.9 kg
 - Resting heart rate: 44 bpm
-- Sleep: 8.13 h asleep (8.32 h in bed, deep 1.02 h, REM 1.52 h, awake 0.18 h)
+- Sleep: 7.50 h asleep (8.35 h in bed, deep 0.65 h, REM 0.95 h, awake 0.85 h)
 
 **Week 1 · Day 4**
-Finished: 2026-01-01 09:48:28
+Finished: 2025-12-31 20:48:28
 
 ### Bench Press (Barbell)
 
@@ -6493,19 +6542,19 @@ Finished: 2026-01-01 09:48:28
   Set 3: 25.0kg x 8 @ RPE 9.5 [target: 12 reps, target RPE: 9]
   Set 4: 20.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 9]
 
-## 2025-12-31
+## 2025-12-30
 
 ### Health / Recovery
 
-- Steps: 15115
-- Distance: 10.60 km
-- Total kcal burned: 2247
-- Weight: 77.9 kg
-- Resting heart rate: 44 bpm
-- Sleep: 7.50 h asleep (8.35 h in bed, deep 0.65 h, REM 0.95 h, awake 0.85 h)
+- Steps: 5312
+- Distance: 3.53 km
+- Total kcal burned: 1946
+- Weight: 77.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.92 h asleep (8.20 h in bed, deep 0.72 h, REM 2.12 h, awake 0.28 h)
 
 **Week 1 · Day 3**
-Finished: 2025-12-31 10:25:31
+Finished: 2025-12-30 21:25:31
 
 ### Tempo Squat (Barbell)
 
@@ -6541,19 +6590,19 @@ Finished: 2025-12-31 10:25:31
   Set 3: 20.0kg x 9 @ RPE 9.5 [target: 12 reps, target RPE: 8]
   Set 4: 20.0kg x 6 @ RPE 9.5 [target: 12 reps, target RPE: 8]
 
-## 2025-12-30
+## 2025-12-29
 
 ### Health / Recovery
 
-- Steps: 5312
-- Distance: 3.53 km
-- Total kcal burned: 1946
-- Weight: 77.3 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.92 h asleep (8.20 h in bed, deep 0.72 h, REM 2.12 h, awake 0.28 h)
+- Steps: 3875
+- Distance: 2.60 km
+- Total kcal burned: 1725
+- Weight: 77.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.50 h asleep (7.62 h in bed, deep 1.60 h, REM 1.42 h, awake 0.12 h)
 
 **Week 1 · Day 2**
-Finished: 2025-12-30 10:30:21
+Finished: 2025-12-29 21:30:21
 
 ### Sumo Deadlift (Paused)
 
@@ -6585,19 +6634,19 @@ Finished: 2025-12-30 10:30:21
   Set 2: 25.0kg x 4 @ RPE 7.5
   Set 3: 25.0kg x 4 @ RPE 8
 
-## 2025-12-29
+## 2025-12-28
 
 ### Health / Recovery
 
-- Steps: 3875
-- Distance: 2.60 km
-- Total kcal burned: 1725
-- Weight: 77.4 kg
+- Steps: 14392
+- Distance: 10.23 km
+- Total kcal burned: 2108
+- Weight: 78 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.50 h asleep (7.62 h in bed, deep 1.60 h, REM 1.42 h, awake 0.12 h)
+- Sleep: 8.98 h asleep (9.65 h in bed, deep 0.87 h, REM 1.58 h, awake 0.67 h)
 
 **Week 1 · Day 1**
-Finished: 2025-12-29 10:20:42
+Finished: 2025-12-28 21:20:42
 
 ### Squat (Low Bar)
 
@@ -6624,18 +6673,19 @@ Finished: 2025-12-29 10:20:42
   Set 2: 0kg x 10 [target RPE: 8]
   Set 3: 0kg x 10 [target RPE: 8]
 
-## 2025-12-27
+## 2025-12-26
 
 ### Health / Recovery
 
-- Steps: 10988
-- Distance: 7.76 km
-- Total kcal burned: 1981
+- Steps: 18285
+- Distance: 12.61 km
+- Total kcal burned: 2347
+- Weight: 77.9 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.97 h asleep (7.57 h in bed, deep 1.67 h, REM 1.10 h, awake 0.60 h)
+- Sleep: 8.17 h asleep (8.60 h in bed, deep 1 h, REM 1.62 h, awake 0.43 h)
 
 **Week 3 · Day 5**
-Finished: 2025-12-27 10:19:11
+Finished: 2025-12-26 21:19:11
 
 ### Sumo Deadlift (Barbell)
 
@@ -6671,18 +6721,18 @@ Exercise notes: Attempt 5 RM PR
   Set 2: 30.0kg x 13
   Set 3: 40.0kg x 12
 
-## 2025-12-24
+## 2025-12-23
 
 ### Health / Recovery
 
-- Steps: 18690
-- Distance: 12.80 km
-- Total kcal burned: 2164
+- Steps: 27147
+- Distance: 18.52 km
+- Total kcal burned: 2574
 - Resting heart rate: 45 bpm
-- Sleep: 8.30 h asleep (9.15 h in bed, deep 1.77 h, REM 1.45 h, awake 0.85 h)
+- Sleep: 6.98 h asleep (7.18 h in bed, deep 0.85 h, REM 1.22 h, awake 0.20 h)
 
 **Week 3 · Day 4**
-Finished: 2025-12-24 09:48:58
+Finished: 2025-12-23 20:48:58
 
 ### Bench Press (Barbell)
 
@@ -6725,7 +6775,7 @@ Exercise notes: Attempt 5 RM PR
 - Sleep: 6 h asleep (6.03 h in bed, deep 1.23 h, REM 1.02 h, awake 0.03 h)
 
 **Week 3 · Day 2**
-Finished: 2025-12-22 18:53:06
+Finished: 2025-12-22 05:53:06
 
 ### Block Pull (Barbell)
 
@@ -6752,19 +6802,19 @@ Finished: 2025-12-22 18:53:06
   Set 3: 12.5kg x 12 @ RPE 9 [target RPE: 9]
   Set 4: 12.5kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
-## 2025-12-21
+## 2025-12-20
 
 ### Health / Recovery
 
-- Steps: 2892
-- Distance: 1.68 km
-- Total kcal burned: 2347
+- Steps: 10587
+- Distance: 7.39 km
+- Total kcal burned: 1827
 - Weight: 77.8 kg
 - Resting heart rate: 45 bpm
-- Sleep: 8.03 h asleep (8.07 h in bed, deep 1.10 h, REM 1.58 h, awake 0.03 h)
+- Sleep: 7.37 h asleep (7.58 h in bed, deep 1.27 h, REM 1.33 h, awake 0.22 h)
 
 **Week 3 · Day 1**
-Finished: 2025-12-21 10:14:05
+Finished: 2025-12-20 21:14:05
 
 ### Squat (Low Bar)
 
@@ -6795,19 +6845,19 @@ Exercise notes: Attempt 5 RM PR
   Set 3: 17.5kg x 10 @ RPE 9.5 [target RPE: 8]
   Set 4: 15.0kg x 10 @ RPE 8 [target RPE: 8]
 
-## 2025-12-20
+## 2025-12-19
 
 ### Health / Recovery
 
-- Steps: 10587
-- Distance: 7.39 km
-- Total kcal burned: 1827
-- Weight: 77.8 kg
-- Resting heart rate: 45 bpm
-- Sleep: 7.37 h asleep (7.58 h in bed, deep 1.27 h, REM 1.33 h, awake 0.22 h)
+- Steps: 5420
+- Distance: 3.71 km
+- Total kcal burned: 1894
+- Weight: 78 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.60 h asleep (7.68 h in bed, deep 1.08 h, REM 1 h, awake 0.08 h)
 
 **Week 2 · Day 5**
-Finished: 2025-12-20 10:14:33
+Finished: 2025-12-19 21:14:33
 
 ### Sumo Deadlift (Barbell)
 
@@ -6828,19 +6878,19 @@ Finished: 2025-12-20 10:14:33
   Set 2: 95.0kg x 8 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=313]
   Set 3: 95.0kg x 8 @ RPE 7 [target RPE: 70] [est_stress=-, real_stress=313]
 
-## 2025-12-18
+## 2025-12-17
 
 ### Health / Recovery
 
-- Steps: 1901
-- Distance: 1.13 km
-- Total kcal burned: 1737
-- Weight: 77.5 kg
+- Steps: 3382
+- Distance: 2.14 km
+- Total kcal burned: 1700
+- Weight: 77.2 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.22 h asleep (7.62 h in bed, deep 1.02 h, REM 1 h, awake 0.40 h)
+- Sleep: 7.48 h asleep (8.15 h in bed, deep 1.10 h, REM 1.22 h, awake 0.67 h)
 
 **Week 2 · Day 4**
-Finished: 2025-12-18 09:55:48
+Finished: 2025-12-17 20:55:48
 
 ### Bench Press (Barbell)
 
@@ -6869,19 +6919,19 @@ Finished: 2025-12-18 09:55:48
   Set 3: 10.0kg x 12 [target: 15 reps, target RPE: 9]
   Set 4: 10.0kg x 11 [target: 15 reps, target RPE: 9]
 
-## 2025-12-17
+## 2025-12-16
 
 ### Health / Recovery
 
-- Steps: 3382
-- Distance: 2.14 km
-- Total kcal burned: 1700
-- Weight: 77.2 kg
+- Steps: 2120
+- Distance: 1.23 km
+- Total kcal burned: 1768
+- Weight: 77.5 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.48 h asleep (8.15 h in bed, deep 1.10 h, REM 1.22 h, awake 0.67 h)
+- Sleep: 7.27 h asleep (7.47 h in bed, deep 1.12 h, REM 0.83 h, awake 0.20 h)
 
 **Week 2 · Day 3**
-Finished: 2025-12-17 10:03:51
+Finished: 2025-12-16 21:03:51
 
 ### Tempo Squat (Barbell)
 
@@ -6908,19 +6958,19 @@ Finished: 2025-12-17 10:03:51
   Set 3: 20.0kg x 9 @ RPE 9 [target: 12 reps, target RPE: 9]
   Set 4: 20.0kg x 8 @ RPE 9.5 [target: 12 reps, target RPE: 9]
 
-## 2025-12-16
+## 2025-12-15
 
 ### Health / Recovery
 
-- Steps: 2120
-- Distance: 1.23 km
-- Total kcal burned: 1768
+- Steps: 2741
+- Distance: 1.63 km
+- Total kcal burned: 1737
 - Weight: 77.5 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.27 h asleep (7.47 h in bed, deep 1.12 h, REM 0.83 h, awake 0.20 h)
+- Sleep: 7.57 h asleep (7.58 h in bed, deep 1.77 h, REM 1.15 h, awake 0.02 h)
 
 **Week 2 · Day 2**
-Finished: 2025-12-16 09:53:22
+Finished: 2025-12-15 20:53:22
 
 ### Sumo Deadlift (Paused)
 
@@ -6948,19 +6998,19 @@ Finished: 2025-12-16 09:53:22
   Set 3: 25.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 9]
   Set 4: 25.0kg x 9 @ RPE 9 [target: 12 reps, target RPE: 9]
 
-## 2025-12-15
+## 2025-12-14
 
 ### Health / Recovery
 
-- Steps: 2741
-- Distance: 1.63 km
-- Total kcal burned: 1737
-- Weight: 77.5 kg
+- Steps: 8831
+- Distance: 6.09 km
+- Total kcal burned: 1727
+- Weight: 78.2 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.57 h asleep (7.58 h in bed, deep 1.77 h, REM 1.15 h, awake 0.02 h)
+- Sleep: 8.78 h asleep (9.27 h in bed, deep 1 h, REM 2.40 h, awake 0.48 h)
 
 **Week 2 · Day 1**
-Finished: 2025-12-15 10:16:18
+Finished: 2025-12-14 21:16:18
 
 ### Squat (Low Bar)
 
@@ -6989,18 +7039,19 @@ Finished: 2025-12-15 10:16:18
   Set 3: 15.0kg x 11 [target: 10 reps, target RPE: 8.5]
   Set 4: 15.0kg x 11 [target: 10 reps, target RPE: 8.5]
 
-## 2025-12-13
+## 2025-12-12
 
 ### Health / Recovery
 
-- Steps: 13473
-- Distance: 9.33 km
-- Total kcal burned: 1830
-- Resting heart rate: 44 bpm
-- Sleep: 7.08 h asleep (7.08 h in bed, deep 1.07 h, REM 1.57 h, awake 0 h)
+- Steps: 4356
+- Distance: 3 km
+- Total kcal burned: 1861
+- Weight: 78.4 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.93 h asleep (8.20 h in bed, deep 0.45 h, REM 1.25 h, awake 0.27 h)
 
 **Week 1 · Day 5**
-Finished: 2025-12-13 10:17:24
+Finished: 2025-12-12 21:17:24
 
 ### Squat (Low Bar)
 
@@ -7036,18 +7087,19 @@ Finished: 2025-12-13 10:17:24
   Set 2: 70.0kg x 8 @ RPE 6 [target RPE: 9]
   Set 3: 70.0kg x 8 @ RPE 6.5 [target RPE: 9]
 
-## 2025-12-11
+## 2025-12-10
 
 ### Health / Recovery
 
-- Steps: 6398
-- Distance: 4.32 km
-- Total kcal burned: 1940
+- Steps: 2144
+- Distance: 1.32 km
+- Total kcal burned: 1811
+- Weight: 77 kg
 - Resting heart rate: 45 bpm
-- Sleep: 6.82 h asleep (6.87 h in bed, deep 1.05 h, REM 1.47 h, awake 0.05 h)
+- Sleep: 7.32 h asleep (7.63 h in bed, deep 0.93 h, REM 1.40 h, awake 0.32 h)
 
 **Week 1 · Day 4**
-Finished: 2025-12-11 09:21:10
+Finished: 2025-12-10 20:21:10
 
 ### Bench Press (Paused)
 
@@ -7082,19 +7134,18 @@ Finished: 2025-12-11 09:21:10
   Set 3: 12.5kg x 7 [target RPE: 9]
   Set 4: 12.5kg x 6 [target RPE: 9]
 
-## 2025-12-10
+## 2025-12-09
 
 ### Health / Recovery
 
-- Steps: 2144
-- Distance: 1.32 km
-- Total kcal burned: 1811
-- Weight: 77 kg
+- Steps: 2722
+- Distance: 1.67 km
+- Total kcal burned: 1742
 - Resting heart rate: 45 bpm
-- Sleep: 7.32 h asleep (7.63 h in bed, deep 0.93 h, REM 1.40 h, awake 0.32 h)
+- Sleep: 6.65 h asleep (6.67 h in bed, deep 0.80 h, REM 1.87 h, awake 0.02 h)
 
 **Week 1 · Day 3**
-Finished: 2025-12-10 09:58:19
+Finished: 2025-12-09 20:58:19
 
 ### Sumo Deadlift (Barbell)
 
@@ -7129,18 +7180,19 @@ Finished: 2025-12-10 09:58:19
   Set 3: 25.0kg x 8 [target RPE: 9]
   Set 4: 20.0kg x 10 [target RPE: 9]
 
-## 2025-12-09
+## 2025-12-08
 
 ### Health / Recovery
 
-- Steps: 2722
-- Distance: 1.67 km
-- Total kcal burned: 1742
+- Steps: 2316
+- Distance: 1.40 km
+- Total kcal burned: 1791
+- Weight: 77.6 kg
 - Resting heart rate: 45 bpm
-- Sleep: 6.65 h asleep (6.67 h in bed, deep 0.80 h, REM 1.87 h, awake 0.02 h)
+- Sleep: 8.13 h asleep (8.25 h in bed, deep 0.62 h, REM 1.48 h, awake 0.12 h)
 
 **Week 1 · Day 2**
-Finished: 2025-12-09 09:34:20
+Finished: 2025-12-08 20:34:20
 
 ### Bench Press (Barbell)
 
@@ -7177,19 +7229,19 @@ Finished: 2025-12-09 09:34:20
   Set 3: 12.5kg x 15 [target RPE: 8-9]
   Set 4: 12.5kg x 15 [target RPE: 8-9]
 
-## 2025-12-08
+## 2025-12-07
 
 ### Health / Recovery
 
-- Steps: 2316
-- Distance: 1.40 km
-- Total kcal burned: 1791
-- Weight: 77.6 kg
+- Steps: 16524
+- Distance: 11.29 km
+- Total kcal burned: 1686
+- Weight: 77.9 kg
 - Resting heart rate: 45 bpm
-- Sleep: 8.13 h asleep (8.25 h in bed, deep 0.62 h, REM 1.48 h, awake 0.12 h)
+- Sleep: 7.92 h asleep (8.17 h in bed, deep 1.07 h, REM 0.72 h, awake 0.25 h)
 
 **Week 1 · Day 1**
-Finished: 2025-12-08 09:52:51
+Finished: 2025-12-07 20:52:51
 
 ### Squat (Low Bar)
 
@@ -7226,19 +7278,18 @@ Finished: 2025-12-08 09:52:51
   Set 3: 22.5kg x 10 [target RPE: 9]
   Set 4: 22.5kg x 10 [target RPE: 9]
 
-## 2025-12-05
+## 2025-12-04
 
 ### Health / Recovery
 
-- Steps: 3259
-- Distance: 1.97 km
-- Total kcal burned: 1650
-- Weight: 77.4 kg
+- Steps: 2578
+- Distance: 1.59 km
+- Total kcal burned: 1807
 - Resting heart rate: 44 bpm
-- Sleep: 6.48 h asleep (7 h in bed, deep 1.05 h, REM 0.78 h, awake 0.52 h)
+- Sleep: 7.03 h asleep (7.03 h in bed, deep 1.57 h, REM 1.25 h, awake 0 h)
 
 **Dec 5 Workout**
-Finished: 2025-12-05 12:20:19
+Finished: 2025-12-04 23:20:19
 
 ### Squat (Low Bar)
 
@@ -7252,18 +7303,19 @@ Finished: 2025-12-05 12:20:19
 
   Set 1: 140.0kg x 11 [est_stress=-, real_stress=-]
 
-## 2025-12-04
+## 2025-12-03
 
 ### Health / Recovery
 
-- Steps: 2578
-- Distance: 1.59 km
-- Total kcal burned: 1807
+- Steps: 14888
+- Distance: 10.49 km
+- Total kcal burned: 2150
+- Weight: 78.1 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.03 h asleep (7.03 h in bed, deep 1.57 h, REM 1.25 h, awake 0 h)
+- Sleep: 7.92 h asleep (8.03 h in bed, deep 0.93 h, REM 1.55 h, awake 0.12 h)
 
 **Dec 4 Workout**
-Finished: 2025-12-04 10:16:27
+Finished: 2025-12-03 21:16:27
 
 ### Squat (Low Bar)
 
@@ -7279,19 +7331,19 @@ Finished: 2025-12-04 10:16:27
 
   Set 1: 185.0kg x 1 @ RPE 8.5 [est_stress=-, real_stress=174]
 
-## 2025-12-01
+## 2025-11-30
 
 ### Health / Recovery
 
-- Steps: 8422
-- Distance: 5.91 km
-- Total kcal burned: 2045
-- Weight: 77.6 kg
-- Resting heart rate: 45 bpm
-- Sleep: 8.05 h asleep (8.32 h in bed, deep 1.72 h, REM 1.22 h, awake 0.27 h)
+- Steps: 12728
+- Distance: 8.78 km
+- Total kcal burned: 1975
+- Weight: 78.7 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.42 h asleep (8.73 h in bed, deep 1.08 h, REM 1.45 h, awake 0.32 h)
 
 **Week 1 · Day 2**
-Finished: 2025-12-01 10:08:50
+Finished: 2025-11-30 21:08:50
 
 ### Squat (Low Bar)
 
@@ -7305,18 +7357,19 @@ Finished: 2025-12-01 10:08:50
   Set 2: 95.0kg x 2 [target RPE: 70] [est_stress=-, real_stress=-]
   Set 3: 95.0kg x 2 [target RPE: 70] [est_stress=-, real_stress=-]
 
-## 2025-11-29
+## 2025-11-28
 
 ### Health / Recovery
 
-- Steps: 14269
-- Distance: 9.88 km
-- Total kcal burned: 2273
+- Steps: 6373
+- Distance: 4.47 km
+- Total kcal burned: 1814
+- Weight: 78.3 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.45 h asleep (7.53 h in bed, deep 1.18 h, REM 1.43 h, awake 0.08 h)
+- Sleep: 8 h asleep (8.12 h in bed, deep 0.85 h, REM 1.98 h, awake 0.12 h)
 
 **Week 1 · Day 1**
-Finished: 2025-11-29 11:24:30
+Finished: 2025-11-28 22:24:30
 
 ### Squat (Low Bar)
 
@@ -7332,18 +7385,19 @@ Finished: 2025-11-29 11:24:30
   Set 2: 140.0kg x 1 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=45]
   Set 3: 140.0kg x 1 @ RPE 6 [target RPE: 70] [est_stress=-, real_stress=45]
 
-## 2025-11-27
+## 2025-11-26
 
 ### Health / Recovery
 
-- Steps: 1516
-- Distance: 0.85 km
-- Total kcal burned: 1791
-- Resting heart rate: 44 bpm
-- Sleep: 7.20 h asleep (7.60 h in bed, deep 1.18 h, REM 1.30 h, awake 0.40 h)
+- Steps: 2912
+- Distance: 1.85 km
+- Total kcal burned: 1763
+- Weight: 78 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.28 h asleep (7.63 h in bed, deep 1.13 h, REM 1.08 h, awake 0.35 h)
 
 **Week 4 · Day 5**
-Finished: 2025-11-27 10:02:52
+Finished: 2025-11-26 21:02:52
 
 ### Tempo Squat (Barbell)
 
@@ -7369,19 +7423,19 @@ Finished: 2025-11-27 10:02:52
   Set 2: 70.0kg x 8 [target RPE: 9]
   Set 3: 70.0kg x 8 [target RPE: 9]
 
-## 2025-11-26
+## 2025-11-25
 
 ### Health / Recovery
 
-- Steps: 2912
-- Distance: 1.85 km
-- Total kcal burned: 1763
-- Weight: 78 kg
+- Steps: 7559
+- Distance: 5.10 km
+- Total kcal burned: 1915
+- Weight: 77.7 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.28 h asleep (7.63 h in bed, deep 1.13 h, REM 1.08 h, awake 0.35 h)
+- Sleep: 7.02 h asleep (7.23 h in bed, deep 0.75 h, REM 1.27 h, awake 0.22 h)
 
 **Week 4 · Day 4**
-Finished: 2025-11-26 10:09:26
+Finished: 2025-11-25 21:09:26
 
 ### Bench Press (Paused)
 
@@ -7413,19 +7467,19 @@ Finished: 2025-11-26 10:09:26
   Set 3: 12.5kg x 8 [target RPE: 9]
   Set 4: 12.5kg x 9 [target RPE: 9]
 
-## 2025-11-25
+## 2025-11-24
 
 ### Health / Recovery
 
-- Steps: 7559
-- Distance: 5.10 km
-- Total kcal burned: 1915
-- Weight: 77.7 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.02 h asleep (7.23 h in bed, deep 0.75 h, REM 1.27 h, awake 0.22 h)
+- Steps: 13315
+- Distance: 9.15 km
+- Total kcal burned: 2073
+- Weight: 78.1 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.98 h asleep (8.15 h in bed, deep 1.87 h, REM 1.63 h, awake 0.17 h)
 
 **Week 4 · Day 3**
-Finished: 2025-11-25 09:03:18
+Finished: 2025-11-24 20:03:18
 
 ### Sumo Deadlift (Barbell)
 
@@ -7453,19 +7507,19 @@ Finished: 2025-11-25 09:03:18
   Set 3: 45.0kg x 13 [target RPE: 9]
   Set 4: 45.0kg x 13 [target RPE: 9]
 
-## 2025-11-24
+## 2025-11-23
 
 ### Health / Recovery
 
-- Steps: 13315
-- Distance: 9.15 km
-- Total kcal burned: 2073
+- Steps: 17626
+- Distance: 12.05 km
+- Total kcal burned: 2094
 - Weight: 78.1 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.98 h asleep (8.15 h in bed, deep 1.87 h, REM 1.63 h, awake 0.17 h)
+- Sleep: 8.37 h asleep (8.88 h in bed, deep 1.20 h, REM 1.53 h, awake 0.52 h)
 
 **Week 4 · Day 2**
-Finished: 2025-11-24 09:41:24
+Finished: 2025-11-23 20:41:24
 
 ### Bench Press (Barbell)
 
@@ -7494,19 +7548,19 @@ Finished: 2025-11-24 09:41:24
   Set 3: 17.5kg x 20 [target RPE: 9]
   Set 4: 17.5kg x 20 [target RPE: 9]
 
-## 2025-11-22
+## 2025-11-21
 
 ### Health / Recovery
 
-- Steps: 12104
-- Distance: 8.25 km
-- Total kcal burned: 2131
-- Weight: 78.1 kg
+- Steps: 9696
+- Distance: 6.83 km
+- Total kcal burned: 2004
+- Weight: 77.8 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.97 h asleep (8.32 h in bed, deep 1.22 h, REM 1.60 h, awake 0.35 h)
+- Sleep: 7.02 h asleep (7.38 h in bed, deep 0.63 h, REM 1.07 h, awake 0.37 h)
 
 **Week 4 · Day 1**
-Finished: 2025-11-22 10:12:38
+Finished: 2025-11-21 21:12:38
 
 ### Squat (Low Bar)
 
@@ -7534,19 +7588,19 @@ Finished: 2025-11-22 10:12:38
   Set 3: 22.5kg x 11 [target RPE: 9]
   Set 4: 22.5kg x 10 [target RPE: 9]
 
-## 2025-11-20
+## 2025-11-19
 
 ### Health / Recovery
 
-- Steps: 2370
-- Distance: 1.39 km
-- Total kcal burned: 1732
+- Steps: 3560
+- Distance: 2.31 km
+- Total kcal burned: 2019
 - Weight: 77.8 kg
 - Resting heart rate: 45 bpm
-- Sleep: 7.45 h asleep (7.85 h in bed, deep 0.85 h, REM 1.17 h, awake 0.40 h)
+- Sleep: 7.08 h asleep (7.15 h in bed, deep 0.95 h, REM 1.42 h, awake 0.07 h)
 
 **Week 3 · Day 5**
-Finished: 2025-11-20 09:38:41
+Finished: 2025-11-19 20:38:41
 
 ### Tempo Squat (Barbell)
 
@@ -7573,19 +7627,19 @@ Finished: 2025-11-20 09:38:41
   Set 2: 70.0kg x 8 @ RPE 6 [target RPE: 9]
   Set 3: 70.0kg x 8 @ RPE 6 [target RPE: 9]
 
-## 2025-11-19
+## 2025-11-18
 
 ### Health / Recovery
 
-- Steps: 3560
-- Distance: 2.31 km
-- Total kcal burned: 2019
+- Steps: 1628
+- Distance: 0.96 km
+- Total kcal burned: 1802
 - Weight: 77.8 kg
 - Resting heart rate: 45 bpm
-- Sleep: 7.08 h asleep (7.15 h in bed, deep 0.95 h, REM 1.42 h, awake 0.07 h)
+- Sleep: 7.65 h asleep (7.95 h in bed, deep 0.73 h, REM 1.18 h, awake 0.30 h)
 
 **Week 3 · Day 4**
-Finished: 2025-11-19 09:32:39
+Finished: 2025-11-18 20:32:39
 
 ### Bench Press (Paused)
 
@@ -7614,19 +7668,19 @@ Finished: 2025-11-19 09:32:39
   Set 3: 12.5kg x 9 [target RPE: 9]
   Set 4: 12.5kg x 8 [target RPE: 9]
 
-## 2025-11-18
+## 2025-11-17
 
 ### Health / Recovery
 
-- Steps: 1628
-- Distance: 0.96 km
-- Total kcal burned: 1802
-- Weight: 77.8 kg
+- Steps: 2367
+- Distance: 1.50 km
+- Total kcal burned: 1748
+- Weight: 74.4 kg
 - Resting heart rate: 45 bpm
-- Sleep: 7.65 h asleep (7.95 h in bed, deep 0.73 h, REM 1.18 h, awake 0.30 h)
+- Sleep: 8.60 h asleep (8.85 h in bed, deep 1.23 h, REM 1.53 h, awake 0.25 h)
 
 **Week 3 · Day 3**
-Finished: 2025-11-18 10:03:42
+Finished: 2025-11-17 21:03:42
 
 ### Sumo Deadlift (Barbell)
 
@@ -7654,19 +7708,19 @@ Finished: 2025-11-18 10:03:42
   Set 3: 45.0kg x 12 [target RPE: 9]
   Set 4: 45.0kg x 13 [target RPE: 9]
 
-## 2025-11-17
+## 2025-11-16
 
 ### Health / Recovery
 
-- Steps: 2367
-- Distance: 1.50 km
-- Total kcal burned: 1748
-- Weight: 74.4 kg
+- Steps: 17996
+- Distance: 12.31 km
+- Total kcal burned: 2142
+- Weight: 77.4 kg
 - Resting heart rate: 45 bpm
-- Sleep: 8.60 h asleep (8.85 h in bed, deep 1.23 h, REM 1.53 h, awake 0.25 h)
+- Sleep: 5.90 h asleep (5.93 h in bed, deep 0.97 h, REM 0.92 h, awake 0.03 h)
 
 **Week 3 · Day 2**
-Finished: 2025-11-17 09:37:25
+Finished: 2025-11-16 20:37:25
 
 ### Bench Press (Barbell)
 
@@ -7696,19 +7750,19 @@ Finished: 2025-11-17 09:37:25
   Set 3: 17.5kg x 17 [target RPE: 9]
   Set 4: 17.5kg x 18 [target RPE: 9]
 
-## 2025-11-15
+## 2025-11-14
 
 ### Health / Recovery
 
-- Steps: 11392
-- Distance: 7.70 km
-- Total kcal burned: 1986
+- Steps: 2501
+- Distance: 1.51 km
+- Total kcal burned: 1698
 - Weight: 77.4 kg
 - Resting heart rate: 45 bpm
-- Sleep: 7.20 h asleep (7.37 h in bed, deep 0.92 h, REM 1.45 h, awake 0.17 h)
+- Sleep: 7.77 h asleep (7.90 h in bed, deep 1.08 h, REM 1.20 h, awake 0.13 h)
 
 **Week 3 · Day 1**
-Finished: 2025-11-15 10:07:44
+Finished: 2025-11-14 21:07:44
 
 ### Squat (Low Bar)
 
@@ -7738,19 +7792,19 @@ Finished: 2025-11-15 10:07:44
   Set 3: 22.5kg x 10 [target RPE: 9]
   Set 4: 22.5kg x 10 [target RPE: 9]
 
-## 2025-11-13
+## 2025-11-12
 
 ### Health / Recovery
 
-- Steps: 3045
-- Distance: 1.82 km
-- Total kcal burned: 1726
+- Steps: 1625
+- Distance: 0.90 km
+- Total kcal burned: 1764
 - Weight: 77.4 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.47 h asleep (7.53 h in bed, deep 1.17 h, REM 1.35 h, awake 0.07 h)
+- Sleep: 7.02 h asleep (7.13 h in bed, deep 1.23 h, REM 1.30 h, awake 0.12 h)
 
 **Week 2 · Day 5**
-Finished: 2025-11-13 09:45:07
+Finished: 2025-11-12 20:45:07
 
 ### Tempo Squat (Barbell)
 
@@ -7777,19 +7831,19 @@ Finished: 2025-11-13 09:45:07
   Set 2: 70.0kg x 8 @ RPE 6 [target RPE: 9]
   Set 3: 70.0kg x 8 @ RPE 6 [target RPE: 9]
 
-## 2025-11-12
+## 2025-11-11
 
 ### Health / Recovery
 
-- Steps: 1625
-- Distance: 0.90 km
-- Total kcal burned: 1764
+- Steps: 4666
+- Distance: 3.81 km
+- Total kcal burned: 1650
 - Weight: 77.4 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.02 h asleep (7.13 h in bed, deep 1.23 h, REM 1.30 h, awake 0.12 h)
+- Sleep: 8.20 h asleep (8.43 h in bed, deep 1.38 h, REM 1.32 h, awake 0.23 h)
 
 **Week 2 · Day 4**
-Finished: 2025-11-12 09:19:28
+Finished: 2025-11-11 20:19:28
 
 ### Bench Press (Paused)
 
@@ -7819,19 +7873,19 @@ Finished: 2025-11-12 09:19:28
   Set 3: 12.5kg x 8 [target RPE: 9]
   Set 4: 12.5kg x 8 [target RPE: 9]
 
-## 2025-11-11
+## 2025-11-10
 
 ### Health / Recovery
 
-- Steps: 4666
-- Distance: 3.81 km
+- Steps: 2347
+- Distance: 1.93 km
 - Total kcal burned: 1650
 - Weight: 77.4 kg
 - Resting heart rate: 44 bpm
-- Sleep: 8.20 h asleep (8.43 h in bed, deep 1.38 h, REM 1.32 h, awake 0.23 h)
+- Sleep: 8.70 h asleep (9.45 h in bed, deep 0.80 h, REM 2.17 h, awake 0.75 h)
 
 **Week 2 · Day 3**
-Finished: 2025-11-11 09:51:42
+Finished: 2025-11-10 20:51:42
 
 ### Sumo Deadlift (Barbell)
 
@@ -7858,19 +7912,19 @@ Finished: 2025-11-11 09:51:42
   Set 3: 50.0kg x 12 [target RPE: 9]
   Set 4: 50.0kg x 12 [target RPE: 9]
 
-## 2025-11-09
+## 2025-11-08
 
 ### Health / Recovery
 
-- Steps: 15131
-- Distance: 12.26 km
+- Steps: 20196
+- Distance: 16.36 km
 - Total kcal burned: 1650
-- Weight: 77.4 kg
+- Weight: 78 kg
 - Resting heart rate: 44 bpm
 - Sleep: 5.55 h asleep (5.63 h in bed, deep 0.78 h, REM 1.07 h, awake 0.08 h)
 
 **Week 2 · Day 2**
-Finished: 2025-11-09 08:38:18
+Finished: 2025-11-08 19:38:18
 
 ### Bench Press (Barbell)
 
@@ -7900,19 +7954,19 @@ Finished: 2025-11-09 08:38:18
   Set 3: 17.5kg x 15 [target RPE: 9]
   Set 4: 17.5kg x 15 [target RPE: 9]
 
-## 2025-11-08
+## 2025-11-07
 
 ### Health / Recovery
 
-- Steps: 20196
-- Distance: 16.36 km
+- Steps: 13334
+- Distance: 11.01 km
 - Total kcal burned: 1650
-- Weight: 78 kg
+- Weight: 77.6 kg
 - Resting heart rate: 44 bpm
 - Sleep: 5.93 h asleep (6.18 h in bed, deep 1.42 h, REM 0.70 h, awake 0.25 h)
 
 **Week 2 · Day 1**
-Finished: 2025-11-08 09:01:09
+Finished: 2025-11-07 20:01:09
 
 ### Squat (Low Bar)
 
@@ -7942,19 +7996,19 @@ Finished: 2025-11-08 09:01:09
   Set 3: 20.0kg x 11 [target RPE: 9]
   Set 4: 20.0kg x 10 [target RPE: 9]
 
-## 2025-11-06
+## 2025-11-05
 
 ### Health / Recovery
 
-- Steps: 5014
-- Distance: 4.11 km
+- Steps: 5630
+- Distance: 4.57 km
 - Total kcal burned: 1650
-- Weight: 77.6 kg
-- Resting heart rate: 44 bpm
+- Weight: 76.9 kg
+- Resting heart rate: 43 bpm
 - Sleep: 6.07 h asleep (6.37 h in bed, deep 0.93 h, REM 1.02 h, awake 0.30 h)
 
 **Week 1 · Day 5**
-Finished: 2025-11-06 08:44:50
+Finished: 2025-11-05 19:44:50
 
 ### Romanian Deadlift (Barbell)
 
@@ -7983,19 +8037,19 @@ Finished: 2025-11-06 08:44:50
   Set 2: 70.0kg x 8 [target RPE: 9]
   Set 3: 70.0kg x 8 [target RPE: 9]
 
-## 2025-11-05
+## 2025-11-04
 
 ### Health / Recovery
 
-- Steps: 5630
-- Distance: 4.57 km
+- Steps: 4655
+- Distance: 3.82 km
 - Total kcal burned: 1650
 - Weight: 76.9 kg
 - Resting heart rate: 43 bpm
 - Sleep: 6.38 h asleep (6.40 h in bed, deep 1.13 h, REM 1.20 h, awake 0.02 h)
 
 **Week 1 · Day 4**
-Finished: 2025-11-05 08:41:35
+Finished: 2025-11-04 19:41:35
 
 ### Bench Press (Paused)
 
@@ -8025,19 +8079,19 @@ Finished: 2025-11-05 08:41:35
   Set 2: 45.0kg x 8 [target RPE: 9]
   Set 3: 45.0kg x 8 [target RPE: 9]
 
-## 2025-11-04
+## 2025-11-03
 
 ### Health / Recovery
 
-- Steps: 4655
-- Distance: 3.82 km
-- Total kcal burned: 1650
-- Weight: 76.9 kg
+- Steps: 21095
+- Distance: 16.66 km
+- Total kcal burned: 2026
+- Weight: 77.6 kg
 - Resting heart rate: 43 bpm
 - Sleep: 6.32 h asleep (6.40 h in bed, deep 0.72 h, REM 1.57 h, awake 0.08 h)
 
 **Week 1 · Day 3**
-Finished: 2025-11-04 08:52:11
+Finished: 2025-11-03 19:52:11
 
 ### Sumo Deadlift (Barbell)
 
@@ -8065,19 +8119,19 @@ Finished: 2025-11-04 08:52:11
   Set 3: 50.0kg x 10 [target RPE: 9]
   Set 4: 47.5kg x 12 [target RPE: 9]
 
-## 2025-11-03
+## 2025-11-02
 
 ### Health / Recovery
 
-- Steps: 21095
-- Distance: 16.66 km
-- Total kcal burned: 2026
+- Steps: 20564
+- Distance: 14.24 km
+- Total kcal burned: 2182
 - Weight: 77.6 kg
 - Resting heart rate: 43 bpm
-- Sleep: 5.95 h asleep (5.95 h in bed, deep 1.25 h, REM 0.98 h, awake 0 h)
+- Sleep: 7.47 h asleep (7.47 h in bed, deep 1.30 h, REM 1.77 h, awake 0 h)
 
 **Week 1 · Day 2**
-Finished: 2025-11-03 08:23:50
+Finished: 2025-11-02 19:23:50
 
 ### Bench Press (Barbell)
 
@@ -8109,19 +8163,19 @@ Finished: 2025-11-03 08:23:50
   Set 4: 15.0kg x 15 [target RPE: 9]
   Set 5: 15.0kg x 16 [target RPE: 9]
 
-## 2025-11-01
+## 2025-10-31
 
 ### Health / Recovery
 
-- Steps: 15902
-- Distance: 10.64 km
-- Total kcal burned: 2404
-- Weight: 78.3 kg
-- Resting heart rate: 43 bpm
-- Sleep: 5.63 h asleep (5.67 h in bed, deep 1.47 h, REM 0.82 h, awake 0.03 h)
+- Steps: 518
+- Distance: 0.25 km
+- Total kcal burned: 1655
+- Weight: 76.9 kg
+- Resting heart rate: 42 bpm
+- Sleep: 9.38 h asleep (9.53 h in bed, deep 1.10 h, REM 1.85 h, awake 0.15 h)
 
 **Week 1 · Day 1**
-Finished: 2025-11-01 08:53:40
+Finished: 2025-10-31 19:53:40
 
 ### Squat (Low Bar)
 
@@ -8152,19 +8206,19 @@ Finished: 2025-11-01 08:53:40
   Set 3: 20.0kg x 11 [target RPE: 9]
   Set 4: 20.0kg x 10 [target RPE: 9]
 
-## 2025-10-30
+## 2025-10-29
 
 ### Health / Recovery
 
-- Steps: 1411
-- Distance: 0.72 km
-- Total kcal burned: 1780
+- Steps: 1940
+- Distance: 1.22 km
+- Total kcal burned: 1742
 - Weight: 76.9 kg
 - Resting heart rate: 42 bpm
-- Sleep: 5.23 h asleep (5.47 h in bed, deep 1.12 h, REM 1.12 h, awake 0.23 h)
+- Sleep: 6.23 h asleep (6.47 h in bed, deep 1.32 h, REM 0.57 h, awake 0.23 h)
 
 **Week 4 · Day 5**
-Finished: 2025-10-30 08:57:17
+Finished: 2025-10-29 19:57:17
 
 ### Squat (Low Bar)
 
@@ -8193,19 +8247,19 @@ Finished: 2025-10-30 08:57:17
   Set 2: 75.0kg x 8 [target RPE: 9]
   Set 3: 75.0kg x 8 [target RPE: 9]
 
-## 2025-10-29
+## 2025-10-28
 
 ### Health / Recovery
 
-- Steps: 1940
-- Distance: 1.22 km
-- Total kcal burned: 1742
-- Weight: 76.9 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.23 h asleep (6.47 h in bed, deep 1.32 h, REM 0.57 h, awake 0.23 h)
+- Steps: 1277
+- Distance: 0.70 km
+- Total kcal burned: 1820
+- Weight: 77.6 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.28 h asleep (7.72 h in bed, deep 1.70 h, REM 1.28 h, awake 0.43 h)
 
 **Week 4 · Day 4**
-Finished: 2025-10-29 08:35:19
+Finished: 2025-10-28 19:35:19
 
 ### Bench Press (Paused)
 
@@ -8236,19 +8290,19 @@ Finished: 2025-10-29 08:35:19
   Set 3: 12.5kg x 8 [target RPE: 9]
   Set 4: 12.5kg x 7 [target RPE: 9]
 
-## 2025-10-28
+## 2025-10-27
 
 ### Health / Recovery
 
-- Steps: 1277
-- Distance: 0.70 km
-- Total kcal burned: 1820
+- Steps: 2185
+- Distance: 1.24 km
+- Total kcal burned: 1718
 - Weight: 77.6 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.28 h asleep (7.72 h in bed, deep 1.70 h, REM 1.28 h, awake 0.43 h)
+- Sleep: 6.47 h asleep (6.57 h in bed, deep 1.17 h, REM 1.48 h, awake 0.10 h)
 
 **Week 4 · Day 3**
-Finished: 2025-10-28 09:05:11
+Finished: 2025-10-27 20:05:11
 
 ### Sumo Deadlift (Barbell)
 
@@ -8279,19 +8333,19 @@ Finished: 2025-10-28 09:05:11
   Set 3: 25.0kg x 11 [target RPE: 9]
   Set 4: 25.0kg x 11 [target RPE: 9]
 
-## 2025-10-27
+## 2025-10-26
 
 ### Health / Recovery
 
-- Steps: 2185
-- Distance: 1.24 km
-- Total kcal burned: 1718
-- Weight: 77.6 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.47 h asleep (6.57 h in bed, deep 1.17 h, REM 1.48 h, awake 0.10 h)
+- Steps: 12730
+- Distance: 8.91 km
+- Total kcal burned: 2169
+- Weight: 76.5 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.13 h asleep (6.13 h in bed, deep 1.25 h, REM 1.58 h, awake 0 h)
 
 **Week 4 · Day 2**
-Finished: 2025-10-27 08:29:28
+Finished: 2025-10-26 19:29:28
 
 ### Bench Press (Barbell)
 
@@ -8322,19 +8376,19 @@ Finished: 2025-10-27 08:29:28
   Set 3: 12.5kg x 12 [target RPE: 9]
   Set 4: 12.5kg x 12 [target RPE: 9]
 
-## 2025-10-26
+## 2025-10-25
 
 ### Health / Recovery
 
-- Steps: 12730
-- Distance: 8.91 km
-- Total kcal burned: 2169
-- Weight: 76.5 kg
+- Steps: 11020
+- Distance: 7.76 km
+- Total kcal burned: 2029
+- Weight: 76.9 kg
 - Resting heart rate: 42 bpm
-- Sleep: 6.13 h asleep (6.13 h in bed, deep 1.25 h, REM 1.58 h, awake 0 h)
+- Sleep: 7.57 h asleep (7.75 h in bed, deep 1.38 h, REM 1.67 h, awake 0.18 h)
 
 **Oct 26 Workout**
-Finished: 2025-10-26 09:34:56
+Finished: 2025-10-25 20:34:56
 
 ### Squat (Low Bar)
 
@@ -8367,19 +8421,19 @@ Finished: 2025-10-26 09:34:56
   Set 2: 15.0kg x 10
   Set 3: 15.0kg x 10
 
-## 2025-10-25
+## 2025-10-24
 
 ### Health / Recovery
 
-- Steps: 11020
-- Distance: 7.76 km
-- Total kcal burned: 2029
-- Weight: 76.9 kg
+- Steps: 6749
+- Distance: 4.68 km
+- Total kcal burned: 1954
+- Weight: 74.8 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.57 h asleep (7.75 h in bed, deep 1.38 h, REM 1.67 h, awake 0.18 h)
+- Sleep: 6.68 h asleep (6.77 h in bed, deep 1.78 h, REM 0.88 h, awake 0.08 h)
 
 **Week 4 · Day 1**
-Finished: 2025-10-25 10:07:31
+Finished: 2025-10-24 21:07:31
 
 ### Squat (Low Bar)
 
@@ -8411,19 +8465,19 @@ Finished: 2025-10-25 10:07:31
   Set 3: 20.0kg x 10 [target RPE: 9]
   Set 4: 20.0kg x 9 [target RPE: 9]
 
-## 2025-10-24
+## 2025-10-23
 
 ### Health / Recovery
 
-- Steps: 6749
-- Distance: 4.68 km
-- Total kcal burned: 1954
-- Weight: 74.8 kg
+- Steps: 3656
+- Distance: 2.18 km
+- Total kcal burned: 1733
+- Weight: 76.8 kg
 - Resting heart rate: 42 bpm
-- Sleep: 6.68 h asleep (6.77 h in bed, deep 1.78 h, REM 0.88 h, awake 0.08 h)
+- Sleep: 5.83 h asleep (6.28 h in bed, deep 2.13 h, REM 1.03 h, awake 0.45 h)
 
 **Week 3 · Day 5**
-Finished: 2025-10-24 07:44:37
+Finished: 2025-10-23 18:44:37
 
 ### Squat (Low Bar)
 
@@ -8460,19 +8514,18 @@ Finished: 2025-10-24 07:44:37
   Set 2: 75.0kg x 8 @ RPE 7 [target RPE: 9]
   Set 3: 75.0kg x 8 @ RPE 7 [target RPE: 9]
 
-## 2025-10-23
+## 2025-10-22
 
 ### Health / Recovery
 
-- Steps: 3656
-- Distance: 2.18 km
-- Total kcal burned: 1733
-- Weight: 76.8 kg
+- Steps: 4941
+- Distance: 3.45 km
+- Total kcal burned: 1804
 - Resting heart rate: 42 bpm
-- Sleep: 5.83 h asleep (6.28 h in bed, deep 2.13 h, REM 1.03 h, awake 0.45 h)
+- Sleep: 3.40 h asleep (3.58 h in bed, deep 0.15 h, REM 0.30 h, awake 0.18 h)
 
 **Week 3 · Day 4**
-Finished: 2025-10-23 07:31:57
+Finished: 2025-10-22 18:31:57
 
 ### Bench Press (Paused)
 
@@ -8519,7 +8572,7 @@ Finished: 2025-10-23 07:31:57
 - Sleep: 5.62 h asleep (6.12 h in bed, deep 0.77 h, REM 0.62 h, awake 0.50 h)
 
 **Week 3 · Day 3**
-Finished: 2025-10-20 14:30:17
+Finished: 2025-10-20 01:30:17
 
 ### Sumo Deadlift (Barbell)
 
@@ -8587,7 +8640,7 @@ Finished: 2025-10-20 14:30:17
 - Sleep: 7.35 h asleep (8.10 h in bed, deep 0.50 h, REM 1.18 h, awake 0.75 h)
 
 **Week 3 · Day 2**
-Finished: 2025-10-19 16:20:13
+Finished: 2025-10-19 03:20:13
 
 ### Bench Press (Barbell)
 
@@ -8635,7 +8688,7 @@ Finished: 2025-10-19 16:20:13
 - Sleep: 8.58 h asleep (8.80 h in bed, deep 1.60 h, REM 1.23 h, awake 0.22 h)
 
 **Week 3 · Day 1**
-Finished: 2025-10-18 16:47:29
+Finished: 2025-10-18 03:47:29
 
 ### Squat (Low Bar)
 
@@ -8683,7 +8736,7 @@ Finished: 2025-10-18 16:47:29
 - Sleep: 7.38 h asleep (7.53 h in bed, deep 1.92 h, REM 1.48 h, awake 0.15 h)
 
 **Week 2 · Day 5**
-Finished: 2025-10-16 14:18:05
+Finished: 2025-10-16 01:18:05
 
 ### Squat (Low Bar)
 
@@ -8744,7 +8797,7 @@ Finished: 2025-10-16 14:18:05
 - Sleep: 6.82 h asleep (7.15 h in bed, deep 1.43 h, REM 1.50 h, awake 0.33 h)
 
 **Week 2 · Day 4**
-Finished: 2025-10-15 13:56:21
+Finished: 2025-10-15 00:56:21
 
 ### Bench Press (Paused)
 
@@ -8790,7 +8843,7 @@ Finished: 2025-10-15 13:56:21
 - Sleep: 7.62 h asleep (8.47 h in bed, deep 0.87 h, REM 0.98 h, awake 0.85 h)
 
 **Week 2 · Day 3**
-Finished: 2025-10-14 16:28:40
+Finished: 2025-10-14 03:28:40
 
 ### Sumo Deadlift (Barbell)
 
@@ -8833,7 +8886,7 @@ Finished: 2025-10-14 16:28:40
 - Sleep: 7.32 h asleep (7.67 h in bed, deep 0.67 h, REM 1.18 h, awake 0.35 h)
 
 **Week 2 · Day 2**
-Finished: 2025-10-13 16:04:37
+Finished: 2025-10-13 03:04:37
 
 ### Bench Press (Barbell)
 
@@ -8881,7 +8934,7 @@ Finished: 2025-10-13 16:04:37
 - Sleep: 11.13 h asleep (12.02 h in bed, deep 2.37 h, REM 1.27 h, awake 0.88 h)
 
 **Week 2 · Day 1**
-Finished: 2025-10-11 16:51:44
+Finished: 2025-10-11 03:51:44
 
 ### Squat (Low Bar)
 
@@ -8918,19 +8971,19 @@ Finished: 2025-10-11 16:51:44
   Set 3: 20.0kg x 9 [target RPE: 9]
   Set 4: 20.0kg x 8 [target RPE: 9]
 
-## 2025-10-09
+## 2025-10-08
 
 ### Health / Recovery
 
-- Steps: 11132
-- Distance: 9.02 km
-- Total kcal burned: 3280
-- Weight: 76.8 kg
-- Resting heart rate: 43 bpm
-- Sleep: 5.72 h asleep (5.77 h in bed, deep 0.87 h, REM 0.88 h, awake 0.05 h)
+- Steps: 7214
+- Distance: 5.96 km
+- Total kcal burned: 3036
+- Weight: 77.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.12 h asleep (7.52 h in bed, deep 1.18 h, REM 1.22 h, awake 0.40 h)
 
 **Week 1 · Day 5**
-Finished: 2025-10-09 09:38:37
+Finished: 2025-10-08 20:38:37
 
 ### Squat (Low Bar)
 
@@ -8967,19 +9020,19 @@ Finished: 2025-10-09 09:38:37
   Set 2: 60.0kg x 12 [target RPE: 9]
   Set 3: 60.0kg x 12 [target RPE: 9]
 
-## 2025-10-08
+## 2025-10-07
 
 ### Health / Recovery
 
-- Steps: 7214
-- Distance: 5.96 km
-- Total kcal burned: 3036
-- Weight: 77.2 kg
+- Steps: 3950
+- Distance: 3.27 km
+- Total kcal burned: 2863
+- Weight: 76.7 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.12 h asleep (7.52 h in bed, deep 1.18 h, REM 1.22 h, awake 0.40 h)
+- Sleep: 6.13 h asleep (6.37 h in bed, deep 0.30 h, REM 1.17 h, awake 0.23 h)
 
 **Week 1 · Day 4**
-Finished: 2025-10-08 09:13:44
+Finished: 2025-10-07 20:13:44
 
 ### Bench Press (Paused)
 
@@ -9015,19 +9068,19 @@ Finished: 2025-10-08 09:13:44
   Set 3: 12.5kg x 7 [target RPE: 9]
   Set 4: 12.5kg x 7 [target RPE: 9]
 
-## 2025-10-07
+## 2025-10-06
 
 ### Health / Recovery
 
-- Steps: 3950
-- Distance: 3.27 km
-- Total kcal burned: 2863
-- Weight: 76.7 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.13 h asleep (6.37 h in bed, deep 0.30 h, REM 1.17 h, awake 0.23 h)
+- Steps: 4646
+- Distance: 3.77 km
+- Total kcal burned: 2668
+- Weight: 77.1 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.02 h asleep (7.15 h in bed, deep 1.65 h, REM 1.22 h, awake 0.13 h)
 
 **Week 1 · Day 3**
-Finished: 2025-10-07 09:36:54
+Finished: 2025-10-06 20:36:54
 
 ### Sumo Deadlift (Barbell)
 
@@ -9062,19 +9115,19 @@ Finished: 2025-10-07 09:36:54
   Set 3: 25.0kg x 9 [target RPE: 9]
   Set 4: 25.0kg x 10 [target RPE: 9]
 
-## 2025-10-06
+## 2025-10-05
 
 ### Health / Recovery
 
-- Steps: 4646
-- Distance: 3.77 km
-- Total kcal burned: 2668
-- Weight: 77.1 kg
+- Steps: 17645
+- Distance: 14.29 km
+- Total kcal burned: 2596
+- Weight: 72.4 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.02 h asleep (7.15 h in bed, deep 1.65 h, REM 1.22 h, awake 0.13 h)
+- Sleep: 6.20 h asleep (7.37 h in bed, deep 0.83 h, REM 0.85 h, awake 1.17 h)
 
 **Week 1 · Day 2**
-Finished: 2025-10-06 09:16:58
+Finished: 2025-10-05 20:16:58
 
 ### Bench Press (Barbell)
 
@@ -9111,19 +9164,19 @@ Finished: 2025-10-06 09:16:58
   Set 3: 10.0kg x 9 [target RPE: 9]
   Set 4: 10.0kg x 8 [target RPE: 9]
 
-## 2025-10-04
+## 2025-10-03
 
 ### Health / Recovery
 
-- Steps: 20832
-- Distance: 16.93 km
-- Total kcal burned: 3119
-- Weight: 77.7 kg
+- Steps: 2959
+- Distance: 2.40 km
+- Total kcal burned: 2142
+- Weight: 77.2 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.52 h asleep (7.85 h in bed, deep 1.25 h, REM 1.43 h, awake 0.33 h)
+- Sleep: 7.75 h asleep (7.97 h in bed, deep 0.82 h, REM 1.45 h, awake 0.22 h)
 
 **Week 1 · Day 1**
-Finished: 2025-10-04 09:44:05
+Finished: 2025-10-03 20:44:05
 
 ### Squat (Low Bar)
 
@@ -9160,19 +9213,19 @@ Finished: 2025-10-04 09:44:05
   Set 3: 20.0kg x 10 [target RPE: 9]
   Set 4: 20.0kg x 10 [target RPE: 9]
 
-## 2025-10-02
+## 2025-10-01
 
 ### Health / Recovery
 
-- Steps: 4626
-- Distance: 3.77 km
-- Total kcal burned: 2359
-- Weight: 77.2 kg
+- Steps: 7902
+- Distance: 6.43 km
+- Total kcal burned: 2591
+- Weight: 76.9 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.20 h asleep (7.22 h in bed, deep 1.75 h, REM 1.65 h, awake 0.02 h)
+- Sleep: 7.47 h asleep (7.58 h in bed, deep 1.17 h, REM 1.37 h, awake 0.12 h)
 
 **Week 5 · Day 5**
-Finished: 2025-10-02 09:53:28
+Finished: 2025-10-01 20:53:28
 
 ### Sumo Deadlift (Paused)
 
@@ -9201,19 +9254,19 @@ Finished: 2025-10-02 09:53:28
   Set 3: 50.0kg x 11 [target RPE: 9-10]
   Set 4: 50.0kg x 12 [target RPE: 9-10]
 
-## 2025-10-01
+## 2025-09-30
 
 ### Health / Recovery
 
-- Steps: 7902
-- Distance: 6.43 km
-- Total kcal burned: 2591
+- Steps: 5579
+- Distance: 4.53 km
+- Total kcal burned: 2784
 - Weight: 76.9 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.47 h asleep (7.58 h in bed, deep 1.17 h, REM 1.37 h, awake 0.12 h)
+- Sleep: 6.97 h asleep (7.03 h in bed, deep 0.87 h, REM 1.78 h, awake 0.07 h)
 
 **Week 5 · Day 4**
-Finished: 2025-10-01 10:02:43
+Finished: 2025-09-30 21:02:43
 
 ### Squat (Low Bar)
 
@@ -9231,19 +9284,19 @@ Finished: 2025-10-01 10:02:43
 ### Unknown
 
 
-## 2025-09-30
+## 2025-09-29
 
 ### Health / Recovery
 
-- Steps: 5579
-- Distance: 4.53 km
-- Total kcal burned: 2784
-- Weight: 76.9 kg
+- Steps: 3772
+- Distance: 3.08 km
+- Total kcal burned: 2419
+- Weight: 77.8 kg
 - Resting heart rate: 43 bpm
-- Sleep: 6.97 h asleep (7.03 h in bed, deep 0.87 h, REM 1.78 h, awake 0.07 h)
+- Sleep: 6.77 h asleep (7.20 h in bed, deep 1.05 h, REM 0.65 h, awake 0.43 h)
 
 **Week 5 · Day 3**
-Finished: 2025-09-30 09:45:59
+Finished: 2025-09-29 20:45:59
 
 ### Sumo Deadlift (Barbell)
 
@@ -9275,7 +9328,7 @@ Finished: 2025-09-30 09:45:59
 - Sleep: 6.77 h asleep (7.20 h in bed, deep 1.05 h, REM 0.65 h, awake 0.43 h)
 
 **Week 5 · Day 2**
-Finished: 2025-09-29 18:45:00
+Finished: 2025-09-29 05:45:00
 
 ### Bench Press (Barbell)
 
@@ -9302,19 +9355,19 @@ Finished: 2025-09-29 18:45:00
   Set 2: 65.0kg x 10 [target RPE: 9-10]
   Set 3: 60.0kg x 11 [target RPE: 9-10]
 
-## 2025-09-27
+## 2025-09-26
 
 ### Health / Recovery
 
-- Steps: 18054
-- Distance: 14.64 km
-- Total kcal burned: 3037
+- Steps: 2981
+- Distance: 2.43 km
+- Total kcal burned: 2100
 - Weight: 77.4 kg
 - Resting heart rate: 43 bpm
-- Sleep: 8.22 h asleep (8.37 h in bed, deep 1.70 h, REM 1.85 h, awake 0.15 h)
+- Sleep: 8 h asleep (8.15 h in bed, deep 0.92 h, REM 1.45 h, awake 0.15 h)
 
 **Week 5 · Day 1**
-Finished: 2025-09-27 09:52:59
+Finished: 2025-09-26 20:52:59
 
 ### Squat (Low Bar)
 
@@ -9337,19 +9390,19 @@ Finished: 2025-09-27 09:52:59
   Set 3: 102.5kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 102.5kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-09-25
+## 2025-09-24
 
 ### Health / Recovery
 
-- Steps: 4111
-- Distance: 3.34 km
-- Total kcal burned: 1650
+- Steps: 520
+- Distance: 0.22 km
+- Total kcal burned: 1839
 - Weight: 77 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7 h asleep (7.18 h in bed, deep 0.93 h, REM 1.12 h, awake 0.18 h)
+- Sleep: 7.07 h asleep (7.17 h in bed, deep 1.42 h, REM 1.67 h, awake 0.10 h)
 
 **Week 4 · Day 5**
-Finished: 2025-09-25 09:57:18
+Finished: 2025-09-24 20:57:18
 
 ### Sumo Deadlift (Paused)
 
@@ -9378,19 +9431,19 @@ Finished: 2025-09-25 09:57:18
   Set 3: 50.0kg x 12 [target RPE: 9-10]
   Set 4: 50.0kg x 12 [target RPE: 9-10]
 
-## 2025-09-24
+## 2025-09-23
 
 ### Health / Recovery
 
-- Steps: 520
-- Distance: 0.22 km
-- Total kcal burned: 1839
-- Weight: 77 kg
+- Steps: 1129
+- Distance: 0.63 km
+- Total kcal burned: 1852
+- Weight: 76.3 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.07 h asleep (7.17 h in bed, deep 1.42 h, REM 1.67 h, awake 0.10 h)
+- Sleep: 6.80 h asleep (7.25 h in bed, deep 1.32 h, REM 0.80 h, awake 0.45 h)
 
 **Week 4 · Day 4**
-Finished: 2025-09-24 09:49:58
+Finished: 2025-09-23 20:49:58
 
 ### Squat (Low Bar)
 
@@ -9409,19 +9462,19 @@ Finished: 2025-09-24 09:49:58
 ### Unknown
 
 
-## 2025-09-23
+## 2025-09-22
 
 ### Health / Recovery
 
-- Steps: 1129
-- Distance: 0.63 km
-- Total kcal burned: 1852
-- Weight: 76.3 kg
+- Steps: 6127
+- Distance: 4.19 km
+- Total kcal burned: 2040
+- Weight: 77.1 kg
 - Resting heart rate: 43 bpm
-- Sleep: 6.80 h asleep (7.25 h in bed, deep 1.32 h, REM 0.80 h, awake 0.45 h)
+- Sleep: 7.12 h asleep (7.17 h in bed, deep 0.97 h, REM 1.93 h, awake 0.05 h)
 
 **Week 4 · Day 3**
-Finished: 2025-09-23 09:46:41
+Finished: 2025-09-22 20:46:41
 
 ### Sumo Deadlift (Barbell)
 
@@ -9442,19 +9495,19 @@ Finished: 2025-09-23 09:46:41
 ### Unknown
 
 
-## 2025-09-22
+## 2025-09-21
 
 ### Health / Recovery
 
-- Steps: 6127
-- Distance: 4.19 km
-- Total kcal burned: 2040
-- Weight: 77.1 kg
+- Steps: 16380
+- Distance: 11.22 km
+- Total kcal burned: 2167
+- Weight: 76.8 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.12 h asleep (7.17 h in bed, deep 0.97 h, REM 1.93 h, awake 0.05 h)
+- Sleep: 7.68 h asleep (8.02 h in bed, deep 1.23 h, REM 1.08 h, awake 0.33 h)
 
 **Week 4 · Day 2**
-Finished: 2025-09-22 09:26:24
+Finished: 2025-09-21 20:26:24
 
 ### Bench Press (Barbell)
 
@@ -9482,19 +9535,19 @@ Finished: 2025-09-22 09:26:24
   Set 2: 70.0kg x 10 [target RPE: 9-10]
   Set 3: 65.0kg x 11 [target RPE: 9-10]
 
-## 2025-09-20
+## 2025-09-19
 
 ### Health / Recovery
 
-- Steps: 19988
-- Distance: 13.95 km
-- Total kcal burned: 2284
+- Steps: 4613
+- Distance: 3.25 km
+- Total kcal burned: 1842
 - Weight: 77.2 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.17 h asleep (7.58 h in bed, deep 0.88 h, REM 1.87 h, awake 0.42 h)
+- Sleep: 7.90 h asleep (8.05 h in bed, deep 1.60 h, REM 1.40 h, awake 0.15 h)
 
 **Week 4 · Day 1**
-Finished: 2025-09-20 09:47:40
+Finished: 2025-09-19 20:47:40
 
 ### Squat (Low Bar)
 
@@ -9517,19 +9570,19 @@ Finished: 2025-09-20 09:47:40
   Set 3: 102.5kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 102.5kg x 7 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-09-18
+## 2025-09-17
 
 ### Health / Recovery
 
-- Steps: 4254
-- Distance: 2.84 km
-- Total kcal burned: 1845
+- Steps: 624
+- Distance: 0.32 km
+- Total kcal burned: 1842
 - Weight: 77.2 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.95 h asleep (7.37 h in bed, deep 1.08 h, REM 1.22 h, awake 0.42 h)
+- Resting heart rate: 44 bpm
+- Sleep: 5.98 h asleep (6.37 h in bed, deep 0.18 h, REM 1.08 h, awake 0.38 h)
 
 **Week 3 · Day 5**
-Finished: 2025-09-18 09:43:46
+Finished: 2025-09-17 20:43:46
 
 ### Sumo Deadlift (Paused)
 
@@ -9562,19 +9615,19 @@ Finished: 2025-09-18 09:43:46
 
   Set 1: 100.0kg x 8 @ RPE 8.5 [est_stress=-, real_stress=521]
 
-## 2025-09-17
+## 2025-09-16
 
 ### Health / Recovery
 
-- Steps: 624
-- Distance: 0.32 km
-- Total kcal burned: 1842
-- Weight: 77.2 kg
+- Steps: 1118
+- Distance: 0.61 km
+- Total kcal burned: 1772
+- Weight: 76.5 kg
 - Resting heart rate: 44 bpm
-- Sleep: 5.98 h asleep (6.37 h in bed, deep 0.18 h, REM 1.08 h, awake 0.38 h)
+- Sleep: 7.70 h asleep (8.13 h in bed, deep 0.63 h, REM 1.35 h, awake 0.43 h)
 
 **Week 3 · Day 4**
-Finished: 2025-09-17 09:43:24
+Finished: 2025-09-16 20:43:24
 
 ### Squat (Low Bar)
 
@@ -9592,19 +9645,19 @@ Finished: 2025-09-17 09:43:24
 ### Unknown
 
 
-## 2025-09-16
+## 2025-09-15
 
 ### Health / Recovery
 
-- Steps: 1118
-- Distance: 0.61 km
-- Total kcal burned: 1772
-- Weight: 76.5 kg
-- Resting heart rate: 44 bpm
-- Sleep: 7.70 h asleep (8.13 h in bed, deep 0.63 h, REM 1.35 h, awake 0.43 h)
+- Steps: 1124
+- Distance: 0.62 km
+- Total kcal burned: 1663
+- Weight: 77.5 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.93 h asleep (7.20 h in bed, deep 0.80 h, REM 0.85 h, awake 0.27 h)
 
 **Week 3 · Day 3**
-Finished: 2025-09-16 09:50:05
+Finished: 2025-09-15 20:50:05
 
 ### Sumo Deadlift (Barbell)
 
@@ -9625,19 +9678,19 @@ Finished: 2025-09-16 09:50:05
 ### Unknown
 
 
-## 2025-09-15
+## 2025-09-14
 
 ### Health / Recovery
 
-- Steps: 1124
-- Distance: 0.62 km
-- Total kcal burned: 1663
+- Steps: 13002
+- Distance: 8.95 km
+- Total kcal burned: 2175
 - Weight: 77.5 kg
 - Resting heart rate: 43 bpm
-- Sleep: 6.93 h asleep (7.20 h in bed, deep 0.80 h, REM 0.85 h, awake 0.27 h)
+- Sleep: 8.13 h asleep (8.13 h in bed, deep 1.38 h, REM 2.02 h, awake 0 h)
 
 **Week 3 · Day 2**
-Finished: 2025-09-15 09:24:16
+Finished: 2025-09-14 20:24:16
 
 ### Bench Press (Barbell)
 
@@ -9665,19 +9718,19 @@ Finished: 2025-09-15 09:24:16
   Set 2: 65.0kg x 11 [target RPE: 9-10]
   Set 3: 65.0kg x 12 [target RPE: 9-10]
 
-## 2025-09-13
+## 2025-09-12
 
 ### Health / Recovery
 
-- Steps: 12035
-- Distance: 8.04 km
-- Total kcal burned: 2017
-- Weight: 78.1 kg
+- Steps: 400
+- Distance: 0.18 km
+- Total kcal burned: 1695
+- Weight: 77.6 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.92 h asleep (7.93 h in bed, deep 1.08 h, REM 1.88 h, awake 0.02 h)
+- Sleep: 7.93 h asleep (8.10 h in bed, deep 0.95 h, REM 1.30 h, awake 0.17 h)
 
 **Week 3 · Day 1**
-Finished: 2025-09-13 09:56:07
+Finished: 2025-09-12 20:56:07
 
 ### Squat (Low Bar)
 
@@ -9700,19 +9753,19 @@ Finished: 2025-09-13 09:56:07
   Set 3: 100.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 100.0kg x 10 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-09-11
+## 2025-09-10
 
 ### Health / Recovery
 
-- Steps: 1509
-- Distance: 0.79 km
-- Total kcal burned: 1816
+- Steps: 1910
+- Distance: 1.11 km
+- Total kcal burned: 1650
 - Weight: 77.6 kg
 - Resting heart rate: 42 bpm
-- Sleep: 6.63 h asleep (7.08 h in bed, deep 1.05 h, REM 0.80 h, awake 0.45 h)
+- Sleep: 7.75 h asleep (8.50 h in bed, deep 0.75 h, REM 1.07 h, awake 0.75 h)
 
 **Week 2 · Day 5**
-Finished: 2025-09-11 09:30:37
+Finished: 2025-09-10 20:30:37
 
 ### Deadlift (Barbell)
 
@@ -9740,19 +9793,19 @@ Finished: 2025-09-11 09:30:37
   Set 3: 42.5kg x 11 [target RPE: 9-10]
   Set 4: 42.5kg x 12 [target RPE: 9-10]
 
-## 2025-09-10
+## 2025-09-09
 
 ### Health / Recovery
 
-- Steps: 1910
-- Distance: 1.11 km
-- Total kcal burned: 1650
-- Weight: 77.6 kg
+- Steps: 3051
+- Distance: 1.95 km
+- Total kcal burned: 1785
+- Weight: 77 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.75 h asleep (8.50 h in bed, deep 0.75 h, REM 1.07 h, awake 0.75 h)
+- Sleep: 7.18 h asleep (7.38 h in bed, deep 1.13 h, REM 0.97 h, awake 0.20 h)
 
 **Week 2 · Day 4**
-Finished: 2025-09-10 10:01:50
+Finished: 2025-09-09 21:01:50
 
 ### Squat (Low Bar)
 
@@ -9772,19 +9825,19 @@ Finished: 2025-09-10 10:01:50
 ### Unknown
 
 
-## 2025-09-09
+## 2025-09-08
 
 ### Health / Recovery
 
-- Steps: 3051
-- Distance: 1.95 km
-- Total kcal burned: 1785
-- Weight: 77 kg
+- Steps: 753
+- Distance: 0.43 km
+- Total kcal burned: 1661
+- Weight: 77.4 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.18 h asleep (7.38 h in bed, deep 1.13 h, REM 0.97 h, awake 0.20 h)
+- Sleep: 7.13 h asleep (7.52 h in bed, deep 0.57 h, REM 0.75 h, awake 0.38 h)
 
 **Week 2 · Day 3**
-Finished: 2025-09-09 09:43:18
+Finished: 2025-09-08 20:43:18
 
 ### Sumo Deadlift (Barbell)
 
@@ -9805,19 +9858,19 @@ Finished: 2025-09-09 09:43:18
 ### Unknown
 
 
-## 2025-09-08
+## 2025-09-07
 
 ### Health / Recovery
 
-- Steps: 753
-- Distance: 0.43 km
-- Total kcal burned: 1661
-- Weight: 77.4 kg
+- Steps: 18179
+- Distance: 12.54 km
+- Total kcal burned: 2197
+- Weight: 77.1 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.13 h asleep (7.52 h in bed, deep 0.57 h, REM 0.75 h, awake 0.38 h)
+- Sleep: 8.22 h asleep (8.45 h in bed, deep 1 h, REM 1.45 h, awake 0.23 h)
 
 **Week 2 · Day 2**
-Finished: 2025-09-08 09:26:26
+Finished: 2025-09-07 20:26:26
 
 ### Bench Press (Barbell)
 
@@ -9845,19 +9898,19 @@ Finished: 2025-09-08 09:26:26
   Set 2: 65.0kg x 12 [target RPE: 9-10]
   Set 3: 65.0kg x 10 [target RPE: 9-10]
 
-## 2025-09-06
+## 2025-09-05
 
 ### Health / Recovery
 
-- Steps: 3497
-- Distance: 2.34 km
-- Total kcal burned: 1788
+- Steps: 1959
+- Distance: 1.25 km
+- Total kcal burned: 1724
 - Weight: 77.9 kg
 - Resting heart rate: 42 bpm
-- Sleep: 8.08 h asleep (8.25 h in bed, deep 1.27 h, REM 1.07 h, awake 0.17 h)
+- Sleep: 7.60 h asleep (7.88 h in bed, deep 1.02 h, REM 1.75 h, awake 0.28 h)
 
 **Week 2 · Day 1**
-Finished: 2025-09-06 09:56:43
+Finished: 2025-09-05 20:56:43
 
 ### Squat (Low Bar)
 
@@ -9881,19 +9934,19 @@ Finished: 2025-09-06 09:56:43
   Set 3: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-09-04
+## 2025-09-03
 
 ### Health / Recovery
 
-- Steps: 4357
-- Distance: 2.92 km
-- Total kcal burned: 1795
+- Steps: 1328
+- Distance: 0.76 km
+- Total kcal burned: 1785
 - Weight: 77.6 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.60 h asleep (7.68 h in bed, deep 1.45 h, REM 1.33 h, awake 0.08 h)
+- Sleep: 6.43 h asleep (6.75 h in bed, deep 1.10 h, REM 1.60 h, awake 0.32 h)
 
 **Week 1 · Day 5**
-Finished: 2025-09-04 09:55:54
+Finished: 2025-09-03 20:55:54
 
 ### Deadlift (Barbell)
 
@@ -9922,19 +9975,19 @@ Finished: 2025-09-04 09:55:54
   Set 3: 37.5kg x 12 [target RPE: 9-10]
   Set 4: 37.5kg x 12 [target RPE: 9-10]
 
-## 2025-09-03
+## 2025-09-02
 
 ### Health / Recovery
 
-- Steps: 1328
-- Distance: 0.76 km
-- Total kcal burned: 1785
+- Steps: 2310
+- Distance: 1.40 km
+- Total kcal burned: 1692
 - Weight: 77.6 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.43 h asleep (6.75 h in bed, deep 1.10 h, REM 1.60 h, awake 0.32 h)
+- Resting heart rate: 41 bpm
+- Sleep: 7.28 h asleep (7.78 h in bed, deep 0.78 h, REM 1.03 h, awake 0.50 h)
 
 **Week 1 · Day 4**
-Finished: 2025-09-03 09:52:35
+Finished: 2025-09-02 20:52:35
 
 ### Squat (Low Bar)
 
@@ -9952,19 +10005,19 @@ Finished: 2025-09-03 09:52:35
 ### Unknown
 
 
-## 2025-09-02
+## 2025-09-01
 
 ### Health / Recovery
 
-- Steps: 2310
-- Distance: 1.40 km
-- Total kcal burned: 1692
+- Steps: 2271
+- Distance: 1.42 km
+- Total kcal burned: 1838
 - Weight: 77.6 kg
 - Resting heart rate: 41 bpm
-- Sleep: 7.28 h asleep (7.78 h in bed, deep 0.78 h, REM 1.03 h, awake 0.50 h)
+- Sleep: 7.35 h asleep (7.73 h in bed, deep 1.20 h, REM 0.87 h, awake 0.38 h)
 
 **Week 1 · Day 3**
-Finished: 2025-09-02 09:42:56
+Finished: 2025-09-01 20:42:56
 
 ### Sumo Deadlift (Barbell)
 
@@ -9985,19 +10038,18 @@ Finished: 2025-09-02 09:42:56
 ### Unknown
 
 
-## 2025-09-01
+## 2025-08-31
 
 ### Health / Recovery
 
-- Steps: 2271
-- Distance: 1.42 km
-- Total kcal burned: 1838
-- Weight: 77.6 kg
+- Steps: 17516
+- Distance: 12.16 km
+- Total kcal burned: 1968
 - Resting heart rate: 41 bpm
-- Sleep: 7.35 h asleep (7.73 h in bed, deep 1.20 h, REM 0.87 h, awake 0.38 h)
+- Sleep: 7.22 h asleep (7.83 h in bed, deep 0.83 h, REM 1.32 h, awake 0.62 h)
 
 **Week 1 · Day 2**
-Finished: 2025-09-01 09:19:54
+Finished: 2025-08-31 20:19:54
 
 ### Bench Press (Barbell)
 
@@ -10025,19 +10077,19 @@ Finished: 2025-09-01 09:19:54
   Set 2: 65.0kg x 10 [target RPE: 9-10]
   Set 3: 60.0kg x 12 [target RPE: 9-10]
 
-## 2025-08-30
+## 2025-08-29
 
 ### Health / Recovery
 
-- Steps: 12265
-- Distance: 8.41 km
-- Total kcal burned: 1930
+- Steps: 5196
+- Distance: 3.54 km
+- Total kcal burned: 1854
 - Weight: 77.6 kg
 - Resting heart rate: 41 bpm
-- Sleep: 7.35 h asleep (7.55 h in bed, deep 0.88 h, REM 1.70 h, awake 0.20 h)
+- Sleep: 8.77 h asleep (9.43 h in bed, deep 0.72 h, REM 1.38 h, awake 0.67 h)
 
 **Week 1 · Day 1**
-Finished: 2025-08-30 09:50:30
+Finished: 2025-08-29 20:50:30
 
 ### Squat (Low Bar)
 
@@ -10060,19 +10112,19 @@ Finished: 2025-08-30 09:50:30
   Set 3: 130.0kg x 7 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 130.0kg x 7 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-08-28
+## 2025-08-27
 
 ### Health / Recovery
 
-- Steps: 1821
-- Distance: 1.16 km
-- Total kcal burned: 1865
+- Steps: 2422
+- Distance: 1.54 km
+- Total kcal burned: 1773
 - Weight: 77.3 kg
 - Resting heart rate: 41 bpm
-- Sleep: 7.22 h asleep (7.53 h in bed, deep 0.78 h, REM 0.85 h, awake 0.32 h)
+- Sleep: 7.20 h asleep (7.50 h in bed, deep 1.33 h, REM 1.30 h, awake 0.30 h)
 
 **Week 5 · Day 5**
-Finished: 2025-08-28 09:55:01
+Finished: 2025-08-27 20:55:01
 
 ### Deadlift (Paused)
 
@@ -10101,19 +10153,19 @@ Finished: 2025-08-28 09:55:01
   Set 3: 37.5kg x 10 [target RPE: 9-10]
   Set 4: 37.5kg x 11 [target RPE: 9-10]
 
-## 2025-08-27
+## 2025-08-26
 
 ### Health / Recovery
 
-- Steps: 2422
-- Distance: 1.54 km
-- Total kcal burned: 1773
-- Weight: 77.3 kg
-- Resting heart rate: 41 bpm
-- Sleep: 7.20 h asleep (7.50 h in bed, deep 1.33 h, REM 1.30 h, awake 0.30 h)
+- Steps: 2324
+- Distance: 1.45 km
+- Total kcal burned: 1774
+- Weight: 77 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.53 h asleep (7.82 h in bed, deep 0.93 h, REM 1.60 h, awake 0.28 h)
 
 **Week 5 · Day 4**
-Finished: 2025-08-27 09:50:26
+Finished: 2025-08-26 20:50:26
 
 ### Squat (Low Bar)
 
@@ -10131,19 +10183,19 @@ Finished: 2025-08-27 09:50:26
 ### Unknown
 
 
-## 2025-08-26
+## 2025-08-25
 
 ### Health / Recovery
 
-- Steps: 2324
-- Distance: 1.45 km
-- Total kcal burned: 1774
+- Steps: 1798
+- Distance: 1.08 km
+- Total kcal burned: 1650
 - Weight: 77 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.53 h asleep (7.82 h in bed, deep 0.93 h, REM 1.60 h, awake 0.28 h)
+- Sleep: 8.70 h asleep (9.08 h in bed, deep 1.57 h, REM 2.10 h, awake 0.38 h)
 
 **Week 5 · Day 3**
-Finished: 2025-08-26 09:47:34
+Finished: 2025-08-25 20:47:34
 
 ### Sumo Deadlift (Barbell)
 
@@ -10163,19 +10215,19 @@ Finished: 2025-08-26 09:47:34
 ### Unknown
 
 
-## 2025-08-25
+## 2025-08-24
 
 ### Health / Recovery
 
-- Steps: 1798
-- Distance: 1.08 km
-- Total kcal burned: 1650
-- Weight: 77 kg
+- Steps: 2325
+- Distance: 1.62 km
+- Total kcal burned: 1700
+- Weight: 76.4 kg
 - Resting heart rate: 42 bpm
-- Sleep: 8.70 h asleep (9.08 h in bed, deep 1.57 h, REM 2.10 h, awake 0.38 h)
+- Sleep: 7.90 h asleep (8.13 h in bed, deep 1.22 h, REM 1.40 h, awake 0.23 h)
 
 **Week 5 · Day 2**
-Finished: 2025-08-25 09:37:54
+Finished: 2025-08-24 20:37:54
 
 ### Bench Press (Barbell)
 
@@ -10202,19 +10254,19 @@ Finished: 2025-08-25 09:37:54
   Set 2: 65.0kg x 10 [target RPE: 9-10]
   Set 3: 60.0kg x 11 [target RPE: 9-10]
 
-## 2025-08-23
+## 2025-08-22
 
 ### Health / Recovery
 
-- Steps: 10756
-- Distance: 7.28 km
-- Total kcal burned: 2210
-- Weight: 77.5 kg
-- Resting heart rate: 42 bpm
-- Sleep: 8.33 h asleep (8.35 h in bed, deep 1.45 h, REM 1.75 h, awake 0.02 h)
+- Steps: 2084
+- Distance: 1.23 km
+- Total kcal burned: 1673
+- Weight: 77.1 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.07 h asleep (6.80 h in bed, deep 1.15 h, REM 0.70 h, awake 0.73 h)
 
 **Week 5 · Day 1**
-Finished: 2025-08-23 10:01:50
+Finished: 2025-08-22 21:01:50
 
 ### Squat (Low Bar)
 
@@ -10237,19 +10289,19 @@ Finished: 2025-08-23 10:01:50
   Set 3: 130.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 130.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-08-21
+## 2025-08-20
 
 ### Health / Recovery
 
-- Steps: 8026
-- Distance: 5.49 km
-- Total kcal burned: 2023
+- Steps: 2191
+- Distance: 1.42 km
+- Total kcal burned: 1810
 - Weight: 76.4 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.72 h asleep (7.12 h in bed, deep 1.23 h, REM 0.85 h, awake 0.40 h)
+- Sleep: 6.92 h asleep (7.53 h in bed, deep 1.13 h, REM 1.17 h, awake 0.62 h)
 
 **Week 4 · Day 5**
-Finished: 2025-08-21 08:44:21
+Finished: 2025-08-20 19:44:21
 
 ### Sumo Deadlift (Paused)
 
@@ -10279,19 +10331,19 @@ Finished: 2025-08-21 08:44:21
   Set 3: 30.0kg x 12 [target RPE: 9-10]
   Set 4: 30.0kg x 12 [target RPE: 9-10]
 
-## 2025-08-20
+## 2025-08-19
 
 ### Health / Recovery
 
-- Steps: 2191
-- Distance: 1.42 km
-- Total kcal burned: 1810
-- Weight: 76.4 kg
+- Steps: 3347
+- Distance: 1.98 km
+- Total kcal burned: 1868
+- Weight: 76.8 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.92 h asleep (7.53 h in bed, deep 1.13 h, REM 1.17 h, awake 0.62 h)
+- Sleep: 5.33 h asleep (5.35 h in bed, deep 1.60 h, REM 0.90 h, awake 0.02 h)
 
 **Week 4 · Day 4**
-Finished: 2025-08-20 09:34:15
+Finished: 2025-08-19 20:34:15
 
 ### Squat (Low Bar)
 
@@ -10309,19 +10361,18 @@ Finished: 2025-08-20 09:34:15
 ### Unknown
 
 
-## 2025-08-19
+## 2025-08-18
 
 ### Health / Recovery
 
-- Steps: 3347
-- Distance: 1.98 km
-- Total kcal burned: 1868
-- Weight: 76.8 kg
-- Resting heart rate: 44 bpm
-- Sleep: 5.33 h asleep (5.35 h in bed, deep 1.60 h, REM 0.90 h, awake 0.02 h)
+- Steps: 6690
+- Distance: 4.77 km
+- Total kcal burned: 1931
+- Resting heart rate: 45 bpm
+- Sleep: 4.95 h asleep (5.70 h in bed, deep 0.30 h, REM 0.45 h, awake 0.75 h)
 
 **Week 4 · Day 3**
-Finished: 2025-08-19 09:29:37
+Finished: 2025-08-18 20:29:37
 
 ### Sumo Deadlift (Barbell)
 
@@ -10353,7 +10404,7 @@ Finished: 2025-08-19 09:29:37
 - Sleep: 5.75 h asleep (5.75 h in bed, deep 1.73 h, REM 1.28 h, awake 0 h)
 
 **Week 4 · Day 2**
-Finished: 2025-08-17 15:51:02
+Finished: 2025-08-17 02:51:02
 
 ### Bench Press (Barbell)
 
@@ -10386,7 +10437,7 @@ Finished: 2025-08-17 15:51:02
 - Sleep: 6.42 h asleep (6.45 h in bed, deep 0.93 h, REM 0.97 h, awake 0.03 h)
 
 **Week 4 · Day 1**
-Finished: 2025-08-16 16:07:41
+Finished: 2025-08-16 03:07:41
 
 ### Squat (Low Bar)
 
@@ -10420,7 +10471,7 @@ Finished: 2025-08-16 16:07:41
 - Sleep: 6.58 h asleep (6.68 h in bed, deep 1.12 h, REM 1.02 h, awake 0.10 h)
 
 **Aug 15 Workout**
-Finished: 2025-08-15 15:56:02
+Finished: 2025-08-15 02:56:02
 
 ### Bench Press (Barbell)
 
@@ -10440,7 +10491,7 @@ Finished: 2025-08-15 15:56:02
 - Sleep: 6.25 h asleep (6.33 h in bed, deep 1.18 h, REM 0.95 h, awake 0.08 h)
 
 **Week 3 · Day 5**
-Finished: 2025-08-14 14:49:37
+Finished: 2025-08-14 01:49:37
 
 ### Sumo Deadlift (Paused)
 
@@ -10476,7 +10527,7 @@ Finished: 2025-08-14 14:49:37
 - Sleep: 5.80 h asleep (5.98 h in bed, deep 1.12 h, REM 0.27 h, awake 0.18 h)
 
 **Week 3 · Day 4**
-Finished: 2025-08-13 14:50:07
+Finished: 2025-08-13 01:50:07
 
 ### Squat (Low Bar)
 
@@ -10505,7 +10556,7 @@ Finished: 2025-08-13 14:50:07
 - Sleep: 5.65 h asleep (6.05 h in bed, deep 1.13 h, REM 0 h, awake 0.40 h)
 
 **Week 3 · Day 3**
-Finished: 2025-08-12 14:53:32
+Finished: 2025-08-12 01:53:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -10537,7 +10588,7 @@ Finished: 2025-08-12 14:53:32
 - Sleep: 5.43 h asleep (5.58 h in bed, deep 1.02 h, REM 0.70 h, awake 0.15 h)
 
 **Week 3 · Day 2**
-Finished: 2025-08-11 14:30:35
+Finished: 2025-08-11 01:30:35
 
 ### Bench Press (Barbell)
 
@@ -10574,7 +10625,7 @@ Finished: 2025-08-11 14:30:35
 - Sleep: 5.80 h asleep (6.07 h in bed, deep 0.88 h, REM 0.75 h, awake 0.27 h)
 
 **Week 3 · Day 1**
-Finished: 2025-08-10 16:23:41
+Finished: 2025-08-10 03:23:41
 
 ### Squat (Low Bar)
 
@@ -10609,7 +10660,7 @@ Finished: 2025-08-10 16:23:41
 - Sleep: 5.27 h asleep (6.22 h in bed, deep 0.88 h, REM 0.50 h, awake 0.95 h)
 
 **Aug 8 Workout**
-Finished: 2025-08-08 14:40:49
+Finished: 2025-08-08 01:40:49
 
 ### Squat (Low Bar)
 
@@ -10629,7 +10680,7 @@ Finished: 2025-08-08 14:40:49
 - Sleep: 5.55 h asleep (5.55 h in bed, deep 1.07 h, REM 1.15 h, awake 0 h)
 
 **Week 2 · Day 5**
-Finished: 2025-08-07 14:46:21
+Finished: 2025-08-07 01:46:21
 
 ### Sumo Deadlift (Paused)
 
@@ -10664,7 +10715,7 @@ Finished: 2025-08-07 14:46:21
 - Sleep: 5.27 h asleep (5.45 h in bed, deep 1.38 h, REM 0.95 h, awake 0.18 h)
 
 **Week 2 · Day 4**
-Finished: 2025-08-06 14:53:07
+Finished: 2025-08-06 01:53:07
 
 ### Squat (Low Bar)
 
@@ -10693,7 +10744,7 @@ Finished: 2025-08-06 14:53:07
 - Sleep: 5.28 h asleep (5.37 h in bed, deep 1.07 h, REM 0.83 h, awake 0.08 h)
 
 **Week 2 · Day 3**
-Finished: 2025-08-05 14:54:51
+Finished: 2025-08-05 01:54:51
 
 ### Sumo Deadlift (Barbell)
 
@@ -10725,7 +10776,7 @@ Finished: 2025-08-05 14:54:51
 - Sleep: 5.05 h asleep (5.47 h in bed, deep 1.58 h, REM 0.30 h, awake 0.42 h)
 
 **Week 2 · Day 2**
-Finished: 2025-08-04 14:26:18
+Finished: 2025-08-04 01:26:18
 
 ### Bench Press (Barbell)
 
@@ -10764,7 +10815,7 @@ Finished: 2025-08-04 14:26:18
 - Sleep: 7.27 h asleep (7.58 h in bed, deep 0.78 h, REM 1.58 h, awake 0.32 h)
 
 **Week 2 · Day 1**
-Finished: 2025-08-02 16:34:07
+Finished: 2025-08-02 03:34:07
 
 ### Squat (Low Bar)
 
@@ -10800,7 +10851,7 @@ Finished: 2025-08-02 16:34:07
 - Sleep: 7.88 h asleep (8.32 h in bed, deep 1.33 h, REM 1.77 h, awake 0.43 h)
 
 **Week 1 · Day 5**
-Finished: 2025-07-31 17:17:00
+Finished: 2025-07-31 04:17:00
 
 ### Sumo Deadlift (Paused)
 
@@ -10834,7 +10885,7 @@ Finished: 2025-07-31 17:17:00
 - Sleep: 7.13 h asleep (8.10 h in bed, deep 0.77 h, REM 0.88 h, awake 0.97 h)
 
 **Week 1 · Day 4**
-Finished: 2025-07-30 17:16:31
+Finished: 2025-07-30 04:16:31
 
 ### Squat (Low Bar)
 
@@ -10863,7 +10914,7 @@ Finished: 2025-07-30 17:16:31
 - Sleep: 6.82 h asleep (8.32 h in bed, deep 0.63 h, REM 0.65 h, awake 1.50 h)
 
 **Week 1 · Day 3**
-Finished: 2025-07-29 14:57:32
+Finished: 2025-07-29 01:57:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -10895,7 +10946,7 @@ Finished: 2025-07-29 14:57:32
 - Sleep: 6.23 h asleep (6.97 h in bed, deep 1.02 h, REM 1.18 h, awake 0.73 h)
 
 **Week 1 · Day 2**
-Finished: 2025-07-28 15:47:04
+Finished: 2025-07-28 02:47:04
 
 ### Bench Press (Barbell)
 
@@ -10934,7 +10985,7 @@ Finished: 2025-07-28 15:47:04
 - Sleep: 9.17 h asleep (9.55 h in bed, deep 2.15 h, REM 2.08 h, awake 0.38 h)
 
 **Week 1 · Day 1**
-Finished: 2025-07-27 22:39:03
+Finished: 2025-07-27 09:39:03
 
 ### Squat (Low Bar)
 
@@ -10968,7 +11019,7 @@ Finished: 2025-07-27 22:39:03
 - Sleep: 8.13 h asleep (8.70 h in bed, deep 1.93 h, REM 1.40 h, awake 0.57 h)
 
 **Week 5 · Day 5**
-Finished: 2025-07-25 15:05:07
+Finished: 2025-07-25 02:05:07
 
 ### Sumo Deadlift (Paused)
 
@@ -10997,19 +11048,19 @@ Finished: 2025-07-25 15:05:07
   Set 3: 10.0kg x 15 [target RPE: 9-10]
   Set 4: 10.0kg x 15 [target RPE: 9-10]
 
-## 2025-07-23
+## 2025-07-22
 
 ### Health / Recovery
 
-- Steps: 6115
-- Distance: 4.98 km
-- Total kcal burned: 3439
-- Weight: 76.3 kg
+- Steps: 592
+- Distance: 0.25 km
+- Total kcal burned: 2365
+- Weight: 77 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.15 h asleep (7.70 h in bed, deep 0.67 h, REM 1.65 h, awake 0.55 h)
+- Sleep: 6.75 h asleep (7.18 h in bed, deep 0.72 h, REM 1 h, awake 0.43 h)
 
 **Week 5 · Day 4**
-Finished: 2025-07-23 10:18:52
+Finished: 2025-07-22 21:18:52
 
 ### Squat (Low Bar)
 
@@ -11027,19 +11078,19 @@ Finished: 2025-07-23 10:18:52
 ### Unknown
 
 
-## 2025-07-22
+## 2025-07-21
 
 ### Health / Recovery
 
-- Steps: 592
-- Distance: 0.25 km
-- Total kcal burned: 2365
+- Steps: 837
+- Distance: 0.38 km
+- Total kcal burned: 1783
 - Weight: 77 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.75 h asleep (7.18 h in bed, deep 0.72 h, REM 1 h, awake 0.43 h)
+- Sleep: 8.05 h asleep (8.05 h in bed, deep 2.08 h, REM 1.47 h, awake 0 h)
 
 **Week 5 · Day 3**
-Finished: 2025-07-22 10:07:58
+Finished: 2025-07-21 21:07:58
 
 ### Sumo Deadlift (Barbell)
 
@@ -11059,19 +11110,19 @@ Finished: 2025-07-22 10:07:58
 ### Unknown
 
 
-## 2025-07-21
+## 2025-07-20
 
 ### Health / Recovery
 
-- Steps: 837
-- Distance: 0.38 km
-- Total kcal burned: 1783
-- Weight: 77 kg
+- Steps: 6610
+- Distance: 4.60 km
+- Total kcal burned: 1800
+- Weight: 76.3 kg
 - Resting heart rate: 44 bpm
-- Sleep: 8.05 h asleep (8.05 h in bed, deep 2.08 h, REM 1.47 h, awake 0 h)
+- Sleep: 4.95 h asleep (5.33 h in bed, deep 1.07 h, REM 0.65 h, awake 0.38 h)
 
 **Week 5 · Day 2**
-Finished: 2025-07-21 10:11:38
+Finished: 2025-07-20 21:11:38
 
 ### Bench Press (Barbell)
 
@@ -11099,19 +11150,19 @@ Finished: 2025-07-21 10:11:38
   Set 2: 70.0kg x 8 [target RPE: 9-10]
   Set 3: 65.0kg x 12 [target RPE: 9-10]
 
-## 2025-07-19
+## 2025-07-18
 
 ### Health / Recovery
 
-- Steps: 11034
-- Distance: 7.48 km
-- Total kcal burned: 2095
-- Weight: 76.3 kg
+- Steps: 341
+- Distance: 0.16 km
+- Total kcal burned: 1650
+- Weight: 76.6 kg
 - Resting heart rate: 44 bpm
-- Sleep: 8.15 h asleep (8.25 h in bed, deep 1.50 h, REM 1.27 h, awake 0.10 h)
+- Sleep: 5.50 h asleep (5.60 h in bed, deep 0.93 h, REM 1.13 h, awake 0.10 h)
 
 **Week 5 · Day 1**
-Finished: 2025-07-19 10:33:36
+Finished: 2025-07-18 21:33:36
 
 ### Squat (Low Bar)
 
@@ -11133,19 +11184,19 @@ Finished: 2025-07-19 10:33:36
   Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-07-17
+## 2025-07-16
 
 ### Health / Recovery
 
-- Steps: 1897
-- Distance: 1.22 km
-- Total kcal burned: 1908
+- Steps: 4656
+- Distance: 3.25 km
+- Total kcal burned: 1814
 - Weight: 76.6 kg
-- Resting heart rate: 44 bpm
-- Sleep: 8.20 h asleep (9 h in bed, deep 0.68 h, REM 1.93 h, awake 0.80 h)
+- Resting heart rate: 43 bpm
+- Sleep: 7.20 h asleep (7.75 h in bed, deep 0.83 h, REM 1.37 h, awake 0.55 h)
 
 **Week 4 · Day 5**
-Finished: 2025-07-17 10:11:45
+Finished: 2025-07-16 21:11:45
 
 ### Sumo Deadlift (Barbell)
 
@@ -11174,19 +11225,19 @@ Finished: 2025-07-17 10:11:45
   Set 3: 50.0kg x 11 [target RPE: 9-10]
   Set 4: 50.0kg x 12 [target RPE: 9-10]
 
-## 2025-07-16
+## 2025-07-15
 
 ### Health / Recovery
 
-- Steps: 4656
-- Distance: 3.25 km
-- Total kcal burned: 1814
-- Weight: 76.6 kg
+- Steps: 470
+- Distance: 0.21 km
+- Total kcal burned: 1897
+- Weight: 76.2 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.20 h asleep (7.75 h in bed, deep 0.83 h, REM 1.37 h, awake 0.55 h)
+- Sleep: 6.53 h asleep (7.07 h in bed, deep 1.08 h, REM 0.63 h, awake 0.53 h)
 
 **Week 4 · Day 4**
-Finished: 2025-07-16 10:34:09
+Finished: 2025-07-15 21:34:09
 
 ### Squat (Low Bar)
 
@@ -11204,19 +11255,19 @@ Finished: 2025-07-16 10:34:09
 ### Unknown
 
 
-## 2025-07-15
+## 2025-07-14
 
 ### Health / Recovery
 
-- Steps: 470
-- Distance: 0.21 km
-- Total kcal burned: 1897
-- Weight: 76.2 kg
+- Steps: 2712
+- Distance: 1.61 km
+- Total kcal burned: 1677
+- Weight: 76.7 kg
 - Resting heart rate: 43 bpm
-- Sleep: 6.53 h asleep (7.07 h in bed, deep 1.08 h, REM 0.63 h, awake 0.53 h)
+- Sleep: 6.97 h asleep (7.42 h in bed, deep 1.22 h, REM 1.35 h, awake 0.45 h)
 
 **Week 4 · Day 3**
-Finished: 2025-07-15 10:12:53
+Finished: 2025-07-14 21:12:53
 
 ### Sumo Deadlift (Paused)
 
@@ -11237,19 +11288,19 @@ Finished: 2025-07-15 10:12:53
 ### Unknown
 
 
-## 2025-07-14
+## 2025-07-13
 
 ### Health / Recovery
 
-- Steps: 2712
-- Distance: 1.61 km
-- Total kcal burned: 1677
+- Steps: 9638
+- Distance: 6.62 km
+- Total kcal burned: 1779
 - Weight: 76.7 kg
 - Resting heart rate: 43 bpm
-- Sleep: 6.97 h asleep (7.42 h in bed, deep 1.22 h, REM 1.35 h, awake 0.45 h)
+- Sleep: 8.17 h asleep (8.87 h in bed, deep 1.57 h, REM 0.65 h, awake 0.70 h)
 
 **Week 4 · Day 2**
-Finished: 2025-07-14 09:55:09
+Finished: 2025-07-13 20:55:09
 
 ### Bench Press (Barbell)
 
@@ -11277,19 +11328,19 @@ Finished: 2025-07-14 09:55:09
   Set 2: 70.0kg x 8 [target RPE: 9-10]
   Set 3: 65.0kg x 12 [target RPE: 9-10]
 
-## 2025-07-12
+## 2025-07-11
 
 ### Health / Recovery
 
-- Steps: 1830
-- Distance: 1.11 km
-- Total kcal burned: 1759
+- Steps: 4049
+- Distance: 2.78 km
+- Total kcal burned: 1818
 - Weight: 77.1 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.30 h asleep (7.57 h in bed, deep 1.63 h, REM 0.97 h, awake 0.27 h)
+- Resting heart rate: 44 bpm
+- Sleep: 6.77 h asleep (7.60 h in bed, deep 0.77 h, REM 0.58 h, awake 0.83 h)
 
 **Week 4 · Day 1**
-Finished: 2025-07-12 10:22:54
+Finished: 2025-07-11 21:22:54
 
 ### Squat (Low Bar)
 
@@ -11312,19 +11363,19 @@ Finished: 2025-07-12 10:22:54
   Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-07-10
+## 2025-07-09
 
 ### Health / Recovery
 
-- Steps: 1444
-- Distance: 0.83 km
-- Total kcal burned: 1743
-- Weight: 77.1 kg
+- Steps: 564
+- Distance: 0.23 km
+- Total kcal burned: 1819
+- Weight: 76.8 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.83 h asleep (7.23 h in bed, deep 1 h, REM 0.85 h, awake 0.40 h)
+- Sleep: 6.43 h asleep (6.83 h in bed, deep 0.98 h, REM 1.05 h, awake 0.40 h)
 
 **Week 3 · Day 5**
-Finished: 2025-07-10 10:21:46
+Finished: 2025-07-09 21:21:46
 
 ### Sumo Deadlift (Barbell)
 
@@ -11354,19 +11405,19 @@ Finished: 2025-07-10 10:21:46
   Set 3: 50.0kg x 13 [target RPE: 9-10]
   Set 4: 50.0kg x 13 [target RPE: 9-10]
 
-## 2025-07-09
+## 2025-07-08
 
 ### Health / Recovery
 
-- Steps: 564
-- Distance: 0.23 km
-- Total kcal burned: 1819
-- Weight: 76.8 kg
+- Steps: 1074
+- Distance: 0.60 km
+- Total kcal burned: 1693
+- Weight: 76.4 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.43 h asleep (6.83 h in bed, deep 0.98 h, REM 1.05 h, awake 0.40 h)
+- Sleep: 6.88 h asleep (7.82 h in bed, deep 1.13 h, REM 0.37 h, awake 0.93 h)
 
 **Week 3 · Day 4**
-Finished: 2025-07-09 10:22:30
+Finished: 2025-07-08 21:22:30
 
 ### Squat (Low Bar)
 
@@ -11384,19 +11435,19 @@ Finished: 2025-07-09 10:22:30
 ### Unknown
 
 
-## 2025-07-08
+## 2025-07-07
 
 ### Health / Recovery
 
-- Steps: 1074
-- Distance: 0.60 km
-- Total kcal burned: 1693
-- Weight: 76.4 kg
+- Steps: 765
+- Distance: 0.45 km
+- Total kcal burned: 1686
+- Weight: 76.8 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.88 h asleep (7.82 h in bed, deep 1.13 h, REM 0.37 h, awake 0.93 h)
+- Sleep: 8.25 h asleep (8.62 h in bed, deep 1.07 h, REM 1.52 h, awake 0.37 h)
 
 **Week 3 · Day 3**
-Finished: 2025-07-08 10:14:22
+Finished: 2025-07-07 21:14:22
 
 ### Sumo Deadlift (Paused)
 
@@ -11418,19 +11469,19 @@ Finished: 2025-07-08 10:14:22
 ### Unknown
 
 
-## 2025-07-07
+## 2025-07-06
 
 ### Health / Recovery
 
-- Steps: 765
-- Distance: 0.45 km
-- Total kcal burned: 1686
-- Weight: 76.8 kg
+- Steps: 8991
+- Distance: 6.39 km
+- Total kcal burned: 1915
+- Weight: 77.1 kg
 - Resting heart rate: 44 bpm
-- Sleep: 8.25 h asleep (8.62 h in bed, deep 1.07 h, REM 1.52 h, awake 0.37 h)
+- Sleep: 8.05 h asleep (8.90 h in bed, deep 1.28 h, REM 1.45 h, awake 0.85 h)
 
 **Week 3 · Day 2**
-Finished: 2025-07-07 09:58:37
+Finished: 2025-07-06 20:58:37
 
 ### Bench Press (Barbell)
 
@@ -11458,19 +11509,19 @@ Finished: 2025-07-07 09:58:37
   Set 2: 70.0kg x 9 [target RPE: 9-10]
   Set 3: 65.0kg x 11 [target RPE: 9-10]
 
-## 2025-07-05
+## 2025-07-04
 
 ### Health / Recovery
 
-- Steps: 7183
-- Distance: 4.65 km
-- Total kcal burned: 1863
-- Weight: 77.1 kg
+- Steps: 1666
+- Distance: 1.02 km
+- Total kcal burned: 1743
+- Weight: 75.8 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.92 h asleep (8.03 h in bed, deep 1.68 h, REM 1.48 h, awake 0.12 h)
+- Sleep: 7.52 h asleep (7.75 h in bed, deep 1.03 h, REM 1.42 h, awake 0.23 h)
 
 **Week 3 · Day 1**
-Finished: 2025-07-05 10:27:01
+Finished: 2025-07-04 21:27:01
 
 ### Squat (Low Bar)
 
@@ -11493,19 +11544,19 @@ Finished: 2025-07-05 10:27:01
   Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-07-03
+## 2025-07-02
 
 ### Health / Recovery
 
-- Steps: 3776
-- Distance: 2.43 km
-- Total kcal burned: 1788
+- Steps: 2741
+- Distance: 1.71 km
+- Total kcal burned: 1741
 - Weight: 76.2 kg
 - Resting heart rate: 43 bpm
-- Sleep: 4.27 h asleep (6.08 h in bed, deep 0.70 h, REM 0 h, awake 1.82 h)
+- Sleep: 7.23 h asleep (7.32 h in bed, deep 0.87 h, REM 1.22 h, awake 0.08 h)
 
 **Week 2 · Day 5**
-Finished: 2025-07-03 10:15:25
+Finished: 2025-07-02 21:15:25
 
 ### Sumo Deadlift (Barbell)
 
@@ -11534,19 +11585,19 @@ Finished: 2025-07-03 10:15:25
   Set 3: 50.0kg x 12 [target RPE: 9-10]
   Set 4: 50.0kg x 12 [target RPE: 9-10]
 
-## 2025-07-02
+## 2025-07-01
 
 ### Health / Recovery
 
-- Steps: 2741
-- Distance: 1.71 km
-- Total kcal burned: 1741
-- Weight: 76.2 kg
+- Steps: 1034
+- Distance: 0.63 km
+- Total kcal burned: 1787
+- Weight: 76.9 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.23 h asleep (7.32 h in bed, deep 0.87 h, REM 1.22 h, awake 0.08 h)
+- Sleep: 4.63 h asleep (5.30 h in bed, deep 0.55 h, REM 0.78 h, awake 0.67 h)
 
 **Week 2 · Day 4**
-Finished: 2025-07-02 10:15:56
+Finished: 2025-07-01 21:15:56
 
 ### Squat (Low Bar)
 
@@ -11564,19 +11615,19 @@ Finished: 2025-07-02 10:15:56
 ### Unknown
 
 
-## 2025-07-01
+## 2025-06-30
 
 ### Health / Recovery
 
-- Steps: 1034
-- Distance: 0.63 km
-- Total kcal burned: 1787
+- Steps: 3057
+- Distance: 1.82 km
+- Total kcal burned: 1696
 - Weight: 76.9 kg
 - Resting heart rate: 43 bpm
-- Sleep: 4.63 h asleep (5.30 h in bed, deep 0.55 h, REM 0.78 h, awake 0.67 h)
+- Sleep: 7.72 h asleep (8.12 h in bed, deep 1.37 h, REM 1.75 h, awake 0.40 h)
 
 **Week 2 · Day 3**
-Finished: 2025-07-01 10:09:07
+Finished: 2025-06-30 21:09:07
 
 ### Sumo Deadlift (Paused)
 
@@ -11597,19 +11648,19 @@ Finished: 2025-07-01 10:09:07
 ### Unknown
 
 
-## 2025-06-30
+## 2025-06-29
 
 ### Health / Recovery
 
-- Steps: 3057
-- Distance: 1.82 km
-- Total kcal burned: 1696
+- Steps: 13940
+- Distance: 9.77 km
+- Total kcal burned: 1901
 - Weight: 76.9 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.72 h asleep (8.12 h in bed, deep 1.37 h, REM 1.75 h, awake 0.40 h)
+- Sleep: 8.95 h asleep (8.95 h in bed, deep 1.20 h, REM 2.58 h, awake 0 h)
 
 **Week 2 · Day 2**
-Finished: 2025-06-30 09:53:01
+Finished: 2025-06-29 20:53:01
 
 ### Bench Press (Barbell)
 
@@ -11637,19 +11688,19 @@ Finished: 2025-06-30 09:53:01
   Set 2: 70.0kg x 9 [target RPE: 9-10]
   Set 3: 67.5kg x 10 [target RPE: 9-10]
 
-## 2025-06-28
+## 2025-06-27
 
 ### Health / Recovery
 
-- Steps: 9767
-- Distance: 6.61 km
-- Total kcal burned: 1862
+- Steps: 2255
+- Distance: 1.55 km
+- Total kcal burned: 1751
 - Weight: 77.3 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.45 h asleep (7.48 h in bed, deep 1.02 h, REM 1.77 h, awake 0.03 h)
+- Sleep: 7.43 h asleep (7.55 h in bed, deep 0.85 h, REM 1.65 h, awake 0.12 h)
 
 **Week 2 · Day 1**
-Finished: 2025-06-28 10:25:08
+Finished: 2025-06-27 21:25:08
 
 ### Squat (Low Bar)
 
@@ -11672,19 +11723,19 @@ Finished: 2025-06-28 10:25:08
   Set 3: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 125.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-06-26
+## 2025-06-25
 
 ### Health / Recovery
 
-- Steps: 2766
-- Distance: 1.75 km
-- Total kcal burned: 1692
+- Steps: 4658
+- Distance: 3.28 km
+- Total kcal burned: 1746
 - Weight: 77.3 kg
-- Resting heart rate: 43 bpm
-- Sleep: 5.58 h asleep (6.30 h in bed, deep 0.82 h, REM 0.75 h, awake 0.72 h)
+- Resting heart rate: 42 bpm
+- Sleep: 5.68 h asleep (6.82 h in bed, deep 1.05 h, REM 1.47 h, awake 1.13 h)
 
 **Week 1 · Day 5**
-Finished: 2025-06-26 10:08:12
+Finished: 2025-06-25 21:08:12
 
 ### Sumo Deadlift (Barbell)
 
@@ -11713,19 +11764,19 @@ Finished: 2025-06-26 10:08:12
   Set 3: 50.0kg x 13 [target RPE: 9-10]
   Set 4: 50.0kg x 13 [target RPE: 9-10]
 
-## 2025-06-25
+## 2025-06-24
 
 ### Health / Recovery
 
-- Steps: 4658
-- Distance: 3.28 km
-- Total kcal burned: 1746
+- Steps: 3268
+- Distance: 2 km
+- Total kcal burned: 1716
 - Weight: 77.3 kg
-- Resting heart rate: 42 bpm
-- Sleep: 5.68 h asleep (6.82 h in bed, deep 1.05 h, REM 1.47 h, awake 1.13 h)
+- Resting heart rate: 43 bpm
+- Sleep: 6.48 h asleep (6.97 h in bed, deep 1.17 h, REM 1.42 h, awake 0.48 h)
 
 **Week 1 · Day 4**
-Finished: 2025-06-25 10:20:53
+Finished: 2025-06-24 21:20:53
 
 ### Squat (Low Bar)
 
@@ -11743,19 +11794,19 @@ Finished: 2025-06-25 10:20:53
 ### Unknown
 
 
-## 2025-06-24
+## 2025-06-23
 
 ### Health / Recovery
 
-- Steps: 3268
-- Distance: 2 km
-- Total kcal burned: 1716
+- Steps: 2749
+- Distance: 1.69 km
+- Total kcal burned: 1683
 - Weight: 77.3 kg
 - Resting heart rate: 43 bpm
-- Sleep: 6.48 h asleep (6.97 h in bed, deep 1.17 h, REM 1.42 h, awake 0.48 h)
+- Sleep: 7.68 h asleep (7.93 h in bed, deep 1.97 h, REM 1.82 h, awake 0.25 h)
 
 **Week 1 · Day 3**
-Finished: 2025-06-24 10:13:15
+Finished: 2025-06-23 21:13:15
 
 ### Sumo Deadlift (Paused)
 
@@ -11776,19 +11827,19 @@ Finished: 2025-06-24 10:13:15
 ### Unknown
 
 
-## 2025-06-23
+## 2025-06-22
 
 ### Health / Recovery
 
-- Steps: 2749
-- Distance: 1.69 km
-- Total kcal burned: 1683
-- Weight: 77.3 kg
+- Steps: 14211
+- Distance: 9.83 km
+- Total kcal burned: 1846
+- Weight: 72 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.68 h asleep (7.93 h in bed, deep 1.97 h, REM 1.82 h, awake 0.25 h)
+- Sleep: 7.88 h asleep (8.10 h in bed, deep 1.07 h, REM 1.25 h, awake 0.22 h)
 
 **Week 1 · Day 2**
-Finished: 2025-06-23 09:45:47
+Finished: 2025-06-22 20:45:47
 
 ### Bench Press (Barbell)
 
@@ -11816,19 +11867,19 @@ Finished: 2025-06-23 09:45:47
   Set 2: 70.0kg x 9 [target RPE: 9-10]
   Set 3: 67.5kg x 9 [target RPE: 9-10]
 
-## 2025-06-21
+## 2025-06-20
 
 ### Health / Recovery
 
-- Steps: 5145
-- Distance: 3.35 km
-- Total kcal burned: 1812
-- Weight: 76.8 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.22 h asleep (7.68 h in bed, deep 1.45 h, REM 0.82 h, awake 0.47 h)
+- Steps: 2153
+- Distance: 1.42 km
+- Total kcal burned: 1762
+- Weight: 76.5 kg
+- Resting heart rate: 45 bpm
+- Sleep: 7.85 h asleep (8.83 h in bed, deep 1.13 h, REM 0.67 h, awake 0.98 h)
 
 **Week 1 · Day 1**
-Finished: 2025-06-21 10:17:04
+Finished: 2025-06-20 21:17:04
 
 ### Squat (Low Bar)
 
@@ -11851,19 +11902,19 @@ Finished: 2025-06-21 10:17:04
   Set 3: 120.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 120.0kg x 9 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-06-19
+## 2025-06-18
 
 ### Health / Recovery
 
-- Steps: 2876
-- Distance: 1.66 km
-- Total kcal burned: 2561
+- Steps: 2287
+- Distance: 1.29 km
+- Total kcal burned: 2682
 - Weight: 76.5 kg
 - Resting heart rate: 45 bpm
-- Sleep: 6.68 h asleep (7.20 h in bed, deep 0.67 h, REM 0.67 h, awake 0.52 h)
+- Sleep: 7.33 h asleep (7.40 h in bed, deep 0.68 h, REM 1.70 h, awake 0.07 h)
 
 **Week 6 · Day 5**
-Finished: 2025-06-19 10:27:10
+Finished: 2025-06-18 21:27:10
 
 ### Sumo Deadlift (Barbell)
 
@@ -11892,19 +11943,19 @@ Finished: 2025-06-19 10:27:10
   Set 3: 50.0kg x 13 [target RPE: 9-10]
   Set 4: 50.0kg x 11 [target RPE: 9-10]
 
-## 2025-06-18
+## 2025-06-17
 
 ### Health / Recovery
 
-- Steps: 2287
-- Distance: 1.29 km
-- Total kcal burned: 2682
+- Steps: 2040
+- Distance: 1.11 km
+- Total kcal burned: 2779
 - Weight: 76.5 kg
-- Resting heart rate: 45 bpm
-- Sleep: 7.33 h asleep (7.40 h in bed, deep 0.68 h, REM 1.70 h, awake 0.07 h)
+- Resting heart rate: 44 bpm
+- Sleep: 7.15 h asleep (7.45 h in bed, deep 0.82 h, REM 1.25 h, awake 0.30 h)
 
 **Week 6 · Day 4**
-Finished: 2025-06-18 10:39:32
+Finished: 2025-06-17 21:39:32
 
 ### Squat (Low Bar)
 
@@ -11924,19 +11975,19 @@ Exercise notes: Dernière série masse pauses
 ### Unknown
 
 
-## 2025-06-17
+## 2025-06-16
 
 ### Health / Recovery
 
-- Steps: 2040
-- Distance: 1.11 km
-- Total kcal burned: 2779
-- Weight: 76.5 kg
+- Steps: 4130
+- Distance: 2.55 km
+- Total kcal burned: 2699
+- Weight: 77 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.15 h asleep (7.45 h in bed, deep 0.82 h, REM 1.25 h, awake 0.30 h)
+- Sleep: 8.25 h asleep (8.32 h in bed, deep 1.48 h, REM 1.88 h, awake 0.07 h)
 
 **Week 6 · Day 3**
-Finished: 2025-06-17 10:14:41
+Finished: 2025-06-16 21:14:41
 
 ### Sumo Deadlift (Paused)
 
@@ -11957,19 +12008,19 @@ Finished: 2025-06-17 10:14:41
 ### Unknown
 
 
-## 2025-06-16
+## 2025-06-15
 
 ### Health / Recovery
 
-- Steps: 4130
-- Distance: 2.55 km
-- Total kcal burned: 2699
+- Steps: 15615
+- Distance: 10.31 km
+- Total kcal burned: 2511
 - Weight: 77 kg
-- Resting heart rate: 44 bpm
-- Sleep: 8.25 h asleep (8.32 h in bed, deep 1.48 h, REM 1.88 h, awake 0.07 h)
+- Resting heart rate: 45 bpm
+- Sleep: 7.75 h asleep (7.95 h in bed, deep 1.35 h, REM 1.38 h, awake 0.20 h)
 
 **Week 6 · Day 2**
-Finished: 2025-06-16 09:57:41
+Finished: 2025-06-15 20:57:41
 
 ### Bench Press (Barbell)
 
@@ -11997,18 +12048,16 @@ Finished: 2025-06-16 09:57:41
   Set 2: 75.0kg x 9 [target RPE: 9-10]
   Set 3: 72.5kg x 10 [target RPE: 9-10]
 
-## 2025-06-14
+## 2025-06-13
 
 ### Health / Recovery
 
-- Steps: 3248
-- Distance: 1.95 km
-- Total kcal burned: 2222
-- Weight: 77.6 kg
-- Resting heart rate: 44 bpm
+- Steps: 7022
+- Distance: 4.56 km
+- Weight: 76.9 kg
 
 **Week 6 · Day 1**
-Finished: 2025-06-14 10:31:33
+Finished: 2025-06-13 21:31:33
 
 ### Squat (Low Bar)
 
@@ -12032,16 +12081,16 @@ Finished: 2025-06-14 10:31:33
   Set 3: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-06-12
+## 2025-06-11
 
 ### Health / Recovery
 
-- Steps: 2538
-- Distance: 1.46 km
+- Steps: 4118
+- Distance: 2.45 km
 - Weight: 76.9 kg
 
 **Week 5 · Day 5**
-Finished: 2025-06-12 10:27:02
+Finished: 2025-06-11 21:27:02
 
 ### Sumo Deadlift (Barbell)
 
@@ -12070,16 +12119,19 @@ Finished: 2025-06-12 10:27:02
   Set 3: 50.0kg x 13 [target RPE: 9-10]
   Set 4: 50.0kg x 13 [target RPE: 9-10]
 
-## 2025-06-11
+## 2025-06-10
 
 ### Health / Recovery
 
-- Steps: 4118
-- Distance: 2.45 km
+- Steps: 5091
+- Distance: 3.29 km
+- Total kcal burned: 746
 - Weight: 76.9 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.05 h asleep (8.20 h in bed, deep 1.10 h, REM 0.98 h, awake 1.15 h)
 
 **Week 5 · Day 4**
-Finished: 2025-06-11 10:29:43
+Finished: 2025-06-10 21:29:43
 
 ### Squat (Low Bar)
 
@@ -12097,19 +12149,19 @@ Finished: 2025-06-11 10:29:43
 ### Unknown
 
 
-## 2025-06-10
+## 2025-06-09
 
 ### Health / Recovery
 
-- Steps: 5091
-- Distance: 3.29 km
-- Total kcal burned: 746
+- Steps: 2620
+- Distance: 1.46 km
+- Total kcal burned: 2752
 - Weight: 76.9 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.05 h asleep (8.20 h in bed, deep 1.10 h, REM 0.98 h, awake 1.15 h)
+- Sleep: 8.25 h asleep (8.32 h in bed, deep 1.72 h, REM 1.97 h, awake 0.07 h)
 
 **Week 5 · Day 3**
-Finished: 2025-06-10 10:28:00
+Finished: 2025-06-09 21:28:00
 
 ### Sumo Deadlift (Paused)
 
@@ -12130,19 +12182,19 @@ Finished: 2025-06-10 10:28:00
 ### Unknown
 
 
-## 2025-06-09
+## 2025-06-08
 
 ### Health / Recovery
 
-- Steps: 2620
-- Distance: 1.46 km
-- Total kcal burned: 2752
-- Weight: 76.9 kg
+- Steps: 4295
+- Distance: 2.68 km
+- Total kcal burned: 2253
+- Weight: 77.3 kg
 - Resting heart rate: 42 bpm
-- Sleep: 8.25 h asleep (8.32 h in bed, deep 1.72 h, REM 1.97 h, awake 0.07 h)
+- Sleep: 8.52 h asleep (8.72 h in bed, deep 1.13 h, REM 1.13 h, awake 0.20 h)
 
 **Week 5 · Day 2**
-Finished: 2025-06-09 09:54:37
+Finished: 2025-06-08 20:54:37
 
 ### Bench Press (Barbell)
 
@@ -12170,19 +12222,19 @@ Finished: 2025-06-09 09:54:37
   Set 2: 75.0kg x 8 [target RPE: 9-10]
   Set 3: 72.5kg x 9 [target RPE: 9-10]
 
-## 2025-06-07
+## 2025-06-06
 
 ### Health / Recovery
 
-- Steps: 7341
-- Distance: 4.71 km
-- Total kcal burned: 3022
+- Steps: 2927
+- Distance: 1.77 km
+- Total kcal burned: 2363
 - Weight: 77.3 kg
-- Resting heart rate: 42 bpm
-- Sleep: 7.52 h asleep (8.13 h in bed, deep 1.17 h, REM 0.67 h, awake 0.62 h)
+- Resting heart rate: 43 bpm
+- Sleep: 7.40 h asleep (7.52 h in bed, deep 1.17 h, REM 1.62 h, awake 0.12 h)
 
 **Week 5 · Day 1**
-Finished: 2025-06-07 10:23:59
+Finished: 2025-06-06 21:23:59
 
 ### Squat (Low Bar)
 
@@ -12205,19 +12257,19 @@ Finished: 2025-06-07 10:23:59
   Set 3: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-06-05
+## 2025-06-04
 
 ### Health / Recovery
 
-- Steps: 5614
-- Distance: 3.51 km
-- Total kcal burned: 2757
-- Weight: 77.3 kg
+- Steps: 3398
+- Distance: 1.93 km
+- Total kcal burned: 2658
+- Weight: 76.8 kg
 - Resting heart rate: 42 bpm
-- Sleep: 6.88 h asleep (7.40 h in bed, deep 0.98 h, REM 1.50 h, awake 0.52 h)
+- Sleep: 6.37 h asleep (6.42 h in bed, deep 1.45 h, REM 1.15 h, awake 0.05 h)
 
 **Week 4 · Day 5**
-Finished: 2025-06-05 10:04:06
+Finished: 2025-06-04 21:04:06
 
 ### Sumo Deadlift (Barbell)
 
@@ -12246,19 +12298,19 @@ Finished: 2025-06-05 10:04:06
   Set 3: 45.0kg x 12 [target RPE: 9-10]
   Set 4: 45.0kg x 12 [target RPE: 9-10]
 
-## 2025-06-04
+## 2025-06-03
 
 ### Health / Recovery
 
-- Steps: 3398
-- Distance: 1.93 km
-- Total kcal burned: 2658
+- Steps: 4907
+- Distance: 3.22 km
+- Total kcal burned: 2739
 - Weight: 76.8 kg
 - Resting heart rate: 42 bpm
-- Sleep: 6.37 h asleep (6.42 h in bed, deep 1.45 h, REM 1.15 h, awake 0.05 h)
+- Sleep: 7.33 h asleep (7.63 h in bed, deep 0.92 h, REM 1.22 h, awake 0.30 h)
 
 **Week 4 · Day 4**
-Finished: 2025-06-04 10:36:59
+Finished: 2025-06-03 21:36:59
 
 ### Squat (Low Bar)
 
@@ -12276,19 +12328,19 @@ Finished: 2025-06-04 10:36:59
 ### Unknown
 
 
-## 2025-06-03
+## 2025-06-02
 
 ### Health / Recovery
 
-- Steps: 4907
-- Distance: 3.22 km
-- Total kcal burned: 2739
-- Weight: 76.8 kg
+- Steps: 3577
+- Distance: 2.17 km
+- Total kcal burned: 2600
+- Weight: 77.5 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.33 h asleep (7.63 h in bed, deep 0.92 h, REM 1.22 h, awake 0.30 h)
+- Sleep: 7.65 h asleep (7.65 h in bed, deep 0.97 h, REM 1.35 h, awake 0 h)
 
 **Week 4 · Day 3**
-Finished: 2025-06-03 10:29:03
+Finished: 2025-06-02 21:29:03
 
 ### Sumo Deadlift (Paused)
 
@@ -12309,19 +12361,19 @@ Finished: 2025-06-03 10:29:03
 ### Unknown
 
 
-## 2025-06-02
+## 2025-06-01
 
 ### Health / Recovery
 
-- Steps: 3577
-- Distance: 2.17 km
-- Total kcal burned: 2600
-- Weight: 77.5 kg
+- Steps: 20812
+- Distance: 13.69 km
+- Total kcal burned: 2821
+- Weight: 76.7 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.65 h asleep (7.65 h in bed, deep 0.97 h, REM 1.35 h, awake 0 h)
+- Sleep: 9.15 h asleep (9.33 h in bed, deep 1.20 h, REM 1.93 h, awake 0.18 h)
 
 **Week 4 · Day 2**
-Finished: 2025-06-02 09:57:14
+Finished: 2025-06-01 20:57:14
 
 ### Bench Press (Barbell)
 
@@ -12349,19 +12401,19 @@ Finished: 2025-06-02 09:57:14
   Set 2: 72.5kg x 10 [target RPE: 9-10]
   Set 3: 72.5kg x 9 [target RPE: 9-10]
 
-## 2025-05-31
+## 2025-05-30
 
 ### Health / Recovery
 
-- Steps: 10085
-- Distance: 6.47 km
-- Total kcal burned: 3141
-- Weight: 76.7 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.17 h asleep (6.50 h in bed, deep 0.80 h, REM 0.87 h, awake 0.33 h)
+- Steps: 2019
+- Distance: 1.20 km
+- Total kcal burned: 2168
+- Weight: 77.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7 h asleep (7.32 h in bed, deep 0.68 h, REM 1.48 h, awake 0.32 h)
 
 **Week 4 · Day 1**
-Finished: 2025-05-31 10:13:19
+Finished: 2025-05-30 21:13:19
 
 ### Squat (Low Bar)
 
@@ -12384,19 +12436,19 @@ Finished: 2025-05-31 10:13:19
   Set 3: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-05-29
+## 2025-05-28
 
 ### Health / Recovery
 
-- Steps: 2805
-- Distance: 1.61 km
-- Total kcal burned: 2376
+- Steps: 2931
+- Distance: 1.76 km
+- Total kcal burned: 2511
 - Weight: 76.6 kg
-- Resting heart rate: 42 bpm
-- Sleep: 7.03 h asleep (7.12 h in bed, deep 0.70 h, REM 2.03 h, awake 0.08 h)
+- Resting heart rate: 43 bpm
+- Sleep: 7.92 h asleep (8.08 h in bed, deep 0.73 h, REM 1.93 h, awake 0.17 h)
 
 **Week 3 · Day 5**
-Finished: 2025-05-29 10:19:51
+Finished: 2025-05-28 21:19:51
 
 ### Sumo Deadlift (Barbell)
 
@@ -12425,19 +12477,19 @@ Finished: 2025-05-29 10:19:51
   Set 3: 45.0kg x 13 [target RPE: 9-10]
   Set 4: 45.0kg x 12 [target RPE: 9-10]
 
-## 2025-05-28
+## 2025-05-27
 
 ### Health / Recovery
 
-- Steps: 2931
-- Distance: 1.76 km
-- Total kcal burned: 2511
-- Weight: 76.6 kg
+- Steps: 7535
+- Distance: 4.83 km
+- Total kcal burned: 2836
+- Weight: 76.9 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.92 h asleep (8.08 h in bed, deep 0.73 h, REM 1.93 h, awake 0.17 h)
+- Sleep: 7.57 h asleep (7.98 h in bed, deep 1.10 h, REM 1.38 h, awake 0.42 h)
 
 **Week 3 · Day 4**
-Finished: 2025-05-28 10:12:16
+Finished: 2025-05-27 21:12:16
 
 ### Squat (Low Bar)
 
@@ -12454,19 +12506,19 @@ Finished: 2025-05-28 10:12:16
 ### Unknown
 
 
-## 2025-05-27
+## 2025-05-26
 
 ### Health / Recovery
 
-- Steps: 7535
-- Distance: 4.83 km
-- Total kcal burned: 2836
+- Steps: 2892
+- Distance: 1.52 km
+- Total kcal burned: 2652
 - Weight: 76.9 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.57 h asleep (7.98 h in bed, deep 1.10 h, REM 1.38 h, awake 0.42 h)
+- Sleep: 7.83 h asleep (7.88 h in bed, deep 1.27 h, REM 1.75 h, awake 0.05 h)
 
 **Week 3 · Day 3**
-Finished: 2025-05-27 10:05:56
+Finished: 2025-05-26 21:05:56
 
 ### Sumo Deadlift (Paused)
 
@@ -12494,19 +12546,18 @@ Finished: 2025-05-27 10:05:56
   Set 3: 35.0kg x 10
   Set 4: 30.0kg x 12
 
-## 2025-05-26
+## 2025-05-25
 
 ### Health / Recovery
 
-- Steps: 2892
-- Distance: 1.52 km
-- Total kcal burned: 2652
-- Weight: 76.9 kg
+- Steps: 16161
+- Distance: 10.62 km
+- Total kcal burned: 2697
+- Weight: 76.4 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.83 h asleep (7.88 h in bed, deep 1.27 h, REM 1.75 h, awake 0.05 h)
 
 **Week 3 · Day 2**
-Finished: 2025-05-26 09:45:33
+Finished: 2025-05-25 20:45:33
 
 ### Bench Press (Barbell)
 
@@ -12535,19 +12586,19 @@ Finished: 2025-05-26 09:45:33
   Set 2: 70.0kg x 10 [target RPE: 9-10]
   Set 3: 70.0kg x 10 [target RPE: 9-10]
 
-## 2025-05-24
+## 2025-05-23
 
 ### Health / Recovery
 
-- Steps: 12623
-- Distance: 8.11 km
-- Total kcal burned: 3208
+- Steps: 2684
+- Distance: 1.65 km
+- Total kcal burned: 2187
 - Weight: 77.3 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.85 h asleep (8.03 h in bed, deep 1.75 h, REM 1.52 h, awake 0.18 h)
+- Sleep: 7.98 h asleep (8.20 h in bed, deep 0.83 h, REM 1.73 h, awake 0.22 h)
 
 **Week 3 · Day 1**
-Finished: 2025-05-24 10:22:43
+Finished: 2025-05-23 21:22:43
 
 ### Squat (Low Bar)
 
@@ -12570,19 +12621,19 @@ Finished: 2025-05-24 10:22:43
   Set 3: 120.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 120.0kg x 6 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-05-22
+## 2025-05-21
 
 ### Health / Recovery
 
-- Steps: 7672
-- Distance: 6.18 km
-- Total kcal burned: 2693
-- Weight: 76.9 kg
+- Steps: 4006
+- Distance: 3.17 km
+- Total kcal burned: 2759
+- Weight: 76.5 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.25 h asleep (7.40 h in bed, deep 0.83 h, REM 1.12 h, awake 0.15 h)
+- Sleep: 8.12 h asleep (8.25 h in bed, deep 0.92 h, REM 1.52 h, awake 0.13 h)
 
 **Week 2 · Day 5**
-Finished: 2025-05-22 09:52:58
+Finished: 2025-05-21 20:52:58
 
 ### Sumo Deadlift (Barbell)
 
@@ -12611,19 +12662,19 @@ Finished: 2025-05-22 09:52:58
   Set 3: 62.5kg x 12 [target RPE: 9-10]
   Set 4: 62.5kg x 12 [target RPE: 9-10]
 
-## 2025-05-21
+## 2025-05-20
 
 ### Health / Recovery
 
-- Steps: 4006
-- Distance: 3.17 km
-- Total kcal burned: 2759
-- Weight: 76.5 kg
-- Resting heart rate: 43 bpm
-- Sleep: 8.12 h asleep (8.25 h in bed, deep 0.92 h, REM 1.52 h, awake 0.13 h)
+- Steps: 5979
+- Distance: 4.58 km
+- Total kcal burned: 3031
+- Weight: 76.4 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.15 h asleep (7.40 h in bed, deep 0.53 h, REM 1.83 h, awake 0.25 h)
 
 **Week 2 · Day 4**
-Finished: 2025-05-21 10:19:52
+Finished: 2025-05-20 21:19:52
 
 ### Squat (Low Bar)
 
@@ -12641,19 +12692,19 @@ Finished: 2025-05-21 10:19:52
 ### Unknown
 
 
-## 2025-05-20
+## 2025-05-19
 
 ### Health / Recovery
 
-- Steps: 5979
-- Distance: 4.58 km
-- Total kcal burned: 3031
-- Weight: 76.4 kg
-- Resting heart rate: 42 bpm
-- Sleep: 7.15 h asleep (7.40 h in bed, deep 0.53 h, REM 1.83 h, awake 0.25 h)
+- Steps: 7754
+- Distance: 5.99 km
+- Total kcal burned: 2784
+- Weight: 76.8 kg
+- Resting heart rate: 43 bpm
+- Sleep: 8.02 h asleep (8.33 h in bed, deep 0.37 h, REM 1.65 h, awake 0.32 h)
 
 **Week 2 · Day 3**
-Finished: 2025-05-20 10:05:36
+Finished: 2025-05-19 21:05:36
 
 ### Sumo Deadlift (Paused)
 
@@ -12674,19 +12725,19 @@ Finished: 2025-05-20 10:05:36
 ### Unknown
 
 
-## 2025-05-19
+## 2025-05-18
 
 ### Health / Recovery
 
-- Steps: 7754
-- Distance: 5.99 km
-- Total kcal burned: 2784
-- Weight: 76.8 kg
+- Steps: 17718
+- Distance: 13.71 km
+- Total kcal burned: 2715
+- Weight: 76.5 kg
 - Resting heart rate: 43 bpm
-- Sleep: 8.02 h asleep (8.33 h in bed, deep 0.37 h, REM 1.65 h, awake 0.32 h)
+- Sleep: 7.18 h asleep (7.27 h in bed, deep 1.18 h, REM 1.23 h, awake 0.08 h)
 
 **Week 2 · Day 2**
-Finished: 2025-05-19 09:44:19
+Finished: 2025-05-18 20:44:19
 
 ### Bench Press (Barbell)
 
@@ -12714,19 +12765,19 @@ Finished: 2025-05-19 09:44:19
   Set 2: 70.0kg x 11 [target RPE: 9-10]
   Set 3: 70.0kg x 10 [target RPE: 9-10]
 
-## 2025-05-17
+## 2025-05-16
 
 ### Health / Recovery
 
-- Steps: 15424
-- Distance: 12.01 km
-- Total kcal burned: 3193
-- Weight: 77.6 kg
+- Steps: 6914
+- Distance: 5.65 km
+- Total kcal burned: 2314
+- Weight: 71.6 kg
 - Resting heart rate: 44 bpm
-- Sleep: 8.30 h asleep (8.52 h in bed, deep 1.12 h, REM 1.58 h, awake 0.22 h)
+- Sleep: 7.78 h asleep (8.27 h in bed, deep 1.77 h, REM 0.98 h, awake 0.48 h)
 
 **Week 2 · Day 1**
-Finished: 2025-05-17 10:45:35
+Finished: 2025-05-16 21:45:35
 
 ### Squat (Low Bar)
 
@@ -12749,18 +12800,19 @@ Finished: 2025-05-17 10:45:35
   Set 3: 120.0kg x 6 [target RPE: 9] [est_stress=-, real_stress=-]
   Set 4: 110.0kg x 8 [target RPE: 9] [est_stress=-, real_stress=-]
 
-## 2025-05-15
+## 2025-05-14
 
 ### Health / Recovery
 
-- Steps: 6291
-- Distance: 5.14 km
-- Total kcal burned: 2638
+- Steps: 4497
+- Distance: 3.50 km
+- Total kcal burned: 2879
+- Weight: 76.1 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.83 h asleep (7.22 h in bed, deep 0.75 h, REM 0.77 h, awake 0.38 h)
+- Sleep: 7.75 h asleep (8.05 h in bed, deep 0.75 h, REM 1.28 h, awake 0.30 h)
 
 **Week 1 · Day 5**
-Finished: 2025-05-15 09:44:17
+Finished: 2025-05-14 20:44:17
 
 ### Sumo Deadlift (Barbell)
 
@@ -12789,19 +12841,19 @@ Finished: 2025-05-15 09:44:17
   Set 3: 62.5kg x 13 [target RPE: 9-10]
   Set 4: 62.5kg x 14 [target RPE: 9-10]
 
-## 2025-05-14
+## 2025-05-13
 
 ### Health / Recovery
 
-- Steps: 4497
-- Distance: 3.50 km
-- Total kcal burned: 2879
+- Steps: 7429
+- Distance: 6.03 km
+- Total kcal burned: 2820
 - Weight: 76.1 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.75 h asleep (8.05 h in bed, deep 0.75 h, REM 1.28 h, awake 0.30 h)
+- Sleep: 6.87 h asleep (6.92 h in bed, deep 1.47 h, REM 1.02 h, awake 0.05 h)
 
 **Week 1 · Day 4**
-Finished: 2025-05-14 10:31:49
+Finished: 2025-05-13 21:31:49
 
 ### Squat (Low Bar)
 
@@ -12825,19 +12877,19 @@ Finished: 2025-05-14 10:31:49
   Set 2: 70.0kg x 10 [target RPE: 8-10] [est_stress=-, real_stress=-]
   Set 3: 70.0kg x 8 [target RPE: 8-10] [est_stress=-, real_stress=-]
 
-## 2025-05-13
+## 2025-05-12
 
 ### Health / Recovery
 
-- Steps: 7429
-- Distance: 6.03 km
-- Total kcal burned: 2820
-- Weight: 76.1 kg
+- Steps: 8624
+- Distance: 6.51 km
+- Total kcal burned: 2829
+- Weight: 71.8 kg
 - Resting heart rate: 44 bpm
-- Sleep: 6.87 h asleep (6.92 h in bed, deep 1.47 h, REM 1.02 h, awake 0.05 h)
+- Sleep: 7.08 h asleep (7.22 h in bed, deep 0.95 h, REM 1.03 h, awake 0.13 h)
 
 **Week 1 · Day 3**
-Finished: 2025-05-13 09:19:38
+Finished: 2025-05-12 20:19:38
 
 ### Sumo Deadlift (Paused)
 
@@ -12858,19 +12910,17 @@ Finished: 2025-05-13 09:19:38
 ### Unknown
 
 
-## 2025-05-12
+## 2025-05-11
 
 ### Health / Recovery
 
-- Steps: 8624
-- Distance: 6.51 km
-- Total kcal burned: 2829
-- Weight: 71.8 kg
+- Steps: 4556
+- Distance: 3.62 km
+- Total kcal burned: 2221
 - Resting heart rate: 44 bpm
-- Sleep: 7.08 h asleep (7.22 h in bed, deep 0.95 h, REM 1.03 h, awake 0.13 h)
 
 **Week 1 · Day 2**
-Finished: 2025-05-12 08:12:41
+Finished: 2025-05-11 19:12:41
 
 ### Bench Press (Barbell)
 
@@ -12899,19 +12949,17 @@ Finished: 2025-05-12 08:12:41
   Set 2: 70.0kg x 10 [target RPE: 9-10]
   Set 3: 67.5kg x 11 [target RPE: 9-10]
 
-## 2025-05-12
+## 2025-05-11
 
 ### Health / Recovery
 
-- Steps: 8624
-- Distance: 6.51 km
-- Total kcal burned: 2829
-- Weight: 71.8 kg
+- Steps: 4556
+- Distance: 3.62 km
+- Total kcal burned: 2221
 - Resting heart rate: 44 bpm
-- Sleep: 7.08 h asleep (7.22 h in bed, deep 0.95 h, REM 1.03 h, awake 0.13 h)
 
 **Week 1 · Day 1**
-Finished: 2025-05-12 08:12:32
+Finished: 2025-05-11 19:12:32
 
 ### Squat (Low Bar)
 
@@ -12922,19 +12970,17 @@ Finished: 2025-05-12 08:12:32
 ### Romanian Deadlift (Barbell)
 
 
-## 2025-05-12
+## 2025-05-11
 
 ### Health / Recovery
 
-- Steps: 8624
-- Distance: 6.51 km
-- Total kcal burned: 2829
-- Weight: 71.8 kg
+- Steps: 4556
+- Distance: 3.62 km
+- Total kcal burned: 2221
 - Resting heart rate: 44 bpm
-- Sleep: 7.08 h asleep (7.22 h in bed, deep 0.95 h, REM 1.03 h, awake 0.13 h)
 
 **Week 1 · Day 1**
-Finished: 2025-05-12 08:12:31
+Finished: 2025-05-11 19:12:31
 
 ### Squat (Low Bar)
 
@@ -12945,18 +12991,18 @@ Finished: 2025-05-12 08:12:31
 ### Romanian Deadlift (Barbell)
 
 
-## 2025-05-08
+## 2025-05-07
 
 ### Health / Recovery
 
-- Steps: 14821
-- Distance: 12.22 km
-- Total kcal burned: 2642
+- Steps: 16113
+- Distance: 12.60 km
+- Total kcal burned: 3692
 - Resting heart rate: 42 bpm
-- Sleep: 4 h asleep (4.42 h in bed, deep 0.27 h, REM 0.08 h, awake 0.42 h)
+- Sleep: 7.87 h asleep (8.32 h in bed, deep 0.87 h, REM 1.75 h, awake 0.45 h)
 
 **Week 2 · Day 2**
-Finished: 2025-05-08 09:59:43
+Finished: 2025-05-07 20:59:43
 
 ### Squat (Low Bar)
 
@@ -12981,18 +13027,18 @@ Finished: 2025-05-08 09:59:43
   Set 3: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=272, real_stress=272]
   Set 4: 160.0kg x 3 @ RPE 7 [target RPE: 7] [est_stress=272, real_stress=272]
 
-## 2025-05-04
+## 2025-05-03
 
 ### Health / Recovery
 
-- Steps: 22611
-- Distance: 16.37 km
-- Total kcal burned: 3414
+- Steps: 18714
+- Distance: 14.24 km
+- Total kcal burned: 3288
 - Resting heart rate: 40 bpm
-- Sleep: 6.98 h asleep (7.92 h in bed, deep 1.03 h, REM 1.27 h, awake 0.93 h)
+- Sleep: 8.12 h asleep (8.33 h in bed, deep 0.98 h, REM 1.78 h, awake 0.22 h)
 
 **Week 2 · Day 1**
-Finished: 2025-05-04 12:13:58
+Finished: 2025-05-03 23:13:58
 
 ### Squat (Low Bar)
 
@@ -13014,18 +13060,18 @@ Finished: 2025-05-04 12:13:58
   Set 2: 160.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=272, real_stress=340]
   Set 3: 160.0kg x 3 @ RPE 8 [target RPE: 7] [est_stress=272, real_stress=340]
 
-## 2025-05-02
+## 2025-05-01
 
 ### Health / Recovery
 
-- Steps: 18696
-- Distance: 13.12 km
-- Total kcal burned: 2723
-- Resting heart rate: 40 bpm
-- Sleep: 7.27 h asleep (7.67 h in bed, deep 1.05 h, REM 1.40 h, awake 0.40 h)
+- Steps: 15426
+- Distance: 10.21 km
+- Total kcal burned: 2801
+- Resting heart rate: 41 bpm
+- Sleep: 7.83 h asleep (8.30 h in bed, deep 1.63 h, REM 1.92 h, awake 0.47 h)
 
 **Week 1 · Day 4**
-Finished: 2025-05-02 09:29:40
+Finished: 2025-05-01 20:29:40
 
 ### Squat (Low Bar)
 
@@ -13048,18 +13094,18 @@ Finished: 2025-05-02 09:29:40
   Set 3: 152.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=314, real_stress=314]
   Set 4: 152.5kg x 4 @ RPE 7 [target RPE: 7] [est_stress=314, real_stress=314]
 
-## 2025-04-30
+## 2025-04-29
 
 ### Health / Recovery
 
-- Steps: 10792
-- Distance: 7.66 km
-- Total kcal burned: 2361
+- Steps: 10171
+- Distance: 8.07 km
+- Total kcal burned: 2586
 - Resting heart rate: 42 bpm
-- Sleep: 6.72 h asleep (6.87 h in bed, deep 1.45 h, REM 1.23 h, awake 0.15 h)
+- Sleep: 11.87 h asleep (12.32 h in bed, deep 2.17 h, REM 1.88 h, awake 0.45 h)
 
 **Week 1 · Day 3**
-Finished: 2025-04-30 10:36:56
+Finished: 2025-04-29 21:36:56
 
 ### Squat (Low Bar)
 
@@ -13082,19 +13128,19 @@ Finished: 2025-04-30 10:36:56
   Set 3: 150.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=374, real_stress=374]
   Set 4: 150.0kg x 5 @ RPE 7 [target RPE: 7] [est_stress=374, real_stress=374]
 
-## 2025-04-28
+## 2025-04-27
 
 ### Health / Recovery
 
-- Steps: 11852
-- Distance: 5.54 km
-- Total kcal burned: 4736
+- Steps: 12813
+- Distance: 9.67 km
+- Total kcal burned: 2561
 - Weight: 76.8 kg
 - Resting heart rate: 43 bpm
-- Sleep: 0.28 h asleep (0.28 h in bed, deep 0 h, REM 0 h, awake 0 h)
+- Sleep: 8.35 h asleep (8.42 h in bed, deep 1.27 h, REM 2.17 h, awake 0.07 h)
 
 **Week 1 · Day 2**
-Finished: 2025-04-28 09:49:17
+Finished: 2025-04-27 20:49:17
 
 ### Bench Press (Barbell)
 
@@ -13125,19 +13171,19 @@ Finished: 2025-04-28 09:49:17
   Set 2: 67.5kg x 11 [target RPE: 9-10]
   Set 3: 67.5kg x 11 [target RPE: 9-10]
 
-## 2025-04-26
+## 2025-04-25
 
 ### Health / Recovery
 
-- Steps: 9924
-- Distance: 7.88 km
-- Total kcal burned: 2738
+- Steps: 5851
+- Distance: 4.67 km
+- Total kcal burned: 2314
 - Weight: 76.8 kg
-- Resting heart rate: 44 bpm
-- Sleep: 6.88 h asleep (6.88 h in bed, deep 1.15 h, REM 1.45 h, awake 0 h)
+- Resting heart rate: 43 bpm
+- Sleep: 7.70 h asleep (8.03 h in bed, deep 0.82 h, REM 1.50 h, awake 0.33 h)
 
 **Week 1 · Day 1**
-Finished: 2025-04-26 10:27:49
+Finished: 2025-04-25 21:27:49
 
 ### Squat (Low Bar)
 
@@ -13166,19 +13212,19 @@ Finished: 2025-04-26 10:27:49
   Set 3: 40.0kg x 10 [target RPE: 10]
   Set 4: 37.5kg x 12 [target RPE: 10]
 
-## 2025-04-24
+## 2025-04-23
 
 ### Health / Recovery
 
-- Steps: 9998
-- Distance: 7.72 km
-- Total kcal burned: 2895
-- Weight: 76.8 kg
+- Steps: 7294
+- Distance: 5.68 km
+- Total kcal burned: 2892
+- Weight: 76.4 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.47 h asleep (7.72 h in bed, deep 1 h, REM 1.82 h, awake 0.25 h)
+- Sleep: 6.95 h asleep (7.55 h in bed, deep 0.60 h, REM 0.97 h, awake 0.60 h)
 
 **Week 2 · Day 5**
-Finished: 2025-04-24 10:22:32
+Finished: 2025-04-23 21:22:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -13207,19 +13253,19 @@ Finished: 2025-04-24 10:22:32
   Set 3: 60.0kg x 13 [target RPE: 9-10]
   Set 4: 65.0kg x 12 [target RPE: 9-10]
 
-## 2025-04-23
+## 2025-04-22
 
 ### Health / Recovery
 
-- Steps: 7294
-- Distance: 5.68 km
-- Total kcal burned: 2892
-- Weight: 76.4 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.95 h asleep (7.55 h in bed, deep 0.60 h, REM 0.97 h, awake 0.60 h)
+- Steps: 10494
+- Distance: 8.89 km
+- Total kcal burned: 2911
+- Weight: 77.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.70 h asleep (7.90 h in bed, deep 0.77 h, REM 1.75 h, awake 0.20 h)
 
 **Week 2 · Day 4**
-Finished: 2025-04-23 10:27:34
+Finished: 2025-04-22 21:27:34
 
 ### Squat (Low Bar)
 
@@ -13242,19 +13288,19 @@ Finished: 2025-04-23 10:27:34
 ### Unknown
 
 
-## 2025-04-22
+## 2025-04-21
 
 ### Health / Recovery
 
-- Steps: 10494
-- Distance: 8.89 km
-- Total kcal burned: 2911
-- Weight: 77.2 kg
-- Resting heart rate: 42 bpm
-- Sleep: 7.70 h asleep (7.90 h in bed, deep 0.77 h, REM 1.75 h, awake 0.20 h)
+- Steps: 3247
+- Distance: 2.68 km
+- Total kcal burned: 2416
+- Weight: 77.9 kg
+- Resting heart rate: 43 bpm
+- Sleep: 6.90 h asleep (7.17 h in bed, deep 1.13 h, REM 0.75 h, awake 0.27 h)
 
 **Week 2 · Day 3**
-Finished: 2025-04-22 10:24:23
+Finished: 2025-04-21 21:24:23
 
 ### Sumo Deadlift (Paused)
 
@@ -13275,19 +13321,19 @@ Finished: 2025-04-22 10:24:23
 ### Unknown
 
 
-## 2025-04-21
+## 2025-04-20
 
 ### Health / Recovery
 
-- Steps: 3247
-- Distance: 2.68 km
-- Total kcal burned: 2416
-- Weight: 77.9 kg
+- Steps: 13263
+- Distance: 9.70 km
+- Total kcal burned: 2479
+- Weight: 77.4 kg
 - Resting heart rate: 43 bpm
-- Sleep: 6.90 h asleep (7.17 h in bed, deep 1.13 h, REM 0.75 h, awake 0.27 h)
+- Sleep: 9.12 h asleep (9.32 h in bed, deep 1.28 h, REM 1.48 h, awake 0.20 h)
 
 **Week 2 · Day 2**
-Finished: 2025-04-21 09:51:09
+Finished: 2025-04-20 20:51:09
 
 ### Bench Press (Barbell)
 
@@ -13315,19 +13361,19 @@ Finished: 2025-04-21 09:51:09
   Set 2: 67.5kg x 11 [target RPE: 9-10]
   Set 3: 67.5kg x 11 [target RPE: 9-10]
 
-## 2025-04-18
+## 2025-04-17
 
 ### Health / Recovery
 
-- Steps: 3545
-- Distance: 2.80 km
-- Total kcal burned: 2389
-- Weight: 77.8 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.17 h asleep (7.47 h in bed, deep 0.40 h, REM 1.82 h, awake 0.30 h)
+- Steps: 5748
+- Distance: 4.70 km
+- Total kcal burned: 2381
+- Weight: 77.3 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.83 h asleep (8.68 h in bed, deep 0.83 h, REM 0.82 h, awake 0.85 h)
 
 **Week 2 · Day 1**
-Finished: 2025-04-18 10:23:47
+Finished: 2025-04-17 21:23:47
 
 ### Squat (Low Bar)
 
@@ -13353,19 +13399,19 @@ Finished: 2025-04-18 10:23:47
 ### Leg Curl
 
 
-## 2025-04-17
+## 2025-04-16
 
 ### Health / Recovery
 
-- Steps: 5748
-- Distance: 4.70 km
-- Total kcal burned: 2381
+- Steps: 2812
+- Distance: 2.28 km
+- Total kcal burned: 2545
 - Weight: 77.3 kg
-- Resting heart rate: 44 bpm
-- Sleep: 7.83 h asleep (8.68 h in bed, deep 0.83 h, REM 0.82 h, awake 0.85 h)
+- Resting heart rate: 43 bpm
+- Sleep: 7.88 h asleep (8.42 h in bed, deep 0.82 h, REM 1.30 h, awake 0.53 h)
 
 **Week 1 · Day 5**
-Finished: 2025-04-17 10:23:00
+Finished: 2025-04-16 21:23:00
 
 ### Sumo Deadlift (Barbell)
 
@@ -13394,19 +13440,19 @@ Finished: 2025-04-17 10:23:00
   Set 3: 50.0kg x 15 [target RPE: 9-10]
   Set 4: 55.0kg x 11 [target RPE: 9-10]
 
-## 2025-04-16
+## 2025-04-15
 
 ### Health / Recovery
 
-- Steps: 2812
-- Distance: 2.28 km
-- Total kcal burned: 2545
-- Weight: 77.3 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.88 h asleep (8.42 h in bed, deep 0.82 h, REM 1.30 h, awake 0.53 h)
+- Steps: 4540
+- Distance: 3.69 km
+- Total kcal burned: 2527
+- Weight: 71.3 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.30 h asleep (8.37 h in bed, deep 1.53 h, REM 2.15 h, awake 0.07 h)
 
 **Week 1 · Day 4**
-Finished: 2025-04-16 10:21:17
+Finished: 2025-04-15 21:21:17
 
 ### Squat (Low Bar)
 
@@ -13430,19 +13476,19 @@ Finished: 2025-04-16 10:21:17
 ### Unknown
 
 
-## 2025-04-15
+## 2025-04-14
 
 ### Health / Recovery
 
-- Steps: 4540
-- Distance: 3.69 km
-- Total kcal burned: 2527
-- Weight: 71.3 kg
+- Steps: 5570
+- Distance: 4.48 km
+- Total kcal burned: 2362
+- Weight: 77.6 kg
 - Resting heart rate: 44 bpm
-- Sleep: 8.30 h asleep (8.37 h in bed, deep 1.53 h, REM 2.15 h, awake 0.07 h)
+- Sleep: 7.15 h asleep (7.37 h in bed, deep 1.15 h, REM 0.95 h, awake 0.22 h)
 
 **Week 1 · Day 3**
-Finished: 2025-04-15 10:21:43
+Finished: 2025-04-14 21:21:43
 
 ### Sumo Deadlift (Paused)
 
@@ -13463,19 +13509,18 @@ Finished: 2025-04-15 10:21:43
 ### Unknown
 
 
-## 2025-04-14
+## 2025-04-13
 
 ### Health / Recovery
 
-- Steps: 5570
-- Distance: 4.48 km
-- Total kcal burned: 2362
-- Weight: 77.6 kg
-- Resting heart rate: 44 bpm
-- Sleep: 7.15 h asleep (7.37 h in bed, deep 1.15 h, REM 0.95 h, awake 0.22 h)
+- Steps: 11036
+- Distance: 8.67 km
+- Total kcal burned: 2420
+- Resting heart rate: 43 bpm
+- Sleep: 7.47 h asleep (7.57 h in bed, deep 0.65 h, REM 1.42 h, awake 0.10 h)
 
 **Week 1 · Day 2**
-Finished: 2025-04-14 09:57:42
+Finished: 2025-04-13 20:57:42
 
 ### Bench Press (Barbell)
 
@@ -13503,18 +13548,19 @@ Finished: 2025-04-14 09:57:42
   Set 2: 67.5kg x 11 [target RPE: 9-10]
   Set 3: 67.5kg x 10 [target RPE: 9-10]
 
-## 2025-04-12
+## 2025-04-11
 
 ### Health / Recovery
 
-- Steps: 8890
-- Distance: 7.29 km
-- Total kcal burned: 2936
+- Steps: 4340
+- Distance: 3.51 km
+- Total kcal burned: 2607
+- Weight: 75.9 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.05 h asleep (7.17 h in bed, deep 0.63 h, REM 1.13 h, awake 0.12 h)
+- Sleep: 7.08 h asleep (7.80 h in bed, deep 0.72 h, REM 0.80 h, awake 0.72 h)
 
 **Week 1 · Day 1**
-Finished: 2025-04-12 10:14:22
+Finished: 2025-04-11 21:14:22
 
 ### Squat (Low Bar)
 
@@ -13544,19 +13590,19 @@ Finished: 2025-04-12 10:14:22
   Set 3: 35.0kg x 12 [target RPE: 8-10]
   Set 4: 35.0kg x 11 [target RPE: 8-10]
 
-## 2025-04-11
+## 2025-04-10
 
 ### Health / Recovery
 
-- Steps: 4340
-- Distance: 3.51 km
-- Total kcal burned: 2607
-- Weight: 75.9 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.08 h asleep (7.80 h in bed, deep 0.72 h, REM 0.80 h, awake 0.72 h)
+- Steps: 4071
+- Distance: 3.32 km
+- Total kcal burned: 2725
+- Weight: 76.4 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.43 h asleep (7.57 h in bed, deep 0.85 h, REM 1.08 h, awake 0.13 h)
 
 **Week 6 · Day 5**
-Finished: 2025-04-11 10:15:36
+Finished: 2025-04-10 21:15:36
 
 ### Sumo Deadlift (Barbell)
 
@@ -13582,19 +13628,19 @@ Finished: 2025-04-11 10:15:36
   Set 3: 40.0kg x 13 [target RPE: 9-10]
   Set 4: 40.0kg x 14 [target RPE: 9-10]
 
-## 2025-04-10
+## 2025-04-09
 
 ### Health / Recovery
 
-- Steps: 4071
-- Distance: 3.32 km
-- Total kcal burned: 2725
+- Steps: 3955
+- Distance: 3.06 km
+- Total kcal burned: 2115
 - Weight: 76.4 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.43 h asleep (7.57 h in bed, deep 0.85 h, REM 1.08 h, awake 0.13 h)
+- Sleep: 7.27 h asleep (8.02 h in bed, deep 1.03 h, REM 0.68 h, awake 0.75 h)
 
 **Week 6 · Day 4**
-Finished: 2025-04-10 10:18:41
+Finished: 2025-04-09 21:18:41
 
 ### Squat (Low Bar)
 
@@ -13612,19 +13658,19 @@ Finished: 2025-04-10 10:18:41
 ### Unknown
 
 
-## 2025-04-08
+## 2025-04-07
 
 ### Health / Recovery
 
-- Steps: 12040
-- Distance: 9.41 km
-- Total kcal burned: 3052
-- Weight: 76.4 kg
-- Resting heart rate: 42 bpm
-- Sleep: 6.83 h asleep (7.80 h in bed, deep 0.87 h, REM 0.83 h, awake 0.97 h)
+- Steps: 5208
+- Distance: 4.36 km
+- Total kcal burned: 2594
+- Weight: 76.7 kg
+- Resting heart rate: 41 bpm
+- Sleep: 8.15 h asleep (8.23 h in bed, deep 1.58 h, REM 1.95 h, awake 0.08 h)
 
 **Week 6 · Day 3**
-Finished: 2025-04-08 10:11:33
+Finished: 2025-04-07 21:11:33
 
 ### Sumo Deadlift (Paused)
 
@@ -13645,19 +13691,19 @@ Finished: 2025-04-08 10:11:33
 ### Unknown
 
 
-## 2025-04-07
+## 2025-04-06
 
 ### Health / Recovery
 
-- Steps: 5208
-- Distance: 4.36 km
-- Total kcal burned: 2594
-- Weight: 76.7 kg
+- Steps: 18002
+- Distance: 14.04 km
+- Total kcal burned: 2701
+- Weight: 75.8 kg
 - Resting heart rate: 41 bpm
-- Sleep: 8.15 h asleep (8.23 h in bed, deep 1.58 h, REM 1.95 h, awake 0.08 h)
+- Sleep: 8.03 h asleep (8.32 h in bed, deep 0.58 h, REM 1.20 h, awake 0.28 h)
 
 **Week 6 · Day 2**
-Finished: 2025-04-07 10:29:34
+Finished: 2025-04-06 21:29:34
 
 ### Bench Press (Barbell)
 
@@ -13690,19 +13736,18 @@ Finished: 2025-04-07 10:29:34
   Set 2: 75.0kg x 12 [target RPE: 9-10] [est_stress=414, real_stress=-]
   Set 3: 75.0kg x 13 [target RPE: 9-10] [est_stress=448, real_stress=-]
 
-## 2025-04-05
+## 2025-04-04
 
 ### Health / Recovery
 
-- Steps: 7583
-- Distance: 6.05 km
-- Total kcal burned: 3209
-- Weight: 75.8 kg
-- Resting heart rate: 41 bpm
-- Sleep: 7.38 h asleep (7.70 h in bed, deep 1.85 h, REM 0.83 h, awake 0.32 h)
+- Steps: 1671
+- Distance: 1.35 km
+- Total kcal burned: 2078
+- Resting heart rate: 40 bpm
+- Sleep: 8.35 h asleep (8.42 h in bed, deep 1.08 h, REM 1.90 h, awake 0.07 h)
 
 **Week 6 · Day 1**
-Finished: 2025-04-05 10:27:35
+Finished: 2025-04-04 21:27:35
 
 ### Squat (Low Bar)
 
@@ -13730,19 +13775,19 @@ Finished: 2025-04-05 10:27:35
   Set 3: 35.0kg x 10 [target RPE: 9-10]
   Set 4: 35.0kg x 10 [target RPE: 9-10]
 
-## 2025-04-03
+## 2025-04-02
 
 ### Health / Recovery
 
-- Steps: 8203
-- Distance: 6.43 km
-- Total kcal burned: 2628
-- Weight: 75.8 kg
+- Steps: 8056
+- Distance: 8.66 km
+- Total kcal burned: 2587
+- Weight: 76.5 kg
 - Resting heart rate: 41 bpm
-- Sleep: 7.53 h asleep (7.95 h in bed, deep 1.07 h, REM 0.90 h, awake 0.42 h)
+- Sleep: 7.22 h asleep (7.50 h in bed, deep 0.77 h, REM 1.15 h, awake 0.28 h)
 
 **Week 5 · Day 5**
-Finished: 2025-04-03 10:32:52
+Finished: 2025-04-02 21:32:52
 
 ### Sumo Deadlift (Barbell)
 
@@ -13770,19 +13815,19 @@ Finished: 2025-04-03 10:32:52
   Set 3: 42.5kg x 12 [target RPE: 9-10]
   Set 4: 42.5kg x 12 [target RPE: 9-10]
 
-## 2025-04-02
+## 2025-04-01
 
 ### Health / Recovery
 
-- Steps: 8056
-- Distance: 8.66 km
-- Total kcal burned: 2587
-- Weight: 76.5 kg
+- Steps: 7610
+- Distance: 6.10 km
+- Total kcal burned: 2708
+- Weight: 76.1 kg
 - Resting heart rate: 41 bpm
-- Sleep: 7.22 h asleep (7.50 h in bed, deep 0.77 h, REM 1.15 h, awake 0.28 h)
+- Sleep: 7.40 h asleep (7.48 h in bed, deep 0.82 h, REM 1.03 h, awake 0.08 h)
 
 **Week 5 · Day 4**
-Finished: 2025-04-02 10:21:17
+Finished: 2025-04-01 21:21:17
 
 ### Squat (Low Bar)
 
@@ -13801,19 +13846,18 @@ Finished: 2025-04-02 10:21:17
 ### Unknown
 
 
-## 2025-04-01
+## 2025-03-31
 
 ### Health / Recovery
 
-- Steps: 7610
-- Distance: 6.10 km
-- Total kcal burned: 2708
-- Weight: 76.1 kg
+- Steps: 4024
+- Distance: 3.27 km
+- Total kcal burned: 2369
 - Resting heart rate: 41 bpm
-- Sleep: 7.40 h asleep (7.48 h in bed, deep 0.82 h, REM 1.03 h, awake 0.08 h)
+- Sleep: 8.22 h asleep (8.28 h in bed, deep 1.58 h, REM 2.10 h, awake 0.07 h)
 
 **Week 5 · Day 3**
-Finished: 2025-04-01 11:33:11
+Finished: 2025-03-31 22:33:11
 
 ### Sumo Deadlift (Paused)
 
@@ -13834,18 +13878,18 @@ Finished: 2025-04-01 11:33:11
 ### Unknown
 
 
-## 2025-03-31
+## 2025-03-30
 
 ### Health / Recovery
 
-- Steps: 4024
-- Distance: 3.27 km
-- Total kcal burned: 2369
+- Steps: 21105
+- Distance: 15.99 km
+- Total kcal burned: 2782
 - Resting heart rate: 41 bpm
-- Sleep: 8.22 h asleep (8.28 h in bed, deep 1.58 h, REM 2.10 h, awake 0.07 h)
+- Sleep: 7.47 h asleep (7.75 h in bed, deep 1.38 h, REM 1.40 h, awake 0.28 h)
 
 **Week 5 · Day 2**
-Finished: 2025-03-31 09:57:44
+Finished: 2025-03-30 20:57:44
 
 ### Bench Press (Barbell)
 
@@ -13879,19 +13923,19 @@ Finished: 2025-03-31 09:57:44
   Set 2: 75.0kg x 12 [target RPE: 9-10] [est_stress=414, real_stress=-]
   Set 3: 75.0kg x 10 [target RPE: 9-10] [est_stress=345, real_stress=-]
 
-## 2025-03-29
+## 2025-03-28
 
 ### Health / Recovery
 
-- Steps: 18629
-- Distance: 15.85 km
-- Total kcal burned: 3135
-- Weight: 76.2 kg
+- Steps: 4077
+- Distance: 3.40 km
+- Total kcal burned: 2163
+- Weight: 75.8 kg
 - Resting heart rate: 41 bpm
-- Sleep: 7.98 h asleep (8.55 h in bed, deep 1.63 h, REM 1.55 h, awake 0.57 h)
+- Sleep: 8.48 h asleep (8.92 h in bed, deep 1.07 h, REM 1.58 h, awake 0.43 h)
 
 **Week 5 · Day 1**
-Finished: 2025-03-29 10:17:43
+Finished: 2025-03-28 21:17:43
 
 ### Squat (Low Bar)
 
@@ -13919,18 +13963,19 @@ Finished: 2025-03-29 10:17:43
   Set 3: 37.5kg x 11 [target RPE: 9-10]
   Set 4: 35.0kg x 12 [target RPE: 9-10]
 
-## 2025-03-27
+## 2025-03-26
 
 ### Health / Recovery
 
-- Steps: 7475
-- Distance: 6.88 km
-- Total kcal burned: 2617
-- Resting heart rate: 42 bpm
-- Sleep: 7.52 h asleep (8.43 h in bed, deep 1.20 h, REM 1.78 h, awake 0.92 h)
+- Steps: 7511
+- Distance: 6.08 km
+- Total kcal burned: 2675
+- Weight: 75.2 kg
+- Resting heart rate: 41 bpm
+- Sleep: 6.70 h asleep (6.77 h in bed, deep 0.10 h, REM 0.95 h, awake 0.07 h)
 
 **Week 4 · Day 5**
-Finished: 2025-03-27 10:22:04
+Finished: 2025-03-26 21:22:04
 
 ### Sumo Deadlift (Barbell)
 
@@ -13958,19 +14003,19 @@ Finished: 2025-03-27 10:22:04
   Set 3: 42.5kg x 11 [target RPE: 9-10]
   Set 4: 42.5kg x 12 [target RPE: 9-10]
 
-## 2025-03-26
+## 2025-03-25
 
 ### Health / Recovery
 
-- Steps: 7511
-- Distance: 6.08 km
-- Total kcal burned: 2675
-- Weight: 75.2 kg
+- Steps: 5466
+- Distance: 4.47 km
+- Total kcal burned: 2563
+- Weight: 75.7 kg
 - Resting heart rate: 41 bpm
-- Sleep: 6.70 h asleep (6.77 h in bed, deep 0.10 h, REM 0.95 h, awake 0.07 h)
+- Sleep: 6.92 h asleep (7.25 h in bed, deep 0.72 h, REM 1.45 h, awake 0.33 h)
 
 **Week 4 · Day 4**
-Finished: 2025-03-26 10:14:52
+Finished: 2025-03-25 21:14:52
 
 ### Squat (Low Bar)
 
@@ -13989,19 +14034,18 @@ Finished: 2025-03-26 10:14:52
 ### Unknown
 
 
-## 2025-03-25
+## 2025-03-24
 
 ### Health / Recovery
 
-- Steps: 5466
-- Distance: 4.47 km
-- Total kcal burned: 2563
-- Weight: 75.7 kg
+- Steps: 4303
+- Distance: 3.50 km
+- Total kcal burned: 2424
 - Resting heart rate: 41 bpm
-- Sleep: 6.92 h asleep (7.25 h in bed, deep 0.72 h, REM 1.45 h, awake 0.33 h)
+- Sleep: 7.68 h asleep (8 h in bed, deep 1.07 h, REM 1.80 h, awake 0.32 h)
 
 **Week 4 · Day 3**
-Finished: 2025-03-25 10:05:09
+Finished: 2025-03-24 21:05:09
 
 ### Sumo Deadlift (Paused)
 
@@ -14022,18 +14066,18 @@ Finished: 2025-03-25 10:05:09
 ### Unknown
 
 
-## 2025-03-24
+## 2025-03-23
 
 ### Health / Recovery
 
-- Steps: 4303
-- Distance: 3.50 km
-- Total kcal burned: 2424
-- Resting heart rate: 41 bpm
-- Sleep: 7.68 h asleep (8 h in bed, deep 1.07 h, REM 1.80 h, awake 0.32 h)
+- Steps: 22892
+- Distance: 16.83 km
+- Total kcal burned: 2848
+- Resting heart rate: 42 bpm
+- Sleep: 9 h asleep (9.33 h in bed, deep 0.95 h, REM 2.48 h, awake 0.33 h)
 
 **Week 4 · Day 2**
-Finished: 2025-03-24 09:48:45
+Finished: 2025-03-23 20:48:45
 
 ### Bench Press (Barbell)
 
@@ -14067,19 +14111,19 @@ Finished: 2025-03-24 09:48:45
   Set 2: 77.5kg x 9 [target RPE: 9-10] [est_stress=343, real_stress=-]
   Set 3: 72.5kg x 11 [target RPE: 9-10] [est_stress=343, real_stress=-]
 
-## 2025-03-22
+## 2025-03-21
 
 ### Health / Recovery
 
-- Steps: 13810
-- Distance: 10.98 km
-- Total kcal burned: 3353
-- Weight: 75.1 kg
+- Steps: 6303
+- Distance: 5.01 km
+- Total kcal burned: 2222
+- Weight: 74.6 kg
 - Resting heart rate: 42 bpm
-- Sleep: 7.73 h asleep (7.95 h in bed, deep 1.12 h, REM 1.40 h, awake 0.22 h)
+- Sleep: 7.97 h asleep (8.53 h in bed, deep 0.82 h, REM 1.42 h, awake 0.57 h)
 
 **Week 4 · Day 1**
-Finished: 2025-03-22 10:25:58
+Finished: 2025-03-21 21:25:58
 
 ### Squat (Low Bar)
 
@@ -14107,18 +14151,18 @@ Finished: 2025-03-22 10:25:58
   Set 3: 32.5kg x 13 @ RPE 10 [target RPE: 9-10]
   Set 4: 32.5kg x 13 @ RPE 10 [target RPE: 9-10]
 
-## 2025-03-20
+## 2025-03-19
 
 ### Health / Recovery
 
-- Steps: 4582
-- Distance: 3.72 km
-- Total kcal burned: 2441
+- Steps: 11324
+- Distance: 9.09 km
+- Total kcal burned: 2698
 - Resting heart rate: 42 bpm
-- Sleep: 7.22 h asleep (7.68 h in bed, deep 0.82 h, REM 1 h, awake 0.47 h)
+- Sleep: 7.53 h asleep (8.12 h in bed, deep 0.87 h, REM 1 h, awake 0.58 h)
 
 **Week 3 · Day 5**
-Finished: 2025-03-20 10:06:30
+Finished: 2025-03-19 21:06:30
 
 ### Sumo Deadlift (Barbell)
 
@@ -14148,18 +14192,18 @@ Exercise notes: Unilateral
   Set 3: 35.0kg x 15 [target RPE: 9-10]
   Set 4: 37.5kg x 13 [target RPE: 9-10]
 
-## 2025-03-19
+## 2025-03-18
 
 ### Health / Recovery
 
-- Steps: 11324
-- Distance: 9.09 km
-- Total kcal burned: 2698
+- Steps: 5150
+- Distance: 4.20 km
+- Total kcal burned: 2648
 - Resting heart rate: 42 bpm
-- Sleep: 7.53 h asleep (8.12 h in bed, deep 0.87 h, REM 1 h, awake 0.58 h)
+- Sleep: 6.87 h asleep (7.22 h in bed, deep 0.73 h, REM 1.92 h, awake 0.35 h)
 
 **Week 3 · Day 4**
-Finished: 2025-03-19 10:00:10
+Finished: 2025-03-18 21:00:10
 
 ### Squat (Low Bar)
 
@@ -14178,18 +14222,18 @@ Finished: 2025-03-19 10:00:10
 ### Unknown
 
 
-## 2025-03-18
+## 2025-03-17
 
 ### Health / Recovery
 
-- Steps: 5150
-- Distance: 4.20 km
-- Total kcal burned: 2648
+- Steps: 2102
+- Distance: 1.74 km
+- Total kcal burned: 2184
 - Resting heart rate: 42 bpm
-- Sleep: 6.87 h asleep (7.22 h in bed, deep 0.73 h, REM 1.92 h, awake 0.35 h)
+- Sleep: 8.02 h asleep (8.17 h in bed, deep 1.30 h, REM 1.23 h, awake 0.15 h)
 
 **Week 3 · Day 3**
-Finished: 2025-03-18 10:12:57
+Finished: 2025-03-17 21:12:57
 
 ### Sumo Deadlift (Paused)
 
@@ -14210,18 +14254,18 @@ Finished: 2025-03-18 10:12:57
 ### Unknown
 
 
-## 2025-03-17
+## 2025-03-16
 
 ### Health / Recovery
 
-- Steps: 2102
-- Distance: 1.74 km
-- Total kcal burned: 2184
+- Steps: 9043
+- Distance: 6.77 km
+- Total kcal burned: 2327
 - Resting heart rate: 42 bpm
-- Sleep: 8.02 h asleep (8.17 h in bed, deep 1.30 h, REM 1.23 h, awake 0.15 h)
+- Sleep: 9.60 h asleep (9.83 h in bed, deep 1 h, REM 2.40 h, awake 0.23 h)
 
 **Week 3 · Day 2**
-Finished: 2025-03-17 09:55:26
+Finished: 2025-03-16 20:55:26
 
 ### Bench Press (Barbell)
 
@@ -14255,18 +14299,18 @@ Finished: 2025-03-17 09:55:26
   Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 9-10] [est_stress=414, real_stress=460]
   Set 3: 72.5kg x 11 @ RPE 10 [target RPE: 9-10] [est_stress=343, real_stress=381]
 
-## 2025-03-15
+## 2025-03-14
 
 ### Health / Recovery
 
-- Steps: 7655
-- Distance: 6.24 km
-- Total kcal burned: 2930
+- Steps: 5062
+- Distance: 4.08 km
+- Total kcal burned: 2169
 - Resting heart rate: 42 bpm
-- Sleep: 7.88 h asleep (7.93 h in bed, deep 1.17 h, REM 1.30 h, awake 0.05 h)
+- Sleep: 7.17 h asleep (7.85 h in bed, deep 1.07 h, REM 1.70 h, awake 0.68 h)
 
 **Week 3 · Day 1**
-Finished: 2025-03-15 10:24:28
+Finished: 2025-03-14 21:24:28
 
 ### Squat (Low Bar)
 
@@ -14294,18 +14338,19 @@ Finished: 2025-03-15 10:24:28
   Set 3: 30.0kg x 13 @ RPE 10 [target RPE: 9-10]
   Set 4: 30.0kg x 14 @ RPE 10 [target RPE: 9-10]
 
-## 2025-03-13
+## 2025-03-12
 
 ### Health / Recovery
 
-- Steps: 6848
-- Distance: 5.22 km
-- Total kcal burned: 2733
-- Resting heart rate: 43 bpm
-- Sleep: 6.88 h asleep (6.97 h in bed, deep 0.58 h, REM 1.50 h, awake 0.08 h)
+- Steps: 5445
+- Distance: 4.47 km
+- Total kcal burned: 2573
+- Weight: 75.2 kg
+- Resting heart rate: 42 bpm
+- Sleep: 6.03 h asleep (6.08 h in bed, deep 0.77 h, REM 1.43 h, awake 0.05 h)
 
 **Week 2 · Day 5**
-Finished: 2025-03-13 10:12:45
+Finished: 2025-03-12 21:12:45
 
 ### Sumo Deadlift (Barbell)
 
@@ -14335,19 +14380,18 @@ Exercise notes: Unilateral
   Set 3: 25.0kg x 15 [target RPE: 9-10]
   Set 4: 27.5kg x 13 [target RPE: 9-10]
 
-## 2025-03-12
+## 2025-03-11
 
 ### Health / Recovery
 
-- Steps: 5445
-- Distance: 4.47 km
-- Total kcal burned: 2573
-- Weight: 75.2 kg
+- Steps: 5216
+- Distance: 4.17 km
+- Total kcal burned: 2682
 - Resting heart rate: 42 bpm
-- Sleep: 6.03 h asleep (6.08 h in bed, deep 0.77 h, REM 1.43 h, awake 0.05 h)
+- Sleep: 7.03 h asleep (7.30 h in bed, deep 0.67 h, REM 1.02 h, awake 0.27 h)
 
 **Week 2 · Day 4**
-Finished: 2025-03-12 10:22:00
+Finished: 2025-03-11 21:22:00
 
 ### Squat (Low Bar)
 
@@ -14366,18 +14410,19 @@ Finished: 2025-03-12 10:22:00
 ### Unknown
 
 
-## 2025-03-11
+## 2025-03-10
 
 ### Health / Recovery
 
-- Steps: 5216
-- Distance: 4.17 km
-- Total kcal burned: 2682
-- Resting heart rate: 42 bpm
-- Sleep: 7.03 h asleep (7.30 h in bed, deep 0.67 h, REM 1.02 h, awake 0.27 h)
+- Steps: 6521
+- Distance: 5.14 km
+- Total kcal burned: 2513
+- Weight: 76.5 kg
+- Resting heart rate: 43 bpm
+- Sleep: 7.30 h asleep (7.32 h in bed, deep 1.18 h, REM 1.42 h, awake 0.02 h)
 
 **Week 2 · Day 3**
-Finished: 2025-03-11 10:15:33
+Finished: 2025-03-10 21:15:33
 
 ### Sumo Deadlift (Paused)
 
@@ -14398,19 +14443,19 @@ Finished: 2025-03-11 10:15:33
 ### Unknown
 
 
-## 2025-03-10
+## 2025-03-09
 
 ### Health / Recovery
 
-- Steps: 6521
-- Distance: 5.14 km
-- Total kcal burned: 2513
-- Weight: 76.5 kg
+- Steps: 20334
+- Distance: 15.18 km
+- Total kcal burned: 2729
+- Weight: 76 kg
 - Resting heart rate: 43 bpm
-- Sleep: 7.30 h asleep (7.32 h in bed, deep 1.18 h, REM 1.42 h, awake 0.02 h)
+- Sleep: 8.03 h asleep (8.33 h in bed, deep 1.03 h, REM 2.25 h, awake 0.30 h)
 
 **Week 2 · Day 2**
-Finished: 2025-03-10 09:47:35
+Finished: 2025-03-09 20:47:35
 
 ### Bench Press (Barbell)
 
@@ -14444,19 +14489,19 @@ Finished: 2025-03-10 09:47:35
   Set 2: 75.0kg x 10 @ RPE 10 [target RPE: 9-10] [est_stress=345, real_stress=383]
   Set 3: 70.0kg x 11 @ RPE 10 [target RPE: 9-10] [est_stress=308, real_stress=343]
 
-## 2025-03-08
+## 2025-03-07
 
 ### Health / Recovery
 
-- Steps: 8673
-- Distance: 6.87 km
-- Total kcal burned: 2966
-- Weight: 76.3 kg
-- Resting heart rate: 43 bpm
-- Sleep: 7.02 h asleep (7.03 h in bed, deep 1.35 h, REM 1.20 h, awake 0.02 h)
+- Steps: 2450
+- Distance: 1.96 km
+- Total kcal burned: 2080
+- Weight: 75.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.62 h asleep (9.05 h in bed, deep 0.90 h, REM 1.42 h, awake 0.43 h)
 
 **Week 2 · Day 1**
-Finished: 2025-03-08 10:27:05
+Finished: 2025-03-07 21:27:05
 
 ### Squat (Low Bar)
 
@@ -14486,19 +14531,18 @@ Exercise notes: Unilateral ( divide weight by 2 )
   Set 3: 30.0kg x 10 [target RPE: 9-10]
   Set 4: 30.0kg x 10 [target RPE: 9-10]
 
-## 2025-03-06
+## 2025-03-05
 
 ### Health / Recovery
 
-- Steps: 5472
-- Distance: 4.53 km
-- Total kcal burned: 2576
-- Weight: 75.9 kg
+- Steps: 9291
+- Distance: 7.16 km
+- Total kcal burned: 2727
 - Resting heart rate: 44 bpm
-- Sleep: 6.75 h asleep (7.25 h in bed, deep 1.02 h, REM 1.08 h, awake 0.50 h)
+- Sleep: 7.23 h asleep (7.25 h in bed, deep 1.02 h, REM 1.57 h, awake 0.02 h)
 
 **Week 1 · Day 5**
-Finished: 2025-03-06 10:16:32
+Finished: 2025-03-05 21:16:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -14528,18 +14572,18 @@ Exercise notes: Did both legs ( multiply by 2 )
   Set 3: 25.0kg x 13 [target RPE: 9-10]
   Set 4: 27.5kg x 12 [target RPE: 9-10]
 
-## 2025-03-05
+## 2025-03-04
 
 ### Health / Recovery
 
-- Steps: 9291
-- Distance: 7.16 km
-- Total kcal burned: 2727
-- Resting heart rate: 44 bpm
-- Sleep: 7.23 h asleep (7.25 h in bed, deep 1.02 h, REM 1.57 h, awake 0.02 h)
+- Steps: 5172
+- Distance: 4.22 km
+- Total kcal burned: 2463
+- Resting heart rate: 43 bpm
+- Sleep: 7.73 h asleep (7.88 h in bed, deep 0.77 h, REM 1.97 h, awake 0.15 h)
 
 **Week 1 · Day 4**
-Finished: 2025-03-05 10:30:40
+Finished: 2025-03-04 21:30:40
 
 ### Squat (Low Bar)
 
@@ -14558,18 +14602,18 @@ Finished: 2025-03-05 10:30:40
 ### Unknown
 
 
-## 2025-03-04
+## 2025-03-03
 
 ### Health / Recovery
 
-- Steps: 5172
-- Distance: 4.22 km
-- Total kcal burned: 2463
+- Steps: 6781
+- Distance: 5.57 km
+- Total kcal burned: 2867
 - Resting heart rate: 43 bpm
-- Sleep: 7.73 h asleep (7.88 h in bed, deep 0.77 h, REM 1.97 h, awake 0.15 h)
+- Sleep: 7.78 h asleep (7.82 h in bed, deep 1.68 h, REM 1.68 h, awake 0.03 h)
 
 **Week 1 · Day 3**
-Finished: 2025-03-04 10:11:56
+Finished: 2025-03-03 21:11:56
 
 ### Sumo Deadlift (Paused)
 
@@ -14590,18 +14634,18 @@ Finished: 2025-03-04 10:11:56
 ### Unknown
 
 
-## 2025-03-03
+## 2025-03-02
 
 ### Health / Recovery
 
-- Steps: 6781
-- Distance: 5.57 km
-- Total kcal burned: 2867
+- Steps: 2851
+- Distance: 2.35 km
+- Total kcal burned: 2092
 - Resting heart rate: 43 bpm
-- Sleep: 7.78 h asleep (7.82 h in bed, deep 1.68 h, REM 1.68 h, awake 0.03 h)
+- Sleep: 7.82 h asleep (8.33 h in bed, deep 0.90 h, REM 1.08 h, awake 0.52 h)
 
 **Week 1 · Day 2**
-Finished: 2025-03-03 09:50:48
+Finished: 2025-03-02 20:50:48
 
 ### Bench Press (Barbell)
 
@@ -14635,18 +14679,18 @@ Finished: 2025-03-03 09:50:48
   Set 2: 70.0kg x 11 @ RPE 10 [target RPE: 9-10] [est_stress=308, real_stress=343]
   Set 3: 70.0kg x 10 @ RPE 10 [target RPE: 9-10] [est_stress=280, real_stress=312]
 
-## 2025-03-01
+## 2025-02-28
 
 ### Health / Recovery
 
-- Steps: 3462
-- Distance: 2.79 km
-- Total kcal burned: 2613
+- Steps: 6107
+- Distance: 4.85 km
+- Total kcal burned: 2204
 - Resting heart rate: 43 bpm
-- Sleep: 7.85 h asleep (8.12 h in bed, deep 0.93 h, REM 1 h, awake 0.27 h)
+- Sleep: 8.05 h asleep (8.38 h in bed, deep 1.05 h, REM 1.88 h, awake 0.33 h)
 
 **Week 1 · Day 1**
-Finished: 2025-03-01 10:13:14
+Finished: 2025-02-28 21:13:14
 
 ### Squat (Low Bar)
 
@@ -14679,18 +14723,18 @@ Finished: 2025-03-01 10:13:14
   Set 1: 60.0kg x 20 [est_stress=-, real_stress=-]
   Set 2: 70.0kg x 20 [est_stress=-, real_stress=-]
 
-## 2025-02-22
+## 2025-02-21
 
 ### Health / Recovery
 
-- Steps: 6138
-- Distance: 5.01 km
-- Total kcal burned: 2787
-- Resting heart rate: 44 bpm
-- Sleep: 7.07 h asleep (7.27 h in bed, deep 1.10 h, REM 0.80 h, awake 0.20 h)
+- Steps: 4158
+- Distance: 3.40 km
+- Total kcal burned: 2110
+- Resting heart rate: 43 bpm
+- Sleep: 7.90 h asleep (8.53 h in bed, deep 0.75 h, REM 1.35 h, awake 0.63 h)
 
 **Feb 22 Workout**
-Finished: 2025-02-22 10:32:13
+Finished: 2025-02-21 21:32:13
 
 ### Squat (Low Bar)
 
@@ -14713,18 +14757,18 @@ Finished: 2025-02-22 10:32:13
   Set 3: 140.0kg x 9 @ RPE 9.5 [est_stress=-, real_stress=924]
   Set 4: 145.0kg x 9 @ RPE 9.5 [est_stress=-, real_stress=1026]
 
-## 2025-02-20
+## 2025-02-19
 
 ### Health / Recovery
 
-- Steps: 6386
-- Distance: 5.26 km
-- Total kcal burned: 2681
+- Steps: 4252
+- Distance: 3.54 km
+- Total kcal burned: 2561
 - Resting heart rate: 43 bpm
-- Sleep: 7.28 h asleep (7.90 h in bed, deep 1.15 h, REM 1.53 h, awake 0.62 h)
+- Sleep: 7.83 h asleep (8.33 h in bed, deep 0.42 h, REM 2.10 h, awake 0.50 h)
 
 **Week 4 · Day 5**
-Finished: 2025-02-20 10:34:43
+Finished: 2025-02-19 21:34:43
 
 ### Sumo Deadlift (Barbell)
 
@@ -14742,18 +14786,18 @@ Finished: 2025-02-20 10:34:43
 ### Unknown
 
 
-## 2025-02-19
+## 2025-02-18
 
 ### Health / Recovery
 
-- Steps: 4252
-- Distance: 3.54 km
-- Total kcal burned: 2561
+- Steps: 5143
+- Distance: 3.96 km
+- Total kcal burned: 2628
 - Resting heart rate: 43 bpm
-- Sleep: 7.83 h asleep (8.33 h in bed, deep 0.42 h, REM 2.10 h, awake 0.50 h)
+- Sleep: 7.60 h asleep (8.33 h in bed, deep 0.73 h, REM 1.38 h, awake 0.73 h)
 
 **Week 4 · Day 4**
-Finished: 2025-02-19 11:01:26
+Finished: 2025-02-18 22:01:26
 
 ### Squat (Low Bar)
 
@@ -14770,18 +14814,18 @@ Finished: 2025-02-19 11:01:26
 ### Unknown
 
 
-## 2025-02-18
+## 2025-02-17
 
 ### Health / Recovery
 
-- Steps: 5143
-- Distance: 3.96 km
-- Total kcal burned: 2628
+- Steps: 4461
+- Distance: 3.64 km
+- Total kcal burned: 2652
 - Resting heart rate: 43 bpm
-- Sleep: 7.60 h asleep (8.33 h in bed, deep 0.73 h, REM 1.38 h, awake 0.73 h)
+- Sleep: 8.38 h asleep (8.47 h in bed, deep 1.30 h, REM 1.60 h, awake 0.08 h)
 
 **Week 4 · Day 3**
-Finished: 2025-02-18 10:14:08
+Finished: 2025-02-17 21:14:08
 
 ### Sumo Deadlift (Paused)
 
@@ -14825,18 +14869,18 @@ Finished: 2025-02-18 10:14:08
   Set 3: 22.5kg x 10 [target RPE: 10]
   Set 4: 22.5kg x 9 [target RPE: 10]
 
-## 2025-02-17
+## 2025-02-16
 
 ### Health / Recovery
 
-- Steps: 4461
-- Distance: 3.64 km
-- Total kcal burned: 2652
+- Steps: 9708
+- Distance: 7.17 km
+- Total kcal burned: 2361
 - Resting heart rate: 43 bpm
-- Sleep: 8.38 h asleep (8.47 h in bed, deep 1.30 h, REM 1.60 h, awake 0.08 h)
+- Sleep: 8.38 h asleep (8.47 h in bed, deep 0.78 h, REM 1.88 h, awake 0.08 h)
 
 **Week 4 · Day 2**
-Finished: 2025-02-17 10:12:57
+Finished: 2025-02-16 21:12:57
 
 ### Bench Press (Barbell)
 
@@ -14869,18 +14913,18 @@ Finished: 2025-02-17 10:12:57
   Set 2: 77.5kg x 11 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=465]
   Set 3: 75.0kg x 10 [target RPE: 10] [est_stress=-, real_stress=-]
 
-## 2025-02-15
+## 2025-02-14
 
 ### Health / Recovery
 
-- Steps: 12641
-- Distance: 9.94 km
-- Total kcal burned: 3148
-- Resting heart rate: 43 bpm
-- Sleep: 7.87 h asleep (7.92 h in bed, deep 1.25 h, REM 1.88 h, awake 0.05 h)
+- Steps: 6320
+- Distance: 5.07 km
+- Total kcal burned: 2211
+- Resting heart rate: 44 bpm
+- Sleep: 8.17 h asleep (8.45 h in bed, deep 1.23 h, REM 1.98 h, awake 0.28 h)
 
 **Week 4 · Day 1**
-Finished: 2025-02-15 10:29:02
+Finished: 2025-02-14 21:29:02
 
 ### Squat (Low Bar)
 
@@ -14910,18 +14954,18 @@ Exercise notes: Did unilatéral ( divide weight by 2 for real weight )
   Set 3: 32.5kg x 11 [target RPE: 10]
   Set 4: 32.5kg x 10 [target RPE: 10]
 
-## 2025-02-13
+## 2025-02-12
 
 ### Health / Recovery
 
-- Steps: 3994
-- Distance: 3.19 km
-- Total kcal burned: 2582
+- Steps: 5377
+- Distance: 4.39 km
+- Total kcal burned: 2511
 - Resting heart rate: 44 bpm
-- Sleep: 7.32 h asleep (7.47 h in bed, deep 0.93 h, REM 1.20 h, awake 0.15 h)
+- Sleep: 7.35 h asleep (7.80 h in bed, deep 0.53 h, REM 1.28 h, awake 0.45 h)
 
 **Week 3 · Day 5**
-Finished: 2025-02-13 10:10:54
+Finished: 2025-02-12 21:10:54
 
 ### Sumo Deadlift (Barbell)
 
@@ -14940,18 +14984,19 @@ Finished: 2025-02-13 10:10:54
 ### Unknown
 
 
-## 2025-02-12
+## 2025-02-11
 
 ### Health / Recovery
 
-- Steps: 5377
-- Distance: 4.39 km
-- Total kcal burned: 2511
+- Steps: 4998
+- Distance: 4.18 km
+- Total kcal burned: 2709
+- Weight: 76.3 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.35 h asleep (7.80 h in bed, deep 0.53 h, REM 1.28 h, awake 0.45 h)
+- Sleep: 7.42 h asleep (7.53 h in bed, deep 0.95 h, REM 1.23 h, awake 0.12 h)
 
 **Week 3 · Day 4**
-Finished: 2025-02-12 10:37:33
+Finished: 2025-02-11 21:37:33
 
 ### Squat (Low Bar)
 
@@ -14970,19 +15015,18 @@ Finished: 2025-02-12 10:37:33
 ### Unknown
 
 
-## 2025-02-11
+## 2025-02-10
 
 ### Health / Recovery
 
-- Steps: 4998
-- Distance: 4.18 km
-- Total kcal burned: 2709
-- Weight: 76.3 kg
+- Steps: 5691
+- Distance: 4.65 km
+- Total kcal burned: 2534
 - Resting heart rate: 44 bpm
-- Sleep: 7.42 h asleep (7.53 h in bed, deep 0.95 h, REM 1.23 h, awake 0.12 h)
+- Sleep: 7.85 h asleep (8.18 h in bed, deep 1.32 h, REM 1.50 h, awake 0.33 h)
 
 **Week 3 · Day 3**
-Finished: 2025-02-11 10:21:09
+Finished: 2025-02-10 21:21:09
 
 ### Sumo Deadlift (Paused)
 
@@ -15011,18 +15055,19 @@ Finished: 2025-02-11 10:21:09
   Set 3: 12.5kg x 12
   Set 4: 12.5kg x 11
 
-## 2025-02-10
+## 2025-02-09
 
 ### Health / Recovery
 
-- Steps: 5691
-- Distance: 4.65 km
-- Total kcal burned: 2534
+- Steps: 18116
+- Distance: 12.43 km
+- Total kcal burned: 2795
+- Weight: 76.3 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.85 h asleep (8.18 h in bed, deep 1.32 h, REM 1.50 h, awake 0.33 h)
+- Sleep: 8.12 h asleep (8.30 h in bed, deep 0.97 h, REM 1.82 h, awake 0.18 h)
 
 **Week 3 · Day 2**
-Finished: 2025-02-10 09:54:19
+Finished: 2025-02-09 20:54:19
 
 ### Bench Press (Barbell)
 
@@ -15056,19 +15101,18 @@ Finished: 2025-02-10 09:54:19
   Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=460]
   Set 3: 70.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=374]
 
-## 2025-02-08
+## 2025-02-07
 
 ### Health / Recovery
 
-- Steps: 16464
-- Distance: 12.89 km
-- Total kcal burned: 3286
-- Weight: 76.7 kg
+- Steps: 5033
+- Distance: 4.29 km
+- Total kcal burned: 2102
 - Resting heart rate: 43 bpm
-- Sleep: 7.48 h asleep (7.68 h in bed, deep 1.02 h, REM 1.43 h, awake 0.20 h)
+- Sleep: 9.30 h asleep (9.92 h in bed, deep 0.63 h, REM 1.45 h, awake 0.62 h)
 
 **Week 3 · Day 1**
-Finished: 2025-02-08 10:16:10
+Finished: 2025-02-07 21:16:10
 
 ### Squat (Low Bar)
 
@@ -15099,19 +15143,18 @@ Exercise notes: Did unilateral (multiplied weight by 2)
   Set 3: 31.0kg x 10 [target RPE: 10]
   Set 4: 30.0kg x 12 [target RPE: 10]
 
-## 2025-02-06
+## 2025-02-05
 
 ### Health / Recovery
 
-- Steps: 4868
-- Distance: 3.86 km
-- Total kcal burned: 2504
-- Weight: 76.1 kg
-- Resting heart rate: 43 bpm
-- Sleep: 6.55 h asleep (7.10 h in bed, deep 0.57 h, REM 1.12 h, awake 0.55 h)
+- Steps: 4976
+- Distance: 4.01 km
+- Total kcal burned: 2593
+- Resting heart rate: 42 bpm
+- Sleep: 7.92 h asleep (7.97 h in bed, deep 1.10 h, REM 1.10 h, awake 0.05 h)
 
 **Week 2 · Day 5**
-Finished: 2025-02-06 09:53:14
+Finished: 2025-02-05 20:53:14
 
 ### Sumo Deadlift (Barbell)
 
@@ -15131,18 +15174,18 @@ Finished: 2025-02-06 09:53:14
 ### Unknown
 
 
-## 2025-02-05
+## 2025-02-04
 
 ### Health / Recovery
 
-- Steps: 4976
-- Distance: 4.01 km
-- Total kcal burned: 2593
+- Steps: 4534
+- Distance: 3.76 km
+- Total kcal burned: 2605
 - Resting heart rate: 42 bpm
-- Sleep: 7.92 h asleep (7.97 h in bed, deep 1.10 h, REM 1.10 h, awake 0.05 h)
+- Sleep: 7.70 h asleep (7.70 h in bed, deep 1.35 h, REM 1.80 h, awake 0 h)
 
 **Week 2 · Day 4**
-Finished: 2025-02-05 10:25:16
+Finished: 2025-02-04 21:25:16
 
 ### Squat (Low Bar)
 
@@ -15161,18 +15204,18 @@ Finished: 2025-02-05 10:25:16
 ### Unknown
 
 
-## 2025-02-04
+## 2025-02-03
 
 ### Health / Recovery
 
-- Steps: 4534
-- Distance: 3.76 km
-- Total kcal burned: 2605
+- Steps: 5143
+- Distance: 4.34 km
+- Total kcal burned: 2537
 - Resting heart rate: 42 bpm
-- Sleep: 7.70 h asleep (7.70 h in bed, deep 1.35 h, REM 1.80 h, awake 0 h)
+- Sleep: 7.80 h asleep (8.10 h in bed, deep 1.18 h, REM 1.57 h, awake 0.30 h)
 
 **Week 2 · Day 3**
-Finished: 2025-02-04 10:11:39
+Finished: 2025-02-03 21:11:39
 
 ### Sumo Deadlift (Paused)
 
@@ -15201,18 +15244,18 @@ Finished: 2025-02-04 10:11:39
   Set 3: 20.0kg x 10 @ RPE 9.5
   Set 4: 20.0kg x 11 @ RPE 10
 
-## 2025-02-03
+## 2025-02-02
 
 ### Health / Recovery
 
-- Steps: 5143
-- Distance: 4.34 km
-- Total kcal burned: 2537
+- Steps: 6378
+- Distance: 5.11 km
+- Total kcal burned: 2296
 - Resting heart rate: 42 bpm
-- Sleep: 7.80 h asleep (8.10 h in bed, deep 1.18 h, REM 1.57 h, awake 0.30 h)
+- Sleep: 8.32 h asleep (8.42 h in bed, deep 0.97 h, REM 2.52 h, awake 0.10 h)
 
 **Week 2 · Day 2**
-Finished: 2025-02-03 10:02:15
+Finished: 2025-02-02 21:02:15
 
 ### Bench Press (Barbell)
 
@@ -15246,18 +15289,18 @@ Finished: 2025-02-03 10:02:15
   Set 2: 77.5kg x 11 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=465]
   Set 3: 75.0kg x 10 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=383]
 
-## 2025-02-01
+## 2025-01-31
 
 ### Health / Recovery
 
-- Steps: 8566
-- Distance: 6.79 km
-- Total kcal burned: 2963
-- Resting heart rate: 42 bpm
-- Sleep: 8.08 h asleep (8.38 h in bed, deep 1.58 h, REM 1.82 h, awake 0.30 h)
+- Steps: 8091
+- Distance: 6.45 km
+- Total kcal burned: 2227
+- Resting heart rate: 43 bpm
+- Sleep: 7.17 h asleep (7.65 h in bed, deep 1.05 h, REM 1.68 h, awake 0.48 h)
 
 **Week 2 · Day 1**
-Finished: 2025-02-01 10:30:06
+Finished: 2025-01-31 21:30:06
 
 ### Squat (Low Bar)
 
@@ -15288,18 +15331,19 @@ Exercise notes: Did unilatéral ( multiplied weight by 2 )
   Set 3: 32.5kg x 10 @ RPE 9.5 [target RPE: 10]
   Set 4: 30.0kg x 8 @ RPE 10 [target RPE: 10]
 
-## 2025-01-30
+## 2025-01-29
 
 ### Health / Recovery
 
-- Steps: 3678
-- Distance: 3 km
-- Total kcal burned: 2467
-- Resting heart rate: 43 bpm
-- Sleep: 8.20 h asleep (8.32 h in bed, deep 1.07 h, REM 1.88 h, awake 0.12 h)
+- Steps: 5777
+- Distance: 4.60 km
+- Total kcal burned: 2668
+- Weight: 74.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 7.45 h asleep (7.63 h in bed, deep 0.85 h, REM 1.28 h, awake 0.18 h)
 
 **Week 1 · Day 5**
-Finished: 2025-01-30 09:58:36
+Finished: 2025-01-29 20:58:36
 
 ### Sumo Deadlift (Barbell)
 
@@ -15318,19 +15362,18 @@ Finished: 2025-01-30 09:58:36
 ### Unknown
 
 
-## 2025-01-29
+## 2025-01-28
 
 ### Health / Recovery
 
-- Steps: 5777
-- Distance: 4.60 km
-- Total kcal burned: 2668
-- Weight: 74.9 kg
+- Steps: 5848
+- Distance: 4.78 km
+- Total kcal burned: 2723
 - Resting heart rate: 44 bpm
-- Sleep: 7.45 h asleep (7.63 h in bed, deep 0.85 h, REM 1.28 h, awake 0.18 h)
+- Sleep: 7.52 h asleep (7.90 h in bed, deep 1.42 h, REM 1.53 h, awake 0.38 h)
 
 **Week 1 · Day 4**
-Finished: 2025-01-29 10:28:19
+Finished: 2025-01-28 21:28:19
 
 ### Squat (Low Bar)
 
@@ -15349,18 +15392,18 @@ Finished: 2025-01-29 10:28:19
 ### Unknown
 
 
-## 2025-01-28
+## 2025-01-27
 
 ### Health / Recovery
 
-- Steps: 5848
-- Distance: 4.78 km
-- Total kcal burned: 2723
+- Steps: 9725
+- Distance: 7.95 km
+- Total kcal burned: 3279
 - Resting heart rate: 44 bpm
-- Sleep: 7.52 h asleep (7.90 h in bed, deep 1.42 h, REM 1.53 h, awake 0.38 h)
+- Sleep: 7.82 h asleep (8.62 h in bed, deep 1.43 h, REM 1.42 h, awake 0.80 h)
 
 **Week 1 · Day 3**
-Finished: 2025-01-28 10:34:11
+Finished: 2025-01-27 21:34:11
 
 ### Deadlift (Deficit)
 
@@ -15406,18 +15449,19 @@ Finished: 2025-01-28 10:34:11
   Set 2: 45.0kg x 10 @ RPE 9.5 [est_stress=-, real_stress=75]
   Set 3: 45.0kg x 9 @ RPE 9.5 [est_stress=-, real_stress=67]
 
-## 2025-01-27
+## 2025-01-26
 
 ### Health / Recovery
 
-- Steps: 9725
-- Distance: 7.95 km
-- Total kcal burned: 3279
+- Steps: 18656
+- Distance: 14.21 km
+- Total kcal burned: 2703
+- Weight: 75.6 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.82 h asleep (8.62 h in bed, deep 1.43 h, REM 1.42 h, awake 0.80 h)
+- Sleep: 8.73 h asleep (8.80 h in bed, deep 0.28 h, REM 1.82 h, awake 0.07 h)
 
 **Week 1 · Day 2**
-Finished: 2025-01-27 10:19:13
+Finished: 2025-01-26 21:19:13
 
 ### Bench Press (Barbell)
 
@@ -15455,19 +15499,19 @@ Finished: 2025-01-27 10:19:13
   Set 2: 105.0kg x 4 @ RPE 7.5 [est_stress=-, real_stress=173]
   Set 3: 105.0kg x 4 @ RPE 8 [est_stress=-, real_stress=193]
 
-## 2025-01-25
+## 2025-01-24
 
 ### Health / Recovery
 
-- Steps: 16914
-- Distance: 12.87 km
-- Total kcal burned: 3489
+- Steps: 4720
+- Distance: 3.86 km
+- Total kcal burned: 2167
 - Weight: 75.6 kg
 - Resting heart rate: 45 bpm
-- Sleep: 7.55 h asleep (7.63 h in bed, deep 0.85 h, REM 1.85 h, awake 0.08 h)
+- Sleep: 8.30 h asleep (8.33 h in bed, deep 0.92 h, REM 1.87 h, awake 0.03 h)
 
 **Week 1 · Day 1**
-Finished: 2025-01-25 10:18:03
+Finished: 2025-01-24 21:18:03
 
 ### Squat (Low Bar)
 
@@ -15497,18 +15541,18 @@ Finished: 2025-01-25 10:18:03
   Set 4: 30.0kg x 7 [target RPE: 10]
   Set 5: 15.0kg x 11 [target RPE: 10]
 
-## 2025-01-23
+## 2025-01-22
 
 ### Health / Recovery
 
-- Steps: 5153
-- Distance: 4.19 km
-- Total kcal burned: 2633
+- Steps: 9860
+- Distance: 7.40 km
+- Total kcal burned: 3023
 - Resting heart rate: 46 bpm
-- Sleep: 7.05 h asleep (7.27 h in bed, deep 0.92 h, REM 1.23 h, awake 0.22 h)
+- Sleep: 6.92 h asleep (6.95 h in bed, deep 0.97 h, REM 1.53 h, awake 0.03 h)
 
 **Week 4 · Day 5**
-Finished: 2025-01-23 10:14:15
+Finished: 2025-01-22 21:14:15
 
 ### Sumo Deadlift (Barbell)
 
@@ -15534,18 +15578,19 @@ Finished: 2025-01-23 10:14:15
   Set 2: 45.0kg x 9 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=75]
   Set 3: 45.0kg x 8 @ RPE 9.5 [target RPE: 9] [est_stress=-, real_stress=60]
 
-## 2025-01-22
+## 2025-01-21
 
 ### Health / Recovery
 
-- Steps: 9860
-- Distance: 7.40 km
-- Total kcal burned: 3023
+- Steps: 5211
+- Distance: 4.22 km
+- Total kcal burned: 2712
+- Weight: 76 kg
 - Resting heart rate: 46 bpm
-- Sleep: 6.92 h asleep (6.95 h in bed, deep 0.97 h, REM 1.53 h, awake 0.03 h)
+- Sleep: 7.67 h asleep (7.75 h in bed, deep 0.77 h, REM 1.80 h, awake 0.08 h)
 
 **Week 4 · Day 4**
-Finished: 2025-01-22 10:14:37
+Finished: 2025-01-21 21:14:37
 
 ### Squat (Low Bar)
 
@@ -15562,19 +15607,19 @@ Finished: 2025-01-22 10:14:37
 ### Unknown
 
 
-## 2025-01-21
+## 2025-01-20
 
 ### Health / Recovery
 
-- Steps: 5211
-- Distance: 4.22 km
-- Total kcal burned: 2712
-- Weight: 76 kg
+- Steps: 6434
+- Distance: 5.75 km
+- Total kcal burned: 2608
+- Weight: 77.1 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.67 h asleep (7.75 h in bed, deep 0.77 h, REM 1.80 h, awake 0.08 h)
+- Sleep: 8.57 h asleep (8.73 h in bed, deep 1.15 h, REM 2.08 h, awake 0.17 h)
 
 **Week 4 · Day 3**
-Finished: 2025-01-21 10:16:39
+Finished: 2025-01-20 21:16:39
 
 ### Sumo Deadlift (Paused)
 
@@ -15617,19 +15662,19 @@ Finished: 2025-01-21 10:16:39
   Set 3: 22.5kg x 11 @ RPE 10 [target RPE: 10]
   Set 4: 22.5kg x 10 @ RPE 10 [target RPE: 10]
 
-## 2025-01-20
+## 2025-01-19
 
 ### Health / Recovery
 
-- Steps: 6434
-- Distance: 5.75 km
-- Total kcal burned: 2608
-- Weight: 77.1 kg
+- Steps: 17927
+- Distance: 14.01 km
+- Total kcal burned: 2937
+- Weight: 75.9 kg
 - Resting heart rate: 46 bpm
-- Sleep: 8.57 h asleep (8.73 h in bed, deep 1.15 h, REM 2.08 h, awake 0.17 h)
+- Sleep: 9.17 h asleep (9.37 h in bed, deep 1.08 h, REM 1.88 h, awake 0.20 h)
 
 **Week 4 · Day 2**
-Finished: 2025-01-20 10:11:06
+Finished: 2025-01-19 21:11:06
 
 ### Bench Press (Barbell)
 
@@ -15662,18 +15707,19 @@ Finished: 2025-01-20 10:11:06
   Set 2: 75.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=460]
   Set 3: 75.0kg x 10 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=383]
 
-## 2025-01-18
+## 2025-01-17
 
 ### Health / Recovery
 
-- Steps: 14966
-- Distance: 11.77 km
-- Total kcal burned: 3423
+- Steps: 4818
+- Distance: 3.90 km
+- Total kcal burned: 2258
+- Weight: 76 kg
 - Resting heart rate: 46 bpm
-- Sleep: 7.85 h asleep (8.28 h in bed, deep 1.03 h, REM 0.88 h, awake 0.43 h)
+- Sleep: 8.50 h asleep (8.70 h in bed, deep 0.95 h, REM 1.93 h, awake 0.20 h)
 
 **Week 4 · Day 1**
-Finished: 2025-01-18 10:44:40
+Finished: 2025-01-17 21:44:40
 
 ### Squat (Low Bar)
 
@@ -15699,18 +15745,19 @@ Finished: 2025-01-18 10:44:40
   Set 2: 32.5kg x 12 @ RPE 10 [target RPE: 10]
   Set 3: 30.0kg x 14 @ RPE 10 [target RPE: 10]
 
-## 2025-01-16
+## 2025-01-15
 
 ### Health / Recovery
 
-- Steps: 5964
-- Distance: 4.72 km
-- Total kcal burned: 2740
-- Resting heart rate: 46 bpm
-- Sleep: 7.47 h asleep (7.82 h in bed, deep 0.97 h, REM 1.55 h, awake 0.35 h)
+- Steps: 7860
+- Distance: 6.70 km
+- Total kcal burned: 2686
+- Weight: 76.3 kg
+- Resting heart rate: 45 bpm
+- Sleep: 6.92 h asleep (7.22 h in bed, deep 0.95 h, REM 0.37 h, awake 0.30 h)
 
 **Week 3 · Day 5**
-Finished: 2025-01-16 10:12:03
+Finished: 2025-01-15 21:12:03
 
 ### Sumo Deadlift (Barbell)
 
@@ -15737,19 +15784,19 @@ Finished: 2025-01-16 10:12:03
   Set 2: 45.0kg x 9 @ RPE 9.5 [target RPE: 9] [est_stress=-, real_stress=71]
   Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=70]
 
-## 2025-01-15
+## 2025-01-14
 
 ### Health / Recovery
 
-- Steps: 7860
-- Distance: 6.70 km
-- Total kcal burned: 2686
-- Weight: 76.3 kg
-- Resting heart rate: 45 bpm
-- Sleep: 6.92 h asleep (7.22 h in bed, deep 0.95 h, REM 0.37 h, awake 0.30 h)
+- Steps: 7415
+- Distance: 6.20 km
+- Total kcal burned: 2761
+- Weight: 75.9 kg
+- Resting heart rate: 44 bpm
+- Sleep: 8.65 h asleep (8.90 h in bed, deep 0.98 h, REM 1.92 h, awake 0.25 h)
 
 **Week 3 · Day 4**
-Finished: 2025-01-15 10:34:16
+Finished: 2025-01-14 21:34:16
 
 ### Squat (Low Bar)
 
@@ -15768,19 +15815,18 @@ Finished: 2025-01-15 10:34:16
 ### Unknown
 
 
-## 2025-01-14
+## 2025-01-13
 
 ### Health / Recovery
 
-- Steps: 7415
-- Distance: 6.20 km
-- Total kcal burned: 2761
-- Weight: 75.9 kg
+- Steps: 6968
+- Distance: 5.54 km
+- Total kcal burned: 2816
 - Resting heart rate: 44 bpm
-- Sleep: 8.65 h asleep (8.90 h in bed, deep 0.98 h, REM 1.92 h, awake 0.25 h)
+- Sleep: 7.73 h asleep (8.02 h in bed, deep 0.68 h, REM 1.72 h, awake 0.28 h)
 
 **Week 3 · Day 3**
-Finished: 2025-01-14 10:19:02
+Finished: 2025-01-13 21:19:02
 
 ### Sumo Deadlift (Paused)
 
@@ -15823,18 +15869,19 @@ Finished: 2025-01-14 10:19:02
   Set 3: 22.5kg x 11 [target RPE: 10]
   Set 4: 22.5kg x 13 [target RPE: 10]
 
-## 2025-01-13
+## 2025-01-12
 
 ### Health / Recovery
 
-- Steps: 6968
-- Distance: 5.54 km
-- Total kcal burned: 2816
+- Steps: 8171
+- Distance: 6.43 km
+- Total kcal burned: 2401
+- Weight: 75.6 kg
 - Resting heart rate: 44 bpm
-- Sleep: 7.73 h asleep (8.02 h in bed, deep 0.68 h, REM 1.72 h, awake 0.28 h)
+- Sleep: 8.73 h asleep (8.95 h in bed, deep 1.20 h, REM 1.60 h, awake 0.22 h)
 
 **Week 3 · Day 2**
-Finished: 2025-01-13 09:49:38
+Finished: 2025-01-12 20:49:38
 
 ### Bench Press (Barbell)
 
@@ -15868,18 +15915,18 @@ Finished: 2025-01-13 09:49:38
   Set 2: 70.0kg x 13 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=428]
   Set 3: 70.0kg x 12 @ RPE 10 [target RPE: 10] [est_stress=-, real_stress=395]
 
-## 2025-01-11
+## 2025-01-10
 
 ### Health / Recovery
 
-- Steps: 8420
-- Distance: 6.34 km
-- Total kcal burned: 3163
-- Resting heart rate: 43 bpm
-- Sleep: 8.18 h asleep (8.20 h in bed, deep 1.52 h, REM 1.83 h, awake 0.02 h)
+- Steps: 4109
+- Distance: 3.27 km
+- Total kcal burned: 2224
+- Resting heart rate: 42 bpm
+- Sleep: 6.20 h asleep (6.43 h in bed, deep 0.72 h, REM 1.42 h, awake 0.23 h)
 
 **Week 3 · Day 1**
-Finished: 2025-01-11 10:26:16
+Finished: 2025-01-10 21:26:16
 
 ### Squat (Low Bar)
 
@@ -15906,18 +15953,18 @@ Finished: 2025-01-11 10:26:16
   Set 2: 32.5kg x 11 @ RPE 10
   Set 3: 30.0kg x 12 @ RPE 10
 
-## 2025-01-09
+## 2025-01-08
 
 ### Health / Recovery
 
-- Steps: 4544
-- Distance: 3.72 km
-- Total kcal burned: 2837
-- Resting heart rate: 42 bpm
-- Sleep: 6.68 h asleep (6.93 h in bed, deep 0.75 h, REM 1 h, awake 0.25 h)
+- Steps: 5372
+- Distance: 4.32 km
+- Total kcal burned: 2617
+- Resting heart rate: 43 bpm
+- Sleep: 7.97 h asleep (8 h in bed, deep 0.90 h, REM 1.60 h, awake 0.03 h)
 
 **Week 2 · Day 5**
-Finished: 2025-01-09 10:22:48
+Finished: 2025-01-08 21:22:48
 
 ### Sumo Deadlift (Barbell)
 
@@ -15945,18 +15992,18 @@ Finished: 2025-01-09 10:22:48
   Set 2: 45.0kg x 8 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=76]
   Set 3: 45.0kg x 8 @ RPE 10 [target RPE: 9] [est_stress=-, real_stress=76]
 
-## 2025-01-08
+## 2025-01-07
 
 ### Health / Recovery
 
-- Steps: 5372
-- Distance: 4.32 km
-- Total kcal burned: 2617
+- Steps: 4276
+- Distance: 3.50 km
+- Total kcal burned: 2578
 - Resting heart rate: 43 bpm
-- Sleep: 7.97 h asleep (8 h in bed, deep 0.90 h, REM 1.60 h, awake 0.03 h)
+- Sleep: 7.83 h asleep (8.18 h in bed, deep 0.87 h, REM 1.67 h, awake 0.35 h)
 
 **Week 2 · Day 4**
-Finished: 2025-01-08 10:13:29
+Finished: 2025-01-07 21:13:29
 
 ### Squat (Low Bar)
 
@@ -15975,18 +16022,18 @@ Finished: 2025-01-08 10:13:29
 ### Unknown
 
 
-## 2025-01-07
+## 2025-01-06
 
 ### Health / Recovery
 
-- Steps: 4276
-- Distance: 3.50 km
-- Total kcal burned: 2578
+- Steps: 4968
+- Distance: 4.16 km
+- Total kcal burned: 2543
 - Resting heart rate: 43 bpm
-- Sleep: 7.83 h asleep (8.18 h in bed, deep 0.87 h, REM 1.67 h, awake 0.35 h)
+- Sleep: 8.62 h asleep (8.97 h in bed, deep 0.75 h, REM 1.37 h, awake 0.35 h)
 
 **Week 2 · Day 3**
-Finished: 2025-01-07 10:13:01
+Finished: 2025-01-06 21:13:01
 
 ### Sumo Deadlift (Paused)
 
@@ -16029,18 +16076,18 @@ Finished: 2025-01-07 10:13:01
   Set 3: 22.5kg x 12 [target RPE: 10]
   Set 4: 22.5kg x 12 [target RPE: 10]
 
-## 2025-01-06
+## 2025-01-05
 
 ### Health / Recovery
 
-- Steps: 4968
-- Distance: 4.16 km
-- Total kcal burned: 2543
+- Steps: 18708
+- Distance: 13.79 km
+- Total kcal burned: 2651
 - Resting heart rate: 43 bpm
-- Sleep: 8.62 h asleep (8.97 h in bed, deep 0.75 h, REM 1.37 h, awake 0.35 h)
+- Sleep: 8.13 h asleep (8.27 h in bed, deep 0.88 h, REM 1.72 h, awake 0.13 h)
 
 **Week 2 · Day 2**
-Finished: 2025-01-06 09:42:17
+Finished: 2025-01-05 20:42:17
 
 ### Bench Press (Barbell)
 
@@ -16080,18 +16127,18 @@ Finished: 2025-01-06 09:42:17
   Set 2: 27.5kg x 15
   Set 3: 32.5kg x 12
 
-## 2025-01-04
+## 2025-01-03
 
 ### Health / Recovery
 
-- Steps: 8601
-- Distance: 6.74 km
-- Total kcal burned: 3086
+- Steps: 5097
+- Distance: 4.14 km
+- Total kcal burned: 2350
 - Resting heart rate: 43 bpm
-- Sleep: 7.87 h asleep (7.88 h in bed, deep 1.48 h, REM 1.90 h, awake 0.02 h)
+- Sleep: 7.78 h asleep (8.05 h in bed, deep 1.17 h, REM 1.72 h, awake 0.27 h)
 
 **Week 2 · Day 1**
-Finished: 2025-01-04 10:37:48
+Finished: 2025-01-03 21:37:48
 
 ### Squat (Low Bar)
 
@@ -16112,18 +16159,18 @@ Finished: 2025-01-04 10:37:48
   Set 2: 110.0kg x 10 [est_stress=-, real_stress=-]
   Set 3: 110.0kg x 10 [est_stress=-, real_stress=-]
 
-## 2025-01-02
+## 2025-01-01
 
 ### Health / Recovery
 
-- Steps: 5805
-- Distance: 4.66 km
-- Total kcal burned: 2619
+- Steps: 13185
+- Distance: 10.55 km
+- Total kcal burned: 3153
 - Resting heart rate: 43 bpm
-- Sleep: 7.58 h asleep (7.85 h in bed, deep 1.05 h, REM 1.37 h, awake 0.27 h)
+- Sleep: 7.82 h asleep (7.93 h in bed, deep 1.17 h, REM 1.85 h, awake 0.12 h)
 
 **Week 1 · Day 5**
-Finished: 2025-01-02 10:10:15
+Finished: 2025-01-01 21:10:15
 
 ### Deadlift (Barbell)
 
@@ -16149,18 +16196,18 @@ Exercise notes: Switched to sumo after the 1 rep
 ### Incline Bench Press (Dumbbell)
 
 
-## 2025-01-01
+## 2024-12-31
 
 ### Health / Recovery
 
-- Steps: 13185
-- Distance: 10.55 km
-- Total kcal burned: 3153
+- Steps: 9738
+- Distance: 7.27 km
+- Total kcal burned: 2817
 - Resting heart rate: 43 bpm
-- Sleep: 7.82 h asleep (7.93 h in bed, deep 1.17 h, REM 1.85 h, awake 0.12 h)
+- Sleep: 7.03 h asleep (7.27 h in bed, deep 0.77 h, REM 1.68 h, awake 0.23 h)
 
 **Week 1 · Day 4**
-Finished: 2025-01-01 10:22:45
+Finished: 2024-12-31 21:22:45
 
 ### Squat (Low Bar)
 
@@ -16183,18 +16230,18 @@ Finished: 2025-01-01 10:22:45
   Set 3: 42.5kg x 6 @ RPE 8 [target RPE: 8]
   Set 4: 42.5kg x 6 [target RPE: 8]
 
-## 2024-12-31
+## 2024-12-30
 
 ### Health / Recovery
 
-- Steps: 9738
-- Distance: 7.27 km
-- Total kcal burned: 2817
+- Steps: 5104
+- Distance: 4.19 km
+- Total kcal burned: 2732
 - Resting heart rate: 43 bpm
-- Sleep: 7.03 h asleep (7.27 h in bed, deep 0.77 h, REM 1.68 h, awake 0.23 h)
+- Sleep: 8.02 h asleep (8.27 h in bed, deep 0.78 h, REM 1.43 h, awake 0.25 h)
 
 **Week 1 · Day 3**
-Finished: 2024-12-31 10:27:33
+Finished: 2024-12-30 21:27:33
 
 ### Deadlift (Paused)
 
@@ -16237,18 +16284,18 @@ Finished: 2024-12-31 10:27:33
   Set 3: 25.0kg x 8 [target RPE: 8]
   Set 4: 20.0kg x 13 [target RPE: 8]
 
-## 2024-12-30
+## 2024-12-29
 
 ### Health / Recovery
 
-- Steps: 5104
-- Distance: 4.19 km
-- Total kcal burned: 2732
-- Resting heart rate: 43 bpm
-- Sleep: 8.02 h asleep (8.27 h in bed, deep 0.78 h, REM 1.43 h, awake 0.25 h)
+- Steps: 10014
+- Distance: 7.75 km
+- Total kcal burned: 2459
+- Resting heart rate: 44 bpm
+- Sleep: 8.70 h asleep (8.85 h in bed, deep 1.03 h, REM 2.15 h, awake 0.15 h)
 
 **Week 1 · Day 2**
-Finished: 2024-12-30 10:32:59
+Finished: 2024-12-29 21:32:59
 
 ### Bench Press (Barbell)
 
@@ -16292,7 +16339,7 @@ Finished: 2024-12-30 10:32:59
 - Sleep: 7.93 h asleep (8.02 h in bed, deep 1.13 h, REM 1.98 h, awake 0.08 h)
 
 **Week 1 · Day 1**
-Finished: 2024-12-28 14:49:30
+Finished: 2024-12-28 01:49:30
 
 ### Squat (Low Bar)
 
