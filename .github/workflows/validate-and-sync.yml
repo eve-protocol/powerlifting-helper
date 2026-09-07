@@ -71,3 +71,8 @@ jobs:
         run: python scripts/sync_programs.py
         env:
           BOOSTCAMP_REFRESH_TOKEN: ${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}
+
+      - name: Verify synced programs
+        run: python scripts/show_changes.py
+        env:
+          BOOSTCAMP_REFRESH_TOKEN: ${{ secrets.BOOSTCAMP_REFRESH_TOKEN }}
