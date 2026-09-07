@@ -3,6 +3,44 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-07
+
+### Health / Recovery
+
+- Steps: 47
+- Distance: 0.03 km
+- Total kcal burned: 41
+
+**Week 1 · Day 1**
+Finished: 2026-09-07 10:42:31
+
+### High Bar Squat (Barbell)
+
+Exercise notes: Strength wise I wasn't there today on squat. Maybe a result of moving 250kg worth of boxes from my Airbnb to the new apartment. Don't know, wont know. It's ok I move on.
+
+  Set 1: 125.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=236, real_stress=248]
+  Set 2: 125.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=236, real_stress=279]
+  Set 3: 125.0kg x 2 @ RPE 7.5 [target: 5 reps, target RPE: 6.5-7] [est_stress=236, real_stress=112]
+
+### Bench Press (Paused)
+
+  Set 1: 110.0kg x 4 @ RPE 8 [target RPE: 7-7.5] [est_stress=231, real_stress=272]
+  Set 2: 107.5kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=216, real_stress=228]
+  Set 3: 107.5kg x 4 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=216, real_stress=279]
+
+### Pull-Up (Weighted)
+
+  Set 1: 27.5kg x 5 @ RPE 7 [target RPE: 7.5-8]
+  Set 2: 27.5kg x 5 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 3: 25.0kg x 5 @ RPE 8 [target RPE: 7.5-8]
+
+### Belt Squat
+
+Exercise notes: Didn't really like the exercise, 1. It's going to tear my sweatpant in the crotch, 2. I don't really feel my quad burning. The goal is to really isolate quads. We need to find an alternative
+
+  Set 1: 40.0kg x 10 @ RPE 7 [target RPE: 6.5-7]
+  Set 2: 40.0kg x 10 @ RPE 7 [target RPE: 6.5-7]
+
 ## 2026-09-05
 
 ### Health / Recovery
