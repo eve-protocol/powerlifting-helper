@@ -95,8 +95,9 @@ workouts:
     equipment_dependent: true
 - week: 1
   day: 2
-  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
-  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
+  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
+  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength, then use
+    the open support slot for low-residual-fatigue trunk work.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -157,6 +158,26 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 50.5
+    equipment_dependent: true
+  - name: Cable Crunch
+    intent: Maintain trunk strength without interfering with primary lifts.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
     equipment_dependent: true
 - week: 1
   day: 3
@@ -325,26 +346,6 @@ workouts:
       - 8
       target_weight_kg: 10
     equipment_dependent: true
-  - name: Cable Crunch
-    intent: Maintain trunk strength without interfering with primary lifts.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    equipment_dependent: true
 - week: 1
   day: 5
   name: Saturday - Sumo Fours / Light Low Bar / Spoto
@@ -463,8 +464,9 @@ workouts:
       target_weight_kg: 30
 - week: 2
   day: 2
-  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
-  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
+  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
+  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength, then use
+    the open support slot for low-residual-fatigue trunk work.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -525,6 +527,26 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 50.5
+    equipment_dependent: true
+  - name: Cable Crunch
+    intent: Maintain trunk strength without interfering with primary lifts.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
     equipment_dependent: true
 - week: 2
   day: 3
@@ -704,26 +726,6 @@ workouts:
       - 8
       target_weight_kg: 10
     equipment_dependent: true
-  - name: Cable Crunch
-    intent: Maintain trunk strength without interfering with primary lifts.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    equipment_dependent: true
 - week: 2
   day: 5
   name: Saturday - Primary Sumo / Light Low Bar / Spoto
@@ -832,8 +834,9 @@ workouts:
       target_weight_kg: 27.5
 - week: 3
   day: 2
-  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
-  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
+  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
+  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength, then use
+    the open support slot for low-residual-fatigue trunk work.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -884,6 +887,21 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 50.5
+    equipment_dependent: true
+  - name: Cable Crunch
+    intent: Maintain trunk strength without interfering with primary lifts.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 45
     equipment_dependent: true
 - week: 3
   day: 3
@@ -1030,21 +1048,6 @@ workouts:
       - 6.5
       - 7
       target_weight_kg: 10
-    equipment_dependent: true
-  - name: Cable Crunch
-    intent: Maintain trunk strength without interfering with primary lifts.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 6.5
-      - 7
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 6.5
-      - 7
-      target_weight_kg: 45
     equipment_dependent: true
 - week: 3
   day: 5

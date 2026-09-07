@@ -28,21 +28,23 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 - **Bench Press (Paused):** Retain long-pause pressing strength through controlled triples.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
 
-**Day intent:** Keep the lockout transition, incline strength, and supported upper-back work alive at controlled effort.
+**Day intent:** Keep the lockout transition, incline strength, and supported upper-back work alive at controlled effort, then use the open support slot for low-residual-fatigue trunk work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6.5-7 · 150kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor |
 | 3 | Seated Row (Cable) | 8 reps @ RPE 7-7.5 · 50.5kg anchor; 8 reps @ RPE 7-7.5 · 50.5kg anchor |
+| 4 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause with the bar center at the top edge of the kneecap and finish by bringing hips to the bar.
 - **Incline Bench Press (Dumbbell):** Maintain primary incline dumbbell strength during realization.
 - **Seated Row (Cable):** Maintain supported upper-back strength without adding torso or lower-back fatigue.
+- **Cable Crunch:** Maintain trunk work during realization.
 
 #### Day 3 — Wednesday - Heavy Low Bar / Competition Bench
 
@@ -73,7 +75,6 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 | 3 | Lateral Raise (Cable) | 10 reps @ RPE 7-7.5 · 9kg anchor; 10 reps @ RPE 7-7.5 · 9kg anchor |
 | 4 | Overhead Tricep Extension (Cable) | 8 reps @ RPE 7-7.5 · 30kg anchor; 8 reps @ RPE 7-7.5 · 30kg anchor |
 | 5 | Bicep Curl (Cable) | 8 reps @ RPE 7-7.5 · 10kg anchor; 8 reps @ RPE 7-7.5 · 10kg anchor |
-| 6 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
@@ -82,7 +83,6 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 - **Lateral Raise (Cable):** Maintain shoulder work on the available cable station without chasing stack jumps.
 - **Overhead Tricep Extension (Cable):** Maintain triceps strength without affecting Saturday deadlift.
 - **Bicep Curl (Cable):** Maintain elbow-flexor work on the condo cable with minimal residual fatigue.
-- **Cable Crunch:** Maintain trunk work during realization.
 
 #### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Bench
 
@@ -126,21 +126,23 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 - **Bench Press (Paused):** Keep pause strength active before the final heavy Wednesday squat-and-bench session.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
 
-**Day intent:** Keep the lockout transition, incline strength, and supported upper-back work alive at controlled effort.
+**Day intent:** Keep the lockout transition, incline strength, and supported upper-back work alive at controlled effort, then use the open support slot for low-residual-fatigue trunk work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-6.5 · 140kg anchor; 2 reps @ RPE 6-6.5 · 140kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6.5-7 · 50kg anchor; 5 reps @ RPE 6.5-7 · 50kg anchor |
 | 3 | Seated Row (Cable) | 8 reps @ RPE 6.5-7 · 48kg anchor; 8 reps @ RPE 6.5-7 · 48kg anchor |
+| 4 | Cable Crunch | 10 reps @ RPE 6.5-7 · 45kg anchor; 10 reps @ RPE 6.5-7 · 45kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Use a light exact-position pause; no grind and no loss of upper-back tension.
 - **Incline Bench Press (Dumbbell):** Perform meaningful but non-fatiguing primary incline work.
 - **Seated Row (Cable):** Maintain supported upper-back strength without adding torso or lower-back fatigue.
+- **Cable Crunch:** Maintain trunk strength with reduced volume.
 
 #### Day 3 — Wednesday - Heavy Low Bar / Competition Bench
 
@@ -171,7 +173,6 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 | 3 | Lateral Raise (Cable) | 10 reps @ RPE 6.5-7 · 7kg anchor; 10 reps @ RPE 6.5-7 · 7kg anchor |
 | 4 | Overhead Tricep Extension (Cable) | 8 reps @ RPE 6.5-7 · 25kg anchor; 8 reps @ RPE 6.5-7 · 25kg anchor |
 | 5 | Bicep Curl (Cable) | 8 reps @ RPE 6.5-7 · 10kg anchor; 8 reps @ RPE 6.5-7 · 10kg anchor |
-| 6 | Cable Crunch | 10 reps @ RPE 6.5-7 · 45kg anchor; 10 reps @ RPE 6.5-7 · 45kg anchor |
 
 **Why these movements:**
 
@@ -180,7 +181,6 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 - **Lateral Raise (Cable):** Maintain shoulder work on the available cable station without chasing stack jumps.
 - **Overhead Tricep Extension (Cable):** Maintain triceps work with minimal residual fatigue.
 - **Bicep Curl (Cable):** Maintain elbow-flexor work on the condo cable with minimal residual fatigue.
-- **Cable Crunch:** Maintain trunk strength with reduced volume.
 
 #### Day 5 — Saturday - Final Heavy Deadlift
 
