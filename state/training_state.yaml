@@ -1,4 +1,4 @@
-timezone: Asia/Tokyo
+timezone: America/Toronto
 days_per_week: 5
 training_days:
 - monday
@@ -12,7 +12,7 @@ block_sequence:
 - peaking_block_v8
 current_block: strength_block_v6
 completed_workouts_in_current_block: 0
-last_completed_date: '2026-09-06'
+last_completed_date: '2026-09-05'
 progression_mode: explicit
 active_coaching_focus: volume_transfer_realization_v2
 cycle_start_date: '2026-07-27'

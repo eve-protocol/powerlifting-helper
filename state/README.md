@@ -11,9 +11,7 @@ python scripts/update_training_state.py --mark-done --date YYYY-MM-DD
 
 If the completed session is the last workout of the block, state auto-advances to the next block in `block_sequence` and resets completed workouts to 0.
 
-## Daily assessment automation
-Workflow: `.github/workflows/daily-assessment.yml`
-- Runs every day at **08:30 JST**
-- Generates `outputs/daily_assessment.md`
-- Supports manual run (`workflow_dispatch`)
+## Daily assessment
+- Training timezone: **America/Toronto**.
+- Daily assessments are request-driven from the coaching channel; the old scheduled workflow is disabled.
 - Optional manual run input: `mark_done=true` to advance state before generating assessment

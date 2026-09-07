@@ -3,7 +3,9 @@
 import json
 import os
 import time
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 try:
     from common.files import write_json_if_changed
@@ -119,13 +121,14 @@ def get_access_token(script_dir):
     return access_token
 
 
-def fetch_history(token, output_file='history.json', timezone_offset=9):
+def fetch_history(token, output_file='history.json', timezone_offset=None):
     """Fetch workout history from Boostcamp API and save to file.
     
     Args:
         token: Firebase ID token (access token)
         output_file: Path to save the history JSON
-        timezone_offset: Your timezone offset from UTC (default: 9 for JST)
+        timezone_offset: UTC offset in hours. Defaults to the current
+            America/Toronto offset, including daylight-saving time.
     
     Returns:
         True if successful, False otherwise
@@ -133,6 +136,12 @@ def fetch_history(token, output_file='history.json', timezone_offset=9):
     if not _check_requests():
         return False
     
+    if timezone_offset is None:
+        utc_offset = datetime.now(ZoneInfo("America/Toronto")).utcoffset()
+        if utc_offset is None:
+            raise RuntimeError("Could not determine America/Toronto UTC offset")
+        timezone_offset = int(utc_offset.total_seconds() // 3600)
+
     headers = _get_headers(token)
     payload = {'timezone_offset': timezone_offset}
     

@@ -50,6 +50,7 @@ jobs:
           python scripts/export_health_daily.py \
             --db /tmp/health-connect/health_connect_export.db \
             --metadata /tmp/health-connect-meta.json \
+            --timezone America/Toronto \
             --output values/health_daily.json
 
       - name: Copy static Zepp and Garmin backfill data from private repo

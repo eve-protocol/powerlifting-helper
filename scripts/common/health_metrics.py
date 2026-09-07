@@ -8,8 +8,10 @@ from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional
+from zoneinfo import ZoneInfo
 
-JST = timezone(timedelta(hours=9))
+DEFAULT_TIMEZONE_NAME = "America/Toronto"
+DEFAULT_TIMEZONE = ZoneInfo(DEFAULT_TIMEZONE_NAME)
 EPOCH = date(1970, 1, 1)
 GARMIN_PACKAGE = "com.garmin.android.apps.connectmobile"
 GOOGLE_FIT_PACKAGE = "com.google.android.apps.fitness"
@@ -22,20 +24,20 @@ SLEEP_STAGE_LABELS = {
 }
 
 
-def jst_date_to_day_number(date_str: str) -> int:
+def local_date_to_day_number(date_str: str) -> int:
     return (date.fromisoformat(date_str) - EPOCH).days
 
 
-def day_number_to_jst_date(day_number: int) -> str:
+def day_number_to_local_date(day_number: int) -> str:
     return str(EPOCH + timedelta(days=day_number))
 
 
-def ms_to_jst_datetime(ms: int) -> datetime:
-    return datetime.fromtimestamp(ms / 1000, tz=timezone.utc).astimezone(JST)
+def ms_to_local_datetime(ms: int, local_timezone=DEFAULT_TIMEZONE) -> datetime:
+    return datetime.fromtimestamp(ms / 1000, tz=timezone.utc).astimezone(local_timezone)
 
 
-def ms_to_jst_iso(ms: int) -> str:
-    return ms_to_jst_datetime(ms).isoformat()
+def ms_to_local_iso(ms: int, local_timezone=DEFAULT_TIMEZONE) -> str:
+    return ms_to_local_datetime(ms, local_timezone).isoformat()
 
 
 def period_quarter(date_str: str) -> str:

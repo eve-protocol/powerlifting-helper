@@ -2,7 +2,7 @@
 
 ## Scope
 - Block: `volume_block_v7`
-- Week assessed: Week 6, 2026-08-31 to 2026-09-06
+- Week assessed: Week 6, 2026-08-31 to 2026-09-05
 - Sources: refreshed Boostcamp history, current 12-week history, Week 6 daily coach notes, Week 4 and Week 5 weekly assessments, active coaching focus, and live Week 6 Day 5 reports/videos.
 - This week closes Volume Block v7.
 
@@ -51,7 +51,7 @@
 - Low-bar squat: **passed** — 160kg x5 improved from prior @10 to @9; technical improvement remains load-sensitive but Week 6 footwear video supports the squat-shoe strategy.
 - Competition bench: **failed/unresolved** — 122.5kg again stopped at four plus a failed fifth in Week 4, and Week 6 Toronto work remained painful and above target.
 - Incline dumbbell bench: **failed but close** — neither 52.5kg per hand x6 nor the alternate programmed eight-rep outcome was realized; current Toronto equipment supports 45.5kg x6 and 50kg x5.
-- Competition sumo deadlift: **passed on 2026-09-06** — 180kg x5 @9.5 with secure grip and legal-looking connected lockouts.
+- Competition sumo deadlift: **passed on 2026-09-05** — 180kg x5 @9.5 with secure grip and legal-looking connected lockouts.
 
 ## Strength Block v6 implications
 - Proceed to Strength Block v6 without adding tests or catch-up work.

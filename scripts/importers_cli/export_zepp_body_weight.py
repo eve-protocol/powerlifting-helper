@@ -9,10 +9,11 @@ import json
 from datetime import datetime
 from io import TextIOWrapper
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import pyzipper
 
-from health_metrics import JST
+from health_metrics import DEFAULT_TIMEZONE_NAME
 
 
 def maybe_float(value):
@@ -30,7 +31,9 @@ def main():
     parser.add_argument("--password", required=True)
     parser.add_argument("--output", required=True)
     parser.add_argument("--metadata")
+    parser.add_argument("--timezone", default=DEFAULT_TIMEZONE_NAME)
     args = parser.parse_args()
+    local_timezone = ZoneInfo(args.timezone)
 
     zip_path = Path(args.zip)
     out_path = Path(args.output)
@@ -51,10 +54,10 @@ def main():
             latest_by_day = {}
             for row in reader:
                 ts = datetime.strptime(row["time"], "%Y-%m-%d %H:%M:%S%z")
-                date_jst = ts.astimezone(JST).date().isoformat()
+                date_local = ts.astimezone(local_timezone).date().isoformat()
                 payload = {
-                    "date": date_jst,
-                    "measured_at": ts.astimezone(JST).isoformat(),
+                    "date": date_local,
+                    "measured_at": ts.astimezone(local_timezone).isoformat(),
                     "weight_kg": maybe_float(row.get("weight")),
                     "bmi": maybe_float(row.get("bmi")),
                     "fat_rate": maybe_float(row.get("fatRate")),
@@ -68,14 +71,15 @@ def main():
                         "export_member": body_name,
                     },
                 }
-                current = latest_by_day.get(date_jst)
+                current = latest_by_day.get(date_local)
                 if current is None or payload["measured_at"] > current["measured_at"]:
-                    latest_by_day[date_jst] = payload
+                    latest_by_day[date_local] = payload
 
     days = [latest_by_day[date] for date in sorted(latest_by_day)]
     result = {
         "metadata": {
             "source": "Zepp Life body export",
+            "timezone": args.timezone,
             "drive_file_id": export_meta.get("id"),
             "drive_file_name": export_meta.get("name"),
             "export_file_modified_time": export_meta.get("modifiedTime"),

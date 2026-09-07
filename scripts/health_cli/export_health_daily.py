@@ -9,15 +9,16 @@ import sqlite3
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from health_metrics import (
     GARMIN_PACKAGE,
     GOOGLE_FIT_PACKAGE,
-    JST,
+    DEFAULT_TIMEZONE_NAME,
     SLEEP_STAGE_LABELS,
-    day_number_to_jst_date,
-    ms_to_jst_datetime,
-    ms_to_jst_iso,
+    day_number_to_local_date,
+    ms_to_local_datetime,
+    ms_to_local_iso,
 )
 
 
@@ -38,9 +39,10 @@ def main():
     parser.add_argument("--db", required=True)
     parser.add_argument("--output", required=True)
     parser.add_argument("--metadata")
-    parser.add_argument("--timezone", default="Asia/Tokyo")
+    parser.add_argument("--timezone", default=DEFAULT_TIMEZONE_NAME)
     parser.add_argument("--max-staleness-days", type=int, default=2)
     args = parser.parse_args()
+    local_timezone = ZoneInfo(args.timezone)
 
     db_path = Path(args.db)
     out_path = Path(args.output)
@@ -92,7 +94,7 @@ def main():
     for row in cur.execute("SELECT local_date, time, weight, app_info_id FROM weight_record_table ORDER BY time"):
         app = app_by_id.get(row["app_info_id"], {})
         rows_by_day[row["local_date"]]["weight_entries"].append({
-            "time": ms_to_jst_iso(row["time"]),
+            "time": ms_to_local_iso(row["time"], local_timezone),
             "weight_kg": round(float(row["weight"] or 0) / 1000, 1),
             "package_name": app.get("package_name"),
             "app_name": app.get("app_name"),
@@ -101,7 +103,7 @@ def main():
     for row in cur.execute("SELECT local_date, time, beats_per_minute, app_info_id FROM resting_heart_rate_record_table ORDER BY time"):
         app = app_by_id.get(row["app_info_id"], {})
         rows_by_day[row["local_date"]]["resting_hr_entries"].append({
-            "time": ms_to_jst_iso(row["time"]),
+            "time": ms_to_local_iso(row["time"], local_timezone),
             "resting_hr_bpm": int(row["beats_per_minute"]),
             "package_name": app.get("package_name"),
             "app_name": app.get("app_name"),
@@ -109,8 +111,8 @@ def main():
 
     sleep_rows = cur.execute("SELECT row_id, local_date, start_time, end_time, app_info_id FROM sleep_session_record_table ORDER BY end_time").fetchall()
     for row in sleep_rows:
-        wake_date = ms_to_jst_datetime(row["end_time"]).date().isoformat()
-        wake_day_number = (ms_to_jst_datetime(row["end_time"]).date() - datetime(1970, 1, 1).date()).days
+        wake_date = ms_to_local_datetime(row["end_time"], local_timezone).date().isoformat()
+        wake_day_number = (ms_to_local_datetime(row["end_time"], local_timezone).date() - datetime(1970, 1, 1).date()).days
         app = app_by_id.get(row["app_info_id"], {})
         stage_rows = cur.execute("SELECT stage_start_time, stage_end_time, stage_type FROM sleep_stages_table WHERE parent_key=? ORDER BY stage_start_time", (row["row_id"],)).fetchall()
         stage_minutes = defaultdict(float)
@@ -121,8 +123,8 @@ def main():
             "wake_date": wake_date,
             "package_name": app.get("package_name"),
             "app_name": app.get("app_name"),
-            "sleep_start": ms_to_jst_iso(row["start_time"]),
-            "sleep_end": ms_to_jst_iso(row["end_time"]),
+            "sleep_start": ms_to_local_iso(row["start_time"], local_timezone),
+            "sleep_end": ms_to_local_iso(row["end_time"], local_timezone),
             "time_in_bed_minutes": round((row["end_time"] - row["start_time"]) / 1000 / 60, 1),
             "asleep_minutes": round(asleep, 1),
             "awake_minutes": round(stage_minutes.get(1, 0), 1),
@@ -133,19 +135,19 @@ def main():
         })
 
     latest_day = max(rows_by_day.keys()) if rows_by_day else None
-    latest_date = day_number_to_jst_date(latest_day) if latest_day is not None else None
+    latest_date = day_number_to_local_date(latest_day) if latest_day is not None else None
     export_stale_warning = None
     if latest_date:
-        today_jst = datetime.now(JST).date()
+        today_local = datetime.now(local_timezone).date()
         latest_export_date = datetime.fromisoformat(latest_date).date()
-        staleness_days = (today_jst - latest_export_date).days
+        staleness_days = (today_local - latest_export_date).days
         if staleness_days > args.max_staleness_days:
             export_stale_warning = f"Health data looks stale, latest available date is {latest_date}."
 
     days = []
     for day_number in sorted(rows_by_day.keys()):
         payload = rows_by_day[day_number]
-        date_str = day_number_to_jst_date(day_number)
+        date_str = day_number_to_local_date(day_number)
         selected_steps = pick_preferred(payload["steps_candidates"])
         selected_distance = pick_preferred(payload["distance_candidates"])
         selected_kcal = pick_preferred(payload["kcal_candidates"])
@@ -183,6 +185,7 @@ def main():
     result = {
         "metadata": {
             "source": "Health Connect export",
+            "timezone": args.timezone,
             "preferred_package": GARMIN_PACKAGE,
             "ignored_when_garmin_present": [GOOGLE_FIT_PACKAGE],
             "export_file_modified_time": export_meta.get("modifiedTime"),

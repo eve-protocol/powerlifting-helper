@@ -6,7 +6,7 @@ updates:
       interval: "weekly"
       day: "monday"
       time: "03:00"
-      timezone: "Asia/Tokyo"
+      timezone: "America/Toronto"
     open-pull-requests-limit: 5
     groups:
       github-actions-dependencies:
@@ -19,7 +19,7 @@ updates:
       interval: "weekly"
       day: "monday"
       time: "03:05"
-      timezone: "Asia/Tokyo"
+      timezone: "America/Toronto"
     open-pull-requests-limit: 5
     groups:
       python-dependencies:
