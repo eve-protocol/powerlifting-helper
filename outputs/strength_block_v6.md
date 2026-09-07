@@ -30,21 +30,23 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 - **Belt Squat:** Replace the poor leg-extension setup with low-axial-load quadriceps work; calibrate the new machine conservatively.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
 
-**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
+**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength, then use the open support slot for low-residual-fatigue trunk work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 6-6.5 · 140kg anchor; 4 reps @ RPE 6-6.5 · 140kg anchor; 4 reps @ RPE 6-6.5 · 140kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Seated Row (Cable) | 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor |
+| 4 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
 - **Seated Row (Cable):** Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
+- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
@@ -75,7 +77,6 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 | 3 | Lateral Raise (Cable) | 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor |
 | 4 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
 | 5 | Bicep Curl (Cable) | 10 reps @ RPE 7.5-8 · 10kg anchor; 10 reps @ RPE 7.5-8 · 10kg anchor |
-| 6 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
@@ -84,7 +85,6 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 - **Lateral Raise (Cable):** Maintain shoulder volume on the available cable station with stable repeated sets.
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
 - **Bicep Curl (Cable):** Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
-- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 5 — Saturday - Sumo Fours / Light Low Bar / Spoto
 
@@ -128,21 +128,23 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 - **Bench Press (Paused):** Keep long-pause bench volume active as competition work intensifies.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
 
-**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
+**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength, then use the open support slot for low-residual-fatigue trunk work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6.5-7 · 150kg anchor; 3 reps @ RPE 6.5-7 · 150kg anchor; 3 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor |
 | 3 | Seated Row (Cable) | 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor |
+| 4 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
 - **Seated Row (Cable):** Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
+- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
@@ -173,7 +175,6 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 | 3 | Lateral Raise (Cable) | 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor |
 | 4 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
 | 5 | Bicep Curl (Cable) | 10 reps @ RPE 7.5-8 · 10kg anchor; 10 reps @ RPE 7.5-8 · 10kg anchor |
-| 6 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
@@ -182,7 +183,6 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 - **Lateral Raise (Cable):** Maintain shoulder volume on the available cable station with stable repeated sets.
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
 - **Bicep Curl (Cable):** Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
-- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 
@@ -226,21 +226,23 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 - **Bench Press (Paused):** Keep long-pause bench volume active as competition work intensifies.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
 
-**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
+**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength, then use the open support slot for low-residual-fatigue trunk work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-6.5 · 145kg anchor; 2 reps @ RPE 6-6.5 · 145kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 9-9.5 · 55kg anchor; 5 reps @ RPE 7-7.5 · 50kg anchor; 5 reps @ RPE 7-7.5 · 50kg anchor |
 | 3 | Seated Row (Cable) | 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor |
+| 4 | Cable Crunch | 12 reps @ RPE 6.5-7 · 45kg anchor; 12 reps @ RPE 6.5-7 · 45kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
 - **Seated Row (Cable):** Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
+- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
@@ -271,7 +273,6 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 | 3 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7 · 9kg anchor; 12 reps @ RPE 6.5-7 · 9kg anchor |
 | 4 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 6.5-7 · 30kg anchor; 10 reps @ RPE 6.5-7 · 30kg anchor |
 | 5 | Bicep Curl (Cable) | 10 reps @ RPE 6.5-7 · 10kg anchor; 10 reps @ RPE 6.5-7 · 10kg anchor |
-| 6 | Cable Crunch | 12 reps @ RPE 6.5-7 · 45kg anchor; 12 reps @ RPE 6.5-7 · 45kg anchor |
 
 **Why these movements:**
 
@@ -280,7 +281,6 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 - **Lateral Raise (Cable):** Maintain shoulder volume on the available cable station with stable repeated sets.
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
 - **Bicep Curl (Cable):** Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
-- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 
