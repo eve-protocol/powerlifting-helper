@@ -40,7 +40,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W37  │   2300kg (-3211) │   1296kg (-4053) │      0kg (-4208)
+2026-W37  │   2675kg (-2836) │   1296kg (-4053) │      0kg (-4208)
 2026-W36  │   5511kg (+2241) │   5349kg (+1827) │   4208kg (+2160)
 2026-W35  │   3270kg (-1245) │   3522kg  (-580) │   2048kg (-1112)
 2026-W34  │   4515kg  (-552) │   4102kg  (-734) │   3160kg  (-740)
@@ -78,7 +78,7 @@ Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ```
 Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 ───────────┼───────────────────┼───────────────────┼──────────────────────
-2026-W37  │     671 (-2226) │     772 (-1787) │       0 (-2625)
+2026-W37  │     838 (-2059) │     772 (-1787) │       0 (-2625)
 2026-W36  │    2897 (+1933) │    2559  (+288) │    2625 (+1581)
 2026-W35  │     964 (-1272) │    2271  (+280) │    1044  (-944)
 2026-W34  │    2236   (-11) │    1991  (-340) │    1988  (-147)
@@ -96,7 +96,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 **Squat Volume (kg)**
 ```
-2026-W37 │████████░░░░░░░░░░░░░░░░░│ 2,300kg
+2026-W37 │█████████░░░░░░░░░░░░░░░░│ 2,675kg
 2026-W36 │███████████████████░░░░░░│ 5,511kg
 2026-W35 │███████████░░░░░░░░░░░░░░│ 3,270kg
 2026-W34 │███████████████░░░░░░░░░░│ 4,515kg
@@ -148,8 +148,8 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ## 2026-W37
 
-**Weekly Summary:** Squat: 5 sets / 2,300kg | Bench: 3 sets / 1,296kg | Deadlift: 0 sets / 0kg
-**Stress Summary:** Squat est/real: 740/671 | Bench est/real: 656/772 | Deadlift est/real: 0/0
+**Weekly Summary:** Squat: 5 sets / 2,675kg | Bench: 3 sets / 1,296kg | Deadlift: 0 sets / 0kg
+**Stress Summary:** Squat est/real: 740/838 | Bench est/real: 656/772 | Deadlift est/real: 0/0
 
 ### 2026-09-07 (Monday)
 
@@ -163,7 +163,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Exercise notes: Strength wise I wasn't there today on squat. Maybe a result of moving 250kg worth of boxes from my Airbnb to the new apartment. Don't know, wont know. It's ok I move on.
 - Set 1: 5 × 125kg @ RPE 7 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=236; real_stress=248]
 - Set 2: 5 × 125kg @ RPE 7.5 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=236; real_stress=279]
-- Set 3: 2 × 125kg @ RPE 7.5 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=236; real_stress=112]
+- Set 3: 5 × 125kg @ RPE 7.5 [target_reps=5, target_intensity=[6.5, 7]RPE_range; est_stress=236; real_stress=279]
 
 **Bench Press (Paused)**
 - Set 1: 4 × 110kg @ RPE 8 [target_reps=4, target_intensity=[7, 7.5]RPE_range; est_stress=231; real_stress=272]

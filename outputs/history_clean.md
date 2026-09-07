@@ -20,7 +20,7 @@ Exercise notes: Strength wise I wasn't there today on squat. Maybe a result of m
 
   Set 1: 125.0kg x 5 @ RPE 7 [target RPE: 6.5-7] [est_stress=236, real_stress=248]
   Set 2: 125.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=236, real_stress=279]
-  Set 3: 125.0kg x 2 @ RPE 7.5 [target: 5 reps, target RPE: 6.5-7] [est_stress=236, real_stress=112]
+  Set 3: 125.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7] [est_stress=236, real_stress=279]
 
 ### Bench Press (Paused)
 
