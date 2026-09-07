@@ -67,6 +67,10 @@ athlete_constraints:
       - saturday
     thursday: rest
     session_duration: 2-3 hours is acceptable, including approximately 30 minutes of preparation
+    gym_split: >
+      Monday, Tuesday, Wednesday, and Saturday use the powerlifting gym. Friday remains a written
+      low-residual-fatigue accessory day that can be completed in the condo gym without another
+      powerlifting-gym trip. Mock-meet-week Friday remains full rest.
   relocation:
     date: '2026-08-25'
     destination: Toronto, Canada
@@ -101,7 +105,27 @@ athlete_constraints:
       - press/hack-squat machine
       - EZ bar
       - chest-fly/rear-delt machine
-    toronto: unknown until calibrated
+    toronto_powerlifting_gym:
+      - adjustable crossover cables
+      - belt squat
+      - hack squat and leg press combination machine
+      - reverse hyperextension machine
+      - seated cable row station with interchangeable handles
+      - adjustable cable station
+      - dumbbells through 120lb
+      - free benches, combo racks, and power racks
+      - combined leg extension and leg curl machine; leg curl is preferred
+      - EZ curl bars and Swiss bar
+      - pull-up bars
+    toronto_condo_gym:
+      - treadmills and stair machine
+      - hip thrust machine
+      - crossover cables
+      - seated cable station with interchangeable handles
+      - adjustable cable station
+      - Smith machine
+      - lighter dumbbells
+      - other bodybuilding machines pending inventory
 
 load_anchor_policy:
   rule: >
@@ -213,6 +237,13 @@ accessories:
   guardrail: >
     A productive first set does not authorize automatic repeat-load overshoots.
     Once a set reaches the top of the RPE target, reduce the next set when needed.
+  friday_rule: >
+    Friday is a written condo accessory session for chest, shoulders, arms, and trunk. It is a
+    redistribution of existing support work, not permission to add hard rows, grip work, hip thrusts,
+    belt squats, hack squats, or reverse hypers before Saturday deadlift.
+  exercise_name_rule: >
+    Program YAML may use only exact Boostcamp exercise names verified in current programs, synced
+    history, or directly supplied by Ren. Never invent or normalize an unseen exercise name.
 
 block_goals:
   volume_block_v7:
@@ -240,6 +271,10 @@ block_goals:
       week_1: Competition fours without singles.
       week_2: One competition single per lift at RPE 7-7.5, followed by triples.
       week_3: Objective triple benchmarks without a preliminary single.
+      weekly_schedule: >
+        Primary low-bar squat and competition bench are consolidated on Wednesday in meet order.
+        Friday remains a written condo accessory day. Saturday retains primary sumo, light low bar,
+        and Spoto work.
     single_rule: >
       Heavy singles are a tool, not a requirement. The Week 2 single ends when
       it reaches RPE 7-7.5; do not add weight because it feels less dramatic
@@ -262,12 +297,12 @@ block_goals:
     role: realization_and_taper
     dates: '2026-09-28 to 2026-10-17'
     structure:
-      week_1: Realization/loading week with submaximal singles and doubles; not a taper week.
-      week_2: Final heavy exposures and the start of volume reduction.
+      week_1: Realization/loading week with Wednesday heavy squat and bench, plus submaximal doubles; not a taper week.
+      week_2: Final heavy squat and bench together on Wednesday, final heavy deadlift Saturday, and the start of volume reduction.
       week_3: Actual taper and mock-meet week.
     final_heavy_timing:
       squat: 10 days before mock meet
-      bench: 8 days before mock meet
+      bench: 10 days before mock meet
       deadlift: 7 days before mock meet
     final_week:
       wednesday: Combine the final low-RPE squat and bench command singles with the normal support work.

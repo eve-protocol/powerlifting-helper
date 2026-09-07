@@ -1,6 +1,6 @@
 # Strength Block v6
 
-Three-week athlete-specific intensification block that preserves meaningful rep work. Week 1 transitions through competition-lift fours without singles, Week 2 uses one deliberately submaximal single before triples, and Week 3 tests objective triple benchmarks without a calibration single. High bar, paused bench, incline DB, Spoto, pull-ups twice weekly, and backoff work remain in place. Paused sumo at the top edge of the kneecap trains Ren's transition into lockout.
+Three-week athlete-specific intensification block that preserves meaningful rep work. Week 1 uses competition-lift fours without singles, Week 2 uses one deliberately submaximal single before triples, and Week 3 tests objective triple benchmarks without a calibration single. Primary low-bar squat and competition bench are consolidated on Wednesday, while Friday remains a written condo accessory day. High bar, paused bench, incline dumbbells, Spoto, twice-weekly pull-ups, backoff work, and paused sumo at the top edge of the kneecap remain in place.
 
 ## Overview
 
@@ -21,70 +21,72 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 | 1 | High Bar Squat (Barbell) | 5 reps @ RPE 6.5-7 · 125kg anchor; 5 reps @ RPE 6.5-7 · 125kg anchor; 5 reps @ RPE 6.5-7 · 125kg anchor |
 | 2 | Bench Press (Paused) | 4 reps @ RPE 7-7.5 · 110kg anchor; 4 reps @ RPE 7-7.5 · 110kg anchor; 4 reps @ RPE 7-7.5 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8 · 27.5kg anchor; 5 reps @ RPE 7.5-8 · 27.5kg anchor; 5 reps @ RPE 7.5-8 · 27.5kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
 - **High Bar Squat (Barbell):** Keep knee-forward quad development active through intensification.
 - **Bench Press (Paused):** Keep long-pause bench volume active as competition work intensifies.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
-- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB Bench
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
 
-**Day intent:** Train the deadlift transition into lockout and continue primary incline progression.
+**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 6-6.5 · 140kg anchor; 4 reps @ RPE 6-6.5 · 140kg anchor; 4 reps @ RPE 6-6.5 · 140kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
-| 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
+| 3 | Seated Row (Cable) | 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
-- **Lateral Raise (Dumbbell):** Maintain shoulder volume with stable repeated sets.
-- **Rear Delt Fly (Machine):** Maintain rear-delt strength on calibrated equipment.
+- **Seated Row (Cable):** Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
 
-#### Day 3 — Wednesday - Low Bar Fours / Legs / Back
+#### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
-**Day intent:** Transition to competition-squat fours without spending fatigue on a preliminary single.
+**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete limited support work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 4 reps @ RPE 7.5-8 · 157.5kg anchor; 4 reps @ RPE 7-7.5 · 152.5kg anchor; 4 reps @ RPE 7-7.5 · 152.5kg anchor |
-| 2 | Leg Extension | 10 reps @ RPE 7-7.5 · 65kg anchor; 10 reps @ RPE 7-7.5 · 65kg anchor; 10 reps @ RPE 7-7.5 · 65kg anchor |
-| 3 | Standing T Bar Row | 10 reps @ RPE 7-7.5 · 62.5kg anchor; 10 reps @ RPE 7-7.5 · 62.5kg anchor; 10 reps @ RPE 7-7.5 · 62.5kg anchor |
-| 4 | Leg Curl | 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor |
-| 5 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
+| 2 | Bench Press (Barbell) | 4 reps @ RPE 7.5-8 · 122.5kg anchor; 4 reps @ RPE 7-7.5 · 120kg anchor; 4 reps @ RPE 7-7.5 · 120kg anchor |
+| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
+| 4 | Belt Squat | 10 reps @ RPE 6.5-7 · 40kg anchor; 10 reps @ RPE 6.5-7 · 40kg anchor |
+| 5 | Leg Curl | 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor |
+| 6 | Reverse Hyperextension | 15 reps @ RPE 5-6 · 10kg anchor; 15 reps @ RPE 5-6 · 10kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Build competition-squat strength through fours without hips outrunning the chest.
-- **Leg Extension:** Keep direct quadriceps work in the strength block.
-- **Standing T Bar Row:** Maintain upper-back strength away from Saturday deadlift.
-- **Leg Curl:** Maintain knee-flexion hamstring strength.
+- **Bench Press (Barbell):** Build competition-bench strength through fours with repeatable setup and leg-drive timing.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
+- **Belt Squat:** Replace the poor leg-extension setup with low-axial-load quadriceps work; calibrate the new machine conservatively.
+- **Leg Curl:** Maintain knee-flexion hamstring strength.
+- **Reverse Hyperextension:** Calibrate the new machine with controlled hip extension and no forced lumbar hyperextension; stop well before fatigue.
 
-#### Day 4 — Friday - Competition Bench Fours / Arms
+#### Day 4 — Friday - Condo Accessories / Fun
 
-**Day intent:** Transition to competition-bench fours while keeping setup and leg-drive timing repeatable.
+**Day intent:** Keep a written five-day Boostcamp structure with low-residual-fatigue chest, shoulders, arms, and trunk work; protect Saturday deadlift by avoiding hard rows, grip work, hip thrusts, and lower-body loading.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 4 reps @ RPE 7.5-8 · 122.5kg anchor; 4 reps @ RPE 7-7.5 · 120kg anchor; 4 reps @ RPE 7-7.5 · 120kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7.5-8 · 22.5kg anchor; 10 reps @ RPE 7.5-8 · 22.5kg anchor |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 30kg anchor; 12 reps @ RPE 7-7.5 · 30kg anchor |
+| 2 | Rear Delt Fly (Cable) | 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor |
+| 3 | Lateral Raise (Cable) | 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor |
+| 4 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
+| 5 | Bicep Curl (Cable) | 10 reps @ RPE 7.5-8 · 10kg anchor; 10 reps @ RPE 7.5-8 · 10kg anchor |
+| 6 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** Build competition-bench strength through fours with repeatable setup and leg-drive timing.
-- **Chest Fly (Machine):** Maintain pec work while respecting any shoulder or elbow warning.
+- **Chest Fly (Machine):** Use the verified Boostcamp entry for the condo cable-crossover fly setup; keep the range pain-free and pec-dominant.
+- **Rear Delt Fly (Cable):** Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+- **Lateral Raise (Cable):** Maintain shoulder volume on the available cable station with stable repeated sets.
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
-- **Bicep Curl (EZ Bar):** Maintain elbow-flexor strength without provoking tendon symptoms.
+- **Bicep Curl (Cable):** Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
+- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 5 — Saturday - Sumo Fours / Light Low Bar / Spoto
 
@@ -121,70 +123,70 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 | 1 | High Bar Squat (Barbell) | 4 reps @ RPE 7-7.5 · 130kg anchor; 4 reps @ RPE 7-7.5 · 130kg anchor; 4 reps @ RPE 7-7.5 · 130kg anchor |
 | 2 | Bench Press (Paused) | 3 reps @ RPE 7-7.5 · 112.5kg anchor; 3 reps @ RPE 7-7.5 · 112.5kg anchor; 3 reps @ RPE 7-7.5 · 112.5kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8 · 30kg anchor; 5 reps @ RPE 7.5-8 · 30kg anchor; 5 reps @ RPE 7.5-8 · 30kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
 - **High Bar Squat (Barbell):** Keep knee-forward quad development active through intensification.
 - **Bench Press (Paused):** Keep long-pause bench volume active as competition work intensifies.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
-- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB Bench
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
 
-**Day intent:** Train the deadlift transition into lockout and continue primary incline progression.
+**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6.5-7 · 150kg anchor; 3 reps @ RPE 6.5-7 · 150kg anchor; 3 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
-| 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
+| 3 | Seated Row (Cable) | 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
-- **Lateral Raise (Dumbbell):** Maintain shoulder volume with stable repeated sets.
-- **Rear Delt Fly (Machine):** Maintain rear-delt strength on calibrated equipment.
+- **Seated Row (Cable):** Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
 
-#### Day 3 — Wednesday - Primary Low Bar / Legs / Back
+#### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
-**Day intent:** Use one deliberately easy competition single for skill, then express strength through triples.
+**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete limited support work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 7-7.5 · 162.5kg anchor; 3 reps @ RPE 8-8.5 · 160kg anchor; 3 reps @ RPE 7.5-8 · 157.5kg anchor; 3 reps @ RPE 7.5-8 · 157.5kg anchor |
-| 2 | Leg Extension | 10 reps @ RPE 7-7.5 · 65kg anchor; 10 reps @ RPE 7-7.5 · 65kg anchor; 10 reps @ RPE 7-7.5 · 65kg anchor |
-| 3 | Standing T Bar Row | 10 reps @ RPE 7-7.5 · 62.5kg anchor; 10 reps @ RPE 7-7.5 · 62.5kg anchor; 10 reps @ RPE 7-7.5 · 62.5kg anchor |
-| 4 | Leg Curl | 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor |
-| 5 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
+| 2 | Bench Press (Barbell) | 1 reps @ RPE 7-7.5 · 127.5kg anchor; 3 reps @ RPE 8-8.5 · 125kg anchor; 3 reps @ RPE 7.5-8 · 122.5kg anchor; 3 reps @ RPE 7.5-8 · 122.5kg anchor |
+| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
+| 4 | Leg Curl | 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor |
+| 5 | Reverse Hyperextension | 15 reps @ RPE 5-6 · 10kg anchor; 15 reps @ RPE 5-6 · 10kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Use the deliberately easy single to rehearse competition skill, then build triples without hips outrunning the chest.
-- **Leg Extension:** Keep direct quadriceps work in the strength block.
-- **Standing T Bar Row:** Maintain upper-back strength away from Saturday deadlift.
-- **Leg Curl:** Maintain knee-flexion hamstring strength.
+- **Bench Press (Barbell):** Use the deliberately easy single as setup practice, then retain enough triples to keep pressing capacity.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
+- **Leg Curl:** Maintain knee-flexion hamstring strength.
+- **Reverse Hyperextension:** Calibrate the new machine with controlled hip extension and no forced lumbar hyperextension; stop well before fatigue.
 
-#### Day 4 — Friday - Primary Competition Bench / Arms
+#### Day 4 — Friday - Condo Accessories / Fun
 
-**Day intent:** Use one deliberately easy competition single for setup skill, then express strength through triples.
+**Day intent:** Keep a written five-day Boostcamp structure with low-residual-fatigue chest, shoulders, arms, and trunk work; protect Saturday deadlift by avoiding hard rows, grip work, hip thrusts, and lower-body loading.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-7.5 · 127.5kg anchor; 3 reps @ RPE 8-8.5 · 125kg anchor; 3 reps @ RPE 7.5-8 · 122.5kg anchor; 3 reps @ RPE 7.5-8 · 122.5kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7.5-8 · 22.5kg anchor; 10 reps @ RPE 7.5-8 · 22.5kg anchor |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 30kg anchor; 12 reps @ RPE 7-7.5 · 30kg anchor |
+| 2 | Rear Delt Fly (Cable) | 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor |
+| 3 | Lateral Raise (Cable) | 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor |
+| 4 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
+| 5 | Bicep Curl (Cable) | 10 reps @ RPE 7.5-8 · 10kg anchor; 10 reps @ RPE 7.5-8 · 10kg anchor |
+| 6 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** Use the deliberately easy single as setup practice, then retain enough triples to keep pressing capacity.
-- **Chest Fly (Machine):** Maintain pec work while respecting any shoulder or elbow warning.
+- **Chest Fly (Machine):** Use the verified Boostcamp entry for the condo cable-crossover fly setup; keep the range pain-free and pec-dominant.
+- **Rear Delt Fly (Cable):** Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+- **Lateral Raise (Cable):** Maintain shoulder volume on the available cable station with stable repeated sets.
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
-- **Bicep Curl (EZ Bar):** Maintain elbow-flexor strength without provoking tendon symptoms.
+- **Bicep Curl (Cable):** Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
+- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 
@@ -221,70 +223,68 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 | 1 | High Bar Squat (Barbell) | 4 reps @ RPE 6-6.5 · 120kg anchor; 4 reps @ RPE 6-6.5 · 120kg anchor |
 | 2 | Bench Press (Paused) | 3 reps @ RPE 6.5-7 · 107.5kg anchor; 3 reps @ RPE 6.5-7 · 107.5kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
 - **High Bar Squat (Barbell):** Keep knee-forward quad development active through intensification.
 - **Bench Press (Paused):** Keep long-pause bench volume active as competition work intensifies.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
-- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB Bench
+#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
 
-**Day intent:** Train the deadlift transition into lockout and continue primary incline progression.
+**Day intent:** Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-6.5 · 145kg anchor; 2 reps @ RPE 6-6.5 · 145kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 9-9.5 · 55kg anchor; 5 reps @ RPE 7-7.5 · 50kg anchor; 5 reps @ RPE 7-7.5 · 50kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
-| 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
+| 3 | Seated Row (Cable) | 10 reps @ RPE 7-7.5 · 50.5kg anchor; 10 reps @ RPE 7-7.5 · 50.5kg anchor |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause when the bar center reaches the top edge of the kneecap, hold position, then finish with hips through rather than leaning back.
 - **Incline Bench Press (Dumbbell):** Progress incline dumbbell strength as a primary bench outcome.
-- **Lateral Raise (Dumbbell):** Maintain shoulder volume with stable repeated sets.
-- **Rear Delt Fly (Machine):** Maintain rear-delt strength on calibrated equipment.
+- **Seated Row (Cable):** Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
 
-#### Day 3 — Wednesday - Primary Low Bar / Legs / Back
+#### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
-**Day intent:** Convert retained rep strength into heavier competition-squat performance.
+**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete limited support work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 3 reps @ RPE 9-9.5 · 167.5kg anchor; 3 reps @ RPE 7-7.5 · 155kg anchor |
-| 2 | Leg Extension | 10 reps @ RPE 7-7.5 · 65kg anchor; 10 reps @ RPE 7-7.5 · 65kg anchor |
-| 3 | Standing T Bar Row | 10 reps @ RPE 7-7.5 · 62.5kg anchor; 10 reps @ RPE 7-7.5 · 62.5kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 9-9.5 · 130kg anchor; 3 reps @ RPE 7-7.5 · 120kg anchor |
+| 3 | Pull-Up (Weighted) | 4 reps @ RPE 7-7.5 · 27.5kg anchor; 4 reps @ RPE 7-7.5 · 27.5kg anchor |
 | 4 | Leg Curl | 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor |
-| 5 | Pull-Up (Weighted) | 4 reps @ RPE 7-7.5 · 27.5kg anchor; 4 reps @ RPE 7-7.5 · 27.5kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Benchmark 167.5kg for three with cleaner chest/hip timing than the prior 165kg triple.
-- **Leg Extension:** Keep direct quadriceps work in the strength block.
-- **Standing T Bar Row:** Maintain upper-back strength away from Saturday deadlift.
-- **Leg Curl:** Maintain knee-flexion hamstring strength.
+- **Bench Press (Barbell):** Complete 130kg for three with the wide grip and final-position unrack; 132.5kg is earned, not assumed.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
+- **Leg Curl:** Maintain knee-flexion hamstring strength.
 
-#### Day 4 — Friday - Primary Competition Bench / Arms
+#### Day 4 — Friday - Condo Accessories / Fun
 
-**Day intent:** Convert retained pressing volume into competition-bench strength without pre-deadlift back fatigue.
+**Day intent:** Keep a written five-day Boostcamp structure with low-residual-fatigue chest, shoulders, arms, and trunk work; protect Saturday deadlift by avoiding hard rows, grip work, hip thrusts, and lower-body loading.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 9-9.5 · 130kg anchor; 3 reps @ RPE 7-7.5 · 120kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7.5-8 · 22.5kg anchor; 10 reps @ RPE 7.5-8 · 22.5kg anchor |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7 · 30kg anchor; 12 reps @ RPE 6.5-7 · 30kg anchor |
+| 2 | Rear Delt Fly (Cable) | 15 reps @ RPE 6.5-7 · 9kg anchor; 15 reps @ RPE 6.5-7 · 9kg anchor |
+| 3 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7 · 9kg anchor; 12 reps @ RPE 6.5-7 · 9kg anchor |
+| 4 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 6.5-7 · 30kg anchor; 10 reps @ RPE 6.5-7 · 30kg anchor |
+| 5 | Bicep Curl (Cable) | 10 reps @ RPE 6.5-7 · 10kg anchor; 10 reps @ RPE 6.5-7 · 10kg anchor |
+| 6 | Cable Crunch | 12 reps @ RPE 6.5-7 · 45kg anchor; 12 reps @ RPE 6.5-7 · 45kg anchor |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** Complete 130kg for three with the wide grip and final-position unrack; 132.5kg is earned, not assumed.
-- **Chest Fly (Machine):** Maintain pec work while respecting any shoulder or elbow warning.
+- **Chest Fly (Machine):** Use the verified Boostcamp entry for the condo cable-crossover fly setup; keep the range pain-free and pec-dominant.
+- **Rear Delt Fly (Cable):** Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+- **Lateral Raise (Cable):** Maintain shoulder volume on the available cable station with stable repeated sets.
 - **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
-- **Bicep Curl (EZ Bar):** Maintain elbow-flexor strength without provoking tendon symptoms.
+- **Bicep Curl (Cable):** Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
+- **Cable Crunch:** Maintain trunk strength without interfering with primary lifts.
 
 #### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 

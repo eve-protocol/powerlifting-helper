@@ -1,8 +1,9 @@
 name: Strength Block v6
-description: Three-week athlete-specific intensification block that preserves meaningful rep work. Week 1 transitions through
-  competition-lift fours without singles, Week 2 uses one deliberately submaximal single before triples, and Week 3 tests
-  objective triple benchmarks without a calibration single. High bar, paused bench, incline DB, Spoto, pull-ups twice weekly,
-  and backoff work remain in place. Paused sumo at the top edge of the kneecap trains Ren's transition into lockout.
+description: Three-week athlete-specific intensification block that preserves meaningful rep work. Week 1 uses competition-lift
+  fours without singles, Week 2 uses one deliberately submaximal single before triples, and Week 3 tests objective triple
+  benchmarks without a calibration single. Primary low-bar squat and competition bench are consolidated on Wednesday, while
+  Friday remains a written condo accessory day. High bar, paused bench, incline dumbbells, Spoto, twice-weekly pull-ups, backoff
+  work, and paused sumo at the top edge of the kneecap remain in place.
 weeks: 3
 days_per_week: 5
 planned_start_date: '2026-09-07'
@@ -76,30 +77,10 @@ workouts:
       - 7.5
       - 8
       target_weight_kg: 27.5
-  - name: Cable Crunch
-    intent: Maintain trunk strength without interfering with primary lifts.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    equipment_dependent: true
 - week: 1
   day: 2
-  name: Tuesday - Paused Sumo at Knee / Incline DB Bench
-  intent: Train the deadlift transition into lockout and continue primary incline progression.
+  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
+  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -141,44 +122,31 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 50
-  - name: Lateral Raise (Dumbbell)
-    intent: Maintain shoulder volume with stable repeated sets.
+  - name: Seated Row (Cable)
+    intent: Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
     role: accessory
     sets:
-    - target: 12
+    - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
-    - target: 12
+      target_weight_kg: 50.5
+    - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
-    - target: 12
+      target_weight_kg: 50.5
+    - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
-  - name: Rear Delt Fly (Machine)
-    intent: Maintain rear-delt strength on calibrated equipment.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 40
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 40
+      target_weight_kg: 50.5
     equipment_dependent: true
 - week: 1
   day: 3
-  name: Wednesday - Low Bar Fours / Legs / Back
-  intent: Transition to competition-squat fours without spending fatigue on a preliminary single.
+  name: Wednesday - Primary Low Bar / Competition Bench
+  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete
+    limited support work.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -200,86 +168,6 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 152.5
-  - name: Leg Extension
-    intent: Keep direct quadriceps work in the strength block.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    equipment_dependent: true
-  - name: Standing T Bar Row
-    intent: Maintain upper-back strength away from Saturday deadlift.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    equipment_dependent: true
-  - name: Leg Curl
-    intent: Maintain knee-flexion hamstring strength.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    equipment_dependent: true
-  - name: Pull-Up (Weighted)
-    intent: Progress weighted pull-up strength without compromising the next primary lift.
-    role: secondary_goal
-    sets:
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 27.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 27.5
-- week: 1
-  day: 4
-  name: Friday - Competition Bench Fours / Arms
-  intent: Transition to competition-bench fours while keeping setup and leg-drive timing repeatable.
-  priority: required
-  exercises:
   - name: Bench Press (Barbell)
     intent: Build competition-bench strength through fours with repeatable setup and leg-drive timing.
     role: competition_lift
@@ -299,20 +187,122 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 120
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 27.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 27.5
+  - name: Belt Squat
+    intent: Replace the poor leg-extension setup with low-axial-load quadriceps work; calibrate the new machine conservatively.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 40
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 40
+    equipment_dependent: true
+  - name: Leg Curl
+    intent: Maintain knee-flexion hamstring strength.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 30
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 30
+    equipment_dependent: true
+  - name: Reverse Hyperextension
+    intent: Calibrate the new machine with controlled hip extension and no forced lumbar hyperextension; stop well before
+      fatigue.
+    role: accessory
+    sets:
+    - target: 15
+      rpe:
+      - 5
+      - 6
+      target_weight_kg: 10
+    - target: 15
+      rpe:
+      - 5
+      - 6
+      target_weight_kg: 10
+    equipment_dependent: true
+- week: 1
+  day: 4
+  name: Friday - Condo Accessories / Fun
+  intent: Keep a written five-day Boostcamp structure with low-residual-fatigue chest, shoulders, arms, and trunk work; protect
+    Saturday deadlift by avoiding hard rows, grip work, hip thrusts, and lower-body loading.
+  priority: required
+  exercises:
   - name: Chest Fly (Machine)
-    intent: Maintain pec work while respecting any shoulder or elbow warning.
+    intent: Use the verified Boostcamp entry for the condo cable-crossover fly setup; keep the range pain-free and pec-dominant.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 85
+      target_weight_kg: 30
     - target: 12
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 85
+      target_weight_kg: 30
+    equipment_dependent: true
+  - name: Rear Delt Fly (Cable)
+    intent: Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+    role: accessory
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
+    equipment_dependent: true
+  - name: Lateral Raise (Cable)
+    intent: Maintain shoulder volume on the available cable station with stable repeated sets.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
     equipment_dependent: true
   - name: Overhead Tricep Extension (Cable)
     intent: Build triceps strength with early load drops after an RPE-8 set.
@@ -334,20 +324,41 @@ workouts:
       - 8
       target_weight_kg: 30
     equipment_dependent: true
-  - name: Bicep Curl (EZ Bar)
-    intent: Maintain elbow-flexor strength without provoking tendon symptoms.
+  - name: Bicep Curl (Cable)
+    intent: Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 22.5
+      target_weight_kg: 10
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 22.5
+      target_weight_kg: 10
+    equipment_dependent: true
+  - name: Cable Crunch
+    intent: Maintain trunk strength without interfering with primary lifts.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    equipment_dependent: true
 - week: 1
   day: 5
   name: Saturday - Sumo Fours / Light Low Bar / Spoto
@@ -464,30 +475,10 @@ workouts:
       - 7.5
       - 8
       target_weight_kg: 30
-  - name: Cable Crunch
-    intent: Maintain trunk strength without interfering with primary lifts.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    equipment_dependent: true
 - week: 2
   day: 2
-  name: Tuesday - Paused Sumo at Knee / Incline DB Bench
-  intent: Train the deadlift transition into lockout and continue primary incline progression.
+  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
+  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -529,48 +520,36 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 52.5
-  - name: Lateral Raise (Dumbbell)
-    intent: Maintain shoulder volume with stable repeated sets.
+  - name: Seated Row (Cable)
+    intent: Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
     role: accessory
     sets:
-    - target: 12
+    - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
-    - target: 12
+      target_weight_kg: 50.5
+    - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
-    - target: 12
+      target_weight_kg: 50.5
+    - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
-  - name: Rear Delt Fly (Machine)
-    intent: Maintain rear-delt strength on calibrated equipment.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 40
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 40
+      target_weight_kg: 50.5
     equipment_dependent: true
 - week: 2
   day: 3
-  name: Wednesday - Primary Low Bar / Legs / Back
-  intent: Use one deliberately easy competition single for skill, then express strength through triples.
+  name: Wednesday - Primary Low Bar / Competition Bench
+  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete
+    limited support work.
   priority: required
   exercises:
   - name: Squat (Low Bar)
-    intent: Use the deliberately easy single to rehearse competition skill, then build triples without hips outrunning the chest.
+    intent: Use the deliberately easy single to rehearse competition skill, then build triples without hips outrunning the
+      chest.
     role: competition_lift
     sets:
     - target: 1
@@ -593,86 +572,6 @@ workouts:
       - 7.5
       - 8
       target_weight_kg: 157.5
-  - name: Leg Extension
-    intent: Keep direct quadriceps work in the strength block.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    equipment_dependent: true
-  - name: Standing T Bar Row
-    intent: Maintain upper-back strength away from Saturday deadlift.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 62.5
-    equipment_dependent: true
-  - name: Leg Curl
-    intent: Maintain knee-flexion hamstring strength.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    equipment_dependent: true
-  - name: Pull-Up (Weighted)
-    intent: Progress weighted pull-up strength without compromising the next primary lift.
-    role: secondary_goal
-    sets:
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 27.5
-    - target: 5
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 27.5
-- week: 2
-  day: 4
-  name: Friday - Primary Competition Bench / Arms
-  intent: Use one deliberately easy competition single for setup skill, then express strength through triples.
-  priority: required
-  exercises:
   - name: Bench Press (Barbell)
     intent: Use the deliberately easy single as setup practice, then retain enough triples to keep pressing capacity.
     role: competition_lift
@@ -697,20 +596,107 @@ workouts:
       - 7.5
       - 8
       target_weight_kg: 122.5
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
+    sets:
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 27.5
+    - target: 5
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 27.5
+  - name: Leg Curl
+    intent: Maintain knee-flexion hamstring strength.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 30
+    - target: 10
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 30
+    equipment_dependent: true
+  - name: Reverse Hyperextension
+    intent: Calibrate the new machine with controlled hip extension and no forced lumbar hyperextension; stop well before
+      fatigue.
+    role: accessory
+    sets:
+    - target: 15
+      rpe:
+      - 5
+      - 6
+      target_weight_kg: 10
+    - target: 15
+      rpe:
+      - 5
+      - 6
+      target_weight_kg: 10
+    equipment_dependent: true
+- week: 2
+  day: 4
+  name: Friday - Condo Accessories / Fun
+  intent: Keep a written five-day Boostcamp structure with low-residual-fatigue chest, shoulders, arms, and trunk work; protect
+    Saturday deadlift by avoiding hard rows, grip work, hip thrusts, and lower-body loading.
+  priority: required
+  exercises:
   - name: Chest Fly (Machine)
-    intent: Maintain pec work while respecting any shoulder or elbow warning.
+    intent: Use the verified Boostcamp entry for the condo cable-crossover fly setup; keep the range pain-free and pec-dominant.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 85
+      target_weight_kg: 30
     - target: 12
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 85
+      target_weight_kg: 30
+    equipment_dependent: true
+  - name: Rear Delt Fly (Cable)
+    intent: Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+    role: accessory
+    sets:
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
+    - target: 15
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
+    equipment_dependent: true
+  - name: Lateral Raise (Cable)
+    intent: Maintain shoulder volume on the available cable station with stable repeated sets.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 9
     equipment_dependent: true
   - name: Overhead Tricep Extension (Cable)
     intent: Build triceps strength with early load drops after an RPE-8 set.
@@ -732,20 +718,41 @@ workouts:
       - 8
       target_weight_kg: 30
     equipment_dependent: true
-  - name: Bicep Curl (EZ Bar)
-    intent: Maintain elbow-flexor strength without provoking tendon symptoms.
+  - name: Bicep Curl (Cable)
+    intent: Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 22.5
+      target_weight_kg: 10
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 22.5
+      target_weight_kg: 10
+    equipment_dependent: true
+  - name: Cable Crunch
+    intent: Maintain trunk strength without interfering with primary lifts.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
+      target_weight_kg: 45
+    equipment_dependent: true
 - week: 2
   day: 5
   name: Saturday - Primary Sumo / Light Low Bar / Spoto
@@ -852,25 +859,10 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 27.5
-  - name: Cable Crunch
-    intent: Maintain trunk strength without interfering with primary lifts.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 45
-    equipment_dependent: true
 - week: 3
   day: 2
-  name: Tuesday - Paused Sumo at Knee / Incline DB Bench
-  intent: Train the deadlift transition into lockout and continue primary incline progression.
+  name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
+  intent: Train the deadlift transition, progress incline dumbbells, and maintain supported upper-back strength.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -907,39 +899,26 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 50
-  - name: Lateral Raise (Dumbbell)
-    intent: Maintain shoulder volume with stable repeated sets.
+  - name: Seated Row (Cable)
+    intent: Maintain upper-back strength with torso support and less lower-back fatigue than the prior standing row.
     role: accessory
     sets:
-    - target: 12
+    - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
-    - target: 12
+      target_weight_kg: 50.5
+    - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
-  - name: Rear Delt Fly (Machine)
-    intent: Maintain rear-delt strength on calibrated equipment.
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 40
-    - target: 12
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 40
+      target_weight_kg: 50.5
     equipment_dependent: true
 - week: 3
   day: 3
-  name: Wednesday - Primary Low Bar / Legs / Back
-  intent: Convert retained rep strength into heavier competition-squat performance.
+  name: Wednesday - Primary Low Bar / Competition Bench
+  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete
+    limited support work.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -956,36 +935,34 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 155
-  - name: Leg Extension
-    intent: Keep direct quadriceps work in the strength block.
-    role: accessory
+  - name: Bench Press (Barbell)
+    intent: Complete 130kg for three with the wide grip and final-position unrack; 132.5kg is earned, not assumed.
+    role: competition_lift
     sets:
-    - target: 10
+    - target: 3
+      rpe:
+      - 9
+      - 9.5
+      target_weight_kg: 130
+    - target: 3
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 65
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 65
-    equipment_dependent: true
-  - name: Standing T Bar Row
-    intent: Maintain upper-back strength away from Saturday deadlift.
-    role: accessory
+      target_weight_kg: 120
+  - name: Pull-Up (Weighted)
+    intent: Progress weighted pull-up strength without compromising the next primary lift.
+    role: secondary_goal
     sets:
-    - target: 10
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 62.5
-    - target: 10
+      target_weight_kg: 27.5
+    - target: 4
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 62.5
-    equipment_dependent: true
+      target_weight_kg: 27.5
   - name: Leg Curl
     intent: Maintain knee-flexion hamstring strength.
     role: accessory
@@ -1001,54 +978,57 @@ workouts:
       - 7.5
       target_weight_kg: 30
     equipment_dependent: true
-  - name: Pull-Up (Weighted)
-    intent: Progress weighted pull-up strength without compromising the next primary lift.
-    role: secondary_goal
-    sets:
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 27.5
-    - target: 4
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 27.5
 - week: 3
   day: 4
-  name: Friday - Primary Competition Bench / Arms
-  intent: Convert retained pressing volume into competition-bench strength without pre-deadlift back fatigue.
+  name: Friday - Condo Accessories / Fun
+  intent: Keep a written five-day Boostcamp structure with low-residual-fatigue chest, shoulders, arms, and trunk work; protect
+    Saturday deadlift by avoiding hard rows, grip work, hip thrusts, and lower-body loading.
   priority: required
   exercises:
-  - name: Bench Press (Barbell)
-    intent: Complete 130kg for three with the wide grip and final-position unrack; 132.5kg is earned, not assumed.
-    role: competition_lift
-    sets:
-    - target: 3
-      rpe:
-      - 9
-      - 9.5
-      target_weight_kg: 130
-    - target: 3
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 120
   - name: Chest Fly (Machine)
-    intent: Maintain pec work while respecting any shoulder or elbow warning.
+    intent: Use the verified Boostcamp entry for the condo cable-crossover fly setup; keep the range pain-free and pec-dominant.
     role: accessory
     sets:
     - target: 12
       rpe:
+      - 6.5
       - 7
-      - 7.5
-      target_weight_kg: 85
+      target_weight_kg: 30
     - target: 12
       rpe:
+      - 6.5
       - 7
-      - 7.5
-      target_weight_kg: 85
+      target_weight_kg: 30
+    equipment_dependent: true
+  - name: Rear Delt Fly (Cable)
+    intent: Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+    role: accessory
+    sets:
+    - target: 15
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 9
+    - target: 15
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 9
+    equipment_dependent: true
+  - name: Lateral Raise (Cable)
+    intent: Maintain shoulder volume on the available cable station with stable repeated sets.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 9
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 9
     equipment_dependent: true
   - name: Overhead Tricep Extension (Cable)
     intent: Build triceps strength with early load drops after an RPE-8 set.
@@ -1056,29 +1036,45 @@ workouts:
     sets:
     - target: 10
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
       target_weight_kg: 30
     - target: 10
       rpe:
-      - 7.5
-      - 8
+      - 6.5
+      - 7
       target_weight_kg: 30
     equipment_dependent: true
-  - name: Bicep Curl (EZ Bar)
-    intent: Maintain elbow-flexor strength without provoking tendon symptoms.
+  - name: Bicep Curl (Cable)
+    intent: Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 22.5
+      - 6.5
+      - 7
+      target_weight_kg: 10
     - target: 10
       rpe:
-      - 7.5
-      - 8
-      target_weight_kg: 22.5
+      - 6.5
+      - 7
+      target_weight_kg: 10
+    equipment_dependent: true
+  - name: Cable Crunch
+    intent: Maintain trunk strength without interfering with primary lifts.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 45
+    - target: 12
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 45
+    equipment_dependent: true
 - week: 3
   day: 5
   name: Saturday - Primary Sumo / Light Low Bar / Spoto
