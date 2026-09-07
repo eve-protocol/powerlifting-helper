@@ -12,21 +12,23 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 ### Week 1
 
-#### Day 1 — Monday - Specific Squat / Paused Bench / Pull-Ups
+#### Day 1 — Monday - Specific Squat / Paused Bench / Pull-Ups / Hack Squat
 
-**Day intent:** Retain useful rep work while reducing fatigue and increasing competition specificity.
+**Day intent:** Retain useful rep work while reducing fatigue and increasing competition specificity, then preserve one low-cost quadriceps-support exposure before accessory volume is removed later in the peak.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5 · 145kg anchor; 3 reps @ RPE 6-6.5 · 145kg anchor |
 | 2 | Bench Press (Paused) | 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 25kg anchor; 5 reps @ RPE 7-7.5 · 25kg anchor |
+| 4 | Hack Squat | 10 reps @ RPE 6-6.5 · 20kg anchor; 10 reps @ RPE 6-6.5 · 20kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Keep competition-squat positions active without adding a second heavy squat day.
 - **Bench Press (Paused):** Retain long-pause pressing strength through controlled triples.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
+- **Hack Squat:** Preserve quadriceps support with a calibrated machine pattern at low effort; stop well before soreness-producing fatigue and do not progress load simply because the sets feel easy.
 
 #### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
 

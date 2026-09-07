@@ -34,8 +34,9 @@ attempt_policy:
 workouts:
 - week: 1
   day: 1
-  name: Monday - Specific Squat / Paused Bench / Pull-Ups
-  intent: Retain useful rep work while reducing fatigue and increasing competition specificity.
+  name: Monday - Specific Squat / Paused Bench / Pull-Ups / Hack Squat
+  intent: Retain useful rep work while reducing fatigue and increasing competition specificity, then preserve one low-cost
+    quadriceps-support exposure before accessory volume is removed later in the peak.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -85,6 +86,22 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 25
+  - name: Hack Squat
+    intent: Preserve quadriceps support with a calibrated machine pattern at low effort; stop well before soreness-producing
+      fatigue and do not progress load simply because the sets feel easy.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 20
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 20
+    equipment_dependent: true
 - week: 1
   day: 2
   name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
