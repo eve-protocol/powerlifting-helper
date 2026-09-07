@@ -1,8 +1,8 @@
 name: Peaking Block v8
-description: Three-week athlete-specific realization block. Week 1 expresses heavier singles while retaining doubles and
-  primary incline work. Week 2 places the final heavy squat and bench ten days before the mock meet and the final heavy deadlift
-  seven days before it. Weeks 1-2 retain a written low-fatigue Friday condo accessory day; Week 3 reduces volume substantially
-  and keeps mock-meet-week Friday as full rest. No @9.5 single and no repeated proof attempt.
+description: Three-week athlete-specific realization block. Week 1 expresses heavier singles while retaining doubles and primary
+  incline work. Week 2 places the final heavy squat and bench ten days before the mock meet and the final heavy deadlift seven
+  days before it. Weeks 1-2 retain a written low-fatigue Friday condo accessory day; Week 3 reduces volume substantially and
+  keeps mock-meet-week Friday as full rest. No @9.5 single and no repeated proof attempt.
 weeks: 3
 days_per_week: 5
 planned_start_date: '2026-09-28'
@@ -142,8 +142,8 @@ workouts:
 - week: 1
   day: 3
   name: Wednesday - Heavy Low Bar / Competition Bench
-  intent: Perform the heavy squat and bench exposures in meet order, with no accessory work between them; then complete only
-    the support work that cannot compromise Saturday pulling.
+  intent: Perform the heavy squat and bench exposures in meet order, with no accessory work between them; cap the session
+    at two support movements afterward.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -463,8 +463,8 @@ workouts:
 - week: 2
   day: 3
   name: Wednesday - Heavy Low Bar / Competition Bench
-  intent: Perform the heavy squat and bench exposures in meet order, with no accessory work between them; then complete only
-    the support work that cannot compromise Saturday pulling.
+  intent: Perform the heavy squat and bench exposures in meet order, with no accessory work between them; cap the session
+    at two support movements afterward.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -795,7 +795,8 @@ workouts:
 - week: 3
   day: 3
   name: Wednesday - Taper Squat / Bench Technique / Pull-Ups
-  intent: Use the final squat and bench touches to confirm commands and positions, not readiness.
+  intent: Use the final squat and bench touches to confirm commands and positions, then complete no more than two low-fatigue
+    support movements.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -826,21 +827,6 @@ workouts:
       - 6
       - 6.5
       target_weight_kg: 120
-  - name: Leg Extension
-    intent: Keep light quadriceps work without soreness.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 6
-      - 6.5
-      target_weight_kg: 50
-    - target: 10
-      rpe:
-      - 6
-      - 6.5
-      target_weight_kg: 50
-    equipment_dependent: true
   - name: Leg Curl
     intent: Keep light hamstring work without soreness.
     role: accessory

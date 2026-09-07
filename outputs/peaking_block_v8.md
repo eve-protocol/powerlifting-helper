@@ -46,7 +46,7 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 #### Day 3 — Wednesday - Heavy Low Bar / Competition Bench
 
-**Day intent:** Perform the heavy squat and bench exposures in meet order, with no accessory work between them; then complete only the support work that cannot compromise Saturday pulling.
+**Day intent:** Perform the heavy squat and bench exposures in meet order, with no accessory work between them; cap the session at two support movements afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -144,7 +144,7 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 #### Day 3 — Wednesday - Heavy Low Bar / Competition Bench
 
-**Day intent:** Perform the heavy squat and bench exposures in meet order, with no accessory work between them; then complete only the support work that cannot compromise Saturday pulling.
+**Day intent:** Perform the heavy squat and bench exposures in meet order, with no accessory work between them; cap the session at two support movements afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -244,21 +244,19 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 #### Day 3 — Wednesday - Taper Squat / Bench Technique / Pull-Ups
 
-**Day intent:** Use the final squat and bench touches to confirm commands and positions, not readiness.
+**Day intent:** Use the final squat and bench touches to confirm commands and positions, then complete no more than two low-fatigue support movements.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 6-6.5 · 145kg anchor; 1 reps @ RPE 6-6.5 · 145kg anchor |
 | 2 | Bench Press (Barbell) | 1 reps @ RPE 6-6.5 · 120kg anchor; 1 reps @ RPE 6-6.5 · 120kg anchor |
-| 3 | Leg Extension | 10 reps @ RPE 6-6.5 · 50kg anchor; 10 reps @ RPE 6-6.5 · 50kg anchor |
-| 4 | Leg Curl | 10 reps @ RPE 6-6.5 · 20kg anchor; 10 reps @ RPE 6-6.5 · 20kg anchor |
-| 5 | Pull-Up (Weighted) | 4 reps @ RPE 6-6.5 · 15kg anchor; 4 reps @ RPE 6-6.5 · 15kg anchor |
+| 3 | Leg Curl | 10 reps @ RPE 6-6.5 · 20kg anchor; 10 reps @ RPE 6-6.5 · 20kg anchor |
+| 4 | Pull-Up (Weighted) | 4 reps @ RPE 6-6.5 · 15kg anchor; 4 reps @ RPE 6-6.5 · 15kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Finish the final squat exposure with competition commands and clean positions.
 - **Bench Press (Barbell):** Perform two clean command-style singles, then take Thursday and Friday away from benching.
-- **Leg Extension:** Keep light quadriceps work without soreness.
 - **Leg Curl:** Keep light hamstring work without soreness.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 

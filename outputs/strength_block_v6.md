@@ -12,21 +12,23 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 ### Week 1
 
-#### Day 1 — Monday - High Bar / Paused Bench / Pull-Ups
+#### Day 1 — Monday - High Bar / Paused Bench / Pull-Ups / Belt Squat
 
-**Day intent:** Retain rep strength and developmental squat work while competition intensity rises.
+**Day intent:** Retain rep strength and developmental squat work while introducing the belt squat away from the combined primary day.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | High Bar Squat (Barbell) | 5 reps @ RPE 6.5-7 · 125kg anchor; 5 reps @ RPE 6.5-7 · 125kg anchor; 5 reps @ RPE 6.5-7 · 125kg anchor |
 | 2 | Bench Press (Paused) | 4 reps @ RPE 7-7.5 · 110kg anchor; 4 reps @ RPE 7-7.5 · 110kg anchor; 4 reps @ RPE 7-7.5 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8 · 27.5kg anchor; 5 reps @ RPE 7.5-8 · 27.5kg anchor; 5 reps @ RPE 7.5-8 · 27.5kg anchor |
+| 4 | Belt Squat | 10 reps @ RPE 6.5-7 · 40kg anchor; 10 reps @ RPE 6.5-7 · 40kg anchor |
 
 **Why these movements:**
 
 - **High Bar Squat (Barbell):** Keep knee-forward quad development active through intensification.
 - **Bench Press (Paused):** Keep long-pause bench volume active as competition work intensifies.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
+- **Belt Squat:** Replace the poor leg-extension setup with low-axial-load quadriceps work; calibrate the new machine conservatively.
 
 #### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
 
@@ -46,24 +48,20 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 #### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
-**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete limited support work.
+**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; cap the session at two support movements afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 4 reps @ RPE 7.5-8 · 157.5kg anchor; 4 reps @ RPE 7-7.5 · 152.5kg anchor; 4 reps @ RPE 7-7.5 · 152.5kg anchor |
 | 2 | Bench Press (Barbell) | 4 reps @ RPE 7.5-8 · 122.5kg anchor; 4 reps @ RPE 7-7.5 · 120kg anchor; 4 reps @ RPE 7-7.5 · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 4 | Belt Squat | 10 reps @ RPE 6.5-7 · 40kg anchor; 10 reps @ RPE 6.5-7 · 40kg anchor |
-| 5 | Leg Curl | 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor |
-| 6 | Reverse Hyperextension | 15 reps @ RPE 5-6 · 10kg anchor; 15 reps @ RPE 5-6 · 10kg anchor |
+| 4 | Reverse Hyperextension | 15 reps @ RPE 5-6 · 10kg anchor; 15 reps @ RPE 5-6 · 10kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Build competition-squat strength through fours without hips outrunning the chest.
 - **Bench Press (Barbell):** Build competition-bench strength through fours with repeatable setup and leg-drive timing.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
-- **Belt Squat:** Replace the poor leg-extension setup with low-axial-load quadriceps work; calibrate the new machine conservatively.
-- **Leg Curl:** Maintain knee-flexion hamstring strength.
 - **Reverse Hyperextension:** Calibrate the new machine with controlled hip extension and no forced lumbar hyperextension; stop well before fatigue.
 
 #### Day 4 — Friday - Condo Accessories / Fun
@@ -148,22 +146,20 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 #### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
-**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete limited support work.
+**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; cap the session at two support movements afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 7-7.5 · 162.5kg anchor; 3 reps @ RPE 8-8.5 · 160kg anchor; 3 reps @ RPE 7.5-8 · 157.5kg anchor; 3 reps @ RPE 7.5-8 · 157.5kg anchor |
 | 2 | Bench Press (Barbell) | 1 reps @ RPE 7-7.5 · 127.5kg anchor; 3 reps @ RPE 8-8.5 · 125kg anchor; 3 reps @ RPE 7.5-8 · 122.5kg anchor; 3 reps @ RPE 7.5-8 · 122.5kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 4 | Leg Curl | 10 reps @ RPE 7-7.5 · 30kg anchor; 10 reps @ RPE 7-7.5 · 30kg anchor |
-| 5 | Reverse Hyperextension | 15 reps @ RPE 5-6 · 10kg anchor; 15 reps @ RPE 5-6 · 10kg anchor |
+| 4 | Reverse Hyperextension | 15 reps @ RPE 5-6 · 10kg anchor; 15 reps @ RPE 5-6 · 10kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Use the deliberately easy single to rehearse competition skill, then build triples without hips outrunning the chest.
 - **Bench Press (Barbell):** Use the deliberately easy single as setup practice, then retain enough triples to keep pressing capacity.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
-- **Leg Curl:** Maintain knee-flexion hamstring strength.
 - **Reverse Hyperextension:** Calibrate the new machine with controlled hip extension and no forced lumbar hyperextension; stop well before fatigue.
 
 #### Day 4 — Friday - Condo Accessories / Fun
@@ -248,7 +244,7 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 #### Day 3 — Wednesday - Primary Low Bar / Competition Bench
 
-**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete limited support work.
+**Day intent:** Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; cap the session at two support movements afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|

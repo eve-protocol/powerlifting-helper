@@ -241,6 +241,10 @@ accessories:
     Friday is a written condo accessory session for chest, shoulders, arms, and trunk. It is a
     redistribution of existing support work, not permission to add hard rows, grip work, hip thrusts,
     belt squats, hack squats, or reverse hypers before Saturday deadlift.
+  combined_big3_rule: >
+    When two of the Big 3 are trained in the same session, perform them consecutively in the planned
+    order with no accessory work between them, then cap the remainder of the session at two
+    accessory or support exercises.
   exercise_name_rule: >
     Program YAML may use only exact Boostcamp exercise names verified in current programs, synced
     history, or directly supplied by Ren. Never invent or normalize an unseen exercise name.

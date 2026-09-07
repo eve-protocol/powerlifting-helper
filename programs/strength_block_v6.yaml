@@ -16,8 +16,9 @@ load_policy:
 workouts:
 - week: 1
   day: 1
-  name: Monday - High Bar / Paused Bench / Pull-Ups
-  intent: Retain rep strength and developmental squat work while competition intensity rises.
+  name: Monday - High Bar / Paused Bench / Pull-Ups / Belt Squat
+  intent: Retain rep strength and developmental squat work while introducing the belt squat away from the combined primary
+    day.
   priority: required
   exercises:
   - name: High Bar Squat (Barbell)
@@ -77,6 +78,21 @@ workouts:
       - 7.5
       - 8
       target_weight_kg: 27.5
+  - name: Belt Squat
+    intent: Replace the poor leg-extension setup with low-axial-load quadriceps work; calibrate the new machine conservatively.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 40
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 40
+    equipment_dependent: true
 - week: 1
   day: 2
   name: Tuesday - Paused Sumo at Knee / Incline DB / Supported Row
@@ -145,8 +161,8 @@ workouts:
 - week: 1
   day: 3
   name: Wednesday - Primary Low Bar / Competition Bench
-  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete
-    limited support work.
+  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; cap the
+    session at two support movements afterward.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -201,36 +217,6 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 27.5
-  - name: Belt Squat
-    intent: Replace the poor leg-extension setup with low-axial-load quadriceps work; calibrate the new machine conservatively.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 6.5
-      - 7
-      target_weight_kg: 40
-    - target: 10
-      rpe:
-      - 6.5
-      - 7
-      target_weight_kg: 40
-    equipment_dependent: true
-  - name: Leg Curl
-    intent: Maintain knee-flexion hamstring strength.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    equipment_dependent: true
   - name: Reverse Hyperextension
     intent: Calibrate the new machine with controlled hip extension and no forced lumbar hyperextension; stop well before
       fatigue.
@@ -543,8 +529,8 @@ workouts:
 - week: 2
   day: 3
   name: Wednesday - Primary Low Bar / Competition Bench
-  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete
-    limited support work.
+  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; cap the
+    session at two support movements afterward.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -610,21 +596,6 @@ workouts:
       - 7
       - 7.5
       target_weight_kg: 27.5
-  - name: Leg Curl
-    intent: Maintain knee-flexion hamstring strength.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 7
-      - 7.5
-      target_weight_kg: 30
-    equipment_dependent: true
   - name: Reverse Hyperextension
     intent: Calibrate the new machine with controlled hip extension and no forced lumbar hyperextension; stop well before
       fatigue.
@@ -917,8 +888,8 @@ workouts:
 - week: 3
   day: 3
   name: Wednesday - Primary Low Bar / Competition Bench
-  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; then complete
-    limited support work.
+  intent: Perform primary low-bar squat and competition bench in meet order, with no accessory work between them; cap the
+    session at two support movements afterward.
   priority: required
   exercises:
   - name: Squat (Low Bar)
