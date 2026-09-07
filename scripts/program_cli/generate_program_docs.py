@@ -60,7 +60,9 @@ def render_program(program: dict) -> str:
         "Deadlift": ["Deadlift"],
     }
 
-    def is_big3(ex_name: str) -> str | None:
+    def is_big3(ex_name: str, role: str | None = None) -> str | None:
+        if role == "accessory":
+            return None
         for lift, patterns in big3_patterns.items():
             if any(p in ex_name for p in patterns):
                 return lift
@@ -101,7 +103,7 @@ def render_program(program: dict) -> str:
                     exercise_intents.append((ex_name, ex["intent"]))
 
                 # Count big 3 sets/reps
-                lift = is_big3(ex_name)
+                lift = is_big3(ex_name, ex.get("role"))
                 if lift:
                     ex_sets = ex.get("sets", [])
                     week_big3[lift]["sets"] += len(ex_sets)
