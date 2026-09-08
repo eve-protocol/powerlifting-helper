@@ -3,6 +3,35 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-08
+
+**Week 1 · Day 2**
+Finished: 2026-09-08 10:05:39
+
+### Sumo Deadlift (Paused)
+
+  Set 1: 150.0kg x 4 [target RPE: 6-6.5] [est_stress=232, real_stress=-]
+  Set 2: 155.0kg x 4 @ RPE 6 [target RPE: 6-6.5] [est_stress=256, real_stress=242]
+  Set 3: 160.0kg x 4 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=282, real_stress=297]
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 45.5kg x 6 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=25, real_stress=21]
+  Set 2: 45.5kg x 6 @ RPE 6 [target RPE: 7-7.5] [est_stress=25, real_stress=19]
+  Set 3: 50.0kg x 6 @ RPE 9.5 [target RPE: 7-7.5] [est_stress=33, real_stress=52]
+
+### Seated Row (Cable)
+
+  Set 1: 50.5kg x 10 @ RPE 7 [target RPE: 7-7.5]
+  Set 2: 50.5kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 3: 50.5kg x 10 @ RPE 8.5 [target RPE: 7-7.5]
+
+### Cable Crunch
+
+  Set 1: 93.5kg x 15 @ RPE 7 [target: 12 reps, target RPE: 7-7.5]
+  Set 2: 95.5kg x 12 @ RPE 7 [target RPE: 7-7.5]
+  Set 3: 95.5kg x 12 @ RPE 8 [target RPE: 7-7.5]
+
 ## 2026-09-07
 
 ### Health / Recovery
