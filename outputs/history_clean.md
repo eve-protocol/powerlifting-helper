@@ -3,6 +3,37 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-09
+
+### Health / Recovery
+
+- Total kcal burned: 152
+
+**Week 1 · Day 3**
+Finished: 2026-09-09 15:42:26
+
+### Squat (Low Bar)
+
+  Set 1: 157.5kg x 4 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=471, real_stress=546]
+  Set 2: 150.0kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=364, real_stress=386]
+  Set 3: 150.0kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=364, real_stress=386]
+
+### Bench Press (Barbell)
+
+  Set 1: 122.5kg x 3 @ RPE 8.5 [target: 4 reps, target RPE: 7.5-8] [est_stress=356, real_stress=310]
+  Set 2: 115.0kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=264, real_stress=279]
+  Set 3: 115.0kg x 4 @ RPE 8.5 [target RPE: 7-7.5] [est_stress=264, real_stress=341]
+
+### Pull-Up (Weighted)
+
+  Set 1: 27.5kg x 5 @ RPE 7 [target RPE: 7-7.5]
+  Set 2: 27.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+
+### Reverse Hyperextension
+
+  Set 1: 30.0kg x 15 @ RPE 8 [target RPE: 5-6]
+  Set 2: 25.0kg x 15 @ RPE 8 [target RPE: 5-6]
+
 ## 2026-09-08
 
 ### Health / Recovery
