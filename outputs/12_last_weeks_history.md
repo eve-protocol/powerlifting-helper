@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-06-22 to 2026-09-09
+**Period:** 2026-06-22 to 2026-09-11
 ---
 
 ## Format Guide
@@ -242,6 +242,36 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 **Reverse Hyperextension**
 - Set 1: 15 × 30kg @ RPE 8 [target_reps=15, target_intensity=[5, 6]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 15 × 25kg @ RPE 8 [target_reps=15, target_intensity=[5, 6]RPE_range; est_stress=-; real_stress=-]
+
+### 2026-09-11 (Friday)
+
+### Health / Recovery
+
+- Total kcal burned: 300
+
+**Chest Fly (Machine)**
+- Set 1: 12 × 35kg @ RPE 6.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 12 × 35kg @ RPE 7.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Rear Delt Fly (Cable)**
+- Set 1: 15 × 5kg @ RPE 6 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 15 × 5kg @ RPE 6 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Lateral Raise (Cable)**
+- Exercise notes: Getting used to the cable machine in the condo. Right arm significantly stronger felt ok on 15, but went back to 10 for the left arm
+- Set 1: 12 × 10kg @ RPE 6.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 12 × 15kg @ RPE 9 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 12 × 10kg @ RPE 6.5 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Tricep Pushdown (Cable)**
+- Set 1: 10 × 47kg @ RPE 6.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 55kg @ RPE 7.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 10 × 55kg @ RPE 7 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+
+**Preacher Curl (Dumbbell)**
+- Exercise notes: I really don't like the preacher curl they hurt my elbow, I can't do cable here there is no handle for that. I can do dumbbell curls while sitting or standing up or normal bar curls ( no ez bar curl )
+- Set 1: 10 × 9kg @ RPE 6.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 11kg @ RPE 8 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
 
 ---
 

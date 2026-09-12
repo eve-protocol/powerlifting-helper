@@ -3,6 +3,46 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-11
+
+### Health / Recovery
+
+- Total kcal burned: 300
+
+**Week 1 · Day 4**
+Finished: 2026-09-11 17:41:35
+
+### Chest Fly (Machine)
+
+  Set 1: 35.0kg x 12 @ RPE 6.5 [target RPE: 7-7.5]
+  Set 2: 35.0kg x 12 @ RPE 7.5 [target RPE: 7-7.5]
+
+### Rear Delt Fly (Cable)
+
+  Set 1: 5.0kg x 15 @ RPE 6 [target RPE: 7-7.5]
+  Set 2: 5.0kg x 15 @ RPE 6 [target RPE: 7-7.5]
+
+### Lateral Raise (Cable)
+
+Exercise notes: Getting used to the cable machine in the condo. Right arm significantly stronger felt ok on 15, but went back to 10 for the left arm
+
+  Set 1: 10.0kg x 12 @ RPE 6.5 [target RPE: 7-7.5]
+  Set 2: 15.0kg x 12 @ RPE 9 [target RPE: 7-7.5]
+  Set 3: 10.0kg x 12 @ RPE 6.5 [target RPE: 7-7.5]
+
+### Tricep Pushdown (Cable)
+
+  Set 1: 47.5kg x 10 @ RPE 6.5 [target RPE: 7.5-8]
+  Set 2: 55.0kg x 10 @ RPE 7.5 [target RPE: 7.5-8]
+  Set 3: 55.0kg x 10 @ RPE 7 [target RPE: 7.5-8]
+
+### Preacher Curl (Dumbbell)
+
+Exercise notes: I really don't like the preacher curl they hurt my elbow, I can't do cable here there is no handle for that. I can do dumbbell curls while sitting or standing up or normal bar curls ( no ez bar curl )
+
+  Set 1: 9.0kg x 10 @ RPE 6.5 [target RPE: 7.5-8]
+  Set 2: 11.5kg x 10 @ RPE 8 [target RPE: 7.5-8]
+
 ## 2026-09-09
 
 ### Health / Recovery
