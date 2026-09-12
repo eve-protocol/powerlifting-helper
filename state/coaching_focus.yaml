@@ -118,14 +118,21 @@ athlete_constraints:
       - EZ curl bars and Swiss bar
       - pull-up bars
     toronto_condo_gym:
-      - treadmills and stair machine
-      - hip thrust machine
-      - crossover cables
-      - seated cable station with interchangeable handles
-      - adjustable cable station
+      - power rack with free bench
+      - 20kg bars thicker than standard powerlifting bars
+      - plates sufficient for approximately 140-160kg on one bar; higher capacity unverified
       - Smith machine
-      - lighter dumbbells
-      - other bodybuilding machines pending inventory
+      - dumbbells through 100lb
+      - hip thrust machine with upper-back support
+      - combined leg extension and leg curl machine
+      - combined hip abductor and adductor machine
+      - crossover cable machine
+      - horizontal seated cable row machine
+      - vertical cable pulldown machine
+      - cable station with triceps attachments
+      - seated Jefferson curl station for dumbbells or bars
+      - treadmills
+      - stair machine
 
 load_anchor_policy:
   rule: >

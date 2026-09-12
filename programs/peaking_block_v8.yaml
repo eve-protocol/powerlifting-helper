@@ -261,27 +261,27 @@ workouts:
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 30
+      target_weight_kg: 35
     - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 30
+      target_weight_kg: 35
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Maintain rear-delt work on the available cable station without residual upper-back fatigue.
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Use a chest-supported dumbbell setup for smooth rear-delt loading without cable-stack jumps or residual lower-back fatigue.
     role: accessory
     sets:
     - target: 15
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 7
     - target: 15
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 7
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: Maintain shoulder work on the available cable station without chasing stack jumps.
@@ -291,42 +291,42 @@ workouts:
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 10
     - target: 10
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 10
     equipment_dependent: true
-  - name: Overhead Tricep Extension (Cable)
-    intent: Maintain triceps strength without affecting Saturday deadlift.
+  - name: Tricep Pushdown (Cable)
+    intent: Use the rope attachment for supported, pain-free triceps work; reduce immediately after reaching the RPE ceiling.
     role: accessory
     sets:
     - target: 8
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 30
+      target_weight_kg: 55
     - target: 8
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 30
+      target_weight_kg: 55
     equipment_dependent: true
-  - name: Bicep Curl (Cable)
-    intent: Maintain elbow-flexor work on the condo cable with minimal residual fatigue.
+  - name: Bicep Curl (Dumbbell)
+    intent: Use seated dumbbell curls to prevent body English and maintain pain-free elbow-flexor work; do not use the uncomfortable preacher setup.
     role: accessory
     sets:
     - target: 8
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
+      target_weight_kg: 11.5
     - target: 8
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 10
+      target_weight_kg: 11.5
     equipment_dependent: true
 - week: 1
   day: 5
@@ -583,15 +583,15 @@ workouts:
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 30
+      target_weight_kg: 35
     - target: 10
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 30
+      target_weight_kg: 35
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Maintain rear-delt work on the available cable station without residual upper-back fatigue.
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Use a chest-supported dumbbell setup for smooth rear-delt loading without cable-stack jumps or residual lower-back fatigue.
     role: accessory
     sets:
     - target: 12
@@ -613,42 +613,42 @@ workouts:
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 7
+      target_weight_kg: 10
     - target: 10
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 7
+      target_weight_kg: 10
     equipment_dependent: true
-  - name: Overhead Tricep Extension (Cable)
-    intent: Maintain triceps work with minimal residual fatigue.
+  - name: Tricep Pushdown (Cable)
+    intent: Use the rope attachment for supported, pain-free triceps work; reduce immediately after reaching the RPE ceiling.
     role: accessory
     sets:
     - target: 8
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 25
+      target_weight_kg: 50
     - target: 8
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 25
+      target_weight_kg: 50
     equipment_dependent: true
-  - name: Bicep Curl (Cable)
-    intent: Maintain elbow-flexor work on the condo cable with minimal residual fatigue.
+  - name: Bicep Curl (Dumbbell)
+    intent: Use seated dumbbell curls to prevent body English and maintain pain-free elbow-flexor work; do not use the uncomfortable preacher setup.
     role: accessory
     sets:
     - target: 8
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 10
+      target_weight_kg: 9
     - target: 8
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 10
+      target_weight_kg: 9
     equipment_dependent: true
 - week: 2
   day: 5

@@ -172,19 +172,19 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 30kg anchor; 12 reps @ RPE 7-7.5 · 30kg anchor |
-| 2 | Rear Delt Fly (Cable) | 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor |
-| 3 | Lateral Raise (Cable) | 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor; 12 reps @ RPE 7-7.5 · 9kg anchor |
-| 4 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
-| 5 | Bicep Curl (Cable) | 10 reps @ RPE 7.5-8 · 10kg anchor; 10 reps @ RPE 7.5-8 · 10kg anchor |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 35kg anchor; 12 reps @ RPE 7-7.5 · 35kg anchor |
+| 2 | Rear Delt Fly (Dumbbell) | 15 reps @ RPE 7-7.5 · 7kg anchor; 15 reps @ RPE 7-7.5 · 7kg anchor |
+| 3 | Lateral Raise (Cable) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
+| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 7.5-8 · 55kg anchor; 10 reps @ RPE 7.5-8 · 55kg anchor; 10 reps @ RPE 7.5-8 · 55kg anchor |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 7.5-8 · 11.5kg anchor; 10 reps @ RPE 7.5-8 · 11.5kg anchor |
 
 **Why these movements:**
 
 - **Chest Fly (Machine):** Use the verified Boostcamp entry for the condo cable-crossover fly setup; keep the range pain-free and pec-dominant.
-- **Rear Delt Fly (Cable):** Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+- **Rear Delt Fly (Dumbbell):** Use a chest-supported dumbbell setup for smooth rear-delt loading without cable-stack jumps or residual lower-back fatigue.
 - **Lateral Raise (Cable):** Maintain shoulder volume on the available cable station with stable repeated sets.
-- **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
-- **Bicep Curl (Cable):** Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
+- **Tricep Pushdown (Cable):** Use the rope attachment for supported, pain-free triceps work; reduce immediately after reaching the RPE ceiling.
+- **Bicep Curl (Dumbbell):** Use seated dumbbell curls to prevent body English and maintain pain-free elbow-flexor work; do not use the uncomfortable preacher setup.
 
 #### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 
@@ -270,19 +270,19 @@ Three-week athlete-specific intensification block that preserves meaningful rep 
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7 · 30kg anchor; 12 reps @ RPE 6.5-7 · 30kg anchor |
-| 2 | Rear Delt Fly (Cable) | 15 reps @ RPE 6.5-7 · 9kg anchor; 15 reps @ RPE 6.5-7 · 9kg anchor |
-| 3 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7 · 9kg anchor; 12 reps @ RPE 6.5-7 · 9kg anchor |
-| 4 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 6.5-7 · 30kg anchor; 10 reps @ RPE 6.5-7 · 30kg anchor |
-| 5 | Bicep Curl (Cable) | 10 reps @ RPE 6.5-7 · 10kg anchor; 10 reps @ RPE 6.5-7 · 10kg anchor |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7 · 35kg anchor; 12 reps @ RPE 6.5-7 · 35kg anchor |
+| 2 | Rear Delt Fly (Dumbbell) | 15 reps @ RPE 6.5-7 · 7kg anchor; 15 reps @ RPE 6.5-7 · 7kg anchor |
+| 3 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7 · 10kg anchor; 12 reps @ RPE 6.5-7 · 10kg anchor |
+| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7 · 50kg anchor; 10 reps @ RPE 6.5-7 · 50kg anchor |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7 · 9kg anchor; 10 reps @ RPE 6.5-7 · 9kg anchor |
 
 **Why these movements:**
 
 - **Chest Fly (Machine):** Use the verified Boostcamp entry for the condo cable-crossover fly setup; keep the range pain-free and pec-dominant.
-- **Rear Delt Fly (Cable):** Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+- **Rear Delt Fly (Dumbbell):** Use a chest-supported dumbbell setup for smooth rear-delt loading without cable-stack jumps or residual lower-back fatigue.
 - **Lateral Raise (Cable):** Maintain shoulder volume on the available cable station with stable repeated sets.
-- **Overhead Tricep Extension (Cable):** Build triceps strength with early load drops after an RPE-8 set.
-- **Bicep Curl (Cable):** Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
+- **Tricep Pushdown (Cable):** Use the rope attachment for supported, pain-free triceps work; reduce immediately after reaching the RPE ceiling.
+- **Bicep Curl (Dumbbell):** Use seated dumbbell curls to prevent body English and maintain pain-free elbow-flexor work; do not use the uncomfortable preacher setup.
 
 #### Day 5 — Saturday - Primary Sumo / Light Low Bar / Spoto
 

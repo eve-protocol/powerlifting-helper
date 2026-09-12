@@ -666,27 +666,27 @@ workouts:
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 30
+      target_weight_kg: 35
     - target: 12
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 30
+      target_weight_kg: 35
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Use a chest-supported dumbbell setup for smooth rear-delt loading without cable-stack jumps or residual lower-back fatigue.
     role: accessory
     sets:
     - target: 15
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 7
     - target: 15
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 7
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: Maintain shoulder volume on the available cable station with stable repeated sets.
@@ -696,52 +696,52 @@ workouts:
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 10
     - target: 12
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 10
     - target: 12
       rpe:
       - 7
       - 7.5
-      target_weight_kg: 9
+      target_weight_kg: 10
     equipment_dependent: true
-  - name: Overhead Tricep Extension (Cable)
-    intent: Build triceps strength with early load drops after an RPE-8 set.
+  - name: Tricep Pushdown (Cable)
+    intent: Use the rope attachment for supported, pain-free triceps work; reduce immediately after reaching the RPE ceiling.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 30
+      target_weight_kg: 55
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 30
+      target_weight_kg: 55
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 30
+      target_weight_kg: 55
     equipment_dependent: true
-  - name: Bicep Curl (Cable)
-    intent: Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
+  - name: Bicep Curl (Dumbbell)
+    intent: Use seated dumbbell curls to prevent body English and maintain pain-free elbow-flexor work; do not use the uncomfortable preacher setup.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 10
+      target_weight_kg: 11.5
     - target: 10
       rpe:
       - 7.5
       - 8
-      target_weight_kg: 10
+      target_weight_kg: 11.5
     equipment_dependent: true
 - week: 2
   day: 5
@@ -999,27 +999,27 @@ workouts:
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 30
+      target_weight_kg: 35
     - target: 12
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 30
+      target_weight_kg: 35
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Maintain rear-delt work on the available cable station; adjust leverage before forcing a poor stack increment.
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Use a chest-supported dumbbell setup for smooth rear-delt loading without cable-stack jumps or residual lower-back fatigue.
     role: accessory
     sets:
     - target: 15
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 9
+      target_weight_kg: 7
     - target: 15
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 9
+      target_weight_kg: 7
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: Maintain shoulder volume on the available cable station with stable repeated sets.
@@ -1029,42 +1029,42 @@ workouts:
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 9
+      target_weight_kg: 10
     - target: 12
       rpe:
       - 6.5
       - 7
+      target_weight_kg: 10
+    equipment_dependent: true
+  - name: Tricep Pushdown (Cable)
+    intent: Use the rope attachment for supported, pain-free triceps work; reduce immediately after reaching the RPE ceiling.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 50
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 50
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Use seated dumbbell curls to prevent body English and maintain pain-free elbow-flexor work; do not use the uncomfortable preacher setup.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7
       target_weight_kg: 9
-    equipment_dependent: true
-  - name: Overhead Tricep Extension (Cable)
-    intent: Build triceps strength with early load drops after an RPE-8 set.
-    role: accessory
-    sets:
     - target: 10
       rpe:
       - 6.5
       - 7
-      target_weight_kg: 30
-    - target: 10
-      rpe:
-      - 6.5
-      - 7
-      target_weight_kg: 30
-    equipment_dependent: true
-  - name: Bicep Curl (Cable)
-    intent: Maintain elbow-flexor strength on the condo cable without provoking tendon symptoms.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 6.5
-      - 7
-      target_weight_kg: 10
-    - target: 10
-      rpe:
-      - 6.5
-      - 7
-      target_weight_kg: 10
+      target_weight_kg: 9
     equipment_dependent: true
 - week: 3
   day: 5
