@@ -3,6 +3,40 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-14
+
+### Health / Recovery
+
+- Steps: 7
+- Distance: 0.01 km
+- Total kcal burned: 300
+
+**Week 2 · Day 1**
+Finished: 2026-09-14 14:57:43
+
+### High Bar Squat (Barbell)
+
+  Set 1: 130.0kg x 4 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=237, real_stress=202]
+  Set 2: 130.0kg x 4 @ RPE 6 [target RPE: 7-7.5] [est_stress=237, real_stress=181]
+  Set 3: 135.0kg x 4 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=266, real_stress=281]
+
+### Bench Press (Paused)
+
+  Set 1: 110.0kg x 3 @ RPE 7 [target RPE: 7-7.5] [est_stress=173, real_stress=163]
+  Set 2: 112.5kg x 3 @ RPE 8 [target RPE: 7-7.5] [est_stress=185, real_stress=218]
+  Set 3: 110.0kg x 3 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=173, real_stress=183]
+
+### Pull-Up (Weighted)
+
+  Set 1: 30.0kg x 5 @ RPE 8 [target RPE: 7.5-8]
+  Set 2: 30.0kg x 5 @ RPE 8.5 [target RPE: 7.5-8]
+  Set 3: 27.5kg x 5 @ RPE 8 [target RPE: 7.5-8]
+
+### Hack Squat
+
+  Set 1: 10.0kg x 10 @ RPE 6 [target RPE: 6.5-7]
+  Set 2: 10.0kg x 10 @ RPE 7 [target RPE: 6.5-7]
+
 ## 2026-09-12
 
 ### Health / Recovery

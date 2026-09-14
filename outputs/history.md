@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-09-12 |
-| Training Days | 431 |
-| Total Sets | 5213 |
+| Date Range | 2024-12-28 → 2026-09-14 |
+| Training Days | 432 |
+| Total Sets | 5224 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -38,6 +38,11 @@
 ## 🏋️ Weekly Training Volume
 
 ```
+
+W38:
+  Squat    │ 0kg
+  Bench    │▓▓▓▓ 998kg
+  Deadlift │ 0kg
 
 W37:
   Squat    │████████████ 2960kg
@@ -83,11 +88,6 @@ W29:
   Squat    │███ 760kg
   Bench    │▓▓▓▓▓ 1372kg
   Deadlift │░░░ 900kg
-
-W28:
-  Squat    │████████████ 2820kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓ 2693kg
-  Deadlift │░░░░░░░░░░ 2460kg
 
   █ Squat  ▓ Bench  ░ Deadlift
 ```
