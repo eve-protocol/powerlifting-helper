@@ -3,6 +3,45 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-15
+
+### Health / Recovery
+
+- Steps: 9
+- Distance: 0.01 km
+- Total kcal burned: 297
+
+**Week 2 · Day 2**
+Finished: 2026-09-15 14:51:51
+
+### Sumo Deadlift (Paused)
+
+Exercise notes: First set felt VERY easy maybe rpe 4-5
+
+  Set 1: 160.0kg x 3 [target RPE: 6.5-7] [est_stress=234, real_stress=-]
+  Set 2: 170.0kg x 3 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=281, real_stress=267]
+  Set 3: 175.0kg x 3 @ RPE 8 [target RPE: 6.5-7] [est_stress=306, real_stress=402]
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 45.5kg x 5 @ RPE 6 [target RPE: 7-7.5] [est_stress=20, real_stress=16]
+  Set 2: 50.0kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=27, real_stress=32]
+  Set 3: 45.5kg x 5 @ RPE 6.5 [target RPE: 7-7.5] [est_stress=20, real_stress=17]
+
+### Seated Row (Cable)
+
+Exercise notes: 50.3 felt too difficult today im putting lighter weight for the other sets All sets felt so hard today on this one I don't know why.
+
+  Set 1: 50.5kg x 7 @ RPE 7 [target: 10 reps, target RPE: 7-7.5]
+  Set 2: 48.0kg x 8 @ RPE 8 [target: 10 reps, target RPE: 7-7.5]
+  Set 3: 43.5kg x 10 @ RPE 8 [target RPE: 7-7.5]
+
+### Cable Crunch
+
+  Set 1: 95.5kg x 12 @ RPE 6 [target RPE: 7-7.5]
+  Set 2: 95.5kg x 12 @ RPE 6 [target RPE: 7-7.5]
+  Set 3: 95.5kg x 12 @ RPE 6 [target RPE: 7-7.5]
+
 ## 2026-09-14
 
 ### Health / Recovery
