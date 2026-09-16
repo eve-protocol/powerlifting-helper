@@ -3,6 +3,45 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-16
+
+### Health / Recovery
+
+- Total kcal burned: 297
+
+**Week 2 · Day 3**
+Finished: 2026-09-16 15:25:42
+
+### Squat (Low Bar)
+
+  Set 1: 162.5kg x 1 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=116, real_stress=123]
+  Set 2: 160.0kg x 3 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=410, real_stress=429]
+  Set 3: 155.0kg x 3 @ RPE 8 [target RPE: 7.5-8] [est_stress=337, real_stress=355]
+  Set 4: 150.0kg x 3 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=305, real_stress=289]
+
+### Bench Press (Barbell)
+
+Exercise notes: On set 3 my placement was very wrong. I'm retrying 120 only because I believe it should've risen to rpe 9 but I might be wrong
+
+  Set 1: 127.5kg x 1 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=90, real_stress=95]
+  Set 2: 122.5kg x 3 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=295, real_stress=310]
+  Set 3: 120.0kg x 3 @ RPE 9 [target RPE: 7.5-8] [est_stress=251, real_stress=317]
+  Set 4: 120.0kg x 3 @ RPE 8.5 [target RPE: 7.5-8] [est_stress=251, real_stress=291]
+
+### Pull-Up (Weighted)
+
+Exercise notes: I feel tired today lol
+
+  Set 1: 27.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 2: 27.5kg x 5 @ RPE 8 [target RPE: 7-7.5]
+
+### Reverse Hyperextension
+
+Exercise notes: First set felt maybe rpe 3-4 Also the weight are in lb so I did the convertion Hence why its not round numbers
+
+  Set 1: 18.0kg x 15 [target RPE: 5-6]
+  Set 2: 27.0kg x 15 @ RPE 6.5 [target RPE: 5-6]
+
 ## 2026-09-15
 
 ### Health / Recovery
