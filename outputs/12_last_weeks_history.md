@@ -252,7 +252,12 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### Health / Recovery
 
-- Total kcal burned: 314
+- Steps: 12606
+- Distance: 10.24 km
+- Total kcal burned: 2657
+- Weight: 77.4 kg
+- Resting heart rate: 41 bpm
+- Sleep: 6.67 h asleep (7.12 h in bed, deep 0.98 h, REM 1.35 h, awake 0.45 h)
 
 **Chest Fly (Machine)**
 - Set 1: 12 × 35kg @ RPE 6 [target_reps=12, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
@@ -277,6 +282,15 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 2: 10 × 14kg @ RPE 8.5 [target_reps=10, target_intensity=[7.5, 8]RPE_range; est_stress=-; real_stress=-]
 
 ### 2026-09-19 (Saturday)
+
+### Health / Recovery
+
+- Steps: 3454
+- Distance: 2.80 km
+- Total kcal burned: 1237
+- Weight: 77.1 kg
+- Resting heart rate: 42 bpm
+- Sleep: 7.40 h asleep (7.75 h in bed, deep 1.12 h, REM 1.95 h, awake 0.35 h)
 
 **Sumo Deadlift (Barbell)**
 - Set 1: 1 × 182kg @ RPE 7.5 [target_reps=1, target_intensity=[7, 7.5]RPE_range; est_stress=128; real_stress=136]
