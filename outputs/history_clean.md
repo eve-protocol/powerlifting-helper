@@ -3,6 +3,35 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-21
+
+### Health / Recovery
+
+- Steps: 3315
+- Distance: 3.37 km
+- Total kcal burned: 2206
+- Weight: 77.5 kg
+- Resting heart rate: 40 bpm
+- Sleep: 5.95 h asleep (6.20 h in bed, deep 1.53 h, REM 0.87 h, awake 0.25 h)
+
+**Week 3 · Day 1**
+Finished: 2026-09-21 15:19:13
+
+### High Bar Squat (Barbell)
+
+  Set 1: 120.0kg x 4 [target RPE: 6-6.5] [est_stress=151, real_stress=-]
+  Set 2: 130.0kg x 4 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=192, real_stress=202]
+
+### Bench Press (Paused)
+
+  Set 1: 107.5kg x 3 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=145, real_stress=138]
+  Set 2: 107.5kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=145, real_stress=152]
+
+### Pull-Up (Weighted)
+
+  Set 1: 27.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 2: 27.5kg x 5 @ RPE 7.5 [target RPE: 7-7.5]
+
 ## 2026-09-19
 
 ### Health / Recovery
