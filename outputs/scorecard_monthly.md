@@ -36,17 +36,17 @@ Comparison baseline: 2026-08
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 12 | 16 | ↓ 4 |
-| Total sets | 33 | 42 | ↓ 9 |
-| Avg sets/session | 2.75 | 2.62 | ↑ 0.13 |
-| Avg RPE | 7.56 | 7.81 | ↓ 0.25 |
-| Avg load | 95.2kg | 95kg | ↑ 0.2kg |
-| Tonnage | 12914.5kg | 21922.5kg | ↓ 9008kg |
-| Avg tonnage/session | 1076.2kg | 1370.2kg | ↓ 294kg |
-| Estimated stress | 6078 | 9338 | ↓ 3260 |
-| Real stress | 6727 | 11303 | ↓ 4576 |
-| Avg est stress/session | 506 | 584 | ↓ 77 |
-| Avg real stress/session | 561 | 706 | ↓ 146 |
+| Sessions | 13 | 16 | ↓ 3 |
+| Total sets | 36 | 42 | ↓ 6 |
+| Avg sets/session | 2.77 | 2.62 | ↑ 0.15 |
+| Avg RPE | 7.60 | 7.81 | ↓ 0.21 |
+| Avg load | 91.5kg | 95kg | ↓ 3.5kg |
+| Tonnage | 13664.5kg | 21922.5kg | ↓ 8258kg |
+| Avg tonnage/session | 1051.1kg | 1370.2kg | ↓ 319.1kg |
+| Estimated stress | 6173 | 9338 | ↓ 3166 |
+| Real stress | 6823 | 11303 | ↓ 4480 |
+| Avg est stress/session | 475 | 584 | ↓ 109 |
+| Avg real stress/session | 525 | 706 | ↓ 182 |
 
 - Top single: 127.5kg x 1 @ 7.50
 - Previous top single: -
@@ -59,17 +59,17 @@ Comparison baseline: 2026-08
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 6 | 7 | ↓ 1 |
-| Total sets | 19 | 19 | → 0 |
-| Avg sets/session | 3.17 | 2.71 | ↑ 0.46 |
-| Avg RPE | 7.18 | 7.28 | ↓ 0.10 |
-| Avg load | 169.4kg | 164.6kg | ↑ 4.8kg |
-| Tonnage | 11474.5kg | 14092.5kg | ↓ 2618kg |
-| Avg tonnage/session | 1912.4kg | 2013.2kg | ↓ 100.8kg |
-| Estimated stress | 6831 | 8481 | ↓ 1650 |
-| Real stress | 6634 | 7852 | ↓ 1218 |
-| Avg est stress/session | 1138 | 1212 | ↓ 73 |
-| Avg real stress/session | 1106 | 1122 | ↓ 16 |
+| Sessions | 7 | 7 | → 0 |
+| Total sets | 22 | 19 | ↑ 3 |
+| Avg sets/session | 3.14 | 2.71 | ↑ 0.43 |
+| Avg RPE | 7.20 | 7.28 | ↓ 0.08 |
+| Avg load | 170kg | 164.6kg | ↑ 5.4kg |
+| Tonnage | 12994.5kg | 14092.5kg | ↓ 1098kg |
+| Avg tonnage/session | 1856.4kg | 2013.2kg | ↓ 156.8kg |
+| Estimated stress | 7373 | 8481 | ↓ 1108 |
+| Real stress | 7569 | 7852 | ↓ 284 |
+| Avg est stress/session | 1053 | 1212 | ↓ 158 |
+| Avg real stress/session | 1081 | 1122 | ↓ 40 |
 
 - Top single: 182kg x 1 @ 7.50
 - Previous top single: -

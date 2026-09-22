@@ -3,6 +3,41 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-22
+
+### Health / Recovery
+
+- Steps: 13
+- Distance: 0.01 km
+- Total kcal burned: 273
+
+**Week 3 · Day 2**
+Finished: 2026-09-22 16:52:18
+
+### Sumo Deadlift (Paused)
+
+  Set 1: 180.0kg x 2 @ RPE 8 [target RPE: 6-6.5] [est_stress=200, real_stress=292]
+  Set 2: 180.0kg x 2 @ RPE 7 [target RPE: 6-6.5] [est_stress=200, real_stress=233]
+  Set 3: 160.0kg x 5 @ RPE 7 [target: 2 reps, target RPE: 6-6.5] [est_stress=141, real_stress=410]
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 50.0kg x 5 @ RPE 8 [target RPE: 9-9.5] [est_stress=41, real_stress=32]
+  Set 2: 50.0kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=27, real_stress=32]
+  Set 3: 50.0kg x 5 @ RPE 8 [target RPE: 7-7.5] [est_stress=27, real_stress=32]
+
+### Seated Row (Cable)
+
+  Set 1: 41.0kg x 10 @ RPE 6 [target RPE: 7-7.5]
+  Set 2: 43.5kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
+
+### Cable Crunch
+
+Exercise notes: Some easy sets to finish
+
+  Set 1: 91.0kg x 10 [target: 12 reps, target RPE: 6.5-7]
+  Set 2: 91.0kg x 10 [target: 12 reps, target RPE: 6.5-7]
+
 ## 2026-09-21
 
 ### Health / Recovery
