@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-07-06 to 2026-09-23
+**Period:** 2026-07-06 to 2026-09-25
 ---
 
 ## Format Guide
@@ -231,6 +231,33 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 **Leg Curl**
 - Set 1: 10 × 22kg @ RPE 6 [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 10 × 25kg @ RPE 6.5 [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+### 2026-09-25 (Friday)
+
+### Health / Recovery
+
+- Total kcal burned: 256
+
+**Chest Fly (Machine)**
+- Set 1: 12 × 35kg @ RPE 6 [target_reps=12, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 12 × 35kg @ RPE 7 [target_reps=12, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+**Rear Delt Fly (Dumbbell)**
+- Set 1: 15 × 7kg @ RPE - [target_reps=15, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 15 × 9kg @ RPE 8 [target_reps=15, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+**Lateral Raise (Cable)**
+- Set 1: 12 × 10kg @ RPE 6 [target_reps=12, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 15kg @ RPE 7.5 [target_reps=12, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+**Tricep Pushdown (Cable)**
+- Exercise notes: Misloaded the first set
+- Set 1: 10 × 62kg @ RPE 8 [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 12 × 55kg @ RPE 7 [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+**Bicep Curl (Dumbbell)**
+- Set 1: 10 × 11kg @ RPE 6 [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 13kg @ RPE 7 [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
 
 ---
 
