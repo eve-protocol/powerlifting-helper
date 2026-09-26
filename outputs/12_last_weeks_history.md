@@ -236,7 +236,12 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### Health / Recovery
 
-- Total kcal burned: 256
+- Steps: 8909
+- Distance: 7.31 km
+- Total kcal burned: 2310
+- Weight: 77.5 kg
+- Resting heart rate: 41 bpm
+- Sleep: 7.43 h asleep (7.60 h in bed, deep 1.22 h, REM 1.35 h, awake 0.17 h)
 
 **Chest Fly (Machine)**
 - Set 1: 12 × 35kg @ RPE 6 [target_reps=12, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
