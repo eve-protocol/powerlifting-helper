@@ -1,6 +1,6 @@
 # Peaking Block v8
 
-Three-week athlete-specific realization block. Week 1 expresses heavier singles while retaining doubles and primary incline work. Week 2 places the final heavy squat and bench ten days before the mock meet and the final heavy deadlift seven days before it. Weeks 1-2 retain a written low-fatigue Friday condo accessory day; Week 3 reduces volume substantially and keeps mock-meet-week Friday as full rest. No @9.5 single and no repeated proof attempt.
+Three-week athlete-specific realization block. Week 1 expresses heavier singles while retaining doubles and controlled incline work. Tuesday uses easy competition sumo practice rather than paused variations. Week 2 places the final heavy squat and bench ten days before the mock meet and the final heavy deadlift seven days before it. Weeks 1-2 retain a written low-fatigue Friday condo accessory day; Week 3 reduces volume substantially and keeps mock-meet-week Friday as full rest. No @9.5 single and no repeated proof attempt.
 
 ## Overview
 
@@ -12,39 +12,37 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 ### Week 1
 
-#### Day 1 — Monday - Specific Squat / Paused Bench / Pull-Ups / Hack Squat
+#### Day 1 — Monday - Specific Squat / Paused Bench / Pull-Ups
 
-**Day intent:** Retain useful rep work while reducing fatigue and increasing competition specificity, then preserve one low-cost quadriceps-support exposure before accessory volume is removed later in the peak.
+**Day intent:** Retain useful rep work while reducing fatigue and increasing competition specificity; avoid quad soreness before Wednesday.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5 · 145kg anchor; 3 reps @ RPE 6-6.5 · 145kg anchor |
 | 2 | Bench Press (Paused) | 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 25kg anchor; 5 reps @ RPE 7-7.5 · 25kg anchor |
-| 4 | Hack Squat | 10 reps @ RPE 6-6.5 · 20kg anchor; 10 reps @ RPE 6-6.5 · 20kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Keep competition-squat positions active without adding a second heavy squat day.
 - **Bench Press (Paused):** Retain long-pause pressing strength through controlled triples.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
-- **Hack Squat:** Preserve quadriceps support with a calibrated machine pattern at low effort; stop well before soreness-producing fatigue and do not progress load simply because the sets feel easy.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
+#### Day 2 — Tuesday - Competition Sumo / Incline DB / Supported Row / Cable Crunch
 
-**Day intent:** Keep the lockout transition, incline strength, and supported upper-back work alive at controlled effort, then use the open support slot for low-residual-fatigue trunk work.
+**Day intent:** Practise competition sumo and retain incline strength and supported upper-back work at controlled effort without compromising Wednesday's heavy squat and bench.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6.5-7 · 150kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 2 reps @ RPE 6.5-7 · 150kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
+| 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor |
 | 3 | Seated Row (Cable) | 8 reps @ RPE 7-7.5 · 50.5kg anchor; 8 reps @ RPE 7-7.5 · 50.5kg anchor |
 | 4 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused):** Pause with the bar center at the top edge of the kneecap and finish by bringing hips to the bar.
-- **Incline Bench Press (Dumbbell):** Maintain primary incline dumbbell strength during realization.
+- **Sumo Deadlift (Barbell):** Two easy competition-stance doubles with a connected, stacked lockout; no pauses or added top sets before Wednesday.
+- **Incline Bench Press (Dumbbell):** Maintain primary incline dumbbell strength without fatigue spillover into Wednesday competition bench; only two controlled sets.
 - **Seated Row (Cable):** Maintain supported upper-back strength without adding torso or lower-back fatigue.
 - **Cable Crunch:** Maintain trunk work during realization.
 
@@ -107,7 +105,7 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 | Lift | Sets | Reps |
 |------|------|------|
 | Squat | 7 | 15 |
-| Bench | 11 | 33 |
+| Bench | 10 | 28 |
 | Deadlift | 5 | 9 |
 
 ### Week 2
@@ -128,20 +126,20 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 - **Bench Press (Paused):** Keep pause strength active before the final heavy Wednesday squat-and-bench session.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 
-#### Day 2 — Tuesday - Paused Sumo at Knee / Incline DB / Supported Row / Cable Crunch
+#### Day 2 — Tuesday - Competition Sumo / Incline DB / Supported Row / Cable Crunch
 
-**Day intent:** Keep the lockout transition, incline strength, and supported upper-back work alive at controlled effort, then use the open support slot for low-residual-fatigue trunk work.
+**Day intent:** Practise competition sumo and retain incline strength and supported upper-back work at controlled effort without compromising Wednesday's final heavy squat and bench.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-6.5 · 140kg anchor; 2 reps @ RPE 6-6.5 · 140kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 2 reps @ RPE 6-6.5 · 140kg anchor; 2 reps @ RPE 6-6.5 · 140kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6.5-7 · 50kg anchor; 5 reps @ RPE 6.5-7 · 50kg anchor |
 | 3 | Seated Row (Cable) | 8 reps @ RPE 6.5-7 · 48kg anchor; 8 reps @ RPE 6.5-7 · 48kg anchor |
 | 4 | Cable Crunch | 10 reps @ RPE 6.5-7 · 45kg anchor; 10 reps @ RPE 6.5-7 · 45kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused):** Use a light exact-position pause; no grind and no loss of upper-back tension.
+- **Sumo Deadlift (Barbell):** Two light competition-stance doubles with a connected, stacked lockout; no pauses, grind, or extra sets.
 - **Incline Bench Press (Dumbbell):** Perform meaningful but non-fatiguing primary incline work.
 - **Seated Row (Cable):** Maintain supported upper-back strength without adding torso or lower-back fatigue.
 - **Cable Crunch:** Maintain trunk strength with reduced volume.
@@ -244,23 +242,19 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 - **Lateral Raise (Cable):** Maintain shoulder work on the available cable station without chasing stack jumps.
 - **Rear Delt Fly (Cable):** Maintain rear-delt work on the available cable station without residual upper-back fatigue.
 
-#### Day 3 — Wednesday - Taper Squat / Bench Technique / Pull-Ups
+#### Day 3 — Wednesday - Taper Squat / Bench Technique
 
-**Day intent:** Use the final squat and bench touches to confirm commands and positions, then complete no more than two low-fatigue support movements.
+**Day intent:** Use the final squat and bench touches in meet order to confirm commands and positions, then leave; no support work three days before the mock meet.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 1 reps @ RPE 6-6.5 · 145kg anchor; 1 reps @ RPE 6-6.5 · 145kg anchor |
 | 2 | Bench Press (Barbell) | 1 reps @ RPE 6-6.5 · 120kg anchor; 1 reps @ RPE 6-6.5 · 120kg anchor |
-| 3 | Leg Curl | 10 reps @ RPE 6-6.5 · 20kg anchor; 10 reps @ RPE 6-6.5 · 20kg anchor |
-| 4 | Pull-Up (Weighted) | 4 reps @ RPE 6-6.5 · 15kg anchor; 4 reps @ RPE 6-6.5 · 15kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Finish the final squat exposure with competition commands and clean positions.
 - **Bench Press (Barbell):** Perform two clean command-style singles, then take Thursday and Friday away from benching.
-- **Leg Curl:** Keep light hamstring work without soreness.
-- **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 
 #### Day 5 — Saturday - MOCK MEET
 
