@@ -12,20 +12,20 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 ### Week 1
 
-#### Day 1 — Monday - Specific Squat / Paused Bench / Pull-Ups
+#### Day 1 — Monday - Specific Squat / Competition Bench / Pull-Ups
 
 **Day intent:** Retain useful rep work while reducing fatigue and increasing competition specificity; avoid quad soreness before Wednesday.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5 · 145kg anchor; 3 reps @ RPE 6-6.5 · 145kg anchor |
-| 2 | Bench Press (Paused) | 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6.5-7 · 115kg anchor; 3 reps @ RPE 6.5-7 · 115kg anchor; 3 reps @ RPE 6.5-7 · 115kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 25kg anchor; 5 reps @ RPE 7-7.5 · 25kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Keep competition-squat positions active without adding a second heavy squat day.
-- **Bench Press (Paused):** Retain long-pause pressing strength through controlled triples.
+- **Bench Press (Barbell):** Practise the exact competition touch, legal pause, and press with controlled triples; no extended counted pause.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 
 #### Day 2 — Tuesday - Competition Sumo / Incline DB / Supported Row / Cable Crunch
@@ -110,20 +110,20 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 ### Week 2
 
-#### Day 1 — Monday - Specific Squat / Paused Bench / Pull-Ups
+#### Day 1 — Monday - Specific Squat / Competition Bench / Pull-Ups
 
 **Day intent:** Start the final heavy-practice week with useful but contained rep work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 2 reps @ RPE 6-6.5 · 150kg anchor; 2 reps @ RPE 6-6.5 · 150kg anchor |
-| 2 | Bench Press (Paused) | 2 reps @ RPE 6.5-7 · 115kg anchor; 2 reps @ RPE 6.5-7 · 115kg anchor |
+| 2 | Bench Press (Barbell) | 2 reps @ RPE 6.5-7 · 120kg anchor; 2 reps @ RPE 6.5-7 · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7 · 20kg anchor; 4 reps @ RPE 6.5-7 · 20kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Keep squat positions active before the final heavy Wednesday single.
-- **Bench Press (Paused):** Keep pause strength active before the final heavy Wednesday squat-and-bench session.
+- **Bench Press (Barbell):** Keep competition touch point and legal pause consistent before the final heavy Wednesday squat-and-bench session.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 
 #### Day 2 — Tuesday - Competition Sumo / Incline DB / Supported Row / Cable Crunch
@@ -208,21 +208,21 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 ### Week 3
 
-#### Day 1 — Monday - Taper Squat / Paused Bench / Pull-Ups
+#### Day 1 — Monday - Taper Squat / Competition Bench / Pull-Ups
 
 **Day intent:** Reduce volume while preserving meaningful competition patterns and upper-body work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Squat (Low Bar) | 3 reps @ RPE 5.5-6 · 135kg anchor; 3 reps @ RPE 5.5-6 · 135kg anchor |
-| 2 | Bench Press (Paused) | 2 reps @ RPE 6-6.5 · 105kg anchor; 2 reps @ RPE 6-6.5 · 105kg anchor |
+| 2 | Bench Press (Barbell) | 2 reps @ RPE 6-6.5 · 110kg anchor; 2 reps @ RPE 6-6.5 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7 · 20kg anchor; 5 reps @ RPE 6.5-7 · 20kg anchor |
 | 4 | Cable Crunch | 10 reps @ RPE 6-6.5 · 40kg anchor; 10 reps @ RPE 6-6.5 · 40kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Keep squat coordination without accumulating fatigue.
-- **Bench Press (Paused):** Keep pause strength and touch-point consistency.
+- **Bench Press (Barbell):** Rehearse the competition touch point and legal pause without fatigue; no extended counted pause.
 - **Pull-Up (Weighted):** Progress weighted pull-up strength without compromising the next primary lift.
 - **Cable Crunch:** Maintain trunk work during the taper.
 
