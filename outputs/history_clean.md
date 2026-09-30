@@ -3,6 +3,33 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-09-30
+
+**Week 1 · Day 3**
+Finished: 2026-09-30 15:26:38
+
+### Squat (Low Bar)
+
+  Set 1: 170.0kg x 1 @ RPE 8.5 [target RPE: 8-8.5] [est_stress=164, real_stress=172]
+  Set 2: 155.0kg x 2 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=225, real_stress=213]
+  Set 3: 155.0kg x 2 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=225, real_stress=213]
+
+### Bench Press (Barbell)
+
+  Set 1: 132.5kg x 1 @ RPE 9.5 [target RPE: 8-8.5] [est_stress=125, real_stress=160]
+  Set 2: 120.0kg x 2 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=168, real_stress=159]
+  Set 3: 122.5kg x 2 @ RPE 7.5 [target RPE: 7.5-8] [est_stress=178, real_stress=169]
+
+### Pull-Up (Weighted)
+
+  Set 1: 27.5kg x 4 @ RPE 7 [target RPE: 7-7.5]
+  Set 2: 27.5kg x 4 @ RPE 8 [target RPE: 7-7.5]
+
+### Leg Curl
+
+  Set 1: 27.0kg x 8 @ RPE 7 [target RPE: 7-7.5]
+  Set 2: 27.0kg x 8 @ RPE 7.5 [target RPE: 7-7.5]
+
 ## 2026-09-29
 
 ### Health / Recovery
