@@ -3,6 +3,42 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-02
+
+### Health / Recovery
+
+- Total kcal burned: 71
+
+**Week 1 · Day 4**
+Finished: 2026-10-02 15:16:30
+
+### Chest Fly (Machine)
+
+  Set 1: 40.0kg x 10 @ RPE 7 [target RPE: 7-7.5]
+  Set 2: 40.0kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
+
+### Rear Delt Fly (Cable)
+
+Exercise notes: It's a pretty light exercise on overall fatigue so rpe 10 is acceptable it's a very small muscle. I wanted to test the condo cable machine again.
+
+  Set 1: 10.0kg x 10 @ RPE 10 [target: 15 reps, target RPE: 7-7.5]
+  Set 2: 10.0kg x 10 @ RPE 10 [target: 15 reps, target RPE: 7-7.5]
+
+### Lateral Raise (Cable)
+
+  Set 1: 15.0kg x 10 @ RPE 7.5 [target RPE: 7-7.5]
+  Set 2: 15.0kg x 10 @ RPE 9 [target RPE: 7-7.5]
+
+### Tricep Pushdown (Cable)
+
+  Set 1: 62.5kg x 10 @ RPE 7.5 [target: 8 reps, target RPE: 7-7.5]
+  Set 2: 62.5kg x 10 @ RPE 7.5 [target: 8 reps, target RPE: 7-7.5]
+
+### Bicep Curl (Dumbbell)
+
+  Set 1: 13.5kg x 10 @ RPE 8 [target: 8 reps, target RPE: 7-7.5]
+  Set 2: 13.5kg x 10 @ RPE 8.5 [target: 8 reps, target RPE: 7-7.5]
+
 ## 2026-09-30
 
 ### Health / Recovery

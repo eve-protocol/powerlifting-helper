@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-07-13 to 2026-09-30
+**Period:** 2026-07-13 to 2026-10-02
 ---
 
 ## Format Guide
@@ -231,6 +231,33 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 **Leg Curl**
 - Set 1: 8 × 27kg @ RPE 7 [target_reps=8, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 8 × 27kg @ RPE 7.5 [target_reps=8, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+### 2026-10-02 (Friday)
+
+### Health / Recovery
+
+- Total kcal burned: 71
+
+**Chest Fly (Machine)**
+- Set 1: 10 × 40kg @ RPE 7 [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 40kg @ RPE 7.5 [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Rear Delt Fly (Cable)**
+- Exercise notes: It's a pretty light exercise on overall fatigue so rpe 10 is acceptable it's a very small muscle. I wanted to test the condo cable machine again.
+- Set 1: 10 × 10kg @ RPE 10 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 10kg @ RPE 10 [target_reps=15, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Lateral Raise (Cable)**
+- Set 1: 10 × 15kg @ RPE 7.5 [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 15kg @ RPE 9 [target_reps=10, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Tricep Pushdown (Cable)**
+- Set 1: 10 × 62kg @ RPE 7.5 [target_reps=8, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 62kg @ RPE 7.5 [target_reps=8, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+**Bicep Curl (Dumbbell)**
+- Set 1: 10 × 13kg @ RPE 8 [target_reps=8, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 13kg @ RPE 8.5 [target_reps=8, target_intensity=[7, 7.5]RPE_range; est_stress=-; real_stress=-]
 
 ---
 
