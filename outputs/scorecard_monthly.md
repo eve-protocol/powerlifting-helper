@@ -5,6 +5,93 @@
 Stress score = reps × weight_kg × intensity² × RPE factor. Intensity uses rolling actual-single references, not e1RM.
 Estimated stress uses target reps/RPE with target load when available, otherwise logged load. Real stress uses logged reps/load/RPE.
 
+## 2026-10
+
+Comparison baseline: 2026-09
+
+### Squat family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 13 | ↓ 12 |
+| Total sets | 2 | 33 | ↓ 31 |
+| Avg sets/session | 2 | 2.54 | ↓ 0.54 |
+| Avg RPE | 6.25 | 7.36 | ↓ 1.11 |
+| Avg load | 145kg | 144.8kg | ↑ 0.2kg |
+| Tonnage | 580kg | 16362.5kg | ↓ 15782.5kg |
+| Avg tonnage/session | 580kg | 1258.7kg | ↓ 678.7kg |
+| Estimated stress | 237 | 8762 | ↓ 8525 |
+| Real stress | 266 | 8849 | ↓ 8582 |
+| Avg est stress/session | 237 | 674 | ↓ 437 |
+| Avg real stress/session | 266 | 681 | ↓ 415 |
+
+- Top single: -
+- Previous top single: 170kg x 1 @ 8.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 145kg x 2 @ 6
+- Previous top work set: 167.5kg x 3 @ 10
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Bench family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 18 | ↓ 17 |
+| Total sets | 2 | 48 | ↓ 46 |
+| Avg sets/session | 2 | 2.67 | ↓ 0.67 |
+| Avg RPE | 7.50 | 7.59 | ↓ 0.09 |
+| Avg load | 121.2kg | 95.6kg | ↑ 25.6kg |
+| Tonnage | 485kg | 17102kg | ↓ 16617kg |
+| Avg tonnage/session | 485kg | 950.1kg | ↓ 465.1kg |
+| Estimated stress | 250 | 8232 | ↓ 7982 |
+| Real stress | 334 | 8874 | ↓ 8539 |
+| Avg est stress/session | 250 | 457 | ↓ 207 |
+| Avg real stress/session | 334 | 493 | ↓ 159 |
+
+- Top single: -
+- Previous top single: 132.5kg x 1 @ 9.50
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 122.5kg x 2 @ 8.50
+- Previous top work set: 130kg x 2 @ 10
+- Top work-set delta: ↓ 7.5kg (only meaningful when the rep scheme is comparable)
+
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 9 | ↓ 8 |
+| Total sets | 3 | 26 | ↓ 23 |
+| Avg sets/session | 3 | 2.89 | ↑ 0.11 |
+| Avg RPE | 8 | 7.27 | ↑ 0.73 |
+| Avg load | 180kg | 171.5kg | ↑ 8.5kg |
+| Tonnage | 890kg | 14429.5kg | ↓ 13539.5kg |
+| Avg tonnage/session | 890kg | 1603.3kg | ↓ 713.3kg |
+| Estimated stress | 690 | 8800 | ↓ 8110 |
+| Real stress | 713 | 8396 | ↓ 7682 |
+| Avg est stress/session | 690 | 978 | ↓ 287 |
+| Avg real stress/session | 713 | 933 | ↓ 220 |
+
+- Top single: 190kg x 1 @ 8
+- Previous top single: 187.5kg x 1 @ -
+- Top single delta: ↑ 2.5kg (only meaningful when the variation is comparable)
+- Top work set: 180kg x 2 @ 8.50
+- Previous top work set: 182.5kg x 3 @ 9.50
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Health / Recovery
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Days with data | 3 | 30 | ↓ 27 |
+| Avg steps/day | 5402 | 11310 | ↓ 5908 |
+| Avg distance/day | 4.39km | 9.40km | ↓ 5.01km |
+| Avg kcal/day | 1552 | 2509 | ↓ 957 |
+| Avg bodyweight | 77.5kg | 77.2kg | ↑ 0.3kg |
+| Avg resting HR | 45bpm | 41.3bpm | ↑ 3.7bpm |
+| Avg sleep | 6.32h | 6.71h | ↓ 0.39h |
+
+- Latest health date in period: 2026-10-03
+
 ## 2026-09
 
 Comparison baseline: 2026-08
