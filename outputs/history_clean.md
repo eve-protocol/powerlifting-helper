@@ -3,6 +3,36 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-06
+
+**Week 2 · Day 2**
+Finished: 2026-10-06 14:57:56
+
+### Sumo Deadlift (Barbell)
+
+Exercise notes: Added some 130kg practice as I felt wrong during the dead lifts like my setup was wrong... Idk
+
+  Set 1: 180.0kg x 2 @ RPE 7 [target RPE: 6-6.5] [est_stress=200, real_stress=233]
+  Set 2: 175.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=184, real_stress=194]
+  Set 3: 130.0kg x 6 @ RPE 6 [target: 2 reps, target RPE: 6-6.5] [est_stress=76, real_stress=214]
+
+### Incline Bench Press (Dumbbell)
+
+  Set 1: 45.0kg x 5 @ RPE 6.5 [target RPE: 6.5-7] [est_stress=18, real_stress=17]
+  Set 2: 50.0kg x 5 @ RPE 8.5 [target RPE: 6.5-7] [est_stress=24, real_stress=35]
+
+### Seated Row (Cable)
+
+  Set 1: 43.5kg x 10 @ RPE 7 [target: 8 reps, target RPE: 6.5-7]
+  Set 2: 43.5kg x 10 @ RPE 7 [target: 8 reps, target RPE: 6.5-7]
+
+### Cable Crunch
+
+Exercise notes: Took a different stance , it was harder hence the weight
+
+  Set 1: 50.0kg x 10 [target RPE: 6.5-7]
+  Set 2: 57.0kg x 10 @ RPE 7.5 [target RPE: 6.5-7]
+
 ## 2026-10-05
 
 ### Health / Recovery
