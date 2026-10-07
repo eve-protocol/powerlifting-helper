@@ -13,17 +13,17 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 119 | 165 | ↓ 46 |
-| Total sets | 347 | 637 | ↓ 290 |
+| Sessions | 120 | 165 | ↓ 45 |
+| Total sets | 350 | 637 | ↓ 287 |
 | Avg sets/session | 2.92 | 3.86 | ↓ 0.94 |
-| Avg RPE | 7.31 | 7.66 | ↓ 0.35 |
-| Avg load | 140.3kg | 130.4kg | ↑ 9.9kg |
-| Tonnage | 180340kg | 310632kg | ↓ 130292kg |
-| Avg tonnage/session | 1515.5kg | 1882.6kg | ↓ 367.1kg |
-| Estimated stress | 69491 | 85231 | ↓ 15739 |
-| Real stress | 84796 | 175452 | ↓ 90656 |
+| Avg RPE | 7.32 | 7.66 | ↓ 0.34 |
+| Avg load | 140.5kg | 130.4kg | ↑ 10.1kg |
+| Tonnage | 181155kg | 310632kg | ↓ 129477kg |
+| Avg tonnage/session | 1509.6kg | 1882.6kg | ↓ 373kg |
+| Estimated stress | 70112 | 85231 | ↓ 15118 |
+| Real stress | 85442 | 175452 | ↓ 90010 |
 | Avg est stress/session | 584 | 516 | ↑ 68 |
-| Avg real stress/session | 713 | 1063 | ↓ 351 |
+| Avg real stress/session | 712 | 1063 | ↓ 351 |
 
 - Top single: 177.5kg x 1 @ 9.50
 - Previous top single: 172.5kg x 1 @ 10
@@ -36,17 +36,17 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 161 | 213 | ↓ 52 |
-| Total sets | 463 | 825 | ↓ 362 |
+| Sessions | 162 | 213 | ↓ 51 |
+| Total sets | 466 | 825 | ↓ 359 |
 | Avg sets/session | 2.88 | 3.87 | ↓ 0.99 |
 | Avg RPE | 7.83 | 8.26 | ↓ 0.43 |
-| Avg load | 98kg | 94.6kg | ↑ 3.4kg |
-| Tonnage | 180905.5kg | 350252.5kg | ↓ 169347kg |
-| Avg tonnage/session | 1123.6kg | 1644.4kg | ↓ 520.8kg |
-| Estimated stress | 62498 | 85325 | ↓ 22827 |
-| Real stress | 96174 | 183652 | ↓ 87478 |
+| Avg load | 98.2kg | 94.6kg | ↑ 3.6kg |
+| Tonnage | 181520.5kg | 350252.5kg | ↓ 168732kg |
+| Avg tonnage/session | 1120.5kg | 1644.4kg | ↓ 523.9kg |
+| Estimated stress | 62942 | 85325 | ↓ 22383 |
+| Real stress | 96644 | 183652 | ↓ 87008 |
 | Avg est stress/session | 388 | 401 | ↓ 12 |
-| Avg real stress/session | 597 | 862 | ↓ 265 |
+| Avg real stress/session | 597 | 862 | ↓ 266 |
 
 - Top single: 140kg x 1 @ 9.50
 - Previous top single: 132.5kg x 1 @ 10

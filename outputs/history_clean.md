@@ -3,6 +3,39 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-07
+
+### Health / Recovery
+
+- Total kcal burned: 307
+
+**Week 2 · Day 3**
+Finished: 2026-10-07 15:35:04
+
+### Squat (Low Bar)
+
+Exercise notes: After that I did 120kg X3 tempo wide stance Then 100kg X5 tempo wide stance. To address my hip going too high on the way up and my chest lagging ( good morning squat)
+
+  Set 1: 175.0kg x 1 @ RPE 9 [target RPE: 8-8.5] [est_stress=179, real_stress=204]
+  Set 2: 160.0kg x 2 @ RPE 7 [target RPE: 7-7.5] [est_stress=221, real_stress=208]
+  Set 3: 160.0kg x 2 @ RPE 7.5 [target RPE: 7-7.5] [est_stress=221, real_stress=234]
+
+### Bench Press (Barbell)
+
+  Set 1: 135.0kg x 1 @ RPE 10 [target RPE: 8.5-9] [est_stress=144, real_stress=188]
+  Set 2: 120.0kg x 2 @ RPE 7 [target RPE: 7-7.5] [est_stress=150, real_stress=141]
+  Set 3: 120.0kg x 2 @ RPE 7 [target RPE: 7-7.5] [est_stress=150, real_stress=141]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 4 @ RPE 7.5 [target RPE: 6.5-7]
+  Set 2: 25.0kg x 4 @ RPE 7 [target RPE: 6.5-7]
+
+### Leg Curl
+
+  Set 1: 27.0kg x 8 @ RPE 7 [target RPE: 6.5-7]
+  Set 2: 27.0kg x 8 @ RPE 7 [target RPE: 6.5-7]
+
 ## 2026-10-06
 
 ### Health / Recovery
