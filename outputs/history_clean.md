@@ -3,6 +3,33 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-10
+
+### Health / Recovery
+
+- Total kcal burned: 297
+
+**Week 2 · Day 5**
+Finished: 2026-10-10 10:09:01
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 170.0kg x 2 @ RPE 7.5 [target: 1 reps, target RPE: 8-8.5] [est_stress=129, real_stress=221]
+  Set 2: 170.0kg x 2 @ RPE 8 [target RPE: 7-7.5] [est_stress=209, real_stress=246]
+  Set 3: 170.0kg x 2 @ RPE 8 [target RPE: 7-7.5] [est_stress=209, real_stress=246]
+
+### Squat (Low Bar)
+
+  Set 1: 140.0kg x 2 [target RPE: 5.5-6] [est_stress=107, real_stress=-]
+  Set 2: 140.0kg x 2 [target RPE: 5.5-6] [est_stress=107, real_stress=-]
+  Set 3: 120.0kg x 8 [target: 2 reps, target RPE: 5.5-6] [est_stress=67, real_stress=-]
+
+### Bench Press (Barbell)
+
+  Set 1: 120.0kg x 2 @ RPE 6.5 [target RPE: 6-6.5] [est_stress=121, real_stress=128]
+  Set 2: 122.5kg x 2 @ RPE 7 [target RPE: 6-6.5] [est_stress=129, real_stress=150]
+  Set 3: 100.0kg x 10 @ RPE 7 [target: 2 reps, target RPE: 6-6.5] [est_stress=70, real_stress=408]
+
 ## 2026-10-09
 
 ### Health / Recovery

@@ -1,7 +1,7 @@
 # Historical RPE Tables
 
 Source: `values/history.json` parsed workout sets. Cells show best kg for exact (reps, integer RPE), with staleness emoji for the date of that best.
-Reference date: 2026-10-09
+Reference date: 2026-10-10
 
 > Legend: 🟢 <3mo • 🟡 3-6mo • 🟠 6-9mo • 🔴 9-12mo • 🟣 >1yr
 
@@ -35,7 +35,7 @@ Reference date: 2026-10-09
 | 7 | 110.0 🟢 | 115.0 🟠 | 112.5 🟢 | 100.0 🟣 | - |
 | 8 | 110.0 🟠 | - | 107.5 🟢 | 107.5 🟢 | 107.5 🟢 |
 | 9 | 100.0 🟣 | - | - | - | - |
-| 10 | 100.0 🟣 | 95.0 🟣 | 95.0 🟣 | - | - |
+| 10 | 100.0 🟣 | 95.0 🟣 | 95.0 🟣 | 100.0 🟢 | - |
 
 ### Sumo Deadlift (Barbell)
 
@@ -227,7 +227,7 @@ Reference date: 2026-10-09
 | 2 | - | 57.5 🟡 | - | - | - |
 | 3 | - | - | - | - | - |
 | 4 | - | - | 50.0 🟡 | - | - |
-| 5 | - | 47.5 🟡 | 50.0 🟢 | 50.0 🟡 | 45.0 🟢 |
+| 5 | - | 47.5 🟠 | 50.0 🟢 | 50.0 🟡 | 45.0 🟢 |
 | 6 | 50.0 🟢 | 50.0 🔴 | 50.0 🟢 | 45.0 🟢 | 45.0 🟢 |
 | 7 | 50.0 🟣 | 50.0 🟢 | 47.5 🟢 | - | - |
 | 8 | 47.5 🟣 | 45.0 🟠 | 45.0 🟢 | 45.0 🟢 | 42.5 🟡 |
