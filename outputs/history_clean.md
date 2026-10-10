@@ -3,6 +3,46 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-09
+
+### Health / Recovery
+
+- Steps: 12438
+- Distance: 10.13 km
+- Total kcal burned: 2482
+- Weight: 78 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.42 h asleep (7.42 h in bed, deep 1.58 h, REM 1.27 h, awake 0 h)
+
+**Week 2 · Day 4**
+Finished: 2026-10-09 16:40:39
+
+### Chest Fly (Machine)
+
+  Set 1: 35.0kg x 10 [target RPE: 6.5-7]
+  Set 2: 40.0kg x 10 @ RPE 7 [target RPE: 6.5-7]
+  Set 3: 40.0kg x 10 @ RPE 7 [target RPE: 6.5-7]
+
+### Rear Delt Fly (Cable)
+
+  Set 1: 10.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 6.5-7]
+  Set 2: 10.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 6.5-7]
+
+### Lateral Raise (Cable)
+
+  Set 1: 15.0kg x 12 @ RPE 8 [target: 10 reps, target RPE: 6.5-7]
+  Set 2: 15.0kg x 10 @ RPE 8 [target RPE: 6.5-7]
+
+### Tricep Pushdown (Cable)
+
+  Set 1: 70.0kg x 8 @ RPE 7 [target RPE: 6.5-7]
+  Set 2: 77.5kg x 8 @ RPE 8.5 [target RPE: 6.5-7]
+
+### Bicep Curl (Dumbbell)
+
+  Set 1: 11.5kg x 12 @ RPE 7 [target: 8 reps, target RPE: 6.5-7]
+  Set 2: 13.5kg x 10 @ RPE 8 [target: 8 reps, target RPE: 6.5-7]
+
 ## 2026-10-07
 
 ### Health / Recovery

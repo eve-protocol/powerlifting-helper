@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-07-20 to 2026-10-07
+**Period:** 2026-07-20 to 2026-10-09
 ---
 
 ## Format Guide
@@ -233,6 +233,38 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 **Leg Curl**
 - Set 1: 8 × 27kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 8 × 27kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+### 2026-10-09 (Friday)
+
+### Health / Recovery
+
+- Steps: 12438
+- Distance: 10.13 km
+- Total kcal burned: 2482
+- Weight: 78 kg
+- Resting heart rate: 46 bpm
+- Sleep: 7.42 h asleep (7.42 h in bed, deep 1.58 h, REM 1.27 h, awake 0 h)
+
+**Chest Fly (Machine)**
+- Set 1: 10 × 35kg @ RPE - [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 40kg @ RPE 7 [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 10 × 40kg @ RPE 7 [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+**Rear Delt Fly (Cable)**
+- Set 1: 10 × 10kg @ RPE 9 [target_reps=12, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 10kg @ RPE 9 [target_reps=12, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+**Lateral Raise (Cable)**
+- Set 1: 12 × 15kg @ RPE 8 [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 15kg @ RPE 8 [target_reps=10, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+**Tricep Pushdown (Cable)**
+- Set 1: 8 × 70kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 8 × 77kg @ RPE 8.5 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+
+**Bicep Curl (Dumbbell)**
+- Set 1: 12 × 11kg @ RPE 7 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 13kg @ RPE 8 [target_reps=8, target_intensity=[6.5, 7]RPE_range; est_stress=-; real_stress=-]
 
 ---
 
