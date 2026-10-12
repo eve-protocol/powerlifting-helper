@@ -13,17 +13,17 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 121 | 165 | ↓ 44 |
-| Total sets | 353 | 637 | ↓ 284 |
+| Sessions | 122 | 165 | ↓ 43 |
+| Total sets | 356 | 637 | ↓ 281 |
 | Avg sets/session | 2.92 | 3.86 | ↓ 0.94 |
 | Avg RPE | 7.32 | 7.66 | ↓ 0.34 |
 | Avg load | 140.4kg | 130.4kg | ↑ 10kg |
-| Tonnage | 182675kg | 310632kg | ↓ 127957kg |
-| Avg tonnage/session | 1509.7kg | 1882.6kg | ↓ 372.9kg |
-| Estimated stress | 70393 | 85231 | ↓ 14838 |
+| Tonnage | 183795kg | 310632kg | ↓ 126837kg |
+| Avg tonnage/session | 1506.5kg | 1882.6kg | ↓ 376.1kg |
+| Estimated stress | 70873 | 85231 | ↓ 14358 |
 | Real stress | 85442 | 175452 | ↓ 90010 |
-| Avg est stress/session | 582 | 516 | ↑ 65 |
-| Avg real stress/session | 706 | 1063 | ↓ 357 |
+| Avg est stress/session | 581 | 516 | ↑ 64 |
+| Avg real stress/session | 700 | 1063 | ↓ 363 |
 
 - Top single: 177.5kg x 1 @ 9.50
 - Previous top single: 172.5kg x 1 @ 10
@@ -36,17 +36,17 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 163 | 213 | ↓ 50 |
-| Total sets | 469 | 825 | ↓ 356 |
-| Avg sets/session | 2.88 | 3.87 | ↓ 0.99 |
+| Sessions | 164 | 213 | ↓ 49 |
+| Total sets | 471 | 825 | ↓ 354 |
+| Avg sets/session | 2.87 | 3.87 | ↓ 1 |
 | Avg RPE | 7.82 | 8.26 | ↓ 0.44 |
-| Avg load | 98.3kg | 94.6kg | ↑ 3.7kg |
-| Tonnage | 183005.5kg | 350252.5kg | ↓ 167247kg |
-| Avg tonnage/session | 1122.7kg | 1644.4kg | ↓ 521.7kg |
-| Estimated stress | 63262 | 85325 | ↓ 22063 |
-| Real stress | 97330 | 183652 | ↓ 86322 |
-| Avg est stress/session | 388 | 401 | ↓ 12 |
-| Avg real stress/session | 597 | 862 | ↓ 265 |
+| Avg load | 98.4kg | 94.6kg | ↑ 3.8kg |
+| Tonnage | 183485.5kg | 350252.5kg | ↓ 166767kg |
+| Avg tonnage/session | 1118.8kg | 1644.4kg | ↓ 525.6kg |
+| Estimated stress | 63505 | 85325 | ↓ 21820 |
+| Real stress | 97573 | 183652 | ↓ 86079 |
+| Avg est stress/session | 387 | 401 | ↓ 13 |
+| Avg real stress/session | 595 | 862 | ↓ 267 |
 
 - Top single: 140kg x 1 @ 9.50
 - Previous top single: 132.5kg x 1 @ 10
