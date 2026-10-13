@@ -40,7 +40,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W42  │   1120kg (-1815) │    930kg (-2124) │   2690kg  (+180)
+2026-W42  │   1120kg (-1815) │    930kg (-2124) │   2700kg  (+190)
 2026-W41  │   2935kg  (+695) │   3054kg  (+432) │   2510kg  (+920)
 2026-W40  │   2240kg  (-291) │   2622kg   (-62) │   1590kg  (-663)
 2026-W39  │   2531kg (-1682) │   2684kg (-1121) │   2253kg (-1040)
@@ -78,7 +78,7 @@ Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ```
 Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 ───────────┼───────────────────┼───────────────────┼──────────────────────
-2026-W42  │       0  (-941) │     273 (-1176) │     175 (-1179)
+2026-W42  │       0  (-941) │     273 (-1176) │     206 (-1148)
 2026-W41  │     941  (-111) │    1449   (+35) │    1354  (+429)
 2026-W40  │    1052  (-292) │    1414   (+77) │     925  (-620)
 2026-W39  │    1344  (-901) │    1337  (-812) │    1545  (-433)
@@ -128,7 +128,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 **Deadlift Volume (kg)**
 ```
-2026-W42 │█████████░░░░░░░░░░░░░░░░│ 2,690kg
+2026-W42 │█████████░░░░░░░░░░░░░░░░│ 2,700kg
 2026-W41 │████████░░░░░░░░░░░░░░░░░│ 2,510kg
 2026-W40 │█████░░░░░░░░░░░░░░░░░░░░│ 1,590kg
 2026-W39 │███████░░░░░░░░░░░░░░░░░░│ 2,253kg
@@ -148,8 +148,8 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ## 2026-W42
 
-**Weekly Summary:** Squat: 3 sets / 1,120kg | Bench: 4 sets / 930kg | Deadlift: 5 sets / 2,690kg
-**Stress Summary:** Squat est/real: 480/0 | Bench est/real: 274/273 | Deadlift est/real: 0/175
+**Weekly Summary:** Squat: 3 sets / 1,120kg | Bench: 4 sets / 930kg | Deadlift: 5 sets / 2,700kg
+**Stress Summary:** Squat est/real: 480/0 | Bench est/real: 274/273 | Deadlift est/real: 0/206
 
 ### 2026-10-12 (Monday)
 
@@ -204,7 +204,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 **Sumo Deadlift (Barbell)**
 - Set 1: 3 × 150kg @ RPE - [no_target; est_stress=-; real_stress=-]
 - Set 2: 3 × 170kg @ RPE - [no_target; est_stress=-; real_stress=-]
-- Set 3: 1 × 180kg @ RPE 9 [no_target; est_stress=-; real_stress=175]
+- Set 3: 1 × 190kg @ RPE 9 [no_target; est_stress=-; real_stress=206]
 - Set 4: 3 × 170kg @ RPE - [no_target; est_stress=-; real_stress=-]
 - Set 5: 8 × 130kg @ RPE - [no_target; est_stress=-; real_stress=-]
 
