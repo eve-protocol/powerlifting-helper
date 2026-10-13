@@ -3517,8 +3517,8 @@ Comparison baseline: Peaking Block v8 / Week 3
 | Avg sets/session | 4 | 5 | ↓ 1 |
 | Avg RPE | 7.72 | 9 | ↓ 1.28 |
 | Avg load | 152.1kg | 162kg | ↓ 9.9kg |
-| Tonnage | 6535kg | 2700kg | ↑ 3835kg |
-| Avg tonnage/session | 2178.3kg | 2700kg | ↓ 521.7kg |
+| Tonnage | 6535kg | 2570kg | ↑ 3965kg |
+| Avg tonnage/session | 2178.3kg | 2570kg | ↓ 391.7kg |
 | Estimated stress | - | - | n/a |
 | Real stress | 2416 | 206 | ↑ 2210 |
 | Avg est stress/session | - | - | n/a |
@@ -3604,8 +3604,8 @@ Comparison baseline: Peaking Block v8 / Week 2
 | Avg sets/session | 5 | 3 | ↑ 2 |
 | Avg RPE | 9 | 7.17 | ↑ 1.83 |
 | Avg load | 162kg | 165.8kg | ↓ 3.8kg |
-| Tonnage | 2700kg | 2510kg | ↑ 190kg |
-| Avg tonnage/session | 2700kg | 1255kg | ↑ 1445kg |
+| Tonnage | 2570kg | 2510kg | ↑ 60kg |
+| Avg tonnage/session | 2570kg | 1255kg | ↑ 1315kg |
 | Estimated stress | - | 1007 | n/a |
 | Real stress | 206 | 1354 | ↓ 1148 |
 | Avg est stress/session | - | 503 | n/a |

@@ -38,7 +38,7 @@ Finished: 2026-10-13 15:10:39
   Set 2: 170.0kg x 3 [est_stress=-, real_stress=-]
   Set 3: 190.0kg x 1 @ RPE 9 [est_stress=-, real_stress=206]
   Set 4: 170.0kg x 3 [est_stress=-, real_stress=-]
-  Set 5: 130.0kg x 8 [est_stress=-, real_stress=-]
+  Set 5: 130.0kg x 7 [est_stress=-, real_stress=-]
 
 ## 2026-10-12
 
