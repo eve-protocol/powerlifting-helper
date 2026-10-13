@@ -1,7 +1,7 @@
 # Historical RPE Tables
 
 Source: `values/history.json` parsed workout sets. Cells show best kg for exact (reps, integer RPE), with staleness emoji for the date of that best.
-Reference date: 2026-10-12
+Reference date: 2026-10-13
 
 > Legend: 🟢 <3mo • 🟡 3-6mo • 🟠 6-9mo • 🔴 9-12mo • 🟣 >1yr
 
@@ -20,7 +20,7 @@ Reference date: 2026-10-12
 | 7 | - | - | 140.0 🟢 | 140.0 🟢 | 130.0 🟡 |
 | 8 | - | 135.0 🟠 | 135.0 🟠 | 132.5 🟢 | 132.5 🟢 |
 | 9 | - | - | 120.0 🟣 | - | - |
-| 10 | 130.0 🟣 | 130.0 🟣 | 130.0 🟠 | - | - |
+| 10 | 130.0 🟣 | 130.0 🟣 | 130.0 🔴 | - | - |
 
 ### Bench Press (Barbell)
 
@@ -270,7 +270,7 @@ Reference date: 2026-10-12
 |---|---|---|---|---|---|
 | 1 | - | 150.0 🔴 | 140.0 🟣 | 130.0 🟣 | 120.0 🟣 |
 | 2 | - | - | 142.5 🟡 | 140.0 🟡 | - |
-| 3 | - | - | 137.5 🟡 | 140.0 🔴 | 130.0 🔴 |
+| 3 | - | - | 137.5 🟡 | 140.0 🟣 | 130.0 🟣 |
 | 4 | - | - | 135.0 🟡 | 132.5 🟡 | 130.0 🟡 |
 | 5 | - | - | - | 115.0 🟣 | 115.0 🟣 |
 | 6 | - | - | - | - | - |
