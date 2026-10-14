@@ -3,6 +3,30 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-14
+
+### Health / Recovery
+
+- Steps: 36
+- Distance: 0.03 km
+- Total kcal burned: 256
+
+**Week 3 · Day 3**
+Finished: 2026-10-14 15:58:59
+
+### Squat (Low Bar)
+
+  Set 1: 150.0kg x 2 @ RPE 6.5 [target: 1 reps, target RPE: 6-6.5] [est_stress=74, real_stress=155]
+  Set 2: 150.0kg x 2 @ RPE 6.5 [target: 1 reps, target RPE: 6-6.5] [est_stress=74, real_stress=155]
+  Set 3: 120.0kg x 5 [target: 1 reps, target RPE: 6-6.5] [est_stress=38, real_stress=-]
+  Set 4: 120.0kg x 5 [target: 1 reps, target RPE: 6-6.5] [est_stress=38, real_stress=-]
+
+### Bench Press (Barbell)
+
+  Set 1: 120.0kg x 2 @ RPE 6.5 [target: 1 reps, target RPE: 6-6.5] [est_stress=61, real_stress=128]
+  Set 2: 120.0kg x 2 @ RPE 6.5 [target: 1 reps, target RPE: 6-6.5] [est_stress=61, real_stress=128]
+  Set 3: 110.0kg x 5 @ RPE 7 [target: 1 reps, target RPE: 6-6.5] [est_stress=47, real_stress=272]
+
 ## 2026-10-13
 
 ### Health / Recovery
