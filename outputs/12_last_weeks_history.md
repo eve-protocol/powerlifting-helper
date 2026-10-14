@@ -182,9 +182,12 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### Health / Recovery
 
-- Steps: 22
-- Distance: 0.02 km
-- Total kcal burned: 256
+- Steps: 6261
+- Distance: 5.09 km
+- Total kcal burned: 2408
+- Weight: 78.1 kg
+- Resting heart rate: 47 bpm
+- Sleep: 5.72 h asleep (6.95 h in bed, deep 0.38 h, REM 0.43 h, awake 1.23 h)
 
 **Incline Bench Press (Dumbbell)**
 - Set 1: 5 × 45kg @ RPE 6 [target_reps=5, target_intensity=[6, 6.5]RPE_range; est_stress=16; real_stress=15]
