@@ -215,9 +215,12 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ### Health / Recovery
 
-- Steps: 36
-- Distance: 0.03 km
-- Total kcal burned: 256
+- Steps: 7017
+- Distance: 5.93 km
+- Total kcal burned: 2496
+- Weight: 78.3 kg
+- Resting heart rate: 43 bpm
+- Sleep: 5.37 h asleep (5.52 h in bed, deep 0.78 h, REM 1.07 h, awake 0.15 h)
 
 **Squat (Low Bar)**
 - Set 1: 2 × 150kg @ RPE 6.5 [target_reps=1, target_intensity=[6, 6.5]RPE_range; est_stress=74; real_stress=155]
