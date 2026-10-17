@@ -3,6 +3,34 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-17
+
+### Health / Recovery
+
+- Total kcal burned: 256
+
+**Week 3 · Day 5**
+Finished: 2026-10-17 12:28:22
+
+### Squat (Low Bar)
+
+  Set 1: 165.0kg x 1 @ RPE 7 [target RPE: 8-8] [est_stress=139, real_stress=111]
+  Set 2: 175.0kg x 1 @ RPE 8 [target RPE: 9-9] [est_stress=198, real_stress=165]
+  Set 3: 180.0kg x 1 @ RPE 10 [target RPE: 10-10] [est_stress=270, real_stress=270]
+
+### Bench Press (Barbell)
+
+  Set 1: 130.0kg x 1 @ RPE 7 [target RPE: 8-8] [est_stress=108, real_stress=87]
+  Set 2: 137.5kg x 1 @ RPE 9 [target RPE: 9-9] [est_stress=154, real_stress=154]
+  Set 3: 142.5kg x 1 @ RPE 9.5 [target RPE: 10-10] [est_stress=214, real_stress=192]
+
+### Sumo Deadlift (Barbell)
+
+  Set 1: 180.0kg x 1 @ RPE 7.5 [target RPE: 8-8] [est_stress=146, real_stress=131]
+  Set 2: 190.0kg x 1 @ RPE 9.5 [target RPE: 9-9] [est_stress=206, real_stress=231]
+  Set 3: 200.0kg x 0 [failed] [target: 1 reps, target RPE: 10-10] [est_stress=300, real_stress=-]
+  Set 4: 170.0kg x 5 @ RPE 8 [target: 1 reps, target RPE: 10-10] [est_stress=184, real_stress=614]
+
 ## 2026-10-14
 
 ### Health / Recovery
@@ -17362,10 +17390,10 @@ Finished: 2024-12-28 01:49:30
 
 ### Squat (Low Bar)
 
-  Set 1: 135.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=250, real_stress=312]
-  Set 2: 127.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=395, real_stress=395]
-  Set 3: 127.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=395, real_stress=395]
-  Set 4: 127.5kg x 6 [target RPE: 8] [est_stress=395, real_stress=-]
+  Set 1: 135.0kg x 4 @ RPE 8 [target RPE: 7] [est_stress=243, real_stress=304]
+  Set 2: 127.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=384, real_stress=384]
+  Set 3: 127.5kg x 6 @ RPE 8 [target RPE: 8] [est_stress=384, real_stress=384]
+  Set 4: 127.5kg x 6 [target RPE: 8] [est_stress=384, real_stress=-]
 
 ### Lunge (Barbell)
 
@@ -17381,9 +17409,9 @@ Finished: 2024-12-28 01:49:30
 
 ### High Bar Squat (Barbell)
 
-  Set 1: 80.0kg x 6 @ RPE 8 [est_stress=-, real_stress=98]
-  Set 2: 70.0kg x 6 @ RPE 6 [est_stress=-, real_stress=42]
-  Set 3: 70.0kg x 6 @ RPE 6.5 [est_stress=-, real_stress=47]
+  Set 1: 80.0kg x 6 @ RPE 8 [est_stress=-, real_stress=95]
+  Set 2: 70.0kg x 6 @ RPE 6 [est_stress=-, real_stress=41]
+  Set 3: 70.0kg x 6 @ RPE 6.5 [est_stress=-, real_stress=46]
 
 ### Cable Crunch
 
