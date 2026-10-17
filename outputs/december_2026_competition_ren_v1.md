@@ -1,6 +1,6 @@
 # December 2026 Competition - Ren v1
 
-Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-triple progression in REN_3.xlsx; three squat exposures including same-stance tempo, Saturday heavy sumo, Thursday incline, Friday rest. Proposal for review, not Boostcamp-synced.
+Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-triple progression in REN_3.xlsx; three squat exposures including same-stance tempo, Tuesday primary incline with paused sumo and RDL backoffs, Saturday heavy sumo, Thursday condo accessories, Friday rest. Proposal for review, not Boostcamp-synced.
 
 ## Overview
 
@@ -12,9 +12,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 1
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for written leg support.
+**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -30,18 +30,22 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoffs / Supported Row
+#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
-**Day intent:** Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday squat quality.
+**Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 5.5-6.5 · 140kg anchor; 3 reps @ RPE 5.5-6.5 · 140kg anchor |
-| 2 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5 |
+| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-6.5 · 115kg anchor |
+| 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6-7 · 42.5kg anchor; 6 reps @ RPE 6-7 · 42.5kg anchor |
+| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause one true second when bar reaches top edge of knee; keep legs/bar connected then hips through. No exploratory heavy pull.
+- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory set, not zero. Remove this first if Wednesday squat is impaired.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
@@ -60,23 +64,27 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 
-#### Day 4 — Thursday - Primary Incline DB / Upper Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
 
-**Day intent:** Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6-7 · 42.5kg anchor; 6 reps @ RPE 6-7 · 42.5kg anchor |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7.5 |
-| 3 | Rear Delt Fly (Cable) | 12 reps @ RPE 6.5-7.5 |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6-7 |
+| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
+| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
 | 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
+| 6 | Hip Adductor (Machine) | 12 reps @ RPE 6-6.5 |
 
 **Why these movements:**
 
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume the day after competition bench.
-- **Lateral Raise (Cable):** Shoulder work without near-failure stack jumps.
-- **Rear Delt Fly (Cable):** Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
-- **Tricep Pushdown (Cable):** Low residual-fatigue pressing support.
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
+- **Hip Adductor (Machine):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
 #### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
 
@@ -106,9 +114,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 2
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for written leg support.
+**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -116,7 +124,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -124,22 +131,23 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
-- **Hip adductor (Rowerg):** Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume; no prolonged soreness.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoffs / Supported Row
+#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
-**Day intent:** Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday squat quality.
+**Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 120kg anchor; 6 reps @ RPE 6-7 · 120kg anchor |
-| 3 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor |
+| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause one true second when bar reaches top edge of knee; keep legs/bar connected then hips through. No exploratory heavy pull.
-- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness or loss of position. Remove first if Wednesday squat is impaired.
+- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory set, not zero. Remove this first if Wednesday squat is impaired.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
@@ -158,23 +166,27 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 
-#### Day 4 — Thursday - Primary Incline DB / Upper Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
 
-**Day intent:** Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 3 | Rear Delt Fly (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
+| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5; 12 reps @ RPE 6-7.5 |
+| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
 | 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 6 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume the day after competition bench.
-- **Lateral Raise (Cable):** Shoulder work without near-failure stack jumps.
-- **Rear Delt Fly (Cable):** Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
-- **Tricep Pushdown (Cable):** Low residual-fatigue pressing support.
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
+- **Hip adductor (Rowerg):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
 #### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
 
@@ -204,9 +216,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 3
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for written leg support.
+**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -214,7 +226,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip Adductor (Machine) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -222,22 +233,23 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
-- **Hip Adductor (Machine):** Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume; no prolonged soreness.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoffs / Supported Row
+#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
-**Day intent:** Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday squat quality.
+**Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 120kg anchor; 6 reps @ RPE 6-7 · 120kg anchor |
-| 3 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor |
+| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause one true second when bar reaches top edge of knee; keep legs/bar connected then hips through. No exploratory heavy pull.
-- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness or loss of position. Remove first if Wednesday squat is impaired.
+- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory set, not zero. Remove this first if Wednesday squat is impaired.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
@@ -256,23 +268,27 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 
-#### Day 4 — Thursday - Primary Incline DB / Upper Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
 
-**Day intent:** Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 3 | Rear Delt Fly (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
+| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5; 12 reps @ RPE 6-7.5 |
+| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
 | 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 6 | Hip Adductor (Machine) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume the day after competition bench.
-- **Lateral Raise (Cable):** Shoulder work without near-failure stack jumps.
-- **Rear Delt Fly (Cable):** Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
-- **Tricep Pushdown (Cable):** Low residual-fatigue pressing support.
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
+- **Hip Adductor (Machine):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
 #### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
 
@@ -302,9 +318,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 4
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for written leg support.
+**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -312,7 +328,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -320,22 +335,23 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
-- **Hip adductor (Rowerg):** Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume; no prolonged soreness.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoffs / Supported Row
+#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
-**Day intent:** Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday squat quality.
+**Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor; 6 reps @ RPE 6-7 · 125kg anchor |
-| 3 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8.5 · 47.5kg anchor; 6 reps @ RPE 7.5-8.5 · 47.5kg anchor; 6 reps @ RPE 7.5-8.5 · 47.5kg anchor |
+| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause one true second when bar reaches top edge of knee; keep legs/bar connected then hips through. No exploratory heavy pull.
-- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness or loss of position. Remove first if Wednesday squat is impaired.
+- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory set, not zero. Remove this first if Wednesday squat is impaired.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
@@ -354,23 +370,27 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 
-#### Day 4 — Thursday - Primary Incline DB / Upper Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
 
-**Day intent:** Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8.5 · 47.5kg anchor; 6 reps @ RPE 7.5-8.5 · 47.5kg anchor; 6 reps @ RPE 7.5-8.5 · 47.5kg anchor |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 3 | Rear Delt Fly (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5 |
+| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
+| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
+| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
+| 6 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume the day after competition bench.
-- **Lateral Raise (Cable):** Shoulder work without near-failure stack jumps.
-- **Rear Delt Fly (Cable):** Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
-- **Tricep Pushdown (Cable):** Low residual-fatigue pressing support.
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
+- **Hip adductor (Rowerg):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
 #### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
 
@@ -400,9 +420,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 5
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for written leg support.
+**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -410,7 +430,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6.5-7.5 · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip Adductor (Machine) | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -418,22 +437,23 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
-- **Hip Adductor (Machine):** Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume; no prolonged soreness.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoffs / Supported Row
+#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
-**Day intent:** Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday squat quality.
+**Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
-| 3 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 47.5kg anchor; 5 reps @ RPE 7.5-8.5 · 47.5kg anchor; 5 reps @ RPE 7.5-8.5 · 47.5kg anchor |
+| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause one true second when bar reaches top edge of knee; keep legs/bar connected then hips through. No exploratory heavy pull.
-- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness or loss of position. Remove first if Wednesday squat is impaired.
+- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory set, not zero. Remove this first if Wednesday squat is impaired.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
@@ -452,23 +472,27 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 
-#### Day 4 — Thursday - Primary Incline DB / Upper Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
 
-**Day intent:** Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 47.5kg anchor; 5 reps @ RPE 7.5-8.5 · 47.5kg anchor; 5 reps @ RPE 7.5-8.5 · 47.5kg anchor |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 3 | Rear Delt Fly (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5 |
+| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
+| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
+| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
+| 6 | Hip Adductor (Machine) | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume the day after competition bench.
-- **Lateral Raise (Cable):** Shoulder work without near-failure stack jumps.
-- **Rear Delt Fly (Cable):** Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
-- **Tricep Pushdown (Cable):** Low residual-fatigue pressing support.
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
+- **Hip Adductor (Machine):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
 #### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
 
@@ -498,9 +522,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 6
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for written leg support.
+**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -508,7 +532,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -516,22 +539,23 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
-- **Hip adductor (Rowerg):** Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume; no prolonged soreness.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoffs / Supported Row
+#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
-**Day intent:** Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday squat quality.
+**Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
-| 3 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor |
+| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause one true second when bar reaches top edge of knee; keep legs/bar connected then hips through. No exploratory heavy pull.
-- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness or loss of position. Remove first if Wednesday squat is impaired.
+- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory set, not zero. Remove this first if Wednesday squat is impaired.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
@@ -550,23 +574,27 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 
-#### Day 4 — Thursday - Primary Incline DB / Upper Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
 
-**Day intent:** Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 3 | Rear Delt Fly (Cable) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5 |
+| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
+| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
+| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
+| 6 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume the day after competition bench.
-- **Lateral Raise (Cable):** Shoulder work without near-failure stack jumps.
-- **Rear Delt Fly (Cable):** Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
-- **Tricep Pushdown (Cable):** Low residual-fatigue pressing support.
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
+- **Hip adductor (Rowerg):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
 #### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
 
@@ -596,9 +624,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 7
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for written leg support.
+**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -614,18 +642,20 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoffs / Supported Row
+#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
-**Day intent:** Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday squat quality.
+**Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor |
-| 2 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5 |
+| 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6-7 · 50kg anchor; 5 reps @ RPE 6-7 · 50kg anchor |
+| 3 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause one true second when bar reaches top edge of knee; keep legs/bar connected then hips through. No exploratory heavy pull.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
@@ -644,23 +674,25 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 
-#### Day 4 — Thursday - Primary Incline DB / Upper Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
 
-**Day intent:** Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6-7 · 50kg anchor; 5 reps @ RPE 6-7 · 50kg anchor |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6.5-7.5 |
-| 3 | Rear Delt Fly (Cable) | 12 reps @ RPE 6.5-7.5 |
+| 1 | Chest Fly (Machine) | 12 reps @ RPE 6-7 |
+| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
+| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
 | 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
+| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume the day after competition bench.
-- **Lateral Raise (Cable):** Shoulder work without near-failure stack jumps.
-- **Rear Delt Fly (Cable):** Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
-- **Tricep Pushdown (Cable):** Low residual-fatigue pressing support.
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
 
 #### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
 

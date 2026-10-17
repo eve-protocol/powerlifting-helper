@@ -1,17 +1,16 @@
 name: December 2026 Competition - Ren v1
 description: Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-triple progression in REN_3.xlsx;
-  three squat exposures including same-stance tempo, Saturday heavy sumo, Thursday incline, Friday rest. Proposal
-  for review, not Boostcamp-synced.
+  three squat exposures including same-stance tempo, Tuesday primary incline with paused sumo and RDL backoffs,
+  Saturday heavy sumo, Thursday condo accessories, Friday rest. Proposal for review, not Boostcamp-synced.
 weeks: 8
 days_per_week: 5
 planned_start_date: '2026-10-19'
 competition_date: '2026-12-12'
 schedule:
-  monday: Primary competition bench / same-wide-stance tempo squat / weighted pull-ups; condo leg extension and
-    adductor later
-  tuesday: Paused-at-knee sumo / easy Romanian-deadlift backoffs / supported row
+  monday: Primary competition bench / same-wide-stance tempo squat / weighted pull-ups; condo leg extension later
+  tuesday: Paused-at-knee sumo / primary incline dumbbell / easy Romanian-deadlift backoffs / supported row
   wednesday: Heavy low bar then low-cost competition bench commands; pull-ups afterward
-  thursday: Primary incline dumbbell and upper-body support
+  thursday: 'Condo-only accessories: chest, shoulders, arms and one adductor option'
   friday: Full rest before heavy deadlift
   saturday: Heavy sumo then light low bar then Spoto / hip thrust
   sunday: Rest
@@ -70,26 +69,26 @@ exercise_variations:
   squat: Tempo Squat (Barbell) REPLACES Monday high bar. Use the same wider low-bar competition stance and shoes,
     three-second controlled descent to legal depth, normal strong ascent; do not force maximal knee-forward travel.
     Wednesday and Saturday low bar yield three weekly exposures.
-  deadlift: Sumo Deadlift (Paused) at knee remains Tuesday for knee-to-lockout; Romanian Deadlift (Barbell) is a
-    deliberately easy 1-2 set BACKOFF afterward in development weeks, not another hard primary pull. If Wednesday
-    squat quality deteriorates, remove the RDL backoff rather than add it to Saturday. B-stance, unilateral and
-    Zercher are not concurrently added.
-  bench: Primary competition bench Monday BEFORE tempo squat, controlled command-style competition bench Wednesday
-    after squat, Spoto Saturday; primary incline DB Thursday with its own progression. Close-grip from friend sheet
-    replaced by competition pause practice.
+  deadlift: Sumo Deadlift (Paused) at knee remains Tuesday for knee-to-lockout; Romanian Deadlift (Barbell) is an
+    easy 1-2 set BACKOFF directly afterward Weeks 1-6, not another hard primary pull. If Wednesday squat quality
+    deteriorates, remove the RDL backoff rather than add it to Saturday. B-stance, unilateral and Zercher are not
+    concurrently added.
+  bench: Primary competition bench Monday BEFORE tempo squat, PRIMARY incline DB after Tuesday pulls, controlled
+    command-style competition bench Wednesday after squat, Spoto Saturday. Close-grip from friend sheet replaced
+    by competition pause practice.
   adductor: Use one hip-adductor option per week, not both. Exact user-provided custom name Hip adductor (Rowerg)
     is case-sensitive.
-condo_policy: Monday leg extension and the single selected adductor variation may be completed after returning home;
-  Saturday machine hip thrust may follow the gym session. Log them under the intended workout. Thursday contains
-  no lower-body fatigue that threatens Saturday.
+condo_policy: Monday leg extension may be completed after returning home; Thursday is a condo-only accessory session
+  with one selected adductor variation; Saturday machine hip thrust may follow the gym session. Log them under the
+  intended workout. Thursday hip work is low-soreness to protect Saturday heavy sumo.
 meet_policy: Local competition, 83kg class with no cut planned; weigh-in and federation details to confirm before
   attempt-day logistics. Do not assume mock-meet attempts are white-light legal.
 workouts:
 - week: 1
   day: 1
-  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
-  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for
-    written leg support.
+  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can
+    be completed at the condo.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
@@ -152,9 +151,9 @@ workouts:
     equipment_dependent: true
 - week: 1
   day: 2
-  name: Tuesday - Paused Sumo / RDL Backoffs / Supported Row
-  intent: Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday
-    squat quality.
+  name: Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+  intent: Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
+    backoffs start Week 1 and yield to Wednesday squat quality.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -172,6 +171,31 @@ workouts:
       - 5.5
       - 6.5
       target_weight_kg: 140
+  - name: Romanian Deadlift (Barbell)
+    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
+      set, not zero. Remove this first if Wednesday squat is impaired.
+    role: accessory
+    sets:
+    - target: 6
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 115
+  - name: Incline Bench Press (Dumbbell)
+    intent: PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token
+      accessory. Leave Wednesday competition squat and command bench viable.
+    role: primary_bench
+    sets:
+    - target: 6
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 42.5
+    - target: 6
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 42.5
   - name: Seated Row (Cable)
     intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
     role: accessory
@@ -240,36 +264,32 @@ workouts:
       target_weight_kg: 20
 - week: 1
   day: 4
-  name: Thursday - Primary Incline DB / Upper Accessories
-  intent: Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+  name: Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+  intent: Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
+    sumo. No new heavy hinge or grip work.
   priority: required
   exercises:
-  - name: Incline Bench Press (Dumbbell)
-    intent: PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume
-      the day after competition bench.
-    role: primary_bench
-    sets:
-    - target: 6
-      rpe:
-      - 6
-      - 7
-      target_weight_kg: 42.5
-    - target: 6
-      rpe:
-      - 6
-      - 7
-      target_weight_kg: 42.5
-  - name: Lateral Raise (Cable)
-    intent: Shoulder work without near-failure stack jumps.
+  - name: Chest Fly (Machine)
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
+      - 6
+      - 7
+    equipment_dependent: true
+  - name: Lateral Raise (Cable)
+    intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
+      reps.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
       - 7.5
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
     role: accessory
     sets:
     - target: 12
@@ -278,13 +298,32 @@ workouts:
       - 7.5
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Low residual-fatigue pressing support.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Seated DB curls; avoid the painful condo preacher setup.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    equipment_dependent: true
+  - name: Hip Adductor (Machine)
+    intent: 'Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday
+      sumo.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 6.5
     equipment_dependent: true
 - week: 1
   day: 5
@@ -344,9 +383,9 @@ workouts:
     equipment_dependent: true
 - week: 2
   day: 1
-  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
-  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for
-    written leg support.
+  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can
+    be completed at the condo.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
@@ -426,25 +465,11 @@ workouts:
       - 7
       - 7.5
     equipment_dependent: true
-  - name: Hip adductor (Rowerg)
-    intent: 'Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume;
-      no prolonged soreness.'
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 6
-      - 7
-    - target: 12
-      rpe:
-      - 6
-      - 7
-    equipment_dependent: true
 - week: 2
   day: 2
-  name: Tuesday - Paused Sumo / RDL Backoffs / Supported Row
-  intent: Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday
-    squat quality.
+  name: Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+  intent: Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
+    backoffs start Week 1 and yield to Wednesday squat quality.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -468,8 +493,8 @@ workouts:
       - 7
       target_weight_kg: 150
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness
-      or loss of position. Remove first if Wednesday squat is impaired.
+    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
+      set, not zero. Remove this first if Wednesday squat is impaired.
     role: accessory
     sets:
     - target: 6
@@ -482,6 +507,26 @@ workouts:
       - 6
       - 7
       target_weight_kg: 120
+  - name: Incline Bench Press (Dumbbell)
+    intent: PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token
+      accessory. Leave Wednesday competition squat and command bench viable.
+    role: primary_bench
+    sets:
+    - target: 6
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 45
+    - target: 6
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 45
+    - target: 6
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 45
   - name: Seated Row (Cable)
     intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
     role: accessory
@@ -564,32 +609,13 @@ workouts:
       target_weight_kg: 25
 - week: 2
   day: 4
-  name: Thursday - Primary Incline DB / Upper Accessories
-  intent: Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+  name: Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+  intent: Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
+    sumo. No new heavy hinge or grip work.
   priority: required
   exercises:
-  - name: Incline Bench Press (Dumbbell)
-    intent: PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume
-      the day after competition bench.
-    role: primary_bench
-    sets:
-    - target: 6
-      rpe:
-      - 7
-      - 8
-      target_weight_kg: 45
-    - target: 6
-      rpe:
-      - 7
-      - 8
-      target_weight_kg: 45
-    - target: 6
-      rpe:
-      - 7
-      - 8
-      target_weight_kg: 45
-  - name: Lateral Raise (Cable)
-    intent: Shoulder work without near-failure stack jumps.
+  - name: Chest Fly (Machine)
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
     role: accessory
     sets:
     - target: 12
@@ -601,8 +627,22 @@ workouts:
       - 6.5
       - 7.5
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
+  - name: Lateral Raise (Cable)
+    intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
+      reps.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7.5
+    - target: 12
+      rpe:
+      - 6
+      - 7.5
+    equipment_dependent: true
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
     role: accessory
     sets:
     - target: 12
@@ -615,7 +655,7 @@ workouts:
       - 7.5
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Low residual-fatigue pressing support.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
     role: accessory
     sets:
     - target: 10
@@ -626,6 +666,33 @@ workouts:
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Seated DB curls; avoid the painful condo preacher setup.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    equipment_dependent: true
+  - name: Hip adductor (Rowerg)
+    intent: 'Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday
+      sumo.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
+    - target: 12
+      rpe:
+      - 6
+      - 7
     equipment_dependent: true
 - week: 2
   day: 5
@@ -704,9 +771,9 @@ workouts:
     equipment_dependent: true
 - week: 3
   day: 1
-  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
-  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for
-    written leg support.
+  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can
+    be completed at the condo.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
@@ -786,25 +853,11 @@ workouts:
       - 7
       - 7.5
     equipment_dependent: true
-  - name: Hip Adductor (Machine)
-    intent: 'Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume;
-      no prolonged soreness.'
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 6
-      - 7
-    - target: 12
-      rpe:
-      - 6
-      - 7
-    equipment_dependent: true
 - week: 3
   day: 2
-  name: Tuesday - Paused Sumo / RDL Backoffs / Supported Row
-  intent: Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday
-    squat quality.
+  name: Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+  intent: Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
+    backoffs start Week 1 and yield to Wednesday squat quality.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -828,8 +881,8 @@ workouts:
       - 7
       target_weight_kg: 150
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness
-      or loss of position. Remove first if Wednesday squat is impaired.
+    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
+      set, not zero. Remove this first if Wednesday squat is impaired.
     role: accessory
     sets:
     - target: 6
@@ -842,6 +895,26 @@ workouts:
       - 6
       - 7
       target_weight_kg: 120
+  - name: Incline Bench Press (Dumbbell)
+    intent: PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token
+      accessory. Leave Wednesday competition squat and command bench viable.
+    role: primary_bench
+    sets:
+    - target: 6
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 45
+    - target: 6
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 45
+    - target: 6
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 45
   - name: Seated Row (Cable)
     intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
     role: accessory
@@ -924,32 +997,13 @@ workouts:
       target_weight_kg: 25
 - week: 3
   day: 4
-  name: Thursday - Primary Incline DB / Upper Accessories
-  intent: Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+  name: Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+  intent: Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
+    sumo. No new heavy hinge or grip work.
   priority: required
   exercises:
-  - name: Incline Bench Press (Dumbbell)
-    intent: PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume
-      the day after competition bench.
-    role: primary_bench
-    sets:
-    - target: 6
-      rpe:
-      - 7
-      - 8
-      target_weight_kg: 45
-    - target: 6
-      rpe:
-      - 7
-      - 8
-      target_weight_kg: 45
-    - target: 6
-      rpe:
-      - 7
-      - 8
-      target_weight_kg: 45
-  - name: Lateral Raise (Cable)
-    intent: Shoulder work without near-failure stack jumps.
+  - name: Chest Fly (Machine)
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
     role: accessory
     sets:
     - target: 12
@@ -961,8 +1015,22 @@ workouts:
       - 6.5
       - 7.5
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
+  - name: Lateral Raise (Cable)
+    intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
+      reps.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7.5
+    - target: 12
+      rpe:
+      - 6
+      - 7.5
+    equipment_dependent: true
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
     role: accessory
     sets:
     - target: 12
@@ -975,7 +1043,7 @@ workouts:
       - 7.5
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Low residual-fatigue pressing support.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
     role: accessory
     sets:
     - target: 10
@@ -986,6 +1054,33 @@ workouts:
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Seated DB curls; avoid the painful condo preacher setup.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    equipment_dependent: true
+  - name: Hip Adductor (Machine)
+    intent: 'Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday
+      sumo.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
+    - target: 12
+      rpe:
+      - 6
+      - 7
     equipment_dependent: true
 - week: 3
   day: 5
@@ -1064,9 +1159,9 @@ workouts:
     equipment_dependent: true
 - week: 4
   day: 1
-  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
-  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for
-    written leg support.
+  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can
+    be completed at the condo.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
@@ -1146,25 +1241,11 @@ workouts:
       - 7
       - 7.5
     equipment_dependent: true
-  - name: Hip adductor (Rowerg)
-    intent: 'Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume;
-      no prolonged soreness.'
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 6
-      - 7
-    - target: 12
-      rpe:
-      - 6
-      - 7
-    equipment_dependent: true
 - week: 4
   day: 2
-  name: Tuesday - Paused Sumo / RDL Backoffs / Supported Row
-  intent: Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday
-    squat quality.
+  name: Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+  intent: Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
+    backoffs start Week 1 and yield to Wednesday squat quality.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -1188,8 +1269,8 @@ workouts:
       - 7
       target_weight_kg: 150
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness
-      or loss of position. Remove first if Wednesday squat is impaired.
+    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
+      set, not zero. Remove this first if Wednesday squat is impaired.
     role: accessory
     sets:
     - target: 6
@@ -1202,6 +1283,26 @@ workouts:
       - 6
       - 7
       target_weight_kg: 125
+  - name: Incline Bench Press (Dumbbell)
+    intent: PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token
+      accessory. Leave Wednesday competition squat and command bench viable.
+    role: primary_bench
+    sets:
+    - target: 6
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 47.5
+    - target: 6
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 47.5
+    - target: 6
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 47.5
   - name: Seated Row (Cable)
     intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
     role: accessory
@@ -1279,68 +1380,66 @@ workouts:
       target_weight_kg: 25
 - week: 4
   day: 4
-  name: Thursday - Primary Incline DB / Upper Accessories
-  intent: Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+  name: Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+  intent: Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
+    sumo. No new heavy hinge or grip work.
   priority: required
   exercises:
-  - name: Incline Bench Press (Dumbbell)
-    intent: PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume
-      the day after competition bench.
-    role: primary_bench
-    sets:
-    - target: 6
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 47.5
-    - target: 6
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 47.5
-    - target: 6
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 47.5
-  - name: Lateral Raise (Cable)
-    intent: Shoulder work without near-failure stack jumps.
+  - name: Chest Fly (Machine)
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
     role: accessory
     sets:
-    - target: 12
-      rpe:
-      - 6.5
-      - 7.5
     - target: 12
       rpe:
       - 6.5
       - 7.5
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
+  - name: Lateral Raise (Cable)
+    intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
+      reps.'
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
+      - 6
       - 7.5
+    equipment_dependent: true
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    role: accessory
+    sets:
     - target: 12
       rpe:
       - 6.5
       - 7.5
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Low residual-fatigue pressing support.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Seated DB curls; avoid the painful condo preacher setup.
+    role: accessory
+    sets:
     - target: 10
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Hip adductor (Rowerg)
+    intent: 'Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday
+      sumo.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
     equipment_dependent: true
 - week: 4
   day: 5
@@ -1409,9 +1508,9 @@ workouts:
     equipment_dependent: true
 - week: 5
   day: 1
-  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
-  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for
-    written leg support.
+  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can
+    be completed at the condo.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
@@ -1491,21 +1590,11 @@ workouts:
       - 7
       - 7.5
     equipment_dependent: true
-  - name: Hip Adductor (Machine)
-    intent: 'Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume;
-      no prolonged soreness.'
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 6
-      - 7
-    equipment_dependent: true
 - week: 5
   day: 2
-  name: Tuesday - Paused Sumo / RDL Backoffs / Supported Row
-  intent: Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday
-    squat quality.
+  name: Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+  intent: Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
+    backoffs start Week 1 and yield to Wednesday squat quality.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -1529,8 +1618,8 @@ workouts:
       - 7
       target_weight_kg: 155
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness
-      or loss of position. Remove first if Wednesday squat is impaired.
+    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
+      set, not zero. Remove this first if Wednesday squat is impaired.
     role: accessory
     sets:
     - target: 6
@@ -1538,6 +1627,26 @@ workouts:
       - 6
       - 7
       target_weight_kg: 125
+  - name: Incline Bench Press (Dumbbell)
+    intent: PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token
+      accessory. Leave Wednesday competition squat and command bench viable.
+    role: primary_bench
+    sets:
+    - target: 5
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 47.5
+    - target: 5
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 47.5
+    - target: 5
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 47.5
   - name: Seated Row (Cable)
     intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
     role: accessory
@@ -1615,68 +1724,66 @@ workouts:
       target_weight_kg: 25
 - week: 5
   day: 4
-  name: Thursday - Primary Incline DB / Upper Accessories
-  intent: Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+  name: Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+  intent: Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
+    sumo. No new heavy hinge or grip work.
   priority: required
   exercises:
-  - name: Incline Bench Press (Dumbbell)
-    intent: PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume
-      the day after competition bench.
-    role: primary_bench
-    sets:
-    - target: 5
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 47.5
-    - target: 5
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 47.5
-    - target: 5
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 47.5
-  - name: Lateral Raise (Cable)
-    intent: Shoulder work without near-failure stack jumps.
+  - name: Chest Fly (Machine)
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
     role: accessory
     sets:
-    - target: 12
-      rpe:
-      - 6.5
-      - 7.5
     - target: 12
       rpe:
       - 6.5
       - 7.5
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
+  - name: Lateral Raise (Cable)
+    intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
+      reps.'
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
+      - 6
       - 7.5
+    equipment_dependent: true
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    role: accessory
+    sets:
     - target: 12
       rpe:
       - 6.5
       - 7.5
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Low residual-fatigue pressing support.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Seated DB curls; avoid the painful condo preacher setup.
+    role: accessory
+    sets:
     - target: 10
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Hip Adductor (Machine)
+    intent: 'Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday
+      sumo.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
     equipment_dependent: true
 - week: 5
   day: 5
@@ -1745,9 +1852,9 @@ workouts:
     equipment_dependent: true
 - week: 6
   day: 1
-  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
-  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for
-    written leg support.
+  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can
+    be completed at the condo.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
@@ -1822,21 +1929,11 @@ workouts:
       - 7
       - 7.5
     equipment_dependent: true
-  - name: Hip adductor (Rowerg)
-    intent: 'Condo: controlled hip adduction, comfortable ROM; alternate the two setups rather than duplicate volume;
-      no prolonged soreness.'
-    role: accessory
-    sets:
-    - target: 12
-      rpe:
-      - 6
-      - 7
-    equipment_dependent: true
 - week: 6
   day: 2
-  name: Tuesday - Paused Sumo / RDL Backoffs / Supported Row
-  intent: Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday
-    squat quality.
+  name: Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+  intent: Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
+    backoffs start Week 1 and yield to Wednesday squat quality.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -1860,8 +1957,8 @@ workouts:
       - 7
       target_weight_kg: 155
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF after paused sumo; controlled eccentric and bar close, stop well before soreness
-      or loss of position. Remove first if Wednesday squat is impaired.
+    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
+      set, not zero. Remove this first if Wednesday squat is impaired.
     role: accessory
     sets:
     - target: 6
@@ -1869,6 +1966,26 @@ workouts:
       - 6
       - 7
       target_weight_kg: 125
+  - name: Incline Bench Press (Dumbbell)
+    intent: PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token
+      accessory. Leave Wednesday competition squat and command bench viable.
+    role: primary_bench
+    sets:
+    - target: 5
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 50
+    - target: 5
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 50
+    - target: 5
+      rpe:
+      - 7.5
+      - 8.5
+      target_weight_kg: 50
   - name: Seated Row (Cable)
     intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
     role: accessory
@@ -1951,68 +2068,66 @@ workouts:
       target_weight_kg: 25
 - week: 6
   day: 4
-  name: Thursday - Primary Incline DB / Upper Accessories
-  intent: Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+  name: Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+  intent: Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
+    sumo. No new heavy hinge or grip work.
   priority: required
   exercises:
-  - name: Incline Bench Press (Dumbbell)
-    intent: PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume
-      the day after competition bench.
-    role: primary_bench
-    sets:
-    - target: 5
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 50
-    - target: 5
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 50
-    - target: 5
-      rpe:
-      - 7.5
-      - 8.5
-      target_weight_kg: 50
-  - name: Lateral Raise (Cable)
-    intent: Shoulder work without near-failure stack jumps.
+  - name: Chest Fly (Machine)
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
     role: accessory
     sets:
-    - target: 12
-      rpe:
-      - 6.5
-      - 7.5
     - target: 12
       rpe:
       - 6.5
       - 7.5
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
+  - name: Lateral Raise (Cable)
+    intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
+      reps.'
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
+      - 6
       - 7.5
+    equipment_dependent: true
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    role: accessory
+    sets:
     - target: 12
       rpe:
       - 6.5
       - 7.5
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Low residual-fatigue pressing support.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Seated DB curls; avoid the painful condo preacher setup.
+    role: accessory
+    sets:
     - target: 10
       rpe:
       - 6.5
       - 7.5
+    equipment_dependent: true
+  - name: Hip adductor (Rowerg)
+    intent: 'Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday
+      sumo.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
     equipment_dependent: true
 - week: 6
   day: 5
@@ -2086,9 +2201,9 @@ workouts:
     equipment_dependent: true
 - week: 7
   day: 1
-  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs
-  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; condo timing for
-    written leg support.
+  name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+  intent: Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can
+    be completed at the condo.
   priority: required
   exercises:
   - name: Bench Press (Barbell)
@@ -2146,9 +2261,9 @@ workouts:
     equipment_dependent: true
 - week: 7
   day: 2
-  name: Tuesday - Paused Sumo / RDL Backoffs / Supported Row
-  intent: Second sumo exposure, deliberately cheaper than Saturday; RDL backoffs start Week 2 and yield to Wednesday
-    squat quality.
+  name: Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+  intent: Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
+    backoffs start Week 1 and yield to Wednesday squat quality.
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -2166,6 +2281,21 @@ workouts:
       - 6
       - 7
       target_weight_kg: 155
+  - name: Incline Bench Press (Dumbbell)
+    intent: PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token
+      accessory. Leave Wednesday competition squat and command bench viable.
+    role: primary_bench
+    sets:
+    - target: 5
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 50
+    - target: 5
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 50
   - name: Seated Row (Cable)
     intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
     role: accessory
@@ -2229,36 +2359,32 @@ workouts:
       target_weight_kg: 25
 - week: 7
   day: 4
-  name: Thursday - Primary Incline DB / Upper Accessories
-  intent: Condo or powerlifting gym; Friday full rest, so no heavy lower-body, grip or rows here.
+  name: Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+  intent: Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
+    sumo. No new heavy hinge or grip work.
   priority: required
   exercises:
-  - name: Incline Bench Press (Dumbbell)
-    intent: PRIMARY incline progression, per hand; full ROM, own load/rep checkpoint; do not turn into junk volume
-      the day after competition bench.
-    role: primary_bench
-    sets:
-    - target: 5
-      rpe:
-      - 6
-      - 7
-      target_weight_kg: 50
-    - target: 5
-      rpe:
-      - 6
-      - 7
-      target_weight_kg: 50
-  - name: Lateral Raise (Cable)
-    intent: Shoulder work without near-failure stack jumps.
+  - name: Chest Fly (Machine)
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
+      - 6
+      - 7
+    equipment_dependent: true
+  - name: Lateral Raise (Cable)
+    intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
+      reps.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 6
       - 7.5
     equipment_dependent: true
-  - name: Rear Delt Fly (Cable)
-    intent: Controlled rear delts, no high-effort rowing/grip spillover into Saturday.
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
     role: accessory
     sets:
     - target: 12
@@ -2267,7 +2393,16 @@ workouts:
       - 7.5
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Low residual-fatigue pressing support.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Seated DB curls; avoid the painful condo preacher setup.
     role: accessory
     sets:
     - target: 10
