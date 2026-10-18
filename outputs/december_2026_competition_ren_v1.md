@@ -52,7 +52,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -156,7 +156,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -258,7 +258,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -362,7 +362,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -464,7 +464,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -568,7 +568,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -636,7 +636,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5 · 135kg anchor; 2 reps @ RPE 6.5-7 · 120kg anchor |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5 · 135kg anchor; 3 reps @ RPE 6.5-7.5 · 120kg anchor; 3 reps @ RPE 6.5-7.5 · 120kg anchor |
 | 2 | Tempo Squat (Barbell) | 2 reps @ RPE 6-7 · 125kg anchor; 2 reps @ RPE 6-7 · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5 |
@@ -668,11 +668,11 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 170kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 170kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Bench Press (Barbell) | 1 reps @ RPE 6-6.5 · 117.5kg anchor; 1 reps @ RPE 6-6.5 · 117.5kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Cable Crunch | 12 reps @ RPE 6-6.5 |
@@ -710,7 +710,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 185kg anchor; 2 reps @ RPE 6.5-7 · 165kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 185kg anchor; 2 reps @ RPE 6.5-7 · 165kg anchor; 2 reps @ RPE 6.5-7 · 165kg anchor |
 | 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor |
 | 3 | Spoto Press | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
 
@@ -724,55 +724,63 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | Lift | Sets | Reps |
 |------|------|------|
-| Squat | 5 | 8 |
-| Bench | 8 | 21 |
-| Deadlift | 4 | 7 |
+| Squat | 6 | 10 |
+| Bench | 9 | 25 |
+| Deadlift | 5 | 9 |
 
 ### Week 8
 
-#### Day 1 — Monday - Light Bench / Tempo Squat / Pull-Ups
+#### Day 1 — Monday - Competition Bench / Tempo Squat / Pull-Ups + Two Easy Condo Machines
 
-**Day intent:** Very small final-week exposure, no soreness.
+**Day intent:** Substantive but bounded final-week work: one clean competition single and rep backoffs, familiar tempo, pull-ups, then easy condo leg extension and hip thrust. No soreness chase.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 2 reps @ RPE 6-6.5 · 110kg anchor; 2 reps @ RPE 6-6.5 · 110kg anchor |
-| 2 | Tempo Squat (Barbell) | 3 reps @ RPE 5.5-6 · 110kg anchor; 3 reps @ RPE 5.5-6 · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6-6.5 · 15kg anchor; 4 reps @ RPE 6-6.5 · 15kg anchor |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-8 · 130kg anchor; 3 reps @ RPE 6-7.5 · 115kg anchor; 3 reps @ RPE 6-7.5 · 115kg anchor |
+| 2 | Tempo Squat (Barbell) | 3 reps @ RPE 6-7 · 115kg anchor; 3 reps @ RPE 6-7 · 115kg anchor; 3 reps @ RPE 6-7 · 115kg anchor |
+| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6-7 · 15kg anchor; 4 reps @ RPE 6-7 · 15kg anchor |
+| 4 | Leg Extension | 12 reps @ RPE 6-6.5 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6-6.5 |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** Easy competition touch with a clear pause.
-- **Tempo Squat (Barbell):** Same wider low-bar competition stance, controlled descent to clear depth, normal ascent; no knee-forward exaggeration.
-- **Pull-Up (Weighted):** Light familiar pulling only.
+- **Bench Press (Barbell):** Meet-pause single @7-8 and two submaximal triples; calibrate from actual warm-ups, no grinder or proof retry.
+- **Tempo Squat (Barbell):** Familiar wider low-bar stance and controlled descent; 3x3 around 115 only while positions stay crisp, normal ascent.
+- **Pull-Up (Weighted):** Familiar, low-cost pulling; added weight, no failure.
+- **Leg Extension:** Condo, comfortable full ROM; one familiar easy set, no lingering quad soreness.
+- **Hip Thrust (Machine):** Condo with leg extension; one familiar easy set, no Tuesday/Wednesday hip soreness.
 
-#### Day 2 — Tuesday - Light Incline DB / Shoulders
+#### Day 2 — Tuesday - Competition Sumo / Incline DB / Supported Row
 
-**Day intent:** Small enjoyable incline touch; protect meet-day pressing.
+**Day intent:** Competition-pull confidence exposure four days before meet with a single @7-8 and easy triples, plus familiar primary incline and a low-cost row. No RDL, no heavy retry.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 5.5-6.5 · 42.5kg anchor; 5 reps @ RPE 5.5-6.5 · 42.5kg anchor |
-| 2 | Lateral Raise (Cable) | 10 reps @ RPE 6-6.5 |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8 · 175kg anchor; 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor |
+| 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6-7 · 45kg anchor; 5 reps @ RPE 6-7 · 45kg anchor |
+| 3 | Seated Row (Cable) | 10 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Incline Bench Press (Dumbbell):** Primary movement even during taper; no hard set. Per hand.
-- **Lateral Raise (Cable):** Brief shoulder maintenance.
+- **Sumo Deadlift (Barbell):** Meet setup and lockout: single @7-8, then two clean triples @6-7. If the first pull loses position or is much harder than intended, reduce/omit backoffs rather than retest.
+- **Incline Bench Press (Dumbbell):** Still a meaningful familiar press, but stop short of Wednesday bench fatigue; per hand.
+- **Seated Row (Cable):** One easy familiar supported row set, no grip/back-fatigue chase.
 
-#### Day 3 — Wednesday - Competition Squat / Bench Commands
+#### Day 3 — Wednesday - Competition Squat / Bench Commands / Pull-Ups
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 6-6.5 · 145kg anchor; 1 reps @ RPE 6-6.5 · 145kg anchor |
-| 2 | Bench Press (Barbell) | 1 reps @ RPE 6-6.5 · 117.5kg anchor; 1 reps @ RPE 6-6.5 · 117.5kg anchor |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 7-8 · 165kg anchor; 2 reps @ RPE 6-7 · 145kg anchor; 2 reps @ RPE 6-7 · 145kg anchor |
+| 2 | Bench Press (Barbell) | 2 reps @ RPE 6-7 · 115kg anchor; 2 reps @ RPE 6-7 · 115kg anchor |
+| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6-7 · 15kg anchor |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
+- **Pull-Up (Weighted):** One familiar easy set after both competition lifts; keep grip and elbows fresh for Saturday.
 
 #### Day 5 — Saturday - DECEMBER 12 COMPETITION
 
@@ -794,6 +802,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | Lift | Sets | Reps |
 |------|------|------|
-| Squat | 7 | 11 |
-| Bench | 9 | 19 |
-| Deadlift | 3 | 3 |
+| Squat | 9 | 17 |
+| Bench | 10 | 24 |
+| Deadlift | 6 | 10 |

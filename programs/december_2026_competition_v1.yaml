@@ -63,10 +63,13 @@ loading_guidance:
     historical 200kg deadlift input is not a current max guarantee. No proof retries after a miss. Machine anchors
     are omitted pending local setup calibration.
   week_6: Competition singles @7-8 followed by limited doubles/triples; do not turn this into a max test.
-  week_7: Final heavy controlled bench Monday, squat Wednesday, deadlift Saturday, singles @8-8.5 maximum; earn
-    load on warm-ups.
-  week_8: Brief low-RPE competition touches only, no Thursday/Friday session; meet attempts selected from actual
-    warm-ups and judged makes.
+  week_7: Final heavy controlled bench Monday, squat Wednesday, deadlift Saturday, singles @8-8.5 maximum PLUS two
+    bounded backoff sets each; keep at least half of Week 6 training volume across work sets, barbell reps and illustrative
+    tonnage.
+  week_8: Confidence-preserving MON/WED competition bench/squat singles and TUE sumo single @7-8, then useful low-RPE
+    rep work. Monday familiar tempo, pull-ups and two easy condo machines; Tuesday incline and row; Wednesday a
+    little bench and pull-ups. No hard work Thursday/Friday. Week 8 pre-meet training holds approximately half of
+    Week 6 work sets, barbell reps and indicative tonnage; meet attempts are excluded.
 exercise_variations:
   squat: Tempo Squat (Barbell) REPLACES Monday high bar. Use the same wider low-bar competition stance and shoes,
     three-second controlled descent to legal depth, normal strong ascent; do not force maximal knee-forward travel.
@@ -223,8 +226,9 @@ workouts:
 - week: 1
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated
-    top triples and actual-top backdowns; bench remains low-cost after squat.
+  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    after squat.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -572,8 +576,9 @@ workouts:
 - week: 2
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated
-    top triples and actual-top backdowns; bench remains low-cost after squat.
+  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    after squat.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -960,8 +965,9 @@ workouts:
 - week: 3
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated
-    top triples and actual-top backdowns; bench remains low-cost after squat.
+  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    after squat.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -1362,8 +1368,9 @@ workouts:
 - week: 4
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated
-    top triples and actual-top backdowns; bench remains low-cost after squat.
+  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    after squat.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -1710,8 +1717,9 @@ workouts:
 - week: 5
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated
-    top triples and actual-top backdowns; bench remains low-cost after squat.
+  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    after squat.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -2059,8 +2067,9 @@ workouts:
 - week: 6
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated
-    top triples and actual-top backdowns; bench remains low-cost after squat.
+  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    after squat.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -2259,10 +2268,15 @@ workouts:
       - 8
       - 8.5
       target_weight_kg: 135
-    - target: 2
+    - target: 3
       rpe:
       - 6.5
-      - 7
+      - 7.5
+      target_weight_kg: 120
+    - target: 3
+      rpe:
+      - 6.5
+      - 7.5
       target_weight_kg: 120
   - name: Tempo Squat (Barbell)
     intent: 'SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal
@@ -2361,8 +2375,9 @@ workouts:
 - week: 7
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated
-    top triples and actual-top backdowns; bench remains low-cost after squat.
+  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    after squat.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -2376,6 +2391,11 @@ workouts:
       - 8
       - 8.5
       target_weight_kg: 170
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 150
     - target: 2
       rpe:
       - 6.5
@@ -2495,6 +2515,11 @@ workouts:
       - 6.5
       - 7
       target_weight_kg: 165
+    - target: 2
+      rpe:
+      - 6.5
+      - 7
+      target_weight_kg: 165
   - name: Squat (Low Bar)
     intent: 'Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.'
     role: competition_lift
@@ -2521,75 +2546,76 @@ workouts:
       target_weight_kg: 110
 - week: 8
   day: 1
-  name: Monday - Light Bench / Tempo Squat / Pull-Ups
-  intent: Very small final-week exposure, no soreness.
+  name: Monday - Competition Bench / Tempo Squat / Pull-Ups + Two Easy Condo Machines
+  intent: 'Substantive but bounded final-week work: one clean competition single and rep backoffs, familiar tempo,
+    pull-ups, then easy condo leg extension and hip thrust. No soreness chase.'
   priority: required
   exercises:
   - name: Bench Press (Barbell)
-    intent: Easy competition touch with a clear pause.
+    intent: Meet-pause single @7-8 and two submaximal triples; calibrate from actual warm-ups, no grinder or proof
+      retry.
     role: competition_lift
     sets:
-    - target: 2
+    - target: 1
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 130
+    - target: 3
       rpe:
       - 6
-      - 6.5
-      target_weight_kg: 110
-    - target: 2
+      - 7.5
+      target_weight_kg: 115
+    - target: 3
       rpe:
       - 6
-      - 6.5
-      target_weight_kg: 110
+      - 7.5
+      target_weight_kg: 115
   - name: Tempo Squat (Barbell)
-    intent: Same wider low-bar competition stance, controlled descent to clear depth, normal ascent; no knee-forward
-      exaggeration.
+    intent: Familiar wider low-bar stance and controlled descent; 3x3 around 115 only while positions stay crisp,
+      normal ascent.
     role: developmental_squat
     sets:
     - target: 3
       rpe:
-      - 5.5
       - 6
-      target_weight_kg: 110
+      - 7
+      target_weight_kg: 115
     - target: 3
       rpe:
-      - 5.5
       - 6
-      target_weight_kg: 110
+      - 7
+      target_weight_kg: 115
+    - target: 3
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 115
   - name: Pull-Up (Weighted)
-    intent: Light familiar pulling only.
+    intent: Familiar, low-cost pulling; added weight, no failure.
     role: secondary_goal
     sets:
     - target: 4
       rpe:
       - 6
-      - 6.5
+      - 7
       target_weight_kg: 15
     - target: 4
       rpe:
       - 6
-      - 6.5
+      - 7
       target_weight_kg: 15
-- week: 8
-  day: 2
-  name: Tuesday - Light Incline DB / Shoulders
-  intent: Small enjoyable incline touch; protect meet-day pressing.
-  priority: required
-  exercises:
-  - name: Incline Bench Press (Dumbbell)
-    intent: Primary movement even during taper; no hard set. Per hand.
-    role: primary_bench
+  - name: Leg Extension
+    intent: Condo, comfortable full ROM; one familiar easy set, no lingering quad soreness.
+    role: accessory
     sets:
-    - target: 5
+    - target: 12
       rpe:
-      - 5.5
+      - 6
       - 6.5
-      target_weight_kg: 42.5
-    - target: 5
-      rpe:
-      - 5.5
-      - 6.5
-      target_weight_kg: 42.5
-  - name: Lateral Raise (Cable)
-    intent: Brief shoulder maintenance.
+    equipment_dependent: true
+  - name: Hip Thrust (Machine)
+    intent: Condo with leg extension; one familiar easy set, no Tuesday/Wednesday hip soreness.
     role: accessory
     sets:
     - target: 10
@@ -2598,10 +2624,61 @@ workouts:
       - 6.5
     equipment_dependent: true
 - week: 8
+  day: 2
+  name: Tuesday - Competition Sumo / Incline DB / Supported Row
+  intent: Competition-pull confidence exposure four days before meet with a single @7-8 and easy triples, plus familiar
+    primary incline and a low-cost row. No RDL, no heavy retry.
+  priority: required
+  exercises:
+  - name: Sumo Deadlift (Barbell)
+    intent: 'Meet setup and lockout: single @7-8, then two clean triples @6-7. If the first pull loses position
+      or is much harder than intended, reduce/omit backoffs rather than retest.'
+    role: competition_lift
+    sets:
+    - target: 1
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 175
+    - target: 3
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 150
+    - target: 3
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 150
+  - name: Incline Bench Press (Dumbbell)
+    intent: Still a meaningful familiar press, but stop short of Wednesday bench fatigue; per hand.
+    role: primary_bench
+    sets:
+    - target: 5
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 45
+    - target: 5
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 45
+  - name: Seated Row (Cable)
+    intent: One easy familiar supported row set, no grip/back-fatigue chase.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 6
+      - 7
+    equipment_dependent: true
+- week: 8
   day: 3
-  name: Wednesday - Competition Squat / Bench Commands
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated
-    top triples and actual-top backdowns; bench remains low-cost after squat.
+  name: Wednesday - Competition Squat / Bench Commands / Pull-Ups
+  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    after squat.
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -2612,29 +2689,43 @@ workouts:
     sets:
     - target: 1
       rpe:
-      - 6
-      - 6.5
-      target_weight_kg: 145
-    - target: 1
+      - 7
+      - 8
+      target_weight_kg: 165
+    - target: 2
       rpe:
       - 6
-      - 6.5
+      - 7
+      target_weight_kg: 145
+    - target: 2
+      rpe:
+      - 6
+      - 7
       target_weight_kg: 145
   - name: Bench Press (Barbell)
     intent: Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command
       pause; this is LOW COST practice, not a second bench top-set day.
     role: competition_lift
     sets:
-    - target: 1
+    - target: 2
       rpe:
       - 6
-      - 6.5
-      target_weight_kg: 117.5
-    - target: 1
+      - 7
+      target_weight_kg: 115
+    - target: 2
       rpe:
       - 6
-      - 6.5
-      target_weight_kg: 117.5
+      - 7
+      target_weight_kg: 115
+  - name: Pull-Up (Weighted)
+    intent: One familiar easy set after both competition lifts; keep grip and elbows fresh for Saturday.
+    role: secondary_goal
+    sets:
+    - target: 4
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 15
 - week: 8
   day: 5
   name: Saturday - DECEMBER 12 COMPETITION
