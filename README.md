@@ -30,18 +30,48 @@ Tools for fetching, normalizing, and rendering training data from Boostcamp plus
 - `python scripts/generate_program_docs.py`
 - `python scripts/sync_programs.py`
 
-Program sets may include a local coaching anchor:
+Program sets may include local coaching percentages and kg anchors:
 
 ```yaml
-- target: 5
-  rpe: [7, 7.5]
-  target_weight_kg: 150
+- target: 3
+  rpe: [6, 6.5]
+  load_percent: [81, 83.5]
+  load_percent_of: squat input (180kg)
+  target_weight_range_kg: [145, 150]
+  target_weight_kg: 147.5
+- target: 3
+  rpe: [6, 7.5]
+  load_percent: 90
+  load_percent_of: actual top triple
+  target_weight_kg: 132.5
 ```
 
-`target_weight_kg` is validated and rendered in program documentation, but the
-Boostcamp payload intentionally ignores it. Daily coaching can adjust the
-anchor for current pain, equipment, technique, and observed RPE without
-changing the programmed rep/RPE target.
+`load_percent` accepts a positive number or an ordered `[min, max]` in percentage
+points (e.g. `81`, not `0.81`). A nonempty `load_percent_of` explicitly identifies
+the reference: a competition-lift planning input is different from the actual
+chosen top set. `target_weight_range_kg` is an optional positive ordered range;
+an accompanying `target_weight_kg` must lie inside it and is rendered as a
+**suggested start**, not a compulsory load. Single-anchor programs retain their
+existing display.
+
+The example top set renders as:
+
+`3 reps @ RPE 6-6.5 · 81–83.5% of squat input (180kg) · 145–150kg anchor range (147.5kg suggested start)`
+
+Backoffs show `90% of actual top triple`; their printed kg anchors are midpoint
+examples, so recalculate them after the day's top set and round to the available
+plates. RPE, legal positions, and symptoms govern the daily choice; the range's
+upper endpoint is not a target to chase. Other variation percentages can be
+**indicative ratios** of kg anchors to a competition-lift input, not measured
+variation 1RMs. Do not invent percentages for machines, dumbbells, pull-ups, or
+unselected meet attempts without a defensible reference.
+
+All of these fields are validated and rendered locally in program documentation.
+The Boostcamp converter intentionally ignores them and still sends the original
+reps/RPE prescriptions; this does not add unsupported API intensity fields or
+change exercise names. No Boostcamp write is needed to preview the display.
+
+Run the local regression tests with `python -m unittest discover -s tests -v`.
 
 ### Health ingestion
 

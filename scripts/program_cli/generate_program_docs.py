@@ -50,6 +50,16 @@ def render_program(program: dict) -> str:
     lines.append(f"- Total workouts: {len(workouts)}")
     lines.append("")
 
+    guidance = program.get("loading_guidance", {})
+    display_rules = [guidance[key] for key in ("anchor_range_rule", "percentage_display_rule")
+                     if guidance.get(key)]
+    if display_rules:
+        lines.append("## Load selection")
+        lines.append("")
+        for rule in display_rules:
+            lines.append(rule)
+            lines.append("")
+
     lines.append("## Program Structure")
     lines.append("")
 

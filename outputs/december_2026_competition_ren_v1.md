@@ -8,6 +8,12 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - Days per week: 5
 - Total workouts: 39
 
+## Load selection
+
+Weeks 1-5 primary top triples show target_weight_range_kg from each percentage endpoint rounded independently to 2.5kg. The existing target_weight_kg is only a suggested midpoint start and the basis of illustrative workload calculations. Choose after warm-ups by target RPE and legal positions, not by a duty to hit the upper endpoint; work below the range if readiness requires it. Recalculate backoffs from the ACTUAL chosen top triple, not the midpoint. No extra proof sets. Weeks 6-8 and variations retain their current RPE-governed anchors; no invented percentage bands.
+
+load_percent is a percentage-point number or [min,max] per set, always paired with load_percent_of. Weeks 1-5 primary top triples retain original workbook bands; backoffs use the stated percentage of the ACTUAL top triple, not of the planning max. Other squat/bench/sumo and variation percentages are indicative ratios of existing kg anchors to the relevant COMPETITION-lift input, rounded to two decimals; they are not variation 1RMs or extra percentage prescriptions. RPE and legal positions remain decisive. Do not assign percentages to RDL, incline DB, pull-ups, machines or unknown meet attempts without a defensible reference. These fields and kg ranges render in local program docs/coaching scripts; Boostcamp retains reps/RPE only.
+
 ## Program Structure
 
 ### Week 1
@@ -18,15 +24,15 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 6-6.5 · 117.5kg anchor; 3 reps @ RPE 6-7.5 · 105.0kg anchor; 3 reps @ RPE 6-7.5 · 105.0kg anchor |
-| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6-6.5 · 110kg anchor; 5 reps @ RPE 6-6.5 · 110kg anchor |
+| 1 | Bench Press (Barbell) | 3 reps @ RPE 6-6.5 · 81–83.5% of bench input (142.5kg) · 115–120kg anchor range (117.5kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 105.0kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 105.0kg anchor |
+| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6-6.5 · 61.11% of squat input (180kg) · 110kg anchor; 5 reps @ RPE 6-6.5 · 61.11% of squat input (180kg) · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 20kg anchor; 5 reps @ RPE 6.5-7.5 · 20kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 6-7 |
 | 5 | Hip Thrust (Machine) | 10 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load.
+- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load. Daily top-triple choice: 115-120kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 90% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
@@ -38,7 +44,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 5.5-6.5 · 140kg anchor; 3 reps @ RPE 5.5-6.5 · 140kg anchor |
+| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 5.5-6.5 · 70% of sumo input (200kg) · 140kg anchor; 3 reps @ RPE 5.5-6.5 · 70% of sumo input (200kg) · 140kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-6.5 · 115kg anchor |
 | 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6-7 · 42.5kg anchor; 6 reps @ RPE 6-7 · 42.5kg anchor |
 | 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5 |
@@ -56,14 +62,14 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5 · 147.5kg anchor; 3 reps @ RPE 6-7.5 · 132.5kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5 · 81–83.5% of squat input (180kg) · 145–150kg anchor range (147.5kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 132.5kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 20kg anchor; 4 reps @ RPE 6.5-7.5 · 20kg anchor |
 | 4 | Cable Crunch | 12 reps @ RPE 6-6.5 |
 
 **Why these movements:**
 
-- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
+- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality. Daily top-triple choice: 145-150kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 90% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
@@ -96,13 +102,13 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 6-6.5 · 165.0kg anchor; 3 reps @ RPE 6-7.5 · 147.5kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 135kg anchor |
-| 3 | Spoto Press | 4 reps @ RPE 6-7 · 100kg anchor; 4 reps @ RPE 6-7 · 100kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 6-6.5 · 81–83.5% of sumo input (200kg) · 162.5–167.5kg anchor range (165kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 147.5kg anchor |
+| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 75% of squat input (180kg) · 135kg anchor |
+| 3 | Spoto Press | 4 reps @ RPE 6-7 · 70.18% of bench input (142.5kg) · 100kg anchor; 4 reps @ RPE 6-7 · 70.18% of bench input (142.5kg) · 100kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
+- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only. Daily top-triple choice: 162.5-167.5kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 90% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
 - **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
@@ -122,15 +128,15 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 6.5-7 · 120.0kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor |
-| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
+| 1 | Bench Press (Barbell) | 3 reps @ RPE 6.5-7 · 82.5–85% of bench input (142.5kg) · 117.5–120kg anchor range (120kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 107.5kg anchor |
+| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load.
+- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load. Daily top-triple choice: 117.5-120kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 90% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
@@ -142,7 +148,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor |
+| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 120kg anchor; 6 reps @ RPE 6-7 · 120kg anchor |
 | 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor |
 | 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
@@ -160,14 +166,14 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 6.5-7 · 150.0kg anchor; 3 reps @ RPE 6-7.5 · 135.0kg anchor; 3 reps @ RPE 6-7.5 · 135.0kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Squat (Low Bar) | 3 reps @ RPE 6.5-7 · 82.5–85% of squat input (180kg) · 147.5–152.5kg anchor range (150kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 135.0kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 135.0kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
+- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality. Daily top-triple choice: 147.5-152.5kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 90% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine.
@@ -198,13 +204,13 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 6.5-7 · 167.5kg anchor; 3 reps @ RPE 6-7.5 · 150.0kg anchor; 3 reps @ RPE 6-7.5 · 150.0kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 140kg anchor |
-| 3 | Spoto Press | 4 reps @ RPE 6-7 · 105kg anchor; 4 reps @ RPE 6-7 · 105kg anchor; 4 reps @ RPE 6-7 · 105kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 6.5-7 · 82.5–85% of sumo input (200kg) · 165–170kg anchor range (167.5kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 150.0kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 150.0kg anchor |
+| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
+| 3 | Spoto Press | 4 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 4 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 4 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
+- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only. Daily top-triple choice: 165-170kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 90% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
 - **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
@@ -224,15 +230,15 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 7.0-7.5 · 122.5kg anchor; 3 reps @ RPE 6-7.5 · 110.0kg anchor; 3 reps @ RPE 6-7.5 · 110.0kg anchor; 3 reps @ RPE 6-7.5 · 110.0kg anchor |
-| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
+| 1 | Bench Press (Barbell) | 3 reps @ RPE 7.0-7.5 · 84–86.5% of bench input (142.5kg) · 120–122.5kg anchor range (122.5kg suggested start); 3 reps @ RPE 6-7.5 · 89% of actual top triple · 110.0kg anchor; 3 reps @ RPE 6-7.5 · 89% of actual top triple · 110.0kg anchor; 3 reps @ RPE 6-7.5 · 89% of actual top triple · 110.0kg anchor |
+| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load.
+- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load. Daily top-triple choice: 120-122.5kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 89% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
@@ -244,7 +250,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor |
+| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 120kg anchor; 6 reps @ RPE 6-7 · 120kg anchor |
 | 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor |
 | 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
@@ -262,14 +268,14 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 7.0-7.5 · 152.5kg anchor; 3 reps @ RPE 6-7.5 · 135.0kg anchor; 3 reps @ RPE 6-7.5 · 135.0kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Squat (Low Bar) | 3 reps @ RPE 7.0-7.5 · 84–86.5% of squat input (180kg) · 150–155kg anchor range (152.5kg suggested start); 3 reps @ RPE 6-7.5 · 89% of actual top triple · 135.0kg anchor; 3 reps @ RPE 6-7.5 · 89% of actual top triple · 135.0kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Cable Crunch | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
+- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality. Daily top-triple choice: 150-155kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 89% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
@@ -302,13 +308,13 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 7.0-7.5 · 170.0kg anchor; 3 reps @ RPE 6-7.5 · 152.5kg anchor; 3 reps @ RPE 6-7.5 · 152.5kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 105kg anchor; 3 reps @ RPE 6-7 · 105kg anchor; 3 reps @ RPE 6-7 · 105kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 7.0-7.5 · 84–86.5% of sumo input (200kg) · 167.5–172.5kg anchor range (170kg suggested start); 3 reps @ RPE 6-7.5 · 89% of actual top triple · 152.5kg anchor; 3 reps @ RPE 6-7.5 · 89% of actual top triple · 152.5kg anchor |
+| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
+| 3 | Spoto Press | 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
+- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only. Daily top-triple choice: 167.5-172.5kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 89% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
 - **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
@@ -328,15 +334,15 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 7.5-8 · 122.5kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor |
-| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
+| 1 | Bench Press (Barbell) | 3 reps @ RPE 7.5-8 · 85.5–88% of bench input (142.5kg) · 122.5–125kg anchor range (122.5kg suggested start); 3 reps @ RPE 6-7.5 · 88% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 88% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 88% of actual top triple · 107.5kg anchor |
+| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load.
+- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load. Daily top-triple choice: 122.5-125kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 88% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
@@ -348,7 +354,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor |
+| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor; 6 reps @ RPE 6-7 · 125kg anchor |
 | 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8.5 · 47.5kg anchor; 6 reps @ RPE 7.5-8.5 · 47.5kg anchor; 6 reps @ RPE 7.5-8.5 · 47.5kg anchor |
 | 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
@@ -366,14 +372,14 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 7.5-8 · 155.0kg anchor; 3 reps @ RPE 6-7.5 · 137.5kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Squat (Low Bar) | 3 reps @ RPE 7.5-8 · 85.5–88% of squat input (180kg) · 155–157.5kg anchor range (155kg suggested start); 3 reps @ RPE 6-7.5 · 88% of actual top triple · 137.5kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
+- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality. Daily top-triple choice: 155-157.5kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 88% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine.
@@ -404,13 +410,13 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 7.5-8 · 172.5kg anchor; 3 reps @ RPE 6-7.5 · 152.5kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 105kg anchor; 3 reps @ RPE 6-7 · 105kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 7.5-8 · 85.5–88% of sumo input (200kg) · 170–175kg anchor range (172.5kg suggested start); 3 reps @ RPE 6-7.5 · 88% of actual top triple · 152.5kg anchor |
+| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
+| 3 | Spoto Press | 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
+- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only. Daily top-triple choice: 170-175kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 88% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
 - **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
@@ -430,15 +436,15 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 8.0-8.5 · 125.0kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 107.5kg anchor |
-| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6.5-7.5 · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 125kg anchor |
+| 1 | Bench Press (Barbell) | 3 reps @ RPE 8.0-8.5 · 87–89.5% of bench input (142.5kg) · 125–127.5kg anchor range (125kg suggested start); 3 reps @ RPE 6-7.5 · 86% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 86% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 86% of actual top triple · 107.5kg anchor |
+| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6.5-7.5 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 69.44% of squat input (180kg) · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
-- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load.
+- **Bench Press (Barbell):** PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from the actual top-set load. Daily top-triple choice: 125-127.5kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 86% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
@@ -450,7 +456,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor |
+| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
 | 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 47.5kg anchor; 5 reps @ RPE 7.5-8.5 · 47.5kg anchor; 5 reps @ RPE 7.5-8.5 · 47.5kg anchor |
 | 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
@@ -468,14 +474,14 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 8.0-8.5 · 160.0kg anchor; 3 reps @ RPE 6-7.5 · 137.5kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Squat (Low Bar) | 3 reps @ RPE 8.0-8.5 · 87–89.5% of squat input (180kg) · 157.5–160kg anchor range (160kg suggested start); 3 reps @ RPE 6-7.5 · 86% of actual top triple · 137.5kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Cable Crunch | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
-- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
+- **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality. Daily top-triple choice: 157.5-160kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 86% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
@@ -508,13 +514,13 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 8.0-8.5 · 177.5kg anchor; 3 reps @ RPE 6-7.5 · 152.5kg anchor |
-| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 105kg anchor; 3 reps @ RPE 6-7 · 105kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 8.0-8.5 · 87–89.5% of sumo input (200kg) · 175–180kg anchor range (177.5kg suggested start); 3 reps @ RPE 6-7.5 · 86% of actual top triple · 152.5kg anchor |
+| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
+| 3 | Spoto Press | 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
+- **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only. Daily top-triple choice: 175-180kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement. Backoffs: 86% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
 - **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
@@ -534,8 +540,8 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-8 · 130kg anchor; 3 reps @ RPE 7-8 · 117.5kg anchor; 3 reps @ RPE 7-8 · 117.5kg anchor |
-| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-8 · 91.23% of bench input (142.5kg) · 130kg anchor; 3 reps @ RPE 7-8 · 82.46% of bench input (142.5kg) · 117.5kg anchor; 3 reps @ RPE 7-8 · 82.46% of bench input (142.5kg) · 117.5kg anchor |
+| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
@@ -554,7 +560,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor |
+| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
 | 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor |
 | 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
@@ -572,8 +578,8 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 7-8 · 165kg anchor; 3 reps @ RPE 7-8 · 150kg anchor; 3 reps @ RPE 7-8 · 150kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 7-8 · 91.67% of squat input (180kg) · 165kg anchor; 3 reps @ RPE 7-8 · 83.33% of squat input (180kg) · 150kg anchor; 3 reps @ RPE 7-8 · 83.33% of squat input (180kg) · 150kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7 |
 
@@ -610,9 +616,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8 · 180kg anchor; 3 reps @ RPE 7-8 · 165kg anchor; 3 reps @ RPE 7-8 · 165kg anchor |
-| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8 · 90% of sumo input (200kg) · 180kg anchor; 3 reps @ RPE 7-8 · 82.5% of sumo input (200kg) · 165kg anchor; 3 reps @ RPE 7-8 · 82.5% of sumo input (200kg) · 165kg anchor |
+| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
+| 3 | Spoto Press | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 
 **Why these movements:**
 
@@ -636,8 +642,8 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5 · 135kg anchor; 3 reps @ RPE 6.5-7.5 · 120kg anchor; 3 reps @ RPE 6.5-7.5 · 120kg anchor |
-| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5 · 94.74% of bench input (142.5kg) · 135kg anchor; 3 reps @ RPE 6.5-7.5 · 84.21% of bench input (142.5kg) · 120kg anchor; 3 reps @ RPE 6.5-7.5 · 84.21% of bench input (142.5kg) · 120kg anchor |
+| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
 | 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
@@ -656,7 +662,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor |
+| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor |
 | 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
 | 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor |
 | 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
@@ -674,8 +680,8 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 170kg anchor; 3 reps @ RPE 6.5-7.5 · 150kg anchor; 3 reps @ RPE 6.5-7.5 · 150kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 94.44% of squat input (180kg) · 170kg anchor; 3 reps @ RPE 6.5-7.5 · 83.33% of squat input (180kg) · 150kg anchor; 3 reps @ RPE 6.5-7.5 · 83.33% of squat input (180kg) · 150kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Cable Crunch | 12 reps @ RPE 6-6.5 |
 
@@ -712,9 +718,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 185kg anchor; 3 reps @ RPE 6.5-7.5 · 165kg anchor; 3 reps @ RPE 6.5-7.5 · 165kg anchor |
-| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 92.5% of sumo input (200kg) · 185kg anchor; 3 reps @ RPE 6.5-7.5 · 82.5% of sumo input (200kg) · 165kg anchor; 3 reps @ RPE 6.5-7.5 · 82.5% of sumo input (200kg) · 165kg anchor |
+| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
+| 3 | Spoto Press | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
 
 **Why these movements:**
 
@@ -738,8 +744,8 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-8 · 130kg anchor; 3 reps @ RPE 6-7.5 · 115kg anchor; 3 reps @ RPE 6-7.5 · 115kg anchor |
-| 2 | Tempo Squat (Barbell) | 3 reps @ RPE 6-7 · 115kg anchor; 3 reps @ RPE 6-7 · 115kg anchor; 3 reps @ RPE 6-7 · 115kg anchor |
+| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-8 · 91.23% of bench input (142.5kg) · 130kg anchor; 3 reps @ RPE 6-7.5 · 80.7% of bench input (142.5kg) · 115kg anchor; 3 reps @ RPE 6-7.5 · 80.7% of bench input (142.5kg) · 115kg anchor |
+| 2 | Tempo Squat (Barbell) | 3 reps @ RPE 6-7 · 63.89% of squat input (180kg) · 115kg anchor; 3 reps @ RPE 6-7 · 63.89% of squat input (180kg) · 115kg anchor; 3 reps @ RPE 6-7 · 63.89% of squat input (180kg) · 115kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6-7 · 15kg anchor; 4 reps @ RPE 6-7 · 15kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 6-6.5 |
 | 5 | Hip Thrust (Machine) | 10 reps @ RPE 6-6.5 |
@@ -758,7 +764,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8 · 175kg anchor; 3 reps @ RPE 6-7 · 150kg anchor; 3 reps @ RPE 6-7 · 150kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8 · 87.5% of sumo input (200kg) · 175kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor |
 | 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6-7 · 45kg anchor; 5 reps @ RPE 6-7 · 45kg anchor |
 | 3 | Seated Row (Cable) | 10 reps @ RPE 6-7 |
 
@@ -774,8 +780,8 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 7-8 · 165kg anchor; 2 reps @ RPE 6-7 · 145kg anchor; 2 reps @ RPE 6-7 · 145kg anchor |
-| 2 | Bench Press (Barbell) | 2 reps @ RPE 6-7 · 115kg anchor; 2 reps @ RPE 6-7 · 115kg anchor |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 7-8 · 91.67% of squat input (180kg) · 165kg anchor; 2 reps @ RPE 6-7 · 80.56% of squat input (180kg) · 145kg anchor; 2 reps @ RPE 6-7 · 80.56% of squat input (180kg) · 145kg anchor |
+| 2 | Bench Press (Barbell) | 2 reps @ RPE 6-7 · 80.7% of bench input (142.5kg) · 115kg anchor; 2 reps @ RPE 6-7 · 80.7% of bench input (142.5kg) · 115kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6-7 · 15kg anchor |
 
 **Why these movements:**
