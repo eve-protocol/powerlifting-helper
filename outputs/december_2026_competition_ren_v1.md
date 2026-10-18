@@ -8,6 +8,68 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - Days per week: 5
 - Total workouts: 39
 
+### Weekly expected SBD workload
+
+Expected barbell SBD-family workload, including the listed variations. This is not all-exercise gym tonnage: RDL, incline dumbbells, pull-ups and machines are excluded. Competition attempts are shown in the session plan but excluded from pre-meet training comparisons.
+
+- **Squat:** Squat (Low Bar), Tempo Squat (Barbell)
+- **Bench:** Bench Press (Barbell), Spoto Press
+- **Deadlift:** Sumo Deadlift (Barbell), Sumo Deadlift (Paused)
+
+Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no comparison; all Δ values compare with the immediately previous week. For load ranges, Δ spans current minimum / previous maximum through current maximum / previous minimum. Unknown loads are not silently counted as zero, and undefined comparisons show —.
+
+| Week | Expected SBD tonnage kg | Δ vs previous week |
+|---|---|---|
+| 1 | 6,715–6,812.5 | — |
+| 2 | 9,875–9,995 | +45.0% to +48.8% |
+| 3 | 9,620–9,725 | -3.8% to -1.5% |
+| 4 | 8,502.5–8,570 | -12.6% to -10.9% |
+| 5 | 7,525–7,600 | -12.2% to -10.6% |
+| 6 | 7,430 | -2.2% to -1.3% |
+| 7 | 7,460 | +0.4% |
+| 8 (training only) | 4,135 | -44.6% |
+
+#### Squat workload by week
+
+| Week | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| 1 | 5 | — | 18 | — | 2,195–2,225 | — |
+| 2 | 8 | +60.0% | 28 | +55.6% | 3,597.5–3,642.5 | +61.7% to +65.9% |
+| 3 | 8 | 0.0% | 28 | 0.0% | 3,605–3,650 | -1.0% to +1.5% |
+| 4 | 7 | -12.5% | 25 | -10.7% | 3,237.5–3,245 | -11.3% to -10.0% |
+| 5 | 7 | 0.0% | 20 | -20.0% | 2,657.5–2,672.5 | -18.1% to -17.5% |
+| 6 | 8 | +14.3% | 21 | +5.0% | 2,845 | +6.5% to +7.1% |
+| 7 | 8 | 0.0% | 21 | 0.0% | 2,850 | +0.2% |
+| 8 (training only) | 6 | -25.0% | 14 | -33.3% | 1,780 | -37.5% |
+
+#### Bench workload by week
+
+| Week | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| 1 | 8 | — | 26 | — | 2,750–2,795 | — |
+| 2 | 10 | +25.0% | 33 | +26.9% | 3,547.5–3,577.5 | +26.9% to +30.1% |
+| 3 | 10 | 0.0% | 30 | -9.1% | 3,262.5–3,292.5 | -8.8% to -7.2% |
+| 4 | 9 | -10.0% | 27 | -10.0% | 2,955–2,985 | -10.3% to -8.5% |
+| 5 | 9 | 0.0% | 27 | 0.0% | 2,962.5–2,992.5 | -0.8% to +1.3% |
+| 6 | 8 | -11.1% | 22 | -18.5% | 2,485 | -17.0% to -16.1% |
+| 7 | 8 | 0.0% | 22 | 0.0% | 2,505 | +0.8% |
+| 8 (training only) | 5 | -37.5% | 11 | -50.0% | 1,280 | -48.9% |
+
+#### Deadlift workload by week
+
+| Week | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| 1 | 4 | — | 12 | — | 1,770–1,792.5 | — |
+| 2 | 6 | +50.0% | 18 | +50.0% | 2,730–2,775 | +52.3% to +56.8% |
+| 3 | 6 | 0.0% | 18 | 0.0% | 2,752.5–2,782.5 | -0.8% to +1.9% |
+| 4 | 5 | -16.7% | 15 | -16.7% | 2,310–2,340 | -17.0% to -15.0% |
+| 5 | 5 | 0.0% | 12 | -20.0% | 1,905–1,935 | -18.6% to -16.2% |
+| 6 | 6 | +20.0% | 13 | +8.3% | 2,100 | +8.5% to +10.2% |
+| 7 | 6 | 0.0% | 13 | 0.0% | 2,105 | +0.2% |
+| 8 (training only) | 3 | -50.0% | 7 | -46.2% | 1,075 | -48.9% |
+
+**Excluded from training totals, week 8:** Grinchmas competition attempts; not pre-meet training (9 sets / 9 reps).
+
 **Table guide:** Sets are the original set numbers; identical consecutive sets share a row (e.g. 2–4). Reps are per set. Range kg is the daily selection band; (start) marks a suggested starting anchor, and (example) marks a backoff anchor to recalculate from the actual top triple. — means no value is prescribed.
 
 ## Load selection
@@ -119,11 +181,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Weekly Big 3 Volume
 
-| Lift | Sets | Reps |
-|------|------|------|
-| Squat | 5 | 18 |
-| Bench | 10 | 38 |
-| Deadlift | 4 | 12 |
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 5 | — | 18 | — | 2,195–2,225 | — |
+| Bench | 8 | — | 26 | — | 2,750–2,795 | — |
+| Deadlift | 4 | — | 12 | — | 1,770–1,792.5 | — |
 
 ### Week 2
 
@@ -224,11 +286,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Weekly Big 3 Volume
 
-| Lift | Sets | Reps |
-|------|------|------|
-| Squat | 8 | 28 |
-| Bench | 13 | 51 |
-| Deadlift | 6 | 18 |
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 8 | +60.0% | 28 | +55.6% | 3,597.5–3,642.5 | +61.7% to +65.9% |
+| Bench | 10 | +25.0% | 33 | +26.9% | 3,547.5–3,577.5 | +26.9% to +30.1% |
+| Deadlift | 6 | +50.0% | 18 | +50.0% | 2,730–2,775 | +52.3% to +56.8% |
 
 ### Week 3
 
@@ -331,11 +393,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Weekly Big 3 Volume
 
-| Lift | Sets | Reps |
-|------|------|------|
-| Squat | 8 | 28 |
-| Bench | 13 | 48 |
-| Deadlift | 6 | 18 |
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 8 | 0.0% | 28 | 0.0% | 3,605–3,650 | -1.0% to +1.5% |
+| Bench | 10 | 0.0% | 30 | -9.1% | 3,262.5–3,292.5 | -8.8% to -7.2% |
+| Deadlift | 6 | 0.0% | 18 | 0.0% | 2,752.5–2,782.5 | -0.8% to +1.9% |
 
 ### Week 4
 
@@ -436,11 +498,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Weekly Big 3 Volume
 
-| Lift | Sets | Reps |
-|------|------|------|
-| Squat | 7 | 25 |
-| Bench | 12 | 45 |
-| Deadlift | 5 | 15 |
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 7 | -12.5% | 25 | -10.7% | 3,237.5–3,245 | -11.3% to -10.0% |
+| Bench | 9 | -10.0% | 27 | -10.0% | 2,955–2,985 | -10.3% to -8.5% |
+| Deadlift | 5 | -16.7% | 15 | -16.7% | 2,310–2,340 | -17.0% to -15.0% |
 
 ### Week 5
 
@@ -543,11 +605,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Weekly Big 3 Volume
 
-| Lift | Sets | Reps |
-|------|------|------|
-| Squat | 7 | 20 |
-| Bench | 12 | 42 |
-| Deadlift | 5 | 12 |
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 7 | 0.0% | 20 | -20.0% | 2,657.5–2,672.5 | -18.1% to -17.5% |
+| Bench | 9 | 0.0% | 27 | 0.0% | 2,962.5–2,992.5 | -0.8% to +1.3% |
+| Deadlift | 5 | 0.0% | 12 | -20.0% | 1,905–1,935 | -18.6% to -16.2% |
 
 ### Week 6
 
@@ -648,11 +710,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Weekly Big 3 Volume
 
-| Lift | Sets | Reps |
-|------|------|------|
-| Squat | 8 | 21 |
-| Bench | 11 | 37 |
-| Deadlift | 6 | 13 |
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 8 | +14.3% | 21 | +5.0% | 2,845 | +6.5% to +7.1% |
+| Bench | 8 | -11.1% | 22 | -18.5% | 2,485 | -17.0% to -16.1% |
+| Deadlift | 6 | +20.0% | 13 | +8.3% | 2,100 | +8.5% to +10.2% |
 
 ### Week 7
 
@@ -753,11 +815,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Weekly Big 3 Volume
 
-| Lift | Sets | Reps |
-|------|------|------|
-| Squat | 8 | 21 |
-| Bench | 11 | 37 |
-| Deadlift | 6 | 13 |
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 8 | 0.0% | 21 | 0.0% | 2,850 | +0.2% |
+| Bench | 8 | 0.0% | 22 | 0.0% | 2,505 | +0.8% |
+| Deadlift | 6 | 0.0% | 13 | 0.0% | 2,105 | +0.2% |
 
 ### Week 8
 
@@ -840,8 +902,10 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Weekly Big 3 Volume
 
-| Lift | Sets | Reps |
-|------|------|------|
-| Squat | 9 | 17 |
-| Bench | 10 | 24 |
-| Deadlift | 6 | 10 |
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 6 | -25.0% | 14 | -33.3% | 1,780 | -37.5% |
+| Bench | 5 | -37.5% | 11 | -50.0% | 1,280 | -48.9% |
+| Deadlift | 3 | -50.0% | 7 | -46.2% | 1,075 | -48.9% |
+
+**Training totals exclude:** Grinchmas competition attempts; not pre-meet training.

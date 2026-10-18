@@ -8,6 +8,7 @@ on:
       - "programs/*.yml"
       - "scripts/program_cli/**"
       - "scripts/powerlifting/programs.py"
+      - "scripts/powerlifting/program_workload.py"
       - "tests/*.py"
       - ".github/workflows/validate-and-sync.yml"
   push:

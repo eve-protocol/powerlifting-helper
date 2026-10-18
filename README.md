@@ -87,6 +87,32 @@ The Boostcamp converter intentionally ignores them and still sends the original
 reps/RPE prescriptions; this does not add unsupported API intensity fields or
 change exercise names. No Boostcamp write is needed to preview the display.
 
+### Weekly workload overview
+
+Programs can opt into range-aware weekly summaries with `workload_summary`:
+exact `families` mappings for Squat/Bench/Deadlift, a positive
+`plate_increment_kg`, and explicit `exclude_workouts` entries (`week`, `day`,
+`reason`). Family membership must be disjoint and use existing exercise names;
+no substring classification of incline DB as competition bench.
+
+The December program's overview includes total **barbell SBD-family tonnage**
+and separate per-lift tables of sets, reps, tonnage and each metric's
+week-on-week percentage change. The same metrics appear in the weekly footer.
+Week 1 has no comparison. Tempo squat, Spoto and paused sumo are included;
+RDL, incline DB, pull-ups and machines are not. This is **not all-exercise gym
+tonnage**. Grinchmas attempts are explicitly excluded from pre-meet comparisons
+but remain in the session plan. Programs without this opt-in keep their
+existing overview/weekly summary.
+
+For ranged top sets, expected kg bounds include backoffs recalculated at each
+possible top load using the actual-top percentage and half-up plate rounding,
+not the printed midpoint example. Tonnage change spans
+`current_min / previous_max - 1` through `current_max / previous_min - 1`, so
+uncertain load choices do not become falsely precise changes. Partial totals
+show unanchored sets explicitly and suppress tonnage comparisons; a zero or
+missing previous baseline also shows `—`. These are planning estimates, not
+completed work or extra tonnage targets.
+
 Run the local regression tests with `python -m unittest discover -s tests -v`.
 
 ### Health ingestion

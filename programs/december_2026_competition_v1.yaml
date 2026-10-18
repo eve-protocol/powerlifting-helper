@@ -105,6 +105,23 @@ condo_policy: Monday is three gym movements plus two condo movements (leg extens
   squat and Saturday sumo.
 meet_policy: Local competition, 83kg class with no cut planned; weigh-in and federation details to confirm before
   attempt-day logistics. Do not assume mock-meet attempts are white-light legal.
+workload_summary:
+  scope_note: 'Expected barbell SBD-family workload, including the listed variations. This is not all-exercise gym tonnage: RDL, incline dumbbells, pull-ups and machines are excluded. Competition attempts are shown in the session plan but excluded from pre-meet training comparisons.'
+  families:
+    Squat:
+    - Squat (Low Bar)
+    - Tempo Squat (Barbell)
+    Bench:
+    - Bench Press (Barbell)
+    - Spoto Press
+    Deadlift:
+    - Sumo Deadlift (Barbell)
+    - Sumo Deadlift (Paused)
+  plate_increment_kg: 2.5
+  exclude_workouts:
+  - week: 8
+    day: 5
+    reason: Grinchmas competition attempts; not pre-meet training
 workouts:
 - week: 1
   day: 1

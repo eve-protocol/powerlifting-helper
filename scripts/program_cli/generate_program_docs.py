@@ -5,6 +5,9 @@ from collections import defaultdict
 from itertools import groupby
 import re
 
+from powerlifting.program_workload import (
+    FAMILIES, calculate_weekly_workload, metric_cells, render_workload_overview,
+)
 from powerlifting.programs import (
     OUTPUTS_DIR,
     PROGRAMS_DIR,
@@ -94,6 +97,7 @@ def render_program(program: dict) -> str:
     grouped = defaultdict(list)
     for workout in workouts:
         grouped[workout.get("week")].append(workout)
+    weekly_workload = calculate_weekly_workload(program)
 
     lines = []
     lines.append(f"# {name}")
@@ -108,6 +112,7 @@ def render_program(program: dict) -> str:
     lines.append(f"- Days per week: {days_per_week}")
     lines.append(f"- Total workouts: {len(workouts)}")
     lines.append("")
+    lines.extend(render_workload_overview(program, weekly_workload))
     lines.append(
         "**Table guide:** Sets are the original set numbers; identical consecutive sets "
         "share a row (e.g. 2–4). Reps are per set. Range kg is the daily selection band; "
@@ -200,12 +205,23 @@ def render_program(program: dict) -> str:
         # Big 3 weekly summary
         lines.append("#### Weekly Big 3 Volume")
         lines.append("")
-        lines.append("| Lift | Sets | Reps |")
-        lines.append("|------|------|------|")
-        for lift in ["Squat", "Bench", "Deadlift"]:
-            s = week_big3[lift]["sets"]
-            r = week_big3[lift]["reps"]
-            lines.append(f"| {lift} | {s} | {r} |")
+        if weekly_workload:
+            lines.append("| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |")
+            lines.append("|---|---|---|---|---|---|---|")
+            previous = weekly_workload.get(week - 1)
+            for lift in FAMILIES:
+                cells = [lift, *metric_cells(weekly_workload[week]["lifts"][lift],
+                         previous["lifts"][lift] if previous else None)]
+                lines.append("| " + " | ".join(cells) + " |")
+            for excluded in weekly_workload[week]["excluded_workouts"]:
+                lines += ["", f"**Training totals exclude:** {excluded['reason']}."]
+        else:
+            lines.append("| Lift | Sets | Reps |")
+            lines.append("|------|------|------|")
+            for lift in FAMILIES:
+                s = week_big3[lift]["sets"]
+                r = week_big3[lift]["reps"]
+                lines.append(f"| {lift} | {s} | {r} |")
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
