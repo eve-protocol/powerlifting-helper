@@ -4,6 +4,7 @@ Validate YAML program files against schema.
 Exits with error if any file is invalid.
 """
 
+import math
 import sys
 import yaml
 
@@ -47,12 +48,64 @@ def validate_set(set_data, exercise_name, workout_name):
         if (
             isinstance(target_weight, bool)
             or not isinstance(target_weight, (int, float))
+            or not math.isfinite(target_weight)
             or target_weight <= 0
         ):
             errors.append(
                 f"  Invalid target_weight_kg for {exercise_name}: {target_weight}"
             )
+
+    if 'target_weight_range_kg' in set_data:
+        weight_range = set_data['target_weight_range_kg']
+        if not isinstance(weight_range, list) or len(weight_range) != 2:
+            errors.append(
+                f"  Invalid target_weight_range_kg for {exercise_name}: {weight_range} "
+                "(should be [min, max])"
+            )
+        elif any(
+            isinstance(value, bool)
+            or not isinstance(value, (int, float))
+            or not math.isfinite(value)
+            or value <= 0
+            for value in weight_range
+        ) or weight_range[0] > weight_range[1]:
+            errors.append(
+                f"  Invalid target_weight_range_kg for {exercise_name}: {weight_range} "
+                "(requires positive finite numbers in ascending order)"
+            )
+        else:
+            target_weight = set_data.get('target_weight_kg')
+            if (
+                isinstance(target_weight, (int, float))
+                and not isinstance(target_weight, bool)
+                and not weight_range[0] <= target_weight <= weight_range[1]
+            ):
+                errors.append(
+                    f"  target_weight_kg outside target_weight_range_kg for {exercise_name}"
+                )
     
+    if 'load_percent' in set_data:
+        load_percent = set_data['load_percent']
+        values = load_percent if isinstance(load_percent, list) else [load_percent]
+        invalid_shape = isinstance(load_percent, list) and len(load_percent) != 2
+        invalid_values = any(
+            isinstance(value, bool)
+            or not isinstance(value, (int, float))
+            or not math.isfinite(value)
+            or value <= 0
+            for value in values
+        )
+        if invalid_shape or invalid_values or (len(values) == 2 and values[0] > values[1]):
+            errors.append(
+                f"  Invalid load_percent for {exercise_name}: {load_percent} "
+                "(requires a positive finite percentage or ordered [min, max])"
+            )
+        basis = set_data.get('load_percent_of')
+        if not isinstance(basis, str) or not basis.strip():
+            errors.append(f"  Missing or invalid load_percent_of for {exercise_name}")
+    elif 'load_percent_of' in set_data:
+        errors.append(f"  load_percent_of without load_percent for {exercise_name}")
+
     return errors
 
 

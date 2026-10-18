@@ -47,6 +47,20 @@ def format_program_set(set_data: dict) -> str:
     else:
         rpe_str = "RPE -"
     prescription = f"{target} reps @ {rpe_str}"
-    if target_weight is not None:
+    load_percent = set_data.get("load_percent")
+    if load_percent is not None:
+        if isinstance(load_percent, list):
+            lower_pct, upper_pct = load_percent
+            percent_text = f"{lower_pct:g}–{upper_pct:g}%"
+        else:
+            percent_text = f"{load_percent:g}%"
+        prescription += f" · {percent_text} of {set_data['load_percent_of']}"
+    weight_range = set_data.get("target_weight_range_kg")
+    if weight_range is not None:
+        lower, upper = weight_range
+        prescription += f" · {lower:g}–{upper:g}kg anchor range"
+        if target_weight is not None:
+            prescription += f" ({target_weight:g}kg suggested start)"
+    elif target_weight is not None:
         prescription += f" · {target_weight}kg anchor"
     return prescription
