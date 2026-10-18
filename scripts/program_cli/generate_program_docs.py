@@ -2,6 +2,7 @@
 """Generate markdown docs in /outputs from YAML programs in /programs."""
 
 from collections import defaultdict
+from itertools import groupby
 import re
 
 from powerlifting.programs import (
@@ -23,6 +24,64 @@ def summarize_sets(sets: list[dict]) -> str:
     if not sets:
         return "-"
     return "; ".join(format_program_set(s) for s in sets)
+
+
+def display_value(value) -> str:
+    """Format an optional number or range for a compact table cell."""
+    if value is None:
+        return "—"
+    if isinstance(value, (list, tuple)):
+        return "–".join(display_value(item) for item in value)
+    if isinstance(value, (int, float)):
+        return f"{value:g}"
+    return str(value)
+
+
+def set_columns(prescription: dict) -> list[str]:
+    """Keep percentages, their basis and kg guidance in separate columns."""
+    percentage = prescription.get("load_percent")
+    reference = prescription.get("load_percent_of") if percentage is not None else None
+    weight_range = prescription.get("target_weight_range_kg")
+    anchor = display_value(prescription.get("target_weight_kg"))
+    if prescription.get("target_weight_kg") is not None:
+        if weight_range is not None:
+            anchor += " (start)"
+        elif reference == "actual top triple":
+            anchor += " (example)"
+    return [
+        display_value(prescription.get("target")),
+        display_value(prescription.get("rpe")),
+        display_value(percentage) + "%" if percentage is not None else "—",
+        display_value(reference),
+        display_value(weight_range),
+        anchor,
+    ]
+
+
+def grouped_sets(sets: list[dict]):
+    """Group consecutive equal prescriptions, retaining their original set numbers."""
+    for prescription, group in groupby(enumerate(sets, start=1), key=lambda item: item[1]):
+        indices = [index for index, _ in group]
+        label = str(indices[0]) if len(indices) == 1 else f"{indices[0]}–{indices[-1]}"
+        yield label, prescription
+
+
+def escape_table_cell(value: str) -> str:
+    """Prevent source text from adding table columns or breaking table rows."""
+    return value.replace("|", "\\|").replace("\r\n", "\n").replace("\r", "\n").replace("\n", "<br>")
+
+
+def workout_table_columns(workout: dict) -> list[int]:
+    """Hide optional columns that are empty for the entire workout."""
+    sets = [s for exercise in workout.get("exercises", []) for s in exercise.get("sets", [])]
+    columns = [0, 1, 2, 3]
+    if any(s.get("load_percent") is not None for s in sets):
+        columns.extend([4, 5])
+    if any(s.get("target_weight_range_kg") is not None for s in sets):
+        columns.append(6)
+    if any(s.get("target_weight_kg") is not None for s in sets):
+        columns.append(7)
+    return columns
 
 
 def render_program(program: dict) -> str:
@@ -48,6 +107,13 @@ def render_program(program: dict) -> str:
     lines.append(f"- Weeks: {weeks}")
     lines.append(f"- Days per week: {days_per_week}")
     lines.append(f"- Total workouts: {len(workouts)}")
+    lines.append("")
+    lines.append(
+        "**Table guide:** Sets are the original set numbers; identical consecutive sets "
+        "share a row (e.g. 2–4). Reps are per set. Range kg is the daily selection band; "
+        "(start) marks a suggested starting anchor, and (example) marks a backoff anchor "
+        "to recalculate from the actual top triple. — means no value is prescribed."
+    )
     lines.append("")
 
     guidance = program.get("loading_guidance", {})
@@ -102,13 +168,16 @@ def render_program(program: dict) -> str:
             if priority and priority != "required":
                 lines.append(f"**Priority:** {priority}")
                 lines.append("")
-            lines.append("| # | Exercise | Prescription |")
-            lines.append("|---|----------|--------------|")
+            headings = ["Exercise", "Sets", "Reps", "RPE", "Load %", "% reference", "Range kg", "Anchor kg"]
+            columns = workout_table_columns(workout)
+            lines.append("| " + " | ".join(headings[index] for index in columns) + " |")
+            lines.append("|" + "|".join("---" for _ in columns) + "|")
             exercise_intents = []
-            for idx, ex in enumerate(workout.get("exercises", []), start=1):
+            for ex in workout.get("exercises", []):
                 ex_name = ex.get("name", "Unknown")
-                prescription = summarize_sets(ex.get("sets", []))
-                lines.append(f"| {idx} | {ex_name} | {prescription} |")
+                for set_label, prescription in grouped_sets(ex.get("sets", [])):
+                    cells = [ex_name, set_label, *set_columns(prescription)]
+                    lines.append("| " + " | ".join(escape_table_cell(cells[index]) for index in columns) + " |")
                 if ex.get("intent"):
                     exercise_intents.append((ex_name, ex["intent"]))
 

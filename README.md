@@ -52,11 +52,27 @@ the reference: a competition-lift planning input is different from the actual
 chosen top set. `target_weight_range_kg` is an optional positive ordered range;
 an accompanying `target_weight_kg` must lie inside it and is rendered as a
 **suggested start**, not a compulsory load. Single-anchor programs retain their
-existing display.
+existing prescribed values.
 
-The example top set renders as:
+The compact per-set formatter used for coaching/chat still renders as:
 
 `3 reps @ RPE 6-6.5 · 81–83.5% of squat input (180kg) · 145–150kg anchor range (147.5kg suggested start)`
+
+Generated program Markdown splits the same information into separate columns:
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 6–6.5 | 81–83.5% | squat input (180kg) | 145–150 | 147.5 (start) |
+| Squat (Low Bar) | 2 | 3 | 6–7.5 | 90% | actual top triple | — | 132.5 (example) |
+
+Only **identical consecutive sets** share a row: `2–4` means original sets 2, 3
+and 4, with the shown reps/RPE/load applying to each set. Nonconsecutive or
+different prescriptions are never merged. Optional load columns are hidden
+when every set in the workout lacks that field, keeping accessory-only days
+narrow; otherwise `—` means no prescribed value for that row. Exercise intent
+notes and weekly set/rep totals remain below the table. This is a formatting
+change only: the source YAML, daily compact formatter and Boostcamp payload are
+unchanged.
 
 Backoffs show `90% of actual top triple`; their printed kg anchors are midpoint
 examples, so recalculate them after the day's top set and round to the available

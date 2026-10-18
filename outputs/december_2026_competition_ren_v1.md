@@ -8,6 +8,8 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - Days per week: 5
 - Total workouts: 39
 
+**Table guide:** Sets are the original set numbers; identical consecutive sets share a row (e.g. 2–4). Reps are per set. Range kg is the daily selection band; (start) marks a suggested starting anchor, and (example) marks a backoff anchor to recalculate from the actual top triple. — means no value is prescribed.
+
 ## Load selection
 
 Weeks 1-5 primary top triples show target_weight_range_kg from each percentage endpoint rounded independently to 2.5kg. The existing target_weight_kg is only a suggested midpoint start and the basis of illustrative workload calculations. Choose after warm-ups by target RPE and legal positions, not by a duty to hit the upper endpoint; work below the range if readiness requires it. Recalculate backoffs from the ACTUAL chosen top triple, not the midpoint. No extra proof sets. Weeks 6-8 and variations retain their current RPE-governed anchors; no invented percentage bands.
@@ -22,13 +24,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 6-6.5 · 81–83.5% of bench input (142.5kg) · 115–120kg anchor range (117.5kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 105.0kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 105.0kg anchor |
-| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6-6.5 · 61.11% of squat input (180kg) · 110kg anchor; 5 reps @ RPE 6-6.5 · 61.11% of squat input (180kg) · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 20kg anchor; 5 reps @ RPE 6.5-7.5 · 20kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 6-7 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 3 | 6–6.5 | 81–83.5% | bench input (142.5kg) | 115–120 | 117.5 (start) |
+| Bench Press (Barbell) | 2–3 | 3 | 6–7.5 | 90% | actual top triple | — | 105 (example) |
+| Tempo Squat (Barbell) | 1–2 | 5 | 6–6.5 | 61.11% | squat input (180kg) | — | 110 |
+| Pull-Up (Weighted) | 1–2 | 5 | 6.5–7.5 | — | — | — | 20 |
+| Leg Extension | 1 | 12 | 6–7 | — | — | — | — |
+| Hip Thrust (Machine) | 1 | 10 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
@@ -42,12 +45,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 5.5-6.5 · 70% of sumo input (200kg) · 140kg anchor; 3 reps @ RPE 5.5-6.5 · 70% of sumo input (200kg) · 140kg anchor |
-| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-6.5 · 115kg anchor |
-| 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6-7 · 42.5kg anchor; 6 reps @ RPE 6-7 · 42.5kg anchor |
-| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–2 | 3 | 5.5–6.5 | 70% | sumo input (200kg) | 140 |
+| Romanian Deadlift (Barbell) | 1 | 6 | 6–6.5 | — | — | 115 |
+| Incline Bench Press (Dumbbell) | 1–2 | 6 | 6–7 | — | — | 42.5 |
+| Seated Row (Cable) | 1 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -60,12 +63,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5 · 81–83.5% of squat input (180kg) · 145–150kg anchor range (147.5kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 132.5kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 20kg anchor; 4 reps @ RPE 6.5-7.5 · 20kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 6-6.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 6–6.5 | 81–83.5% | squat input (180kg) | 145–150 | 147.5 (start) |
+| Squat (Low Bar) | 2 | 3 | 6–7.5 | 90% | actual top triple | — | 132.5 (example) |
+| Bench Press (Barbell) | 1–3 | 3 | 6–7 | 77.19% | bench input (142.5kg) | — | 110 |
+| Pull-Up (Weighted) | 1–2 | 4 | 6.5–7.5 | — | — | — | 20 |
+| Cable Crunch | 1 | 12 | 6–6.5 | — | — | — | — |
 
 **Why these movements:**
 
@@ -78,14 +82,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 6-7 |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
-| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
-| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
-| 6 | Hip Adductor (Machine) | 12 reps @ RPE 6-6.5 |
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1 | 12 | 6–7 |
+| Lateral Raise (Cable) | 1 | 12 | 6–7.5 |
+| Rear Delt Fly (Dumbbell) | 1 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1 | 10 | 6.5–7.5 |
+| Hip Adductor (Machine) | 1 | 12 | 6–6.5 |
 
 **Why these movements:**
 
@@ -100,11 +104,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 6-6.5 · 81–83.5% of sumo input (200kg) · 162.5–167.5kg anchor range (165kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 147.5kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 75% of squat input (180kg) · 135kg anchor |
-| 3 | Spoto Press | 4 reps @ RPE 6-7 · 70.18% of bench input (142.5kg) · 100kg anchor; 4 reps @ RPE 6-7 · 70.18% of bench input (142.5kg) · 100kg anchor |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 3 | 6–6.5 | 81–83.5% | sumo input (200kg) | 162.5–167.5 | 165 (start) |
+| Sumo Deadlift (Barbell) | 2 | 3 | 6–7.5 | 90% | actual top triple | — | 147.5 (example) |
+| Squat (Low Bar) | 1 | 2 | 5.5–6.5 | 75% | squat input (180kg) | — | 135 |
+| Spoto Press | 1–2 | 4 | 6–7 | 70.18% | bench input (142.5kg) | — | 100 |
 
 **Why these movements:**
 
@@ -126,13 +131,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 6.5-7 · 82.5–85% of bench input (142.5kg) · 117.5–120kg anchor range (120kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 107.5kg anchor |
-| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 3 | 6.5–7 | 82.5–85% | bench input (142.5kg) | 117.5–120 | 120 (start) |
+| Bench Press (Barbell) | 2–4 | 3 | 6–7.5 | 90% | actual top triple | — | 107.5 (example) |
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
+| Leg Extension | 1–2 | 12 | 7–7.5 | — | — | — | — |
+| Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — | — |
 
 **Why these movements:**
 
@@ -146,12 +152,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor |
-| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 120kg anchor; 6 reps @ RPE 6-7 · 120kg anchor |
-| 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor |
-| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 120 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–8 | — | — | 45 |
+| Seated Row (Cable) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -164,12 +170,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 6.5-7 · 82.5–85% of squat input (180kg) · 147.5–152.5kg anchor range (150kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 135.0kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 135.0kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 6.5–7 | 82.5–85% | squat input (180kg) | 147.5–152.5 | 150 (start) |
+| Squat (Low Bar) | 2–3 | 3 | 6–7.5 | 90% | actual top triple | — | 135 (example) |
+| Bench Press (Barbell) | 1–3 | 3 | 6–7 | 77.19% | bench input (142.5kg) | — | 110 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
+| Hip adductor (Rowerg) | 1–2 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
@@ -182,13 +189,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5; 12 reps @ RPE 6-7.5 |
-| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
-| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1–2 | 12 | 6.5–7.5 |
+| Lateral Raise (Cable) | 1–2 | 12 | 6–7.5 |
+| Rear Delt Fly (Dumbbell) | 1–2 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1–2 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1–2 | 10 | 6.5–7.5 |
 
 **Why these movements:**
 
@@ -202,11 +209,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 6.5-7 · 82.5–85% of sumo input (200kg) · 165–170kg anchor range (167.5kg suggested start); 3 reps @ RPE 6-7.5 · 90% of actual top triple · 150.0kg anchor; 3 reps @ RPE 6-7.5 · 90% of actual top triple · 150.0kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
-| 3 | Spoto Press | 4 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 4 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 4 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 3 | 6.5–7 | 82.5–85% | sumo input (200kg) | 165–170 | 167.5 (start) |
+| Sumo Deadlift (Barbell) | 2–3 | 3 | 6–7.5 | 90% | actual top triple | — | 150 (example) |
+| Squat (Low Bar) | 1–2 | 2 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
+| Spoto Press | 1–3 | 4 | 6–7 | 73.68% | bench input (142.5kg) | — | 105 |
 
 **Why these movements:**
 
@@ -228,13 +236,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 7.0-7.5 · 84–86.5% of bench input (142.5kg) · 120–122.5kg anchor range (122.5kg suggested start); 3 reps @ RPE 6-7.5 · 89% of actual top triple · 110.0kg anchor; 3 reps @ RPE 6-7.5 · 89% of actual top triple · 110.0kg anchor; 3 reps @ RPE 6-7.5 · 89% of actual top triple · 110.0kg anchor |
-| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | bench input (142.5kg) | 120–122.5 | 122.5 (start) |
+| Bench Press (Barbell) | 2–4 | 3 | 6–7.5 | 89% | actual top triple | — | 110 (example) |
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
+| Leg Extension | 1–2 | 12 | 7–7.5 | — | — | — | — |
+| Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — | — |
 
 **Why these movements:**
 
@@ -248,12 +257,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor |
-| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 120kg anchor; 6 reps @ RPE 6-7 · 120kg anchor |
-| 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor; 6 reps @ RPE 7-8 · 45kg anchor |
-| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 120 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–8 | — | — | 45 |
+| Seated Row (Cable) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -266,12 +275,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 7.0-7.5 · 84–86.5% of squat input (180kg) · 150–155kg anchor range (152.5kg suggested start); 3 reps @ RPE 6-7.5 · 89% of actual top triple · 135.0kg anchor; 3 reps @ RPE 6-7.5 · 89% of actual top triple · 135.0kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 7–7.5 | 84–86.5% | squat input (180kg) | 150–155 | 152.5 (start) |
+| Squat (Low Bar) | 2–3 | 3 | 6–7.5 | 89% | actual top triple | — | 135 (example) |
+| Bench Press (Barbell) | 1–3 | 3 | 6–7 | 77.19% | bench input (142.5kg) | — | 110 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
+| Cable Crunch | 1–2 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
@@ -284,14 +294,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5; 12 reps @ RPE 6-7.5 |
-| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
-| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
-| 6 | Hip Adductor (Machine) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1–2 | 12 | 6.5–7.5 |
+| Lateral Raise (Cable) | 1–2 | 12 | 6–7.5 |
+| Rear Delt Fly (Dumbbell) | 1–2 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1–2 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1–2 | 10 | 6.5–7.5 |
+| Hip Adductor (Machine) | 1–2 | 12 | 6–7 |
 
 **Why these movements:**
 
@@ -306,11 +316,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 7.0-7.5 · 84–86.5% of sumo input (200kg) · 167.5–172.5kg anchor range (170kg suggested start); 3 reps @ RPE 6-7.5 · 89% of actual top triple · 152.5kg anchor; 3 reps @ RPE 6-7.5 · 89% of actual top triple · 152.5kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | sumo input (200kg) | 167.5–172.5 | 170 (start) |
+| Sumo Deadlift (Barbell) | 2–3 | 3 | 6–7.5 | 89% | actual top triple | — | 152.5 (example) |
+| Squat (Low Bar) | 1–2 | 2 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
+| Spoto Press | 1–3 | 3 | 6–7 | 73.68% | bench input (142.5kg) | — | 105 |
 
 **Why these movements:**
 
@@ -332,13 +343,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 7.5-8 · 85.5–88% of bench input (142.5kg) · 122.5–125kg anchor range (122.5kg suggested start); 3 reps @ RPE 6-7.5 · 88% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 88% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 88% of actual top triple · 107.5kg anchor |
-| 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 66.67% of squat input (180kg) · 120kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 3 | 7.5–8 | 85.5–88% | bench input (142.5kg) | 122.5–125 | 122.5 (start) |
+| Bench Press (Barbell) | 2–4 | 3 | 6–7.5 | 88% | actual top triple | — | 107.5 (example) |
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
+| Leg Extension | 1–2 | 12 | 7–7.5 | — | — | — | — |
+| Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — | — |
 
 **Why these movements:**
 
@@ -352,12 +364,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor |
-| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor; 6 reps @ RPE 6-7 · 125kg anchor |
-| 3 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7.5-8.5 · 47.5kg anchor; 6 reps @ RPE 7.5-8.5 · 47.5kg anchor; 6 reps @ RPE 7.5-8.5 · 47.5kg anchor |
-| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 125 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7.5–8.5 | — | — | 47.5 |
+| Seated Row (Cable) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -370,12 +382,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 7.5-8 · 85.5–88% of squat input (180kg) · 155–157.5kg anchor range (155kg suggested start); 3 reps @ RPE 6-7.5 · 88% of actual top triple · 137.5kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 7.5–8 | 85.5–88% | squat input (180kg) | 155–157.5 | 155 (start) |
+| Squat (Low Bar) | 2 | 3 | 6–7.5 | 88% | actual top triple | — | 137.5 (example) |
+| Bench Press (Barbell) | 1–3 | 3 | 6–7 | 77.19% | bench input (142.5kg) | — | 110 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
+| Hip adductor (Rowerg) | 1–2 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
@@ -388,13 +401,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5 |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
-| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
-| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1 | 12 | 6.5–7.5 |
+| Lateral Raise (Cable) | 1 | 12 | 6–7.5 |
+| Rear Delt Fly (Dumbbell) | 1 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1 | 10 | 6.5–7.5 |
 
 **Why these movements:**
 
@@ -408,11 +421,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 7.5-8 · 85.5–88% of sumo input (200kg) · 170–175kg anchor range (172.5kg suggested start); 3 reps @ RPE 6-7.5 · 88% of actual top triple · 152.5kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 3 | 7.5–8 | 85.5–88% | sumo input (200kg) | 170–175 | 172.5 (start) |
+| Sumo Deadlift (Barbell) | 2 | 3 | 6–7.5 | 88% | actual top triple | — | 152.5 (example) |
+| Squat (Low Bar) | 1–2 | 2 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
+| Spoto Press | 1–2 | 3 | 6–7 | 73.68% | bench input (142.5kg) | — | 105 |
 
 **Why these movements:**
 
@@ -434,13 +448,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 3 reps @ RPE 8.0-8.5 · 87–89.5% of bench input (142.5kg) · 125–127.5kg anchor range (125kg suggested start); 3 reps @ RPE 6-7.5 · 86% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 86% of actual top triple · 107.5kg anchor; 3 reps @ RPE 6-7.5 · 86% of actual top triple · 107.5kg anchor |
-| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6.5-7.5 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 69.44% of squat input (180kg) · 125kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | bench input (142.5kg) | 125–127.5 | 125 (start) |
+| Bench Press (Barbell) | 2–4 | 3 | 6–7.5 | 86% | actual top triple | — | 107.5 (example) |
+| Tempo Squat (Barbell) | 1–3 | 4 | 6.5–7.5 | 69.44% | squat input (180kg) | — | 125 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
+| Leg Extension | 1–2 | 12 | 7–7.5 | — | — | — | — |
+| Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — | — |
 
 **Why these movements:**
 
@@ -454,12 +469,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor |
-| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
-| 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 47.5kg anchor; 5 reps @ RPE 7.5-8.5 · 47.5kg anchor; 5 reps @ RPE 7.5-8.5 · 47.5kg anchor |
-| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 2 | 6–7 | 77.5% | sumo input (200kg) | 155 |
+| Romanian Deadlift (Barbell) | 1 | 6 | 6–7 | — | — | 125 |
+| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 47.5 |
+| Seated Row (Cable) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -472,12 +487,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 8.0-8.5 · 87–89.5% of squat input (180kg) · 157.5–160kg anchor range (160kg suggested start); 3 reps @ RPE 6-7.5 · 86% of actual top triple · 137.5kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 8–8.5 | 87–89.5% | squat input (180kg) | 157.5–160 | 160 (start) |
+| Squat (Low Bar) | 2 | 3 | 6–7.5 | 86% | actual top triple | — | 137.5 (example) |
+| Bench Press (Barbell) | 1–3 | 3 | 6–7 | 77.19% | bench input (142.5kg) | — | 110 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
+| Cable Crunch | 1 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
@@ -490,14 +506,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5 |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
-| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
-| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
-| 6 | Hip Adductor (Machine) | 12 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1 | 12 | 6.5–7.5 |
+| Lateral Raise (Cable) | 1 | 12 | 6–7.5 |
+| Rear Delt Fly (Dumbbell) | 1 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1 | 10 | 6.5–7.5 |
+| Hip Adductor (Machine) | 1 | 12 | 6–7 |
 
 **Why these movements:**
 
@@ -512,11 +528,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 8.0-8.5 · 87–89.5% of sumo input (200kg) · 175–180kg anchor range (177.5kg suggested start); 3 reps @ RPE 6-7.5 · 86% of actual top triple · 152.5kg anchor |
-| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor; 3 reps @ RPE 6-7 · 73.68% of bench input (142.5kg) · 105kg anchor |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | sumo input (200kg) | 175–180 | 177.5 (start) |
+| Sumo Deadlift (Barbell) | 2 | 3 | 6–7.5 | 86% | actual top triple | — | 152.5 (example) |
+| Squat (Low Bar) | 1–2 | 1 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
+| Spoto Press | 1–2 | 3 | 6–7 | 73.68% | bench input (142.5kg) | — | 105 |
 
 **Why these movements:**
 
@@ -538,13 +555,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-8 · 91.23% of bench input (142.5kg) · 130kg anchor; 3 reps @ RPE 7-8 · 82.46% of bench input (142.5kg) · 117.5kg anchor; 3 reps @ RPE 7-8 · 82.46% of bench input (142.5kg) · 117.5kg anchor |
-| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 1 | 7–8 | 91.23% | bench input (142.5kg) | 130 |
+| Bench Press (Barbell) | 2–3 | 3 | 7–8 | 82.46% | bench input (142.5kg) | 117.5 |
+| Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 69.44% | squat input (180kg) | 125 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Leg Extension | 1–2 | 12 | 7–7.5 | — | — | — |
+| Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -558,12 +576,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor |
-| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
-| 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor |
-| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 2 | 6–7 | 77.5% | sumo input (200kg) | 155 |
+| Romanian Deadlift (Barbell) | 1 | 6 | 6–7 | — | — | 125 |
+| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 50 |
+| Seated Row (Cable) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -576,12 +594,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 7-8 · 91.67% of squat input (180kg) · 165kg anchor; 3 reps @ RPE 7-8 · 83.33% of squat input (180kg) · 150kg anchor; 3 reps @ RPE 7-8 · 83.33% of squat input (180kg) · 150kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 1 | 7–8 | 91.67% | squat input (180kg) | 165 |
+| Squat (Low Bar) | 2–3 | 3 | 7–8 | 83.33% | squat input (180kg) | 150 |
+| Bench Press (Barbell) | 1–3 | 3 | 6–7 | 77.19% | bench input (142.5kg) | 110 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 25 |
+| Hip adductor (Rowerg) | 1 | 12 | 6–7 | — | — | — |
 
 **Why these movements:**
 
@@ -594,13 +613,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7.5 |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
-| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
-| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1 | 12 | 6.5–7.5 |
+| Lateral Raise (Cable) | 1 | 12 | 6–7.5 |
+| Rear Delt Fly (Dumbbell) | 1 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1 | 10 | 6.5–7.5 |
 
 **Why these movements:**
 
@@ -614,11 +633,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8 · 90% of sumo input (200kg) · 180kg anchor; 3 reps @ RPE 7-8 · 82.5% of sumo input (200kg) · 165kg anchor; 3 reps @ RPE 7-8 · 82.5% of sumo input (200kg) · 165kg anchor |
-| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 1 | 7–8 | 90% | sumo input (200kg) | 180 |
+| Sumo Deadlift (Barbell) | 2–3 | 3 | 7–8 | 82.5% | sumo input (200kg) | 165 |
+| Squat (Low Bar) | 1–2 | 1 | 5.5–6.5 | 77.78% | squat input (180kg) | 140 |
+| Spoto Press | 1–2 | 3 | 6–7 | 77.19% | bench input (142.5kg) | 110 |
 
 **Why these movements:**
 
@@ -640,13 +660,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5 · 94.74% of bench input (142.5kg) · 135kg anchor; 3 reps @ RPE 6.5-7.5 · 84.21% of bench input (142.5kg) · 120kg anchor; 3 reps @ RPE 6.5-7.5 · 84.21% of bench input (142.5kg) · 120kg anchor |
-| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor; 4 reps @ RPE 6-7 · 69.44% of squat input (180kg) · 125kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 1 | 8–8.5 | 94.74% | bench input (142.5kg) | 135 |
+| Bench Press (Barbell) | 2–3 | 3 | 6.5–7.5 | 84.21% | bench input (142.5kg) | 120 |
+| Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 69.44% | squat input (180kg) | 125 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Leg Extension | 1–2 | 12 | 7–7.5 | — | — | — |
+| Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -660,12 +681,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL backoffs start Week 1 and yield to Wednesday squat quality.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor; 2 reps @ RPE 6-7 · 77.5% of sumo input (200kg) · 155kg anchor |
-| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
-| 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor |
-| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 2 | 6–7 | 77.5% | sumo input (200kg) | 155 |
+| Romanian Deadlift (Barbell) | 1 | 6 | 6–7 | — | — | 125 |
+| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 50 |
+| Seated Row (Cable) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -678,12 +699,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 94.44% of squat input (180kg) · 170kg anchor; 3 reps @ RPE 6.5-7.5 · 83.33% of squat input (180kg) · 150kg anchor; 3 reps @ RPE 6.5-7.5 · 83.33% of squat input (180kg) · 150kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 6-6.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 1 | 8–8.5 | 94.44% | squat input (180kg) | 170 |
+| Squat (Low Bar) | 2–3 | 3 | 6.5–7.5 | 83.33% | squat input (180kg) | 150 |
+| Bench Press (Barbell) | 1–3 | 3 | 6–7 | 77.19% | bench input (142.5kg) | 110 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 25 |
+| Cable Crunch | 1 | 12 | 6–6.5 | — | — | — |
 
 **Why these movements:**
 
@@ -696,13 +718,13 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 12 reps @ RPE 6-7 |
-| 2 | Lateral Raise (Cable) | 12 reps @ RPE 6-7.5 |
-| 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
-| 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
-| 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1 | 12 | 6–7 |
+| Lateral Raise (Cable) | 1 | 12 | 6–7.5 |
+| Rear Delt Fly (Dumbbell) | 1 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1 | 10 | 6.5–7.5 |
 
 **Why these movements:**
 
@@ -716,11 +738,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 92.5% of sumo input (200kg) · 185kg anchor; 3 reps @ RPE 6.5-7.5 · 82.5% of sumo input (200kg) · 165kg anchor; 3 reps @ RPE 6.5-7.5 · 82.5% of sumo input (200kg) · 165kg anchor |
-| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 77.78% of squat input (180kg) · 140kg anchor |
-| 3 | Spoto Press | 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor; 3 reps @ RPE 6-7 · 77.19% of bench input (142.5kg) · 110kg anchor |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 1 | 8–8.5 | 92.5% | sumo input (200kg) | 185 |
+| Sumo Deadlift (Barbell) | 2–3 | 3 | 6.5–7.5 | 82.5% | sumo input (200kg) | 165 |
+| Squat (Low Bar) | 1–2 | 1 | 5.5–6.5 | 77.78% | squat input (180kg) | 140 |
+| Spoto Press | 1–2 | 3 | 6–7 | 77.19% | bench input (142.5kg) | 110 |
 
 **Why these movements:**
 
@@ -742,13 +765,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Substantive but bounded final-week work: one clean competition single and rep backoffs, familiar tempo, pull-ups, then easy condo leg extension and hip thrust. No soreness chase.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 1 reps @ RPE 7-8 · 91.23% of bench input (142.5kg) · 130kg anchor; 3 reps @ RPE 6-7.5 · 80.7% of bench input (142.5kg) · 115kg anchor; 3 reps @ RPE 6-7.5 · 80.7% of bench input (142.5kg) · 115kg anchor |
-| 2 | Tempo Squat (Barbell) | 3 reps @ RPE 6-7 · 63.89% of squat input (180kg) · 115kg anchor; 3 reps @ RPE 6-7 · 63.89% of squat input (180kg) · 115kg anchor; 3 reps @ RPE 6-7 · 63.89% of squat input (180kg) · 115kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6-7 · 15kg anchor; 4 reps @ RPE 6-7 · 15kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 6-6.5 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6-6.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 1 | 7–8 | 91.23% | bench input (142.5kg) | 130 |
+| Bench Press (Barbell) | 2–3 | 3 | 6–7.5 | 80.7% | bench input (142.5kg) | 115 |
+| Tempo Squat (Barbell) | 1–3 | 3 | 6–7 | 63.89% | squat input (180kg) | 115 |
+| Pull-Up (Weighted) | 1–2 | 4 | 6–7 | — | — | 15 |
+| Leg Extension | 1 | 12 | 6–6.5 | — | — | — |
+| Hip Thrust (Machine) | 1 | 10 | 6–6.5 | — | — | — |
 
 **Why these movements:**
 
@@ -762,11 +786,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Competition-pull confidence exposure four days before meet with a single @7-8 and easy triples, plus familiar primary incline and a low-cost row. No RDL, no heavy retry.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8 · 87.5% of sumo input (200kg) · 175kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor; 3 reps @ RPE 6-7 · 75% of sumo input (200kg) · 150kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6-7 · 45kg anchor; 5 reps @ RPE 6-7 · 45kg anchor |
-| 3 | Seated Row (Cable) | 10 reps @ RPE 6-7 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 1 | 7–8 | 87.5% | sumo input (200kg) | 175 |
+| Sumo Deadlift (Barbell) | 2–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
+| Incline Bench Press (Dumbbell) | 1–2 | 5 | 6–7 | — | — | 45 |
+| Seated Row (Cable) | 1 | 10 | 6–7 | — | — | — |
 
 **Why these movements:**
 
@@ -778,11 +803,12 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 7-8 · 91.67% of squat input (180kg) · 165kg anchor; 2 reps @ RPE 6-7 · 80.56% of squat input (180kg) · 145kg anchor; 2 reps @ RPE 6-7 · 80.56% of squat input (180kg) · 145kg anchor |
-| 2 | Bench Press (Barbell) | 2 reps @ RPE 6-7 · 80.7% of bench input (142.5kg) · 115kg anchor; 2 reps @ RPE 6-7 · 80.7% of bench input (142.5kg) · 115kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6-7 · 15kg anchor |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 1 | 7–8 | 91.67% | squat input (180kg) | 165 |
+| Squat (Low Bar) | 2–3 | 2 | 6–7 | 80.56% | squat input (180kg) | 145 |
+| Bench Press (Barbell) | 1–2 | 2 | 6–7 | 80.7% | bench input (142.5kg) | 115 |
+| Pull-Up (Weighted) | 1 | 4 | 6–7 | — | — | 15 |
 
 **Why these movements:**
 
@@ -794,11 +820,17 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Day intent:** 83kg class; no weight cut. Friday full rest. Do not treat projected third attempts as guaranteed legal makes.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 7-8; 1 reps @ RPE 8-9.5; 1 reps @ RPE 8-10 |
-| 2 | Bench Press (Barbell) | 1 reps @ RPE 7-8; 1 reps @ RPE 8-9.5; 1 reps @ RPE 8-10 |
-| 3 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8; 1 reps @ RPE 8-9.5; 1 reps @ RPE 8-10 |
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Squat (Low Bar) | 1 | 1 | 7–8 |
+| Squat (Low Bar) | 2 | 1 | 8–9.5 |
+| Squat (Low Bar) | 3 | 1 | 8–10 |
+| Bench Press (Barbell) | 1 | 1 | 7–8 |
+| Bench Press (Barbell) | 2 | 1 | 8–9.5 |
+| Bench Press (Barbell) | 3 | 1 | 8–10 |
+| Sumo Deadlift (Barbell) | 1 | 1 | 7–8 |
+| Sumo Deadlift (Barbell) | 2 | 1 | 8–9.5 |
+| Sumo Deadlift (Barbell) | 3 | 1 | 8–10 |
 
 **Why these movements:**
 

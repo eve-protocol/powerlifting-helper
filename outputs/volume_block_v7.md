@@ -8,6 +8,8 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 - Days per week: 5
 - Total workouts: 30
 
+**Table guide:** Sets are the original set numbers; identical consecutive sets share a row (e.g. 2–4). Reps are per set. Range kg is the daily selection band; (start) marks a suggested starting anchor, and (example) marks a backoff anchor to recalculate from the actual top triple. — means no value is prescribed.
+
 ## Program Structure
 
 ### Week 1
@@ -16,12 +18,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Re-enter productive volume with stable squat-shoe mechanics and controlled pressing.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | High Bar Squat (Barbell) | 8 reps @ RPE 6-6.5 · 107.5kg anchor; 8 reps @ RPE 6-6.5 · 107.5kg anchor; 8 reps @ RPE 6-6.5 · 107.5kg anchor |
-| 2 | Bench Press (Paused) | 6 reps @ RPE 6.5-7 · 102.5kg anchor; 6 reps @ RPE 6.5-7 · 102.5kg anchor; 6 reps @ RPE 6.5-7 · 102.5kg anchor |
-| 3 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5 · 22.5kg anchor; 6 reps @ RPE 7-7.5 · 22.5kg anchor; 6 reps @ RPE 7-7.5 · 22.5kg anchor |
-| 4 | Cable Crunch | 15 reps @ RPE 6.5-7 · 45kg anchor; 15 reps @ RPE 6.5-7 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| High Bar Squat (Barbell) | 1–3 | 8 | 6–6.5 | 107.5 |
+| Bench Press (Paused) | 1–3 | 6 | 6.5–7 | 102.5 |
+| Pull-Up (Weighted) | 1–3 | 6 | 7–7.5 | 22.5 |
+| Cable Crunch | 1–2 | 15 | 6.5–7 | 45 |
 
 **Why these movements:**
 
@@ -34,12 +36,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Build competition-specific knee-to-lockout control and make incline dumbbell pressing a measurable primary progression.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 5 reps @ RPE 6.5-7 · 150kg anchor; 5 reps @ RPE 6.5-7 · 150kg anchor; 5 reps @ RPE 6.5-7 · 150kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 8 reps @ RPE 6.5-7 · 45kg anchor; 8 reps @ RPE 6.5-7 · 45kg anchor; 8 reps @ RPE 6.5-7 · 45kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor; 15 reps @ RPE 7-7.5 · 9kg anchor |
-| 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5 · 40kg anchor; 15 reps @ RPE 7-7.5 · 40kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 5 | 6.5–7 | 150 |
+| Incline Bench Press (Dumbbell) | 1–3 | 8 | 6.5–7 | 45 |
+| Lateral Raise (Dumbbell) | 1–3 | 15 | 7–7.5 | 9 |
+| Rear Delt Fly (Machine) | 1–2 | 15 | 7–7.5 | 40 |
 
 **Why these movements:**
 
@@ -52,13 +54,13 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Accumulate competition-squat volume while preserving knee and torso timing.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 8 reps @ RPE 6.5-7 · 132.5kg anchor; 8 reps @ RPE 6.5-7 · 132.5kg anchor; 8 reps @ RPE 6.5-7 · 132.5kg anchor |
-| 2 | Leg Extension | 12 reps @ RPE 7-7.5 · 60kg anchor; 12 reps @ RPE 7-7.5 · 60kg anchor; 12 reps @ RPE 7-7.5 · 60kg anchor |
-| 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5 · 60kg anchor; 12 reps @ RPE 7-7.5 · 60kg anchor; 12 reps @ RPE 7-7.5 · 60kg anchor |
-| 4 | Leg Curl | 12 reps @ RPE 7-7.5 · 25kg anchor; 12 reps @ RPE 7-7.5 · 25kg anchor; 12 reps @ RPE 7-7.5 · 25kg anchor |
-| 5 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5 · 22.5kg anchor; 6 reps @ RPE 7-7.5 · 22.5kg anchor; 6 reps @ RPE 7-7.5 · 22.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–3 | 8 | 6.5–7 | 132.5 |
+| Leg Extension | 1–3 | 12 | 7–7.5 | 60 |
+| Standing T Bar Row | 1–3 | 12 | 7–7.5 | 60 |
+| Leg Curl | 1–3 | 12 | 7–7.5 | 25 |
+| Pull-Up (Weighted) | 1–3 | 6 | 7–7.5 | 22.5 |
 
 **Why these movements:**
 
@@ -72,12 +74,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Build competition-bench volume while protecting Saturday deadlift readiness.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 8 reps @ RPE 6.5-7 · 107.5kg anchor; 8 reps @ RPE 6.5-7 · 107.5kg anchor; 8 reps @ RPE 6.5-7 · 107.5kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 12 reps @ RPE 7.5-8 · 25kg anchor; 12 reps @ RPE 7.5-8 · 25kg anchor; 12 reps @ RPE 7.5-8 · 25kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 12 reps @ RPE 7.5-8 · 20kg anchor; 12 reps @ RPE 7.5-8 · 20kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Bench Press (Barbell) | 1–3 | 8 | 6.5–7 | 107.5 |
+| Chest Fly (Machine) | 1–2 | 12 | 7–7.5 | 85 |
+| Overhead Tricep Extension (Cable) | 1–3 | 12 | 7.5–8 | 25 |
+| Bicep Curl (EZ Bar) | 1–2 | 12 | 7.5–8 | 20 |
 
 **Why these movements:**
 
@@ -90,11 +92,11 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Build deadlift rep strength and legal lockout mechanics without turning the day into a test.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 6 reps @ RPE 6.5-7 · 160kg anchor; 6 reps @ RPE 6.5-7 · 160kg anchor; 6 reps @ RPE 6.5-7 · 160kg anchor |
-| 2 | Squat (Low Bar) | 6 reps @ RPE 5.5-6 · 132.5kg anchor; 6 reps @ RPE 5.5-6 · 132.5kg anchor |
-| 3 | Spoto Press | 8 reps @ RPE 6.5-7 · 100kg anchor; 8 reps @ RPE 6.5-7 · 100kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1–3 | 6 | 6.5–7 | 160 |
+| Squat (Low Bar) | 1–2 | 6 | 5.5–6 | 132.5 |
+| Spoto Press | 1–2 | 8 | 6.5–7 | 100 |
 
 **Why these movements:**
 
@@ -116,12 +118,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Progress volume while keeping every set repeatable.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | High Bar Squat (Barbell) | 7 reps @ RPE 6.5-7 · 115kg anchor; 7 reps @ RPE 6.5-7 · 115kg anchor; 7 reps @ RPE 6.5-7 · 115kg anchor |
-| 2 | Bench Press (Paused) | 5 reps @ RPE 6.5-7 · 107.5kg anchor; 5 reps @ RPE 6.5-7 · 107.5kg anchor; 5 reps @ RPE 6.5-7 · 107.5kg anchor |
-| 3 | Pull-Up (Weighted) | 6 reps @ RPE 7-7.5 · 25kg anchor; 6 reps @ RPE 7-7.5 · 25kg anchor; 6 reps @ RPE 7-7.5 · 25kg anchor |
-| 4 | Cable Crunch | 15 reps @ RPE 6.5-7 · 45kg anchor; 15 reps @ RPE 6.5-7 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| High Bar Squat (Barbell) | 1–3 | 7 | 6.5–7 | 115 |
+| Bench Press (Paused) | 1–3 | 5 | 6.5–7 | 107.5 |
+| Pull-Up (Weighted) | 1–3 | 6 | 7–7.5 | 25 |
+| Cable Crunch | 1–2 | 15 | 6.5–7 | 45 |
 
 **Why these movements:**
 
@@ -134,12 +136,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Progress competition-specific knee-to-lockout control and incline dumbbell strength.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 5 reps @ RPE 6.5-7 · 155kg anchor; 5 reps @ RPE 6.5-7 · 155kg anchor; 5 reps @ RPE 6.5-7 · 155kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 7 reps @ RPE 7-7.5 · 47.5kg anchor; 7 reps @ RPE 7-7.5 · 47.5kg anchor; 7 reps @ RPE 7-7.5 · 47.5kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
-| 4 | Rear Delt Fly (Machine) | 15 reps @ RPE 7-7.5 · 40kg anchor; 15 reps @ RPE 7-7.5 · 40kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 5 | 6.5–7 | 155 |
+| Incline Bench Press (Dumbbell) | 1–3 | 7 | 7–7.5 | 47.5 |
+| Lateral Raise (Dumbbell) | 1–3 | 15 | 7–7.5 | 10 |
+| Rear Delt Fly (Machine) | 1–2 | 15 | 7–7.5 | 40 |
 
 **Why these movements:**
 
@@ -152,13 +154,13 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Raise competition-squat load while preserving the successful volume-block pattern.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 7 reps @ RPE 7-7.5 · 140kg anchor; 7 reps @ RPE 7-7.5 · 140kg anchor; 7 reps @ RPE 7-7.5 · 140kg anchor |
-| 2 | Leg Extension | 12 reps @ RPE 7-7.5 · 65kg anchor; 12 reps @ RPE 7-7.5 · 65kg anchor; 12 reps @ RPE 7-7.5 · 65kg anchor |
-| 3 | Standing T Bar Row | 12 reps @ RPE 7-7.5 · 62.5kg anchor; 12 reps @ RPE 7-7.5 · 62.5kg anchor; 12 reps @ RPE 7-7.5 · 62.5kg anchor |
-| 4 | Leg Curl | 12 reps @ RPE 7-7.5 · 27.5kg anchor; 12 reps @ RPE 7-7.5 · 27.5kg anchor; 12 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 5 | Pull-Up (Weighted) | 6 reps @ RPE 7.5-8 · 25kg anchor; 6 reps @ RPE 7.5-8 · 25kg anchor; 6 reps @ RPE 7.5-8 · 25kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–3 | 7 | 7–7.5 | 140 |
+| Leg Extension | 1–3 | 12 | 7–7.5 | 65 |
+| Standing T Bar Row | 1–3 | 12 | 7–7.5 | 62.5 |
+| Leg Curl | 1–3 | 12 | 7–7.5 | 27.5 |
+| Pull-Up (Weighted) | 1–3 | 6 | 7.5–8 | 25 |
 
 **Why these movements:**
 
@@ -172,12 +174,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Progress competition-bench volume without upper-back work before deadlift.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 7 reps @ RPE 7-7.5 · 112.5kg anchor; 7 reps @ RPE 7-7.5 · 112.5kg anchor; 7 reps @ RPE 7-7.5 · 112.5kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 12 reps @ RPE 7.5-8 · 27.5kg anchor; 12 reps @ RPE 7.5-8 · 27.5kg anchor; 12 reps @ RPE 7.5-8 · 27.5kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 12 reps @ RPE 7.5-8 · 22.5kg anchor; 12 reps @ RPE 7.5-8 · 22.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Bench Press (Barbell) | 1–3 | 7 | 7–7.5 | 112.5 |
+| Chest Fly (Machine) | 1–2 | 12 | 7–7.5 | 85 |
+| Overhead Tricep Extension (Cable) | 1–3 | 12 | 7.5–8 | 27.5 |
+| Bicep Curl (EZ Bar) | 1–2 | 12 | 7.5–8 | 22.5 |
 
 **Why these movements:**
 
@@ -190,11 +192,11 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Progress sumo fives while keeping the top half connected.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7-7.5 · 167.5kg anchor; 5 reps @ RPE 7-7.5 · 167.5kg anchor; 5 reps @ RPE 7-7.5 · 167.5kg anchor |
-| 2 | Squat (Low Bar) | 5 reps @ RPE 5.5-6 · 137.5kg anchor; 5 reps @ RPE 5.5-6 · 137.5kg anchor |
-| 3 | Spoto Press | 7 reps @ RPE 6.5-7 · 102.5kg anchor; 7 reps @ RPE 6.5-7 · 102.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1–3 | 5 | 7–7.5 | 167.5 |
+| Squat (Low Bar) | 1–2 | 5 | 5.5–6 | 137.5 |
+| Spoto Press | 1–2 | 7 | 6.5–7 | 102.5 |
 
 **Why these movements:**
 
@@ -216,12 +218,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Build the strongest full-volume week without turning secondary work into testing.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | High Bar Squat (Barbell) | 6 reps @ RPE 7-7.5 · 122.5kg anchor; 6 reps @ RPE 7-7.5 · 122.5kg anchor; 6 reps @ RPE 7-7.5 · 122.5kg anchor |
-| 2 | Bench Press (Paused) | 5 reps @ RPE 7-7.5 · 110kg anchor; 5 reps @ RPE 7-7.5 · 110kg anchor; 5 reps @ RPE 7-7.5 · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8 · 27.5kg anchor; 5 reps @ RPE 7.5-8 · 27.5kg anchor; 5 reps @ RPE 7.5-8 · 27.5kg anchor |
-| 4 | Cable Crunch | 15 reps @ RPE 7-7.5 · 45kg anchor; 15 reps @ RPE 7-7.5 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| High Bar Squat (Barbell) | 1–3 | 6 | 7–7.5 | 122.5 |
+| Bench Press (Paused) | 1–3 | 5 | 7–7.5 | 110 |
+| Pull-Up (Weighted) | 1–3 | 5 | 7.5–8 | 27.5 |
+| Cable Crunch | 1–2 | 15 | 7–7.5 | 45 |
 
 **Why these movements:**
 
@@ -234,12 +236,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Raise primary incline and paused-sumo loads while retaining rep and positional quality.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
-| 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 4 | 7–7.5 | 160 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–7.5 | 50 |
+| Lateral Raise (Dumbbell) | 1–3 | 15 | 7–7.5 | 10 |
+| Rear Delt Fly (Machine) | 1–2 | 12 | 7–7.5 | 45 |
 
 **Why these movements:**
 
@@ -252,13 +254,13 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Use heavy sixes to bridge volume strength into the benchmark week.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 6 reps @ RPE 7.5-8 · 147.5kg anchor; 6 reps @ RPE 7.5-8 · 147.5kg anchor; 6 reps @ RPE 7.5-8 · 147.5kg anchor |
-| 2 | Leg Extension | 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor |
-| 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor |
-| 4 | Leg Curl | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
-| 5 | Pull-Up (Weighted) | 5 reps @ RPE 7.5-8 · 27.5kg anchor; 5 reps @ RPE 7.5-8 · 27.5kg anchor; 5 reps @ RPE 7.5-8 · 27.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–3 | 6 | 7.5–8 | 147.5 |
+| Leg Extension | 1–3 | 10 | 7.5–8 | 65 |
+| Standing T Bar Row | 1–3 | 10 | 7.5–8 | 65 |
+| Leg Curl | 1–3 | 10 | 7.5–8 | 30 |
+| Pull-Up (Weighted) | 1–3 | 5 | 7.5–8 | 27.5 |
 
 **Why these movements:**
 
@@ -272,12 +274,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Bridge competition bench toward the five-rep benchmark.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 6 reps @ RPE 7-7.5 · 115kg anchor; 6 reps @ RPE 7-7.5 · 115kg anchor; 6 reps @ RPE 7-7.5 · 115kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7.5-8 · 22.5kg anchor; 10 reps @ RPE 7.5-8 · 22.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Bench Press (Barbell) | 1–3 | 6 | 7–7.5 | 115 |
+| Chest Fly (Machine) | 1–2 | 12 | 7–7.5 | 85 |
+| Overhead Tricep Extension (Cable) | 1–3 | 10 | 7.5–8 | 30 |
+| Bicep Curl (EZ Bar) | 1–2 | 10 | 7.5–8 | 22.5 |
 
 **Why these movements:**
 
@@ -290,11 +292,11 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Bridge deadlift volume into the five-rep benchmark with clean lockouts.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 7.5-8 · 172.5kg anchor; 5 reps @ RPE 7.5-8 · 172.5kg anchor; 5 reps @ RPE 7.5-8 · 172.5kg anchor |
-| 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6 · 140kg anchor; 4 reps @ RPE 5.5-6 · 140kg anchor |
-| 3 | Spoto Press | 6 reps @ RPE 6.5-7 · 107.5kg anchor; 6 reps @ RPE 6.5-7 · 107.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1–3 | 5 | 7.5–8 | 172.5 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6 | 140 |
+| Spoto Press | 1–2 | 6 | 6.5–7 | 107.5 |
 
 **Why these movements:**
 
@@ -316,12 +318,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Preserve developmental work while lowering fatigue before benchmarks.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | High Bar Squat (Barbell) | 5 reps @ RPE 6.5-7 · 130kg anchor; 5 reps @ RPE 6.5-7 · 130kg anchor |
-| 2 | Bench Press (Paused) | 3 reps @ RPE 6.5-7 · 112.5kg anchor; 3 reps @ RPE 6.5-7 · 112.5kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 4 | Cable Crunch | 15 reps @ RPE 6.5-7 · 45kg anchor; 15 reps @ RPE 6.5-7 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| High Bar Squat (Barbell) | 1–2 | 5 | 6.5–7 | 130 |
+| Bench Press (Paused) | 1–2 | 3 | 6.5–7 | 112.5 |
+| Pull-Up (Weighted) | 1–3 | 5 | 7–7.5 | 27.5 |
+| Cable Crunch | 1–2 | 15 | 6.5–7 | 45 |
 
 **Why these movements:**
 
@@ -334,12 +336,13 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Benchmark incline dumbbell progress without exhausting the Wednesday squat.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 7-7.5 · 165kg anchor; 4 reps @ RPE 7-7.5 · 165kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 8.5-9 · 52.5kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 7-7.5 · 10kg anchor; 12 reps @ RPE 7-7.5 · 10kg anchor |
-| 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 40kg anchor; 12 reps @ RPE 7-7.5 · 40kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–2 | 4 | 7–7.5 | 165 |
+| Incline Bench Press (Dumbbell) | 1 | 6 | 8.5–9 | 52.5 |
+| Incline Bench Press (Dumbbell) | 2–3 | 6 | 7–7.5 | 50 |
+| Lateral Raise (Dumbbell) | 1–2 | 12 | 7–7.5 | 10 |
+| Rear Delt Fly (Machine) | 1–2 | 12 | 7–7.5 | 40 |
 
 **Why these movements:**
 
@@ -352,13 +355,14 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Test whether volume strength improved and whether heavy squat mechanics transfer.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 5 reps @ RPE 9-9.5 · 160kg anchor; 5 reps @ RPE 7-7.5 · 150kg anchor; 5 reps @ RPE 7-7.5 · 150kg anchor |
-| 2 | Leg Extension | 10 reps @ RPE 6.5-7 · 65kg anchor; 10 reps @ RPE 6.5-7 · 65kg anchor |
-| 3 | Standing T Bar Row | 10 reps @ RPE 6.5-7 · 60kg anchor; 10 reps @ RPE 6.5-7 · 60kg anchor |
-| 4 | Leg Curl | 10 reps @ RPE 6.5-7 · 30kg anchor; 10 reps @ RPE 6.5-7 · 30kg anchor |
-| 5 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 5 | 9–9.5 | 160 |
+| Squat (Low Bar) | 2–3 | 5 | 7–7.5 | 150 |
+| Leg Extension | 1–2 | 10 | 6.5–7 | 65 |
+| Standing T Bar Row | 1–2 | 10 | 6.5–7 | 60 |
+| Leg Curl | 1–2 | 10 | 6.5–7 | 30 |
+| Pull-Up (Weighted) | 1–2 | 5 | 7–7.5 | 27.5 |
 
 **Why these movements:**
 
@@ -372,12 +376,13 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Test whether bench volume converts while keeping Saturday deadlift intact.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 5 reps @ RPE 9-9.5 · 122.5kg anchor; 5 reps @ RPE 7-7.5 · 112.5kg anchor; 5 reps @ RPE 7-7.5 · 112.5kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7-7.5 · 27.5kg anchor; 10 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7-7.5 · 22.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Bench Press (Barbell) | 1 | 5 | 9–9.5 | 122.5 |
+| Bench Press (Barbell) | 2–3 | 5 | 7–7.5 | 112.5 |
+| Chest Fly (Machine) | 1–2 | 12 | 7–7.5 | 85 |
+| Overhead Tricep Extension (Cable) | 1–2 | 10 | 7–7.5 | 27.5 |
+| Bicep Curl (EZ Bar) | 1 | 10 | 7–7.5 | 22.5 |
 
 **Why these movements:**
 
@@ -390,11 +395,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Test deadlift rep-strength progress and legal top-half transfer.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 5 reps @ RPE 9-9.5 · 180kg anchor; 5 reps @ RPE 7-7.5 · 165kg anchor; 5 reps @ RPE 7-7.5 · 165kg anchor |
-| 2 | Squat (Low Bar) | 3 reps @ RPE 5.5-6 · 140kg anchor; 3 reps @ RPE 5.5-6 · 140kg anchor |
-| 3 | Spoto Press | 5 reps @ RPE 6.5-7 · 110kg anchor; 5 reps @ RPE 6.5-7 · 110kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 5 | 9–9.5 | 180 |
+| Sumo Deadlift (Barbell) | 2–3 | 5 | 7–7.5 | 165 |
+| Squat (Low Bar) | 1–2 | 3 | 5.5–6 | 140 |
+| Spoto Press | 1–2 | 5 | 6.5–7 | 110 |
 
 **Why these movements:**
 
@@ -418,12 +424,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Priority:** essential
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | High Bar Squat (Barbell) | 6 reps @ RPE 6-6.5 · 120kg anchor; 6 reps @ RPE 6-6.5 · 120kg anchor |
-| 2 | Bench Press (Paused) | 5 reps @ RPE 6-6.5 · 105kg anchor; 5 reps @ RPE 6-6.5 · 105kg anchor |
-| 3 | Pull-Up (Weighted) | 6 reps @ RPE 6.5-7 · 22.5kg anchor; 6 reps @ RPE 6.5-7 · 22.5kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 6.5-7 · 45kg anchor; 12 reps @ RPE 6.5-7 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| High Bar Squat (Barbell) | 1–2 | 6 | 6–6.5 | 120 |
+| Bench Press (Paused) | 1–2 | 5 | 6–6.5 | 105 |
+| Pull-Up (Weighted) | 1–2 | 6 | 6.5–7 | 22.5 |
+| Cable Crunch | 1–2 | 12 | 6.5–7 | 45 |
 
 **Why these movements:**
 
@@ -438,12 +444,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Priority:** support
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 6.5-7 · 150kg anchor; 4 reps @ RPE 6.5-7 · 150kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 6.5-7 · 47.5kg anchor; 6 reps @ RPE 6.5-7 · 47.5kg anchor; 6 reps @ RPE 6.5-7 · 47.5kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 12 reps @ RPE 6.5-7 · 10kg anchor; 12 reps @ RPE 6.5-7 · 10kg anchor |
-| 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 6.5-7 · 40kg anchor; 12 reps @ RPE 6.5-7 · 40kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–2 | 4 | 6.5–7 | 150 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 6.5–7 | 47.5 |
+| Lateral Raise (Dumbbell) | 1–2 | 12 | 6.5–7 | 10 |
+| Rear Delt Fly (Machine) | 1–2 | 12 | 6.5–7 | 40 |
 
 **Why these movements:**
 
@@ -458,12 +464,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Priority:** essential
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 5 reps @ RPE 6.5-7 · 145kg anchor; 5 reps @ RPE 6.5-7 · 145kg anchor; 5 reps @ RPE 6.5-7 · 145kg anchor |
-| 2 | Leg Extension | 10 reps @ RPE 6.5-7 · 60kg anchor; 10 reps @ RPE 6.5-7 · 60kg anchor |
-| 3 | Leg Curl | 10 reps @ RPE 6.5-7 · 25kg anchor; 10 reps @ RPE 6.5-7 · 25kg anchor |
-| 4 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 25kg anchor; 5 reps @ RPE 7-7.5 · 25kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–3 | 5 | 6.5–7 | 145 |
+| Leg Extension | 1–2 | 10 | 6.5–7 | 60 |
+| Leg Curl | 1–2 | 10 | 6.5–7 | 25 |
+| Pull-Up (Weighted) | 1–2 | 5 | 7–7.5 | 25 |
 
 **Why these movements:**
 
@@ -478,12 +484,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Priority:** essential
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 5 reps @ RPE 6.5-7 · 115kg anchor; 5 reps @ RPE 6.5-7 · 115kg anchor; 5 reps @ RPE 6.5-7 · 115kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 6.5-7 · 85kg anchor; 12 reps @ RPE 6.5-7 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7-7.5 · 27.5kg anchor; 10 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7-7.5 · 22.5kg anchor; 10 reps @ RPE 7-7.5 · 22.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Bench Press (Barbell) | 1–3 | 5 | 6.5–7 | 115 |
+| Chest Fly (Machine) | 1–2 | 12 | 6.5–7 | 85 |
+| Overhead Tricep Extension (Cable) | 1–2 | 10 | 7–7.5 | 27.5 |
+| Bicep Curl (EZ Bar) | 1–2 | 10 | 7–7.5 | 22.5 |
 
 **Why these movements:**
 
@@ -498,11 +504,11 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Priority:** essential
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 4 reps @ RPE 6.5-7 · 165kg anchor; 4 reps @ RPE 6.5-7 · 165kg anchor; 4 reps @ RPE 6.5-7 · 165kg anchor |
-| 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6 · 135kg anchor; 4 reps @ RPE 5.5-6 · 135kg anchor |
-| 3 | Spoto Press | 6 reps @ RPE 6.5-7 · 105kg anchor; 6 reps @ RPE 6.5-7 · 105kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1–3 | 4 | 6.5–7 | 165 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6 | 135 |
+| Spoto Press | 1–2 | 6 | 6.5–7 | 105 |
 
 **Why these movements:**
 
@@ -524,12 +530,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Restore normal productive volume after relocation without retesting the Week 4 benchmarks.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | High Bar Squat (Barbell) | 6 reps @ RPE 6.5-7 · 122.5kg anchor; 6 reps @ RPE 6.5-7 · 122.5kg anchor; 6 reps @ RPE 6.5-7 · 122.5kg anchor |
-| 2 | Bench Press (Paused) | 5 reps @ RPE 6.5-7 · 107.5kg anchor; 5 reps @ RPE 6.5-7 · 107.5kg anchor; 5 reps @ RPE 6.5-7 · 107.5kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 4 | Cable Crunch | 15 reps @ RPE 7-7.5 · 45kg anchor; 15 reps @ RPE 7-7.5 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| High Bar Squat (Barbell) | 1–3 | 6 | 6.5–7 | 122.5 |
+| Bench Press (Paused) | 1–3 | 5 | 6.5–7 | 107.5 |
+| Pull-Up (Weighted) | 1–3 | 5 | 7–7.5 | 27.5 |
+| Cable Crunch | 1–2 | 15 | 7–7.5 | 45 |
 
 **Why these movements:**
 
@@ -542,12 +548,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Re-establish paused-sumo and primary incline progression on calibrated Toronto equipment.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor; 4 reps @ RPE 7-7.5 · 160kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor; 6 reps @ RPE 7-7.5 · 50kg anchor |
-| 3 | Lateral Raise (Dumbbell) | 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor; 15 reps @ RPE 7-7.5 · 10kg anchor |
-| 4 | Rear Delt Fly (Machine) | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 4 | 7–7.5 | 160 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–7.5 | 50 |
+| Lateral Raise (Dumbbell) | 1–3 | 15 | 7–7.5 | 10 |
+| Rear Delt Fly (Machine) | 1–2 | 12 | 7–7.5 | 45 |
 
 **Why these movements:**
 
@@ -560,13 +566,13 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Consolidate competition-squat fives before lower-rep intensification begins.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 5 reps @ RPE 7-7.5 · 152.5kg anchor; 5 reps @ RPE 7-7.5 · 152.5kg anchor; 5 reps @ RPE 7-7.5 · 152.5kg anchor |
-| 2 | Leg Extension | 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor |
-| 3 | Standing T Bar Row | 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor; 10 reps @ RPE 7.5-8 · 65kg anchor |
-| 4 | Leg Curl | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
-| 5 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor; 5 reps @ RPE 7-7.5 · 27.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–3 | 5 | 7–7.5 | 152.5 |
+| Leg Extension | 1–3 | 10 | 7.5–8 | 65 |
+| Standing T Bar Row | 1–3 | 10 | 7.5–8 | 65 |
+| Leg Curl | 1–3 | 10 | 7.5–8 | 30 |
+| Pull-Up (Weighted) | 1–3 | 5 | 7–7.5 | 27.5 |
 
 **Why these movements:**
 
@@ -580,12 +586,12 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Consolidate competition-bench fives with the Toronto bench setup now calibrated.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Bench Press (Barbell) | 5 reps @ RPE 7-7.5 · 120kg anchor; 5 reps @ RPE 7-7.5 · 120kg anchor; 5 reps @ RPE 7-7.5 · 120kg anchor |
-| 2 | Chest Fly (Machine) | 12 reps @ RPE 7-7.5 · 85kg anchor; 12 reps @ RPE 7-7.5 · 85kg anchor |
-| 3 | Overhead Tricep Extension (Cable) | 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor; 10 reps @ RPE 7.5-8 · 30kg anchor |
-| 4 | Bicep Curl (EZ Bar) | 10 reps @ RPE 7.5-8 · 22.5kg anchor; 10 reps @ RPE 7.5-8 · 22.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Bench Press (Barbell) | 1–3 | 5 | 7–7.5 | 120 |
+| Chest Fly (Machine) | 1–2 | 12 | 7–7.5 | 85 |
+| Overhead Tricep Extension (Cable) | 1–3 | 10 | 7.5–8 | 30 |
+| Bicep Curl (EZ Bar) | 1–2 | 10 | 7.5–8 | 22.5 |
 
 **Why these movements:**
 
@@ -598,11 +604,11 @@ Six-week athlete-specific accumulation block. Weeks 1-3 retain the high-rep stru
 
 **Day intent:** Finish accumulation with controlled sumo fours, light squat positions, and precise Spoto work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 4 reps @ RPE 7-7.5 · 172.5kg anchor; 4 reps @ RPE 7-7.5 · 172.5kg anchor; 4 reps @ RPE 7-7.5 · 172.5kg anchor |
-| 2 | Squat (Low Bar) | 4 reps @ RPE 5.5-6 · 140kg anchor; 4 reps @ RPE 5.5-6 · 140kg anchor |
-| 3 | Spoto Press | 6 reps @ RPE 6.5-7 · 107.5kg anchor; 6 reps @ RPE 6.5-7 · 107.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1–3 | 4 | 7–7.5 | 172.5 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6 | 140 |
+| Spoto Press | 1–2 | 6 | 6.5–7 | 107.5 |
 
 **Why these movements:**
 

@@ -8,6 +8,8 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 - Days per week: 5
 - Total workouts: 14
 
+**Table guide:** Sets are the original set numbers; identical consecutive sets share a row (e.g. 2–4). Reps are per set. Range kg is the daily selection band; (start) marks a suggested starting anchor, and (example) marks a backoff anchor to recalculate from the actual top triple. — means no value is prescribed.
+
 ## Program Structure
 
 ### Week 1
@@ -16,11 +18,11 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Retain useful rep work while reducing fatigue and increasing competition specificity; avoid quad soreness before Wednesday.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5 · 145kg anchor; 3 reps @ RPE 6-6.5 · 145kg anchor |
-| 2 | Bench Press (Barbell) | 3 reps @ RPE 6.5-7 · 115kg anchor; 3 reps @ RPE 6.5-7 · 115kg anchor; 3 reps @ RPE 6.5-7 · 115kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 7-7.5 · 25kg anchor; 5 reps @ RPE 7-7.5 · 25kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–2 | 3 | 6–6.5 | 145 |
+| Bench Press (Barbell) | 1–3 | 3 | 6.5–7 | 115 |
+| Pull-Up (Weighted) | 1–2 | 5 | 7–7.5 | 25 |
 
 **Why these movements:**
 
@@ -32,12 +34,12 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Practise competition sumo and retain incline strength and supported upper-back work at controlled effort without compromising Wednesday's heavy squat and bench.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 2 reps @ RPE 6.5-7 · 150kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7-7.5 · 52.5kg anchor; 5 reps @ RPE 7-7.5 · 52.5kg anchor |
-| 3 | Seated Row (Cable) | 8 reps @ RPE 7-7.5 · 50.5kg anchor; 8 reps @ RPE 7-7.5 · 50.5kg anchor |
-| 4 | Cable Crunch | 12 reps @ RPE 7-7.5 · 45kg anchor; 12 reps @ RPE 7-7.5 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1–2 | 2 | 6.5–7 | 150 |
+| Incline Bench Press (Dumbbell) | 1–2 | 5 | 7–7.5 | 52.5 |
+| Seated Row (Cable) | 1–2 | 8 | 7–7.5 | 50.5 |
+| Cable Crunch | 1–2 | 12 | 7–7.5 | 45 |
 
 **Why these movements:**
 
@@ -50,12 +52,14 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Perform the heavy squat and bench exposures in meet order, with no accessory work between them; cap the session at two support movements afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 172.5kg anchor; 2 reps @ RPE 7.5-8 · 162.5kg anchor; 2 reps @ RPE 7.5-8 · 162.5kg anchor |
-| 2 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5 · 140kg anchor; 2 reps @ RPE 7.5-8 · 130kg anchor; 2 reps @ RPE 7.5-8 · 130kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 7-7.5 · 27.5kg anchor; 4 reps @ RPE 7-7.5 · 27.5kg anchor |
-| 4 | Leg Curl | 8 reps @ RPE 7-7.5 · 30kg anchor; 8 reps @ RPE 7-7.5 · 30kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 1 | 8–8.5 | 172.5 |
+| Squat (Low Bar) | 2–3 | 2 | 7.5–8 | 162.5 |
+| Bench Press (Barbell) | 1 | 1 | 8–8.5 | 140 |
+| Bench Press (Barbell) | 2–3 | 2 | 7.5–8 | 130 |
+| Pull-Up (Weighted) | 1–2 | 4 | 7–7.5 | 27.5 |
+| Leg Curl | 1–2 | 8 | 7–7.5 | 30 |
 
 **Why these movements:**
 
@@ -68,13 +72,13 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Retain a written Friday session using low-fatigue chest, shoulders, arms, and trunk work while protecting Saturday deadlift and avoiding proof-of-readiness work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 10 reps @ RPE 7-7.5 · 35kg anchor; 10 reps @ RPE 7-7.5 · 35kg anchor |
-| 2 | Rear Delt Fly (Dumbbell) | 15 reps @ RPE 7-7.5 · 7kg anchor; 15 reps @ RPE 7-7.5 · 7kg anchor |
-| 3 | Lateral Raise (Cable) | 10 reps @ RPE 7-7.5 · 10kg anchor; 10 reps @ RPE 7-7.5 · 10kg anchor |
-| 4 | Tricep Pushdown (Cable) | 8 reps @ RPE 7-7.5 · 55kg anchor; 8 reps @ RPE 7-7.5 · 55kg anchor |
-| 5 | Bicep Curl (Dumbbell) | 8 reps @ RPE 7-7.5 · 11.5kg anchor; 8 reps @ RPE 7-7.5 · 11.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Chest Fly (Machine) | 1–2 | 10 | 7–7.5 | 35 |
+| Rear Delt Fly (Dumbbell) | 1–2 | 15 | 7–7.5 | 7 |
+| Lateral Raise (Cable) | 1–2 | 10 | 7–7.5 | 10 |
+| Tricep Pushdown (Cable) | 1–2 | 8 | 7–7.5 | 55 |
+| Bicep Curl (Dumbbell) | 1–2 | 8 | 7–7.5 | 11.5 |
 
 **Why these movements:**
 
@@ -88,11 +92,12 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Express a clean heavy deadlift while retaining controlled backoff doubles.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 195kg anchor; 2 reps @ RPE 7.5-8 · 182.5kg anchor; 2 reps @ RPE 7.5-8 · 182.5kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6 · 145kg anchor; 2 reps @ RPE 5.5-6 · 145kg anchor |
-| 3 | Bench Press (Barbell) | 2 reps @ RPE 6-6.5 · 122.5kg anchor; 2 reps @ RPE 6-6.5 · 122.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 1 | 8–8.5 | 195 |
+| Sumo Deadlift (Barbell) | 2–3 | 2 | 7.5–8 | 182.5 |
+| Squat (Low Bar) | 1–2 | 2 | 5.5–6 | 145 |
+| Bench Press (Barbell) | 1–2 | 2 | 6–6.5 | 122.5 |
 
 **Why these movements:**
 
@@ -114,11 +119,11 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Start the final heavy-practice week with useful but contained rep work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 2 reps @ RPE 6-6.5 · 150kg anchor; 2 reps @ RPE 6-6.5 · 150kg anchor |
-| 2 | Bench Press (Barbell) | 2 reps @ RPE 6.5-7 · 120kg anchor; 2 reps @ RPE 6.5-7 · 120kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7 · 20kg anchor; 4 reps @ RPE 6.5-7 · 20kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–2 | 2 | 6–6.5 | 150 |
+| Bench Press (Barbell) | 1–2 | 2 | 6.5–7 | 120 |
+| Pull-Up (Weighted) | 1–2 | 4 | 6.5–7 | 20 |
 
 **Why these movements:**
 
@@ -130,12 +135,12 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Practise competition sumo and retain incline strength and supported upper-back work at controlled effort without compromising Wednesday's final heavy squat and bench.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 2 reps @ RPE 6-6.5 · 140kg anchor; 2 reps @ RPE 6-6.5 · 140kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6.5-7 · 50kg anchor; 5 reps @ RPE 6.5-7 · 50kg anchor |
-| 3 | Seated Row (Cable) | 8 reps @ RPE 6.5-7 · 48kg anchor; 8 reps @ RPE 6.5-7 · 48kg anchor |
-| 4 | Cable Crunch | 10 reps @ RPE 6.5-7 · 45kg anchor; 10 reps @ RPE 6.5-7 · 45kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1–2 | 2 | 6–6.5 | 140 |
+| Incline Bench Press (Dumbbell) | 1–2 | 5 | 6.5–7 | 50 |
+| Seated Row (Cable) | 1–2 | 8 | 6.5–7 | 48 |
+| Cable Crunch | 1–2 | 10 | 6.5–7 | 45 |
 
 **Why these movements:**
 
@@ -148,12 +153,14 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Perform the heavy squat and bench exposures in meet order, with no accessory work between them; cap the session at two support movements afterward.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 175kg anchor; 2 reps @ RPE 7-7.5 · 160kg anchor; 2 reps @ RPE 7-7.5 · 160kg anchor |
-| 2 | Bench Press (Barbell) | 1 reps @ RPE 8.5-9 · 140kg anchor; 2 reps @ RPE 7-7.5 · 125kg anchor; 2 reps @ RPE 7-7.5 · 125kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7 · 22.5kg anchor; 4 reps @ RPE 6.5-7 · 22.5kg anchor |
-| 4 | Leg Curl | 8 reps @ RPE 6.5-7 · 25kg anchor; 8 reps @ RPE 6.5-7 · 25kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 1 | 8–8.5 | 175 |
+| Squat (Low Bar) | 2–3 | 2 | 7–7.5 | 160 |
+| Bench Press (Barbell) | 1 | 1 | 8.5–9 | 140 |
+| Bench Press (Barbell) | 2–3 | 2 | 7–7.5 | 125 |
+| Pull-Up (Weighted) | 1–2 | 4 | 6.5–7 | 22.5 |
+| Leg Curl | 1–2 | 8 | 6.5–7 | 25 |
 
 **Why these movements:**
 
@@ -166,13 +173,13 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Retain a written Friday session using low-fatigue chest, shoulders, arms, and trunk work while protecting Saturday deadlift and avoiding proof-of-readiness work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Chest Fly (Machine) | 10 reps @ RPE 6.5-7 · 35kg anchor; 10 reps @ RPE 6.5-7 · 35kg anchor |
-| 2 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7 · 7kg anchor; 12 reps @ RPE 6.5-7 · 7kg anchor |
-| 3 | Lateral Raise (Cable) | 10 reps @ RPE 6.5-7 · 10kg anchor; 10 reps @ RPE 6.5-7 · 10kg anchor |
-| 4 | Tricep Pushdown (Cable) | 8 reps @ RPE 6.5-7 · 50kg anchor; 8 reps @ RPE 6.5-7 · 50kg anchor |
-| 5 | Bicep Curl (Dumbbell) | 8 reps @ RPE 6.5-7 · 9kg anchor; 8 reps @ RPE 6.5-7 · 9kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Chest Fly (Machine) | 1–2 | 10 | 6.5–7 | 35 |
+| Rear Delt Fly (Dumbbell) | 1–2 | 12 | 6.5–7 | 7 |
+| Lateral Raise (Cable) | 1–2 | 10 | 6.5–7 | 10 |
+| Tricep Pushdown (Cable) | 1–2 | 8 | 6.5–7 | 50 |
+| Bicep Curl (Dumbbell) | 1–2 | 8 | 6.5–7 | 9 |
 
 **Why these movements:**
 
@@ -186,11 +193,12 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Complete the final heavy deadlift seven days before the mock meet.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 195kg anchor; 2 reps @ RPE 7-7.5 · 180kg anchor |
-| 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6 · 140kg anchor; 2 reps @ RPE 5.5-6 · 140kg anchor |
-| 3 | Bench Press (Barbell) | 2 reps @ RPE 6-6.5 · 120kg anchor; 2 reps @ RPE 6-6.5 · 120kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 1 | 8–8.5 | 195 |
+| Sumo Deadlift (Barbell) | 2 | 2 | 7–7.5 | 180 |
+| Squat (Low Bar) | 1–2 | 2 | 5.5–6 | 140 |
+| Bench Press (Barbell) | 1–2 | 2 | 6–6.5 | 120 |
 
 **Why these movements:**
 
@@ -212,12 +220,12 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Reduce volume while preserving meaningful competition patterns and upper-body work.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 3 reps @ RPE 5.5-6 · 135kg anchor; 3 reps @ RPE 5.5-6 · 135kg anchor |
-| 2 | Bench Press (Barbell) | 2 reps @ RPE 6-6.5 · 110kg anchor; 2 reps @ RPE 6-6.5 · 110kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7 · 20kg anchor; 5 reps @ RPE 6.5-7 · 20kg anchor |
-| 4 | Cable Crunch | 10 reps @ RPE 6-6.5 · 40kg anchor; 10 reps @ RPE 6-6.5 · 40kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–2 | 3 | 5.5–6 | 135 |
+| Bench Press (Barbell) | 1–2 | 2 | 6–6.5 | 110 |
+| Pull-Up (Weighted) | 1–2 | 5 | 6.5–7 | 20 |
+| Cable Crunch | 1–2 | 10 | 6–6.5 | 40 |
 
 **Why these movements:**
 
@@ -230,11 +238,11 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Keep incline dumbbell and shoulder work meaningful but non-fatiguing.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6-6.5 · 45kg anchor; 5 reps @ RPE 6-6.5 · 45kg anchor |
-| 2 | Lateral Raise (Cable) | 10 reps @ RPE 6-6.5 · 9kg anchor; 10 reps @ RPE 6-6.5 · 9kg anchor |
-| 3 | Rear Delt Fly (Cable) | 12 reps @ RPE 6-6.5 · 9kg anchor; 12 reps @ RPE 6-6.5 · 9kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Incline Bench Press (Dumbbell) | 1–2 | 5 | 6–6.5 | 45 |
+| Lateral Raise (Cable) | 1–2 | 10 | 6–6.5 | 9 |
+| Rear Delt Fly (Cable) | 1–2 | 12 | 6–6.5 | 9 |
 
 **Why these movements:**
 
@@ -246,10 +254,10 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Use the final squat and bench touches in meet order to confirm commands and positions, then leave; no support work three days before the mock meet.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 6-6.5 · 145kg anchor; 1 reps @ RPE 6-6.5 · 145kg anchor |
-| 2 | Bench Press (Barbell) | 1 reps @ RPE 6-6.5 · 120kg anchor; 1 reps @ RPE 6-6.5 · 120kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1–2 | 1 | 6–6.5 | 145 |
+| Bench Press (Barbell) | 1–2 | 1 | 6–6.5 | 120 |
 
 **Why these movements:**
 
@@ -260,11 +268,17 @@ Three-week athlete-specific realization block. Week 1 expresses heavier singles 
 
 **Day intent:** Realize the cycle with a 530kg primary target and 540kg stretch target.
 
-| # | Exercise | Prescription |
-|---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8 · 167.5kg anchor; 1 reps @ RPE 9-9 · 180kg anchor; 1 reps @ RPE 10-10 · 182.5kg anchor |
-| 2 | Bench Press (Barbell) | 1 reps @ RPE 8-8 · 132.5kg anchor; 1 reps @ RPE 9-9 · 142.5kg anchor; 1 reps @ RPE 10-10 · 145kg anchor |
-| 3 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8 · 185kg anchor; 1 reps @ RPE 9-9 · 197.5kg anchor; 1 reps @ RPE 10-10 · 202.5kg anchor |
+| Exercise | Sets | Reps | RPE | Anchor kg |
+|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 1 | 8–8 | 167.5 |
+| Squat (Low Bar) | 2 | 1 | 9–9 | 180 |
+| Squat (Low Bar) | 3 | 1 | 10–10 | 182.5 |
+| Bench Press (Barbell) | 1 | 1 | 8–8 | 132.5 |
+| Bench Press (Barbell) | 2 | 1 | 9–9 | 142.5 |
+| Bench Press (Barbell) | 3 | 1 | 10–10 | 145 |
+| Sumo Deadlift (Barbell) | 1 | 1 | 8–8 | 185 |
+| Sumo Deadlift (Barbell) | 2 | 1 | 9–9 | 197.5 |
+| Sumo Deadlift (Barbell) | 3 | 1 | 10–10 | 202.5 |
 
 **Why these movements:**
 
