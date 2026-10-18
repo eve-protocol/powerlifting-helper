@@ -12,9 +12,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 1
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
+**Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -22,6 +22,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6-6.5 · 110kg anchor; 5 reps @ RPE 6-6.5 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 20kg anchor; 5 reps @ RPE 6.5-7.5 · 20kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 6-7 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -29,6 +30,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat.
 
 #### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
@@ -48,7 +50,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
 
@@ -57,14 +59,16 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 1 | Squat (Low Bar) | 3 reps @ RPE 6-6.5 · 147.5kg anchor; 3 reps @ RPE 6-7.5 · 132.5kg anchor |
 | 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 20kg anchor; 4 reps @ RPE 6.5-7.5 · 20kg anchor |
+| 4 | Cable Crunch | 12 reps @ RPE 6-6.5 |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
 
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Machine Adductor
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
@@ -84,25 +88,23 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
-- **Hip Adductor (Machine):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
+- **Hip Adductor (Machine):** Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
-#### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
+#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
 
-**Day intent:** Heavy pull, then low-cost competition squat, then at most two support exercises; no work between sumo and squat.
+**Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 6-6.5 · 165.0kg anchor; 3 reps @ RPE 6-7.5 · 147.5kg anchor |
 | 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 135kg anchor |
 | 3 | Spoto Press | 4 reps @ RPE 6-7 · 100kg anchor; 4 reps @ RPE 6-7 · 100kg anchor |
-| 4 | Hip Thrust (Machine) | 10 reps @ RPE 6-7 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
-- **Spoto Press:** After BOTH Big 3 lifts, true one-second hover above touch point with active leg drive; only first support movement.
-- **Hip Thrust (Machine):** Condo later Saturday if desired; second and LAST support movement after two Big 3 lifts. Start low enough to avoid Monday squat soreness.
+- **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
 #### Weekly Big 3 Volume
 
@@ -114,9 +116,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 2
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
+**Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -124,6 +126,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
@@ -131,6 +134,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat.
 
 #### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
@@ -150,7 +154,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
 
@@ -159,14 +163,16 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 1 | Squat (Low Bar) | 3 reps @ RPE 6.5-7 · 150.0kg anchor; 3 reps @ RPE 6-7.5 · 135.0kg anchor; 3 reps @ RPE 6-7.5 · 135.0kg anchor |
 | 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
+| 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine.
 
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
@@ -177,7 +183,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5; 12 reps @ RPE 6.5-7.5 |
 | 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 | 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
-| 6 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -186,25 +191,22 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
-- **Hip adductor (Rowerg):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
-#### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
+#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
 
-**Day intent:** Heavy pull, then low-cost competition squat, then at most two support exercises; no work between sumo and squat.
+**Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 6.5-7 · 167.5kg anchor; 3 reps @ RPE 6-7.5 · 150.0kg anchor; 3 reps @ RPE 6-7.5 · 150.0kg anchor |
 | 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 140kg anchor |
 | 3 | Spoto Press | 4 reps @ RPE 6-7 · 105kg anchor; 4 reps @ RPE 6-7 · 105kg anchor; 4 reps @ RPE 6-7 · 105kg anchor |
-| 4 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
-- **Spoto Press:** After BOTH Big 3 lifts, true one-second hover above touch point with active leg drive; only first support movement.
-- **Hip Thrust (Machine):** Condo later Saturday if desired; second and LAST support movement after two Big 3 lifts. Start low enough to avoid Monday squat soreness.
+- **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
 #### Weekly Big 3 Volume
 
@@ -216,9 +218,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 3
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
+**Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -226,6 +228,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
@@ -233,6 +236,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat.
 
 #### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
@@ -252,7 +256,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
 
@@ -261,14 +265,16 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 1 | Squat (Low Bar) | 3 reps @ RPE 7.0-7.5 · 152.5kg anchor; 3 reps @ RPE 6-7.5 · 135.0kg anchor; 3 reps @ RPE 6-7.5 · 135.0kg anchor |
 | 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
+| 4 | Cable Crunch | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
 
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Machine Adductor
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
@@ -288,25 +294,23 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
-- **Hip Adductor (Machine):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
+- **Hip Adductor (Machine):** Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
-#### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
+#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
 
-**Day intent:** Heavy pull, then low-cost competition squat, then at most two support exercises; no work between sumo and squat.
+**Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 7.0-7.5 · 170.0kg anchor; 3 reps @ RPE 6-7.5 · 152.5kg anchor; 3 reps @ RPE 6-7.5 · 152.5kg anchor |
 | 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 140kg anchor |
 | 3 | Spoto Press | 3 reps @ RPE 6-7 · 105kg anchor; 3 reps @ RPE 6-7 · 105kg anchor; 3 reps @ RPE 6-7 · 105kg anchor |
-| 4 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
-- **Spoto Press:** After BOTH Big 3 lifts, true one-second hover above touch point with active leg drive; only first support movement.
-- **Hip Thrust (Machine):** Condo later Saturday if desired; second and LAST support movement after two Big 3 lifts. Start low enough to avoid Monday squat soreness.
+- **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
 #### Weekly Big 3 Volume
 
@@ -318,9 +322,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 4
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
+**Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -328,6 +332,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor; 5 reps @ RPE 6.5-7.5 · 120kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
@@ -335,6 +340,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat.
 
 #### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
@@ -354,7 +360,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
 
@@ -363,14 +369,16 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 1 | Squat (Low Bar) | 3 reps @ RPE 7.5-8 · 155.0kg anchor; 3 reps @ RPE 6-7.5 · 137.5kg anchor |
 | 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
+| 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7; 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine.
 
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
@@ -381,7 +389,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
 | 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
 | 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
-| 6 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -390,25 +397,22 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
-- **Hip adductor (Rowerg):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
-#### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
+#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
 
-**Day intent:** Heavy pull, then low-cost competition squat, then at most two support exercises; no work between sumo and squat.
+**Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 7.5-8 · 172.5kg anchor; 3 reps @ RPE 6-7.5 · 152.5kg anchor |
 | 2 | Squat (Low Bar) | 2 reps @ RPE 5.5-6.5 · 140kg anchor; 2 reps @ RPE 5.5-6.5 · 140kg anchor |
 | 3 | Spoto Press | 3 reps @ RPE 6-7 · 105kg anchor; 3 reps @ RPE 6-7 · 105kg anchor |
-| 4 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
-- **Spoto Press:** After BOTH Big 3 lifts, true one-second hover above touch point with active leg drive; only first support movement.
-- **Hip Thrust (Machine):** Condo later Saturday if desired; second and LAST support movement after two Big 3 lifts. Start low enough to avoid Monday squat soreness.
+- **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
 #### Weekly Big 3 Volume
 
@@ -420,9 +424,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 5
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
+**Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -430,6 +434,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6.5-7.5 · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 125kg anchor; 4 reps @ RPE 6.5-7.5 · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
@@ -437,6 +442,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat.
 
 #### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
@@ -456,7 +462,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
 
@@ -465,14 +471,16 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 1 | Squat (Low Bar) | 3 reps @ RPE 8.0-8.5 · 160.0kg anchor; 3 reps @ RPE 6-7.5 · 137.5kg anchor |
 | 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
+| 4 | Cable Crunch | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
 
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Machine Adductor
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
@@ -492,25 +500,23 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
-- **Hip Adductor (Machine):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
+- **Hip Adductor (Machine):** Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
-#### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
+#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
 
-**Day intent:** Heavy pull, then low-cost competition squat, then at most two support exercises; no work between sumo and squat.
+**Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 3 reps @ RPE 8.0-8.5 · 177.5kg anchor; 3 reps @ RPE 6-7.5 · 152.5kg anchor |
 | 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 140kg anchor |
 | 3 | Spoto Press | 3 reps @ RPE 6-7 · 105kg anchor; 3 reps @ RPE 6-7 · 105kg anchor |
-| 4 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
-- **Spoto Press:** After BOTH Big 3 lifts, true one-second hover above touch point with active leg drive; only first support movement.
-- **Hip Thrust (Machine):** Condo later Saturday if desired; second and LAST support movement after two Big 3 lifts. Start low enough to avoid Monday squat soreness.
+- **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
 #### Weekly Big 3 Volume
 
@@ -522,9 +528,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 6
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
+**Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -532,6 +538,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
@@ -539,6 +546,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat.
 
 #### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
@@ -558,7 +566,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
 
@@ -567,14 +575,16 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 1 | Squat (Low Bar) | 1 reps @ RPE 7-8 · 165kg anchor; 3 reps @ RPE 7-8 · 150kg anchor; 3 reps @ RPE 7-8 · 150kg anchor |
 | 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
+| 4 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine.
 
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
@@ -585,7 +595,6 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 3 | Rear Delt Fly (Dumbbell) | 12 reps @ RPE 6.5-7.5 |
 | 4 | Tricep Pushdown (Cable) | 10 reps @ RPE 6.5-7.5 |
 | 5 | Bicep Curl (Dumbbell) | 10 reps @ RPE 6.5-7.5 |
-| 6 | Hip adductor (Rowerg) | 12 reps @ RPE 6-7 |
 
 **Why these movements:**
 
@@ -594,25 +603,22 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
-- **Hip adductor (Rowerg):** Condo: one adductor setup per week, controlled comfortable ROM and no lingering soreness before Saturday sumo.
 
-#### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
+#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
 
-**Day intent:** Heavy pull, then low-cost competition squat, then at most two support exercises; no work between sumo and squat.
+**Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 7-8 · 180kg anchor; 3 reps @ RPE 7-8 · 165kg anchor; 3 reps @ RPE 7-8 · 165kg anchor |
 | 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 140kg anchor |
 | 3 | Spoto Press | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
-| 4 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
-- **Spoto Press:** After BOTH Big 3 lifts, true one-second hover above touch point with active leg drive; only first support movement.
-- **Hip Thrust (Machine):** Condo later Saturday if desired; second and LAST support movement after two Big 3 lifts. Start low enough to avoid Monday squat soreness.
+- **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
 #### Weekly Big 3 Volume
 
@@ -624,9 +630,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 ### Week 7
 
-#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Leg Extension
+#### Day 1 — Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Friend-template bench top triple first, same-stance tempo squat afterward, pull-ups; leg extension can be completed at the condo.
+**Day intent:** Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo split is five total exercises, an explicit exception to the four-movement cap.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
@@ -634,6 +640,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 2 | Tempo Squat (Barbell) | 2 reps @ RPE 6-7 · 125kg anchor; 2 reps @ RPE 6-7 · 125kg anchor |
 | 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Leg Extension | 12 reps @ RPE 7-7.5 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
@@ -641,6 +648,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat.
 
 #### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
 
@@ -658,7 +666,7 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
 **Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses calibrated top triples and actual-top backdowns; bench remains low-cost after squat.
 
@@ -667,14 +675,16 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 170kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
 | 2 | Bench Press (Barbell) | 1 reps @ RPE 6-6.5 · 117.5kg anchor; 1 reps @ RPE 6-6.5 · 117.5kg anchor |
 | 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
+| 4 | Cable Crunch | 12 reps @ RPE 6-6.5 |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Primary wider-stance competition squat in shoes; establish legal depth, balanced midfoot and knees tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and first-set quality.
 - **Bench Press (Barbell):** Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command pause; this is LOW COST practice, not a second bench top-set day.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
 
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Adductor Accessories
+#### Day 4 — Thursday - Condo Chest / Delts / Arms
 
 **Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
 
@@ -694,23 +704,21 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup.
 
-#### Day 5 — Saturday - Heavy Sumo / Light Low Bar / Spoto + Hip Thrust
+#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
 
-**Day intent:** Heavy pull, then low-cost competition squat, then at most two support exercises; no work between sumo and squat.
+**Day intent:** Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between sumo and squat, no condo accessories afterward.
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 185kg anchor; 2 reps @ RPE 6.5-7 · 165kg anchor |
 | 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor |
 | 3 | Spoto Press | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
-| 4 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Primary sumo: deliberate slack pull/floor break, bar connected through knee, hips through stacked lockout. Top triple and backoffs first five weeks. Historical 200kg input is directional only.
 - **Squat (Low Bar):** Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.
-- **Spoto Press:** After BOTH Big 3 lifts, true one-second hover above touch point with active leg drive; only first support movement.
-- **Hip Thrust (Machine):** Condo later Saturday if desired; second and LAST support movement after two Big 3 lifts. Start low enough to avoid Monday squat soreness.
+- **Spoto Press:** Bench variation after BOTH lower-body lifts; true one-second hover above touch point with active leg drive. No additional Saturday accessories.
 
 #### Weekly Big 3 Volume
 
