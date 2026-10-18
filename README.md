@@ -52,11 +52,27 @@ the reference: a competition-lift planning input is different from the actual
 chosen top set. `target_weight_range_kg` is an optional positive ordered range;
 an accompanying `target_weight_kg` must lie inside it and is rendered as a
 **suggested start**, not a compulsory load. Single-anchor programs retain their
-existing display.
+existing prescribed values.
 
-The example top set renders as:
+The compact per-set formatter used for coaching/chat still renders as:
 
 `3 reps @ RPE 6-6.5 · 81–83.5% of squat input (180kg) · 145–150kg anchor range (147.5kg suggested start)`
+
+Generated program Markdown splits the same information into separate columns:
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 6–6.5 | 81–83.5% | squat input (180kg) | 145–150 | 147.5 (start) |
+| Squat (Low Bar) | 2 | 3 | 6–7.5 | 90% | actual top triple | — | 132.5 (example) |
+
+Only **identical consecutive sets** share a row: `2–4` means original sets 2, 3
+and 4, with the shown reps/RPE/load applying to each set. Nonconsecutive or
+different prescriptions are never merged. Optional load columns are hidden
+when every set in the workout lacks that field, keeping accessory-only days
+narrow; otherwise `—` means no prescribed value for that row. Exercise intent
+notes and weekly set/rep totals remain below the table. This is a formatting
+change only: the source YAML, daily compact formatter and Boostcamp payload are
+unchanged.
 
 Backoffs show `90% of actual top triple`; their printed kg anchors are midpoint
 examples, so recalculate them after the day's top set and round to the available
@@ -70,6 +86,32 @@ All of these fields are validated and rendered locally in program documentation.
 The Boostcamp converter intentionally ignores them and still sends the original
 reps/RPE prescriptions; this does not add unsupported API intensity fields or
 change exercise names. No Boostcamp write is needed to preview the display.
+
+### Weekly workload overview
+
+Programs can opt into range-aware weekly summaries with `workload_summary`:
+exact `families` mappings for Squat/Bench/Deadlift, a positive
+`plate_increment_kg`, and explicit `exclude_workouts` entries (`week`, `day`,
+`reason`). Family membership must be disjoint and use existing exercise names;
+no substring classification of incline DB as competition bench.
+
+The December program's overview includes total **barbell SBD-family tonnage**
+and separate per-lift tables of sets, reps, tonnage and each metric's
+week-on-week percentage change. The same metrics appear in the weekly footer.
+Week 1 has no comparison. Tempo squat, Spoto and paused sumo are included;
+RDL, incline DB, pull-ups and machines are not. This is **not all-exercise gym
+tonnage**. Grinchmas attempts are explicitly excluded from pre-meet comparisons
+but remain in the session plan. Programs without this opt-in keep their
+existing overview/weekly summary.
+
+For ranged top sets, expected kg bounds include backoffs recalculated at each
+possible top load using the actual-top percentage and half-up plate rounding,
+not the printed midpoint example. Tonnage change spans
+`current_min / previous_max - 1` through `current_max / previous_min - 1`, so
+uncertain load choices do not become falsely precise changes. Partial totals
+show unanchored sets explicitly and suppress tonnage comparisons; a zero or
+missing previous baseline also shows `—`. These are planning estimates, not
+completed work or extra tonnage targets.
 
 Run the local regression tests with `python -m unittest discover -s tests -v`.
 

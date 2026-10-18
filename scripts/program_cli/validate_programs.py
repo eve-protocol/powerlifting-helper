@@ -9,6 +9,7 @@ import sys
 import yaml
 
 from powerlifting.programs import PROGRAMS_DIR, iter_program_files, load_program_file
+from powerlifting.program_workload import FAMILIES
 
 REQUIRED_FIELDS = ['name', 'description', 'weeks', 'days_per_week', 'workouts']
 REQUIRED_WORKOUT_FIELDS = ['week', 'day', 'name', 'exercises']
@@ -169,6 +170,54 @@ def validate_workout(workout_data):
     return errors
 
 
+def validate_workload_summary(config, workouts):
+    """Reject ambiguous family membership, invalid rounding and invalid exclusions."""
+    if not isinstance(config, dict):
+        return ["Invalid workload_summary: expected a mapping"]
+    errors = []
+    families = config.get('families')
+    if not isinstance(families, dict) or set(families) != set(FAMILIES):
+        return ["Invalid workload_summary.families: require Squat, Bench and Deadlift"]
+    names = []
+    for family, exercises in families.items():
+        if (not isinstance(exercises, list) or not exercises
+                or any(not isinstance(name, str) or not name.strip() for name in exercises)):
+            errors.append(f"Invalid workload_summary.families.{family}: require exact exercise names")
+        else:
+            names.extend(exercises)
+    if len(names) != len(set(names)):
+        errors.append("Invalid workload_summary.families: duplicate exercise membership")
+    known_names = {e['name'] for workout in workouts for e in workout.get('exercises', [])}
+    if set(names) - known_names:
+        errors.append("Invalid workload_summary.families: unknown exercise names")
+    increment = config.get('plate_increment_kg', 2.5)
+    if (isinstance(increment, bool) or not isinstance(increment, (int, float))
+            or not math.isfinite(increment) or increment <= 0):
+        errors.append("Invalid workload_summary.plate_increment_kg")
+    exclusions = config.get('exclude_workouts', [])
+    if not isinstance(exclusions, list):
+        errors.append("Invalid workload_summary.exclude_workouts: require a list")
+    else:
+        known_workouts = {(workout['week'], workout['day']) for workout in workouts}
+        seen = set()
+        for exclusion in exclusions:
+            if not isinstance(exclusion, dict):
+                errors.append("Invalid workload_summary.exclude_workouts entry")
+                continue
+            key = (exclusion.get('week'), exclusion.get('day'))
+            if (any(isinstance(n, bool) or not isinstance(n, int) for n in key)
+                    or key not in known_workouts or key in seen):
+                errors.append("Invalid workload_summary.exclude_workouts: unknown or duplicate workout")
+            else:
+                seen.add(key)
+            reason = exclusion.get('reason')
+            if not isinstance(reason, str) or not reason.strip():
+                errors.append("Invalid workload_summary.exclude_workouts: require an explicit reason")
+    if 'scope_note' in config and (not isinstance(config['scope_note'], str) or not config['scope_note'].strip()):
+        errors.append("Invalid workload_summary.scope_note")
+    return errors
+
+
 def validate_program(file_path):
     """Validate a single program file"""
     errors = []
@@ -201,6 +250,9 @@ def validate_program(file_path):
             for workout_data in workouts:
                 workout_errors = validate_workout(workout_data)
                 errors.extend(workout_errors)
+
+    if 'workload_summary' in data:
+        errors.extend(validate_workload_summary(data['workload_summary'], data.get('workouts', [])))
 
     # Anchor-based programs are coaching documents as well as Boostcamp inputs.
     # Require the context that prevents a target weight from becoming rigid.

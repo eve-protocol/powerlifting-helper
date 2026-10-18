@@ -44,7 +44,18 @@ class DecemberTripleRangeTests(unittest.TestCase):
                     if not (eligible and index == 0):
                         self.assertNotIn("target_weight_range_kg", set_data)
         self.assertEqual(seen, 15)
-        self.assertEqual(render_program(program).count("kg anchor range"), 15)
+        range_rows = [
+            [cell.strip() for cell in line.strip("|").split("|")]
+            for line in render_program(program).splitlines() if line.startswith("| ")
+        ]
+        range_rows = [row for row in range_rows if len(row) == 8 and row[1] == "1" and row[6] != "—"]
+        self.assertEqual(len(range_rows), 15)
+        actual = sorted((row[0], row[6]) for row in range_rows)
+        expected_display = sorted(
+            (name, f"{low:g}–{high:g}")
+            for (_, name), ranges in expected.items() for low, high in ranges
+        )
+        self.assertEqual(actual, expected_display)
 
 
 class AnchorRangeValidationTests(unittest.TestCase):
