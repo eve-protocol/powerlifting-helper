@@ -63,13 +63,13 @@ loading_guidance:
     historical 200kg deadlift input is not a current max guarantee. No proof retries after a miss. Machine anchors
     are omitted pending local setup calibration.
   week_6: Competition singles @7-8 followed by limited doubles/triples; do not turn this into a max test.
-  week_7: Final heavy controlled bench Monday, squat Wednesday, deadlift Saturday, singles @8-8.5 maximum PLUS two
-    bounded backoff sets each; keep at least half of Week 6 training volume across work sets, barbell reps and illustrative
-    tonnage.
-  week_8: Confidence-preserving MON/WED competition bench/squat singles and TUE sumo single @7-8, then useful low-RPE
-    rep work. Monday familiar tempo, pull-ups and two easy condo machines; Tuesday incline and row; Wednesday a
-    little bench and pull-ups. No hard work Thursday/Friday. Week 8 pre-meet training holds approximately half of
-    Week 6 work sets, barbell reps and indicative tonnage; meet attempts are excluded.
+  week_7: 'NOT a taper: full Week 6-level work sets, barbell reps and illustrative tonnage with final controlled
+    bench Monday, squat Wednesday, deadlift Saturday singles @8-8.5 maximum. Retain two submaximal backoff triples
+    each, normal familiar variations/primary incline and Friday off. Earn load on warm-ups; no proof retries.'
+  week_8: 'ONE-week taper only: confidence-preserving MON/WED competition bench/squat singles and TUE sumo single
+    @7-8, then useful low-RPE rep work. Monday familiar tempo, pull-ups and two easy condo machines; Tuesday incline
+    and row; Wednesday a little bench and pull-ups. No hard work Thursday/Friday. Week 8 pre-meet training holds
+    at least half of Week 7 work sets, barbell reps and indicative tonnage; meet attempts are excluded.'
 exercise_variations:
   squat: Tempo Squat (Barbell) REPLACES Monday high bar. Use the same wider low-bar competition stance and shoes,
     three-second controlled descent to legal depth, normal strong ascent; do not force maximal knee-forward travel.
@@ -2283,12 +2283,17 @@ workouts:
       at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.'
     role: developmental_squat
     sets:
-    - target: 2
+    - target: 4
       rpe:
       - 6
       - 7
       target_weight_kg: 125
-    - target: 2
+    - target: 4
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 125
+    - target: 4
       rpe:
       - 6
       - 7
@@ -2307,10 +2312,19 @@ workouts:
       - 6.5
       - 7.5
       target_weight_kg: 25
+    - target: 5
+      rpe:
+      - 6.5
+      - 7.5
+      target_weight_kg: 25
   - name: Leg Extension
     intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 7
+      - 7.5
     - target: 12
       rpe:
       - 7
@@ -2321,6 +2335,10 @@ workouts:
       pulling and Wednesday primary squat.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -2348,6 +2366,21 @@ workouts:
       - 6
       - 7
       target_weight_kg: 155
+    - target: 2
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 155
+  - name: Romanian Deadlift (Barbell)
+    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
+      set, not zero. Remove this first if Wednesday squat is impaired.
+    role: accessory
+    sets:
+    - target: 6
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 125
   - name: Incline Bench Press (Dumbbell)
     intent: PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token
       accessory. Leave Wednesday competition squat and command bench viable.
@@ -2355,18 +2388,27 @@ workouts:
     sets:
     - target: 5
       rpe:
-      - 6
-      - 7
+      - 7.5
+      - 8.5
       target_weight_kg: 50
     - target: 5
       rpe:
-      - 6
-      - 7
+      - 7.5
+      - 8.5
+      target_weight_kg: 50
+    - target: 5
+      rpe:
+      - 7.5
+      - 8.5
       target_weight_kg: 50
   - name: Seated Row (Cable)
     intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -2391,35 +2433,45 @@ workouts:
       - 8
       - 8.5
       target_weight_kg: 170
-    - target: 2
+    - target: 3
       rpe:
       - 6.5
-      - 7
+      - 7.5
       target_weight_kg: 150
-    - target: 2
+    - target: 3
       rpe:
       - 6.5
-      - 7
+      - 7.5
       target_weight_kg: 150
   - name: Bench Press (Barbell)
     intent: Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command
       pause; this is LOW COST practice, not a second bench top-set day.
     role: competition_lift
     sets:
-    - target: 1
+    - target: 3
       rpe:
       - 6
-      - 6.5
-      target_weight_kg: 117.5
-    - target: 1
+      - 7
+      target_weight_kg: 110
+    - target: 3
       rpe:
       - 6
-      - 6.5
-      target_weight_kg: 117.5
+      - 7
+      target_weight_kg: 110
+    - target: 3
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 110
   - name: Pull-Up (Weighted)
     intent: Second weekly weighted pull-up; after both competition lifts, not between them.
     role: secondary_goal
     sets:
+    - target: 4
+      rpe:
+      - 6.5
+      - 7.5
+      target_weight_kg: 25
     - target: 4
       rpe:
       - 6.5
@@ -2510,20 +2562,25 @@ workouts:
       - 8
       - 8.5
       target_weight_kg: 185
-    - target: 2
+    - target: 3
       rpe:
       - 6.5
-      - 7
+      - 7.5
       target_weight_kg: 165
-    - target: 2
+    - target: 3
       rpe:
       - 6.5
-      - 7
+      - 7.5
       target_weight_kg: 165
   - name: Squat (Low Bar)
     intent: 'Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.'
     role: competition_lift
     sets:
+    - target: 1
+      rpe:
+      - 5.5
+      - 6.5
+      target_weight_kg: 140
     - target: 1
       rpe:
       - 5.5

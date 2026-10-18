@@ -637,10 +637,10 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 | # | Exercise | Prescription |
 |---|----------|--------------|
 | 1 | Bench Press (Barbell) | 1 reps @ RPE 8-8.5 · 135kg anchor; 3 reps @ RPE 6.5-7.5 · 120kg anchor; 3 reps @ RPE 6.5-7.5 · 120kg anchor |
-| 2 | Tempo Squat (Barbell) | 2 reps @ RPE 6-7 · 125kg anchor; 2 reps @ RPE 6-7 · 125kg anchor |
-| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
-| 4 | Leg Extension | 12 reps @ RPE 7-7.5 |
-| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5 |
+| 2 | Tempo Squat (Barbell) | 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor; 4 reps @ RPE 6-7 · 125kg anchor |
+| 3 | Pull-Up (Weighted) | 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor; 5 reps @ RPE 6.5-7.5 · 25kg anchor |
+| 4 | Leg Extension | 12 reps @ RPE 7-7.5; 12 reps @ RPE 7-7.5 |
+| 5 | Hip Thrust (Machine) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
@@ -656,13 +656,15 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor |
-| 2 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 6-7 · 50kg anchor; 5 reps @ RPE 6-7 · 50kg anchor |
-| 3 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5 |
+| 1 | Sumo Deadlift (Paused) | 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor; 2 reps @ RPE 6-7 · 155kg anchor |
+| 2 | Romanian Deadlift (Barbell) | 6 reps @ RPE 6-7 · 125kg anchor |
+| 3 | Incline Bench Press (Dumbbell) | 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor; 5 reps @ RPE 7.5-8.5 · 50kg anchor |
+| 4 | Seated Row (Cable) | 10 reps @ RPE 6.5-7.5; 10 reps @ RPE 6.5-7.5 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Paused):** Pause one true second when bar reaches top edge of knee; keep legs/bar connected then hips through. No exploratory heavy pull.
+- **Romanian Deadlift (Barbell):** Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory set, not zero. Remove this first if Wednesday squat is impaired.
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday.
 
@@ -672,9 +674,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 170kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor; 2 reps @ RPE 6.5-7 · 150kg anchor |
-| 2 | Bench Press (Barbell) | 1 reps @ RPE 6-6.5 · 117.5kg anchor; 1 reps @ RPE 6-6.5 · 117.5kg anchor |
-| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
+| 1 | Squat (Low Bar) | 1 reps @ RPE 8-8.5 · 170kg anchor; 3 reps @ RPE 6.5-7.5 · 150kg anchor; 3 reps @ RPE 6.5-7.5 · 150kg anchor |
+| 2 | Bench Press (Barbell) | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
+| 3 | Pull-Up (Weighted) | 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor; 4 reps @ RPE 6.5-7.5 · 25kg anchor |
 | 4 | Cable Crunch | 12 reps @ RPE 6-6.5 |
 
 **Why these movements:**
@@ -710,8 +712,8 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | # | Exercise | Prescription |
 |---|----------|--------------|
-| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 185kg anchor; 2 reps @ RPE 6.5-7 · 165kg anchor; 2 reps @ RPE 6.5-7 · 165kg anchor |
-| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor |
+| 1 | Sumo Deadlift (Barbell) | 1 reps @ RPE 8-8.5 · 185kg anchor; 3 reps @ RPE 6.5-7.5 · 165kg anchor; 3 reps @ RPE 6.5-7.5 · 165kg anchor |
+| 2 | Squat (Low Bar) | 1 reps @ RPE 5.5-6.5 · 140kg anchor; 1 reps @ RPE 5.5-6.5 · 140kg anchor |
 | 3 | Spoto Press | 3 reps @ RPE 6-7 · 110kg anchor; 3 reps @ RPE 6-7 · 110kg anchor |
 
 **Why these movements:**
@@ -724,9 +726,9 @@ Eight-week meet-specific cycle built from the athlete-calibrated 5-week top-trip
 
 | Lift | Sets | Reps |
 |------|------|------|
-| Squat | 6 | 10 |
-| Bench | 9 | 25 |
-| Deadlift | 5 | 9 |
+| Squat | 8 | 21 |
+| Bench | 11 | 37 |
+| Deadlift | 6 | 13 |
 
 ### Week 8
 
