@@ -1,8 +1,8 @@
 name: December 2026 Competition - Ren v1
-description: 'Eight-week rep-led Grinchmas preparation: preserve the Ren-calibrated Week 1-5 top triples and actual-top
-  backoff loading, restore productive backoff/variation reps, then competition doubles rather than programmed training
-  singles. Same exercise identities and weekly schedule; Week 7 remains normal training and only Week 8 tapers.
-  Draft review only, not activated or manually Boostcamp-synced.'
+description: 'Eight-week rep-led Grinchmas preparation: easy but rep-rich Week 1; Ren-calibrated Week 1-5 top triples
+  and actual-top backoffs; competition doubles rather than training singles later. Normal accessories use three
+  sets, RDL two; pull-ups and primary incline retain their own paths. Week 7 preserves main-lift work with modest
+  accessory easing; Week 8 is the sole main-lift taper. Draft review only, not activated or manually Boostcamp-synced.'
 weeks: 8
 days_per_week: 5
 planned_start_date: '2026-10-19'
@@ -59,19 +59,19 @@ loading_guidance:
     - 0.895
     backoff_multiplier_of_actual_top_set: 0.86
   backoff_rule: Weeks 1-5 primary bench/squat/sumo backoff loads start from 90/90/89/88/86% of the ACTUAL top triple,
-    half-up rounded to 2.5kg. Normal Weeks 2-3 use five-rep backoffs and Weeks 4-5 fours, with two squat/sumo backoff
-    sets retained; bench uses three. Reassess RPE for the longer sets and lower load below the percentage example
-    if needed. Weeks 6-8 doubles/backoffs use separately selected fixed planning anchors, not an actual-top-triple
-    percentage.
+    half-up rounded to 2.5kg. Week 1 uses two easy five-rep backoffs per primary lift at RPE 6-7; Weeks 2-3 use
+    fives and Weeks 4-5 fours, retaining two squat/sumo backoffs and three bench backoffs in normal weeks. Lower
+    the starting load if longer sets exceed their effort cap. Weeks 6-8 doubles/backoffs use separately selected
+    anchors, not an actual-top-triple percentage.
   day_to_day_rule: Use the range as a starting estimate and adjust to the written RPE and legal lift quality; the
     historical 200kg deadlift input is not a current max guarantee. No proof retries after a miss. Machine anchors
     are omitted pending local setup calibration.
   week_6: 'Rep-led specificity: one competition DOUBLE @7-8, then meaningful fours/fives. Normal secondary rep work
     remains; no programmed primer or top singles, no proof attempts.'
-  week_7: 'NOT a taper: retain Week 6 set and rep counts, with only a small RPE-governed rise in double/backoff
-    anchors. Top doubles cap at RPE 8.5. Preserve Saturday light squat reps and normal Tuesday primary incline;
-    no work-set singles or proof retries.'
-  week_8: 'SOLE taper week: low-fatigue competition doubles plus bounded rep backoffs on Monday bench, Tuesday sumo
+  week_7: 'Main-lift work is NOT tapered: retain Week 6 SBD-family sets/reps with a small RPE-governed load rise.
+    Accessories ease from three sets to two; RDL remains two easy sets. Top doubles cap at RPE 8.5; primary incline/pull-ups
+    keep their own paths. No proof attempts.'
+  week_8: 'SOLE main-lift taper week: low-fatigue competition doubles plus bounded rep backoffs on Monday bench, Tuesday sumo
     and Wednesday squat; Wednesday easy bench fours. Keep familiar tempo/pull-ups and easy Monday condo work; Thursday/Friday
     off. Compare with the revised Week 7, excluding meet attempts: retain at least half of total work sets and barbell-strength
     sets/reps/expected tonnage (including RDL in the latter scope). This is a planning preference, not permission
@@ -92,13 +92,22 @@ loading_guidance:
     reps are not an extra performance test. Heavy doubles/triples provide specific practice while moderate-RPE rep
     work supplies the main restored dose; neither singles nor exact tonnage are universally required for strength
     gains.
+  accessory_set_rule: 'Weeks 1-6: three sets for every programmed accessory except RDL, which has two. Pull-ups
+    and primary incline DB are separate goals with unchanged individual progressions. Week 7: two accessory sets,
+    including two RDL sets, while primary SBD work stays normal. Week 8: two easy sets of retained Monday leg extension/hip
+    thrust and Tuesday row; omit RDL, Thursday isolates and other omitted slots. Do not add movements or make up
+    skipped work.'
+  week_1: 'Easy, rep-rich post-mock re-entry rather than an all-week minimal dose: original top triples and RPE
+    unchanged; two five-rep primary backoffs, three easy command-bench fives with a lower anchor, two light-squat
+    fours and two Spoto fives. Tempo and paused sumo retain their original introductory dose. Accessories use three
+    easy sets, RDL two. All load anchors yield to the written effort and position cap.'
 exercise_variations:
   squat: Tempo Squat (Barbell) REPLACES Monday high bar. Use the same wider low-bar competition stance and shoes,
     three-second controlled descent to legal depth, normal strong ascent; do not force maximal knee-forward travel.
     Wednesday and Saturday low bar yield three weekly exposures.
-  deadlift: Tuesday paused-at-knee sumo retains positional triples in normal weeks, with the existing easy 1-2 RDL
-    backoff sets only. Most restored competition-pull volume is Saturday. Meet-week Tuesday uses a low-fatigue competition
-    double and two easy five-rep backoffs without RDL. If Wednesday squat quality deteriorates, remove the RDL first.
+  deadlift: Tuesday paused-at-knee sumo retains positional triples, followed by TWO easy RDL six-rep backoff sets
+    in Weeks 1-7. Most restored competition-pull volume remains Saturday. Meet-week Tuesday uses a low-fatigue competition
+    double and two easy five-rep backoffs without RDL. If Wednesday squat quality deteriorates, remove RDL first.
     No new hinge variations or extra pulling days.
   bench: Primary competition bench Monday BEFORE tempo squat, PRIMARY incline DB after Tuesday pulls, controlled
     command-style competition bench Wednesday after squat, Spoto Saturday. Close-grip from friend sheet replaced
@@ -136,15 +145,19 @@ workouts:
 - week: 1
   day: 1
   name: Monday - Primary Bench / Tempo Squat / Pull-Ups + Condo Legs / Hip Thrust
-  intent: Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo
-    split is five total exercises, an explicit exception to the four-movement cap.
+  intent: 'Three gym movements followed by leg extension and hip thrust together at the condo. This requested gym-plus-condo
+    split is five total exercises, an explicit exception to the four-movement cap. Week 1 is easy but rep-rich:
+    top-set effort is unchanged, backoff volume supplies productive work, and accessory loads remain at the original
+    introductory effort. Do not force the dose through persistent soreness or position loss.'
   priority: required
   exercises:
   - name: Bench Press (Barbell)
     intent: 'PRIMARY bench top set before squatting, widest legal grip with an actual command pause; backdowns from
       the actual top-set load. Daily top-triple choice: 115-120kg at the written RPE; the midpoint is a suggested
       start, not a fixed target or upper-end requirement. Backoffs: 90% of the ACTUAL chosen top triple, rounded
-      to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only.'
+      to 2.5kg and checked against backoff RPE. Printed backoff kg are midpoint examples only. Week 1 now retains
+      two five-rep backoffs at RPE 6-7; keep the original top-triple effort and actual-top percentage, reducing
+      the backoff load if five reps exceed the cap.'
     role: competition_lift
     sets:
     - target: 3
@@ -159,17 +172,17 @@ workouts:
       - 81.0
       - 83.5
       load_percent_of: bench input (142.5kg)
-    - target: 3
+    - target: 5
       rpe:
       - 6
-      - 7.5
+      - 7
       target_weight_kg: 105.0
       load_percent: 90.0
       load_percent_of: actual top triple
-    - target: 3
+    - target: 5
       rpe:
       - 6
-      - 7.5
+      - 7
       target_weight_kg: 105.0
       load_percent: 90.0
       load_percent_of: actual top triple
@@ -207,9 +220,19 @@ workouts:
       - 7.5
       target_weight_kg: 20
   - name: Leg Extension
-    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
+    - target: 12
+      rpe:
+      - 6
+      - 7
     - target: 12
       rpe:
       - 6
@@ -217,9 +240,18 @@ workouts:
     equipment_dependent: true
   - name: Hip Thrust (Machine)
     intent: Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday
-      pulling and Wednesday primary squat.
+      pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy
+      effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6
+      - 7
+    - target: 10
+      rpe:
+      - 6
+      - 7
     - target: 10
       rpe:
       - 6
@@ -228,8 +260,10 @@ workouts:
 - week: 1
   day: 2
   name: Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
-  intent: Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
-    backoffs start Week 1 and yield to Wednesday squat quality.
+  intent: 'Restore familiar deadlift-plus-primary-incline session, up to two main movements and two supports. RDL
+    backoffs start Week 1 and yield to Wednesday squat quality. Week 1 is easy but rep-rich: top-set effort is unchanged,
+    backoff volume supplies productive work, and accessory loads remain at the original introductory effort. Do
+    not force the dose through persistent soreness or position loss.'
   priority: required
   exercises:
   - name: Sumo Deadlift (Paused)
@@ -252,10 +286,17 @@ workouts:
       load_percent: 70.0
       load_percent_of: sumo input (200kg)
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
-      set, not zero. Remove this first if Wednesday squat is impaired.
+    intent: Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal
+      eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten
+      the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality
+      deteriorates.
     role: accessory
     sets:
+    - target: 6
+      rpe:
+      - 6
+      - 6.5
+      target_weight_kg: 115
     - target: 6
       rpe:
       - 6
@@ -277,9 +318,18 @@ workouts:
       - 7
       target_weight_kg: 42.5
   - name: Seated Row (Cable)
-    intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
+    intent: Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in
+      Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -288,9 +338,11 @@ workouts:
 - week: 1
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
-  intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
+  intent: 'Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
     triples and actual-top backdowns Weeks 1-5, then controlled doubles and bounded backoffs; bench remains low-cost
-    after squat.
+    after squat. Week 1 is easy but rep-rich: top-set effort is unchanged, backoff volume supplies productive work,
+    and accessory loads remain at the original introductory effort. Do not force the dose through persistent soreness
+    or position loss.'
   priority: required
   exercises:
   - name: Squat (Low Bar)
@@ -298,7 +350,9 @@ workouts:
       tracking over feet; chest and hips rise together without forced knee-forward travel. Top load from RPE and
       first-set quality. Daily top-triple choice: 145-150kg at the written RPE; the midpoint is a suggested start,
       not a fixed target or upper-end requirement. Backoffs: 90% of the ACTUAL chosen top triple, rounded to 2.5kg
-      and checked against backoff RPE. Printed backoff kg are midpoint examples only.'
+      and checked against backoff RPE. Printed backoff kg are midpoint examples only. Week 1 now retains two five-rep
+      backoffs at RPE 6-7; keep the original top-triple effort and actual-top percentage, reducing the backoff load
+      if five reps exceed the cap.'
     role: competition_lift
     sets:
     - target: 3
@@ -313,38 +367,46 @@ workouts:
       - 81.0
       - 83.5
       load_percent_of: squat input (180kg)
-    - target: 3
+    - target: 5
       rpe:
       - 6
-      - 7.5
+      - 7
+      target_weight_kg: 132.5
+      load_percent: 90.0
+      load_percent_of: actual top triple
+    - target: 5
+      rpe:
+      - 6
+      - 7
       target_weight_kg: 132.5
       load_percent: 90.0
       load_percent_of: actual top triple
   - name: Bench Press (Barbell)
-    intent: Immediately after squat in meet order; stable handoff/unrack, widest legal grip, motionless command
-      pause; this is LOW COST practice, not a second bench top-set day.
+    intent: 'Low-cost command-pause bench directly after squat: three controlled fives at RPE 6-7. Anchor reselected
+      to about 105kg for the longer sets, not the former 110kg triple weight. Keep the pause and familiar self-unrack;
+      no readiness test.'
     role: competition_lift
     sets:
-    - target: 3
+    - target: 5
       rpe:
       - 6
       - 7
-      target_weight_kg: 110
-      load_percent: 77.19
+      target_weight_kg: 105
+      load_percent: 73.68
       load_percent_of: bench input (142.5kg)
-    - target: 3
+    - target: 5
       rpe:
       - 6
       - 7
-      target_weight_kg: 110
-      load_percent: 77.19
+      target_weight_kg: 105
+      load_percent: 73.68
       load_percent_of: bench input (142.5kg)
-    - target: 3
+    - target: 5
       rpe:
       - 6
       - 7
-      target_weight_kg: 110
-      load_percent: 77.19
+      target_weight_kg: 105
+      load_percent: 73.68
       load_percent_of: bench input (142.5kg)
   - name: Pull-Up (Weighted)
     intent: Second weekly weighted pull-up; after both competition lifts, not between them.
@@ -362,9 +424,19 @@ workouts:
       target_weight_kg: 20
   - name: Cable Crunch
     intent: Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion
-      with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
+      with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 6
+      - 6.5
+    - target: 12
+      rpe:
+      - 6
+      - 6.5
     - target: 12
       rpe:
       - 6
@@ -373,14 +445,26 @@ workouts:
 - week: 1
   day: 4
   name: Thursday - Condo Chest / Delts / Arms / Machine Adductor
-  intent: Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
-    sumo. No new heavy hinge or grip work.
+  intent: 'Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday
+    sumo. No new heavy hinge or grip work. Week 1 is easy but rep-rich: top-set effort is unchanged, backoff volume
+    supplies productive work, and accessory loads remain at the original introductory effort. Do not force the dose
+    through persistent soreness or position loss.'
   priority: required
   exercises:
   - name: Chest Fly (Machine)
-    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
+    - target: 12
+      rpe:
+      - 6
+      - 7
     - target: 12
       rpe:
       - 6
@@ -388,36 +472,74 @@ workouts:
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
-      reps.'
+      reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup
+      load rather than chasing the stack.'
     role: accessory
     sets:
     - target: 12
       rpe:
       - 6
       - 7.5
+    - target: 12
+      rpe:
+      - 6
+      - 7.5
+    - target: 12
+      rpe:
+      - 6
+      - 7.5
     equipment_dependent: true
   - name: Rear Delt Fly (Dumbbell)
-    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets
+      in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather
+      than chasing the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 6.5
       - 7.5
+    - target: 12
+      rpe:
+      - 6.5
+      - 7.5
+    - target: 12
+      rpe:
+      - 6.5
+      - 7.5
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
       - 6.5
       - 7.5
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     equipment_dependent: true
   - name: Bicep Curl (Dumbbell)
-    intent: Seated DB curls; avoid the painful condo preacher setup.
+    intent: Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep
+      Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -425,9 +547,18 @@ workouts:
     equipment_dependent: true
   - name: Hip Adductor (Machine)
     intent: Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness
-      before Saturday sumo.
+      before Saturday sumo. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and
+      calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 6
+      - 6.5
+    - target: 12
+      rpe:
+      - 6
+      - 6.5
     - target: 12
       rpe:
       - 6
@@ -437,7 +568,9 @@ workouts:
   day: 5
   name: 'Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench'
   intent: 'Only these three barbell movements: heavy pull, low-cost competition squat, Spoto bench. No work between
-    sumo and squat, no condo accessories afterward.'
+    sumo and squat, no condo accessories afterward. Week 1 is easy but rep-rich: top-set effort is unchanged, backoff
+    volume supplies productive work, and accessory loads remain at the original introductory effort. Do not force
+    the dose through persistent soreness or position loss.'
   priority: required
   exercises:
   - name: Sumo Deadlift (Barbell)
@@ -445,7 +578,8 @@ workouts:
       Top triple and backoffs first five weeks. Historical 200kg input is directional only. Daily top-triple choice:
       162.5-167.5kg at the written RPE; the midpoint is a suggested start, not a fixed target or upper-end requirement.
       Backoffs: 90% of the ACTUAL chosen top triple, rounded to 2.5kg and checked against backoff RPE. Printed backoff
-      kg are midpoint examples only.'
+      kg are midpoint examples only. Week 1 now retains two five-rep backoffs at RPE 6-7; keep the original top-triple
+      effort and actual-top percentage, reducing the backoff load if five reps exceed the cap.'
     role: competition_lift
     sets:
     - target: 3
@@ -460,18 +594,33 @@ workouts:
       - 81.0
       - 83.5
       load_percent_of: sumo input (200kg)
-    - target: 3
+    - target: 5
       rpe:
       - 6
-      - 7.5
+      - 7
+      target_weight_kg: 147.5
+      load_percent: 90.0
+      load_percent_of: actual top triple
+    - target: 5
+      rpe:
+      - 6
+      - 7
       target_weight_kg: 147.5
       load_percent: 90.0
       load_percent_of: actual top triple
   - name: Squat (Low Bar)
-    intent: 'Third squat exposure: light meet stance/depth practice AFTER sumo; not a second hard squat day.'
+    intent: Two easy sets of four in the competition stance/shoes after sumo; useful familiar rep work, not another
+      heavy squat day. Keep the original RPE ceiling and reduce load if the longer set needs it.
     role: competition_lift
     sets:
-    - target: 2
+    - target: 4
+      rpe:
+      - 5.5
+      - 6.5
+      target_weight_kg: 135
+      load_percent: 75.0
+      load_percent_of: squat input (180kg)
+    - target: 4
       rpe:
       - 5.5
       - 6.5
@@ -483,14 +632,14 @@ workouts:
       drive. No additional Saturday accessories.
     role: bench_variation
     sets:
-    - target: 4
+    - target: 5
       rpe:
       - 6
       - 7
       target_weight_kg: 100
       load_percent: 70.18
       load_percent_of: bench input (142.5kg)
-    - target: 4
+    - target: 5
       rpe:
       - 6
       - 7
@@ -590,23 +739,34 @@ workouts:
       - 7.5
       target_weight_kg: 25
   - name: Leg Extension
-    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Hip Thrust (Machine)
     intent: Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday
-      pulling and Wednesday primary squat.
+      pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy
+      effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -652,8 +812,10 @@ workouts:
       load_percent: 75.0
       load_percent_of: sumo input (200kg)
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
-      set, not zero. Remove this first if Wednesday squat is impaired.
+    intent: Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal
+      eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten
+      the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality
+      deteriorates.
     role: accessory
     sets:
     - target: 6
@@ -687,17 +849,22 @@ workouts:
       - 8
       target_weight_kg: 45
   - name: Seated Row (Cable)
-    intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
+    intent: Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in
+      Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 2
   day: 3
@@ -787,9 +954,15 @@ workouts:
       target_weight_kg: 25
   - name: Hip adductor (Rowerg)
     intent: At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no
-      grinders or soreness that harms Saturday sumo. NOT the condo adductor machine.
+      grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two
+      in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the
+      stack.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
     - target: 12
       rpe:
       - 6
@@ -807,70 +980,98 @@ workouts:
   priority: required
   exercises:
   - name: Chest Fly (Machine)
-    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
-      reps.'
+      reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup
+      load rather than chasing the stack.'
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
-      - 7.5
+      - 7
+      - 8
     - target: 12
       rpe:
-      - 6
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Rear Delt Fly (Dumbbell)
-    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets
+      in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather
+      than chasing the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Bicep Curl (Dumbbell)
-    intent: Seated DB curls; avoid the painful condo preacher setup.
+    intent: Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep
+      Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 2
   day: 5
@@ -1050,23 +1251,34 @@ workouts:
       - 7.5
       target_weight_kg: 25
   - name: Leg Extension
-    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Hip Thrust (Machine)
     intent: Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday
-      pulling and Wednesday primary squat.
+      pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy
+      effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -1112,8 +1324,10 @@ workouts:
       load_percent: 75.0
       load_percent_of: sumo input (200kg)
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
-      set, not zero. Remove this first if Wednesday squat is impaired.
+    intent: Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal
+      eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten
+      the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality
+      deteriorates.
     role: accessory
     sets:
     - target: 6
@@ -1147,17 +1361,22 @@ workouts:
       - 8
       target_weight_kg: 45
   - name: Seated Row (Cable)
-    intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
+    intent: Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in
+      Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 3
   day: 3
@@ -1247,17 +1466,23 @@ workouts:
       target_weight_kg: 25
   - name: Cable Crunch
     intent: Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion
-      with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
+      with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
-      - 7
+      - 6.5
+      - 7.5
     - target: 12
       rpe:
-      - 6
-      - 7
+      - 6.5
+      - 7.5
+    - target: 12
+      rpe:
+      - 6.5
+      - 7.5
     equipment_dependent: true
 - week: 3
   day: 4
@@ -1267,76 +1492,109 @@ workouts:
   priority: required
   exercises:
   - name: Chest Fly (Machine)
-    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
-      reps.'
+      reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup
+      load rather than chasing the stack.'
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
-      - 7.5
+      - 7
+      - 8
     - target: 12
       rpe:
-      - 6
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Rear Delt Fly (Dumbbell)
-    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets
+      in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather
+      than chasing the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Bicep Curl (Dumbbell)
-    intent: Seated DB curls; avoid the painful condo preacher setup.
+    intent: Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep
+      Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Hip Adductor (Machine)
     intent: Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness
-      before Saturday sumo.
+      before Saturday sumo. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and
+      calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
     - target: 12
       rpe:
       - 6
@@ -1524,23 +1782,34 @@ workouts:
       - 7.5
       target_weight_kg: 25
   - name: Leg Extension
-    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Hip Thrust (Machine)
     intent: Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday
-      pulling and Wednesday primary squat.
+      pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy
+      effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -1586,8 +1855,10 @@ workouts:
       load_percent: 75.0
       load_percent_of: sumo input (200kg)
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
-      set, not zero. Remove this first if Wednesday squat is impaired.
+    intent: Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal
+      eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten
+      the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality
+      deteriorates.
     role: accessory
     sets:
     - target: 6
@@ -1621,17 +1892,22 @@ workouts:
       - 8.5
       target_weight_kg: 47.5
   - name: Seated Row (Cable)
-    intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
+    intent: Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in
+      Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 4
   day: 3
@@ -1721,9 +1997,15 @@ workouts:
       target_weight_kg: 25
   - name: Hip adductor (Rowerg)
     intent: At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no
-      grinders or soreness that harms Saturday sumo. NOT the condo adductor machine.
+      grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two
+      in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the
+      stack.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
     - target: 12
       rpe:
       - 6
@@ -1741,50 +2023,98 @@ workouts:
   priority: required
   exercises:
   - name: Chest Fly (Machine)
-    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
-      reps.'
+      reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup
+      load rather than chasing the stack.'
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Rear Delt Fly (Dumbbell)
-    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets
+      in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather
+      than chasing the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Bicep Curl (Dumbbell)
-    intent: Seated DB curls; avoid the painful condo preacher setup.
+    intent: Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep
+      Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 4
   day: 5
@@ -1957,23 +2287,34 @@ workouts:
       - 7.5
       target_weight_kg: 25
   - name: Leg Extension
-    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Hip Thrust (Machine)
     intent: Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday
-      pulling and Wednesday primary squat.
+      pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy
+      effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -2019,10 +2360,17 @@ workouts:
       load_percent: 75.0
       load_percent_of: sumo input (200kg)
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
-      set, not zero. Remove this first if Wednesday squat is impaired.
+    intent: Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal
+      eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten
+      the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality
+      deteriorates.
     role: accessory
     sets:
+    - target: 6
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 125
     - target: 6
       rpe:
       - 6
@@ -2049,17 +2397,22 @@ workouts:
       - 8.5
       target_weight_kg: 47.5
   - name: Seated Row (Cable)
-    intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
+    intent: Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in
+      Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 5
   day: 3
@@ -2149,13 +2502,23 @@ workouts:
       target_weight_kg: 25
   - name: Cable Crunch
     intent: Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion
-      with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
+      with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
-      - 7
+      - 6.5
+      - 7.5
+    - target: 12
+      rpe:
+      - 6.5
+      - 7.5
+    - target: 12
+      rpe:
+      - 6.5
+      - 7.5
     equipment_dependent: true
 - week: 5
   day: 4
@@ -2165,56 +2528,113 @@ workouts:
   priority: required
   exercises:
   - name: Chest Fly (Machine)
-    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
-      reps.'
+      reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup
+      load rather than chasing the stack.'
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    equipment_dependent: true
+  - name: Rear Delt Fly (Dumbbell)
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets
+      in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather
+      than chasing the stack.
+    role: accessory
+    sets:
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    equipment_dependent: true
+  - name: Tricep Pushdown (Cable)
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    equipment_dependent: true
+  - name: Bicep Curl (Dumbbell)
+    intent: Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep
+      Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+    role: accessory
+    sets:
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    equipment_dependent: true
+  - name: Hip Adductor (Machine)
+    intent: Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness
+      before Saturday sumo. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and
+      calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 6
-      - 7.5
-    equipment_dependent: true
-  - name: Rear Delt Fly (Dumbbell)
-    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
-    role: accessory
-    sets:
+      - 7
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
-    equipment_dependent: true
-  - name: Tricep Pushdown (Cable)
-    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 6.5
-      - 7.5
-    equipment_dependent: true
-  - name: Bicep Curl (Dumbbell)
-    intent: Seated DB curls; avoid the painful condo preacher setup.
-    role: accessory
-    sets:
-    - target: 10
-      rpe:
-      - 6.5
-      - 7.5
-    equipment_dependent: true
-  - name: Hip Adductor (Machine)
-    intent: Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness
-      before Saturday sumo.
-    role: accessory
-    sets:
+      - 6
+      - 7
     - target: 12
       rpe:
       - 6
@@ -2386,23 +2806,34 @@ workouts:
       - 7.5
       target_weight_kg: 25
   - name: Leg Extension
-    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Hip Thrust (Machine)
     intent: Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday
-      pulling and Wednesday primary squat.
+      pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy
+      effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6.5
+      - 7.5
     - target: 10
       rpe:
       - 6.5
@@ -2448,10 +2879,17 @@ workouts:
       load_percent: 75.0
       load_percent_of: sumo input (200kg)
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
-      set, not zero. Remove this first if Wednesday squat is impaired.
+    intent: Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal
+      eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten
+      the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality
+      deteriorates.
     role: accessory
     sets:
+    - target: 6
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 125
     - target: 6
       rpe:
       - 6
@@ -2478,17 +2916,22 @@ workouts:
       - 8.5
       target_weight_kg: 50
   - name: Seated Row (Cable)
-    intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
+    intent: Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in
+      Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 6
   day: 3
@@ -2573,9 +3016,19 @@ workouts:
       target_weight_kg: 25
   - name: Hip adductor (Rowerg)
     intent: At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no
-      grinders or soreness that harms Saturday sumo. NOT the condo adductor machine.
+      grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two
+      in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the
+      stack.
     role: accessory
     sets:
+    - target: 12
+      rpe:
+      - 6
+      - 7
+    - target: 12
+      rpe:
+      - 6
+      - 7
     - target: 12
       rpe:
       - 6
@@ -2589,50 +3042,98 @@ workouts:
   priority: required
   exercises:
   - name: Chest Fly (Machine)
-    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
-      reps.'
+      reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup
+      load rather than chasing the stack.'
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Rear Delt Fly (Dumbbell)
-    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets
+      in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather
+      than chasing the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Bicep Curl (Dumbbell)
-    intent: Seated DB curls; avoid the painful condo preacher setup.
+    intent: Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep
+      Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 6
   day: 5
@@ -2795,21 +3296,24 @@ workouts:
       - 7.5
       target_weight_kg: 25
   - name: Leg Extension
-    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve.
+    intent: Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
     - target: 12
       rpe:
       - 7
-      - 7.5
+      - 8
     equipment_dependent: true
   - name: Hip Thrust (Machine)
     intent: Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday
-      pulling and Wednesday primary squat.
+      pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy
+      effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
@@ -2857,10 +3361,17 @@ workouts:
       load_percent: 75.0
       load_percent_of: sumo input (200kg)
   - name: Romanian Deadlift (Barbell)
-    intent: Easy hip-hinge BACKOFF directly after paused sumo; controlled eccentric, bar close. Week 1 is one introductory
-      set, not zero. Remove this first if Wednesday squat is impaired.
+    intent: Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal
+      eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten
+      the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality
+      deteriorates.
     role: accessory
     sets:
+    - target: 6
+      rpe:
+      - 6
+      - 7
+      target_weight_kg: 125
     - target: 6
       rpe:
       - 6
@@ -2887,17 +3398,18 @@ workouts:
       - 8.5
       target_weight_kg: 50
   - name: Seated Row (Cable)
-    intent: Supported upper-back work, moderate grip/torso cost before Wednesday.
+    intent: Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in
+      Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
     equipment_dependent: true
 - week: 7
   day: 3
@@ -2982,13 +3494,19 @@ workouts:
       target_weight_kg: 25
   - name: Cable Crunch
     intent: Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion
-      with fixed lower body; machine/setup-dependent load, no high-effort stack chase.
+      with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
       - 6.5
+      - 7.5
+    - target: 12
+      rpe:
+      - 6.5
+      - 7.5
     equipment_dependent: true
 - week: 7
   day: 4
@@ -2998,50 +3516,78 @@ workouts:
   priority: required
   exercises:
   - name: Chest Fly (Machine)
-    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto.
+    intent: Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6;
+      two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
       - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Lateral Raise (Cable)
     intent: 'Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric
-      reps.'
+      reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup
+      load rather than chasing the stack.'
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Rear Delt Fly (Dumbbell)
-    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables.
+    intent: Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets
+      in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather
+      than chasing the stack.
     role: accessory
     sets:
     - target: 12
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 12
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Tricep Pushdown (Cable)
-    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension.
+    intent: Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks
+      1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing
+      the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
   - name: Bicep Curl (Dumbbell)
-    intent: Seated DB curls; avoid the painful condo preacher setup.
+    intent: Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep
+      Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
     role: accessory
     sets:
     - target: 10
       rpe:
-      - 6.5
-      - 7.5
+      - 7
+      - 8
+    - target: 10
+      rpe:
+      - 7
+      - 8
     equipment_dependent: true
 - week: 7
   day: 5
@@ -3198,18 +3744,26 @@ workouts:
       - 7
       target_weight_kg: 15
   - name: Leg Extension
-    intent: Condo, comfortable full ROM; one familiar easy set, no lingering quad soreness.
+    intent: Condo, comfortable full ROM; two familiar easy sets, no lingering quad soreness.
     role: accessory
     sets:
     - target: 12
       rpe:
       - 6
       - 6.5
+    - target: 12
+      rpe:
+      - 6
+      - 6.5
     equipment_dependent: true
   - name: Hip Thrust (Machine)
-    intent: Condo with leg extension; one familiar easy set, no Tuesday/Wednesday hip soreness.
+    intent: Condo with leg extension; two familiar easy sets, no Tuesday/Wednesday hip soreness.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6
+      - 6.5
     - target: 10
       rpe:
       - 6
@@ -3265,9 +3819,13 @@ workouts:
       - 7
       target_weight_kg: 45
   - name: Seated Row (Cable)
-    intent: One easy familiar supported row set, no grip/back-fatigue chase.
+    intent: Two easy familiar supported row sets, no grip/back-fatigue chase.
     role: accessory
     sets:
+    - target: 10
+      rpe:
+      - 6
+      - 7
     - target: 10
       rpe:
       - 6
@@ -3282,8 +3840,8 @@ workouts:
   exercises:
   - name: Squat (Low Bar)
     intent: Final low-fatigue competition DOUBLE plus two triples, not a max rehearsal. Show legal depth and coordinated
-      ascent on each rep. Loads are reselected for the rep target; no extra singles or proof attempts three days before
-      the meet.
+      ascent on each rep. Loads are reselected for the rep target; no extra singles or proof attempts three days
+      before the meet.
     role: competition_lift
     sets:
     - target: 2

@@ -27,6 +27,32 @@ class DecemberRepLedProgramTests(unittest.TestCase):
         ]
         self.assertEqual(singles, [], "Only competition attempts may prescribe one rep")
 
+    def test_accessory_set_policy_preserves_separate_primary_paths(self):
+        families = {name for names in self.program["workload_summary"]["families"].values() for name in names}
+        own_paths = {"Pull-Up (Weighted)", "Incline Bench Press (Dumbbell)"}
+        wrong = []
+        for workout in self.program["workouts"]:
+            if (workout["week"], workout["day"]) == (8, 5):
+                continue
+            for exercise in workout["exercises"]:
+                if exercise["name"] in families | own_paths:
+                    continue
+                expected = 2 if exercise["name"] == "Romanian Deadlift (Barbell)" or workout["week"] >= 7 else 3
+                if len(exercise["sets"]) != expected:
+                    wrong.append((workout["week"], workout["day"], exercise["name"], len(exercise["sets"]), expected))
+        self.assertEqual(wrong, [], "Normal accessories: three sets; RDL: two; meet lead-in accessories: two")
+
+    def test_week1_builds_rep_volume_without_harder_primary_top_sets(self):
+        for day, name in ((1, "Bench Press (Barbell)"), (3, "Squat (Low Bar)"), (5, "Sumo Deadlift (Barbell)")):
+            sets = self.exercise(1, day, name)["sets"]
+            with self.subTest(name=name):
+                self.assertEqual([s["target"] for s in sets], [3, 5, 5])
+                self.assertEqual(sets[0]["rpe"], [6, 6.5])
+                self.assertTrue(all(s["rpe"][-1] <= 7 for s in sets[1:]))
+        self.assertEqual([(s["target"], s["target_weight_kg"]) for s in self.exercise(1, 3, "Bench Press (Barbell)")["sets"]], [(5, 105)] * 3)
+        self.assertEqual([s["target"] for s in self.exercise(1, 5, "Squat (Low Bar)")["sets"]], [4, 4])
+        self.assertEqual([s["target"] for s in self.exercise(1, 5, "Spoto Press")["sets"]], [5, 5])
+
     def test_week1_squat_intent_describes_later_doubles_not_singles(self):
         workout = next(w for w in self.program["workouts"] if (w["week"], w["day"]) == (1, 3))
         self.assertIn("controlled doubles", workout["intent"])
@@ -78,16 +104,16 @@ class DecemberRepLedProgramTests(unittest.TestCase):
                     self.assertEqual((top["target"], top["target_weight_kg"]), (2, kg))
                     self.assertLessEqual(top["rpe"][-1], 8.5)
 
-    def test_normal_week7_is_not_a_second_taper(self):
+    def test_week7_eases_accessories_without_tapering_main_lift_work(self):
         summary = calculate_weekly_workload(self.program)
         for family in summary[6]["lifts"]:
             a, b = summary[6]["lifts"][family], summary[7]["lifts"][family]
             self.assertEqual((a["sets"], a["reps"]), (b["sets"], b["reps"]))
             self.assertGreaterEqual(b["tonnage_low"], a["tonnage_high"])
-        for week in (6, 7):
+        for week, expected_count in ((6, 61), (7, 52)):
             all_sets = sum(len(e["sets"]) for w in self.program["workouts"] if w["week"] == week
                            for e in w["exercises"])
-            self.assertEqual(all_sets, 45)
+            self.assertEqual(all_sets, expected_count)
 
     def test_sole_meet_week_taper_retains_half_of_revised_normal_week(self):
         broader = deepcopy(self.program)
@@ -102,13 +128,13 @@ class DecemberRepLedProgramTests(unittest.TestCase):
                            if w["week"] == week and (week, w["day"]) != (8, 5)
                            for e in w["exercises"]) for week in (7, 8)}
         self.assertGreaterEqual(counts[8], counts[7] * .5)
-        self.assertEqual((counts[7], counts[8]), (45, 23))
+        self.assertEqual((counts[7], counts[8]), (52, 26))
         for w in self.program["workouts"]:
             if w["week"] == 8 and w["day"] != 5:
                 self.assertTrue(all(s["rpe"][-1] <= 7.5 for e in w["exercises"] for s in e["sets"]))
 
     def test_tuesday_hinge_support_is_bounded_before_primary_squat(self):
-        for week, count in enumerate([1, 2, 2, 2, 1, 1, 1], 1):
+        for week, count in enumerate([2, 2, 2, 2, 2, 2, 2], 1):
             sets = self.exercise(week, 2, "Romanian Deadlift (Barbell)")["sets"]
             self.assertEqual(len(sets), count)
             self.assertTrue(all(s["target"] == 6 and s["rpe"][-1] <= 7 for s in sets))

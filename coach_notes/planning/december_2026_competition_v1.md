@@ -8,7 +8,7 @@ Ren requested restoration of productive rep work and a rep-led approach without 
 
 - Previous first eight weeks: Volume Block v7 Weeks 1–6 plus Strength Block v6 Weeks 1–2, **110,394.5kg / 172 completed SBD sets / 846 reps**.
 - Superseded Grinchmas draft: **61,262.5–61,727.5kg / 165 SBD sets / 481 reps**. Matching frequency and nearly matching set counts did not preserve rep volume.
-- Rep-led revision: **86,295–86,937.5kg / 172 SBD sets / 685 reps**. This is **21.8–21.2% below** the prior completed eight-week total, rather than 44.5–44.1% below.
+- Current rep-led/accessory revision: **90,242.5–90,957.5kg / 175 SBD sets / 717 reps**. This is **18.3–17.6% below** the prior completed eight-week total, rather than 44.5–44.1% below. The earlier rep-led PR version had 685 reps; the easy rep-rich Week 1 adds productive work without harder top triples.
 - Comparing normal **Weeks 2–7**, excluding opening recovery and final taper: **72,755–73,300kg**, **10.6–10.0% below** the corresponding previous completed work. This is a substantially smaller normal-week dose change, not a requirement to reproduce every historical kilogram.
 
 See [the complete workload review](december_2026_rep_led_workload.md) for weekly totals, each lift's sets/reps/tonnage, the previous draft, phase/variation caveats and source provenance. SBD scope excludes RDL, incline DB, pull-ups and machines on both sides. Tonnage is a planning descriptor, **not an equal-percentage measure of stimulus or fatigue**.
@@ -29,13 +29,25 @@ See [the complete workload review](december_2026_rep_led_workload.md) for weekly
 - **Wednesday:** primary low-bar squat immediately followed by low-cost command-pause bench, weighted pull-ups, then the existing accessory. Gym-only `Hip adductor (Rowerg)` remains at Back Alley Barbell in Weeks 2/4/6; other normal Wednesdays use `Cable Crunch`.
 - **Thursday:** condo chest/shoulder/arm work. Condo `Hip Adductor (Machine)` remains Weeks 1/3/5 only; never both adductor setups in one week. Chest-supported DB rear delts, rope pushdowns and seated DB curls remain the established equipment choices.
 - **Saturday:** heavy sumo, light low-bar squat, Spoto only. Three squat exposures, four pressing exposures including primary Tuesday incline, and two weighted-pull-up exposures in normal weeks.
-- Every non-SBD prescription, including RDL, primary incline, pull-ups and machines, is preserved. **Week 1's training prescriptions are wholly unchanged**, including its easy RDL introduction, to allow post-mock-meet recovery. Its inherited Wednesday intent now correctly describes later doubles rather than singles; no Week 1 work changed. The nine unknown competition attempt slots are unchanged and remain singles.
+- Every primary SBD prescription in **Weeks 2–8**, all fifteen early primary top triples, and every **pull-up / primary-incline prescription dictionary** are preserved against the earlier rep-led PR head `efd50a5`. Week 1 rep work and accessory/RDL doses intentionally change. The nine unknown competition attempt slots remain unchanged singles.
+
+## Approved accessory policy
+
+- **Weeks 1–6:** three sets for every programmed accessory except RDL, which has **two sets**. This includes leg extension, hip thrust, supported cable row, the selected crunch/adductor slot, and all five Thursday isolation movements. It does not add movements or stack both adductor options.
+- **Week 1:** retain the original easy effort ranges even with more sets. Calibrate local machines and newly programmed hinge/adductor work with comfortable ROM; do not force the same load on later sets or use exaggerated eccentrics to create soreness.
+- **Weeks 2–6:** most familiar isolation work/rows @7–8; hip thrust @6.5–7.5; adductor work @6–7; RDL @6–7. Three sets is the normal prescription, not three failure sets or a compulsory load escalation.
+- **Week 7:** accessories ease to **two sets**, including two RDL sets, while SBD main-lift sets/reps remain normal. Pull-ups and primary incline keep their separate paths.
+- **Week 8:** retained Monday leg extension/hip thrust and Tuesday row each have **two easy sets**. RDL, Thursday isolation work and other omitted slots remain omitted. No late-week accessory session is reinstated.
 
 ## Rep-led training prescription
 
-### Week 1: recovery re-entry
+### Week 1: easy, rep-rich re-entry
 
-Keep the existing reduced work and top triples @6–6.5. The large Week 1→2 workload rise reflects a deliberately light post-mock-meet exception returning to a dose below prior normal capacity; it is not a weekly progression to repeat. If recovery/logistics delay a session, do not compress or catch up work.
+The Saturday mock meet justifies a controlled start, not automatically a whole week of minimal work. Keep the **original top triples, kg bands and @6–6.5 effort**, but use **two five-rep backoffs @6–7** for Monday bench, Wednesday squat and Saturday sumo. Loads still start from 90% of the actual top triple and yield to the longer set's effort cap.
+
+Wednesday command bench becomes **3 × 5 around 105kg @6–7**, not 110kg triples with extra reps attached. Saturday light low bar becomes **2 × 4 around 135kg @5.5–6.5**, Spoto **2 × 5 around 100kg @6–7**. Original introductory tempo and paused-sumo doses remain unchanged. Accessories use three easy sets; RDL two easy sixes. Pull-ups/incline retain their own lighter Week 1 prescriptions.
+
+This raises Week 1 SBD work from **17 sets / 56 reps / 6,715–6,812.5kg** to **20 / 88 / 10,662.5–10,832.5kg**, versus Week 2's **24 / 106 / 13,065–13,240kg**. All-exercise set counts are **58 → 62**, but counts are not equal fatigue: Week 1 effort and novel-work loading stay easy. The aim is useful muscle-building rep work without proof efforts, not maximum hypertrophy stimulus on every set. If soreness, positions or logistics require a smaller day, do not compress/catch up omitted work later.
 
 ### Weeks 2–3: restore the rep-strength base beneath the top triples
 
@@ -51,7 +63,7 @@ Keep the existing reduced work and top triples @6–6.5. The large Week 1→2 wo
 - Keep the approved top-triple bands @8 then @8.5.
 - Bench retains **3 × 4 backoffs**; squat and sumo retain **2 × 4**, rather than collapsing to one backoff triple.
 - Wednesday command bench remains **3 × 5 @6–7**; Saturday light low bar **2 × 4**, Spoto **2 × 5 @6–7.5**.
-- Week 5 paused sumo becomes **3 × 3 around 150kg @6–7**, replacing 155kg doubles. RDL remains its existing single easy six-rep set. No new hinge work or heavier Tuesday test.
+- Week 5 paused sumo remains **3 × 3 around 150kg @6–7**, replacing the original draft's 155kg doubles. RDL is now **two easy six-rep sets**, consistent with Ren's approved exception to the three-set accessory rule. No new hinge variation or heavier Tuesday test.
 
 ### Weeks 6–7: competition doubles, not automatic singles
 
@@ -63,23 +75,23 @@ Keep the existing reduced work and top triples @6–6.5. The large Week 1→2 wo
 
 Top efforts are **@7–8 in Week 6, @7.5–8.5 in Week 7**; backoffs **@6–7.5**. These loads are explicitly reselected for two reps, **not the old single weights with an extra rep attached**. Late-block backoffs use independent RPE-governed anchors, not a percentage of an 'actual top triple' that no longer exists.
 
-Normal familiar work remains: tempo **3 × 4 around 125kg**, paused sumo **3 × 3 around 150kg** plus the existing easy RDL **1 × 6**, primary incline **3 × 5**, Wednesday bench **3 × 4 around 105kg**, Saturday light low bar **2 × 4 around 140kg**, Spoto **2 × 5 around 107.5kg**. All non-SBD dose details remain in the source/generated program.
+Normal familiar main work remains: tempo **3 × 4 around 125kg**, paused sumo **3 × 3 around 150kg**, primary incline **3 × 5**, Wednesday bench **3 × 4 around 105kg**, Saturday light low bar **2 × 4 around 140kg**, Spoto **2 × 5 around 107.5kg**. RDL is now **2 × 6**, not one set; the other accessories follow the three-to-two-set policy above.
 
-**Week 7 is not a taper:** Week 6 and Week 7 both have **45 total work sets / 24 broader barbell-strength sets / 95 barbell reps**. Expected barbell-strength tonnage including RDL is **12,280 → 12,375kg**. The modest load rise does not remove rep work.
+**Week 7 does not taper main SBD work:** Week 6 and Week 7 both have **23 SBD sets / 89 SBD reps**, and **25 broader barbell-strength sets / 101 barbell reps including RDL**. Expected broader tonnage is **13,030 → 13,125kg**. Total work sets ease **61 → 52** because accessories move from three to two sets, as Ren explicitly approved. This modest support reduction is not a second main-lift taper or removal of productive competition rep work.
 
-### Week 8: the sole planned taper, recalculated from revised Week 7
+### Week 8: the sole main-lift taper, recalculated from revised Week 7
 
-- **Monday bench:** about **122.5 × 2 @6–7 + 3 × 4 around 110 @6–7**. Tempo **3 × 4 around 115 @6–7**, familiar pull-ups and one easy condo set each of leg extension/hip thrust.
-- **Tuesday sumo:** about **170 × 2 @6–7.5 + 2 × 5 around 155 @6–7**, four days out, with full resets and stacked finishes. Existing easy primary incline/row; no RDL.
+- **Monday bench:** about **122.5 × 2 @6–7 + 3 × 4 around 110 @6–7**. Tempo **3 × 4 around 115 @6–7**, familiar pull-ups and **two easy condo sets each** of leg extension/hip thrust.
+- **Tuesday sumo:** about **170 × 2 @6–7.5 + 2 × 5 around 155 @6–7**, four days out, with full resets and stacked finishes. Existing easy primary incline plus **two easy row sets**; no RDL.
 - **Wednesday squat:** about **155 × 2 @6–7 + 2 × 3 around 140 @6–7**. Bench commands **2 × 4 around 105 @6–7**, then one easy pull-up set.
 - Thursday/Friday off; competition Saturday. No extra opener rehearsal, primer single, grind or failed proof attempt.
 
 | Planning metric, excluding competition attempts | Week 7 | Week 8 | Retained |
 |---|---|---|---|
-| All-exercise work sets | 45 | 23 | 51.1% |
-| Barbell-strength sets, including RDL | 24 | 15 | 62.5% |
-| Barbell-strength reps, including RDL | 95 | 54 | 56.8% |
-| Expected barbell-strength tonnage, including RDL | 12,375kg | 6,825kg | 55.2% |
+| All-exercise work sets | 52 | 26 | 50.0% |
+| Barbell-strength sets, including RDL | 25 | 15 | 60.0% |
+| Barbell-strength reps, including RDL | 101 | 54 | 53.5% |
+| Expected barbell-strength tonnage, including RDL | 13,125kg | 6,825kg | 52.0% |
 
 The ordinary SBD overview excludes RDL and therefore shows **11,625 → 6,825kg, a 41.3% reduction**. These are explicitly different scopes, not inconsistent calculations. Ren's half-retention preference applies to the planned dose; it is **not a physiological detraining threshold or a reason to force compromised work**. Meet-week loads must remain genuinely low-cost; reduce them if the prescribed reps overshoot the effort/position gate.
 
