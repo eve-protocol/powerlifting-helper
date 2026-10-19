@@ -123,7 +123,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost after squat.
+**Day intent:** Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top triples and actual-top backdowns Weeks 1-5, then controlled doubles and bounded backoffs; bench remains low-cost after squat.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
@@ -874,8 +874,8 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 **Why these movements:**
 
-- **Squat (Low Bar):** Final low-fatigue competition DOUBLE plus two triples, not a max rehearsal. Show legal depth and coordinated ascent on each rep. Loads are reselected for the rep target; no extra singles or proof attempts two days before the meet.
-- **Bench Press (Barbell):** Two easy command-pause fours after squat, two days before competition. Preserve familiar rep practice without testing strength; no additional bench singles.
+- **Squat (Low Bar):** Final low-fatigue competition DOUBLE plus two triples, not a max rehearsal. Show legal depth and coordinated ascent on each rep. Loads are reselected for the rep target; no extra singles or proof attempts three days before the meet.
+- **Bench Press (Barbell):** Two easy command-pause fours after squat, three days before competition. Preserve familiar rep practice without testing strength; no additional bench singles.
 - **Pull-Up (Weighted):** One familiar easy set after both competition lifts; keep grip and elbows fresh for Saturday.
 
 #### Day 5 — Saturday - DECEMBER 12 COMPETITION

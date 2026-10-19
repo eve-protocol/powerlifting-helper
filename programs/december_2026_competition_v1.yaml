@@ -289,7 +289,7 @@ workouts:
   day: 3
   name: Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
   intent: Meet-order main lifts with NO support between them; at most two support exercises after. Squat uses top
-    triples and actual-top backdowns Weeks 1-5, then controlled singles and bounded backoffs; bench remains low-cost
+    triples and actual-top backdowns Weeks 1-5, then controlled doubles and bounded backoffs; bench remains low-cost
     after squat.
   priority: required
   exercises:
@@ -3282,7 +3282,7 @@ workouts:
   exercises:
   - name: Squat (Low Bar)
     intent: Final low-fatigue competition DOUBLE plus two triples, not a max rehearsal. Show legal depth and coordinated
-      ascent on each rep. Loads are reselected for the rep target; no extra singles or proof attempts two days before
+      ascent on each rep. Loads are reselected for the rep target; no extra singles or proof attempts three days before
       the meet.
     role: competition_lift
     sets:
@@ -3308,7 +3308,7 @@ workouts:
       load_percent: 77.78
       load_percent_of: squat input (180kg)
   - name: Bench Press (Barbell)
-    intent: Two easy command-pause fours after squat, two days before competition. Preserve familiar rep practice
+    intent: Two easy command-pause fours after squat, three days before competition. Preserve familiar rep practice
       without testing strength; no additional bench singles.
     role: competition_lift
     sets:

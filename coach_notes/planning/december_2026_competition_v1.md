@@ -29,7 +29,7 @@ See [the complete workload review](december_2026_rep_led_workload.md) for weekly
 - **Wednesday:** primary low-bar squat immediately followed by low-cost command-pause bench, weighted pull-ups, then the existing accessory. Gym-only `Hip adductor (Rowerg)` remains at Back Alley Barbell in Weeks 2/4/6; other normal Wednesdays use `Cable Crunch`.
 - **Thursday:** condo chest/shoulder/arm work. Condo `Hip Adductor (Machine)` remains Weeks 1/3/5 only; never both adductor setups in one week. Chest-supported DB rear delts, rope pushdowns and seated DB curls remain the established equipment choices.
 - **Saturday:** heavy sumo, light low-bar squat, Spoto only. Three squat exposures, four pressing exposures including primary Tuesday incline, and two weighted-pull-up exposures in normal weeks.
-- Every non-SBD prescription, including RDL, primary incline, pull-ups and machines, is preserved. **Week 1 is wholly unchanged**, including its easy RDL introduction, to allow post-mock-meet recovery. The nine unknown competition attempt slots are unchanged and remain singles.
+- Every non-SBD prescription, including RDL, primary incline, pull-ups and machines, is preserved. **Week 1's training prescriptions are wholly unchanged**, including its easy RDL introduction, to allow post-mock-meet recovery. Its inherited Wednesday intent now correctly describes later doubles rather than singles; no Week 1 work changed. The nine unknown competition attempt slots are unchanged and remain singles.
 
 ## Rep-led training prescription
 

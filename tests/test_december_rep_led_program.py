@@ -27,6 +27,18 @@ class DecemberRepLedProgramTests(unittest.TestCase):
         ]
         self.assertEqual(singles, [], "Only competition attempts may prescribe one rep")
 
+    def test_week1_squat_intent_describes_later_doubles_not_singles(self):
+        workout = next(w for w in self.program["workouts"] if (w["week"], w["day"]) == (1, 3))
+        self.assertIn("controlled doubles", workout["intent"])
+        self.assertNotIn("controlled singles", workout["intent"])
+
+    def test_meet_week_wednesday_is_three_days_before_saturday(self):
+        for name in ("Squat (Low Bar)", "Bench Press (Barbell)"):
+            intent = self.exercise(8, 3, name)["intent"]
+            with self.subTest(name=name):
+                self.assertIn("three days before", intent)
+                self.assertNotIn("two days before", intent)
+
     def test_existing_day_structure_and_exact_exercise_names_are_preserved(self):
         monday = ["Bench Press (Barbell)", "Tempo Squat (Barbell)", "Pull-Up (Weighted)",
                   "Leg Extension", "Hip Thrust (Machine)"]

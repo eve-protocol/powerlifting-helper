@@ -49,7 +49,7 @@ The sole planned taper is Week 8. The half-retention checks describe the **presc
 
 ## Verification
 
-- All 39 workout identities, exact exercise names/order, non-SBD prescriptions, Week 1 re-entry and nine competition attempts preserved against the approved base.
+- All 39 workout identities, exact exercise names/order, non-SBD prescriptions, Week 1 re-entry prescriptions and nine competition attempts preserved against the approved base. One inherited Week 1 intent was corrected from later singles to doubles without changing its training work.
 - All 15 workbook top-triple bands and 90/90/89/88/86% actual-top backoff rules preserved; longer backoff reps require live RPE-based load adjustment.
 - Independently enumerated top-band plate choices with Decimal half-up rounding across every included set/family/week; matches the production overview.
 - No one-repetition training prescriptions remain. Pure offline Boostcamp conversion preserves every revised rep/RPE and ignores local load/percentage metadata. No API write was performed.
