@@ -65,8 +65,8 @@ class DecemberRepLedProgramTests(unittest.TestCase):
                 self.assertIn("three days before", intent)
                 self.assertNotIn("two days before", intent)
 
-    def test_existing_day_structure_and_exact_exercise_names_are_preserved(self):
-        monday = ["Bench Press (Barbell)", "Tempo Squat (Barbell)", "Pull-Up (Weighted)",
+    def test_requested_squat_first_weekly_order_and_exact_exercise_names(self):
+        monday = ["Tempo Squat (Barbell)", "Bench Press (Barbell)", "Pull-Up (Weighted)",
                   "Leg Extension", "Hip Thrust (Machine)"]
         tuesday = ["Sumo Deadlift (Paused)", "Romanian Deadlift (Barbell)",
                    "Incline Bench Press (Dumbbell)", "Seated Row (Cable)"]
