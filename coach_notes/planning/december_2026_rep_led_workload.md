@@ -52,6 +52,8 @@ Align by program week/day: early Japan-era rendered dates can precede athlete-lo
 | Barbell-strength reps incl. RDL | 101 | 101 | 54 | 53.5% |
 | Barbell-strength tonnage kg incl. RDL | 13030 | 13125 | 6825 | 52.0% |
 
+**Metric scope:** the half-retention policy covers **all-exercise sets and barbell-strength sets/reps/tonnage**, not every possible definition of global volume. Mixed-exercise total reps fall **343 → 140 (59.2% cut)**. This count includes high-rep isolation work omitted in meet week; do not claim that every global volume metric falls by at most 50%. All-exercise tonnage cannot be quantified completely while machine loads remain unanchored. This is a reporting distinction, not a reason to add arbitrary isolation work.
+
 Week 7 now deliberately eases accessory sets, as approved; it does **not** taper main SBD work. Week 8 remains the sole main-lift taper. The half-retention checks describe the prescription, not an instruction to force compromised work or a validated detraining threshold. No accessory Thursday/Friday is reinstated to satisfy the totals.
 
 ## Verification

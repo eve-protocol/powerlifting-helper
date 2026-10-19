@@ -133,6 +133,14 @@ class DecemberRepLedProgramTests(unittest.TestCase):
             if w["week"] == 8 and w["day"] != 5:
                 self.assertTrue(all(s["rpe"][-1] <= 7.5 for e in w["exercises"] for s in e["sets"]))
 
+    def test_taper_report_discloses_mixed_exercise_rep_reduction(self):
+        reps = {week: sum(s["target"] for w in self.program["workouts"]
+                          if w["week"] == week and (week, w["day"]) != (8, 5)
+                          for e in w["exercises"] for s in e["sets"]) for week in (7, 8)}
+        report = (ROOT / "coach_notes/planning/december_2026_rep_led_workload.md").read_text()
+        self.assertIn(f"{reps[7]} → {reps[8]}", report)
+        self.assertIn(f"{(1 - reps[8] / reps[7]) * 100:.1f}% cut", report)
+
     def test_tuesday_hinge_support_is_bounded_before_primary_squat(self):
         for week, count in enumerate([2, 2, 2, 2, 2, 2, 2], 1):
             sets = self.exercise(week, 2, "Romanian Deadlift (Barbell)")["sets"]

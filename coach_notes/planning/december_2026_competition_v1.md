@@ -95,6 +95,8 @@ Normal familiar main work remains: tempo **3 × 4 around 125kg**, paused sumo **
 
 The ordinary SBD overview excludes RDL and therefore shows **11,625 → 6,825kg, a 41.3% reduction**. These are explicitly different scopes, not inconsistent calculations. Ren's half-retention preference applies to the planned dose; it is **not a physiological detraining threshold or a reason to force compromised work**. Meet-week loads must remain genuinely low-cost; reduce them if the prescribed reps overshoot the effort/position gate.
 
+The explicit half-retention checks cover **all-exercise sets and barbell-strength sets/reps/tonnage**, not every possible global metric. Mixed-exercise total reps are **343 → 140, a 59.2% cut**, because meet week omits high-rep isolation work. All-exercise tonnage remains incomplete with unanchored machines. Do not claim a universal maximum-50% reduction or pad the week with isolation reps to make unrelated metrics agree. Independent coaching review found no substantive blocker and confirmed this scope distinction; no prescription changed in the review follow-up.
+
 ## Why no prescribed training singles?
 
 No one-repetition **training work sets** remain, including Saturday light squat; competition attempts remain singles. Normal warm-up choices are not extra performance tests. The purpose is rep-led heavy specificity plus sufficient productive work, not a claim that singles cannot work or are inherently excessively fatiguing.
