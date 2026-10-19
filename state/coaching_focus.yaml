@@ -1,341 +1,65 @@
-id: volume_transfer_realization_v2
-created: '2026-07-26'
+id: grinchmas_rep_led_2026_v1
+created: '2026-10-19'
 status: active
-reason: >
-  The 2026-05-04 to 2026-07-26 macrocycle produced rep PRs in the volume block,
-  missed bench and deadlift triple benchmarks in the strength block, and ended
-  with a 500kg mock-meet total versus 510kg before the cycle. Ren currently
-  expresses strength best through productive rep work and loses performance
-  when useful volume is removed in favor of prolonged high-intensity exposure.
-
+previous_focus_archive: state/coaching_focus_2026_jul_oct.yaml
 global_goal: >
-  Preserve the rep-strength stimulus that works for Ren while progressively
-  improving competition-lift specificity. Convert volume into a 530kg primary
-  mock-meet target on 2026-10-17, with 540kg as the stretch outcome, using
-  objective checkpoints that change later programming when they are missed.
-
-evidence_basis:
-  scope: Literature checked through 2026-07-26; athlete-specific decisions are constrained by Ren's logged response.
-  principles:
-    - >
-      Keep fixed load anchors subordinate to autoregulation because daily
-      performance varies and autoregulated resistance training is at least a
-      defensible alternative to fixed percentage loading for maximal strength.
-    - >
-      Most work stops short of failure because failure training has not shown a
-      consistent strength advantage and creates avoidable fatigue near the
-      competition lifts.
-    - >
-      Preserve meaningful volume during intensification because Ren's own
-      previous cycle deteriorated when productive rep work was removed faster
-      than his heavy-lift expression improved.
-    - >
-      Heavy loading is required for maximal-strength specificity, but weekly
-      singles are not. Ren's prior strength block repeatedly turned intended
-      submaximal bench and deadlift singles into RPE 8.5-9 work, so this cycle
-      uses one deliberately easy single exposure before the triple benchmarks.
-    - >
-      Reduce volume substantially during the final week while retaining some
-      lift-specific intensity; exact strength-sport taper parameters remain
-      uncertain, so Ren's prior failed taper and current response govern the
-      implementation.
-  sources:
-    - title: Autoregulated resistance training for maximal strength enhancement
-      type: systematic review and network meta-analysis
-      year: 2025
-      url: https://pubmed.ncbi.nlm.nih.gov/40791980/
-    - title: Effects of resistance training performed to repetition failure or non-failure
-      type: systematic review and meta-analysis
-      year: 2021
-      url: https://pubmed.ncbi.nlm.nih.gov/33497853/
-    - title: Exploring the dose-response relationship between proximity to failure, strength gain, and hypertrophy
-      type: meta-regression
-      year: 2024
-      url: https://pubmed.ncbi.nlm.nih.gov/38970765/
-    - title: Tapering and peaking maximal strength for powerlifting performance
-      type: review
-      year: 2020
-      url: https://pubmed.ncbi.nlm.nih.gov/32917000/
-
-athlete_constraints:
-  schedule:
-    training_days:
-      - monday
-      - tuesday
-      - wednesday
-      - friday
-      - saturday
-    thursday: rest
-    session_duration: 2-3 hours is acceptable, including approximately 30 minutes of preparation
-    gym_split: >
-      Monday, Tuesday, Wednesday, and Saturday use the powerlifting gym. Friday remains a written
-      low-residual-fatigue accessory day that can be completed in the condo gym without another
-      powerlifting-gym trip. Mock-meet-week Friday remains full rest.
-  relocation:
-    date: '2026-08-25'
-    destination: Toronto, Canada
-    rule: >
-      Week 5 is conditional transition work, not an automatic deload. Complete
-      the written session when logistics and equipment are normal. If moving
-      tasks disrupt training, omit support work by priority and continue the
-      sequence; never compress, double, or catch up missed work. Recalibrate
-      machine and bar anchors before treating Japan loads as equivalent.
-  bodyweight:
-    current_kg: approximately 78
-    direction: no cutting; aim gradually toward 79-80kg without forcing the rate
-  initial_symptom_context:
-    captured: '2026-07-26 after mock meet'
-    achilles: 3-4 out of 10
-    knees: 2 out of 10
-    right_elbow: 3-4 out of 10
-    pec_shoulder: 0-1 out of 10
-    lower_back: 2 out of 10
-    glute_cheek: 0 out of 10
-    rule: >
-      These are starting context, not fixed diagnoses. Reassess the relevant
-      symptom during warm-ups and adjust load, range, or exercise on the day.
-  equipment:
-    japan:
-      - power rack with pull-up station
-      - combo rack
-      - dumbbells and adjustable bench
-      - fixed low and high cable positions
-      - standing T-bar row
-      - lying leg curl and leg extension
-      - press/hack-squat machine
-      - EZ bar
-      - chest-fly/rear-delt machine
-    toronto_powerlifting_gym:
-      - adjustable crossover cables
-      - belt squat
-      - hack squat and leg press combination machine
-      - reverse hyperextension machine
-      - seated cable row station with interchangeable handles
-      - adjustable cable station
-      - dumbbells through 120lb
-      - free benches, combo racks, and power racks
-      - combined leg extension and leg curl machine; leg curl is preferred
-      - EZ curl bars and Swiss bar
-      - pull-up bars
-    toronto_condo_gym:
-      - power rack with free bench
-      - 20kg bars thicker than standard powerlifting bars
-      - plates sufficient for approximately 140-160kg on one bar; higher capacity unverified
-      - Smith machine
-      - dumbbells through 100lb
-      - hip thrust machine with upper-back support
-      - combined leg extension and leg curl machine
-      - combined hip abductor and adductor machine
-      - crossover cable machine
-      - horizontal seated cable row machine
-      - vertical cable pulldown machine
-      - cable station with triceps attachments
-      - seated Jefferson curl station for dumbbells or bars
-      - treadmills
-      - stair machine
-
-load_anchor_policy:
+  Prepare for the December 12, 2026 Grinchmas competition with heavy competition-lift
+  practice supported by productive rep work, not obligatory training singles. Preserve
+  legal squat depth, genuine bench commands and repeatable sumo starts and lockouts.
+  The October 17 reported mock-meet total was 512.5kg with unverified squat/bench
+  legality; the 200kg deadlift third failed at the floor. Do not mistake historical
+  planning inputs for current demonstrated maxima.
+program: december_2026_competition_v1
+competition_date: '2026-12-12'
+schedule:
+  training_days: [monday, tuesday, wednesday, thursday, saturday]
+  friday_and_sunday: rest
+  week_8_thursday_and_friday: rest
+  monday: gym bench, tempo squat and weighted pull-ups; condo leg extension and hip thrust later
+  tuesday: paused sumo, easy RDL, primary incline dumbbell and row
+  wednesday: primary low-bar squat, easy command bench, pull-ups and selected accessory
+  thursday: condo chest, shoulders, arms and alternating machine adductor
+  saturday: competition sumo, light low-bar squat and Spoto; no added accessories
+loading:
   rule: >
-    target_weight_kg is the planned anchor from Ren's history, not a second
-    rigid prescription. Live load calls must still verify the exact session,
-    current pain, warm-ups, movement quality, and recent performance.
-  hierarchy:
-    - Pain and safe movement response.
-    - Exercise intent and required technique.
-    - Target RPE.
-    - Target weight anchor.
-    - Block checkpoint.
+    The YAML kg and percentage ranges are directional anchors. Today's symptoms,
+    warm-ups, legal positions and prescribed RPE determine the actual load.
+    Week 1 is easy but rep-rich after the mock meet; do not add proof attempts.
+    Top triples in Weeks 1-5 use the approved RPE bands and actual-top-derived
+    backoffs. Weeks 6-7 use doubles and retain normal main-lift rep work; Week 8
+    is the sole main-lift taper. No programmed training singles.
+  backoffs: >
+    Calculate Weeks 1-5 primary backoffs from the actual top triple, then lower
+    loads if longer reps exceed the backoff effort cap; do not force tonnage.
   adjustment: >
-    Reduce or hold load when the first work set exceeds the RPE ceiling or loses
-    the required position. Increase only when the first set is below target and
-    the block objective is still protected.
-
+    An isolated slow set without pain or positional failure is not a cycle rewrite.
+    Adjust remaining work minimally when effort/positions require it. Stop heavy
+    retries after a miss, escalating pain or significant technical failure.
 squat:
-  hypothesis: >
-    Squat shoes plus weekly high-bar work produced Ren's most consistent
-    knee-forward pattern and upper-back control. Heavy low-bar performance still
-    becomes hip/back dominant near limit effort, so rep strength must be
-    preserved while heavy specificity is introduced gradually.
-  priority:
-    - Keep squat shoes for all programmed barbell squats unless symptoms require a live change.
-    - Retain high bar as the primary developmental variation.
-    - Keep low bar present throughout every block.
-    - Do not add stiletto squats while Achilles symptoms are active.
-    - Remove pause squat unless a later checkpoint identifies a specific need.
-  main_cue: Knees forward for the first inch; chest and hips rise together.
-  pass_condition: >
-    Heavy low-bar reps must show better chest/hip timing than the prior
-    160kg x5 and 165kg x3 limit sets. Load alone is not a pass.
-
+  variation: >
+    Monday three-second tempo uses the SAME wider low-bar competition stance and
+    squat shoes, controlled descent to legal depth and normal strong ascent.
+    Wednesday is primary low bar; Saturday is light low bar. Do not import
+    narrow-stance or high-bar knee-forward cues from the prior cycle.
+  main_cue: Reach legal depth consistently; chest and hips rise together.
+  evaluation: Obtain a side or useful quarter angle for heavy depth assessment; front video alone cannot certify depth.
 bench:
-  hypothesis: >
-    Ren's widest legal grip and new final-position self-unrack are productive.
-    Incline dumbbell bench is a primary bench movement and a valued strength
-    outcome, not accessory work. Larsen press improved as a standalone movement
-    across eight prior-cycle exposures, but that cycle still missed 130kg x3
-    and moved from a 140kg to a 137.5kg mock-meet bench. The preceding
-    Spoto-based cycle moved the mock-meet bench from 135kg to 140kg. This is
-    associative rather than causal, but Spoto also preserves the leg-drive
-    timing that Ren's 2026-05-07 video identified as a technical need. The
-    2026-07-26 142.5kg miss stopped below midrange after the right elbow opened
-    early and produced a bad right-shoulder sensation; treat that as a
-    technique- and symptom-limited miss rather than proof that pressing force
-    was absent.
-  priority:
-    - Use the widest legal grip for competition and paused bench.
-    - Practise the new self-unrack on normal work.
-    - Use a handoff above 130kg when available while retaining occasional controlled self-unrack exposure.
-    - Progress incline dumbbell bench as a primary movement with its own benchmark.
-    - Use Spoto press as the fourth weekly bench exposure through accumulation and intensification.
-    - Do not use Larsen press this cycle unless later evidence identifies a specific no-leg pressing need.
-  spoto_standard:
-    position: Stop the bar 1-2cm above the normal competition touch point.
-    pause: Hold a true one-second hover without touching, sinking, or drifting toward the face.
-    body: Keep the competition arch, upper-back pressure, foot pressure, and leg drive active.
-    restart: Press from the motionless hover while driving back toward the rack.
-    purpose: >
-      Train bottom-range tension, touch-point control, and leg-drive timing
-      without receiving rebound or support from the chest.
-    main_cue: Hover over the touch point, stay in the legs, then press back.
-  main_cue: Settle in the final position, hold the pause, then drive back into the bench.
-  pass_condition: >
-    Competition-bench benchmarks require a stable unrack or handoff, repeatable
-    touch point, legal pause, and no major right-left press disruption.
-
+  priority: >
+    Monday primary competition bench and Wednesday low-cost command practice use
+    a motionless competition pause with stable touch point, leg drive and press
+    symmetry. Saturday Spoto preserves bottom-range tension and leg-drive timing.
+    Tuesday incline DB is a primary progression with per-hand loads.
+  main_cue: Settle at the touch point, wait for the pause, then press back.
 deadlift:
-  hypothesis: >
-    Ren has enough floor strength. The persistent limiter is maintaining
-    upper-back/bar connection while moving from the knee into a legal stacked
-    lockout. Prolonged high-RPE paused and competition pulls created fatigue
-    without changing this result.
-  priority:
-    - Keep sumo as the competition style.
-    - Use paused-at-knee sumo during accumulation so the second weekly pull directly trains competition stance, bar connection, and the knee-to-lockout limiter.
-    - In intensification, pause when the bar center reaches the top edge of the kneecap.
-    - Hold a true one-second dead stop without sinking, re-bending the knees, or re-wedging.
-    - Keep the paused bar touching the legs, lats locked, ribs down, and knees fixed.
-    - Restart by bringing hips to the bar while continuing to stand; do not lean back.
-    - Do not use floor-break pauses because floor strength is not the current limiter.
-    - Do not add block pulls and pin pulls simultaneously with the new pause variation.
-  main_cue: Stay connected to the knee, then hips through before the bar slows.
-  pass_condition: >
-    Heavy sumo reps must finish with knees, hips, and shoulders stacked. Fast
-    floor speed does not justify a heavier attempt when lockout is a rescue.
-
-pull_ups:
-  status: secondary_goal
-  frequency: twice weekly
-  reason: >
-    Weighted pull-ups are personally important to Ren and should progress even
-    though they rank below the competition lifts and incline dumbbell bench.
-  placement:
-    - Monday
-    - Wednesday
-  guardrail: >
-    Do not place hard pull-ups on Friday because Saturday deadlift requires a
-    fresh upper back and grip.
-
+  priority: >
+    Tuesday paused sumo stops for a true second at the top edge of the knee with
+    bar/legs connected; Saturday sumo is the heavy primary pull. October 17's
+    190kg make and 200kg floor-break miss call for repeatable start setup AND
+    stacked knee-to-lockout mechanics, not an assumption that floor strength is
+    already solved. Keep RDL easy and remove it first if Wednesday squat suffers.
+  main_cue: Wedge to break the floor; stay connected through the knee and finish stacked.
 accessories:
-  importance: high
-  reason: >
-    Accessories are mentally important to Ren and contribute to training
-    adherence. They remain programmed throughout the cycle using available
-    equipment, with volume reduced rather than erased during realization.
-  guardrail: >
-    A productive first set does not authorize automatic repeat-load overshoots.
-    Once a set reaches the top of the RPE target, reduce the next set when needed.
-  friday_rule: >
-    Friday is a written condo accessory session for chest, shoulders, arms, and trunk. It is a
-    redistribution of existing support work, not permission to add hard rows, grip work, hip thrusts,
-    belt squats, hack squats, or reverse hypers before Saturday deadlift.
-  combined_big3_rule: >
-    When two of the Big 3 are trained in the same session, perform them consecutively in the planned
-    order with no accessory work between them, then cap the remainder of the session at two
-    accessory or support exercises.
-  exercise_name_rule: >
-    Program YAML may use only exact Boostcamp exercise names verified in current programs, synced
-    history, or directly supplied by Ren. Never invent or normalize an unseen exercise name.
-
-block_goals:
-  volume_block_v7:
-    role: accumulation
-    dates: '2026-07-27 to 2026-09-05'
-    checkpoints:
-      squat_low_bar:
-        goal: 160kg x5 below the prior RPE 10 result with cleaner final-rep torso timing
-        stretch: 162.5kg x5 only when 160kg is clearly available below limit effort
-      bench_press:
-        goal: complete 122.5kg x5 without the prior missed fifth rep
-        stretch: 125kg x5 only when setup and warm-ups justify it
-      incline_dumbbell_bench:
-        goal: 52.5kg per hand x6 at RPE 8.5-9
-        stretch: cleaner or lower-RPE completion at the same load
-      sumo_deadlift:
-        goal: 180kg x5 at RPE 9-9.5 with legal connected lockout mechanics
-        stretch: same load below RPE 9 or a heavier set only after clean lockout evidence
-    relocation_rule: Week 5 is conditional transition work, not a mandatory low-output week or a catch-up week.
-    post_relocation_rule: Week 6 restores normal productive fives/fours on calibrated Toronto equipment.
-  strength_block_v6:
-    role: intensification
-    dates: '2026-09-07 to 2026-09-26'
-    structure:
-      week_1: Competition fours without singles.
-      week_2: One competition single per lift at RPE 7-7.5, followed by triples.
-      week_3: Objective triple benchmarks without a preliminary single.
-      weekly_schedule: >
-        Primary low-bar squat and competition bench are consolidated on Wednesday in meet order.
-        Friday remains a written condo accessory day. Saturday retains primary sumo, light low bar,
-        and Spoto work.
-    single_rule: >
-      Heavy singles are a tool, not a requirement. The Week 2 single ends when
-      it reaches RPE 7-7.5; do not add weight because it feels less dramatic
-      than a normal heavy single.
-    checkpoints:
-      squat_low_bar:
-        goal: 167.5kg x3 at RPE 9-9.5 with better chest/hip timing than 165kg x3
-      bench_press:
-        goal: complete 130kg x3 at RPE 9-9.5
-        stretch: 132.5kg x3 only when 130kg is clearly available
-      incline_dumbbell_bench:
-        goal: 55kg per hand x5 at RPE 9-9.5
-      sumo_deadlift:
-        goal: 187.5kg x3 at RPE 9-9.5 with legal stacked lockout
-        stretch: 190kg x3 only after the target load finishes cleanly
-    failure_rule: >
-      A missed benchmark or repeated technical failure changes the realization
-      targets immediately. Do not carry an optimistic projection into peaking.
-  peaking_block_v8:
-    role: realization_and_taper
-    dates: '2026-09-28 to 2026-10-17'
-    structure:
-      week_1: Realization/loading week with Wednesday heavy squat and bench, plus submaximal doubles; not a taper week.
-      week_2: Final heavy squat and bench together on Wednesday, final heavy deadlift Saturday, and the start of volume reduction.
-      week_3: Actual taper and mock-meet week.
-    final_heavy_timing:
-      squat: 10 days before mock meet
-      bench: 10 days before mock meet
-      deadlift: 7 days before mock meet
-    final_week:
-      wednesday: Finish with only low-RPE squat and bench command singles in meet order; omit support work three days before the mock meet.
-      friday: Full rest; do not create a one-exercise bench trip the day before the mock meet.
-    mock_meet:
-      minimum:
-        total_kg: 512.5
-        requirement: beat the prior 510kg total
-      primary:
-        squat_kg: 182.5
-        bench_kg: 145
-        deadlift_kg: 202.5
-        total_kg: 530
-      stretch:
-        squat_kg: 185
-        bench_kg: 147.5
-        deadlift_kg: 207.5
-        total_kg: 540
-
-success_criteria:
-  - Beat the prior 510kg mock-meet total.
-  - Set new successful one-rep PRs rather than relying on estimated strength.
-  - Preserve or improve rep-strength benchmarks during intensification.
-  - Reach the mock meet without schedule compression or late heavy deadlift repetition.
-  - Use objective checkpoint failures to change later targets before the mock meet.
+  normal: Three sets per programmed movement in Weeks 1-6 except RDL at two; pull-ups and primary incline have their own progressions.
+  later: Week 7 eases accessories to two sets; Week 8 retains only the programmed easy support.
+  machines: Calibrate exact local setups at the prescribed RPE; no assumed cross-machine kg equivalence.
+  no_makeup: Never compress skipped support work into the next session.

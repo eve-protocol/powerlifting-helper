@@ -4,16 +4,14 @@ training_days:
 - monday
 - tuesday
 - wednesday
-- friday
+- thursday
 - saturday
 block_sequence:
-- volume_block_v7
-- strength_block_v6
-- peaking_block_v8
-current_block: volume_block_v7
+- december_2026_competition_v1
+current_block: december_2026_competition_v1
 completed_workouts_in_current_block: 0
 last_completed_date: '2026-10-17'
 progression_mode: explicit
-active_coaching_focus: volume_transfer_realization_v2
-cycle_start_date: '2026-07-27'
-mock_meet_date: '2026-10-17'
+active_coaching_focus: grinchmas_rep_led_2026_v1
+cycle_start_date: '2026-10-19'
+competition_date: '2026-12-12'
