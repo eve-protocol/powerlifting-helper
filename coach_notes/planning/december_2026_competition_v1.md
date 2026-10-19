@@ -1,6 +1,6 @@
 # December 12, 2026 competition — rep-led program rationale
 
-**Status: new prescription revision for draft-PR review.** Base program/display PRs #29–31 are merged. This revision intentionally changes training doses and late-block loading; it is not another display-only change. It does **not** activate the program, migrate historical state or manually sync Boostcamp. `state/training_state.yaml` remains the administrative old-block pointer pending activation approval.
+**Status: activated October 19 after Ren's approval; this PR proposes squat-first Monday ordering.** Base program/display PRs #29–32 are merged. The rep-led dose revision was incorporated before activation. This PR changes Monday order only; it does not change training doses, historical state or completed workouts. Boostcamp publication of the revised order occurs on merge through the program-sync workflow; an open PR is not an app update.
 
 ## Why revise the approved draft?
 
@@ -24,7 +24,7 @@ See [the complete workload review](december_2026_rep_led_workload.md) for weekly
 
 - **39 workouts**, October 19 through the December 12 Grinchmas meet; five usual sessions, Friday/Sunday off, and Thursday/Friday off in meet week.
 - Exact exercise identities, workout identities and exercise order. No new movements, equipment assumptions or extra training days.
-- **Monday:** main competition bench before same-wider-stance three-second tempo squat and weighted pull-ups; `Leg Extension` and `Hip Thrust (Machine)` together later at the condo. This remains the accepted **five-movement split exception**.
+- **Monday:** same-wider-stance three-second tempo squat before main competition bench, then weighted pull-ups; `Leg Extension` and `Hip Thrust (Machine)` together later at the condo. This remains the accepted **five-movement split exception**. Ren requested squat first when activating the cycle; this changes sequence, not exercise dose or identities. Begin today's squat first even before the PR merges; choose the bench triple from its own post-squat warm-ups and RPE rather than promising the prior bench-first midpoint.
 - **Tuesday:** paused-at-knee sumo, existing easy RDL, **primary incline DB**, supported cable row. Meet week uses competition sumo and omits RDL.
 - **Wednesday:** primary low-bar squat immediately followed by low-cost command-pause bench, weighted pull-ups, then the existing accessory. Gym-only `Hip adductor (Rowerg)` remains at Back Alley Barbell in Weeks 2/4/6; other normal Wednesdays use `Cable Crunch`.
 - **Thursday:** condo chest/shoulder/arm work. Condo `Hip Adductor (Machine)` remains Weeks 1/3/5 only; never both adductor setups in one week. Chest-supported DB rear delts, rope pushdowns and seated DB curls remain the established equipment choices.
@@ -115,4 +115,4 @@ References reviewed for that decision:
 - A first work-set overshoot calls for a lower remaining load, not an immediate cycle rewrite. Repeated effort/position deterioration across comparable sessions warrants a small dose adjustment; isolated ordinary variability does not establish accumulated fatigue.
 - Protect Wednesday squat: RDL is the first support work removed if Tuesday produces meaningful soreness/poorer squat positions. Do not increase RDL and paused-sumo loads to compensate for an easy day. Keep Wednesday bench low-cost rather than allowing it to become a second heavy bench progression.
 - Evaluate whether matched rep work becomes more repeatable at the intended RPE and whether primary doubles retain legal positions. A better-looking single is not a prerequisite or an independent extra success test.
-- Confirm federation/weigh-in logistics and existing custom-exercise account resolution before activation. No new names were invented in this revision. Program approval and training-state/Boostcamp activation remain separate actions.
+- Confirm federation/weigh-in logistics and exact custom-exercise account resolution before meet day. No new names are introduced by the Monday reorder. Training state is active; the revised app exercise order awaits this PR's merge and sync.
