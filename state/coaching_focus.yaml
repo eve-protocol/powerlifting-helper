@@ -16,10 +16,10 @@ schedule:
   friday_and_sunday: rest
   week_8_thursday_and_friday: rest
   monday: gym tempo squat, primary bench and weighted pull-ups; condo leg extension and hip thrust later
-  tuesday: paused sumo, easy RDL, primary incline dumbbell and row
-  wednesday: primary low-bar squat, easy command bench, pull-ups and selected accessory
+  tuesday: paused sumo, primary incline dumbbell and row; Week 1 completed RDL stays historical, Weeks 2-7 omit it
+  wednesday: primary low-bar squat, command bench with progressing start anchors but RPE 6-7, pull-ups and selected accessory
   thursday: condo chest, shoulders, arms and alternating machine adductor
-  saturday: competition sumo, light low-bar squat and Spoto; no added accessories
+  saturday: Week 1 sumo/squat/Spoto; Weeks 2-7 sumo top plus two backoffs, two easy RDLs, light squat, Spoto
 loading:
   rule: >
     The YAML kg and percentage ranges are directional anchors. Today's symptoms,
@@ -32,7 +32,7 @@ loading:
     Calculate Weeks 1-5 primary backoffs from the actual top triple, then lower
     loads if longer reps exceed the backoff effort cap; do not force tonnage.
   adjustment: >
-    An isolated slow set without pain or positional failure is not a cycle rewrite.
+    Wednesday bench starts from its rising weekly anchor but adjusts to genuine pause quality and RPE 6-7, never a fixed 105kg ceiling. An isolated slow set without pain or positional failure is not a cycle rewrite.
     Adjust remaining work minimally when effort/positions require it. Stop heavy
     retries after a miss, escalating pain or significant technical failure.
 squat:
@@ -53,10 +53,13 @@ bench:
 deadlift:
   priority: >
     Tuesday paused sumo stops for a true second at the top edge of the knee with
-    bar/legs connected; Saturday sumo is the heavy primary pull. October 17's
+    bar/legs connected; its three sets in Weeks 2-7 need no fourth merely because
+    RDL moved. Saturday sumo is the heavy primary pull, followed immediately by
+    two bounded RDL sixes before light squat and Spoto from Week 2. October 17's
     190kg make and 200kg floor-break miss call for repeatable start setup AND
     stacked knee-to-lockout mechanics, not an assumption that floor strength is
-    already solved. Keep RDL easy and remove it first if Wednesday squat suffers.
+    already solved. Keep RDL easy and remove it first if later Saturday positions
+    or Monday tempo squat suffer. Do not make up the moved RDL on Tuesday.
   main_cue: Wedge to break the floor; stay connected through the knee and finish stacked.
 accessories:
   normal: Three sets per programmed movement in Weeks 1-6 except RDL at two; pull-ups and primary incline have their own progressions.

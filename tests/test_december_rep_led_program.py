@@ -68,19 +68,22 @@ class DecemberRepLedProgramTests(unittest.TestCase):
     def test_requested_squat_first_weekly_order_and_exact_exercise_names(self):
         monday = ["Tempo Squat (Barbell)", "Bench Press (Barbell)", "Pull-Up (Weighted)",
                   "Leg Extension", "Hip Thrust (Machine)"]
-        tuesday = ["Sumo Deadlift (Paused)", "Romanian Deadlift (Barbell)",
-                   "Incline Bench Press (Dumbbell)", "Seated Row (Cable)"]
+        tuesday = ["Sumo Deadlift (Paused)", "Incline Bench Press (Dumbbell)", "Seated Row (Cable)"]
+        completed_week1_tuesday = ["Sumo Deadlift (Paused)", "Romanian Deadlift (Barbell)",
+                                   "Incline Bench Press (Dumbbell)", "Seated Row (Cable)"]
         thursday = ["Chest Fly (Machine)", "Lateral Raise (Cable)", "Rear Delt Fly (Dumbbell)",
                     "Tricep Pushdown (Cable)", "Bicep Curl (Dumbbell)"]
         saturday = ["Sumo Deadlift (Barbell)", "Squat (Low Bar)", "Spoto Press"]
+        saturday_with_rdl = ["Sumo Deadlift (Barbell)", "Romanian Deadlift (Barbell)",
+                             "Squat (Low Bar)", "Spoto Press"]
         expected = {}
         for week in range(1, 8):
             expected[(week, 1)] = monday
-            expected[(week, 2)] = tuesday
+            expected[(week, 2)] = completed_week1_tuesday if week == 1 else tuesday
             expected[(week, 3)] = ["Squat (Low Bar)", "Bench Press (Barbell)", "Pull-Up (Weighted)",
                 "Hip adductor (Rowerg)" if week in (2, 4, 6) else "Cable Crunch"]
             expected[(week, 4)] = thursday + (["Hip Adductor (Machine)"] if week in (1, 3, 5) else [])
-            expected[(week, 5)] = saturday
+            expected[(week, 5)] = saturday if week == 1 else saturday_with_rdl
         expected.update({(8, 1): monday,
                          (8, 2): ["Sumo Deadlift (Barbell)", "Incline Bench Press (Dumbbell)", "Seated Row (Cable)"],
                          (8, 3): ["Squat (Low Bar)", "Bench Press (Barbell)", "Pull-Up (Weighted)"],
@@ -141,15 +144,29 @@ class DecemberRepLedProgramTests(unittest.TestCase):
         self.assertIn(f"{reps[7]} → {reps[8]}", report)
         self.assertIn(f"{(1 - reps[8] / reps[7]) * 100:.1f}% cut", report)
 
-    def test_tuesday_hinge_support_is_bounded_before_primary_squat(self):
-        for week, count in enumerate([2, 2, 2, 2, 2, 2, 2], 1):
-            sets = self.exercise(week, 2, "Romanian Deadlift (Barbell)")["sets"]
-            self.assertEqual(len(sets), count)
-            self.assertTrue(all(s["target"] == 6 and s["rpe"][-1] <= 7 for s in sets))
+    def test_relocated_rdl_and_tuesday_paused_sumos_preserve_dose(self):
+        self.assertEqual(len(self.exercise(1, 2, "Romanian Deadlift (Barbell)")["sets"]), 2)
+        self.assertNotIn("Romanian Deadlift (Barbell)",
+                         [e["name"] for e in next(w for w in self.program["workouts"]
+                                                   if (w["week"], w["day"]) == (1, 5))["exercises"]])
         for week in range(2, 8):
+            sets = self.exercise(week, 5, "Romanian Deadlift (Barbell)")["sets"]
+            self.assertEqual(len(sets), 2)
+            self.assertTrue(all(s["target"] == 6 and s["rpe"][-1] <= 7 for s in sets))
+            self.assertNotIn("Romanian Deadlift (Barbell)",
+                             [e["name"] for e in next(w for w in self.program["workouts"]
+                                                       if (w["week"], w["day"]) == (week, 2))["exercises"]])
             sets = self.exercise(week, 2, "Sumo Deadlift (Paused)")["sets"]
             self.assertEqual([s["target"] for s in sets], [3, 3, 3])
             self.assertTrue(all(s["rpe"][-1] <= 7 for s in sets))
+
+    def test_secondary_command_bench_rises_without_changing_effort_or_completed_week1(self):
+        self.assertEqual([s["target_weight_kg"] for s in self.exercise(1, 3, "Bench Press (Barbell)")["sets"]], [105]*3)
+        for week, anchor in {2:112.5, 3:112.5, 4:115, 5:115, 6:117.5, 7:120, 8:105}.items():
+            sets = self.exercise(week, 3, "Bench Press (Barbell)")["sets"]
+            self.assertTrue(all(s["target_weight_kg"] == anchor and s["rpe"] == [6, 7] for s in sets))
+            self.assertTrue(all(s["load_percent_of"] == "bench input (142.5kg)" and
+                                abs(s["load_percent"] - round(anchor / 142.5 * 100, 2)) < .011 for s in sets))
 
     def test_meet_singles_remain_nine_unknown_attempts_not_training_volume(self):
         meet = next(w for w in self.program["workouts"] if (w["week"], w["day"]) == (8, 5))
