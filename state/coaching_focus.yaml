@@ -4,7 +4,7 @@ status: active
 previous_focus_archive: state/coaching_focus_2026_jul_oct.yaml
 global_goal: >
   Prepare for the December 12, 2026 Grinchmas competition with heavy competition-lift
-  practice supported by productive rep work, not obligatory training singles. Preserve
+  practice supported by productive rep work and controlled late-block bench-only command singles. Preserve
   legal squat depth, genuine bench commands and repeatable sumo starts and lockouts.
   The October 17 reported mock-meet total was 512.5kg with unverified squat/bench
   legality; the 200kg deadlift third failed at the floor. Do not mistake historical
@@ -28,7 +28,8 @@ loading:
     Top triples in Weeks 1-3 build into Week 4's hardest first-wave triples
     @8-8.5, then Week 5 deliberately resets top effort to @7-7.5 with productive
     backoff fours. Weeks 6-7 rebuild on doubles and retain normal main-lift rep
-    work; Week 8 is the sole main-lift taper. No programmed training singles.
+    work, adding only one Wednesday bench command single before the existing double.
+    Week 8 is the sole main-lift taper: Monday's easy bench single replaces its double.
   backoffs: >
     Calculate Weeks 1-5 primary backoffs from the actual top triple using the
     current week's 90/90/89/88/90% starting ratios, then lower
@@ -49,10 +50,12 @@ bench:
   priority: >
     Completed Week 1 had Monday primary bench. In normal Weeks 2-7 Wednesday is
     primary competition squat AND primary competition bench, with its prescribed
-    top triple/double and backoffs immediately after squat; Monday is low-cost
+    top triple/double and backoffs immediately after squat; Weeks 6-7 precede the
+    bench double with one bounded command single. Monday is low-cost
     command bench. Both use a motionless competition pause with stable touch point,
-    leg drive and press symmetry. Week 8 retains its existing low-fatigue taper
-    timing. Saturday Spoto preserves bottom-range tension and leg-drive timing.
+    leg drive and press symmetry. Week 8 retains its low-fatigue taper timing;
+    its Monday bench single replaces, rather than adds to, the former double.
+    Saturday Spoto preserves bottom-range tension and leg-drive timing.
     Tuesday incline DB is a primary progression with per-hand loads.
   main_cue: Settle at the touch point, wait for the pause, then press back.
 deadlift:

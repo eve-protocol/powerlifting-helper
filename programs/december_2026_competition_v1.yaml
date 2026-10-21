@@ -1,6 +1,6 @@
 name: December 2026 Competition - Ren v1
 description: 'Eight-week rep-led Grinchmas preparation: easy but rep-rich Week 1; Ren-calibrated Week 1-5 top triples
-  and actual-top backoffs; competition doubles rather than training singles later. Normal accessories use three
+  and actual-top backoffs; competition doubles plus controlled command-pause bench singles late in the block. Normal accessories use three
   sets, RDL two; pull-ups and primary incline retain their own paths. From Week 2, Saturday RDL follows the competition
   sumo top set and two backoffs, replacing Tuesday RDL; Monday secondary command-bench anchors rise within RPE 6-7. Week 7
   preserves main-lift work with modest accessory easing; Week 8 is the sole main-lift taper. From Week 2 primary competition squat and bench share Wednesday; Monday bench is secondary after tempo squat.'
@@ -63,20 +63,21 @@ loading_guidance:
     half-up rounded to 2.5kg. Week 1 uses two easy five-rep backoffs per primary lift at RPE 6-7; Weeks 2-3 use
     fives and Weeks 4-5 fours, retaining two squat/sumo backoffs and three bench backoffs in normal weeks. Lower
     the starting load if longer sets exceed their effort cap. Weeks 6-8 doubles/backoffs use separately selected
-    anchors, not an actual-top-triple percentage.
+    anchors, not an actual-top-triple percentage; Weeks 6-7 add one bounded bench single before the double and
+    Week 8 substitutes a low-fatigue bench single for its Monday double.
   day_to_day_rule: Use the range as a starting estimate and adjust to the written RPE and legal lift quality; the
     historical 200kg deadlift input is not a current max guarantee. No proof retries after a miss. Machine anchors
     are omitted pending local setup calibration.
-  week_6: 'Rep-led specificity: one competition DOUBLE @7-8, then meaningful fours/fives. Normal secondary rep work
-    remains; no programmed primer or top singles, no proof attempts.'
+  week_6: 'Rep-led specificity: squat and sumo doubles @7-8; Wednesday bench has one command-pause single @6.5-7.5
+    before the preserved double @7-8 and three fours. Normal secondary rep work remains; no proof attempts.'
   week_7: 'Main-lift work is NOT tapered: retain Week 6 SBD-family sets/reps with a small RPE-governed load rise.
     Accessories ease from three sets to two; RDL remains two easy sets. Top doubles cap at RPE 8.5; primary incline/pull-ups
-    keep their own paths. No proof attempts.'
-  week_8: 'SOLE main-lift taper week: low-fatigue competition doubles plus bounded rep backoffs on Monday bench, Tuesday sumo
-    and Wednesday squat; Wednesday easy bench fours. Keep familiar tempo/pull-ups and easy Monday condo work; Thursday/Friday
-    off. Compare with the revised Week 7, excluding meet attempts: retain at least half of total work sets and barbell-strength
-    sets/reps/expected tonnage (including RDL in the latter scope). This is a planning preference, not permission
-    to force fatigued reps or chase tonnage.'
+    keep their own paths. Wednesday bench adds one command-pause single @7-8 before its preserved double/backoffs. No proof attempts.'
+  week_8: 'SOLE main-lift taper week: Monday bench has one low-fatigue command-pause single @6-7 INSTEAD OF its double,
+    then the original three easy fours; Tuesday sumo and Wednesday squat retain doubles/backoffs, Wednesday bench two
+    easy fours. Keep familiar support and Thursday/Friday rest. The new bench specificity changes scalar tonnage
+    and total-set retention against Week 7 slightly beyond the prior half-retention planning preference; never pad
+    meet week or chase tonnage to satisfy a ratio. No opener test or proof retry.'
   anchor_range_rule: Weeks 1-3 primary top triples retain the workbook percentage bands and independently
     2.5kg-rounded endpoints; Week 4 advances to the first-wave peak band and Week 5 deliberately resets to the lighter
     band after Ren's correction. Choose from warm-ups, RPE and legal positions; no duty to hit the top of any band.
@@ -90,10 +91,11 @@ loading_guidance:
     1RMs or extra percentage prescriptions. RPE and legal positions remain decisive. Do not assign percentages to
     RDL, incline DB, pull-ups, machines or unknown meet attempts without a defensible reference. These fields and
     kg ranges render in local program docs/coaching scripts; Boostcamp retains reps/RPE only.
-  rep_led_rule: No programmed single-repetition training sets; the nine competition attempts remain singles. Warm-up
-    reps are not an extra performance test. Heavy doubles/triples provide specific practice while moderate-RPE rep
-    work supplies the main restored dose; neither singles nor exact tonnage are universally required for strength
-    gains.
+  rep_led_rule: Only Wednesday bench in Weeks 6-7 has one controlled command-pause single before its preserved
+    double and three backoff fours; meet-week Monday bench uses one easy command single instead of its double.
+    Squat/sumo still use doubles and triples without routine singles; nine competition attempts remain singles.
+    Post-squat warm-ups, a genuine pause and written RPE govern bench load. No second proof attempt after a
+    miss, position failure or RPE overshoot. Singles are lift-specific skill practice, not required for strength.
   wave_structure: 'Week 4 is the hardest first-wave triple week (top @8-8.5). Week 5 is a modest reset (top @7-7.5,
     backoff fours remain); Weeks 6-7 rebuild with doubles and productive rep work. Week 8 reduces training fatigue
     before the December 12 meet. Do not chase a pre-meet test or keep lowering volume from Week 5 onward.'
@@ -128,9 +130,10 @@ exercise_variations:
     tempo squat. No new hinge variations or extra pulling days.
   bench: Completed Week 1 Monday primary bench and Wednesday easy commands remain historical. In Weeks 2-7 Monday
     tempo squat precedes secondary command bench (rising anchors, RPE 6-7), Tuesday primary incline DB follows pulls,
-    Wednesday primary squat precedes PRIMARY competition bench top triple/double and backoffs with genuine commands,
-    and Saturday Spoto follows sumo/RDL/light squat. Meet-week Monday retains earlier low-fatigue taper dose and Wednesday
-    easy commands; do not move a hard bench top set closer to competition merely for a weekly label.
+    Wednesday primary squat precedes PRIMARY competition bench top triple/double and backoffs with genuine commands;
+    Weeks 6-7 add one bounded command-pause bench single BEFORE the existing double. Saturday Spoto follows
+    sumo/RDL/light squat. Meet-week Monday REPLACES its easy bench double with one easy command single, leaving
+    the three fours intact; Wednesday keeps two easy fours. No hard opener test or added proof attempt.
   adductor: 'Use one hip-adductor option per week, not both: Hip adductor (Rowerg) on Wednesday at Back Alley Barbell
     in even development weeks; Hip Adductor (Machine) on Thursday at the condo in odd development weeks. Exact custom
     RowErg capitalization is case-sensitive.'
@@ -2893,9 +2896,16 @@ workouts:
       load_percent: 79.17
       load_percent_of: squat input (180kg)
   - name: Bench Press (Barbell)
-    intent: PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
+    intent: PRIMARY competition bench after primary squat, genuine command-length pause. After squat, take one controlled command-pause single around 132.5kg within its RPE gate before the preserved top double; select both from post-squat warm-ups. A missed command, failed position or effort overshoot ends heavier singles with no retry. Backoffs remain three fours; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
     role: competition_lift
     sets:
+    - target: 1
+      rpe:
+      - 6.5
+      - 7.5
+      target_weight_kg: 132.5
+      load_percent: 92.98
+      load_percent_of: bench input (142.5kg)
     - target: 2
       rpe:
       - 7
@@ -3358,9 +3368,16 @@ workouts:
       load_percent: 80.56
       load_percent_of: squat input (180kg)
   - name: Bench Press (Barbell)
-    intent: PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
+    intent: PRIMARY competition bench after primary squat, genuine command-length pause. After squat, take one controlled command-pause single around 135kg within its RPE gate before the preserved top double; select both from post-squat warm-ups. A missed command, failed position or effort overshoot ends heavier singles with no retry. Backoffs remain three fours; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
     role: competition_lift
     sets:
+    - target: 1
+      rpe:
+      - 7
+      - 8
+      target_weight_kg: 135
+      load_percent: 94.74
+      load_percent_of: bench input (142.5kg)
     - target: 2
       rpe:
       - 7.5
@@ -3625,17 +3642,17 @@ workouts:
       load_percent: 63.89
       load_percent_of: squat input (180kg)
   - name: Bench Press (Barbell)
-    intent: Low-fatigue competition DOUBLE plus three bounded fours, not an opener test. Load is reselected below
-      the former single anchor; pause every rep and stop before grinding. This is the main meet-week bench exposure;
-      do not add a single to prove readiness.
+    intent: One low-fatigue competition command-pause SINGLE around 127.5kg @6-7 REPLACES the prior double;
+      keep the original three easy fours. Choose from warm-ups and genuine commands, not a mandatory kg or opener
+      test. No heavier retry after a miss, lost pause, position failure or effort overshoot; keep the taper bounded.
     role: competition_lift
     sets:
-    - target: 2
+    - target: 1
       rpe:
       - 6
       - 7
-      target_weight_kg: 122.5
-      load_percent: 85.96
+      target_weight_kg: 127.5
+      load_percent: 89.47
       load_percent_of: bench input (142.5kg)
     - target: 4
       rpe:
