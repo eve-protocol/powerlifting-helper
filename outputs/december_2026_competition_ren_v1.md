@@ -1,6 +1,6 @@
 # December 2026 Competition - Ren v1
 
-Eight-week rep-led Grinchmas preparation: easy but rep-rich Week 1; Ren-calibrated Week 1-5 top triples and actual-top backoffs; competition doubles rather than training singles later. Normal accessories use three sets, RDL two; pull-ups and primary incline retain their own paths. From Week 2, Saturday RDL follows the competition sumo top set and two backoffs, replacing Tuesday RDL; Monday secondary command-bench anchors rise within RPE 6-7. Week 7 preserves main-lift work with modest accessory easing; Week 8 is the sole main-lift taper. From Week 2 primary competition squat and bench share Wednesday; Monday bench is secondary after tempo squat.
+Eight-week rep-led Grinchmas preparation: easy but rep-rich Week 1; Ren-calibrated Week 1-5 top triples and actual-top backoffs; competition doubles plus controlled command-pause bench singles late in the block. Normal accessories use three sets, RDL two; pull-ups and primary incline retain their own paths. From Week 2, Saturday RDL follows the competition sumo top set and two backoffs, replacing Tuesday RDL; Monday secondary command-bench anchors rise within RPE 6-7. Week 7 preserves main-lift work with modest accessory easing; Week 8 is the sole main-lift taper. From Week 2 primary competition squat and bench share Wednesday; Monday bench is secondary after tempo squat.
 
 ## Overview
 
@@ -25,9 +25,9 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 | 3 | 13,402.5–13,552.5 | +0.4% to +2.8% |
 | 4 | 12,312.5–12,412.5 | -9.1% to -7.4% |
 | 5 | 11,260–11,407.5 | -9.3% to -7.4% |
-| 6 | 11,725 | +2.8% to +4.1% |
-| 7 | 11,970 | +2.1% |
-| 8 (training only) | 6,825 | -43.0% |
+| 6 | 11,857.5 | +3.9% to +5.3% |
+| 7 | 12,105 | +2.1% |
+| 8 (training only) | 6,707.5 | -44.6% |
 
 #### Squat workload by week
 
@@ -51,9 +51,9 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 | 3 | 10 | 0.0% | 48 | 0.0% | 5,272.5–5,317.5 | +0.7% to +2.5% |
 | 4 | 9 | -10.0% | 40 | -16.7% | 4,520–4,557.5 | -15.0% to -13.6% |
 | 5 | 9 | 0.0% | 40 | 0.0% | 4,287.5–4,325 | -5.9% to -4.3% |
-| 6 | 9 | 0.0% | 36 | -10.0% | 4,090 | -5.4% to -4.6% |
-| 7 | 9 | 0.0% | 36 | 0.0% | 4,180 | +2.2% |
-| 8 (training only) | 6 | -33.3% | 22 | -38.9% | 2,405 | -42.5% |
+| 6 | 10 | +11.1% | 37 | -7.5% | 4,222.5 | -2.4% to -1.5% |
+| 7 | 10 | 0.0% | 37 | 0.0% | 4,315 | +2.2% |
+| 8 (training only) | 6 | -40.0% | 21 | -43.2% | 2,287.5 | -47.0% |
 
 #### Deadlift workload by week
 
@@ -657,15 +657,16 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 |---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 2 | 7–8 | 88.89% | squat input (180kg) | 160 |
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 79.17% | squat input (180kg) | 142.5 |
-| Bench Press (Barbell) | 1 | 2 | 7–8 | 89.47% | bench input (142.5kg) | 127.5 |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 78.95% | bench input (142.5kg) | 112.5 |
+| Bench Press (Barbell) | 1 | 1 | 6.5–7.5 | 92.98% | bench input (142.5kg) | 132.5 |
+| Bench Press (Barbell) | 2 | 2 | 7–8 | 89.47% | bench input (142.5kg) | 127.5 |
+| Bench Press (Barbell) | 3–5 | 4 | 6–7.5 | 78.95% | bench input (142.5kg) | 112.5 |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 27.5 |
 | Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
-- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. After squat, take one controlled command-pause single around 132.5kg within its RPE gate before the preserved top double; select both from post-squat warm-ups. A missed command, failed position or effort overshoot ends heavier singles with no retry. Backoffs remain three fours; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -713,7 +714,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
 | Squat | 8 | 0.0% | 32 | +3.2% | 4,365 | +7.8% to +9.3% |
-| Bench | 9 | 0.0% | 36 | -10.0% | 4,090 | -5.4% to -4.6% |
+| Bench | 10 | +11.1% | 37 | -7.5% | 4,222.5 | -2.4% to -1.5% |
 | Deadlift | 6 | 0.0% | 21 | +5.0% | 3,270 | +7.7% to +9.7% |
 
 ### Week 7
@@ -762,15 +763,16 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 |---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 2 | 7.5–8.5 | 90.28% | squat input (180kg) | 162.5 |
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 80.56% | squat input (180kg) | 145 |
-| Bench Press (Barbell) | 1 | 2 | 7.5–8.5 | 91.23% | bench input (142.5kg) | 130 |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 80.7% | bench input (142.5kg) | 115 |
+| Bench Press (Barbell) | 1 | 1 | 7–8 | 94.74% | bench input (142.5kg) | 135 |
+| Bench Press (Barbell) | 2 | 2 | 7.5–8.5 | 91.23% | bench input (142.5kg) | 130 |
+| Bench Press (Barbell) | 3–5 | 4 | 6–7.5 | 80.7% | bench input (142.5kg) | 115 |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 30 |
 | Cable Crunch | 1–2 | 12 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
-- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. After squat, take one controlled command-pause single around 135kg within its RPE gate before the preserved top double; select both from post-squat warm-ups. A missed command, failed position or effort overshoot ends heavier singles with no retry. Backoffs remain three fours; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -818,7 +820,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
 | Squat | 8 | 0.0% | 32 | 0.0% | 4,445 | +1.8% |
-| Bench | 9 | 0.0% | 36 | 0.0% | 4,180 | +2.2% |
+| Bench | 10 | 0.0% | 37 | 0.0% | 4,315 | +2.2% |
 | Deadlift | 6 | 0.0% | 21 | 0.0% | 3,345 | +2.3% |
 
 ### Week 8
@@ -830,7 +832,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 63.89% | squat input (180kg) | 115 |
-| Bench Press (Barbell) | 1 | 2 | 6–7 | 85.96% | bench input (142.5kg) | 122.5 |
+| Bench Press (Barbell) | 1 | 1 | 6–7 | 89.47% | bench input (142.5kg) | 127.5 |
 | Bench Press (Barbell) | 2–4 | 4 | 6–7 | 77.19% | bench input (142.5kg) | 110 |
 | Pull-Up (Weighted) | 1–2 | 4 | 6–7 | — | — | 15 |
 | Leg Extension | 1–2 | 12 | 6–6.5 | — | — | — |
@@ -839,7 +841,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** Familiar same-wide-stance three-second tempo squat, four reps per set at low effort. Retain controlled legal-depth practice without adding soreness or a new movement in meet week.
-- **Bench Press (Barbell):** Low-fatigue competition DOUBLE plus three bounded fours, not an opener test. Load is reselected below the former single anchor; pause every rep and stop before grinding. This is the main meet-week bench exposure; do not add a single to prove readiness.
+- **Bench Press (Barbell):** One low-fatigue competition command-pause SINGLE around 127.5kg @6-7 REPLACES the prior double; keep the original three easy fours. Choose from warm-ups and genuine commands, not a mandatory kg or opener test. No heavier retry after a miss, lost pause, position failure or effort overshoot; keep the taper bounded.
 - **Pull-Up (Weighted):** Familiar, low-cost pulling; added weight, no failure.
 - **Leg Extension:** Condo, comfortable full ROM; two familiar easy sets, no lingering quad soreness.
 - **Hip Thrust (Machine):** Condo with leg extension; two familiar easy sets, no Tuesday/Wednesday hip soreness.
@@ -905,7 +907,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
 | Squat | 6 | -25.0% | 20 | -37.5% | 2,530 | -43.1% |
-| Bench | 6 | -33.3% | 22 | -38.9% | 2,405 | -42.5% |
+| Bench | 6 | -40.0% | 21 | -43.2% | 2,287.5 | -47.0% |
 | Deadlift | 3 | -50.0% | 12 | -42.9% | 1,890 | -43.5% |
 
 **Training totals exclude:** Grinchmas competition attempts; not pre-meet training.
