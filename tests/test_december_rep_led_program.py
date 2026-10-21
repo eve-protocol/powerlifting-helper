@@ -158,11 +158,11 @@ class DecemberRepLedProgramTests(unittest.TestCase):
                                                        if (w["week"], w["day"]) == (week, 2))["exercises"]])
             sets = self.exercise(week, 2, "Sumo Deadlift (Paused)")["sets"]
             self.assertEqual([s["target"] for s in sets], [3, 3, 3])
-            self.assertTrue(all(s["rpe"][-1] <= 7 for s in sets))
+            self.assertTrue(all(s["rpe"][-1] <= (7.5 if week == 4 else 7) for s in sets))
 
     def test_secondary_command_bench_rises_without_changing_effort_or_completed_week1(self):
         self.assertEqual([s["target_weight_kg"] for s in self.exercise(1, 3, "Bench Press (Barbell)")["sets"]], [105]*3)
-        for week, anchor in {2:112.5, 3:112.5, 4:115, 5:115, 6:117.5, 7:120}.items():
+        for week, anchor in {2:112.5, 3:112.5, 4:115, 5:110, 6:117.5, 7:120}.items():
             sets = self.exercise(week, 1, "Bench Press (Barbell)")["sets"]
             self.assertTrue(all(s["target_weight_kg"] == anchor and s["rpe"] == [6, 7] for s in sets))
             self.assertTrue(all(s["load_percent_of"] == "bench input (142.5kg)" and
@@ -178,6 +178,29 @@ class DecemberRepLedProgramTests(unittest.TestCase):
             self.assertIn("Command Bench", monday["name"])
             self.assertIn("primary command-pause competition bench", wednesday["intent"])
         self.assertEqual([s["target_weight_kg"] for s in self.exercise(8, 3, "Bench Press (Barbell)")["sets"]], [105, 105])
+
+    def test_week4_peak_week5_reset_then_build_to_taper(self):
+        primary = [(3, "Squat (Low Bar)"), (3, "Bench Press (Barbell)"),
+                   (5, "Sumo Deadlift (Barbell)")]
+        for day, name in primary:
+            with self.subTest(name=name):
+                tops = {week: self.exercise(week, day, name)["sets"][0] for week in (3, 4, 5, 6, 7)}
+                self.assertEqual(tops[4]["rpe"], [8, 8.5])
+                self.assertEqual(tops[5]["rpe"], [7, 7.5])
+                self.assertGreater(tops[4]["target_weight_kg"], tops[3]["target_weight_kg"])
+                self.assertLess(tops[5]["target_weight_kg"], tops[4]["target_weight_kg"])
+                self.assertEqual([tops[6]["target"], tops[7]["target"]], [2, 2])
+                self.assertGreater(tops[7]["target_weight_kg"], tops[6]["target_weight_kg"])
+                self.assertEqual(tops[5]["load_percent"], [82.5, 85.0])
+                self.assertTrue(all(s["load_percent"] == 90.0 for s in self.exercise(5, day, name)["sets"][1:]))
+        for day, name in ((1, "Tempo Squat (Barbell)"), (2, "Sumo Deadlift (Paused)"),
+                          (1, "Pull-Up (Weighted)"), (2, "Incline Bench Press (Dumbbell)"),
+                          (5, "Romanian Deadlift (Barbell)"), (5, "Spoto Press")):
+            self.assertLess(self.exercise(5, day, name)["sets"][0]["target_weight_kg"],
+                            self.exercise(4, day, name)["sets"][0]["target_weight_kg"])
+            self.assertGreater(self.exercise(7, day, name)["sets"][0]["target_weight_kg"],
+                               self.exercise(5, day, name)["sets"][0]["target_weight_kg"])
+        self.assertIn("accessory_double_progression", self.program["loading_guidance"])
 
     def test_meet_singles_remain_nine_unknown_attempts_not_training_volume(self):
         meet = next(w for w in self.program["workouts"] if (w["week"], w["day"]) == (8, 5))

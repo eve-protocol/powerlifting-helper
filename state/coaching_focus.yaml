@@ -25,14 +25,16 @@ loading:
     The YAML kg and percentage ranges are directional anchors. Today's symptoms,
     warm-ups, legal positions and prescribed RPE determine the actual load.
     Week 1 is easy but rep-rich after the mock meet; do not add proof attempts.
-    Top triples in Weeks 1-5 use the approved RPE bands and actual-top-derived
-    backoffs. Weeks 6-7 use doubles and retain normal main-lift rep work; Week 8
-    is the sole main-lift taper. No programmed training singles.
+    Top triples in Weeks 1-3 build into Week 4's hardest first-wave triples
+    @8-8.5, then Week 5 deliberately resets top effort to @7-7.5 with productive
+    backoff fours. Weeks 6-7 rebuild on doubles and retain normal main-lift rep
+    work; Week 8 is the sole main-lift taper. No programmed training singles.
   backoffs: >
-    Calculate Weeks 1-5 primary backoffs from the actual top triple, then lower
+    Calculate Weeks 1-5 primary backoffs from the actual top triple using the
+    current week's 90/90/89/88/90% starting ratios, then lower
     loads if longer reps exceed the backoff effort cap; do not force tonnage.
   adjustment: >
-    Monday secondary bench starts from its rising weekly anchor but adjusts to genuine pause quality and RPE 6-7, never a fixed 105kg ceiling. Wednesday primary bench top/backoffs follow squat and are chosen from post-squat warm-ups and written RPE, not guaranteed kg. An isolated slow set without pain or positional failure is not a cycle rewrite.
+    Monday secondary bench follows the first-wave build, Week 5 reset, and Weeks 6-7 rebuild, but adjusts to genuine pause quality and RPE 6-7, never a fixed 105kg ceiling. Wednesday primary bench top/backoffs follow squat and are chosen from post-squat warm-ups and written RPE, not guaranteed kg. An isolated slow set without pain or positional failure is not a cycle rewrite.
     Adjust remaining work minimally when effort/positions require it. Stop heavy
     retries after a miss, escalating pain or significant technical failure.
 squat:
@@ -68,4 +70,5 @@ accessories:
   normal: Three sets per programmed movement in Weeks 1-6 except RDL at two; pull-ups and primary incline have their own progressions.
   later: Week 7 eases accessories to two sets; Week 8 retains only the programmed easy support.
   machines: Calibrate exact local setups at the prescribed RPE; no assumed cross-machine kg equivalence.
+  progression: Use smallest available stack/DB increment next comparable exposure once all prescribed sets/reps are controlled at or below mid-band RPE; otherwise repeat load and improve quality. Build Weeks 2-4, ease Week 5 by about half an RPE point where applicable, rebuild Weeks 6-7. No failure or invented machine kg targets.
   no_makeup: Never compress skipped support work into the next session.

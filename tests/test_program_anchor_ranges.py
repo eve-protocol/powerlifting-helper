@@ -13,17 +13,17 @@ from program_cli.validate_programs import validate_set
 
 
 class DecemberTripleRangeTests(unittest.TestCase):
-    def test_all_fifteen_top_triples_show_workbook_ranges(self):
+    def test_all_fifteen_top_triples_show_approved_wave_ranges(self):
         program = load_program_file(ROOT / "programs/december_2026_competition_v1.yaml")
         expected = {
             (3, "Squat (Low Bar)"): [
-                [145, 150], [147.5, 152.5], [150, 155], [155, 157.5], [157.5, 160],
+                [145, 150], [147.5, 152.5], [150, 155], [157.5, 160], [147.5, 152.5],
             ],
             (3, "Bench Press (Barbell)"): [
-                [115, 120], [117.5, 120], [120, 122.5], [122.5, 125], [125, 127.5],
+                [115, 120], [117.5, 120], [120, 122.5], [125, 127.5], [117.5, 120],
             ],
             (5, "Sumo Deadlift (Barbell)"): [
-                [162.5, 167.5], [165, 170], [167.5, 172.5], [170, 175], [175, 180],
+                [162.5, 167.5], [165, 170], [167.5, 172.5], [175, 180], [165, 170],
             ],
         }
         seen = 0

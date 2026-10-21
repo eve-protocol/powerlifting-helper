@@ -22,12 +22,12 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 |---|---|---|
 | 1 | 10,662.5–10,832.5 | — |
 | 2 | 13,177.5–13,352.5 | +21.6% to +25.2% |
-| 3 | 13,282.5–13,432.5 | -0.5% to +1.9% |
-| 4 | 11,977.5–12,077.5 | -10.8% to -9.1% |
-| 5 | 11,687.5–11,807.5 | -3.2% to -1.4% |
-| 6 | 11,680 | -1.1% to -0.1% |
-| 7 | 11,805 | +1.1% |
-| 8 (training only) | 6,825 | -42.2% |
+| 3 | 13,402.5–13,552.5 | +0.4% to +2.8% |
+| 4 | 12,312.5–12,412.5 | -9.1% to -7.4% |
+| 5 | 11,260–11,407.5 | -9.3% to -7.4% |
+| 6 | 11,725 | +2.8% to +4.1% |
+| 7 | 11,970 | +2.1% |
+| 8 (training only) | 6,825 | -43.0% |
 
 #### Squat workload by week
 
@@ -35,12 +35,12 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 |---|---|---|---|---|---|---|
 | 1 | 7 | — | 31 | — | 3,915–3,980 | — |
 | 2 | 8 | +14.3% | 36 | +16.1% | 4,667.5–4,732.5 | +17.3% to +20.9% |
-| 3 | 8 | 0.0% | 36 | 0.0% | 4,695–4,760 | -0.8% to +2.0% |
-| 4 | 8 | 0.0% | 34 | -5.6% | 4,485–4,492.5 | -5.8% to -4.3% |
-| 5 | 8 | 0.0% | 31 | -8.8% | 4,172.5–4,200 | -7.1% to -6.4% |
-| 6 | 8 | 0.0% | 32 | +3.2% | 4,365 | +3.9% to +4.6% |
-| 7 | 8 | 0.0% | 32 | 0.0% | 4,395 | +0.7% |
-| 8 (training only) | 6 | -25.0% | 20 | -37.5% | 2,530 | -42.4% |
+| 3 | 8 | 0.0% | 36 | 0.0% | 4,732.5–4,797.5 | 0.0% to +2.8% |
+| 4 | 8 | 0.0% | 34 | -5.6% | 4,587.5–4,615 | -4.4% to -2.5% |
+| 5 | 8 | 0.0% | 31 | -8.8% | 3,992.5–4,047.5 | -13.5% to -11.8% |
+| 6 | 8 | 0.0% | 32 | +3.2% | 4,365 | +7.8% to +9.3% |
+| 7 | 8 | 0.0% | 32 | 0.0% | 4,445 | +1.8% |
+| 8 (training only) | 6 | -25.0% | 20 | -37.5% | 2,530 | -43.1% |
 
 #### Bench workload by week
 
@@ -48,12 +48,12 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 |---|---|---|---|---|---|---|
 | 1 | 8 | — | 38 | — | 3,945–4,010 | — |
 | 2 | 10 | +25.0% | 48 | +26.3% | 5,190–5,235 | +29.4% to +32.7% |
-| 3 | 10 | 0.0% | 48 | 0.0% | 5,235–5,280 | 0.0% to +1.7% |
-| 4 | 9 | -10.0% | 40 | -16.7% | 4,432.5–4,470 | -16.1% to -14.6% |
-| 5 | 9 | 0.0% | 40 | 0.0% | 4,440–4,477.5 | -0.7% to +1.0% |
-| 6 | 9 | 0.0% | 36 | -10.0% | 4,090 | -8.7% to -7.9% |
-| 7 | 9 | 0.0% | 36 | 0.0% | 4,155 | +1.6% |
-| 8 (training only) | 6 | -33.3% | 22 | -38.9% | 2,405 | -42.1% |
+| 3 | 10 | 0.0% | 48 | 0.0% | 5,272.5–5,317.5 | +0.7% to +2.5% |
+| 4 | 9 | -10.0% | 40 | -16.7% | 4,520–4,557.5 | -15.0% to -13.6% |
+| 5 | 9 | 0.0% | 40 | 0.0% | 4,287.5–4,325 | -5.9% to -4.3% |
+| 6 | 9 | 0.0% | 36 | -10.0% | 4,090 | -5.4% to -4.6% |
+| 7 | 9 | 0.0% | 36 | 0.0% | 4,180 | +2.2% |
+| 8 (training only) | 6 | -33.3% | 22 | -38.9% | 2,405 | -42.5% |
 
 #### Deadlift workload by week
 
@@ -61,12 +61,12 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 |---|---|---|---|---|---|---|
 | 1 | 5 | — | 19 | — | 2,802.5–2,842.5 | — |
 | 2 | 6 | +20.0% | 22 | +15.8% | 3,320–3,385 | +16.8% to +20.8% |
-| 3 | 6 | 0.0% | 22 | 0.0% | 3,352.5–3,392.5 | -1.0% to +2.2% |
-| 4 | 6 | 0.0% | 20 | -9.1% | 3,060–3,115 | -9.8% to -7.1% |
-| 5 | 6 | 0.0% | 20 | 0.0% | 3,075–3,130 | -1.3% to +2.3% |
-| 6 | 6 | 0.0% | 21 | +5.0% | 3,225 | +3.0% to +4.9% |
-| 7 | 6 | 0.0% | 21 | 0.0% | 3,255 | +0.9% |
-| 8 (training only) | 3 | -50.0% | 12 | -42.9% | 1,890 | -41.9% |
+| 3 | 6 | 0.0% | 22 | 0.0% | 3,397.5–3,437.5 | +0.4% to +3.5% |
+| 4 | 6 | 0.0% | 20 | -9.1% | 3,205–3,240 | -6.8% to -4.6% |
+| 5 | 6 | 0.0% | 20 | 0.0% | 2,980–3,035 | -8.0% to -5.3% |
+| 6 | 6 | 0.0% | 21 | +5.0% | 3,270 | +7.7% to +9.7% |
+| 7 | 6 | 0.0% | 21 | 0.0% | 3,345 | +2.3% |
+| 8 (training only) | 3 | -50.0% | 12 | -42.9% | 1,890 | -43.5% |
 
 **Excluded from training totals, week 8:** Grinchmas competition attempts; not pre-meet training (9 sets / 9 reps).
 
@@ -74,9 +74,9 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 
 ## Load selection
 
-Weeks 1-5 primary top triples retain the exact workbook percentage bands and independently 2.5kg-rounded endpoints. Choose from warm-ups, RPE and legal positions; no duty to hit the top of the band. Backoffs are recalculated from the ACTUAL triple and adjusted for their longer rep target. Weeks 6-8 retain scalar, RPE-governed anchors specifically reselected for doubles and their backoffs; do not repeat former single weights for more reps.
+Weeks 1-3 primary top triples retain the workbook percentage bands and independently 2.5kg-rounded endpoints; Week 4 advances to the first-wave peak band and Week 5 deliberately resets to the lighter band after Ren's correction. Choose from warm-ups, RPE and legal positions; no duty to hit the top of any band. Backoffs are recalculated from the ACTUAL triple and adjusted for their longer rep target. Weeks 6-8 retain scalar, RPE-governed anchors specifically reselected for doubles and their backoffs; do not repeat former single weights for more reps.
 
-load_percent is a percentage-point number or [min,max] per set, always paired with load_percent_of. Weeks 1-5 primary top triples retain original workbook bands; backoffs use the stated percentage of the ACTUAL top triple, not of the planning max. Other squat/bench/sumo and variation percentages are indicative ratios of existing kg anchors to the relevant COMPETITION-lift input, rounded to two decimals; they are not variation 1RMs or extra percentage prescriptions. RPE and legal positions remain decisive. Do not assign percentages to RDL, incline DB, pull-ups, machines or unknown meet attempts without a defensible reference. These fields and kg ranges render in local program docs/coaching scripts; Boostcamp retains reps/RPE only.
+load_percent is a percentage-point number or [min,max] per set, always paired with load_percent_of. Weeks 1-3 primary top triples retain original workbook bands, Weeks 4-5 the revised peak/reset bands; backoffs use the stated percentage of the ACTUAL top triple, not of the planning max. Other squat/bench/sumo and variation percentages are indicative ratios of existing kg anchors to the relevant COMPETITION-lift input, rounded to two decimals; they are not variation 1RMs or extra percentage prescriptions. RPE and legal positions remain decisive. Do not assign percentages to RDL, incline DB, pull-ups, machines or unknown meet attempts without a defensible reference. These fields and kg ranges render in local program docs/coaching scripts; Boostcamp retains reps/RPE only.
 
 ## Program Structure
 
@@ -300,9 +300,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | 120 |
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 68.06% | squat input (180kg) | 122.5 |
 | Bench Press (Barbell) | 1–3 | 5 | 6–7 | 78.95% | bench input (142.5kg) | 112.5 |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 27.5 |
 | Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
 | Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
@@ -320,8 +320,8 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–8 | — | — | 45 |
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 77.5% | sumo input (200kg) | 155 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–8 | — | — | 47.5 |
 | Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
 
 **Why these movements:**
@@ -340,7 +340,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 89% | actual top triple | — | 135 (example) |
 | Bench Press (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | bench input (142.5kg) | 120–122.5 | 122.5 (start) |
 | Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 89% | actual top triple | — | 110 (example) |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 27.5 |
 | Cable Crunch | 1–3 | 12 | 6.5–7.5 | — | — | — | — |
 
 **Why these movements:**
@@ -380,9 +380,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 |---|---|---|---|---|---|---|---|
 | Sumo Deadlift (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | sumo input (200kg) | 167.5–172.5 | 170 (start) |
 | Sumo Deadlift (Barbell) | 2–3 | 5 | 6–7.5 | 89% | actual top triple | — | 152.5 (example) |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 120 |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 125 |
 | Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
-| Spoto Press | 1–3 | 5 | 6–7.5 | 73.68% | bench input (142.5kg) | — | 105 |
+| Spoto Press | 1–3 | 5 | 6–7.5 | 75.44% | bench input (142.5kg) | — | 107.5 |
 
 **Why these movements:**
 
@@ -395,9 +395,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 36 | 0.0% | 4,695–4,760 | -0.8% to +2.0% |
-| Bench | 10 | 0.0% | 48 | 0.0% | 5,235–5,280 | 0.0% to +1.7% |
-| Deadlift | 6 | 0.0% | 22 | 0.0% | 3,352.5–3,392.5 | -1.0% to +2.2% |
+| Squat | 8 | 0.0% | 36 | 0.0% | 4,732.5–4,797.5 | 0.0% to +2.8% |
+| Bench | 10 | 0.0% | 48 | 0.0% | 5,272.5–5,317.5 | +0.7% to +2.5% |
+| Deadlift | 6 | 0.0% | 22 | 0.0% | 3,397.5–3,437.5 | +0.4% to +3.5% |
 
 ### Week 4
 
@@ -407,9 +407,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | 120 |
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 69.44% | squat input (180kg) | 125 |
 | Bench Press (Barbell) | 1–3 | 5 | 6–7 | 80.7% | bench input (142.5kg) | 115 |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 30 |
 | Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
 | Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
@@ -427,8 +427,8 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7.5–8.5 | — | — | 47.5 |
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7.5 | 80% | sumo input (200kg) | 160 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7.5–8.5 | — | — | 50 |
 | Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
 
 **Why these movements:**
@@ -443,17 +443,17 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
-| Squat (Low Bar) | 1 | 3 | 7.5–8 | 85.5–88% | squat input (180kg) | 155–157.5 | 155 (start) |
+| Squat (Low Bar) | 1 | 3 | 8–8.5 | 87–89.5% | squat input (180kg) | 157.5–160 | 157.5 (start) |
 | Squat (Low Bar) | 2–3 | 4 | 6–7.5 | 88% | actual top triple | — | 137.5 (example) |
-| Bench Press (Barbell) | 1 | 3 | 7.5–8 | 85.5–88% | bench input (142.5kg) | 122.5–125 | 122.5 (start) |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 88% | actual top triple | — | 107.5 (example) |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
+| Bench Press (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | bench input (142.5kg) | 125–127.5 | 125 (start) |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 88% | actual top triple | — | 110 (example) |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 30 |
 | Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
-- **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 155-157.5kg from RPE and legal positions, then 2 productive 4-rep backoffs at 88% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
+- **Squat (Low Bar):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
+- **Bench Press (Barbell):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -483,15 +483,15 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
-| Sumo Deadlift (Barbell) | 1 | 3 | 7.5–8 | 85.5–88% | sumo input (200kg) | 170–175 | 172.5 (start) |
-| Sumo Deadlift (Barbell) | 2–3 | 4 | 6–7.5 | 88% | actual top triple | — | 152.5 (example) |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 125 |
-| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
-| Spoto Press | 1–2 | 5 | 6–7.5 | 73.68% | bench input (142.5kg) | — | 105 |
+| Sumo Deadlift (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | sumo input (200kg) | 175–180 | 175 (start) |
+| Sumo Deadlift (Barbell) | 2–3 | 4 | 6–7.5 | 88% | actual top triple | — | 155 (example) |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 130 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 79.17% | squat input (180kg) | — | 142.5 |
+| Spoto Press | 1–2 | 5 | 6–7.5 | 77.19% | bench input (142.5kg) | — | 110 |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Barbell):** PRIMARY competition sumo: one top triple selected within 170-175kg from RPE and legal positions, then 2 productive 4-rep backoffs at 88% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Sumo Deadlift (Barbell):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
 - **Romanian Deadlift (Barbell):** Two easy six-rep RDLs immediately after the competition-sumo top set and two backoffs, before light squat and Spoto. Controlled normal eccentric and comfortable ROM; cap at RPE 7, not a second heavy pull. Reduce or omit these first if Saturday quality or Monday tempo-squat recovery suffers.
 - **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
 - **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
@@ -500,9 +500,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 34 | -5.6% | 4,485–4,492.5 | -5.8% to -4.3% |
-| Bench | 9 | -10.0% | 40 | -16.7% | 4,432.5–4,470 | -16.1% to -14.6% |
-| Deadlift | 6 | 0.0% | 20 | -9.1% | 3,060–3,115 | -9.8% to -7.1% |
+| Squat | 8 | 0.0% | 34 | -5.6% | 4,587.5–4,615 | -4.4% to -2.5% |
+| Bench | 9 | -10.0% | 40 | -16.7% | 4,520–4,557.5 | -15.0% to -13.6% |
+| Deadlift | 6 | 0.0% | 20 | -9.1% | 3,205–3,240 | -6.8% to -4.6% |
 
 ### Week 5
 
@@ -512,11 +512,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 4 | 6.5–7.5 | 69.44% | squat input (180kg) | 125 |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 80.7% | bench input (142.5kg) | 115 |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
+| Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 65.28% | squat input (180kg) | 117.5 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 77.19% | bench input (142.5kg) | 110 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6–7 | — | — | 25 |
+| Leg Extension | 1–3 | 12 | 6.5–7.5 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6–7 | — | — | — |
 
 **Why these movements:**
 
@@ -532,9 +532,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 47.5 |
-| Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 72.5% | sumo input (200kg) | 145 |
+| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7–8 | — | — | 45 |
+| Seated Row (Cable) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
@@ -548,17 +548,17 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
-| Squat (Low Bar) | 1 | 3 | 8–8.5 | 87–89.5% | squat input (180kg) | 157.5–160 | 160 (start) |
-| Squat (Low Bar) | 2–3 | 4 | 6–7.5 | 86% | actual top triple | — | 137.5 (example) |
-| Bench Press (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | bench input (142.5kg) | 125–127.5 | 125 (start) |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 86% | actual top triple | — | 107.5 (example) |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
-| Cable Crunch | 1–3 | 12 | 6.5–7.5 | — | — | — | — |
+| Squat (Low Bar) | 1 | 3 | 7–7.5 | 82.5–85% | squat input (180kg) | 147.5–152.5 | 150 (start) |
+| Squat (Low Bar) | 2–3 | 4 | 6–7 | 90% | actual top triple | — | 135 (example) |
+| Bench Press (Barbell) | 1 | 3 | 7–7.5 | 82.5–85% | bench input (142.5kg) | 117.5–120 | 120 (start) |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7 | 90% | actual top triple | — | 107.5 (example) |
+| Pull-Up (Weighted) | 1–3 | 4 | 6–7 | — | — | — | 25 |
+| Cable Crunch | 1–3 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
-- **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 157.5-160kg from RPE and legal positions, then 2 productive 4-rep backoffs at 86% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
+- **Squat (Low Bar):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
+- **Bench Press (Barbell):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -568,11 +568,11 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE |
 |---|---|---|---|
-| Chest Fly (Machine) | 1–3 | 12 | 7–8 |
-| Lateral Raise (Cable) | 1–3 | 12 | 7–8 |
-| Rear Delt Fly (Dumbbell) | 1–3 | 12 | 7–8 |
-| Tricep Pushdown (Cable) | 1–3 | 10 | 7–8 |
-| Bicep Curl (Dumbbell) | 1–3 | 10 | 7–8 |
+| Chest Fly (Machine) | 1–3 | 12 | 6.5–7.5 |
+| Lateral Raise (Cable) | 1–3 | 12 | 6.5–7.5 |
+| Rear Delt Fly (Dumbbell) | 1–3 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1–3 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1–3 | 10 | 6.5–7.5 |
 | Hip Adductor (Machine) | 1–3 | 12 | 6–7 |
 
 **Why these movements:**
@@ -590,15 +590,15 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
-| Sumo Deadlift (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | sumo input (200kg) | 175–180 | 177.5 (start) |
-| Sumo Deadlift (Barbell) | 2–3 | 4 | 6–7.5 | 86% | actual top triple | — | 152.5 (example) |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 125 |
-| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
-| Spoto Press | 1–2 | 5 | 6–7.5 | 73.68% | bench input (142.5kg) | — | 105 |
+| Sumo Deadlift (Barbell) | 1 | 3 | 7–7.5 | 82.5–85% | sumo input (200kg) | 165–170 | 167.5 (start) |
+| Sumo Deadlift (Barbell) | 2–3 | 4 | 6–7 | 90% | actual top triple | — | 150 (example) |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 120 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 75% | squat input (180kg) | — | 135 |
+| Spoto Press | 1–2 | 5 | 6–7 | 71.93% | bench input (142.5kg) | — | 102.5 |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Barbell):** PRIMARY competition sumo: one top triple selected within 175-180kg from RPE and legal positions, then 2 productive 4-rep backoffs at 86% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Sumo Deadlift (Barbell):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
 - **Romanian Deadlift (Barbell):** Two easy six-rep RDLs immediately after the competition-sumo top set and two backoffs, before light squat and Spoto. Controlled normal eccentric and comfortable ROM; cap at RPE 7, not a second heavy pull. Reduce or omit these first if Saturday quality or Monday tempo-squat recovery suffers.
 - **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
 - **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
@@ -607,9 +607,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 31 | -8.8% | 4,172.5–4,200 | -7.1% to -6.4% |
-| Bench | 9 | 0.0% | 40 | 0.0% | 4,440–4,477.5 | -0.7% to +1.0% |
-| Deadlift | 6 | 0.0% | 20 | 0.0% | 3,075–3,130 | -1.3% to +2.3% |
+| Squat | 8 | 0.0% | 31 | -8.8% | 3,992.5–4,047.5 | -13.5% to -11.8% |
+| Bench | 9 | 0.0% | 40 | 0.0% | 4,287.5–4,325 | -5.9% to -4.3% |
+| Deadlift | 6 | 0.0% | 20 | 0.0% | 2,980–3,035 | -8.0% to -5.3% |
 
 ### Week 6
 
@@ -621,7 +621,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 |---|---|---|---|---|---|---|
 | Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 69.44% | squat input (180kg) | 125 |
 | Bench Press (Barbell) | 1–3 | 4 | 6–7 | 82.46% | bench input (142.5kg) | 117.5 |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 27.5 |
 | Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
 | Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
@@ -639,7 +639,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 77.5% | sumo input (200kg) | 155 |
 | Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 50 |
 | Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
 
@@ -659,7 +659,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 79.17% | squat input (180kg) | 142.5 |
 | Bench Press (Barbell) | 1 | 2 | 7–8 | 89.47% | bench input (142.5kg) | 127.5 |
 | Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 78.95% | bench input (142.5kg) | 112.5 |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 25 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 27.5 |
 | Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — |
 
 **Why these movements:**
@@ -712,9 +712,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 32 | +3.2% | 4,365 | +3.9% to +4.6% |
-| Bench | 9 | 0.0% | 36 | -10.0% | 4,090 | -8.7% to -7.9% |
-| Deadlift | 6 | 0.0% | 21 | +5.0% | 3,225 | +3.0% to +4.9% |
+| Squat | 8 | 0.0% | 32 | +3.2% | 4,365 | +7.8% to +9.3% |
+| Bench | 9 | 0.0% | 36 | -10.0% | 4,090 | -5.4% to -4.6% |
+| Deadlift | 6 | 0.0% | 21 | +5.0% | 3,270 | +7.7% to +9.7% |
 
 ### Week 7
 
@@ -724,9 +724,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 69.44% | squat input (180kg) | 125 |
+| Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 70.83% | squat input (180kg) | 127.5 |
 | Bench Press (Barbell) | 1–3 | 4 | 6–7 | 84.21% | bench input (142.5kg) | 120 |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 30 |
 | Leg Extension | 1–2 | 12 | 7–8 | — | — | — |
 | Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
@@ -744,8 +744,8 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 50 |
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 80% | sumo input (200kg) | 160 |
+| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 52.5 |
 | Seated Row (Cable) | 1–2 | 10 | 7–8 | — | — | — |
 
 **Why these movements:**
@@ -764,7 +764,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 80.56% | squat input (180kg) | 145 |
 | Bench Press (Barbell) | 1 | 2 | 7.5–8.5 | 91.23% | bench input (142.5kg) | 130 |
 | Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 80.7% | bench input (142.5kg) | 115 |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 25 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 30 |
 | Cable Crunch | 1–2 | 12 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
@@ -802,9 +802,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 |---|---|---|---|---|---|---|
 | Sumo Deadlift (Barbell) | 1 | 2 | 7.5–8.5 | 88.75% | sumo input (200kg) | 177.5 |
 | Sumo Deadlift (Barbell) | 2–3 | 5 | 6–7.5 | 77.5% | sumo input (200kg) | 155 |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 125 |
-| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | 140 |
-| Spoto Press | 1–2 | 5 | 6–7.5 | 75.44% | bench input (142.5kg) | 107.5 |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 130 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 79.17% | squat input (180kg) | 142.5 |
+| Spoto Press | 1–2 | 5 | 6–7.5 | 77.19% | bench input (142.5kg) | 110 |
 
 **Why these movements:**
 
@@ -817,9 +817,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 32 | 0.0% | 4,395 | +0.7% |
-| Bench | 9 | 0.0% | 36 | 0.0% | 4,155 | +1.6% |
-| Deadlift | 6 | 0.0% | 21 | 0.0% | 3,255 | +0.9% |
+| Squat | 8 | 0.0% | 32 | 0.0% | 4,445 | +1.8% |
+| Bench | 9 | 0.0% | 36 | 0.0% | 4,180 | +2.2% |
+| Deadlift | 6 | 0.0% | 21 | 0.0% | 3,345 | +2.3% |
 
 ### Week 8
 
@@ -904,8 +904,8 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 6 | -25.0% | 20 | -37.5% | 2,530 | -42.4% |
-| Bench | 6 | -33.3% | 22 | -38.9% | 2,405 | -42.1% |
-| Deadlift | 3 | -50.0% | 12 | -42.9% | 1,890 | -41.9% |
+| Squat | 6 | -25.0% | 20 | -37.5% | 2,530 | -43.1% |
+| Bench | 6 | -33.3% | 22 | -38.9% | 2,405 | -42.5% |
+| Deadlift | 3 | -50.0% | 12 | -42.9% | 1,890 | -43.5% |
 
 **Training totals exclude:** Grinchmas competition attempts; not pre-meet training.
