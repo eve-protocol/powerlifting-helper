@@ -1,6 +1,6 @@
 # December 2026 Competition - Ren v1
 
-Eight-week rep-led Grinchmas preparation: easy but rep-rich Week 1; Ren-calibrated Week 1-5 top triples and actual-top backoffs; competition doubles rather than training singles later. Normal accessories use three sets, RDL two; pull-ups and primary incline retain their own paths. Week 7 preserves main-lift work with modest accessory easing; Week 8 is the sole main-lift taper. Monday tempo squat precedes primary competition bench.
+Eight-week rep-led Grinchmas preparation: easy but rep-rich Week 1; Ren-calibrated Week 1-5 top triples and actual-top backoffs; competition doubles rather than training singles later. Normal accessories use three sets, RDL two; pull-ups and primary incline retain their own paths. From Week 2, Saturday RDL follows the competition sumo top set and two backoffs, replacing Tuesday RDL; Monday secondary command-bench anchors rise within RPE 6-7. Week 7 preserves main-lift work with modest accessory easing; Week 8 is the sole main-lift taper. From Week 2 primary competition squat and bench share Wednesday; Monday bench is secondary after tempo squat.
 
 ## Overview
 
@@ -21,13 +21,13 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 | Week | Expected SBD tonnage kg | Δ vs previous week |
 |---|---|---|
 | 1 | 10,662.5–10,832.5 | — |
-| 2 | 13,065–13,240 | +20.6% to +24.2% |
-| 3 | 13,170–13,320 | -0.5% to +2.0% |
-| 4 | 11,827.5–11,927.5 | -11.2% to -9.4% |
-| 5 | 11,537.5–11,657.5 | -3.3% to -1.4% |
-| 6 | 11,530 | -1.1% to -0.1% |
-| 7 | 11,625 | +0.8% |
-| 8 (training only) | 6,825 | -41.3% |
+| 2 | 13,177.5–13,352.5 | +21.6% to +25.2% |
+| 3 | 13,402.5–13,552.5 | +0.4% to +2.8% |
+| 4 | 12,312.5–12,412.5 | -9.1% to -7.4% |
+| 5 | 11,260–11,407.5 | -9.3% to -7.4% |
+| 6 | 11,725 | +2.8% to +4.1% |
+| 7 | 11,970 | +2.1% |
+| 8 (training only) | 6,825 | -43.0% |
 
 #### Squat workload by week
 
@@ -35,25 +35,25 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 |---|---|---|---|---|---|---|
 | 1 | 7 | — | 31 | — | 3,915–3,980 | — |
 | 2 | 8 | +14.3% | 36 | +16.1% | 4,667.5–4,732.5 | +17.3% to +20.9% |
-| 3 | 8 | 0.0% | 36 | 0.0% | 4,695–4,760 | -0.8% to +2.0% |
-| 4 | 8 | 0.0% | 34 | -5.6% | 4,485–4,492.5 | -5.8% to -4.3% |
-| 5 | 8 | 0.0% | 31 | -8.8% | 4,172.5–4,200 | -7.1% to -6.4% |
-| 6 | 8 | 0.0% | 32 | +3.2% | 4,365 | +3.9% to +4.6% |
-| 7 | 8 | 0.0% | 32 | 0.0% | 4,395 | +0.7% |
-| 8 (training only) | 6 | -25.0% | 20 | -37.5% | 2,530 | -42.4% |
+| 3 | 8 | 0.0% | 36 | 0.0% | 4,732.5–4,797.5 | 0.0% to +2.8% |
+| 4 | 8 | 0.0% | 34 | -5.6% | 4,587.5–4,615 | -4.4% to -2.5% |
+| 5 | 8 | 0.0% | 31 | -8.8% | 3,992.5–4,047.5 | -13.5% to -11.8% |
+| 6 | 8 | 0.0% | 32 | +3.2% | 4,365 | +7.8% to +9.3% |
+| 7 | 8 | 0.0% | 32 | 0.0% | 4,445 | +1.8% |
+| 8 (training only) | 6 | -25.0% | 20 | -37.5% | 2,530 | -43.1% |
 
 #### Bench workload by week
 
 | Week | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
 | 1 | 8 | — | 38 | — | 3,945–4,010 | — |
-| 2 | 10 | +25.0% | 48 | +26.3% | 5,077.5–5,122.5 | +26.6% to +29.8% |
-| 3 | 10 | 0.0% | 48 | 0.0% | 5,122.5–5,167.5 | 0.0% to +1.8% |
-| 4 | 9 | -10.0% | 40 | -16.7% | 4,282.5–4,320 | -17.1% to -15.7% |
-| 5 | 9 | 0.0% | 40 | 0.0% | 4,290–4,327.5 | -0.7% to +1.1% |
-| 6 | 9 | 0.0% | 36 | -10.0% | 3,940 | -9.0% to -8.2% |
-| 7 | 9 | 0.0% | 36 | 0.0% | 3,975 | +0.9% |
-| 8 (training only) | 6 | -33.3% | 22 | -38.9% | 2,405 | -39.5% |
+| 2 | 10 | +25.0% | 48 | +26.3% | 5,190–5,235 | +29.4% to +32.7% |
+| 3 | 10 | 0.0% | 48 | 0.0% | 5,272.5–5,317.5 | +0.7% to +2.5% |
+| 4 | 9 | -10.0% | 40 | -16.7% | 4,520–4,557.5 | -15.0% to -13.6% |
+| 5 | 9 | 0.0% | 40 | 0.0% | 4,287.5–4,325 | -5.9% to -4.3% |
+| 6 | 9 | 0.0% | 36 | -10.0% | 4,090 | -5.4% to -4.6% |
+| 7 | 9 | 0.0% | 36 | 0.0% | 4,180 | +2.2% |
+| 8 (training only) | 6 | -33.3% | 22 | -38.9% | 2,405 | -42.5% |
 
 #### Deadlift workload by week
 
@@ -61,12 +61,12 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 |---|---|---|---|---|---|---|
 | 1 | 5 | — | 19 | — | 2,802.5–2,842.5 | — |
 | 2 | 6 | +20.0% | 22 | +15.8% | 3,320–3,385 | +16.8% to +20.8% |
-| 3 | 6 | 0.0% | 22 | 0.0% | 3,352.5–3,392.5 | -1.0% to +2.2% |
-| 4 | 6 | 0.0% | 20 | -9.1% | 3,060–3,115 | -9.8% to -7.1% |
-| 5 | 6 | 0.0% | 20 | 0.0% | 3,075–3,130 | -1.3% to +2.3% |
-| 6 | 6 | 0.0% | 21 | +5.0% | 3,225 | +3.0% to +4.9% |
-| 7 | 6 | 0.0% | 21 | 0.0% | 3,255 | +0.9% |
-| 8 (training only) | 3 | -50.0% | 12 | -42.9% | 1,890 | -41.9% |
+| 3 | 6 | 0.0% | 22 | 0.0% | 3,397.5–3,437.5 | +0.4% to +3.5% |
+| 4 | 6 | 0.0% | 20 | -9.1% | 3,205–3,240 | -6.8% to -4.6% |
+| 5 | 6 | 0.0% | 20 | 0.0% | 2,980–3,035 | -8.0% to -5.3% |
+| 6 | 6 | 0.0% | 21 | +5.0% | 3,270 | +7.7% to +9.7% |
+| 7 | 6 | 0.0% | 21 | 0.0% | 3,345 | +2.3% |
+| 8 (training only) | 3 | -50.0% | 12 | -42.9% | 1,890 | -43.5% |
 
 **Excluded from training totals, week 8:** Grinchmas competition attempts; not pre-meet training (9 sets / 9 reps).
 
@@ -74,9 +74,9 @@ Planning estimates, not completed tonnage. Tonnage = reps × load. Week 1 has no
 
 ## Load selection
 
-Weeks 1-5 primary top triples retain the exact workbook percentage bands and independently 2.5kg-rounded endpoints. Choose from warm-ups, RPE and legal positions; no duty to hit the top of the band. Backoffs are recalculated from the ACTUAL triple and adjusted for their longer rep target. Weeks 6-8 retain scalar, RPE-governed anchors specifically reselected for doubles and their backoffs; do not repeat former single weights for more reps.
+Weeks 1-3 primary top triples retain the workbook percentage bands and independently 2.5kg-rounded endpoints; Week 4 advances to the first-wave peak band and Week 5 deliberately resets to the lighter band after Ren's correction. Choose from warm-ups, RPE and legal positions; no duty to hit the top of any band. Backoffs are recalculated from the ACTUAL triple and adjusted for their longer rep target. Weeks 6-8 retain scalar, RPE-governed anchors specifically reselected for doubles and their backoffs; do not repeat former single weights for more reps.
 
-load_percent is a percentage-point number or [min,max] per set, always paired with load_percent_of. Weeks 1-5 primary top triples retain original workbook bands; backoffs use the stated percentage of the ACTUAL top triple, not of the planning max. Other squat/bench/sumo and variation percentages are indicative ratios of existing kg anchors to the relevant COMPETITION-lift input, rounded to two decimals; they are not variation 1RMs or extra percentage prescriptions. RPE and legal positions remain decisive. Do not assign percentages to RDL, incline DB, pull-ups, machines or unknown meet attempts without a defensible reference. These fields and kg ranges render in local program docs/coaching scripts; Boostcamp retains reps/RPE only.
+load_percent is a percentage-point number or [min,max] per set, always paired with load_percent_of. Weeks 1-3 primary top triples retain original workbook bands, Weeks 4-5 the revised peak/reset bands; backoffs use the stated percentage of the ACTUAL top triple, not of the planning max. Other squat/bench/sumo and variation percentages are indicative ratios of existing kg anchors to the relevant COMPETITION-lift input, rounded to two decimals; they are not variation 1RMs or extra percentage prescriptions. RPE and legal positions remain decisive. Do not assign percentages to RDL, incline DB, pull-ups, machines or unknown meet attempts without a defensible reference. These fields and kg ranges render in local program docs/coaching scripts; Boostcamp retains reps/RPE only.
 
 ## Program Structure
 
@@ -189,61 +189,59 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 ### Week 2
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
-| Bench Press (Barbell) | 1 | 3 | 6.5–7 | 82.5–85% | bench input (142.5kg) | 117.5–120 | 120 (start) |
-| Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 90% | actual top triple | — | 107.5 (example) |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — | — |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | 120 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 78.95% | bench input (142.5kg) | 112.5 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** PRIMARY competition bench: one top triple selected within 117.5-120kg from RPE and legal positions, then 3 productive 5-rep backoffs at 90% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+#### Day 2 — Tuesday - Paused Sumo / PRIMARY Incline DB / Row
 
-**Day intent:** Preserve the Tuesday deadlift-plus-primary-incline pairing. Restore most pulling volume on Saturday; Tuesday remains technical and bounded before Wednesday squat. Meet week uses competition-sumo doubles/backoffs without RDL.
+**Day intent:** Three technical paused-at-knee triples at RPE 6-7, then primary incline dumbbells and supported row; no Tuesday RDL in Weeks 2-7. This preserves Wednesday squat quality while relocating the two easy hinge sets to Saturday.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 120 |
 | Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–8 | — | — | 45 |
 | Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday, not an enlarged Tuesday plus RDL dose. Keep RPE at or below 7; remove the existing easy RDL first if Wednesday squat quality deteriorates.
-- **Romanian Deadlift (Barbell):** Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality deteriorates.
+- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday. Keep Tuesday RPE at or below 7; do not add a fourth paused set simply to replace relocated RDL volume.
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 3 | 6.5–7 | 82.5–85% | squat input (180kg) | 147.5–152.5 | 150 (start) |
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 90% | actual top triple | — | 135 (example) |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 73.68% | bench input (142.5kg) | — | 105 |
+| Bench Press (Barbell) | 1 | 3 | 6.5–7 | 82.5–85% | bench input (142.5kg) | 117.5–120 | 120 (start) |
+| Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 90% | actual top triple | — | 107.5 (example) |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
 | Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 147.5-152.5kg from RPE and legal positions, then 2 productive 5-rep backoffs at 90% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the main bench progression. Select load for the longer set and keep RPE at or below 7, rather than forcing the old triple anchor.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -267,20 +265,22 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
-#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
+#### Day 5 — Saturday - Sumo / RDL / Light Low Bar / Spoto Bench
 
-**Day intent:** Sumo top rep work and productive backoffs, then two light low-bar rep sets and Spoto only. No fourth movement and no extra top-single test.
+**Day intent:** Competition-sumo top set and two backoffs, then two bounded RDL sixes before the light low-bar squat and Spoto bench. This explicit Saturday order places an accessory between competition lifts at Ren's request; keep the RDL easy so later positions and Monday tempo remain viable. No additional hinge sets or proof single.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
 | Sumo Deadlift (Barbell) | 1 | 3 | 6.5–7 | 82.5–85% | sumo input (200kg) | 165–170 | 167.5 (start) |
 | Sumo Deadlift (Barbell) | 2–3 | 5 | 6–7.5 | 90% | actual top triple | — | 150 (example) |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 120 |
 | Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 76.39% | squat input (180kg) | — | 137.5 |
 | Spoto Press | 1–3 | 5 | 6–7.5 | 73.68% | bench input (142.5kg) | — | 105 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** PRIMARY competition sumo: one top triple selected within 165-170kg from RPE and legal positions, then 2 productive 5-rep backoffs at 90% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Romanian Deadlift (Barbell):** Two easy six-rep RDLs immediately after the competition-sumo top set and two backoffs, before light squat and Spoto. Controlled normal eccentric and comfortable ROM; cap at RPE 7, not a second heavy pull. Reduce or omit these first if Saturday quality or Monday tempo-squat recovery suffers.
 - **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
 - **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
 
@@ -289,385 +289,171 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
 | Squat | 8 | +14.3% | 36 | +16.1% | 4,667.5–4,732.5 | +17.3% to +20.9% |
-| Bench | 10 | +25.0% | 48 | +26.3% | 5,077.5–5,122.5 | +26.6% to +29.8% |
+| Bench | 10 | +25.0% | 48 | +26.3% | 5,190–5,235 | +29.4% to +32.7% |
 | Deadlift | 6 | +20.0% | 22 | +15.8% | 3,320–3,385 | +16.8% to +20.8% |
 
 ### Week 3
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
-| Bench Press (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | bench input (142.5kg) | 120–122.5 | 122.5 (start) |
-| Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 89% | actual top triple | — | 110 (example) |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — | — |
-
-**Why these movements:**
-
-- **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** PRIMARY competition bench: one top triple selected within 120-122.5kg from RPE and legal positions, then 3 productive 5-rep backoffs at 89% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
-- **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
-
-**Day intent:** Preserve the Tuesday deadlift-plus-primary-incline pairing. Restore most pulling volume on Saturday; Tuesday remains technical and bounded before Wednesday squat. Meet week uses competition-sumo doubles/backoffs without RDL.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 120 |
-| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–8 | — | — | 45 |
-| Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
-
-**Why these movements:**
-
-- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday, not an enlarged Tuesday plus RDL dose. Keep RPE at or below 7; remove the existing easy RDL first if Wednesday squat quality deteriorates.
-- **Romanian Deadlift (Barbell):** Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality deteriorates.
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
-- **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
-
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Squat (Low Bar) | 1 | 3 | 7–7.5 | 84–86.5% | squat input (180kg) | 150–155 | 152.5 (start) |
-| Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 89% | actual top triple | — | 135 (example) |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 73.68% | bench input (142.5kg) | — | 105 |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
-| Cable Crunch | 1–3 | 12 | 6.5–7.5 | — | — | — | — |
-
-**Why these movements:**
-
-- **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 150-155kg from RPE and legal positions, then 2 productive 5-rep backoffs at 89% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the main bench progression. Select load for the longer set and keep RPE at or below 7, rather than forcing the old triple anchor.
-- **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
-- **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Machine Adductor
-
-**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
-
-| Exercise | Sets | Reps | RPE |
-|---|---|---|---|
-| Chest Fly (Machine) | 1–3 | 12 | 7–8 |
-| Lateral Raise (Cable) | 1–3 | 12 | 7–8 |
-| Rear Delt Fly (Dumbbell) | 1–3 | 12 | 7–8 |
-| Tricep Pushdown (Cable) | 1–3 | 10 | 7–8 |
-| Bicep Curl (Dumbbell) | 1–3 | 10 | 7–8 |
-| Hip Adductor (Machine) | 1–3 | 12 | 6–7 |
-
-**Why these movements:**
-
-- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Hip Adductor (Machine):** Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness before Saturday sumo. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
-
-**Day intent:** Sumo top rep work and productive backoffs, then two light low-bar rep sets and Spoto only. No fourth movement and no extra top-single test.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Sumo Deadlift (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | sumo input (200kg) | 167.5–172.5 | 170 (start) |
-| Sumo Deadlift (Barbell) | 2–3 | 5 | 6–7.5 | 89% | actual top triple | — | 152.5 (example) |
-| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
-| Spoto Press | 1–3 | 5 | 6–7.5 | 73.68% | bench input (142.5kg) | — | 105 |
-
-**Why these movements:**
-
-- **Sumo Deadlift (Barbell):** PRIMARY competition sumo: one top triple selected within 167.5-172.5kg from RPE and legal positions, then 2 productive 5-rep backoffs at 89% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
-- **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
-
-#### Weekly Big 3 Volume
-
-| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
-|---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 36 | 0.0% | 4,695–4,760 | -0.8% to +2.0% |
-| Bench | 10 | 0.0% | 48 | 0.0% | 5,122.5–5,167.5 | 0.0% to +1.8% |
-| Deadlift | 6 | 0.0% | 22 | 0.0% | 3,352.5–3,392.5 | -1.0% to +2.2% |
-
-### Week 4
-
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
-
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
-| Bench Press (Barbell) | 1 | 3 | 7.5–8 | 85.5–88% | bench input (142.5kg) | 122.5–125 | 122.5 (start) |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 88% | actual top triple | — | 107.5 (example) |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — | — |
-
-**Why these movements:**
-
-- **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** PRIMARY competition bench: one top triple selected within 122.5-125kg from RPE and legal positions, then 3 productive 4-rep backoffs at 88% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
-- **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
-
-**Day intent:** Preserve the Tuesday deadlift-plus-primary-incline pairing. Restore most pulling volume on Saturday; Tuesday remains technical and bounded before Wednesday squat. Meet week uses competition-sumo doubles/backoffs without RDL.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
-|---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 125 |
-| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7.5–8.5 | — | — | 47.5 |
-| Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
-
-**Why these movements:**
-
-- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday, not an enlarged Tuesday plus RDL dose. Keep RPE at or below 7; remove the existing easy RDL first if Wednesday squat quality deteriorates.
-- **Romanian Deadlift (Barbell):** Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality deteriorates.
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
-- **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
-
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Squat (Low Bar) | 1 | 3 | 7.5–8 | 85.5–88% | squat input (180kg) | 155–157.5 | 155 (start) |
-| Squat (Low Bar) | 2–3 | 4 | 6–7.5 | 88% | actual top triple | — | 137.5 (example) |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 73.68% | bench input (142.5kg) | — | 105 |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
-| Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — | — |
-
-**Why these movements:**
-
-- **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 155-157.5kg from RPE and legal positions, then 2 productive 4-rep backoffs at 88% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the main bench progression. Select load for the longer set and keep RPE at or below 7, rather than forcing the old triple anchor.
-- **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
-- **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 4 — Thursday - Condo Chest / Delts / Arms
-
-**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
-
-| Exercise | Sets | Reps | RPE |
-|---|---|---|---|
-| Chest Fly (Machine) | 1–3 | 12 | 7–8 |
-| Lateral Raise (Cable) | 1–3 | 12 | 7–8 |
-| Rear Delt Fly (Dumbbell) | 1–3 | 12 | 7–8 |
-| Tricep Pushdown (Cable) | 1–3 | 10 | 7–8 |
-| Bicep Curl (Dumbbell) | 1–3 | 10 | 7–8 |
-
-**Why these movements:**
-
-- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
-
-**Day intent:** Sumo top rep work and productive backoffs, then two light low-bar rep sets and Spoto only. No fourth movement and no extra top-single test.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Sumo Deadlift (Barbell) | 1 | 3 | 7.5–8 | 85.5–88% | sumo input (200kg) | 170–175 | 172.5 (start) |
-| Sumo Deadlift (Barbell) | 2–3 | 4 | 6–7.5 | 88% | actual top triple | — | 152.5 (example) |
-| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
-| Spoto Press | 1–2 | 5 | 6–7.5 | 73.68% | bench input (142.5kg) | — | 105 |
-
-**Why these movements:**
-
-- **Sumo Deadlift (Barbell):** PRIMARY competition sumo: one top triple selected within 170-175kg from RPE and legal positions, then 2 productive 4-rep backoffs at 88% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
-- **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
-
-#### Weekly Big 3 Volume
-
-| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
-|---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 34 | -5.6% | 4,485–4,492.5 | -5.8% to -4.3% |
-| Bench | 9 | -10.0% | 40 | -16.7% | 4,282.5–4,320 | -17.1% to -15.7% |
-| Deadlift | 6 | 0.0% | 20 | -9.1% | 3,060–3,115 | -9.8% to -7.1% |
-
-### Week 5
-
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
-
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 4 | 6.5–7.5 | 69.44% | squat input (180kg) | — | 125 |
-| Bench Press (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | bench input (142.5kg) | 125–127.5 | 125 (start) |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 86% | actual top triple | — | 107.5 (example) |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — | — |
-
-**Why these movements:**
-
-- **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** PRIMARY competition bench: one top triple selected within 125-127.5kg from RPE and legal positions, then 3 productive 4-rep backoffs at 86% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
-- **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
-
-**Day intent:** Preserve the Tuesday deadlift-plus-primary-incline pairing. Restore most pulling volume on Saturday; Tuesday remains technical and bounded before Wednesday squat. Meet week uses competition-sumo doubles/backoffs without RDL.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
-|---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 125 |
-| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 47.5 |
-| Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
-
-**Why these movements:**
-
-- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday, not an enlarged Tuesday plus RDL dose. Keep RPE at or below 7; remove the existing easy RDL first if Wednesday squat quality deteriorates.
-- **Romanian Deadlift (Barbell):** Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality deteriorates.
-- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
-- **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
-
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Squat (Low Bar) | 1 | 3 | 8–8.5 | 87–89.5% | squat input (180kg) | 157.5–160 | 160 (start) |
-| Squat (Low Bar) | 2–3 | 4 | 6–7.5 | 86% | actual top triple | — | 137.5 (example) |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 73.68% | bench input (142.5kg) | — | 105 |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
-| Cable Crunch | 1–3 | 12 | 6.5–7.5 | — | — | — | — |
-
-**Why these movements:**
-
-- **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 157.5-160kg from RPE and legal positions, then 2 productive 4-rep backoffs at 86% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the main bench progression. Select load for the longer set and keep RPE at or below 7, rather than forcing the old triple anchor.
-- **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
-- **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 4 — Thursday - Condo Chest / Delts / Arms / Machine Adductor
-
-**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
-
-| Exercise | Sets | Reps | RPE |
-|---|---|---|---|
-| Chest Fly (Machine) | 1–3 | 12 | 7–8 |
-| Lateral Raise (Cable) | 1–3 | 12 | 7–8 |
-| Rear Delt Fly (Dumbbell) | 1–3 | 12 | 7–8 |
-| Tricep Pushdown (Cable) | 1–3 | 10 | 7–8 |
-| Bicep Curl (Dumbbell) | 1–3 | 10 | 7–8 |
-| Hip Adductor (Machine) | 1–3 | 12 | 6–7 |
-
-**Why these movements:**
-
-- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-- **Hip Adductor (Machine):** Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness before Saturday sumo. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
-
-#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
-
-**Day intent:** Sumo top rep work and productive backoffs, then two light low-bar rep sets and Spoto only. No fourth movement and no extra top-single test.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Sumo Deadlift (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | sumo input (200kg) | 175–180 | 177.5 (start) |
-| Sumo Deadlift (Barbell) | 2–3 | 4 | 6–7.5 | 86% | actual top triple | — | 152.5 (example) |
-| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
-| Spoto Press | 1–2 | 5 | 6–7.5 | 73.68% | bench input (142.5kg) | — | 105 |
-
-**Why these movements:**
-
-- **Sumo Deadlift (Barbell):** PRIMARY competition sumo: one top triple selected within 175-180kg from RPE and legal positions, then 2 productive 4-rep backoffs at 86% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
-- **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
-
-#### Weekly Big 3 Volume
-
-| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
-|---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 31 | -8.8% | 4,172.5–4,200 | -7.1% to -6.4% |
-| Bench | 9 | 0.0% | 40 | 0.0% | 4,290–4,327.5 | -0.7% to +1.1% |
-| Deadlift | 6 | 0.0% | 20 | 0.0% | 3,075–3,130 | -1.3% to +2.3% |
-
-### Week 6
-
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
-
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
-
-| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
-|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 69.44% | squat input (180kg) | 125 |
-| Bench Press (Barbell) | 1 | 2 | 7–8 | 89.47% | bench input (142.5kg) | 127.5 |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 78.95% | bench input (142.5kg) | 112.5 |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 68.06% | squat input (180kg) | 122.5 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 78.95% | bench input (142.5kg) | 112.5 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 27.5 |
 | Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
 | Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+#### Day 2 — Tuesday - Paused Sumo / PRIMARY Incline DB / Row
 
-**Day intent:** Preserve the Tuesday deadlift-plus-primary-incline pairing. Restore most pulling volume on Saturday; Tuesday remains technical and bounded before Wednesday squat. Meet week uses competition-sumo doubles/backoffs without RDL.
+**Day intent:** Three technical paused-at-knee triples at RPE 6-7, then primary incline dumbbells and supported row; no Tuesday RDL in Weeks 2-7. This preserves Wednesday squat quality while relocating the two easy hinge sets to Saturday.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 125 |
-| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 50 |
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 77.5% | sumo input (200kg) | 155 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7–8 | — | — | 47.5 |
 | Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday, not an enlarged Tuesday plus RDL dose. Keep RPE at or below 7; remove the existing easy RDL first if Wednesday squat quality deteriorates.
-- **Romanian Deadlift (Barbell):** Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality deteriorates.
+- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday. Keep Tuesday RPE at or below 7; do not add a fourth paused set simply to replace relocated RDL volume.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
+- **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
+
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 7–7.5 | 84–86.5% | squat input (180kg) | 150–155 | 152.5 (start) |
+| Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 89% | actual top triple | — | 135 (example) |
+| Bench Press (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | bench input (142.5kg) | 120–122.5 | 122.5 (start) |
+| Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 89% | actual top triple | — | 110 (example) |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 27.5 |
+| Cable Crunch | 1–3 | 12 | 6.5–7.5 | — | — | — | — |
+
+**Why these movements:**
+
+- **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 150-155kg from RPE and legal positions, then 2 productive 5-rep backoffs at 89% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
+- **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Machine Adductor
+
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
+
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1–3 | 12 | 7–8 |
+| Lateral Raise (Cable) | 1–3 | 12 | 7–8 |
+| Rear Delt Fly (Dumbbell) | 1–3 | 12 | 7–8 |
+| Tricep Pushdown (Cable) | 1–3 | 10 | 7–8 |
+| Bicep Curl (Dumbbell) | 1–3 | 10 | 7–8 |
+| Hip Adductor (Machine) | 1–3 | 12 | 6–7 |
+
+**Why these movements:**
+
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Hip Adductor (Machine):** Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness before Saturday sumo. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 5 — Saturday - Sumo / RDL / Light Low Bar / Spoto Bench
+
+**Day intent:** Competition-sumo top set and two backoffs, then two bounded RDL sixes before the light low-bar squat and Spoto bench. This explicit Saturday order places an accessory between competition lifts at Ren's request; keep the RDL easy so later positions and Monday tempo remain viable. No additional hinge sets or proof single.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | sumo input (200kg) | 167.5–172.5 | 170 (start) |
+| Sumo Deadlift (Barbell) | 2–3 | 5 | 6–7.5 | 89% | actual top triple | — | 152.5 (example) |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 125 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | — | 140 |
+| Spoto Press | 1–3 | 5 | 6–7.5 | 75.44% | bench input (142.5kg) | — | 107.5 |
+
+**Why these movements:**
+
+- **Sumo Deadlift (Barbell):** PRIMARY competition sumo: one top triple selected within 167.5-172.5kg from RPE and legal positions, then 2 productive 5-rep backoffs at 89% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Romanian Deadlift (Barbell):** Two easy six-rep RDLs immediately after the competition-sumo top set and two backoffs, before light squat and Spoto. Controlled normal eccentric and comfortable ROM; cap at RPE 7, not a second heavy pull. Reduce or omit these first if Saturday quality or Monday tempo-squat recovery suffers.
+- **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
+- **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 8 | 0.0% | 36 | 0.0% | 4,732.5–4,797.5 | 0.0% to +2.8% |
+| Bench | 10 | 0.0% | 48 | 0.0% | 5,272.5–5,317.5 | +0.7% to +2.5% |
+| Deadlift | 6 | 0.0% | 22 | 0.0% | 3,397.5–3,437.5 | +0.4% to +3.5% |
+
+### Week 4
+
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
+
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 69.44% | squat input (180kg) | 125 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 80.7% | bench input (142.5kg) | 115 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 30 |
+| Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
+
+**Why these movements:**
+
+- **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
+- **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
+- **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 2 — Tuesday - Paused Sumo / PRIMARY Incline DB / Row
+
+**Day intent:** Three technical paused-at-knee triples at RPE 6-7, then primary incline dumbbells and supported row; no Tuesday RDL in Weeks 2-7. This preserves Wednesday squat quality while relocating the two easy hinge sets to Saturday.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7.5 | 80% | sumo input (200kg) | 160 |
+| Incline Bench Press (Dumbbell) | 1–3 | 6 | 7.5–8.5 | — | — | 50 |
+| Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
+
+**Why these movements:**
+
+- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday. Keep Tuesday RPE at or below 7; do not add a fourth paused set simply to replace relocated RDL volume.
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
-| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
-|---|---|---|---|---|---|---|
-| Squat (Low Bar) | 1 | 2 | 7–8 | 88.89% | squat input (180kg) | 160 |
-| Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 79.17% | squat input (180kg) | 142.5 |
-| Bench Press (Barbell) | 1–3 | 4 | 6–7 | 73.68% | bench input (142.5kg) | 105 |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 25 |
-| Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 8–8.5 | 87–89.5% | squat input (180kg) | 157.5–160 | 157.5 (start) |
+| Squat (Low Bar) | 2–3 | 4 | 6–7.5 | 88% | actual top triple | — | 137.5 (example) |
+| Bench Press (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | bench input (142.5kg) | 125–127.5 | 125 (start) |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 88% | actual top triple | — | 110 (example) |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 30 |
+| Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
-- **Squat (Low Bar):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the main bench progression. Select load for the longer set and keep RPE at or below 7, rather than forcing the old triple anchor.
+- **Squat (Low Bar):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
+- **Bench Press (Barbell):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -691,20 +477,22 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
-#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
+#### Day 5 — Saturday - Sumo / RDL / Light Low Bar / Spoto Bench
 
-**Day intent:** Sumo top rep work and productive backoffs, then two light low-bar rep sets and Spoto only. No fourth movement and no extra top-single test.
+**Day intent:** Competition-sumo top set and two backoffs, then two bounded RDL sixes before the light low-bar squat and Spoto bench. This explicit Saturday order places an accessory between competition lifts at Ren's request; keep the RDL easy so later positions and Monday tempo remain viable. No additional hinge sets or proof single.
 
-| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
-|---|---|---|---|---|---|---|
-| Sumo Deadlift (Barbell) | 1 | 2 | 7–8 | 87.5% | sumo input (200kg) | 175 |
-| Sumo Deadlift (Barbell) | 2–3 | 5 | 6–7.5 | 76.25% | sumo input (200kg) | 152.5 |
-| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | 140 |
-| Spoto Press | 1–2 | 5 | 6–7.5 | 75.44% | bench input (142.5kg) | 107.5 |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | sumo input (200kg) | 175–180 | 175 (start) |
+| Sumo Deadlift (Barbell) | 2–3 | 4 | 6–7.5 | 88% | actual top triple | — | 155 (example) |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 130 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 79.17% | squat input (180kg) | — | 142.5 |
+| Spoto Press | 1–2 | 5 | 6–7.5 | 77.19% | bench input (142.5kg) | — | 110 |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Barbell):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
+- **Sumo Deadlift (Barbell):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
+- **Romanian Deadlift (Barbell):** Two easy six-rep RDLs immediately after the competition-sumo top set and two backoffs, before light squat and Spoto. Controlled normal eccentric and comfortable ROM; cap at RPE 7, not a second heavy pull. Reduce or omit these first if Saturday quality or Monday tempo-squat recovery suffers.
 - **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
 - **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
 
@@ -712,67 +500,277 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 32 | +3.2% | 4,365 | +3.9% to +4.6% |
-| Bench | 9 | 0.0% | 36 | -10.0% | 3,940 | -9.0% to -8.2% |
-| Deadlift | 6 | 0.0% | 21 | +5.0% | 3,225 | +3.0% to +4.9% |
+| Squat | 8 | 0.0% | 34 | -5.6% | 4,587.5–4,615 | -4.4% to -2.5% |
+| Bench | 9 | -10.0% | 40 | -16.7% | 4,520–4,557.5 | -15.0% to -13.6% |
+| Deadlift | 6 | 0.0% | 20 | -9.1% | 3,205–3,240 | -6.8% to -4.6% |
 
-### Week 7
+### Week 5
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 65.28% | squat input (180kg) | 117.5 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 77.19% | bench input (142.5kg) | 110 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6–7 | — | — | 25 |
+| Leg Extension | 1–3 | 12 | 6.5–7.5 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6–7 | — | — | — |
+
+**Why these movements:**
+
+- **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
+- **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
+- **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 2 — Tuesday - Paused Sumo / PRIMARY Incline DB / Row
+
+**Day intent:** Three technical paused-at-knee triples at RPE 6-7, then primary incline dumbbells and supported row; no Tuesday RDL in Weeks 2-7. This preserves Wednesday squat quality while relocating the two easy hinge sets to Saturday.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 72.5% | sumo input (200kg) | 145 |
+| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7–8 | — | — | 45 |
+| Seated Row (Cable) | 1–3 | 10 | 6.5–7.5 | — | — | — |
+
+**Why these movements:**
+
+- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday. Keep Tuesday RPE at or below 7; do not add a fourth paused set simply to replace relocated RDL volume.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
+- **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
+
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 3 | 7–7.5 | 82.5–85% | squat input (180kg) | 147.5–152.5 | 150 (start) |
+| Squat (Low Bar) | 2–3 | 4 | 6–7 | 90% | actual top triple | — | 135 (example) |
+| Bench Press (Barbell) | 1 | 3 | 7–7.5 | 82.5–85% | bench input (142.5kg) | 117.5–120 | 120 (start) |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7 | 90% | actual top triple | — | 107.5 (example) |
+| Pull-Up (Weighted) | 1–3 | 4 | 6–7 | — | — | — | 25 |
+| Cable Crunch | 1–3 | 12 | 6–7 | — | — | — | — |
+
+**Why these movements:**
+
+- **Squat (Low Bar):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
+- **Bench Press (Barbell):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
+- **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 4 — Thursday - Condo Chest / Delts / Arms / Machine Adductor
+
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
+
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1–3 | 12 | 6.5–7.5 |
+| Lateral Raise (Cable) | 1–3 | 12 | 6.5–7.5 |
+| Rear Delt Fly (Dumbbell) | 1–3 | 12 | 6.5–7.5 |
+| Tricep Pushdown (Cable) | 1–3 | 10 | 6.5–7.5 |
+| Bicep Curl (Dumbbell) | 1–3 | 10 | 6.5–7.5 |
+| Hip Adductor (Machine) | 1–3 | 12 | 6–7 |
+
+**Why these movements:**
+
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Hip Adductor (Machine):** Condo only on weeks without Wednesday RowErg adductor; controlled comfortable ROM and no lingering soreness before Saturday sumo. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 5 — Saturday - Sumo / RDL / Light Low Bar / Spoto Bench
+
+**Day intent:** Competition-sumo top set and two backoffs, then two bounded RDL sixes before the light low-bar squat and Spoto bench. This explicit Saturday order places an accessory between competition lifts at Ren's request; keep the RDL easy so later positions and Monday tempo remain viable. No additional hinge sets or proof single.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
+|---|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 3 | 7–7.5 | 82.5–85% | sumo input (200kg) | 165–170 | 167.5 (start) |
+| Sumo Deadlift (Barbell) | 2–3 | 4 | 6–7 | 90% | actual top triple | — | 150 (example) |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | — | 120 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 75% | squat input (180kg) | — | 135 |
+| Spoto Press | 1–2 | 5 | 6–7 | 71.93% | bench input (142.5kg) | — | 102.5 |
+
+**Why these movements:**
+
+- **Sumo Deadlift (Barbell):** First-wave peak in Week 4 or deliberate Week 5 reset. Choose top triple from the listed band and RPE after prior work; backoffs use the stated percentage of the ACTUAL top triple, rounded to 2.5kg and lowered if four-rep effort exceeds its cap. No proof single.
+- **Romanian Deadlift (Barbell):** Two easy six-rep RDLs immediately after the competition-sumo top set and two backoffs, before light squat and Spoto. Controlled normal eccentric and comfortable ROM; cap at RPE 7, not a second heavy pull. Reduce or omit these first if Saturday quality or Monday tempo-squat recovery suffers.
+- **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
+- **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 8 | 0.0% | 31 | -8.8% | 3,992.5–4,047.5 | -13.5% to -11.8% |
+| Bench | 9 | 0.0% | 40 | 0.0% | 4,287.5–4,325 | -5.9% to -4.3% |
+| Deadlift | 6 | 0.0% | 20 | 0.0% | 2,980–3,035 | -8.0% to -5.3% |
+
+### Week 6
+
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
+
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 69.44% | squat input (180kg) | 125 |
-| Bench Press (Barbell) | 1 | 2 | 7.5–8.5 | 91.23% | bench input (142.5kg) | 130 |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 80.7% | bench input (142.5kg) | 115 |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Bench Press (Barbell) | 1–3 | 4 | 6–7 | 82.46% | bench input (142.5kg) | 117.5 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 27.5 |
+| Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
+
+**Why these movements:**
+
+- **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
+- **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
+- **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 2 — Tuesday - Paused Sumo / PRIMARY Incline DB / Row
+
+**Day intent:** Three technical paused-at-knee triples at RPE 6-7, then primary incline dumbbells and supported row; no Tuesday RDL in Weeks 2-7. This preserves Wednesday squat quality while relocating the two easy hinge sets to Saturday.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 77.5% | sumo input (200kg) | 155 |
+| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 50 |
+| Seated Row (Cable) | 1–3 | 10 | 7–8 | — | — | — |
+
+**Why these movements:**
+
+- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday. Keep Tuesday RPE at or below 7; do not add a fourth paused set simply to replace relocated RDL volume.
+- **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
+- **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
+
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Squat (Low Bar) | 1 | 2 | 7–8 | 88.89% | squat input (180kg) | 160 |
+| Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 79.17% | squat input (180kg) | 142.5 |
+| Bench Press (Barbell) | 1 | 2 | 7–8 | 89.47% | bench input (142.5kg) | 127.5 |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 78.95% | bench input (142.5kg) | 112.5 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 27.5 |
+| Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — |
+
+**Why these movements:**
+
+- **Squat (Low Bar):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
+- **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
+- **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 4 — Thursday - Condo Chest / Delts / Arms
+
+**Day intent:** Accessories ONLY at the condo. Existing machines, DBs and cable; Friday full rest before heavy Saturday sumo. No new heavy hinge or grip work.
+
+| Exercise | Sets | Reps | RPE |
+|---|---|---|---|
+| Chest Fly (Machine) | 1–3 | 12 | 7–8 |
+| Lateral Raise (Cable) | 1–3 | 12 | 7–8 |
+| Rear Delt Fly (Dumbbell) | 1–3 | 12 | 7–8 |
+| Tricep Pushdown (Cable) | 1–3 | 10 | 7–8 |
+| Bicep Curl (Dumbbell) | 1–3 | 10 | 7–8 |
+
+**Why these movements:**
+
+- **Chest Fly (Machine):** Condo chest fly, controlled full ROM; no hard failure before Saturday Spoto. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Lateral Raise (Cable):** Condo: use the locally tolerable bilateral setting; do not force the coarse 10-to-15kg jump or asymmetric reps. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Rear Delt Fly (Dumbbell):** Chest-supported dumbbells at the condo; replaces poorly incremented condo rear-delt cables. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+- **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
+
+#### Day 5 — Saturday - Sumo / RDL / Light Low Bar / Spoto Bench
+
+**Day intent:** Competition-sumo top set and two backoffs, then two bounded RDL sixes before the light low-bar squat and Spoto bench. This explicit Saturday order places an accessory between competition lifts at Ren's request; keep the RDL easy so later positions and Monday tempo remain viable. No additional hinge sets or proof single.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Sumo Deadlift (Barbell) | 1 | 2 | 7–8 | 87.5% | sumo input (200kg) | 175 |
+| Sumo Deadlift (Barbell) | 2–3 | 5 | 6–7.5 | 76.25% | sumo input (200kg) | 152.5 |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 125 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | 140 |
+| Spoto Press | 1–2 | 5 | 6–7.5 | 75.44% | bench input (142.5kg) | 107.5 |
+
+**Why these movements:**
+
+- **Sumo Deadlift (Barbell):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
+- **Romanian Deadlift (Barbell):** Two easy six-rep RDLs immediately after the competition-sumo top set and two backoffs, before light squat and Spoto. Controlled normal eccentric and comfortable ROM; cap at RPE 7, not a second heavy pull. Reduce or omit these first if Saturday quality or Monday tempo-squat recovery suffers.
+- **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
+- **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
+
+#### Weekly Big 3 Volume
+
+| Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
+|---|---|---|---|---|---|---|
+| Squat | 8 | 0.0% | 32 | +3.2% | 4,365 | +7.8% to +9.3% |
+| Bench | 9 | 0.0% | 36 | -10.0% | 4,090 | -5.4% to -4.6% |
+| Deadlift | 6 | 0.0% | 21 | +5.0% | 3,270 | +7.7% to +9.7% |
+
+### Week 7
+
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
+
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
+
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 70.83% | squat input (180kg) | 127.5 |
+| Bench Press (Barbell) | 1–3 | 4 | 6–7 | 84.21% | bench input (142.5kg) | 120 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 30 |
 | Leg Extension | 1–2 | 12 | 7–8 | — | — | — |
 | Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
-#### Day 2 — Tuesday - Paused Sumo / RDL Backoff / PRIMARY Incline DB / Row
+#### Day 2 — Tuesday - Paused Sumo / PRIMARY Incline DB / Row
 
-**Day intent:** Preserve the Tuesday deadlift-plus-primary-incline pairing. Restore most pulling volume on Saturday; Tuesday remains technical and bounded before Wednesday squat. Meet week uses competition-sumo doubles/backoffs without RDL.
+**Day intent:** Three technical paused-at-knee triples at RPE 6-7, then primary incline dumbbells and supported row; no Tuesday RDL in Weeks 2-7. This preserves Wednesday squat quality while relocating the two easy hinge sets to Saturday.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
-| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 75% | sumo input (200kg) | 150 |
-| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 125 |
-| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 50 |
+| Sumo Deadlift (Paused) | 1–3 | 3 | 6–7 | 80% | sumo input (200kg) | 160 |
+| Incline Bench Press (Dumbbell) | 1–3 | 5 | 7.5–8.5 | — | — | 52.5 |
 | Seated Row (Cable) | 1–2 | 10 | 7–8 | — | — | — |
 
 **Why these movements:**
 
-- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday, not an enlarged Tuesday plus RDL dose. Keep RPE at or below 7; remove the existing easy RDL first if Wednesday squat quality deteriorates.
-- **Romanian Deadlift (Barbell):** Two easy six-rep hinge BACKOFF sets directly after paused sumo, including Week 1. Controlled normal eccentric and comfortable ROM, not exaggerated stretching or a load test. Calibrate the first set and lighten the second if needed to retain the effort cap; this is the first support work removed if Wednesday squat quality deteriorates.
+- **Sumo Deadlift (Paused):** Three-rep positional work at the top edge of the knee with a true one-second stop and connected finish. The main restored pull volume is Saturday. Keep Tuesday RPE at or below 7; do not add a fourth paused set simply to replace relocated RDL volume.
 - **Incline Bench Press (Dumbbell):** PRIMARY incline progression, per hand, after pulling; full ROM and its own load/rep targets. Not a token accessory. Leave Wednesday competition squat and command bench viable.
 - **Seated Row (Cable):** Supported upper-back work, moderate grip/torso cost before Wednesday. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 2 | 7.5–8.5 | 90.28% | squat input (180kg) | 162.5 |
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 80.56% | squat input (180kg) | 145 |
-| Bench Press (Barbell) | 1–3 | 4 | 6–7 | 73.68% | bench input (142.5kg) | 105 |
-| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 25 |
+| Bench Press (Barbell) | 1 | 2 | 7.5–8.5 | 91.23% | bench input (142.5kg) | 130 |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 80.7% | bench input (142.5kg) | 115 |
+| Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 30 |
 | Cable Crunch | 1–2 | 12 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the main bench progression. Select load for the longer set and keep RPE at or below 7, rather than forcing the old triple anchor.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -796,20 +794,22 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 - **Tricep Pushdown (Cable):** Condo rope attachment, previously pain-free; no unsupported overhead extension. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Bicep Curl (Dumbbell):** Seated DB curls; avoid the painful condo preacher setup. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
-#### Day 5 — Saturday - SBD Only: Heavy Sumo / Light Low Bar / Spoto Bench
+#### Day 5 — Saturday - Sumo / RDL / Light Low Bar / Spoto Bench
 
-**Day intent:** Sumo top rep work and productive backoffs, then two light low-bar rep sets and Spoto only. No fourth movement and no extra top-single test.
+**Day intent:** Competition-sumo top set and two backoffs, then two bounded RDL sixes before the light low-bar squat and Spoto bench. This explicit Saturday order places an accessory between competition lifts at Ren's request; keep the RDL easy so later positions and Monday tempo remain viable. No additional hinge sets or proof single.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Sumo Deadlift (Barbell) | 1 | 2 | 7.5–8.5 | 88.75% | sumo input (200kg) | 177.5 |
 | Sumo Deadlift (Barbell) | 2–3 | 5 | 6–7.5 | 77.5% | sumo input (200kg) | 155 |
-| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 77.78% | squat input (180kg) | 140 |
-| Spoto Press | 1–2 | 5 | 6–7.5 | 75.44% | bench input (142.5kg) | 107.5 |
+| Romanian Deadlift (Barbell) | 1–2 | 6 | 6–7 | — | — | 130 |
+| Squat (Low Bar) | 1–2 | 4 | 5.5–6.5 | 79.17% | squat input (180kg) | 142.5 |
+| Spoto Press | 1–2 | 5 | 6–7.5 | 77.19% | bench input (142.5kg) | 110 |
 
 **Why these movements:**
 
 - **Sumo Deadlift (Barbell):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
+- **Romanian Deadlift (Barbell):** Two easy six-rep RDLs immediately after the competition-sumo top set and two backoffs, before light squat and Spoto. Controlled normal eccentric and comfortable ROM; cap at RPE 7, not a second heavy pull. Reduce or omit these first if Saturday quality or Monday tempo-squat recovery suffers.
 - **Squat (Low Bar):** Useful low-bar rep practice after sumo: four controlled competition-depth reps per set, same wider stance, chest and hips together. Keep the effort low; these are not extra heavy squat sets or token singles.
 - **Spoto Press:** Five-rep Spoto sets with a true one-second hover 1-2cm above the touch point and active leg drive. Load is a variation anchor, not copied from the workbook; keep the last rep inside RPE 7.5.
 
@@ -817,9 +817,9 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 8 | 0.0% | 32 | 0.0% | 4,395 | +0.7% |
-| Bench | 9 | 0.0% | 36 | 0.0% | 3,975 | +0.9% |
-| Deadlift | 6 | 0.0% | 21 | 0.0% | 3,255 | +0.9% |
+| Squat | 8 | 0.0% | 32 | 0.0% | 4,445 | +1.8% |
+| Bench | 9 | 0.0% | 36 | 0.0% | 4,180 | +2.2% |
+| Deadlift | 6 | 0.0% | 21 | 0.0% | 3,345 | +2.3% |
 
 ### Week 8
 
@@ -904,8 +904,8 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 | Lift | Sets | Δ sets | Reps | Δ reps | Tonnage kg | Δ tonnage |
 |---|---|---|---|---|---|---|
-| Squat | 6 | -25.0% | 20 | -37.5% | 2,530 | -42.4% |
-| Bench | 6 | -33.3% | 22 | -38.9% | 2,405 | -39.5% |
-| Deadlift | 3 | -50.0% | 12 | -42.9% | 1,890 | -41.9% |
+| Squat | 6 | -25.0% | 20 | -37.5% | 2,530 | -43.1% |
+| Bench | 6 | -33.3% | 22 | -38.9% | 2,405 | -42.5% |
+| Deadlift | 3 | -50.0% | 12 | -42.9% | 1,890 | -43.5% |
 
 **Training totals exclude:** Grinchmas competition attempts; not pre-meet training.

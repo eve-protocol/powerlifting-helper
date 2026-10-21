@@ -15,24 +15,26 @@ schedule:
   training_days: [monday, tuesday, wednesday, thursday, saturday]
   friday_and_sunday: rest
   week_8_thursday_and_friday: rest
-  monday: gym tempo squat, primary bench and weighted pull-ups; condo leg extension and hip thrust later
-  tuesday: paused sumo, easy RDL, primary incline dumbbell and row
-  wednesday: primary low-bar squat, easy command bench, pull-ups and selected accessory
+  monday: Week 1 completed primary bench; Weeks 2-7 gym tempo squat, secondary command bench and pull-ups, condo legs later; meet week keeps taper
+  tuesday: paused sumo, primary incline dumbbell and row; Week 1 completed RDL stays historical, Weeks 2-7 omit it
+  wednesday: Weeks 2-7 primary low-bar squat then primary competition bench with genuine commands, pull-ups and selected accessory; meet-week easy bench
   thursday: condo chest, shoulders, arms and alternating machine adductor
-  saturday: competition sumo, light low-bar squat and Spoto; no added accessories
+  saturday: Week 1 sumo/squat/Spoto; Weeks 2-7 sumo top plus two backoffs, two easy RDLs, light squat, Spoto
 loading:
   rule: >
     The YAML kg and percentage ranges are directional anchors. Today's symptoms,
     warm-ups, legal positions and prescribed RPE determine the actual load.
     Week 1 is easy but rep-rich after the mock meet; do not add proof attempts.
-    Top triples in Weeks 1-5 use the approved RPE bands and actual-top-derived
-    backoffs. Weeks 6-7 use doubles and retain normal main-lift rep work; Week 8
-    is the sole main-lift taper. No programmed training singles.
+    Top triples in Weeks 1-3 build into Week 4's hardest first-wave triples
+    @8-8.5, then Week 5 deliberately resets top effort to @7-7.5 with productive
+    backoff fours. Weeks 6-7 rebuild on doubles and retain normal main-lift rep
+    work; Week 8 is the sole main-lift taper. No programmed training singles.
   backoffs: >
-    Calculate Weeks 1-5 primary backoffs from the actual top triple, then lower
+    Calculate Weeks 1-5 primary backoffs from the actual top triple using the
+    current week's 90/90/89/88/90% starting ratios, then lower
     loads if longer reps exceed the backoff effort cap; do not force tonnage.
   adjustment: >
-    An isolated slow set without pain or positional failure is not a cycle rewrite.
+    Monday secondary bench follows the first-wave build, Week 5 reset, and Weeks 6-7 rebuild, but adjusts to genuine pause quality and RPE 6-7, never a fixed 105kg ceiling. Wednesday primary bench top/backoffs follow squat and are chosen from post-squat warm-ups and written RPE, not guaranteed kg. An isolated slow set without pain or positional failure is not a cycle rewrite.
     Adjust remaining work minimally when effort/positions require it. Stop heavy
     retries after a miss, escalating pain or significant technical failure.
 squat:
@@ -45,21 +47,28 @@ squat:
   evaluation: Obtain a side or useful quarter angle for heavy depth assessment; front video alone cannot certify depth.
 bench:
   priority: >
-    Monday primary competition bench and Wednesday low-cost command practice use
-    a motionless competition pause with stable touch point, leg drive and press
-    symmetry. Saturday Spoto preserves bottom-range tension and leg-drive timing.
+    Completed Week 1 had Monday primary bench. In normal Weeks 2-7 Wednesday is
+    primary competition squat AND primary competition bench, with its prescribed
+    top triple/double and backoffs immediately after squat; Monday is low-cost
+    command bench. Both use a motionless competition pause with stable touch point,
+    leg drive and press symmetry. Week 8 retains its existing low-fatigue taper
+    timing. Saturday Spoto preserves bottom-range tension and leg-drive timing.
     Tuesday incline DB is a primary progression with per-hand loads.
   main_cue: Settle at the touch point, wait for the pause, then press back.
 deadlift:
   priority: >
     Tuesday paused sumo stops for a true second at the top edge of the knee with
-    bar/legs connected; Saturday sumo is the heavy primary pull. October 17's
+    bar/legs connected; its three sets in Weeks 2-7 need no fourth merely because
+    RDL moved. Saturday sumo is the heavy primary pull, followed immediately by
+    two bounded RDL sixes before light squat and Spoto from Week 2. October 17's
     190kg make and 200kg floor-break miss call for repeatable start setup AND
     stacked knee-to-lockout mechanics, not an assumption that floor strength is
-    already solved. Keep RDL easy and remove it first if Wednesday squat suffers.
+    already solved. Keep RDL easy and remove it first if later Saturday positions
+    or Monday tempo squat suffer. Do not make up the moved RDL on Tuesday.
   main_cue: Wedge to break the floor; stay connected through the knee and finish stacked.
 accessories:
   normal: Three sets per programmed movement in Weeks 1-6 except RDL at two; pull-ups and primary incline have their own progressions.
   later: Week 7 eases accessories to two sets; Week 8 retains only the programmed easy support.
   machines: Calibrate exact local setups at the prescribed RPE; no assumed cross-machine kg equivalence.
+  progression: Use smallest available stack/DB increment next comparable exposure once all prescribed sets/reps are controlled at or below mid-band RPE; otherwise repeat load and improve quality. Build Weeks 2-4, ease Week 5 by about half an RPE point where applicable, rebuild Weeks 6-7. No failure or invented machine kg targets.
   no_makeup: Never compress skipped support work into the next session.

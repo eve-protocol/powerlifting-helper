@@ -1,6 +1,6 @@
 # Rep-led Grinchmas workload review
 
-**Current review snapshot:** previous **completed logged work** versus the original draft and current **expected** work. Updated for three-set accessories, two-set RDL and a rep-rich Week 1; no old planned anchors substitute for actual work.
+**Baseline review snapshot, before the prospective Saturday RDL/Wednesday bench PR and Week 4 peak/Week 5 reset revision:** previous **completed logged work** versus original draft and then-approved **expected** work. Tables below preserve that baseline. The final addendum supplies revised totals; do not call older columns current. No old planned anchors substitute for actual work.
 
 Historical source: `outputs/history_clean.md` at `595f1881090a5b1229fe88d362874541cfa8e2e4` (history update `73c3178`), SHA256 `08d38bc701a67d1ba2062566ef69dbf4ca126b00665fe788a4844b8507273696`. Reconciled 39 actual sessions / 172 SBD set records: Volume Block v7 Weeks 1–6 plus Strength Block v6 Weeks 1–2. The Week 5 Tuesday relocation skip remains absent; made reps before a failed target still count.
 
@@ -64,3 +64,20 @@ Week 7 now deliberately eases accessory sets, as approved; it does **not** taper
 - Historical record provenance/source hash reconciled; no history/state edits.
 - Pure offline Boostcamp conversion preserves every revised rep/RPE, excluding local load/percentage metadata. No API write performed.
 - This is a review snapshot; recalculate if prescription or accounting sources change.
+
+## Prospective review-PR accounting (replaces the baseline *new expected* columns above)
+
+**Day allocation:** Weeks 2-7 swap the complete bench prescriptions: Wednesday after primary squat now carries the primary top triple/double plus backoffs, and Monday after tempo squat has secondary command bench. The revised 112.5→120kg lower-cost bench anchors below apply to **Monday**, not Wednesday. This swap does not change weekly bench-family sets/reps/tonnage; Week 1 completed sessions and meet-week taper remain unchanged.
+
+- Relocating two RDL sixes from Tuesday to Saturday in each of Weeks 2-7 changes **no weekly RDL sets, reps or scalar-anchor tonnage**. Week 1's completed Tuesday dose and Week 8 remain as originally written. Tuesday paused sumo remains three triples in Weeks 2-7.
+- Secondary bench load-anchor changes add **112.5 / 112.5 / 150 / 150 / 150 / 180kg** to SBD-family expected tonnage in Weeks 2-7 respectively; **855kg** in the eight-week total, without changing sets, reps or RPE. New eight-week SBD totals are **175 sets / 717 reps / 91,097.5–91,812.5kg**, versus 110,394.5kg of previous completed work. New bench-family expected total is **33,892.5–34,122.5kg**, versus 35,690kg previous completed. Other lift-family totals and the scope exclusions above remain unchanged.
+- Revised normal Weeks 2-7 SBD expected tonnage is **73,610–74,155kg**, versus 81,420kg previous completed. Week 7 SBD-family scalar tonnage is **11,805kg**; broader barbell-strength including RDL is **25 sets / 101 reps / 13,305kg**. Week 8 remains **15 / 54 / 6,825kg**, retaining **51.3%** of broader barbell-strength scalar tonnage against Week 7. All-exercise sets remain **52 → 26**; broader barbell-strength sets/reps **25 → 15 / 101 → 54**. The mixed-exercise total reps remain **343 → 140 (59.2% cut)**, outside the stated half-retention scope.
+- This is anchor-based comparison, **not** an equal-percentage stimulus claim. The original planning maxima (180 squat, 142.5 bench, 200 sumo), all primary Week 1-5 triple kg bands/RPE and actual-top backoff percentages, and all nine meet attempt slots remain unchanged. The revised workout order is intentionally different in Weeks 2-7; old order-invariance claims above belong only to the archived baseline.
+
+## Final wave-revision accounting (supersedes the first PR addendum above)
+
+Week 4 is the hardest first-wave triple week, Week 5 modestly resets effort and anchors without deleting its backoff fours, Weeks 6-7 rebuild on doubles and rep work, and Week 8 remains the training taper before meet attempts. **Weeks 4-5 primary top kg bands, RPE and actual-top backoff ratios intentionally change** from the original workbook and the first PR addendum; Weeks 1-3 completed/near-term formulas stay intact. Accessory stack/DB progression is RPE-driven on a consistent setup, not fabricated kg.
+
+- Expected SBD-family kg ranges, excluding RDL and meet attempts, Weeks 1–8: **10,662.5–10,832.5 / 13,177.5–13,352.5 / 13,402.5–13,552.5 / 12,312.5–12,412.5 / 11,260–11,407.5 / 11,725 / 11,970 / 6,825**. Week 4 carries the highest first-wave top-set intensity despite lower total tonnage than Week 3 because backoffs switch from fives to fours; Week 5 resets, then Week 7 builds back up. Eight-week total **91,335–92,077.5kg**, versus **110,394.5kg previous completed**, or **17.3–16.6% less scalar tonnage**. Set/reps remain **175 / 717**, not a claim of equivalent stimulus.
+- Normal Weeks 2–7 now **73,847.5–74,420kg**, against **81,420kg previous completed** (about **9.3–8.6% lower**). Bench-family eight-week expected **33,890–34,120kg**. Other lifts retain the same accounting scope; exact ranges are generated by the production workload calculation with actual-top plate rounding, not hand-added midpoint guesses.
+- Week 7 broader barbell-strength including relocated Saturday RDL: **25 sets / 101 reps / 13,530kg**; Week 8 unchanged **15 / 54 / 6,825kg**. Retained **50.4%** of expected broader tonnage, plus >50% of barbell sets/reps and exactly 50% of all-exercise work sets (**52 → 26**). This near-threshold *planned* margin is not permission to force Week 8 load or pad accessories after a harder actual Week 7. Total mixed-exercise reps still **343 → 140 (59.2% cut)**, outside the defined half-retention scope.
