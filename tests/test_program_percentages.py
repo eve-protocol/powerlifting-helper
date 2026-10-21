@@ -23,10 +23,7 @@ class DecemberPercentageTests(unittest.TestCase):
             "Sumo Deadlift (Barbell)": (200, "sumo input (200kg)"),
             "Sumo Deadlift (Paused)": (200, "sumo input (200kg)"),
         }
-        primary_days = {
-            "Bench Press (Barbell)": 1, "Squat (Low Bar)": 3,
-            "Sumo Deadlift (Barbell)": 5,
-        }
+        primary_days = {"Squat (Low Bar)": 3, "Sumo Deadlift (Barbell)": 5}
         guidance = program["loading_guidance"]["top_triples_weeks_1_to_5"]
         seen = 0
         for workout in program["workouts"]:
@@ -40,8 +37,9 @@ class DecemberPercentageTests(unittest.TestCase):
                             self.assertNotIn("load_percent", prescription)
                             continue
                         proxy, basis = bases[name]
-                        primary = (workout["week"] <= 5
-                                   and workout["day"] == primary_days.get(name))
+                        primary_day = ((1 if workout["week"] == 1 else 3)
+                                       if name == "Bench Press (Barbell)" else primary_days.get(name))
+                        primary = workout["week"] <= 5 and workout["day"] == primary_day
                         if primary and index == 0:
                             expected = [round(p * 100, 3) for p in
                                         guidance[workout["week"] - 1]["e1rm_pct_range"]]

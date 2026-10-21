@@ -15,9 +15,9 @@ schedule:
   training_days: [monday, tuesday, wednesday, thursday, saturday]
   friday_and_sunday: rest
   week_8_thursday_and_friday: rest
-  monday: gym tempo squat, primary bench and weighted pull-ups; condo leg extension and hip thrust later
+  monday: Week 1 completed primary bench; Weeks 2-7 gym tempo squat, secondary command bench and pull-ups, condo legs later; meet week keeps taper
   tuesday: paused sumo, primary incline dumbbell and row; Week 1 completed RDL stays historical, Weeks 2-7 omit it
-  wednesday: primary low-bar squat, command bench with progressing start anchors but RPE 6-7, pull-ups and selected accessory
+  wednesday: Weeks 2-7 primary low-bar squat then primary competition bench with genuine commands, pull-ups and selected accessory; meet-week easy bench
   thursday: condo chest, shoulders, arms and alternating machine adductor
   saturday: Week 1 sumo/squat/Spoto; Weeks 2-7 sumo top plus two backoffs, two easy RDLs, light squat, Spoto
 loading:
@@ -32,7 +32,7 @@ loading:
     Calculate Weeks 1-5 primary backoffs from the actual top triple, then lower
     loads if longer reps exceed the backoff effort cap; do not force tonnage.
   adjustment: >
-    Wednesday bench starts from its rising weekly anchor but adjusts to genuine pause quality and RPE 6-7, never a fixed 105kg ceiling. An isolated slow set without pain or positional failure is not a cycle rewrite.
+    Monday secondary bench starts from its rising weekly anchor but adjusts to genuine pause quality and RPE 6-7, never a fixed 105kg ceiling. Wednesday primary bench top/backoffs follow squat and are chosen from post-squat warm-ups and written RPE, not guaranteed kg. An isolated slow set without pain or positional failure is not a cycle rewrite.
     Adjust remaining work minimally when effort/positions require it. Stop heavy
     retries after a miss, escalating pain or significant technical failure.
 squat:
@@ -45,9 +45,12 @@ squat:
   evaluation: Obtain a side or useful quarter angle for heavy depth assessment; front video alone cannot certify depth.
 bench:
   priority: >
-    Monday primary competition bench and Wednesday low-cost command practice use
-    a motionless competition pause with stable touch point, leg drive and press
-    symmetry. Saturday Spoto preserves bottom-range tension and leg-drive timing.
+    Completed Week 1 had Monday primary bench. In normal Weeks 2-7 Wednesday is
+    primary competition squat AND primary competition bench, with its prescribed
+    top triple/double and backoffs immediately after squat; Monday is low-cost
+    command bench. Both use a motionless competition pause with stable touch point,
+    leg drive and press symmetry. Week 8 retains its existing low-fatigue taper
+    timing. Saturday Spoto preserves bottom-range tension and leg-drive timing.
     Tuesday incline DB is a primary progression with per-hand loads.
   main_cue: Settle at the touch point, wait for the pause, then press back.
 deadlift:

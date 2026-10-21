@@ -1,6 +1,6 @@
 # December 2026 Competition - Ren v1
 
-Eight-week rep-led Grinchmas preparation: easy but rep-rich Week 1; Ren-calibrated Week 1-5 top triples and actual-top backoffs; competition doubles rather than training singles later. Normal accessories use three sets, RDL two; pull-ups and primary incline retain their own paths. From Week 2, Saturday RDL follows the competition sumo top set and two backoffs, replacing Tuesday RDL; Wednesday command bench anchors rise within RPE 6-7. Week 7 preserves main-lift work with modest accessory easing; Week 8 is the sole main-lift taper. Monday tempo squat precedes primary competition bench.
+Eight-week rep-led Grinchmas preparation: easy but rep-rich Week 1; Ren-calibrated Week 1-5 top triples and actual-top backoffs; competition doubles rather than training singles later. Normal accessories use three sets, RDL two; pull-ups and primary incline retain their own paths. From Week 2, Saturday RDL follows the competition sumo top set and two backoffs, replacing Tuesday RDL; Monday secondary command-bench anchors rise within RPE 6-7. Week 7 preserves main-lift work with modest accessory easing; Week 8 is the sole main-lift taper. From Week 2 primary competition squat and bench share Wednesday; Monday bench is secondary after tempo squat.
 
 ## Overview
 
@@ -189,23 +189,22 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 ### Week 2
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
-| Bench Press (Barbell) | 1 | 3 | 6.5–7 | 82.5–85% | bench input (142.5kg) | 117.5–120 | 120 (start) |
-| Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 90% | actual top triple | — | 107.5 (example) |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — | — |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | 120 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 78.95% | bench input (142.5kg) | 112.5 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** PRIMARY competition bench: one top triple selected within 117.5-120kg from RPE and legal positions, then 3 productive 5-rep backoffs at 90% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
@@ -228,20 +227,21 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 3 | 6.5–7 | 82.5–85% | squat input (180kg) | 147.5–152.5 | 150 (start) |
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 90% | actual top triple | — | 135 (example) |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 78.95% | bench input (142.5kg) | — | 112.5 |
+| Bench Press (Barbell) | 1 | 3 | 6.5–7 | 82.5–85% | bench input (142.5kg) | 117.5–120 | 120 (start) |
+| Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 90% | actual top triple | — | 107.5 (example) |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
 | Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 147.5-152.5kg from RPE and legal positions, then 2 productive 5-rep backoffs at 90% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the heavier primary bench progression. Starting load rises modestly with demonstrated paused five/four-rep capacity; select it after squat warm-ups and keep a genuine motionless pause and RPE at or below 7.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -294,23 +294,22 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 ### Week 3
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
-| Bench Press (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | bench input (142.5kg) | 120–122.5 | 122.5 (start) |
-| Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 89% | actual top triple | — | 110 (example) |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — | — |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | 120 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 78.95% | bench input (142.5kg) | 112.5 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** PRIMARY competition bench: one top triple selected within 120-122.5kg from RPE and legal positions, then 3 productive 5-rep backoffs at 89% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
@@ -333,20 +332,21 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 3 | 7–7.5 | 84–86.5% | squat input (180kg) | 150–155 | 152.5 (start) |
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 89% | actual top triple | — | 135 (example) |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 78.95% | bench input (142.5kg) | — | 112.5 |
+| Bench Press (Barbell) | 1 | 3 | 7–7.5 | 84–86.5% | bench input (142.5kg) | 120–122.5 | 122.5 (start) |
+| Bench Press (Barbell) | 2–4 | 5 | 6–7.5 | 89% | actual top triple | — | 110 (example) |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
 | Cable Crunch | 1–3 | 12 | 6.5–7.5 | — | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 150-155kg from RPE and legal positions, then 2 productive 5-rep backoffs at 89% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the heavier primary bench progression. Starting load rises modestly with demonstrated paused five/four-rep capacity; select it after squat warm-ups and keep a genuine motionless pause and RPE at or below 7.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -401,23 +401,22 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 ### Week 4
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | — | 120 |
-| Bench Press (Barbell) | 1 | 3 | 7.5–8 | 85.5–88% | bench input (142.5kg) | 122.5–125 | 122.5 (start) |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 88% | actual top triple | — | 107.5 (example) |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — | — |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Tempo Squat (Barbell) | 1–3 | 5 | 6.5–7.5 | 66.67% | squat input (180kg) | 120 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 80.7% | bench input (142.5kg) | 115 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** PRIMARY competition bench: one top triple selected within 122.5-125kg from RPE and legal positions, then 3 productive 4-rep backoffs at 88% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
@@ -440,20 +439,21 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 3 | 7.5–8 | 85.5–88% | squat input (180kg) | 155–157.5 | 155 (start) |
 | Squat (Low Bar) | 2–3 | 4 | 6–7.5 | 88% | actual top triple | — | 137.5 (example) |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 80.7% | bench input (142.5kg) | — | 115 |
+| Bench Press (Barbell) | 1 | 3 | 7.5–8 | 85.5–88% | bench input (142.5kg) | 122.5–125 | 122.5 (start) |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 88% | actual top triple | — | 107.5 (example) |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
 | Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 155-157.5kg from RPE and legal positions, then 2 productive 4-rep backoffs at 88% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the heavier primary bench progression. Starting load rises modestly with demonstrated paused five/four-rep capacity; select it after squat warm-ups and keep a genuine motionless pause and RPE at or below 7.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -506,23 +506,22 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 ### Week 5
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
-| Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
-|---|---|---|---|---|---|---|---|
-| Tempo Squat (Barbell) | 1–3 | 4 | 6.5–7.5 | 69.44% | squat input (180kg) | — | 125 |
-| Bench Press (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | bench input (142.5kg) | 125–127.5 | 125 (start) |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 86% | actual top triple | — | 107.5 (example) |
-| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | — | 25 |
-| Leg Extension | 1–3 | 12 | 7–8 | — | — | — | — |
-| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — | — |
+| Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
+|---|---|---|---|---|---|---|
+| Tempo Squat (Barbell) | 1–3 | 4 | 6.5–7.5 | 69.44% | squat input (180kg) | 125 |
+| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 80.7% | bench input (142.5kg) | 115 |
+| Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
+| Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
+| Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** PRIMARY competition bench: one top triple selected within 125-127.5kg from RPE and legal positions, then 3 productive 4-rep backoffs at 86% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
@@ -545,20 +544,21 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Range kg | Anchor kg |
 |---|---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 3 | 8–8.5 | 87–89.5% | squat input (180kg) | 157.5–160 | 160 (start) |
 | Squat (Low Bar) | 2–3 | 4 | 6–7.5 | 86% | actual top triple | — | 137.5 (example) |
-| Bench Press (Barbell) | 1–3 | 5 | 6–7 | 80.7% | bench input (142.5kg) | — | 115 |
+| Bench Press (Barbell) | 1 | 3 | 8–8.5 | 87–89.5% | bench input (142.5kg) | 125–127.5 | 125 (start) |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 86% | actual top triple | — | 107.5 (example) |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | — | 25 |
 | Cable Crunch | 1–3 | 12 | 6.5–7.5 | — | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** PRIMARY competition squat: one top triple selected within 157.5-160kg from RPE and legal positions, then 2 productive 4-rep backoffs at 86% of the ACTUAL top triple, plate-rounded. Backoff kg are examples, not a duty to hold weight when the added reps exceed RPE 7.5; reduce the load rather than turn the rep work into repeated tests. No extra calibration single.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the heavier primary bench progression. Starting load rises modestly with demonstrated paused five/four-rep capacity; select it after squat warm-ups and keep a genuine motionless pause and RPE at or below 7.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -613,15 +613,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 ### Week 6
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 69.44% | squat input (180kg) | 125 |
-| Bench Press (Barbell) | 1 | 2 | 7–8 | 89.47% | bench input (142.5kg) | 127.5 |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 78.95% | bench input (142.5kg) | 112.5 |
+| Bench Press (Barbell) | 1–3 | 4 | 6–7 | 82.46% | bench input (142.5kg) | 117.5 |
 | Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
 | Leg Extension | 1–3 | 12 | 7–8 | — | — | — |
 | Hip Thrust (Machine) | 1–3 | 10 | 6.5–7.5 | — | — | — |
@@ -629,7 +628,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
@@ -652,20 +651,21 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / RowErg Adductor
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 2 | 7–8 | 88.89% | squat input (180kg) | 160 |
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 79.17% | squat input (180kg) | 142.5 |
-| Bench Press (Barbell) | 1–3 | 4 | 6–7 | 82.46% | bench input (142.5kg) | 117.5 |
+| Bench Press (Barbell) | 1 | 2 | 7–8 | 89.47% | bench input (142.5kg) | 127.5 |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 78.95% | bench input (142.5kg) | 112.5 |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 25 |
 | Hip adductor (Rowerg) | 1–3 | 12 | 6–7 | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the heavier primary bench progression. Starting load rises modestly with demonstrated paused five/four-rep capacity; select it after squat warm-ups and keep a genuine motionless pause and RPE at or below 7.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Hip adductor (Rowerg):** At BACK ALLEY BARBELL only, after both Big 3 lifts and pull-ups. Controlled sliding adduction/ROM, no grinders or soreness that harms Saturday sumo. NOT the condo adductor machine. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 
@@ -718,15 +718,14 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 ### Week 7
 
-#### Day 1 — Monday - Tempo Squat / Primary Bench / Pull-Ups + Condo Legs / Hip Thrust
+#### Day 1 — Monday - Tempo Squat / Command Bench / Pull-Ups + Condo Legs / Hip Thrust
 
-**Day intent:** Familiar tempo squat before rep-led primary bench and pull-ups, followed by the same two easy condo movements. Preserve the accepted five-movement gym-plus-condo exception; no added exercises.
+**Day intent:** Tempo squat before low-cost command bench and pull-ups, followed by the same two condo movements. Wednesday carries the primary squat and competition bench top/backoff work.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Tempo Squat (Barbell) | 1–3 | 4 | 6–7 | 69.44% | squat input (180kg) | 125 |
-| Bench Press (Barbell) | 1 | 2 | 7.5–8.5 | 91.23% | bench input (142.5kg) | 130 |
-| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 80.7% | bench input (142.5kg) | 115 |
+| Bench Press (Barbell) | 1–3 | 4 | 6–7 | 84.21% | bench input (142.5kg) | 120 |
 | Pull-Up (Weighted) | 1–3 | 5 | 6.5–7.5 | — | — | 25 |
 | Leg Extension | 1–2 | 12 | 7–8 | — | — | — |
 | Hip Thrust (Machine) | 1–2 | 10 | 6.5–7.5 | — | — | — |
@@ -734,7 +733,7 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 **Why these movements:**
 
 - **Tempo Squat (Barbell):** SAME wider low-bar competition stance in squat shoes: controlled three-second eccentric, decisive reversal at legal depth, normal ascent with chest and hips together. No demand for extra knee-forward travel.
-- **Bench Press (Barbell):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
+- **Bench Press (Barbell):** Secondary low-cost competition-pause bench after tempo squat. Settle every rep and keep RPE 6-7; the rising start anchor is not a second heavy top set. Preserve Wednesday's main squat-and-bench dose.
 - **Pull-Up (Weighted):** First of two meaningful weekly pull-up sessions, external load only.
 - **Leg Extension:** Condo machine after returning home; full comfortable ROM; leave reps in reserve. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 - **Hip Thrust (Machine):** Condo later Monday with leg extension, not Saturday. Controlled ROM and low soreness; protect Tuesday pulling and Wednesday primary squat. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
@@ -757,20 +756,21 @@ load_percent is a percentage-point number or [min,max] per set, always paired wi
 
 #### Day 3 — Wednesday - Competition Squat / Bench / Pull-Ups / Cable Crunch
 
-**Day intent:** Primary competition squat followed immediately by low-cost command-pause bench, then the existing pull-up/accessory slots. Rep work is productive, not a reason to overshoot the session effort caps.
+**Day intent:** Primary competition squat followed immediately by primary command-pause competition bench top/backoffs, then pull-ups and the existing support slot. Choose bench after squat warm-ups; keep full pause and effort limits, not a second proof test.
 
 | Exercise | Sets | Reps | RPE | Load % | % reference | Anchor kg |
 |---|---|---|---|---|---|---|
 | Squat (Low Bar) | 1 | 2 | 7.5–8.5 | 90.28% | squat input (180kg) | 162.5 |
 | Squat (Low Bar) | 2–3 | 5 | 6–7.5 | 80.56% | squat input (180kg) | 145 |
-| Bench Press (Barbell) | 1–3 | 4 | 6–7 | 84.21% | bench input (142.5kg) | 120 |
+| Bench Press (Barbell) | 1 | 2 | 7.5–8.5 | 91.23% | bench input (142.5kg) | 130 |
+| Bench Press (Barbell) | 2–4 | 4 | 6–7.5 | 80.7% | bench input (142.5kg) | 115 |
 | Pull-Up (Weighted) | 1–3 | 4 | 6.5–7.5 | — | — | 25 |
 | Cable Crunch | 1–2 | 12 | 6.5–7.5 | — | — | — |
 
 **Why these movements:**
 
 - **Squat (Low Bar):** Competition-style top DOUBLE, not a mandatory work-set single. Anchors have been reselected for two reps rather than retaining the former single weight. Both reps must meet depth/pause/lockout standards; then complete useful moderate-RPE backoffs. No primer single or proof retry; backoff anchors are fixed RPE-governed planning starts, not the Week 1-5 actual-top-triple rule.
-- **Bench Press (Barbell):** Low-cost competition-pause rep work immediately after squat. Every rep starts settled and follows commands; Monday remains the heavier primary bench progression. Starting load rises modestly with demonstrated paused five/four-rep capacity; select it after squat warm-ups and keep a genuine motionless pause and RPE at or below 7.
+- **Bench Press (Barbell):** PRIMARY competition bench after primary squat, genuine command-length pause. Select the top triple/double from post-squat warm-ups and the written effort band; backoffs follow the actual top triple in Weeks 2-5 at the original percentage and stay under the rep-set effort ceiling. A printed kg anchor is not a command to grind after squatting.
 - **Pull-Up (Weighted):** Second weekly weighted pull-up; after both competition lifts, not between them.
 - **Cable Crunch:** Fourth Wednesday slot on non-RowErg weeks, AFTER squat, bench and pull-ups. Controlled trunk flexion with fixed lower body; machine/setup-dependent load, no high-effort stack chase. Three sets in Weeks 1-6; two in Week 7. Keep Week 1 at its original easy effort and calibrate machine/setup load rather than chasing the stack.
 

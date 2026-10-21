@@ -19,7 +19,7 @@ class DecemberTripleRangeTests(unittest.TestCase):
             (3, "Squat (Low Bar)"): [
                 [145, 150], [147.5, 152.5], [150, 155], [155, 157.5], [157.5, 160],
             ],
-            (1, "Bench Press (Barbell)"): [
+            (3, "Bench Press (Barbell)"): [
                 [115, 120], [117.5, 120], [120, 122.5], [122.5, 125], [125, 127.5],
             ],
             (5, "Sumo Deadlift (Barbell)"): [
@@ -29,8 +29,10 @@ class DecemberTripleRangeTests(unittest.TestCase):
         seen = 0
         for workout in program["workouts"]:
             for exercise in workout["exercises"]:
-                key = (workout["day"], exercise["name"])
-                eligible = workout["week"] <= 5 and key in expected
+                key = (3 if exercise["name"] == "Bench Press (Barbell)" else workout["day"], exercise["name"])
+                eligible = (workout["week"] <= 5 and key in expected and
+                            (exercise["name"] != "Bench Press (Barbell)" or
+                             workout["day"] == (1 if workout["week"] == 1 else 3)))
                 if eligible:
                     top = exercise["sets"][0]
                     with self.subTest(week=workout["week"], lift=exercise["name"]):
