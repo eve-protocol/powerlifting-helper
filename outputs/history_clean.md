@@ -3,6 +3,56 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-22
+
+### Health / Recovery
+
+- Steps: 5548
+- Distance: 4.56 km
+- Total kcal burned: 2446
+- Weight: 79.4 kg
+- Resting heart rate: 44 bpm
+- Sleep: 5.17 h asleep (6.11 h in bed, deep 0.98 h, REM 0.87 h, awake 0.93 h)
+
+**Week 1 · Day 4**
+Finished: 2026-10-22 14:35:20
+
+### Chest Fly (Machine)
+
+  Set 1: 35.0kg x 12 @ RPE 6.5 [target RPE: 6-7]
+  Set 2: 35.0kg x 12 @ RPE 6.5 [target RPE: 6-7]
+  Set 3: 35.0kg x 12 @ RPE 7 [target RPE: 6-7]
+
+### Lateral Raise (Cable)
+
+  Set 1: 10.0kg x 12 [target RPE: 6-7.5]
+  Set 2: 15.0kg x 10 @ RPE 8.5 [target: 12 reps, target RPE: 6-7.5]
+  Set 3: 10.0kg x 15 @ RPE 6.5 [target: 12 reps, target RPE: 6-7.5]
+
+### Rear Delt Fly (Cable)
+
+  Set 1: 10.0kg x 10 @ RPE 9 [target: 12 reps, target RPE: 6.5-7.5]
+  Set 2: 10.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 6.5-7.5]
+  Set 3: 10.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 6.5-7.5]
+
+### Tricep Pushdown (Cable)
+
+  Set 1: 62.5kg x 10 @ RPE 6 [target RPE: 6.5-7.5]
+  Set 2: 70.0kg x 10 @ RPE 7.5 [target RPE: 6.5-7.5]
+  Set 3: 70.0kg x 10 @ RPE 8.5 [target RPE: 6.5-7.5]
+
+### Bicep Curl (Dumbbell)
+
+  Set 1: 11.5kg x 10 [target RPE: 6.5-7.5]
+  Set 2: 13.5kg x 10 @ RPE 8 [target RPE: 6.5-7.5]
+  Set 3: 13.5kg x 9 @ RPE 9.5 [target: 10 reps, target RPE: 6.5-7.5]
+
+### Hip Adductor (Machine)
+
+  Set 1: 67.5kg x 12 @ RPE 9.5 [target RPE: 6-6.5]
+  Set 2: 60.0kg x 12 @ RPE 9 [target RPE: 6-6.5]
+  Set 3: 45.0kg x 12 @ RPE 6.5 [target RPE: 6-6.5]
+
 ## 2026-10-21
 
 ### Health / Recovery
