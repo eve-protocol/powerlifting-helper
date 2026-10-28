@@ -3,6 +3,43 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-10-28
+
+### Health / Recovery
+
+- Steps: 6
+- Distance: 0.01 km
+- Total kcal burned: 317
+
+**Week 2 · Day 3**
+Finished: 2026-10-28 15:14:00
+
+### Squat (Low Bar)
+
+  Set 1: 150.0kg x 3 [target RPE: 6.5-7] [est_stress=238, real_stress=-]
+  Set 2: 155.0kg x 3 @ RPE 6.5 [target: 5 reps, target RPE: 6-7.5] [est_stress=438, real_stress=250]
+  Set 3: 140.0kg x 5 [target RPE: 6-7.5] [est_stress=323, real_stress=-]
+  Set 4: 140.0kg x 5 [target RPE: 6-7.5] [est_stress=323, real_stress=-]
+
+### Bench Press (Barbell)
+
+  Set 1: 120.0kg x 3 @ RPE 7 [target RPE: 6.5-7] [est_stress=195, real_stress=204]
+  Set 2: 110.0kg x 5 @ RPE 6.5 [target RPE: 6-7.5] [est_stress=250, real_stress=238]
+  Set 3: 110.0kg x 5 @ RPE 6 [target RPE: 6-7.5] [est_stress=250, real_stress=213]
+  Set 4: 110.0kg x 5 @ RPE 6 [target RPE: 6-7.5] [est_stress=250, real_stress=213]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 4 @ RPE 7 [target RPE: 6.5-7.5]
+  Set 2: 25.0kg x 4 @ RPE 7 [target RPE: 6.5-7.5]
+  Set 3: 25.0kg x 4 @ RPE 7 [target RPE: 6.5-7.5]
+
+### Hip Adductor (Machine)
+
+  Set 1: 67.5kg x 12 @ RPE 8 [target RPE: 6-7]
+  Set 2: 60.0kg x 12 @ RPE 7 [target RPE: 6-7]
+  Set 3: 60.0kg x 12 @ RPE 9.5 [target RPE: 6-7]
+
 ## 2026-10-27
 
 ### Health / Recovery
