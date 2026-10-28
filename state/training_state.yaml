@@ -9,8 +9,8 @@ training_days:
 block_sequence:
 - december_2026_competition_v1
 current_block: december_2026_competition_v1
-completed_workouts_in_current_block: 7
-last_completed_date: '2026-10-27'
+completed_workouts_in_current_block: 8
+last_completed_date: '2026-10-28'
 progression_mode: explicit
 active_coaching_focus: grinchmas_rep_led_2026_v1
 cycle_start_date: '2026-10-19'
