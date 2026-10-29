@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-10-28 |
-| Training Days | 463 |
-| Total Sets | 5530 |
+| Date Range | 2024-12-28 → 2026-10-29 |
+| Training Days | 464 |
+| Total Sets | 5546 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
