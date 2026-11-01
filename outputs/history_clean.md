@@ -7,10 +7,15 @@
 
 ### Health / Recovery
 
-- Total kcal burned: 166
+- Steps: 16571
+- Distance: 13.42 km
+- Total kcal burned: 3017
+- Weight: 79.8 kg
+- Resting heart rate: 46 bpm
+- Sleep: 8.12 h asleep (8.50 h in bed, deep 1.78 h, REM 1.22 h, awake 0.38 h)
 
 **Week 2 · Day 5**
-Finished: 2026-10-31 09:34:21
+Finished: 2026-10-31 08:34:21
 
 ### Sumo Deadlift (Barbell)
 
@@ -49,7 +54,7 @@ Exercise notes: First set felt like air Second felt maybe rpe 4.5 to 5
 - Sleep: 6.50 h asleep (7.33 h in bed, deep 0.28 h, REM 0.80 h, awake 0.83 h)
 
 **Week 2 · Day 4**
-Finished: 2026-10-29 16:57:01
+Finished: 2026-10-29 15:57:01
 
 ### Chest Fly (Machine)
 
@@ -96,7 +101,7 @@ Exercise notes: I don't have enough stimulus with the 10
 - Sleep: 7.45 h asleep (7.57 h in bed, deep 1.03 h, REM 1.18 h, awake 0.12 h)
 
 **Week 2 · Day 3**
-Finished: 2026-10-28 15:14:00
+Finished: 2026-10-28 14:14:00
 
 ### Squat (Low Bar)
 
@@ -136,7 +141,7 @@ Finished: 2026-10-28 15:14:00
 - Sleep: 6.38 h asleep (6.82 h in bed, deep 0.97 h, REM 0.80 h, awake 0.43 h)
 
 **Week 2 · Day 2**
-Finished: 2026-10-27 15:03:06
+Finished: 2026-10-27 14:03:06
 
 ### Sumo Deadlift (Paused)
 
@@ -168,7 +173,7 @@ Finished: 2026-10-27 15:03:06
 - Sleep: 6.27 h asleep (6.98 h in bed, deep 1.17 h, REM 0.75 h, awake 0.72 h)
 
 **Week 2 · Day 1**
-Finished: 2026-10-26 14:52:32
+Finished: 2026-10-26 13:52:32
 
 ### Tempo Squat (Barbell)
 
@@ -214,7 +219,7 @@ Exercise notes: Was in a commercial gym so I had to go lighter to avoid overshoo
 - Sleep: 8.33 h asleep (8.60 h in bed, deep 1.47 h, REM 1.70 h, awake 0.27 h)
 
 **Week 1 · Day 5**
-Finished: 2026-10-24 09:47:02
+Finished: 2026-10-24 08:47:02
 
 ### Sumo Deadlift (Barbell)
 
@@ -244,7 +249,7 @@ Finished: 2026-10-24 09:47:02
 - Sleep: 5.17 h asleep (6.11 h in bed, deep 0.98 h, REM 0.87 h, awake 0.93 h)
 
 **Week 1 · Day 4**
-Finished: 2026-10-22 14:35:20
+Finished: 2026-10-22 13:35:20
 
 ### Chest Fly (Machine)
 
@@ -294,7 +299,7 @@ Finished: 2026-10-22 14:35:20
 - Sleep: 4.53 h asleep (5.75 h in bed, deep 0.35 h, REM 0.73 h, awake 1.22 h)
 
 **Week 1 · Day 3**
-Finished: 2026-10-21 15:33:46
+Finished: 2026-10-21 14:33:46
 
 ### Squat (Low Bar)
 
@@ -336,7 +341,7 @@ Finished: 2026-10-21 15:33:46
 - Sleep: 4.97 h asleep (5.28 h in bed, deep 0.17 h, REM 0.43 h, awake 0.32 h)
 
 **Week 1 · Day 2**
-Finished: 2026-10-20 15:09:33
+Finished: 2026-10-20 14:09:33
 
 ### Sumo Deadlift (Paused)
 
@@ -373,7 +378,7 @@ Exercise notes: Both felt between 5-6 rpe
 - Sleep: 6.23 h asleep (6.58 h in bed, deep 0.95 h, REM 0.65 h, awake 0.35 h)
 
 **Week 1 · Day 1**
-Finished: 2026-10-19 15:15:47
+Finished: 2026-10-19 14:15:47
 
 ### Tempo Squat (Barbell)
 
@@ -415,7 +420,7 @@ Finished: 2026-10-19 15:15:47
 - Sleep: 8.02 h asleep (8.12 h in bed, deep 1.48 h, REM 1.90 h, awake 0.10 h)
 
 **Week 3 · Day 5**
-Finished: 2026-10-17 12:28:22
+Finished: 2026-10-17 11:28:22
 
 ### Squat (Low Bar)
 
@@ -448,7 +453,7 @@ Finished: 2026-10-17 12:28:22
 - Sleep: 5.37 h asleep (5.52 h in bed, deep 0.78 h, REM 1.07 h, awake 0.15 h)
 
 **Week 3 · Day 3**
-Finished: 2026-10-14 15:58:59
+Finished: 2026-10-14 14:58:59
 
 ### Squat (Low Bar)
 
@@ -475,7 +480,7 @@ Finished: 2026-10-14 15:58:59
 - Sleep: 5.72 h asleep (6.95 h in bed, deep 0.38 h, REM 0.43 h, awake 1.23 h)
 
 **Week 3 · Day 2**
-Finished: 2026-10-13 15:10:39
+Finished: 2026-10-13 14:10:39
 
 ### Incline Bench Press (Dumbbell)
 
@@ -514,7 +519,7 @@ Finished: 2026-10-13 15:10:39
 - Sleep: 7.20 h asleep (7.22 h in bed, deep 1.22 h, REM 1.65 h, awake 0.02 h)
 
 **Week 3 · Day 1**
-Finished: 2026-10-12 10:03:31
+Finished: 2026-10-12 09:03:31
 
 ### Squat (Low Bar)
 
@@ -549,7 +554,7 @@ Finished: 2026-10-12 10:03:31
 - Sleep: 9.08 h asleep (9.22 h in bed, deep 0.72 h, REM 1.75 h, awake 0.13 h)
 
 **Week 2 · Day 5**
-Finished: 2026-10-10 10:09:01
+Finished: 2026-10-10 09:09:01
 
 ### Sumo Deadlift (Barbell)
 
@@ -581,7 +586,7 @@ Finished: 2026-10-10 10:09:01
 - Sleep: 7.42 h asleep (7.42 h in bed, deep 1.58 h, REM 1.27 h, awake 0 h)
 
 **Week 2 · Day 4**
-Finished: 2026-10-09 16:40:39
+Finished: 2026-10-09 15:40:39
 
 ### Chest Fly (Machine)
 
@@ -621,7 +626,7 @@ Finished: 2026-10-09 16:40:39
 - Sleep: 6.62 h asleep (6.88 h in bed, deep 1.23 h, REM 1.07 h, awake 0.27 h)
 
 **Week 2 · Day 3**
-Finished: 2026-10-07 15:35:04
+Finished: 2026-10-07 14:35:04
 
 ### Squat (Low Bar)
 
@@ -659,7 +664,7 @@ Exercise notes: After that I did 120kg X3 tempo wide stance Then 100kg X5 tempo 
 - Sleep: 5.90 h asleep (6.10 h in bed, deep 0.55 h, REM 1.22 h, awake 0.20 h)
 
 **Week 2 · Day 2**
-Finished: 2026-10-06 14:57:56
+Finished: 2026-10-06 13:57:56
 
 ### Sumo Deadlift (Barbell)
 
@@ -698,7 +703,7 @@ Exercise notes: Took a different stance , it was harder hence the weight
 - Sleep: 6.82 h asleep (7.12 h in bed, deep 1.52 h, REM 1.12 h, awake 0.30 h)
 
 **Week 2 · Day 1**
-Finished: 2026-10-05 15:29:18
+Finished: 2026-10-05 14:29:18
 
 ### Squat (Low Bar)
 
@@ -727,7 +732,7 @@ Finished: 2026-10-05 15:29:18
 - Sleep: 8.93 h asleep (8.97 h in bed, deep 1.58 h, REM 2.33 h, awake 0.03 h)
 
 **Week 1 · Day 5**
-Finished: 2026-10-03 10:00:06
+Finished: 2026-10-03 09:00:06
 
 ### Sumo Deadlift (Barbell)
 
@@ -759,7 +764,7 @@ Exercise notes: Positioning was better on set 2
 - Sleep: 6.38 h asleep (6.87 h in bed, deep 0.60 h, REM 1.50 h, awake 0.48 h)
 
 **Week 1 · Day 4**
-Finished: 2026-10-02 15:16:30
+Finished: 2026-10-02 14:16:30
 
 ### Chest Fly (Machine)
 
@@ -800,7 +805,7 @@ Exercise notes: It's a pretty light exercise on overall fatigue so rpe 10 is acc
 - Sleep: 6.50 h asleep (7.10 h in bed, deep 0.97 h, REM 1.17 h, awake 0.60 h)
 
 **Week 1 · Day 3**
-Finished: 2026-09-30 15:26:38
+Finished: 2026-09-30 14:26:38
 
 ### Squat (Low Bar)
 
@@ -836,7 +841,7 @@ Finished: 2026-09-30 15:26:38
 - Sleep: 3.18 h asleep (3.38 h in bed, deep 0.83 h, REM 1.05 h, awake 0.20 h)
 
 **Week 1 · Day 2**
-Finished: 2026-09-29 15:08:05
+Finished: 2026-09-29 14:08:05
 
 ### Sumo Deadlift (Barbell)
 
@@ -872,7 +877,7 @@ Exercise notes: Today felt pretty hard, but also I did 10 reps for whatever reas
 - Sleep: 6.72 h asleep (7.37 h in bed, deep 1.22 h, REM 1.13 h, awake 0.65 h)
 
 **Week 1 · Day 1**
-Finished: 2026-09-28 15:29:22
+Finished: 2026-09-28 14:29:22
 
 ### Squat (Low Bar)
 
@@ -902,7 +907,7 @@ Finished: 2026-09-28 15:29:22
 - Sleep: 7.08 h asleep (8 h in bed, deep 1 h, REM 1.08 h, awake 0.92 h)
 
 **Week 3 · Day 5**
-Finished: 2026-09-26 10:05:44
+Finished: 2026-09-26 09:05:44
 
 ### Sumo Deadlift (Barbell)
 
@@ -935,7 +940,7 @@ Exercise notes: First set felt rpe 5
 - Sleep: 7.43 h asleep (7.60 h in bed, deep 1.22 h, REM 1.35 h, awake 0.17 h)
 
 **Week 3 · Day 4**
-Finished: 2026-09-25 15:32:43
+Finished: 2026-09-25 14:32:43
 
 ### Chest Fly (Machine)
 
@@ -976,7 +981,7 @@ Exercise notes: Misloaded the first set
 - Sleep: 7.72 h asleep (8.03 h in bed, deep 1.43 h, REM 1.78 h, awake 0.32 h)
 
 **Week 3 · Day 3**
-Finished: 2026-09-23 15:30:53
+Finished: 2026-09-23 14:30:53
 
 ### Squat (Low Bar)
 
@@ -1012,7 +1017,7 @@ Exercise notes: Failed third rep on 130kg set
 - Sleep: 5.32 h asleep (5.75 h in bed, deep 1.18 h, REM 0.58 h, awake 0.43 h)
 
 **Week 3 · Day 2**
-Finished: 2026-09-22 16:52:18
+Finished: 2026-09-22 15:52:18
 
 ### Sumo Deadlift (Paused)
 
@@ -1050,7 +1055,7 @@ Exercise notes: Some easy sets to finish
 - Sleep: 5.95 h asleep (6.20 h in bed, deep 1.53 h, REM 0.87 h, awake 0.25 h)
 
 **Week 3 · Day 1**
-Finished: 2026-09-21 15:19:13
+Finished: 2026-09-21 14:19:13
 
 ### High Bar Squat (Barbell)
 
@@ -1079,7 +1084,7 @@ Finished: 2026-09-21 15:19:13
 - Sleep: 7.40 h asleep (7.75 h in bed, deep 1.12 h, REM 1.95 h, awake 0.35 h)
 
 **Week 2 · Day 5**
-Finished: 2026-09-19 10:05:17
+Finished: 2026-09-19 09:05:17
 
 ### Sumo Deadlift (Barbell)
 
@@ -1110,7 +1115,7 @@ Finished: 2026-09-19 10:05:17
 - Sleep: 6.67 h asleep (7.12 h in bed, deep 0.98 h, REM 1.35 h, awake 0.45 h)
 
 **Week 2 · Day 4**
-Finished: 2026-09-18 16:22:10
+Finished: 2026-09-18 15:22:10
 
 ### Chest Fly (Machine)
 
@@ -1151,7 +1156,7 @@ Finished: 2026-09-18 16:22:10
 - Sleep: 6.37 h asleep (6.85 h in bed, deep 1.05 h, REM 1.32 h, awake 0.48 h)
 
 **Week 2 · Day 3**
-Finished: 2026-09-16 15:25:42
+Finished: 2026-09-16 14:25:42
 
 ### Squat (Low Bar)
 
@@ -1195,7 +1200,7 @@ Exercise notes: First set felt maybe rpe 3-4 Also the weight are in lb so I did 
 - Sleep: 5.70 h asleep (5.93 h in bed, deep 1 h, REM 1.37 h, awake 0.23 h)
 
 **Week 2 · Day 2**
-Finished: 2026-09-15 14:51:51
+Finished: 2026-09-15 13:51:51
 
 ### Sumo Deadlift (Paused)
 
@@ -1237,7 +1242,7 @@ Exercise notes: 50.3 felt too difficult today im putting lighter weight for the 
 - Sleep: 5.83 h asleep (6.25 h in bed, deep 0.97 h, REM 1.05 h, awake 0.42 h)
 
 **Week 2 · Day 1**
-Finished: 2026-09-14 14:57:43
+Finished: 2026-09-14 13:57:43
 
 ### High Bar Squat (Barbell)
 
@@ -1273,7 +1278,7 @@ Finished: 2026-09-14 14:57:43
 - Sleep: 5.56 h asleep (5.61 h in bed, deep 0.57 h, REM 1.86 h, awake 0.05 h)
 
 **Week 1 · Day 5**
-Finished: 2026-09-12 09:05:35
+Finished: 2026-09-12 08:05:35
 
 ### Sumo Deadlift (Barbell)
 
@@ -1307,7 +1312,7 @@ Exercise notes: Didn't see it was 5 reppers.
 - Sleep: 6.17 h asleep (6.25 h in bed, deep 1.48 h, REM 1.30 h, awake 0.08 h)
 
 **Week 1 · Day 4**
-Finished: 2026-09-11 17:41:35
+Finished: 2026-09-11 16:41:35
 
 ### Chest Fly (Machine)
 
@@ -1352,7 +1357,7 @@ Exercise notes: I really don't like the preacher curl they hurt my elbow, I can'
 - Sleep: 6.02 h asleep (6.07 h in bed, deep 1.90 h, REM 1.62 h, awake 0.05 h)
 
 **Week 1 · Day 3**
-Finished: 2026-09-09 15:42:26
+Finished: 2026-09-09 14:42:26
 
 ### Squat (Low Bar)
 
@@ -1388,7 +1393,7 @@ Finished: 2026-09-09 15:42:26
 - Sleep: 6.53 h asleep (7.17 h in bed, deep 1.35 h, REM 1.08 h, awake 0.63 h)
 
 **Week 1 · Day 2**
-Finished: 2026-09-08 10:05:39
+Finished: 2026-09-08 09:05:39
 
 ### Sumo Deadlift (Paused)
 
@@ -1426,7 +1431,7 @@ Finished: 2026-09-08 10:05:39
 - Sleep: 7.50 h asleep (7.62 h in bed, deep 1.33 h, REM 1.95 h, awake 0.12 h)
 
 **Week 1 · Day 1**
-Finished: 2026-09-07 10:42:31
+Finished: 2026-09-07 09:42:31
 
 ### High Bar Squat (Barbell)
 
@@ -1467,7 +1472,7 @@ Exercise notes: Didn't really like the exercise, 1. It's going to tear my sweatp
 - Sleep: 8.20 h asleep (8.48 h in bed, deep 0.65 h, REM 1.45 h, awake 0.28 h)
 
 **Week 6 · Day 5**
-Finished: 2026-09-05 11:43:56
+Finished: 2026-09-05 10:43:56
 
 ### Sumo Deadlift (Barbell)
 
@@ -1497,7 +1502,7 @@ Finished: 2026-09-05 11:43:56
 - Sleep: 7.02 h asleep (7.10 h in bed, deep 1.45 h, REM 1.10 h, awake 0.08 h)
 
 **Week 6 · Day 4**
-Finished: 2026-09-04 16:21:34
+Finished: 2026-09-04 15:21:34
 
 ### Bench Press (Barbell)
 
@@ -1533,7 +1538,7 @@ Finished: 2026-09-04 16:21:34
 - Sleep: 5.68 h asleep (6.72 h in bed, deep 0.65 h, REM 0.95 h, awake 1.03 h)
 
 **Week 6 · Day 3**
-Finished: 2026-09-02 16:40:01
+Finished: 2026-09-02 15:40:01
 
 ### Squat (Low Bar)
 
@@ -1579,7 +1584,7 @@ Exercise notes: Wow ok my hamstrings are so cooked it seems lol
 - Sleep: 8.03 h asleep (8.07 h in bed, deep 1.08 h, REM 1.45 h, awake 0.03 h)
 
 **Week 6 · Day 2**
-Finished: 2026-09-01 11:50:30
+Finished: 2026-09-01 10:50:30
 
 ### Sumo Deadlift (Paused)
 
@@ -1620,7 +1625,7 @@ Exercise notes: Lower than that it's way too easy ( it's basically the lightest 
 - Sleep: 7.30 h asleep (8.07 h in bed, deep 0.58 h, REM 1.73 h, awake 0.77 h)
 
 **Week 6 · Day 1**
-Finished: 2026-08-31 10:01:07
+Finished: 2026-08-31 09:01:07
 
 ### High Bar Squat (Barbell)
 
@@ -1659,7 +1664,7 @@ Exercise notes: 91 is maxing out this Toronto cable machine. I can add 2.3kg twi
 - Sleep: 5.67 h asleep (5.88 h in bed, deep 1.03 h, REM 0.93 h, awake 0.22 h)
 
 **Week 5 · Day 5**
-Finished: 2026-08-29 09:45:42
+Finished: 2026-08-29 08:45:42
 
 ### Sumo Deadlift (Barbell)
 
@@ -1691,7 +1696,7 @@ Exercise notes: Second set felt slightly easier than first
 - Sleep: 8.30 h asleep (8.77 h in bed, deep 1.18 h, REM 1.18 h, awake 0.47 h)
 
 **Week 5 · Day 4**
-Finished: 2026-08-28 16:54:54
+Finished: 2026-08-28 15:54:54
 
 ### Bench Press (Barbell)
 
@@ -1735,7 +1740,7 @@ Exercise notes: Couldn't find 1.25 disc so yeah I just did more at 20kg , differ
 - Sleep: 6.82 h asleep (7.07 h in bed, deep 1.42 h, REM 0.15 h, awake 0.25 h)
 
 **Week 5 · Day 3**
-Finished: 2026-08-26 18:03:08
+Finished: 2026-08-26 17:03:08
 
 ### Squat (Low Bar)
 
@@ -1771,7 +1776,7 @@ Finished: 2026-08-26 18:03:08
 - Sleep: 7.27 h asleep (7.28 h in bed, deep 1.13 h, REM 1.90 h, awake 0.02 h)
 
 **Week 5 · Day 1**
-Finished: 2026-08-23 20:46:50
+Finished: 2026-08-23 19:46:50
 
 ### High Bar Squat (Barbell)
 
@@ -1809,7 +1814,7 @@ Exercise notes: Feel better at 40kg as usual. 45kg makes my legs lift from the f
 - Sleep: 6.13 h asleep (6.18 h in bed, deep 0.95 h, REM 0.50 h, awake 0.05 h)
 
 **Week 4 · Day 5**
-Finished: 2026-08-21 21:35:25
+Finished: 2026-08-21 20:35:25
 
 ### Sumo Deadlift (Barbell)
 
@@ -1839,7 +1844,7 @@ Finished: 2026-08-21 21:35:25
 - Sleep: 6.13 h asleep (6.18 h in bed, deep 0.95 h, REM 0.50 h, awake 0.05 h)
 
 **Week 4 · Day 4**
-Finished: 2026-08-21 07:04:56
+Finished: 2026-08-21 06:04:56
 
 ### Bench Press (Barbell)
 
@@ -1873,7 +1878,7 @@ Finished: 2026-08-21 07:04:56
 - Sleep: 5.33 h asleep (6.88 h in bed, deep 0.92 h, REM 0 h, awake 1.55 h)
 
 **Week 4 · Day 3**
-Finished: 2026-08-18 21:05:56
+Finished: 2026-08-18 20:05:56
 
 ### Squat (Low Bar)
 
@@ -1913,7 +1918,7 @@ Finished: 2026-08-18 21:05:56
 - Sleep: 6.82 h asleep (7.38 h in bed, deep 1.58 h, REM 0.27 h, awake 0.57 h)
 
 **Week 4 · Day 2**
-Finished: 2026-08-17 20:49:26
+Finished: 2026-08-17 19:49:26
 
 ### Sumo Deadlift (Paused)
 
@@ -1948,7 +1953,7 @@ Finished: 2026-08-17 20:49:26
 - Sleep: 6.92 h asleep (7.63 h in bed, deep 0.95 h, REM 0.77 h, awake 0.72 h)
 
 **Week 4 · Day 1**
-Finished: 2026-08-16 20:49:32
+Finished: 2026-08-16 19:49:32
 
 ### High Bar Squat (Barbell)
 
@@ -1985,7 +1990,7 @@ Exercise notes: Did comp depth. ATG over 120kg is not yet realistic 😂 during 
 - Sleep: 7.32 h asleep (7.48 h in bed, deep 0.98 h, REM 1.37 h, awake 0.17 h)
 
 **Week 3 · Day 5**
-Finished: 2026-08-14 20:47:29
+Finished: 2026-08-14 19:47:29
 
 ### Sumo Deadlift (Barbell)
 
@@ -2017,7 +2022,7 @@ Exercise notes: Set 1 was maybe rpe 4-4.5 Set 2 was closer to 5.5 to 6
 - Sleep: 7.22 h asleep (7.23 h in bed, deep 1.80 h, REM 1.42 h, awake 0.02 h)
 
 **Week 3 · Day 4**
-Finished: 2026-08-13 20:25:06
+Finished: 2026-08-13 19:25:06
 
 ### Bench Press (Barbell)
 
@@ -2053,7 +2058,7 @@ Finished: 2026-08-13 20:25:06
 - Sleep: 6.57 h asleep (6.87 h in bed, deep 0.27 h, REM 0.78 h, awake 0.30 h)
 
 **Week 3 · Day 3**
-Finished: 2026-08-11 21:02:59
+Finished: 2026-08-11 20:02:59
 
 ### Squat (Low Bar)
 
@@ -2097,7 +2102,7 @@ Finished: 2026-08-11 21:02:59
 - Sleep: 6.13 h asleep (6.52 h in bed, deep 0.95 h, REM 1.02 h, awake 0.38 h)
 
 **Week 3 · Day 2**
-Finished: 2026-08-10 20:42:44
+Finished: 2026-08-10 19:42:44
 
 ### Sumo Deadlift (Paused)
 
@@ -2134,7 +2139,7 @@ Finished: 2026-08-10 20:42:44
 - Sleep: 7.92 h asleep (8.25 h in bed, deep 1.70 h, REM 1.60 h, awake 0.33 h)
 
 **Week 3 · Day 1**
-Finished: 2026-08-09 20:49:50
+Finished: 2026-08-09 19:49:50
 
 ### High Bar Squat (Barbell)
 
@@ -2175,7 +2180,7 @@ Exercise notes: No idea what happened, no pressing power today.
 - Sleep: 7.35 h asleep (7.35 h in bed, deep 1.12 h, REM 1.47 h, awake 0 h)
 
 **Week 2 · Day 5**
-Finished: 2026-08-07 20:40:48
+Finished: 2026-08-07 19:40:48
 
 ### Sumo Deadlift (Barbell)
 
@@ -2205,7 +2210,7 @@ Finished: 2026-08-07 20:40:48
 - Sleep: 7.05 h asleep (7.40 h in bed, deep 1.57 h, REM 0.33 h, awake 0.35 h)
 
 **Week 2 · Day 4**
-Finished: 2026-08-06 20:21:58
+Finished: 2026-08-06 19:21:58
 
 ### Bench Press (Barbell)
 
@@ -2246,7 +2251,7 @@ Exercise notes: Very long pause between set 2 and 3 ( ~ 10-15 min )
 - Sleep: 6.52 h asleep (6.90 h in bed, deep 0.88 h, REM 0.82 h, awake 0.38 h)
 
 **Week 2 · Day 3**
-Finished: 2026-08-04 21:04:27
+Finished: 2026-08-04 20:04:27
 
 ### Squat (Low Bar)
 
@@ -2290,7 +2295,7 @@ Finished: 2026-08-04 21:04:27
 - Sleep: 7.02 h asleep (7.17 h in bed, deep 1.03 h, REM 1 h, awake 0.15 h)
 
 **Week 2 · Day 2**
-Finished: 2026-08-03 20:53:22
+Finished: 2026-08-03 19:53:22
 
 ### Sumo Deadlift (Paused)
 
@@ -2327,7 +2332,7 @@ Finished: 2026-08-03 20:53:22
 - Sleep: 7.55 h asleep (7.63 h in bed, deep 1.08 h, REM 1.20 h, awake 0.08 h)
 
 **Week 2 · Day 1**
-Finished: 2026-08-02 20:42:34
+Finished: 2026-08-02 19:42:34
 
 ### High Bar Squat (Barbell)
 
@@ -2364,7 +2369,7 @@ Finished: 2026-08-02 20:42:34
 - Sleep: 6.78 h asleep (6.85 h in bed, deep 0.95 h, REM 1.65 h, awake 0.07 h)
 
 **Week 1 · Day 5**
-Finished: 2026-07-31 20:21:20
+Finished: 2026-07-31 19:21:20
 
 ### Sumo Deadlift (Barbell)
 
@@ -2396,7 +2401,7 @@ Exercise notes: Miscounted on first set, I did 9 instead of 8
 - Sleep: 7.30 h asleep (7.42 h in bed, deep 1.38 h, REM 1.38 h, awake 0.12 h)
 
 **Week 1 · Day 4**
-Finished: 2026-07-30 20:13:25
+Finished: 2026-07-30 19:13:25
 
 ### Bench Press (Barbell)
 
@@ -2438,7 +2443,7 @@ Exercise notes: Added an extra set for fun
 - Sleep: 7.22 h asleep (7.62 h in bed, deep 0.95 h, REM 1.12 h, awake 0.40 h)
 
 **Week 1 · Day 3**
-Finished: 2026-07-28 20:48:17
+Finished: 2026-07-28 19:48:17
 
 ### Squat (Low Bar)
 
@@ -2482,7 +2487,7 @@ Finished: 2026-07-28 20:48:17
 - Sleep: 7.15 h asleep (7.40 h in bed, deep 1.42 h, REM 2 h, awake 0.25 h)
 
 **Week 1 · Day 2**
-Finished: 2026-07-27 20:31:25
+Finished: 2026-07-27 19:31:25
 
 ### Sumo Deadlift (Paused)
 
@@ -2521,7 +2526,7 @@ Exercise notes: On third set I tried AI cue , and it made things worse even with
 - Sleep: 7.52 h asleep (7.65 h in bed, deep 0.92 h, REM 0.58 h, awake 0.13 h)
 
 **Week 1 · Day 1**
-Finished: 2026-07-26 20:28:49
+Finished: 2026-07-26 19:28:49
 
 ### High Bar Squat (Barbell)
 
@@ -2560,7 +2565,7 @@ Exercise notes: Kept it easy with a hold at the bottom to really feel the muscle
 - Sleep: 8.13 h asleep (8.15 h in bed, deep 1.42 h, REM 1.72 h, awake 0.02 h)
 
 **Week 4 · Day 5**
-Finished: 2026-07-25 21:03:35
+Finished: 2026-07-25 20:03:35
 
 ### Squat (Low Bar)
 
@@ -2592,7 +2597,7 @@ Finished: 2026-07-25 21:03:35
 - Sleep: 7.67 h asleep (7.80 h in bed, deep 1.62 h, REM 1.45 h, awake 0.13 h)
 
 **Week 4 · Day 4**
-Finished: 2026-07-22 20:21:53
+Finished: 2026-07-22 19:21:53
 
 ### Bench Press (Barbell)
 
@@ -2611,7 +2616,7 @@ Finished: 2026-07-22 20:21:53
 - Sleep: 7.17 h asleep (7.38 h in bed, deep 1.30 h, REM 1.08 h, awake 0.22 h)
 
 **Week 4 · Day 3**
-Finished: 2026-07-21 21:06:20
+Finished: 2026-07-21 20:06:20
 
 ### Squat (Low Bar)
 
@@ -2632,7 +2637,7 @@ Exercise notes: Both under rpe 6
 - Sleep: 7.50 h asleep (7.82 h in bed, deep 0.82 h, REM 2.05 h, awake 0.32 h)
 
 **Week 4 · Day 2**
-Finished: 2026-07-20 20:31:09
+Finished: 2026-07-20 19:31:09
 
 ### Bench Press (Paused)
 
@@ -2660,7 +2665,7 @@ Finished: 2026-07-20 20:31:09
 - Sleep: 7.50 h asleep (8 h in bed, deep 0.97 h, REM 0.98 h, awake 0.50 h)
 
 **Week 4 · Day 1**
-Finished: 2026-07-19 21:08:02
+Finished: 2026-07-19 20:08:02
 
 ### Squat (Low Bar)
 
@@ -2690,7 +2695,7 @@ Finished: 2026-07-19 21:08:02
 - Sleep: 7.55 h asleep (8.03 h in bed, deep 0.62 h, REM 1.16 h, awake 0.48 h)
 
 **Week 3 · Day 5**
-Finished: 2026-07-18 21:36:52
+Finished: 2026-07-18 20:36:52
 
 ### Sumo Deadlift (Barbell)
 
@@ -2719,7 +2724,7 @@ Finished: 2026-07-18 21:36:52
 - Sleep: 9.45 h asleep (9.90 h in bed, deep 1.02 h, REM 2.47 h, awake 0.45 h)
 
 **Week 3 · Day 4**
-Finished: 2026-07-14 23:20:23
+Finished: 2026-07-14 22:20:23
 
 ### Bench Press (Barbell)
 
@@ -2750,7 +2755,7 @@ Exercise notes: Koh Lanta commercial gym setup: unknown bar weight, no rings, ho
 - Sleep: 7.17 h asleep (7.17 h in bed, deep 1.02 h, REM 1.88 h, awake 0 h)
 
 **Week 3 · Day 3**
-Finished: 2026-07-12 23:25:04
+Finished: 2026-07-12 22:25:04
 
 ### Squat (Low Bar)
 
@@ -2776,7 +2781,7 @@ Finished: 2026-07-12 23:25:04
 - Sleep: 8.43 h asleep (8.45 h in bed, deep 1.35 h, REM 1.85 h, awake 0.02 h)
 
 **Week 3 · Day 2**
-Finished: 2026-07-11 22:49:45
+Finished: 2026-07-11 21:49:45
 
 ### Sumo Deadlift (Paused)
 
@@ -2808,7 +2813,7 @@ Finished: 2026-07-11 22:49:45
 - Sleep: 8.13 h asleep (8.28 h in bed, deep 1.50 h, REM 2.03 h, awake 0.15 h)
 
 **Week 3 · Day 1**
-Finished: 2026-07-10 23:32:33
+Finished: 2026-07-10 22:32:33
 
 ### Squat (Low Bar)
 
@@ -2838,7 +2843,7 @@ Exercise notes: Felt between 5 and 6 closer to 5
 - Sleep: 8.13 h asleep (8.28 h in bed, deep 1.50 h, REM 2.03 h, awake 0.15 h)
 
 **Week 2 · Day 5**
-Finished: 2026-07-10 08:58:38
+Finished: 2026-07-10 07:58:38
 
 ### Sumo Deadlift (Barbell)
 
@@ -2873,7 +2878,7 @@ Exercise notes: Despite the bar rolling A LOT and throwing me off balance. I man
 - Sleep: 6.08 h asleep (6.20 h in bed, deep 0.97 h, REM 1.10 h, awake 0.12 h)
 
 **Week 2 · Day 4**
-Finished: 2026-07-08 20:07:29
+Finished: 2026-07-08 19:07:29
 
 ### Bench Press (Barbell)
 
@@ -2904,7 +2909,7 @@ Finished: 2026-07-08 20:07:29
 - Sleep: 7.36 h asleep (7.50 h in bed, deep 1.45 h, REM 0.93 h, awake 0.13 h)
 
 **Week 2 · Day 3**
-Finished: 2026-07-07 21:26:57
+Finished: 2026-07-07 20:26:57
 
 ### Squat (Low Bar)
 
@@ -2933,7 +2938,7 @@ Finished: 2026-07-07 21:26:57
 - Sleep: 4.43 h asleep (4.50 h in bed, deep 0.72 h, REM 0.38 h, awake 0.07 h)
 
 **Week 2 · Day 2**
-Finished: 2026-07-06 21:51:50
+Finished: 2026-07-06 20:51:50
 
 ### Sumo Deadlift (Paused)
 
@@ -2963,7 +2968,7 @@ Finished: 2026-07-06 21:51:50
 - Sleep: 7.60 h asleep (7.88 h in bed, deep 1.07 h, REM 1.18 h, awake 0.28 h)
 
 **Week 2 · Day 1**
-Finished: 2026-07-05 21:33:07
+Finished: 2026-07-05 20:33:07
 
 ### Squat (Low Bar)
 
@@ -2993,7 +2998,7 @@ Finished: 2026-07-05 21:33:07
 - Sleep: 7.61 h asleep (7.84 h in bed, deep 1.05 h, REM 1.12 h, awake 0.23 h)
 
 **Week 1 · Day 5**
-Finished: 2026-07-03 21:12:27
+Finished: 2026-07-03 20:12:27
 
 ### Sumo Deadlift (Barbell)
 
@@ -3025,7 +3030,7 @@ Exercise notes: Second set felt between 5.5 to 6
 - Sleep: 7.18 h asleep (7.57 h in bed, deep 1.15 h, REM 1.08 h, awake 0.38 h)
 
 **Week 1 · Day 4**
-Finished: 2026-07-01 21:01:13
+Finished: 2026-07-01 20:01:13
 
 ### Bench Press (Barbell)
 
@@ -3054,7 +3059,7 @@ Finished: 2026-07-01 21:01:13
 - Sleep: 7.53 h asleep (7.78 h in bed, deep 1.43 h, REM 1.70 h, awake 0.25 h)
 
 **Week 1 · Day 3**
-Finished: 2026-06-30 21:07:11
+Finished: 2026-06-30 20:07:11
 
 ### Squat (Low Bar)
 
@@ -3086,7 +3091,7 @@ Exercise notes: Did drop set with two legs @ 50kg did 8 reps finished around rpe
 - Sleep: 7.30 h asleep (7.45 h in bed, deep 1.15 h, REM 1.17 h, awake 0.15 h)
 
 **Week 1 · Day 2**
-Finished: 2026-06-29 21:08:51
+Finished: 2026-06-29 20:08:51
 
 ### Sumo Deadlift (Paused)
 
@@ -3117,7 +3122,7 @@ Finished: 2026-06-29 21:08:51
 - Sleep: 7.40 h asleep (7.40 h in bed, deep 1.11 h, REM 1.40 h, awake 0 h)
 
 **Week 1 · Day 1**
-Finished: 2026-06-28 21:10:03
+Finished: 2026-06-28 20:10:03
 
 ### Squat (Low Bar)
 
@@ -3147,7 +3152,7 @@ Finished: 2026-06-28 21:10:03
 - Sleep: 6.42 h asleep (6.42 h in bed, deep 1.03 h, REM 1.22 h, awake 0 h)
 
 **Week 4 · Day 5**
-Finished: 2026-06-26 21:02:46
+Finished: 2026-06-26 20:02:46
 
 ### Sumo Deadlift (Barbell)
 
@@ -3179,7 +3184,7 @@ Exercise notes: Felt between 5.5 to 6
 - Sleep: 5.17 h asleep (5.20 h in bed, deep 1.22 h, REM 1 h, awake 0.03 h)
 
 **Week 4 · Day 4**
-Finished: 2026-06-24 18:50:39
+Finished: 2026-06-24 17:50:39
 
 ### Bench Press (Barbell)
 
@@ -3220,7 +3225,7 @@ Finished: 2026-06-24 18:50:39
 - Sleep: 3.60 h asleep (3.60 h in bed, deep 0.78 h, REM 0.67 h, awake 0 h)
 
 **Week 4 · Day 3**
-Finished: 2026-06-23 19:18:48
+Finished: 2026-06-23 18:18:48
 
 ### Squat (Low Bar)
 
@@ -3255,7 +3260,7 @@ Finished: 2026-06-23 19:18:48
 - Sleep: 5.17 h asleep (5.17 h in bed, deep 1.17 h, REM 1.20 h, awake 0 h)
 
 **Week 4 · Day 2**
-Finished: 2026-06-22 19:50:24
+Finished: 2026-06-22 18:50:24
 
 ### Sumo Deadlift (Paused)
 
@@ -3290,7 +3295,7 @@ Finished: 2026-06-22 19:50:24
 - Sleep: 5.08 h asleep (5.17 h in bed, deep 1.63 h, REM 0.68 h, awake 0.08 h)
 
 **Week 4 · Day 1**
-Finished: 2026-06-21 19:10:49
+Finished: 2026-06-21 18:10:49
 
 ### Squat (Paused)
 
@@ -3325,7 +3330,7 @@ Finished: 2026-06-21 19:10:49
 - Sleep: 7.35 h asleep (7.38 h in bed, deep 1.27 h, REM 1.48 h, awake 0.03 h)
 
 **Week 3 · Day 5**
-Finished: 2026-06-19 21:25:31
+Finished: 2026-06-19 20:25:31
 
 ### Sumo Deadlift (Barbell)
 
@@ -3355,7 +3360,7 @@ Finished: 2026-06-19 21:25:31
 - Sleep: 5.58 h asleep (5.60 h in bed, deep 1.23 h, REM 0.77 h, awake 0.02 h)
 
 **Week 3 · Day 4**
-Finished: 2026-06-17 20:44:29
+Finished: 2026-06-17 19:44:29
 
 ### Bench Press (Barbell)
 
@@ -3398,7 +3403,7 @@ Finished: 2026-06-17 20:44:29
 - Sleep: 5.48 h asleep (5.58 h in bed, deep 0.90 h, REM 1.23 h, awake 0.10 h)
 
 **Week 3 · Day 3**
-Finished: 2026-06-16 20:47:32
+Finished: 2026-06-16 19:47:32
 
 ### Squat (Low Bar)
 
@@ -3437,7 +3442,7 @@ Finished: 2026-06-16 20:47:32
 - Sleep: 5.43 h asleep (5.45 h in bed, deep 1.10 h, REM 0.85 h, awake 0.02 h)
 
 **Week 3 · Day 2**
-Finished: 2026-06-15 20:50:05
+Finished: 2026-06-15 19:50:05
 
 ### Sumo Deadlift (Paused)
 
@@ -3474,7 +3479,7 @@ Finished: 2026-06-15 20:50:05
 - Sleep: 7.33 h asleep (7.35 h in bed, deep 1.33 h, REM 1.97 h, awake 0.02 h)
 
 **Week 3 · Day 1**
-Finished: 2026-06-14 21:27:17
+Finished: 2026-06-14 20:27:17
 
 ### Squat (Paused)
 
@@ -3509,7 +3514,7 @@ Finished: 2026-06-14 21:27:17
 - Sleep: 5.20 h asleep (5.25 h in bed, deep 1.57 h, REM 0.53 h, awake 0.05 h)
 
 **Week 2 · Day 5**
-Finished: 2026-06-12 20:44:33
+Finished: 2026-06-12 19:44:33
 
 ### Sumo Deadlift (Barbell)
 
@@ -3541,7 +3546,7 @@ Exercise notes: Felt between 5 and 5.5
 - Sleep: 7.85 h asleep (7.88 h in bed, deep 0.98 h, REM 1.53 h, awake 0.03 h)
 
 **Week 2 · Day 4**
-Finished: 2026-06-10 20:29:53
+Finished: 2026-06-10 19:29:53
 
 ### Bench Press (Barbell)
 
@@ -3583,7 +3588,7 @@ Finished: 2026-06-10 20:29:53
 - Sleep: 6.37 h asleep (6.55 h in bed, deep 1.10 h, REM 1.27 h, awake 0.18 h)
 
 **Week 2 · Day 3**
-Finished: 2026-06-09 21:27:03
+Finished: 2026-06-09 20:27:03
 
 ### Squat (Low Bar)
 
@@ -3622,7 +3627,7 @@ Finished: 2026-06-09 21:27:03
 - Sleep: 7.92 h asleep (8.40 h in bed, deep 1.17 h, REM 0.92 h, awake 0.48 h)
 
 **Week 2 · Day 2**
-Finished: 2026-06-08 20:42:07
+Finished: 2026-06-08 19:42:07
 
 ### Sumo Deadlift (Paused)
 
@@ -3659,7 +3664,7 @@ Finished: 2026-06-08 20:42:07
 - Sleep: 6.77 h asleep (7.82 h in bed, deep 0.95 h, REM 1.02 h, awake 1.05 h)
 
 **Week 2 · Day 1**
-Finished: 2026-06-07 20:46:58
+Finished: 2026-06-07 19:46:58
 
 ### Squat (Paused)
 
@@ -3696,7 +3701,7 @@ Finished: 2026-06-07 20:46:58
 - Sleep: 6.77 h asleep (7.82 h in bed, deep 0.95 h, REM 1.02 h, awake 1.05 h)
 
 **Week 1 · Day 5**
-Finished: 2026-06-07 07:42:38
+Finished: 2026-06-07 06:42:38
 
 ### Sumo Deadlift (Barbell)
 
@@ -3726,7 +3731,7 @@ Finished: 2026-06-07 07:42:38
 - Sleep: 7.05 h asleep (7.32 h in bed, deep 1.17 h, REM 1.38 h, awake 0.27 h)
 
 **Week 1 · Day 4**
-Finished: 2026-06-03 20:34:48
+Finished: 2026-06-03 19:34:48
 
 ### Bench Press (Barbell)
 
@@ -3768,7 +3773,7 @@ Finished: 2026-06-03 20:34:48
 - Sleep: 7.23 h asleep (7.52 h in bed, deep 0.85 h, REM 1 h, awake 0.28 h)
 
 **Week 1 · Day 3**
-Finished: 2026-06-02 22:39:39
+Finished: 2026-06-02 21:39:39
 
 ### Squat (Low Bar)
 
@@ -3807,7 +3812,7 @@ Finished: 2026-06-02 22:39:39
 - Sleep: 7.03 h asleep (7.82 h in bed, deep 1.05 h, REM 1.30 h, awake 0.78 h)
 
 **Week 1 · Day 2**
-Finished: 2026-06-01 20:40:36
+Finished: 2026-06-01 19:40:36
 
 ### Sumo Deadlift (Paused)
 
@@ -3844,7 +3849,7 @@ Finished: 2026-06-01 20:40:36
 - Sleep: 7.25 h asleep (7.25 h in bed, deep 1.28 h, REM 1.87 h, awake 0 h)
 
 **Week 1 · Day 1**
-Finished: 2026-05-31 20:51:11
+Finished: 2026-05-31 19:51:11
 
 ### Squat (Paused)
 
@@ -3884,7 +3889,7 @@ Exercise notes: I tried 50kg but it's way too hard.
 - Sleep: 6.82 h asleep (6.88 h in bed, deep 1.57 h, REM 0.92 h, awake 0.07 h)
 
 **Week 4 · Day 5**
-Finished: 2026-05-29 21:08:43
+Finished: 2026-05-29 20:08:43
 
 ### Sumo Deadlift (Barbell)
 
@@ -3918,7 +3923,7 @@ Exercise notes: Second set felt closer to 5.5
 - Sleep: 6.63 h asleep (6.85 h in bed, deep 0.75 h, REM 1.05 h, awake 0.22 h)
 
 **Week 4 · Day 4**
-Finished: 2026-05-27 20:25:48
+Finished: 2026-05-27 19:25:48
 
 ### Bench Press (Barbell)
 
@@ -3958,7 +3963,7 @@ Finished: 2026-05-27 20:25:48
 - Sleep: 6.55 h asleep (6.88 h in bed, deep 1.15 h, REM 1.15 h, awake 0.33 h)
 
 **Week 4 · Day 3**
-Finished: 2026-05-26 21:12:16
+Finished: 2026-05-26 20:12:16
 
 ### Squat (Low Bar)
 
@@ -3993,7 +3998,7 @@ Finished: 2026-05-26 21:12:16
 - Sleep: 7.03 h asleep (7.20 h in bed, deep 1.47 h, REM 1.15 h, awake 0.17 h)
 
 **Week 4 · Day 2**
-Finished: 2026-05-25 20:41:45
+Finished: 2026-05-25 19:41:45
 
 ### Sumo Deadlift (Paused)
 
@@ -4028,7 +4033,7 @@ Finished: 2026-05-25 20:41:45
 - Sleep: 7.22 h asleep (7.23 h in bed, deep 2.03 h, REM 1.18 h, awake 0.02 h)
 
 **Week 4 · Day 1**
-Finished: 2026-05-24 20:42:35
+Finished: 2026-05-24 19:42:35
 
 ### Bench Press (Paused)
 
@@ -4065,7 +4070,7 @@ Exercise notes: 1st set was rpe 5-ish
 - Sleep: 7.48 h asleep (7.57 h in bed, deep 1.73 h, REM 1.35 h, awake 0.08 h)
 
 **Week 3 · Day 5**
-Finished: 2026-05-22 20:47:32
+Finished: 2026-05-22 19:47:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -4099,7 +4104,7 @@ Exercise notes: 137.5 felt easy ( <5 ) 140 felt maybe rpe 5
 - Sleep: 6.70 h asleep (7.38 h in bed, deep 0.98 h, REM 0.82 h, awake 0.68 h)
 
 **Week 3 · Day 4**
-Finished: 2026-05-20 20:28:50
+Finished: 2026-05-20 19:28:50
 
 ### Bench Press (Barbell)
 
@@ -4141,7 +4146,7 @@ Finished: 2026-05-20 20:28:50
 - Sleep: 6.92 h asleep (7.15 h in bed, deep 1.18 h, REM 1.57 h, awake 0.23 h)
 
 **Week 3 · Day 3**
-Finished: 2026-05-19 20:55:09
+Finished: 2026-05-19 19:55:09
 
 ### Squat (Low Bar)
 
@@ -4179,7 +4184,7 @@ Finished: 2026-05-19 20:55:09
 - Sleep: 6.35 h asleep (6.48 h in bed, deep 0.77 h, REM 1.42 h, awake 0.13 h)
 
 **Week 3 · Day 2**
-Finished: 2026-05-18 20:40:31
+Finished: 2026-05-18 19:40:31
 
 ### Sumo Deadlift (Paused)
 
@@ -4215,7 +4220,7 @@ Finished: 2026-05-18 20:40:31
 - Sleep: 7.73 h asleep (7.82 h in bed, deep 1.55 h, REM 1.58 h, awake 0.08 h)
 
 **Week 3 · Day 1**
-Finished: 2026-05-17 20:53:47
+Finished: 2026-05-17 19:53:47
 
 ### Bench Press (Paused)
 
@@ -4252,7 +4257,7 @@ Finished: 2026-05-17 20:53:47
 - Sleep: 6.74 h asleep (6.81 h in bed, deep 1.23 h, REM 1.44 h, awake 0.07 h)
 
 **Week 2 · Day 5**
-Finished: 2026-05-15 20:47:14
+Finished: 2026-05-15 19:47:14
 
 ### Sumo Deadlift (Barbell)
 
@@ -4282,7 +4287,7 @@ Finished: 2026-05-15 20:47:14
 - Sleep: 7.03 h asleep (7.15 h in bed, deep 1.10 h, REM 1.23 h, awake 0.12 h)
 
 **Week 2 · Day 4**
-Finished: 2026-05-13 20:18:37
+Finished: 2026-05-13 19:18:37
 
 ### Bench Press (Barbell)
 
@@ -4325,7 +4330,7 @@ Finished: 2026-05-13 20:18:37
 - Sleep: 7.23 h asleep (7.65 h in bed, deep 0.82 h, REM 1.23 h, awake 0.42 h)
 
 **Week 2 · Day 3**
-Finished: 2026-05-12 20:55:43
+Finished: 2026-05-12 19:55:43
 
 ### Squat (Low Bar)
 
@@ -4363,7 +4368,7 @@ Finished: 2026-05-12 20:55:43
 - Sleep: 7.25 h asleep (7.88 h in bed, deep 1.05 h, REM 1.80 h, awake 0.63 h)
 
 **Week 2 · Day 2**
-Finished: 2026-05-11 20:45:32
+Finished: 2026-05-11 19:45:32
 
 ### Sumo Deadlift (Paused)
 
@@ -4401,7 +4406,7 @@ Finished: 2026-05-11 20:45:32
 - Sleep: 7.58 h asleep (7.63 h in bed, deep 1.03 h, REM 1.48 h, awake 0.05 h)
 
 **Week 2 · Day 1**
-Finished: 2026-05-10 20:47:12
+Finished: 2026-05-10 19:47:12
 
 ### Bench Press (Paused)
 
@@ -4438,7 +4443,7 @@ Finished: 2026-05-10 20:47:12
 - Sleep: 7.30 h asleep (7.30 h in bed, deep 1.10 h, REM 1.20 h, awake 0 h)
 
 **Week 1 · Day 5**
-Finished: 2026-05-08 20:53:12
+Finished: 2026-05-08 19:53:12
 
 ### Sumo Deadlift (Barbell)
 
@@ -4473,7 +4478,7 @@ Finished: 2026-05-08 20:53:12
 - Sleep: 7.20 h asleep (7.70 h in bed, deep 0.92 h, REM 1.33 h, awake 0.50 h)
 
 **Week 1 · Day 4**
-Finished: 2026-05-06 20:23:07
+Finished: 2026-05-06 19:23:07
 
 ### Bench Press (Barbell)
 
@@ -4510,7 +4515,7 @@ Finished: 2026-05-06 20:23:07
 - Sleep: 7.64 h asleep (7.96 h in bed, deep 1.43 h, REM 0.98 h, awake 0.32 h)
 
 **Week 1 · Day 3**
-Finished: 2026-05-05 21:16:30
+Finished: 2026-05-05 20:16:30
 
 ### Squat (Low Bar)
 
@@ -4551,7 +4556,7 @@ Exercise notes: Added extra rep because of discount
 - Sleep: 7.11 h asleep (7.26 h in bed, deep 0.95 h, REM 1.15 h, awake 0.15 h)
 
 **Week 1 · Day 2**
-Finished: 2026-05-04 20:47:16
+Finished: 2026-05-04 19:47:16
 
 ### Sumo Deadlift (Paused)
 
@@ -4589,7 +4594,7 @@ Finished: 2026-05-04 20:47:16
 - Sleep: 6.87 h asleep (6.88 h in bed, deep 1.35 h, REM 1.25 h, awake 0.02 h)
 
 **Week 1 · Day 1**
-Finished: 2026-05-03 20:26:55
+Finished: 2026-05-03 19:26:55
 
 ### Bench Press (Paused)
 
@@ -4626,7 +4631,7 @@ Finished: 2026-05-03 20:26:55
 - Sleep: 5.97 h asleep (6.70 h in bed, deep 1.17 h, REM 0.87 h, awake 0.73 h)
 
 **Week 4 · Day 5**
-Finished: 2026-05-01 21:20:32
+Finished: 2026-05-01 20:20:32
 
 ### Squat (Low Bar)
 
@@ -4658,7 +4663,7 @@ Finished: 2026-05-01 21:20:32
 - Sleep: 7.30 h asleep (7.32 h in bed, deep 1.75 h, REM 0.92 h, awake 0.02 h)
 
 **Week 4 · Day 4**
-Finished: 2026-04-29 19:38:52
+Finished: 2026-04-29 18:38:52
 
 ### Bench Press (Barbell)
 
@@ -4687,7 +4692,7 @@ Finished: 2026-04-29 19:38:52
 - Sleep: 7.59 h asleep (7.62 h in bed, deep 1.58 h, REM 1.23 h, awake 0.03 h)
 
 **Week 4 · Day 3**
-Finished: 2026-04-28 06:24:32
+Finished: 2026-04-28 05:24:32
 
 ### Squat (Low Bar)
 
@@ -4713,7 +4718,7 @@ Finished: 2026-04-28 06:24:32
 - Sleep: 6.70 h asleep (6.93 h in bed, deep 0.92 h, REM 1.37 h, awake 0.23 h)
 
 **Week 4 · Day 2**
-Finished: 2026-04-26 18:31:54
+Finished: 2026-04-26 17:31:54
 
 ### Incline Bench Press (Dumbbell)
 
@@ -4742,7 +4747,7 @@ Finished: 2026-04-26 18:31:54
 - Sleep: 6.02 h asleep (6.53 h in bed, deep 1.35 h, REM 0.17 h, awake 0.52 h)
 
 **Week 4 · Day 1**
-Finished: 2026-04-25 19:00:37
+Finished: 2026-04-25 18:00:37
 
 ### Squat (Low Bar)
 
@@ -4774,7 +4779,7 @@ Finished: 2026-04-25 19:00:37
 - Sleep: 6.07 h asleep (6.17 h in bed, deep 1.60 h, REM 0.98 h, awake 0.10 h)
 
 **Week 3 · Day 5**
-Finished: 2026-04-24 19:14:33
+Finished: 2026-04-24 18:14:33
 
 ### Sumo Deadlift (Barbell)
 
@@ -4809,7 +4814,7 @@ Finished: 2026-04-24 19:14:33
 - Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
 
 **Week 3 · Day 4**
-Finished: 2026-04-22 18:56:26
+Finished: 2026-04-22 17:56:26
 
 ### Bench Press (Barbell)
 
@@ -4844,7 +4849,7 @@ Finished: 2026-04-22 18:56:26
 - Sleep: 6.12 h asleep (6.25 h in bed, deep 0.85 h, REM 1.07 h, awake 0.13 h)
 
 **Week 3 · Day 3**
-Finished: 2026-04-22 08:13:57
+Finished: 2026-04-22 07:13:57
 
 ### Squat (Low Bar)
 
@@ -4863,7 +4868,7 @@ Finished: 2026-04-22 08:13:57
 - Sleep: 4.58 h asleep (5.05 h in bed, deep 0.48 h, REM 0.28 h, awake 0.47 h)
 
 **Week 3 · Day 2**
-Finished: 2026-04-20 18:46:28
+Finished: 2026-04-20 17:46:28
 
 ### Sumo Deadlift (Paused)
 
@@ -4893,7 +4898,7 @@ Finished: 2026-04-20 18:46:28
 - Sleep: 7.80 h asleep (7.95 h in bed, deep 1.45 h, REM 1.58 h, awake 0.15 h)
 
 **Week 3 · Day 1**
-Finished: 2026-04-19 21:03:11
+Finished: 2026-04-19 20:03:11
 
 ### Squat (Low Bar)
 
@@ -4924,7 +4929,7 @@ Finished: 2026-04-19 21:03:11
 - Sleep: 7.63 h asleep (7.65 h in bed, deep 1.15 h, REM 1.83 h, awake 0.02 h)
 
 **Week 2 · Day 5**
-Finished: 2026-04-17 21:26:21
+Finished: 2026-04-17 20:26:21
 
 ### Sumo Deadlift (Barbell)
 
@@ -4958,7 +4963,7 @@ Finished: 2026-04-17 21:26:21
 - Sleep: 7.17 h asleep (7.27 h in bed, deep 1.40 h, REM 1.40 h, awake 0.10 h)
 
 **Week 2 · Day 4**
-Finished: 2026-04-15 20:37:42
+Finished: 2026-04-15 19:37:42
 
 ### Bench Press (Barbell)
 
@@ -4998,7 +5003,7 @@ Finished: 2026-04-15 20:37:42
 - Sleep: 6.18 h asleep (6.97 h in bed, deep 0.93 h, REM 0.85 h, awake 0.78 h)
 
 **Week 2 · Day 3**
-Finished: 2026-04-14 21:04:17
+Finished: 2026-04-14 20:04:17
 
 ### Squat (Low Bar)
 
@@ -5033,7 +5038,7 @@ Finished: 2026-04-14 21:04:17
 - Sleep: 5.97 h asleep (6.73 h in bed, deep 1.08 h, REM 0.75 h, awake 0.77 h)
 
 **Week 2 · Day 2**
-Finished: 2026-04-13 20:43:00
+Finished: 2026-04-13 19:43:00
 
 ### Sumo Deadlift (Paused)
 
@@ -5066,7 +5071,7 @@ Finished: 2026-04-13 20:43:00
 - Sleep: 7.73 h asleep (7.92 h in bed, deep 1.22 h, REM 1.48 h, awake 0.18 h)
 
 **Week 2 · Day 1**
-Finished: 2026-04-12 21:01:11
+Finished: 2026-04-12 20:01:11
 
 ### Squat (Low Bar)
 
@@ -5102,7 +5107,7 @@ Finished: 2026-04-12 21:01:11
 - Sleep: 7.33 h asleep (7.38 h in bed, deep 1.98 h, REM 1.07 h, awake 0.05 h)
 
 **Week 1 · Day 5**
-Finished: 2026-04-10 20:59:25
+Finished: 2026-04-10 19:59:25
 
 ### Sumo Deadlift (Barbell)
 
@@ -5133,7 +5138,7 @@ Finished: 2026-04-10 20:59:25
 - Sleep: 7.12 h asleep (7.42 h in bed, deep 1.10 h, REM 1.02 h, awake 0.30 h)
 
 **Week 1 · Day 4**
-Finished: 2026-04-08 20:29:57
+Finished: 2026-04-08 19:29:57
 
 ### Bench Press (Barbell)
 
@@ -5172,7 +5177,7 @@ Finished: 2026-04-08 20:29:57
 - Sleep: 6.67 h asleep (7.25 h in bed, deep 0.95 h, REM 0.70 h, awake 0.58 h)
 
 **Week 1 · Day 3**
-Finished: 2026-04-07 20:51:03
+Finished: 2026-04-07 19:51:03
 
 ### Squat (Low Bar)
 
@@ -5207,7 +5212,7 @@ Finished: 2026-04-07 20:51:03
 - Sleep: 6.75 h asleep (7.33 h in bed, deep 1 h, REM 1.33 h, awake 0.58 h)
 
 **Week 1 · Day 2**
-Finished: 2026-04-06 21:02:00
+Finished: 2026-04-06 20:02:00
 
 ### Sumo Deadlift (Paused)
 
@@ -5243,7 +5248,7 @@ Finished: 2026-04-06 21:02:00
 - Sleep: 7.23 h asleep (7.82 h in bed, deep 1.25 h, REM 1.13 h, awake 0.58 h)
 
 **Week 1 · Day 1**
-Finished: 2026-04-05 21:02:59
+Finished: 2026-04-05 20:02:59
 
 ### Squat (Low Bar)
 
@@ -5281,7 +5286,7 @@ Finished: 2026-04-05 21:02:59
 - Sleep: 7.53 h asleep (7.55 h in bed, deep 1.32 h, REM 1.33 h, awake 0.02 h)
 
 **Week 3 · Day 5**
-Finished: 2026-04-03 20:56:17
+Finished: 2026-04-03 19:56:17
 
 ### Sumo Deadlift (Barbell)
 
@@ -5315,7 +5320,7 @@ Finished: 2026-04-03 20:56:17
 - Sleep: 7.12 h asleep (7.22 h in bed, deep 1.10 h, REM 1.55 h, awake 0.10 h)
 
 **Week 3 · Day 4**
-Finished: 2026-04-01 20:47:04
+Finished: 2026-04-01 19:47:04
 
 ### Bench Press (Barbell)
 
@@ -5363,7 +5368,7 @@ Finished: 2026-04-01 20:47:04
 - Sleep: 7.23 h asleep (7.45 h in bed, deep 1.20 h, REM 0.90 h, awake 0.22 h)
 
 **Week 3 · Day 3**
-Finished: 2026-03-31 21:05:23
+Finished: 2026-03-31 20:05:23
 
 ### Tempo Squat (Barbell)
 
@@ -5401,7 +5406,7 @@ Finished: 2026-03-31 21:05:23
 - Sleep: 6.36 h asleep (6.86 h in bed, deep 0.93 h, REM 0.35 h, awake 0.50 h)
 
 **Week 3 · Day 2**
-Finished: 2026-03-30 21:00:00
+Finished: 2026-03-30 20:00:00
 
 ### Sumo Deadlift (Paused)
 
@@ -5441,7 +5446,7 @@ Finished: 2026-03-30 21:00:00
 - Sleep: 7.52 h asleep (7.72 h in bed, deep 1.10 h, REM 0.93 h, awake 0.20 h)
 
 **Week 3 · Day 1**
-Finished: 2026-03-29 21:09:15
+Finished: 2026-03-29 20:09:15
 
 ### Squat (Low Bar)
 
@@ -5481,7 +5486,7 @@ Finished: 2026-03-29 21:09:15
 - Sleep: 7.28 h asleep (7.40 h in bed, deep 1.67 h, REM 1.30 h, awake 0.12 h)
 
 **Week 2 · Day 5**
-Finished: 2026-03-27 21:03:01
+Finished: 2026-03-27 20:03:01
 
 ### Sumo Deadlift (Barbell)
 
@@ -5515,7 +5520,7 @@ Finished: 2026-03-27 21:03:01
 - Sleep: 7.22 h asleep (7.70 h in bed, deep 1.35 h, REM 1.17 h, awake 0.48 h)
 
 **Week 2 · Day 4**
-Finished: 2026-03-25 20:55:32
+Finished: 2026-03-25 19:55:32
 
 ### Bench Press (Barbell)
 
@@ -5563,7 +5568,7 @@ Finished: 2026-03-25 20:55:32
 - Sleep: 6.75 h asleep (7.05 h in bed, deep 0.82 h, REM 1.28 h, awake 0.30 h)
 
 **Week 2 · Day 3**
-Finished: 2026-03-24 21:05:56
+Finished: 2026-03-24 20:05:56
 
 ### Tempo Squat (Barbell)
 
@@ -5601,7 +5606,7 @@ Finished: 2026-03-24 21:05:56
 - Sleep: 7.15 h asleep (7.53 h in bed, deep 0.78 h, REM 1.53 h, awake 0.38 h)
 
 **Week 2 · Day 2**
-Finished: 2026-03-23 21:02:03
+Finished: 2026-03-23 20:02:03
 
 ### Sumo Deadlift (Paused)
 
@@ -5641,7 +5646,7 @@ Finished: 2026-03-23 21:02:03
 - Sleep: 8.22 h asleep (8.33 h in bed, deep 1.95 h, REM 2.08 h, awake 0.12 h)
 
 **Week 2 · Day 1**
-Finished: 2026-03-22 20:59:05
+Finished: 2026-03-22 19:59:05
 
 ### Squat (Low Bar)
 
@@ -5682,7 +5687,7 @@ Finished: 2026-03-22 20:59:05
 - Sleep: 7.62 h asleep (7.64 h in bed, deep 1.07 h, REM 1.52 h, awake 0.02 h)
 
 **Week 1 · Day 5**
-Finished: 2026-03-20 21:03:57
+Finished: 2026-03-20 20:03:57
 
 ### Sumo Deadlift (Barbell)
 
@@ -5716,7 +5721,7 @@ Finished: 2026-03-20 21:03:57
 - Sleep: 6.23 h asleep (6.77 h in bed, deep 0.55 h, REM 0.77 h, awake 0.53 h)
 
 **Week 1 · Day 4**
-Finished: 2026-03-18 20:35:38
+Finished: 2026-03-18 19:35:38
 
 ### Bench Press (Barbell)
 
@@ -5754,19 +5759,19 @@ Exercise notes: Interestingly every single time my left leg is stronger and fini
   Set 2: 22.5kg x 10 @ RPE 9.5 [target RPE: 8.5-9]
   Set 3: 20.0kg x 10 @ RPE 9 [target RPE: 8.5-9]
 
-## 2026-03-18
+## 2026-03-17
 
 ### Health / Recovery
 
-- Steps: 2399
-- Distance: 2.49 km
-- Total kcal burned: 2474
-- Weight: 79.2 kg
-- Resting heart rate: 45 bpm
-- Sleep: 6.23 h asleep (6.77 h in bed, deep 0.55 h, REM 0.77 h, awake 0.53 h)
+- Steps: 11939
+- Distance: 9.67 km
+- Total kcal burned: 3191
+- Weight: 78.8 kg
+- Resting heart rate: 46 bpm
+- Sleep: 6.85 h asleep (7.18 h in bed, deep 0.98 h, REM 1.28 h, awake 0.33 h)
 
 **Week 1 · Day 3**
-Finished: 2026-03-18 00:17:46
+Finished: 2026-03-17 23:17:46
 
 ### Tempo Squat (Barbell)
 
@@ -5804,7 +5809,7 @@ Finished: 2026-03-18 00:17:46
 - Sleep: 5.58 h asleep (5.92 h in bed, deep 1.03 h, REM 1.02 h, awake 0.33 h)
 
 **Week 1 · Day 2**
-Finished: 2026-03-16 19:51:11
+Finished: 2026-03-16 18:51:11
 
 ### Sumo Deadlift (Paused)
 
@@ -5844,7 +5849,7 @@ Finished: 2026-03-16 19:51:11
 - Sleep: 7.02 h asleep (7.35 h in bed, deep 0.95 h, REM 0.90 h, awake 0.33 h)
 
 **Week 1 · Day 1**
-Finished: 2026-03-15 21:12:03
+Finished: 2026-03-15 20:12:03
 
 ### Squat (Low Bar)
 
@@ -5885,7 +5890,7 @@ Finished: 2026-03-15 21:12:03
 - Sleep: 7.07 h asleep (7.17 h in bed, deep 0.93 h, REM 1.23 h, awake 0.10 h)
 
 **Week 3 · Day 5**
-Finished: 2026-03-13 20:54:12
+Finished: 2026-03-13 19:54:12
 
 ### Sumo Deadlift (Barbell)
 
@@ -5918,7 +5923,7 @@ Finished: 2026-03-13 20:54:12
 - Sleep: 6.90 h asleep (7.13 h in bed, deep 0.53 h, REM 1.52 h, awake 0.23 h)
 
 **Week 3 · Day 4**
-Finished: 2026-03-11 20:35:07
+Finished: 2026-03-11 19:35:07
 
 ### Bench Press (Barbell)
 
@@ -5963,7 +5968,7 @@ Finished: 2026-03-11 20:35:07
 - Sleep: 6.85 h asleep (6.87 h in bed, deep 0.72 h, REM 1.05 h, awake 0.02 h)
 
 **Week 3 · Day 3**
-Finished: 2026-03-10 20:57:00
+Finished: 2026-03-10 19:57:00
 
 ### Tempo Squat (Barbell)
 
@@ -5998,7 +6003,7 @@ Finished: 2026-03-10 20:57:00
 - Sleep: 7.82 h asleep (7.82 h in bed, deep 1.17 h, REM 1.95 h, awake 0 h)
 
 **Week 3 · Day 2**
-Finished: 2026-03-09 21:07:48
+Finished: 2026-03-09 20:07:48
 
 ### Sumo Deadlift (Paused)
 
@@ -6037,7 +6042,7 @@ Finished: 2026-03-09 21:07:48
 - Sleep: 8.27 h asleep (8.32 h in bed, deep 1.30 h, REM 1.80 h, awake 0.05 h)
 
 **Week 3 · Day 1**
-Finished: 2026-03-08 21:14:39
+Finished: 2026-03-08 20:14:39
 
 ### Squat (Low Bar)
 
@@ -6077,7 +6082,7 @@ Finished: 2026-03-08 21:14:39
 - Sleep: 8.38 h asleep (8.85 h in bed, deep 1.37 h, REM 1.27 h, awake 0.47 h)
 
 **Week 2 · Day 5**
-Finished: 2026-03-06 21:06:07
+Finished: 2026-03-06 20:06:07
 
 ### Sumo Deadlift (Barbell)
 
@@ -6110,7 +6115,7 @@ Finished: 2026-03-06 21:06:07
 - Sleep: 6.83 h asleep (7.18 h in bed, deep 0.57 h, REM 1.17 h, awake 0.35 h)
 
 **Week 2 · Day 4**
-Finished: 2026-03-04 19:04:27
+Finished: 2026-03-04 18:04:27
 
 ### Bench Press (Barbell)
 
@@ -6159,7 +6164,7 @@ Finished: 2026-03-04 19:04:27
 - Sleep: 6.12 h asleep (6.17 h in bed, deep 0.37 h, REM 1.35 h, awake 0.05 h)
 
 **Week 2 · Day 3**
-Finished: 2026-03-03 20:58:05
+Finished: 2026-03-03 19:58:05
 
 ### Tempo Squat (Barbell)
 
@@ -6199,7 +6204,7 @@ Finished: 2026-03-03 20:58:05
 - Sleep: 7.72 h asleep (7.82 h in bed, deep 1.37 h, REM 1.23 h, awake 0.10 h)
 
 **Week 2 · Day 2**
-Finished: 2026-03-02 20:51:22
+Finished: 2026-03-02 19:51:22
 
 ### Sumo Deadlift (Paused)
 
@@ -6238,7 +6243,7 @@ Finished: 2026-03-02 20:51:22
 - Sleep: 9.32 h asleep (9.72 h in bed, deep 0.68 h, REM 2.25 h, awake 0.40 h)
 
 **Week 2 · Day 1**
-Finished: 2026-03-01 21:03:42
+Finished: 2026-03-01 20:03:42
 
 ### Squat (Low Bar)
 
@@ -6278,7 +6283,7 @@ Finished: 2026-03-01 21:03:42
 - Sleep: 6.83 h asleep (7.07 h in bed, deep 0.90 h, REM 1.27 h, awake 0.23 h)
 
 **Week 1 · Day 5**
-Finished: 2026-02-27 22:52:15
+Finished: 2026-02-27 21:52:15
 
 ### Sumo Deadlift (Barbell)
 
@@ -6311,7 +6316,7 @@ Finished: 2026-02-27 22:52:15
 - Sleep: 7.22 h asleep (7.30 h in bed, deep 0.92 h, REM 1.75 h, awake 0.08 h)
 
 **Week 1 · Day 4**
-Finished: 2026-02-25 20:38:49
+Finished: 2026-02-25 19:38:49
 
 ### Bench Press (Barbell)
 
@@ -6351,7 +6356,7 @@ Finished: 2026-02-25 20:38:49
 - Sleep: 6.88 h asleep (7.50 h in bed, deep 0.95 h, REM 1.30 h, awake 0.62 h)
 
 **Week 1 · Day 3**
-Finished: 2026-02-24 20:58:39
+Finished: 2026-02-24 19:58:39
 
 ### Tempo Squat (Barbell)
 
@@ -6400,7 +6405,7 @@ Finished: 2026-02-24 20:58:39
 - Sleep: 4.92 h asleep (4.92 h in bed, deep 1.07 h, REM 0.58 h, awake 0 h)
 
 **Week 1 · Day 2**
-Finished: 2026-02-23 21:07:47
+Finished: 2026-02-23 20:07:47
 
 ### Sumo Deadlift (Paused)
 
@@ -6440,7 +6445,7 @@ Finished: 2026-02-23 21:07:47
 - Sleep: 9.68 h asleep (10.40 h in bed, deep 1.40 h, REM 2.85 h, awake 0.72 h)
 
 **Week 1 · Day 1**
-Finished: 2026-02-22 21:27:40
+Finished: 2026-02-22 20:27:40
 
 ### Squat (Low Bar)
 
@@ -6481,7 +6486,7 @@ Finished: 2026-02-22 21:27:40
 - Sleep: 7.05 h asleep (7.38 h in bed, deep 1.50 h, REM 1.35 h, awake 0.33 h)
 
 **Week 4 · Day 5**
-Finished: 2026-02-21 02:24:55
+Finished: 2026-02-21 01:24:55
 
 ### Squat (Low Bar)
 
@@ -6511,7 +6516,7 @@ Finished: 2026-02-21 02:24:55
 - Sleep: 7.83 h asleep (8.05 h in bed, deep 1.47 h, REM 1.58 h, awake 0.22 h)
 
 **Week 4 · Day 4**
-Finished: 2026-02-18 20:42:09
+Finished: 2026-02-18 19:42:09
 
 ### Bench Press (Barbell)
 
@@ -6549,7 +6554,7 @@ Finished: 2026-02-18 20:42:09
 - Sleep: 7.72 h asleep (8.08 h in bed, deep 1.17 h, REM 1.13 h, awake 0.37 h)
 
 **Week 4 · Day 3**
-Finished: 2026-02-17 21:20:23
+Finished: 2026-02-17 20:20:23
 
 ### Tempo Squat (Barbell)
 
@@ -6593,7 +6598,7 @@ Finished: 2026-02-17 21:20:23
 - Sleep: 3.53 h asleep (3.73 h in bed, deep 1.43 h, REM 0 h, awake 0.20 h)
 
 **Week 4 · Day 2**
-Finished: 2026-02-16 21:01:57
+Finished: 2026-02-16 20:01:57
 
 ### Sumo Deadlift (Paused)
 
@@ -6631,7 +6636,7 @@ Finished: 2026-02-16 21:01:57
 - Sleep: 2.38 h asleep (2.43 h in bed, deep 0.72 h, REM 0.30 h, awake 0.05 h)
 
 **Week 4 · Day 1**
-Finished: 2026-02-15 21:39:01
+Finished: 2026-02-15 20:39:01
 
 ### Squat (Low Bar)
 
@@ -6667,7 +6672,7 @@ Finished: 2026-02-15 21:39:01
 - Sleep: 6.92 h asleep (6.93 h in bed, deep 1.07 h, REM 1.48 h, awake 0.02 h)
 
 **Week 3 · Day 5**
-Finished: 2026-02-14 04:32:54
+Finished: 2026-02-14 03:32:54
 
 ### Sumo Deadlift (Barbell)
 
@@ -6705,7 +6710,7 @@ Finished: 2026-02-14 04:32:54
 - Sleep: 5.35 h asleep (5.40 h in bed, deep 1.20 h, REM 0.97 h, awake 0.05 h)
 
 **Week 3 · Day 4**
-Finished: 2026-02-12 02:10:28
+Finished: 2026-02-12 01:10:28
 
 ### Bench Press (Barbell)
 
@@ -6743,7 +6748,7 @@ Finished: 2026-02-12 02:10:28
 - Sleep: 7.97 h asleep (8.15 h in bed, deep 0.97 h, REM 1.30 h, awake 0.18 h)
 
 **Week 3 · Day 3**
-Finished: 2026-02-11 05:03:56
+Finished: 2026-02-11 04:03:56
 
 ### Tempo Squat (Barbell)
 
@@ -6787,7 +6792,7 @@ Finished: 2026-02-11 05:03:56
 - Sleep: 5.38 h asleep (5.47 h in bed, deep 0.92 h, REM 0.83 h, awake 0.08 h)
 
 **Week 3 · Day 2**
-Finished: 2026-02-10 02:12:02
+Finished: 2026-02-10 01:12:02
 
 ### Sumo Deadlift (Paused)
 
@@ -6825,7 +6830,7 @@ Finished: 2026-02-10 02:12:02
 - Sleep: 5.97 h asleep (6.05 h in bed, deep 1.08 h, REM 0.78 h, awake 0.08 h)
 
 **Week 3 · Day 1**
-Finished: 2026-02-09 02:28:21
+Finished: 2026-02-09 01:28:21
 
 ### Squat (Low Bar)
 
@@ -6863,7 +6868,7 @@ Finished: 2026-02-09 02:28:21
 - Sleep: 6.70 h asleep (6.83 h in bed, deep 1.15 h, REM 1.47 h, awake 0.13 h)
 
 **Week 2 · Day 5**
-Finished: 2026-02-07 04:06:42
+Finished: 2026-02-07 03:06:42
 
 ### Sumo Deadlift (Barbell)
 
@@ -6900,7 +6905,7 @@ Finished: 2026-02-07 04:06:42
 - Sleep: 5 h asleep (5.03 h in bed, deep 1.35 h, REM 0.93 h, awake 0.03 h)
 
 **Week 2 · Day 4**
-Finished: 2026-02-06 14:19:23
+Finished: 2026-02-06 13:19:23
 
 ### Bench Press (Barbell)
 
@@ -6939,7 +6944,7 @@ Finished: 2026-02-06 14:19:23
 - Sleep: 6.45 h asleep (6.50 h in bed, deep 0.83 h, REM 1.13 h, awake 0.05 h)
 
 **Feb 4 Workout**
-Finished: 2026-02-04 14:09:50
+Finished: 2026-02-04 13:09:50
 
 ### Bench Press (Barbell)
 
@@ -6964,7 +6969,7 @@ Finished: 2026-02-04 14:09:50
 - Sleep: 3.65 h asleep (4.35 h in bed, deep 0.83 h, REM 0 h, awake 0.70 h)
 
 **Week 2 · Day 3**
-Finished: 2026-02-03 11:39:28
+Finished: 2026-02-03 10:39:28
 
 ### Tempo Squat (Barbell)
 
@@ -7016,7 +7021,7 @@ Finished: 2026-02-03 11:39:28
 - Sleep: 6.87 h asleep (7.07 h in bed, deep 0.92 h, REM 0.78 h, awake 0.20 h)
 
 **Week 2 · Day 2**
-Finished: 2026-02-01 21:05:07
+Finished: 2026-02-01 20:05:07
 
 ### Sumo Deadlift (Paused)
 
@@ -7056,7 +7061,7 @@ Finished: 2026-02-01 21:05:07
 - Sleep: 3.87 h asleep (3.87 h in bed, deep 1.30 h, REM 0.68 h, awake 0 h)
 
 **Week 2 · Day 1**
-Finished: 2026-01-31 22:01:32
+Finished: 2026-01-31 21:01:32
 
 ### Squat (Low Bar)
 
@@ -7096,7 +7101,7 @@ Finished: 2026-01-31 22:01:32
 - Sleep: 9.18 h asleep (9.27 h in bed, deep 1.17 h, REM 2.07 h, awake 0.08 h)
 
 **Week 1 · Day 5**
-Finished: 2026-01-30 21:17:12
+Finished: 2026-01-30 20:17:12
 
 ### Sumo Deadlift (Barbell)
 
@@ -7137,7 +7142,7 @@ Finished: 2026-01-30 21:17:12
 - Sleep: 7.40 h asleep (7.48 h in bed, deep 1.20 h, REM 1.82 h, awake 0.08 h)
 
 **Week 1 · Day 4**
-Finished: 2026-01-28 20:57:58
+Finished: 2026-01-28 19:57:58
 
 ### Romanian Deadlift (Barbell)
 
@@ -7181,7 +7186,7 @@ Finished: 2026-01-28 20:57:58
 - Sleep: 5.65 h asleep (6.18 h in bed, deep 0.80 h, REM 1.07 h, awake 0.53 h)
 
 **Week 1 · Day 3**
-Finished: 2026-01-27 21:13:19
+Finished: 2026-01-27 20:13:19
 
 ### Squat (Paused)
 
@@ -7220,7 +7225,7 @@ Finished: 2026-01-27 21:13:19
 - Sleep: 7.33 h asleep (7.35 h in bed, deep 1.68 h, REM 1.48 h, awake 0.02 h)
 
 **Week 1 · Day 2**
-Finished: 2026-01-26 21:14:41
+Finished: 2026-01-26 20:14:41
 
 ### Sumo Deadlift (Paused)
 
@@ -7258,7 +7263,7 @@ Finished: 2026-01-26 21:14:41
 - Sleep: 8.48 h asleep (8.88 h in bed, deep 0.90 h, REM 1.83 h, awake 0.40 h)
 
 **Week 1 · Day 1**
-Finished: 2026-01-25 21:13:24
+Finished: 2026-01-25 20:13:24
 
 ### Squat (Low Bar)
 
@@ -7300,7 +7305,7 @@ Finished: 2026-01-25 21:13:24
 - Sleep: 6.85 h asleep (6.87 h in bed, deep 0.80 h, REM 1.05 h, awake 0.02 h)
 
 **Week 4 · Day 5**
-Finished: 2026-01-23 21:20:41
+Finished: 2026-01-23 20:20:41
 
 ### Squat (Low Bar)
 
@@ -7340,7 +7345,7 @@ Finished: 2026-01-23 21:20:41
 - Sleep: 6.98 h asleep (7.05 h in bed, deep 1.33 h, REM 1.73 h, awake 0.07 h)
 
 **Week 4 · Day 4**
-Finished: 2026-01-21 20:44:04
+Finished: 2026-01-21 19:44:04
 
 ### Bench Press (Barbell)
 
@@ -7381,7 +7386,7 @@ Finished: 2026-01-21 20:44:04
 - Sleep: 7.73 h asleep (7.75 h in bed, deep 0.93 h, REM 1.88 h, awake 0.02 h)
 
 **Week 4 · Day 3**
-Finished: 2026-01-20 21:38:49
+Finished: 2026-01-20 20:38:49
 
 ### Tempo Squat (Barbell)
 
@@ -7433,7 +7438,7 @@ Finished: 2026-01-20 21:38:49
 - Sleep: 7.27 h asleep (7.55 h in bed, deep 1.18 h, REM 0.75 h, awake 0.28 h)
 
 **Week 4 · Day 2**
-Finished: 2026-01-19 21:33:08
+Finished: 2026-01-19 20:33:08
 
 ### Sumo Deadlift (Paused)
 
@@ -7473,7 +7478,7 @@ Finished: 2026-01-19 21:33:08
 - Sleep: 7.48 h asleep (7.62 h in bed, deep 1.22 h, REM 1.77 h, awake 0.13 h)
 
 **Week 4 · Day 1**
-Finished: 2026-01-18 21:24:19
+Finished: 2026-01-18 20:24:19
 
 ### Squat (Low Bar)
 
@@ -7513,7 +7518,7 @@ Finished: 2026-01-18 21:24:19
 - Sleep: 7.30 h asleep (7.33 h in bed, deep 1.17 h, REM 1.85 h, awake 0.03 h)
 
 **Week 3 · Day 5**
-Finished: 2026-01-16 21:12:26
+Finished: 2026-01-16 20:12:26
 
 ### Sumo Deadlift (Barbell)
 
@@ -7553,7 +7558,7 @@ Finished: 2026-01-16 21:12:26
 - Sleep: 7.22 h asleep (7.83 h in bed, deep 1.05 h, REM 1.80 h, awake 0.62 h)
 
 **Week 3 · Day 4**
-Finished: 2026-01-14 20:49:26
+Finished: 2026-01-14 19:49:26
 
 ### Bench Press (Barbell)
 
@@ -7594,7 +7599,7 @@ Finished: 2026-01-14 20:49:26
 - Sleep: 6.37 h asleep (6.50 h in bed, deep 0.75 h, REM 1.12 h, awake 0.13 h)
 
 **Week 3 · Day 3**
-Finished: 2026-01-13 21:33:10
+Finished: 2026-01-13 20:33:10
 
 ### Tempo Squat (Barbell)
 
@@ -7642,7 +7647,7 @@ Finished: 2026-01-13 21:33:10
 - Sleep: 7.67 h asleep (7.73 h in bed, deep 1.48 h, REM 1.15 h, awake 0.07 h)
 
 **Week 3 · Day 2**
-Finished: 2026-01-12 20:58:20
+Finished: 2026-01-12 19:58:20
 
 ### Sumo Deadlift (Paused)
 
@@ -7681,7 +7686,7 @@ Finished: 2026-01-12 20:58:20
 - Sleep: 8.22 h asleep (8.42 h in bed, deep 0.83 h, REM 2.07 h, awake 0.20 h)
 
 **Week 3 · Day 1**
-Finished: 2026-01-11 21:21:55
+Finished: 2026-01-11 20:21:55
 
 ### Squat (Low Bar)
 
@@ -7721,7 +7726,7 @@ Exercise notes: Best 3 RM
 - Sleep: 6.98 h asleep (7.05 h in bed, deep 0.92 h, REM 1.43 h, awake 0.07 h)
 
 **Week 2 · Day 5**
-Finished: 2026-01-09 21:23:39
+Finished: 2026-01-09 20:23:39
 
 ### Sumo Deadlift (Barbell)
 
@@ -7761,7 +7766,7 @@ Finished: 2026-01-09 21:23:39
 - Sleep: 6.97 h asleep (7.10 h in bed, deep 1.02 h, REM 0.90 h, awake 0.13 h)
 
 **Week 2 · Day 4**
-Finished: 2026-01-07 22:55:00
+Finished: 2026-01-07 21:55:00
 
 ### Bench Press (Barbell)
 
@@ -7797,7 +7802,7 @@ Finished: 2026-01-07 22:55:00
 - Sleep: 6.70 h asleep (8.25 h in bed, deep 0.97 h, REM 1.10 h, awake 1.55 h)
 
 **Week 2 · Day 3**
-Finished: 2026-01-06 21:32:35
+Finished: 2026-01-06 20:32:35
 
 ### Tempo Squat (Barbell)
 
@@ -7843,7 +7848,7 @@ Finished: 2026-01-06 21:32:35
 - Sleep: 8.12 h asleep (8.42 h in bed, deep 1.12 h, REM 1.47 h, awake 0.30 h)
 
 **Week 2 · Day 2**
-Finished: 2026-01-05 21:14:40
+Finished: 2026-01-05 20:14:40
 
 ### Sumo Deadlift (Paused)
 
@@ -7883,7 +7888,7 @@ Finished: 2026-01-05 21:14:40
 - Sleep: 8.35 h asleep (8.45 h in bed, deep 0.43 h, REM 2.42 h, awake 0.10 h)
 
 **Week 2 · Day 1**
-Finished: 2026-01-04 21:09:55
+Finished: 2026-01-04 20:09:55
 
 ### Squat (Low Bar)
 
@@ -7923,7 +7928,7 @@ Finished: 2026-01-04 21:09:55
 - Sleep: 8.57 h asleep (8.70 h in bed, deep 0.85 h, REM 2.10 h, awake 0.13 h)
 
 **Week 1 · Day 5**
-Finished: 2026-01-02 21:18:26
+Finished: 2026-01-02 20:18:26
 
 ### Sumo Deadlift (Barbell)
 
@@ -7964,7 +7969,7 @@ Finished: 2026-01-02 21:18:26
 - Sleep: 7.50 h asleep (8.35 h in bed, deep 0.65 h, REM 0.95 h, awake 0.85 h)
 
 **Week 1 · Day 4**
-Finished: 2025-12-31 20:48:28
+Finished: 2025-12-31 19:48:28
 
 ### Bench Press (Barbell)
 
@@ -8006,7 +8011,7 @@ Finished: 2025-12-31 20:48:28
 - Sleep: 7.92 h asleep (8.20 h in bed, deep 0.72 h, REM 2.12 h, awake 0.28 h)
 
 **Week 1 · Day 3**
-Finished: 2025-12-30 21:25:31
+Finished: 2025-12-30 20:25:31
 
 ### Tempo Squat (Barbell)
 
@@ -8054,7 +8059,7 @@ Finished: 2025-12-30 21:25:31
 - Sleep: 7.50 h asleep (7.62 h in bed, deep 1.60 h, REM 1.42 h, awake 0.12 h)
 
 **Week 1 · Day 2**
-Finished: 2025-12-29 21:30:21
+Finished: 2025-12-29 20:30:21
 
 ### Sumo Deadlift (Paused)
 
@@ -8098,7 +8103,7 @@ Finished: 2025-12-29 21:30:21
 - Sleep: 8.98 h asleep (9.65 h in bed, deep 0.87 h, REM 1.58 h, awake 0.67 h)
 
 **Week 1 · Day 1**
-Finished: 2025-12-28 21:20:42
+Finished: 2025-12-28 20:20:42
 
 ### Squat (Low Bar)
 
@@ -8137,7 +8142,7 @@ Finished: 2025-12-28 21:20:42
 - Sleep: 8.17 h asleep (8.60 h in bed, deep 1 h, REM 1.62 h, awake 0.43 h)
 
 **Week 3 · Day 5**
-Finished: 2025-12-26 21:19:11
+Finished: 2025-12-26 20:19:11
 
 ### Sumo Deadlift (Barbell)
 
@@ -8184,7 +8189,7 @@ Exercise notes: Attempt 5 RM PR
 - Sleep: 6.98 h asleep (7.18 h in bed, deep 0.85 h, REM 1.22 h, awake 0.20 h)
 
 **Week 3 · Day 4**
-Finished: 2025-12-23 20:48:58
+Finished: 2025-12-23 19:48:58
 
 ### Bench Press (Barbell)
 
@@ -8227,7 +8232,7 @@ Exercise notes: Attempt 5 RM PR
 - Sleep: 6 h asleep (6.03 h in bed, deep 1.23 h, REM 1.02 h, awake 0.03 h)
 
 **Week 3 · Day 2**
-Finished: 2025-12-22 05:53:06
+Finished: 2025-12-22 04:53:06
 
 ### Block Pull (Barbell)
 
@@ -8266,7 +8271,7 @@ Finished: 2025-12-22 05:53:06
 - Sleep: 7.37 h asleep (7.58 h in bed, deep 1.27 h, REM 1.33 h, awake 0.22 h)
 
 **Week 3 · Day 1**
-Finished: 2025-12-20 21:14:05
+Finished: 2025-12-20 20:14:05
 
 ### Squat (Low Bar)
 
@@ -8309,7 +8314,7 @@ Exercise notes: Attempt 5 RM PR
 - Sleep: 7.60 h asleep (7.68 h in bed, deep 1.08 h, REM 1 h, awake 0.08 h)
 
 **Week 2 · Day 5**
-Finished: 2025-12-19 21:14:33
+Finished: 2025-12-19 20:14:33
 
 ### Sumo Deadlift (Barbell)
 
@@ -8342,7 +8347,7 @@ Finished: 2025-12-19 21:14:33
 - Sleep: 7.48 h asleep (8.15 h in bed, deep 1.10 h, REM 1.22 h, awake 0.67 h)
 
 **Week 2 · Day 4**
-Finished: 2025-12-17 20:55:48
+Finished: 2025-12-17 19:55:48
 
 ### Bench Press (Barbell)
 
@@ -8383,7 +8388,7 @@ Finished: 2025-12-17 20:55:48
 - Sleep: 7.27 h asleep (7.47 h in bed, deep 1.12 h, REM 0.83 h, awake 0.20 h)
 
 **Week 2 · Day 3**
-Finished: 2025-12-16 21:03:51
+Finished: 2025-12-16 20:03:51
 
 ### Tempo Squat (Barbell)
 
@@ -8422,7 +8427,7 @@ Finished: 2025-12-16 21:03:51
 - Sleep: 7.57 h asleep (7.58 h in bed, deep 1.77 h, REM 1.15 h, awake 0.02 h)
 
 **Week 2 · Day 2**
-Finished: 2025-12-15 20:53:22
+Finished: 2025-12-15 19:53:22
 
 ### Sumo Deadlift (Paused)
 
@@ -8462,7 +8467,7 @@ Finished: 2025-12-15 20:53:22
 - Sleep: 8.78 h asleep (9.27 h in bed, deep 1 h, REM 2.40 h, awake 0.48 h)
 
 **Week 2 · Day 1**
-Finished: 2025-12-14 21:16:18
+Finished: 2025-12-14 20:16:18
 
 ### Squat (Low Bar)
 
@@ -8503,7 +8508,7 @@ Finished: 2025-12-14 21:16:18
 - Sleep: 7.93 h asleep (8.20 h in bed, deep 0.45 h, REM 1.25 h, awake 0.27 h)
 
 **Week 1 · Day 5**
-Finished: 2025-12-12 21:17:24
+Finished: 2025-12-12 20:17:24
 
 ### Squat (Low Bar)
 
@@ -8551,7 +8556,7 @@ Finished: 2025-12-12 21:17:24
 - Sleep: 7.32 h asleep (7.63 h in bed, deep 0.93 h, REM 1.40 h, awake 0.32 h)
 
 **Week 1 · Day 4**
-Finished: 2025-12-10 20:21:10
+Finished: 2025-12-10 19:21:10
 
 ### Bench Press (Paused)
 
@@ -8597,7 +8602,7 @@ Finished: 2025-12-10 20:21:10
 - Sleep: 6.65 h asleep (6.67 h in bed, deep 0.80 h, REM 1.87 h, awake 0.02 h)
 
 **Week 1 · Day 3**
-Finished: 2025-12-09 20:58:19
+Finished: 2025-12-09 19:58:19
 
 ### Sumo Deadlift (Barbell)
 
@@ -8644,7 +8649,7 @@ Finished: 2025-12-09 20:58:19
 - Sleep: 8.13 h asleep (8.25 h in bed, deep 0.62 h, REM 1.48 h, awake 0.12 h)
 
 **Week 1 · Day 2**
-Finished: 2025-12-08 20:34:20
+Finished: 2025-12-08 19:34:20
 
 ### Bench Press (Barbell)
 
@@ -8693,7 +8698,7 @@ Finished: 2025-12-08 20:34:20
 - Sleep: 7.92 h asleep (8.17 h in bed, deep 1.07 h, REM 0.72 h, awake 0.25 h)
 
 **Week 1 · Day 1**
-Finished: 2025-12-07 20:52:51
+Finished: 2025-12-07 19:52:51
 
 ### Squat (Low Bar)
 
@@ -8741,7 +8746,7 @@ Finished: 2025-12-07 20:52:51
 - Sleep: 7.03 h asleep (7.03 h in bed, deep 1.57 h, REM 1.25 h, awake 0 h)
 
 **Dec 5 Workout**
-Finished: 2025-12-04 23:20:19
+Finished: 2025-12-04 22:20:19
 
 ### Squat (Low Bar)
 
@@ -8767,7 +8772,7 @@ Finished: 2025-12-04 23:20:19
 - Sleep: 7.92 h asleep (8.03 h in bed, deep 0.93 h, REM 1.55 h, awake 0.12 h)
 
 **Dec 4 Workout**
-Finished: 2025-12-03 21:16:27
+Finished: 2025-12-03 20:16:27
 
 ### Squat (Low Bar)
 
@@ -8795,7 +8800,7 @@ Finished: 2025-12-03 21:16:27
 - Sleep: 8.42 h asleep (8.73 h in bed, deep 1.08 h, REM 1.45 h, awake 0.32 h)
 
 **Week 1 · Day 2**
-Finished: 2025-11-30 21:08:50
+Finished: 2025-11-30 20:08:50
 
 ### Squat (Low Bar)
 
@@ -8821,7 +8826,7 @@ Finished: 2025-11-30 21:08:50
 - Sleep: 8 h asleep (8.12 h in bed, deep 0.85 h, REM 1.98 h, awake 0.12 h)
 
 **Week 1 · Day 1**
-Finished: 2025-11-28 22:24:30
+Finished: 2025-11-28 21:24:30
 
 ### Squat (Low Bar)
 
@@ -8849,7 +8854,7 @@ Finished: 2025-11-28 22:24:30
 - Sleep: 7.28 h asleep (7.63 h in bed, deep 1.13 h, REM 1.08 h, awake 0.35 h)
 
 **Week 4 · Day 5**
-Finished: 2025-11-26 21:02:52
+Finished: 2025-11-26 20:02:52
 
 ### Tempo Squat (Barbell)
 
@@ -8887,7 +8892,7 @@ Finished: 2025-11-26 21:02:52
 - Sleep: 7.02 h asleep (7.23 h in bed, deep 0.75 h, REM 1.27 h, awake 0.22 h)
 
 **Week 4 · Day 4**
-Finished: 2025-11-25 21:09:26
+Finished: 2025-11-25 20:09:26
 
 ### Bench Press (Paused)
 
@@ -8931,7 +8936,7 @@ Finished: 2025-11-25 21:09:26
 - Sleep: 7.98 h asleep (8.15 h in bed, deep 1.87 h, REM 1.63 h, awake 0.17 h)
 
 **Week 4 · Day 3**
-Finished: 2025-11-24 20:03:18
+Finished: 2025-11-24 19:03:18
 
 ### Sumo Deadlift (Barbell)
 
@@ -8971,7 +8976,7 @@ Finished: 2025-11-24 20:03:18
 - Sleep: 8.37 h asleep (8.88 h in bed, deep 1.20 h, REM 1.53 h, awake 0.52 h)
 
 **Week 4 · Day 2**
-Finished: 2025-11-23 20:41:24
+Finished: 2025-11-23 19:41:24
 
 ### Bench Press (Barbell)
 
@@ -9012,7 +9017,7 @@ Finished: 2025-11-23 20:41:24
 - Sleep: 7.02 h asleep (7.38 h in bed, deep 0.63 h, REM 1.07 h, awake 0.37 h)
 
 **Week 4 · Day 1**
-Finished: 2025-11-21 21:12:38
+Finished: 2025-11-21 20:12:38
 
 ### Squat (Low Bar)
 
@@ -9052,7 +9057,7 @@ Finished: 2025-11-21 21:12:38
 - Sleep: 7.08 h asleep (7.15 h in bed, deep 0.95 h, REM 1.42 h, awake 0.07 h)
 
 **Week 3 · Day 5**
-Finished: 2025-11-19 20:38:41
+Finished: 2025-11-19 19:38:41
 
 ### Tempo Squat (Barbell)
 
@@ -9091,7 +9096,7 @@ Finished: 2025-11-19 20:38:41
 - Sleep: 7.65 h asleep (7.95 h in bed, deep 0.73 h, REM 1.18 h, awake 0.30 h)
 
 **Week 3 · Day 4**
-Finished: 2025-11-18 20:32:39
+Finished: 2025-11-18 19:32:39
 
 ### Bench Press (Paused)
 
@@ -9132,7 +9137,7 @@ Finished: 2025-11-18 20:32:39
 - Sleep: 8.60 h asleep (8.85 h in bed, deep 1.23 h, REM 1.53 h, awake 0.25 h)
 
 **Week 3 · Day 3**
-Finished: 2025-11-17 21:03:42
+Finished: 2025-11-17 20:03:42
 
 ### Sumo Deadlift (Barbell)
 
@@ -9172,7 +9177,7 @@ Finished: 2025-11-17 21:03:42
 - Sleep: 5.90 h asleep (5.93 h in bed, deep 0.97 h, REM 0.92 h, awake 0.03 h)
 
 **Week 3 · Day 2**
-Finished: 2025-11-16 20:37:25
+Finished: 2025-11-16 19:37:25
 
 ### Bench Press (Barbell)
 
@@ -9214,7 +9219,7 @@ Finished: 2025-11-16 20:37:25
 - Sleep: 7.77 h asleep (7.90 h in bed, deep 1.08 h, REM 1.20 h, awake 0.13 h)
 
 **Week 3 · Day 1**
-Finished: 2025-11-14 21:07:44
+Finished: 2025-11-14 20:07:44
 
 ### Squat (Low Bar)
 
@@ -9256,7 +9261,7 @@ Finished: 2025-11-14 21:07:44
 - Sleep: 7.02 h asleep (7.13 h in bed, deep 1.23 h, REM 1.30 h, awake 0.12 h)
 
 **Week 2 · Day 5**
-Finished: 2025-11-12 20:45:07
+Finished: 2025-11-12 19:45:07
 
 ### Tempo Squat (Barbell)
 
@@ -9295,7 +9300,7 @@ Finished: 2025-11-12 20:45:07
 - Sleep: 8.20 h asleep (8.43 h in bed, deep 1.38 h, REM 1.32 h, awake 0.23 h)
 
 **Week 2 · Day 4**
-Finished: 2025-11-11 20:19:28
+Finished: 2025-11-11 19:19:28
 
 ### Bench Press (Paused)
 
@@ -9337,7 +9342,7 @@ Finished: 2025-11-11 20:19:28
 - Sleep: 8.70 h asleep (9.45 h in bed, deep 0.80 h, REM 2.17 h, awake 0.75 h)
 
 **Week 2 · Day 3**
-Finished: 2025-11-10 20:51:42
+Finished: 2025-11-10 19:51:42
 
 ### Sumo Deadlift (Barbell)
 
@@ -9376,7 +9381,7 @@ Finished: 2025-11-10 20:51:42
 - Sleep: 5.55 h asleep (5.63 h in bed, deep 0.78 h, REM 1.07 h, awake 0.08 h)
 
 **Week 2 · Day 2**
-Finished: 2025-11-08 19:38:18
+Finished: 2025-11-08 18:38:18
 
 ### Bench Press (Barbell)
 
@@ -9418,7 +9423,7 @@ Finished: 2025-11-08 19:38:18
 - Sleep: 5.93 h asleep (6.18 h in bed, deep 1.42 h, REM 0.70 h, awake 0.25 h)
 
 **Week 2 · Day 1**
-Finished: 2025-11-07 20:01:09
+Finished: 2025-11-07 19:01:09
 
 ### Squat (Low Bar)
 
@@ -9460,7 +9465,7 @@ Finished: 2025-11-07 20:01:09
 - Sleep: 6.07 h asleep (6.37 h in bed, deep 0.93 h, REM 1.02 h, awake 0.30 h)
 
 **Week 1 · Day 5**
-Finished: 2025-11-05 19:44:50
+Finished: 2025-11-05 18:44:50
 
 ### Romanian Deadlift (Barbell)
 
@@ -9501,7 +9506,7 @@ Finished: 2025-11-05 19:44:50
 - Sleep: 6.38 h asleep (6.40 h in bed, deep 1.13 h, REM 1.20 h, awake 0.02 h)
 
 **Week 1 · Day 4**
-Finished: 2025-11-04 19:41:35
+Finished: 2025-11-04 18:41:35
 
 ### Bench Press (Paused)
 
@@ -9543,7 +9548,7 @@ Finished: 2025-11-04 19:41:35
 - Sleep: 6.32 h asleep (6.40 h in bed, deep 0.72 h, REM 1.57 h, awake 0.08 h)
 
 **Week 1 · Day 3**
-Finished: 2025-11-03 19:52:11
+Finished: 2025-11-03 18:52:11
 
 ### Sumo Deadlift (Barbell)
 
@@ -9583,7 +9588,7 @@ Finished: 2025-11-03 19:52:11
 - Sleep: 7.47 h asleep (7.47 h in bed, deep 1.30 h, REM 1.77 h, awake 0 h)
 
 **Week 1 · Day 2**
-Finished: 2025-11-02 19:23:50
+Finished: 2025-11-02 18:23:50
 
 ### Bench Press (Barbell)
 
@@ -9627,7 +9632,7 @@ Finished: 2025-11-02 19:23:50
 - Sleep: 9.38 h asleep (9.53 h in bed, deep 1.10 h, REM 1.85 h, awake 0.15 h)
 
 **Week 1 · Day 1**
-Finished: 2025-10-31 19:53:40
+Finished: 2025-10-31 18:53:40
 
 ### Squat (Low Bar)
 
@@ -9670,7 +9675,7 @@ Finished: 2025-10-31 19:53:40
 - Sleep: 6.23 h asleep (6.47 h in bed, deep 1.32 h, REM 0.57 h, awake 0.23 h)
 
 **Week 4 · Day 5**
-Finished: 2025-10-29 19:57:17
+Finished: 2025-10-29 18:57:17
 
 ### Squat (Low Bar)
 
@@ -9711,7 +9716,7 @@ Finished: 2025-10-29 19:57:17
 - Sleep: 7.28 h asleep (7.72 h in bed, deep 1.70 h, REM 1.28 h, awake 0.43 h)
 
 **Week 4 · Day 4**
-Finished: 2025-10-28 19:35:19
+Finished: 2025-10-28 18:35:19
 
 ### Bench Press (Paused)
 
@@ -9754,7 +9759,7 @@ Finished: 2025-10-28 19:35:19
 - Sleep: 6.47 h asleep (6.57 h in bed, deep 1.17 h, REM 1.48 h, awake 0.10 h)
 
 **Week 4 · Day 3**
-Finished: 2025-10-27 20:05:11
+Finished: 2025-10-27 19:05:11
 
 ### Sumo Deadlift (Barbell)
 
@@ -9797,7 +9802,7 @@ Finished: 2025-10-27 20:05:11
 - Sleep: 6.13 h asleep (6.13 h in bed, deep 1.25 h, REM 1.58 h, awake 0 h)
 
 **Week 4 · Day 2**
-Finished: 2025-10-26 19:29:28
+Finished: 2025-10-26 18:29:28
 
 ### Bench Press (Barbell)
 
@@ -9840,7 +9845,7 @@ Finished: 2025-10-26 19:29:28
 - Sleep: 7.57 h asleep (7.75 h in bed, deep 1.38 h, REM 1.67 h, awake 0.18 h)
 
 **Oct 26 Workout**
-Finished: 2025-10-25 20:34:56
+Finished: 2025-10-25 19:34:56
 
 ### Squat (Low Bar)
 
@@ -9885,7 +9890,7 @@ Finished: 2025-10-25 20:34:56
 - Sleep: 6.68 h asleep (6.77 h in bed, deep 1.78 h, REM 0.88 h, awake 0.08 h)
 
 **Week 4 · Day 1**
-Finished: 2025-10-24 21:07:31
+Finished: 2025-10-24 20:07:31
 
 ### Squat (Low Bar)
 
@@ -9929,7 +9934,7 @@ Finished: 2025-10-24 21:07:31
 - Sleep: 5.83 h asleep (6.28 h in bed, deep 2.13 h, REM 1.03 h, awake 0.45 h)
 
 **Week 3 · Day 5**
-Finished: 2025-10-23 18:44:37
+Finished: 2025-10-23 17:44:37
 
 ### Squat (Low Bar)
 
@@ -9977,7 +9982,7 @@ Finished: 2025-10-23 18:44:37
 - Sleep: 3.40 h asleep (3.58 h in bed, deep 0.15 h, REM 0.30 h, awake 0.18 h)
 
 **Week 3 · Day 4**
-Finished: 2025-10-22 18:31:57
+Finished: 2025-10-22 17:31:57
 
 ### Bench Press (Paused)
 
@@ -10024,7 +10029,7 @@ Finished: 2025-10-22 18:31:57
 - Sleep: 5.62 h asleep (6.12 h in bed, deep 0.77 h, REM 0.62 h, awake 0.50 h)
 
 **Week 3 · Day 3**
-Finished: 2025-10-20 01:30:17
+Finished: 2025-10-20 00:30:17
 
 ### Sumo Deadlift (Barbell)
 
@@ -10092,7 +10097,7 @@ Finished: 2025-10-20 01:30:17
 - Sleep: 7.35 h asleep (8.10 h in bed, deep 0.50 h, REM 1.18 h, awake 0.75 h)
 
 **Week 3 · Day 2**
-Finished: 2025-10-19 03:20:13
+Finished: 2025-10-19 02:20:13
 
 ### Bench Press (Barbell)
 
@@ -10140,7 +10145,7 @@ Finished: 2025-10-19 03:20:13
 - Sleep: 8.58 h asleep (8.80 h in bed, deep 1.60 h, REM 1.23 h, awake 0.22 h)
 
 **Week 3 · Day 1**
-Finished: 2025-10-18 03:47:29
+Finished: 2025-10-18 02:47:29
 
 ### Squat (Low Bar)
 
@@ -10188,7 +10193,7 @@ Finished: 2025-10-18 03:47:29
 - Sleep: 7.38 h asleep (7.53 h in bed, deep 1.92 h, REM 1.48 h, awake 0.15 h)
 
 **Week 2 · Day 5**
-Finished: 2025-10-16 01:18:05
+Finished: 2025-10-16 00:18:05
 
 ### Squat (Low Bar)
 
@@ -10238,18 +10243,18 @@ Finished: 2025-10-16 01:18:05
   Set 2: 0kg x 10
   Set 3: 0kg x 8
 
-## 2025-10-15
+## 2025-10-14
 
 ### Health / Recovery
 
-- Steps: 7471
-- Distance: 6.05 km
-- Total kcal burned: 2470
+- Steps: 10077
+- Distance: 8.17 km
+- Total kcal burned: 2663
 - Resting heart rate: 42 bpm
-- Sleep: 6.82 h asleep (7.15 h in bed, deep 1.43 h, REM 1.50 h, awake 0.33 h)
+- Sleep: 7.62 h asleep (8.47 h in bed, deep 0.87 h, REM 0.98 h, awake 0.85 h)
 
 **Week 2 · Day 4**
-Finished: 2025-10-15 00:56:21
+Finished: 2025-10-14 23:56:21
 
 ### Bench Press (Paused)
 
@@ -10295,7 +10300,7 @@ Finished: 2025-10-15 00:56:21
 - Sleep: 7.62 h asleep (8.47 h in bed, deep 0.87 h, REM 0.98 h, awake 0.85 h)
 
 **Week 2 · Day 3**
-Finished: 2025-10-14 03:28:40
+Finished: 2025-10-14 02:28:40
 
 ### Sumo Deadlift (Barbell)
 
@@ -10338,7 +10343,7 @@ Finished: 2025-10-14 03:28:40
 - Sleep: 7.32 h asleep (7.67 h in bed, deep 0.67 h, REM 1.18 h, awake 0.35 h)
 
 **Week 2 · Day 2**
-Finished: 2025-10-13 03:04:37
+Finished: 2025-10-13 02:04:37
 
 ### Bench Press (Barbell)
 
@@ -10386,7 +10391,7 @@ Finished: 2025-10-13 03:04:37
 - Sleep: 11.13 h asleep (12.02 h in bed, deep 2.37 h, REM 1.27 h, awake 0.88 h)
 
 **Week 2 · Day 1**
-Finished: 2025-10-11 03:51:44
+Finished: 2025-10-11 02:51:44
 
 ### Squat (Low Bar)
 
@@ -10435,7 +10440,7 @@ Finished: 2025-10-11 03:51:44
 - Sleep: 7.12 h asleep (7.52 h in bed, deep 1.18 h, REM 1.22 h, awake 0.40 h)
 
 **Week 1 · Day 5**
-Finished: 2025-10-08 20:38:37
+Finished: 2025-10-08 19:38:37
 
 ### Squat (Low Bar)
 
@@ -10484,7 +10489,7 @@ Finished: 2025-10-08 20:38:37
 - Sleep: 6.13 h asleep (6.37 h in bed, deep 0.30 h, REM 1.17 h, awake 0.23 h)
 
 **Week 1 · Day 4**
-Finished: 2025-10-07 20:13:44
+Finished: 2025-10-07 19:13:44
 
 ### Bench Press (Paused)
 
@@ -10532,7 +10537,7 @@ Finished: 2025-10-07 20:13:44
 - Sleep: 7.02 h asleep (7.15 h in bed, deep 1.65 h, REM 1.22 h, awake 0.13 h)
 
 **Week 1 · Day 3**
-Finished: 2025-10-06 20:36:54
+Finished: 2025-10-06 19:36:54
 
 ### Sumo Deadlift (Barbell)
 
@@ -10579,7 +10584,7 @@ Finished: 2025-10-06 20:36:54
 - Sleep: 6.20 h asleep (7.37 h in bed, deep 0.83 h, REM 0.85 h, awake 1.17 h)
 
 **Week 1 · Day 2**
-Finished: 2025-10-05 20:16:58
+Finished: 2025-10-05 19:16:58
 
 ### Bench Press (Barbell)
 
@@ -10628,7 +10633,7 @@ Finished: 2025-10-05 20:16:58
 - Sleep: 7.75 h asleep (7.97 h in bed, deep 0.82 h, REM 1.45 h, awake 0.22 h)
 
 **Week 1 · Day 1**
-Finished: 2025-10-03 20:44:05
+Finished: 2025-10-03 19:44:05
 
 ### Squat (Low Bar)
 
@@ -10677,7 +10682,7 @@ Finished: 2025-10-03 20:44:05
 - Sleep: 7.47 h asleep (7.58 h in bed, deep 1.17 h, REM 1.37 h, awake 0.12 h)
 
 **Week 5 · Day 5**
-Finished: 2025-10-01 20:53:28
+Finished: 2025-10-01 19:53:28
 
 ### Sumo Deadlift (Paused)
 
@@ -10718,7 +10723,7 @@ Finished: 2025-10-01 20:53:28
 - Sleep: 6.97 h asleep (7.03 h in bed, deep 0.87 h, REM 1.78 h, awake 0.07 h)
 
 **Week 5 · Day 4**
-Finished: 2025-09-30 21:02:43
+Finished: 2025-09-30 20:02:43
 
 ### Squat (Low Bar)
 
@@ -10748,7 +10753,7 @@ Finished: 2025-09-30 21:02:43
 - Sleep: 6.77 h asleep (7.20 h in bed, deep 1.05 h, REM 0.65 h, awake 0.43 h)
 
 **Week 5 · Day 3**
-Finished: 2025-09-29 20:45:59
+Finished: 2025-09-29 19:45:59
 
 ### Sumo Deadlift (Barbell)
 
@@ -10780,7 +10785,7 @@ Finished: 2025-09-29 20:45:59
 - Sleep: 6.77 h asleep (7.20 h in bed, deep 1.05 h, REM 0.65 h, awake 0.43 h)
 
 **Week 5 · Day 2**
-Finished: 2025-09-29 05:45:00
+Finished: 2025-09-29 04:45:00
 
 ### Bench Press (Barbell)
 
@@ -10819,7 +10824,7 @@ Finished: 2025-09-29 05:45:00
 - Sleep: 8 h asleep (8.15 h in bed, deep 0.92 h, REM 1.45 h, awake 0.15 h)
 
 **Week 5 · Day 1**
-Finished: 2025-09-26 20:52:59
+Finished: 2025-09-26 19:52:59
 
 ### Squat (Low Bar)
 
@@ -10854,7 +10859,7 @@ Finished: 2025-09-26 20:52:59
 - Sleep: 7.07 h asleep (7.17 h in bed, deep 1.42 h, REM 1.67 h, awake 0.10 h)
 
 **Week 4 · Day 5**
-Finished: 2025-09-24 20:57:18
+Finished: 2025-09-24 19:57:18
 
 ### Sumo Deadlift (Paused)
 
@@ -10895,7 +10900,7 @@ Finished: 2025-09-24 20:57:18
 - Sleep: 6.80 h asleep (7.25 h in bed, deep 1.32 h, REM 0.80 h, awake 0.45 h)
 
 **Week 4 · Day 4**
-Finished: 2025-09-23 20:49:58
+Finished: 2025-09-23 19:49:58
 
 ### Squat (Low Bar)
 
@@ -10926,7 +10931,7 @@ Finished: 2025-09-23 20:49:58
 - Sleep: 7.12 h asleep (7.17 h in bed, deep 0.97 h, REM 1.93 h, awake 0.05 h)
 
 **Week 4 · Day 3**
-Finished: 2025-09-22 20:46:41
+Finished: 2025-09-22 19:46:41
 
 ### Sumo Deadlift (Barbell)
 
@@ -10959,7 +10964,7 @@ Finished: 2025-09-22 20:46:41
 - Sleep: 7.68 h asleep (8.02 h in bed, deep 1.23 h, REM 1.08 h, awake 0.33 h)
 
 **Week 4 · Day 2**
-Finished: 2025-09-21 20:26:24
+Finished: 2025-09-21 19:26:24
 
 ### Bench Press (Barbell)
 
@@ -10999,7 +11004,7 @@ Finished: 2025-09-21 20:26:24
 - Sleep: 7.90 h asleep (8.05 h in bed, deep 1.60 h, REM 1.40 h, awake 0.15 h)
 
 **Week 4 · Day 1**
-Finished: 2025-09-19 20:47:40
+Finished: 2025-09-19 19:47:40
 
 ### Squat (Low Bar)
 
@@ -11034,7 +11039,7 @@ Finished: 2025-09-19 20:47:40
 - Sleep: 5.98 h asleep (6.37 h in bed, deep 0.18 h, REM 1.08 h, awake 0.38 h)
 
 **Week 3 · Day 5**
-Finished: 2025-09-17 20:43:46
+Finished: 2025-09-17 19:43:46
 
 ### Sumo Deadlift (Paused)
 
@@ -11079,7 +11084,7 @@ Finished: 2025-09-17 20:43:46
 - Sleep: 7.70 h asleep (8.13 h in bed, deep 0.63 h, REM 1.35 h, awake 0.43 h)
 
 **Week 3 · Day 4**
-Finished: 2025-09-16 20:43:24
+Finished: 2025-09-16 19:43:24
 
 ### Squat (Low Bar)
 
@@ -11109,7 +11114,7 @@ Finished: 2025-09-16 20:43:24
 - Sleep: 6.93 h asleep (7.20 h in bed, deep 0.80 h, REM 0.85 h, awake 0.27 h)
 
 **Week 3 · Day 3**
-Finished: 2025-09-15 20:50:05
+Finished: 2025-09-15 19:50:05
 
 ### Sumo Deadlift (Barbell)
 
@@ -11142,7 +11147,7 @@ Finished: 2025-09-15 20:50:05
 - Sleep: 8.13 h asleep (8.13 h in bed, deep 1.38 h, REM 2.02 h, awake 0 h)
 
 **Week 3 · Day 2**
-Finished: 2025-09-14 20:24:16
+Finished: 2025-09-14 19:24:16
 
 ### Bench Press (Barbell)
 
@@ -11182,7 +11187,7 @@ Finished: 2025-09-14 20:24:16
 - Sleep: 7.93 h asleep (8.10 h in bed, deep 0.95 h, REM 1.30 h, awake 0.17 h)
 
 **Week 3 · Day 1**
-Finished: 2025-09-12 20:56:07
+Finished: 2025-09-12 19:56:07
 
 ### Squat (Low Bar)
 
@@ -11217,7 +11222,7 @@ Finished: 2025-09-12 20:56:07
 - Sleep: 7.75 h asleep (8.50 h in bed, deep 0.75 h, REM 1.07 h, awake 0.75 h)
 
 **Week 2 · Day 5**
-Finished: 2025-09-10 20:30:37
+Finished: 2025-09-10 19:30:37
 
 ### Deadlift (Barbell)
 
@@ -11257,7 +11262,7 @@ Finished: 2025-09-10 20:30:37
 - Sleep: 7.18 h asleep (7.38 h in bed, deep 1.13 h, REM 0.97 h, awake 0.20 h)
 
 **Week 2 · Day 4**
-Finished: 2025-09-09 21:01:50
+Finished: 2025-09-09 20:01:50
 
 ### Squat (Low Bar)
 
@@ -11289,7 +11294,7 @@ Finished: 2025-09-09 21:01:50
 - Sleep: 7.13 h asleep (7.52 h in bed, deep 0.57 h, REM 0.75 h, awake 0.38 h)
 
 **Week 2 · Day 3**
-Finished: 2025-09-08 20:43:18
+Finished: 2025-09-08 19:43:18
 
 ### Sumo Deadlift (Barbell)
 
@@ -11322,7 +11327,7 @@ Finished: 2025-09-08 20:43:18
 - Sleep: 8.22 h asleep (8.45 h in bed, deep 1 h, REM 1.45 h, awake 0.23 h)
 
 **Week 2 · Day 2**
-Finished: 2025-09-07 20:26:26
+Finished: 2025-09-07 19:26:26
 
 ### Bench Press (Barbell)
 
@@ -11362,7 +11367,7 @@ Finished: 2025-09-07 20:26:26
 - Sleep: 7.60 h asleep (7.88 h in bed, deep 1.02 h, REM 1.75 h, awake 0.28 h)
 
 **Week 2 · Day 1**
-Finished: 2025-09-05 20:56:43
+Finished: 2025-09-05 19:56:43
 
 ### Squat (Low Bar)
 
@@ -11398,7 +11403,7 @@ Finished: 2025-09-05 20:56:43
 - Sleep: 6.43 h asleep (6.75 h in bed, deep 1.10 h, REM 1.60 h, awake 0.32 h)
 
 **Week 1 · Day 5**
-Finished: 2025-09-03 20:55:54
+Finished: 2025-09-03 19:55:54
 
 ### Deadlift (Barbell)
 
@@ -11439,7 +11444,7 @@ Finished: 2025-09-03 20:55:54
 - Sleep: 7.28 h asleep (7.78 h in bed, deep 0.78 h, REM 1.03 h, awake 0.50 h)
 
 **Week 1 · Day 4**
-Finished: 2025-09-02 20:52:35
+Finished: 2025-09-02 19:52:35
 
 ### Squat (Low Bar)
 
@@ -11469,7 +11474,7 @@ Finished: 2025-09-02 20:52:35
 - Sleep: 7.35 h asleep (7.73 h in bed, deep 1.20 h, REM 0.87 h, awake 0.38 h)
 
 **Week 1 · Day 3**
-Finished: 2025-09-01 20:42:56
+Finished: 2025-09-01 19:42:56
 
 ### Sumo Deadlift (Barbell)
 
@@ -11501,7 +11506,7 @@ Finished: 2025-09-01 20:42:56
 - Sleep: 7.22 h asleep (7.83 h in bed, deep 0.83 h, REM 1.32 h, awake 0.62 h)
 
 **Week 1 · Day 2**
-Finished: 2025-08-31 20:19:54
+Finished: 2025-08-31 19:19:54
 
 ### Bench Press (Barbell)
 
@@ -11541,7 +11546,7 @@ Finished: 2025-08-31 20:19:54
 - Sleep: 8.77 h asleep (9.43 h in bed, deep 0.72 h, REM 1.38 h, awake 0.67 h)
 
 **Week 1 · Day 1**
-Finished: 2025-08-29 20:50:30
+Finished: 2025-08-29 19:50:30
 
 ### Squat (Low Bar)
 
@@ -11576,7 +11581,7 @@ Finished: 2025-08-29 20:50:30
 - Sleep: 7.20 h asleep (7.50 h in bed, deep 1.33 h, REM 1.30 h, awake 0.30 h)
 
 **Week 5 · Day 5**
-Finished: 2025-08-27 20:55:01
+Finished: 2025-08-27 19:55:01
 
 ### Deadlift (Paused)
 
@@ -11617,7 +11622,7 @@ Finished: 2025-08-27 20:55:01
 - Sleep: 7.53 h asleep (7.82 h in bed, deep 0.93 h, REM 1.60 h, awake 0.28 h)
 
 **Week 5 · Day 4**
-Finished: 2025-08-26 20:50:26
+Finished: 2025-08-26 19:50:26
 
 ### Squat (Low Bar)
 
@@ -11647,7 +11652,7 @@ Finished: 2025-08-26 20:50:26
 - Sleep: 8.70 h asleep (9.08 h in bed, deep 1.57 h, REM 2.10 h, awake 0.38 h)
 
 **Week 5 · Day 3**
-Finished: 2025-08-25 20:47:34
+Finished: 2025-08-25 19:47:34
 
 ### Sumo Deadlift (Barbell)
 
@@ -11679,7 +11684,7 @@ Finished: 2025-08-25 20:47:34
 - Sleep: 7.90 h asleep (8.13 h in bed, deep 1.22 h, REM 1.40 h, awake 0.23 h)
 
 **Week 5 · Day 2**
-Finished: 2025-08-24 20:37:54
+Finished: 2025-08-24 19:37:54
 
 ### Bench Press (Barbell)
 
@@ -11718,7 +11723,7 @@ Finished: 2025-08-24 20:37:54
 - Sleep: 6.07 h asleep (6.80 h in bed, deep 1.15 h, REM 0.70 h, awake 0.73 h)
 
 **Week 5 · Day 1**
-Finished: 2025-08-22 21:01:50
+Finished: 2025-08-22 20:01:50
 
 ### Squat (Low Bar)
 
@@ -11753,7 +11758,7 @@ Finished: 2025-08-22 21:01:50
 - Sleep: 6.92 h asleep (7.53 h in bed, deep 1.13 h, REM 1.17 h, awake 0.62 h)
 
 **Week 4 · Day 5**
-Finished: 2025-08-20 19:44:21
+Finished: 2025-08-20 18:44:21
 
 ### Sumo Deadlift (Paused)
 
@@ -11795,7 +11800,7 @@ Finished: 2025-08-20 19:44:21
 - Sleep: 5.33 h asleep (5.35 h in bed, deep 1.60 h, REM 0.90 h, awake 0.02 h)
 
 **Week 4 · Day 4**
-Finished: 2025-08-19 20:34:15
+Finished: 2025-08-19 19:34:15
 
 ### Squat (Low Bar)
 
@@ -11824,7 +11829,7 @@ Finished: 2025-08-19 20:34:15
 - Sleep: 4.95 h asleep (5.70 h in bed, deep 0.30 h, REM 0.45 h, awake 0.75 h)
 
 **Week 4 · Day 3**
-Finished: 2025-08-18 20:29:37
+Finished: 2025-08-18 19:29:37
 
 ### Sumo Deadlift (Barbell)
 
@@ -11856,7 +11861,7 @@ Finished: 2025-08-18 20:29:37
 - Sleep: 5.75 h asleep (5.75 h in bed, deep 1.73 h, REM 1.28 h, awake 0 h)
 
 **Week 4 · Day 2**
-Finished: 2025-08-17 02:51:02
+Finished: 2025-08-17 01:51:02
 
 ### Bench Press (Barbell)
 
@@ -11889,7 +11894,7 @@ Finished: 2025-08-17 02:51:02
 - Sleep: 6.42 h asleep (6.45 h in bed, deep 0.93 h, REM 0.97 h, awake 0.03 h)
 
 **Week 4 · Day 1**
-Finished: 2025-08-16 03:07:41
+Finished: 2025-08-16 02:07:41
 
 ### Squat (Low Bar)
 
@@ -11923,7 +11928,7 @@ Finished: 2025-08-16 03:07:41
 - Sleep: 6.58 h asleep (6.68 h in bed, deep 1.12 h, REM 1.02 h, awake 0.10 h)
 
 **Aug 15 Workout**
-Finished: 2025-08-15 02:56:02
+Finished: 2025-08-15 01:56:02
 
 ### Bench Press (Barbell)
 
@@ -11943,7 +11948,7 @@ Finished: 2025-08-15 02:56:02
 - Sleep: 6.25 h asleep (6.33 h in bed, deep 1.18 h, REM 0.95 h, awake 0.08 h)
 
 **Week 3 · Day 5**
-Finished: 2025-08-14 01:49:37
+Finished: 2025-08-14 00:49:37
 
 ### Sumo Deadlift (Paused)
 
@@ -11979,7 +11984,7 @@ Finished: 2025-08-14 01:49:37
 - Sleep: 5.80 h asleep (5.98 h in bed, deep 1.12 h, REM 0.27 h, awake 0.18 h)
 
 **Week 3 · Day 4**
-Finished: 2025-08-13 01:50:07
+Finished: 2025-08-13 00:50:07
 
 ### Squat (Low Bar)
 
@@ -12008,7 +12013,7 @@ Finished: 2025-08-13 01:50:07
 - Sleep: 5.65 h asleep (6.05 h in bed, deep 1.13 h, REM 0 h, awake 0.40 h)
 
 **Week 3 · Day 3**
-Finished: 2025-08-12 01:53:32
+Finished: 2025-08-12 00:53:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -12040,7 +12045,7 @@ Finished: 2025-08-12 01:53:32
 - Sleep: 5.43 h asleep (5.58 h in bed, deep 1.02 h, REM 0.70 h, awake 0.15 h)
 
 **Week 3 · Day 2**
-Finished: 2025-08-11 01:30:35
+Finished: 2025-08-11 00:30:35
 
 ### Bench Press (Barbell)
 
@@ -12077,7 +12082,7 @@ Finished: 2025-08-11 01:30:35
 - Sleep: 5.80 h asleep (6.07 h in bed, deep 0.88 h, REM 0.75 h, awake 0.27 h)
 
 **Week 3 · Day 1**
-Finished: 2025-08-10 03:23:41
+Finished: 2025-08-10 02:23:41
 
 ### Squat (Low Bar)
 
@@ -12112,7 +12117,7 @@ Finished: 2025-08-10 03:23:41
 - Sleep: 5.27 h asleep (6.22 h in bed, deep 0.88 h, REM 0.50 h, awake 0.95 h)
 
 **Aug 8 Workout**
-Finished: 2025-08-08 01:40:49
+Finished: 2025-08-08 00:40:49
 
 ### Squat (Low Bar)
 
@@ -12132,7 +12137,7 @@ Finished: 2025-08-08 01:40:49
 - Sleep: 5.55 h asleep (5.55 h in bed, deep 1.07 h, REM 1.15 h, awake 0 h)
 
 **Week 2 · Day 5**
-Finished: 2025-08-07 01:46:21
+Finished: 2025-08-07 00:46:21
 
 ### Sumo Deadlift (Paused)
 
@@ -12167,7 +12172,7 @@ Finished: 2025-08-07 01:46:21
 - Sleep: 5.27 h asleep (5.45 h in bed, deep 1.38 h, REM 0.95 h, awake 0.18 h)
 
 **Week 2 · Day 4**
-Finished: 2025-08-06 01:53:07
+Finished: 2025-08-06 00:53:07
 
 ### Squat (Low Bar)
 
@@ -12196,7 +12201,7 @@ Finished: 2025-08-06 01:53:07
 - Sleep: 5.28 h asleep (5.37 h in bed, deep 1.07 h, REM 0.83 h, awake 0.08 h)
 
 **Week 2 · Day 3**
-Finished: 2025-08-05 01:54:51
+Finished: 2025-08-05 00:54:51
 
 ### Sumo Deadlift (Barbell)
 
@@ -12228,7 +12233,7 @@ Finished: 2025-08-05 01:54:51
 - Sleep: 5.05 h asleep (5.47 h in bed, deep 1.58 h, REM 0.30 h, awake 0.42 h)
 
 **Week 2 · Day 2**
-Finished: 2025-08-04 01:26:18
+Finished: 2025-08-04 00:26:18
 
 ### Bench Press (Barbell)
 
@@ -12267,7 +12272,7 @@ Finished: 2025-08-04 01:26:18
 - Sleep: 7.27 h asleep (7.58 h in bed, deep 0.78 h, REM 1.58 h, awake 0.32 h)
 
 **Week 2 · Day 1**
-Finished: 2025-08-02 03:34:07
+Finished: 2025-08-02 02:34:07
 
 ### Squat (Low Bar)
 
@@ -12303,7 +12308,7 @@ Finished: 2025-08-02 03:34:07
 - Sleep: 7.88 h asleep (8.32 h in bed, deep 1.33 h, REM 1.77 h, awake 0.43 h)
 
 **Week 1 · Day 5**
-Finished: 2025-07-31 04:17:00
+Finished: 2025-07-31 03:17:00
 
 ### Sumo Deadlift (Paused)
 
@@ -12337,7 +12342,7 @@ Finished: 2025-07-31 04:17:00
 - Sleep: 7.13 h asleep (8.10 h in bed, deep 0.77 h, REM 0.88 h, awake 0.97 h)
 
 **Week 1 · Day 4**
-Finished: 2025-07-30 04:16:31
+Finished: 2025-07-30 03:16:31
 
 ### Squat (Low Bar)
 
@@ -12366,7 +12371,7 @@ Finished: 2025-07-30 04:16:31
 - Sleep: 6.82 h asleep (8.32 h in bed, deep 0.63 h, REM 0.65 h, awake 1.50 h)
 
 **Week 1 · Day 3**
-Finished: 2025-07-29 01:57:32
+Finished: 2025-07-29 00:57:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -12398,7 +12403,7 @@ Finished: 2025-07-29 01:57:32
 - Sleep: 6.23 h asleep (6.97 h in bed, deep 1.02 h, REM 1.18 h, awake 0.73 h)
 
 **Week 1 · Day 2**
-Finished: 2025-07-28 02:47:04
+Finished: 2025-07-28 01:47:04
 
 ### Bench Press (Barbell)
 
@@ -12437,7 +12442,7 @@ Finished: 2025-07-28 02:47:04
 - Sleep: 9.17 h asleep (9.55 h in bed, deep 2.15 h, REM 2.08 h, awake 0.38 h)
 
 **Week 1 · Day 1**
-Finished: 2025-07-27 09:39:03
+Finished: 2025-07-27 08:39:03
 
 ### Squat (Low Bar)
 
@@ -12471,7 +12476,7 @@ Finished: 2025-07-27 09:39:03
 - Sleep: 8.13 h asleep (8.70 h in bed, deep 1.93 h, REM 1.40 h, awake 0.57 h)
 
 **Week 5 · Day 5**
-Finished: 2025-07-25 02:05:07
+Finished: 2025-07-25 01:05:07
 
 ### Sumo Deadlift (Paused)
 
@@ -12512,7 +12517,7 @@ Finished: 2025-07-25 02:05:07
 - Sleep: 6.75 h asleep (7.18 h in bed, deep 0.72 h, REM 1 h, awake 0.43 h)
 
 **Week 5 · Day 4**
-Finished: 2025-07-22 21:18:52
+Finished: 2025-07-22 20:18:52
 
 ### Squat (Low Bar)
 
@@ -12542,7 +12547,7 @@ Finished: 2025-07-22 21:18:52
 - Sleep: 8.05 h asleep (8.05 h in bed, deep 2.08 h, REM 1.47 h, awake 0 h)
 
 **Week 5 · Day 3**
-Finished: 2025-07-21 21:07:58
+Finished: 2025-07-21 20:07:58
 
 ### Sumo Deadlift (Barbell)
 
@@ -12574,7 +12579,7 @@ Finished: 2025-07-21 21:07:58
 - Sleep: 4.95 h asleep (5.33 h in bed, deep 1.07 h, REM 0.65 h, awake 0.38 h)
 
 **Week 5 · Day 2**
-Finished: 2025-07-20 21:11:38
+Finished: 2025-07-20 20:11:38
 
 ### Bench Press (Barbell)
 
@@ -12614,7 +12619,7 @@ Finished: 2025-07-20 21:11:38
 - Sleep: 5.50 h asleep (5.60 h in bed, deep 0.93 h, REM 1.13 h, awake 0.10 h)
 
 **Week 5 · Day 1**
-Finished: 2025-07-18 21:33:36
+Finished: 2025-07-18 20:33:36
 
 ### Squat (Low Bar)
 
@@ -12648,7 +12653,7 @@ Finished: 2025-07-18 21:33:36
 - Sleep: 7.20 h asleep (7.75 h in bed, deep 0.83 h, REM 1.37 h, awake 0.55 h)
 
 **Week 4 · Day 5**
-Finished: 2025-07-16 21:11:45
+Finished: 2025-07-16 20:11:45
 
 ### Sumo Deadlift (Barbell)
 
@@ -12689,7 +12694,7 @@ Finished: 2025-07-16 21:11:45
 - Sleep: 6.53 h asleep (7.07 h in bed, deep 1.08 h, REM 0.63 h, awake 0.53 h)
 
 **Week 4 · Day 4**
-Finished: 2025-07-15 21:34:09
+Finished: 2025-07-15 20:34:09
 
 ### Squat (Low Bar)
 
@@ -12719,7 +12724,7 @@ Finished: 2025-07-15 21:34:09
 - Sleep: 6.97 h asleep (7.42 h in bed, deep 1.22 h, REM 1.35 h, awake 0.45 h)
 
 **Week 4 · Day 3**
-Finished: 2025-07-14 21:12:53
+Finished: 2025-07-14 20:12:53
 
 ### Sumo Deadlift (Paused)
 
@@ -12752,7 +12757,7 @@ Finished: 2025-07-14 21:12:53
 - Sleep: 8.17 h asleep (8.87 h in bed, deep 1.57 h, REM 0.65 h, awake 0.70 h)
 
 **Week 4 · Day 2**
-Finished: 2025-07-13 20:55:09
+Finished: 2025-07-13 19:55:09
 
 ### Bench Press (Barbell)
 
@@ -12792,7 +12797,7 @@ Finished: 2025-07-13 20:55:09
 - Sleep: 6.77 h asleep (7.60 h in bed, deep 0.77 h, REM 0.58 h, awake 0.83 h)
 
 **Week 4 · Day 1**
-Finished: 2025-07-11 21:22:54
+Finished: 2025-07-11 20:22:54
 
 ### Squat (Low Bar)
 
@@ -12827,7 +12832,7 @@ Finished: 2025-07-11 21:22:54
 - Sleep: 6.43 h asleep (6.83 h in bed, deep 0.98 h, REM 1.05 h, awake 0.40 h)
 
 **Week 3 · Day 5**
-Finished: 2025-07-09 21:21:46
+Finished: 2025-07-09 20:21:46
 
 ### Sumo Deadlift (Barbell)
 
@@ -12869,7 +12874,7 @@ Finished: 2025-07-09 21:21:46
 - Sleep: 6.88 h asleep (7.82 h in bed, deep 1.13 h, REM 0.37 h, awake 0.93 h)
 
 **Week 3 · Day 4**
-Finished: 2025-07-08 21:22:30
+Finished: 2025-07-08 20:22:30
 
 ### Squat (Low Bar)
 
@@ -12899,7 +12904,7 @@ Finished: 2025-07-08 21:22:30
 - Sleep: 8.25 h asleep (8.62 h in bed, deep 1.07 h, REM 1.52 h, awake 0.37 h)
 
 **Week 3 · Day 3**
-Finished: 2025-07-07 21:14:22
+Finished: 2025-07-07 20:14:22
 
 ### Sumo Deadlift (Paused)
 
@@ -12933,7 +12938,7 @@ Finished: 2025-07-07 21:14:22
 - Sleep: 8.05 h asleep (8.90 h in bed, deep 1.28 h, REM 1.45 h, awake 0.85 h)
 
 **Week 3 · Day 2**
-Finished: 2025-07-06 20:58:37
+Finished: 2025-07-06 19:58:37
 
 ### Bench Press (Barbell)
 
@@ -12973,7 +12978,7 @@ Finished: 2025-07-06 20:58:37
 - Sleep: 7.52 h asleep (7.75 h in bed, deep 1.03 h, REM 1.42 h, awake 0.23 h)
 
 **Week 3 · Day 1**
-Finished: 2025-07-04 21:27:01
+Finished: 2025-07-04 20:27:01
 
 ### Squat (Low Bar)
 
@@ -13008,7 +13013,7 @@ Finished: 2025-07-04 21:27:01
 - Sleep: 7.23 h asleep (7.32 h in bed, deep 0.87 h, REM 1.22 h, awake 0.08 h)
 
 **Week 2 · Day 5**
-Finished: 2025-07-02 21:15:25
+Finished: 2025-07-02 20:15:25
 
 ### Sumo Deadlift (Barbell)
 
@@ -13049,7 +13054,7 @@ Finished: 2025-07-02 21:15:25
 - Sleep: 4.63 h asleep (5.30 h in bed, deep 0.55 h, REM 0.78 h, awake 0.67 h)
 
 **Week 2 · Day 4**
-Finished: 2025-07-01 21:15:56
+Finished: 2025-07-01 20:15:56
 
 ### Squat (Low Bar)
 
@@ -13079,7 +13084,7 @@ Finished: 2025-07-01 21:15:56
 - Sleep: 7.72 h asleep (8.12 h in bed, deep 1.37 h, REM 1.75 h, awake 0.40 h)
 
 **Week 2 · Day 3**
-Finished: 2025-06-30 21:09:07
+Finished: 2025-06-30 20:09:07
 
 ### Sumo Deadlift (Paused)
 
@@ -13112,7 +13117,7 @@ Finished: 2025-06-30 21:09:07
 - Sleep: 8.95 h asleep (8.95 h in bed, deep 1.20 h, REM 2.58 h, awake 0 h)
 
 **Week 2 · Day 2**
-Finished: 2025-06-29 20:53:01
+Finished: 2025-06-29 19:53:01
 
 ### Bench Press (Barbell)
 
@@ -13152,7 +13157,7 @@ Finished: 2025-06-29 20:53:01
 - Sleep: 7.43 h asleep (7.55 h in bed, deep 0.85 h, REM 1.65 h, awake 0.12 h)
 
 **Week 2 · Day 1**
-Finished: 2025-06-27 21:25:08
+Finished: 2025-06-27 20:25:08
 
 ### Squat (Low Bar)
 
@@ -13187,7 +13192,7 @@ Finished: 2025-06-27 21:25:08
 - Sleep: 5.68 h asleep (6.82 h in bed, deep 1.05 h, REM 1.47 h, awake 1.13 h)
 
 **Week 1 · Day 5**
-Finished: 2025-06-25 21:08:12
+Finished: 2025-06-25 20:08:12
 
 ### Sumo Deadlift (Barbell)
 
@@ -13228,7 +13233,7 @@ Finished: 2025-06-25 21:08:12
 - Sleep: 6.48 h asleep (6.97 h in bed, deep 1.17 h, REM 1.42 h, awake 0.48 h)
 
 **Week 1 · Day 4**
-Finished: 2025-06-24 21:20:53
+Finished: 2025-06-24 20:20:53
 
 ### Squat (Low Bar)
 
@@ -13258,7 +13263,7 @@ Finished: 2025-06-24 21:20:53
 - Sleep: 7.68 h asleep (7.93 h in bed, deep 1.97 h, REM 1.82 h, awake 0.25 h)
 
 **Week 1 · Day 3**
-Finished: 2025-06-23 21:13:15
+Finished: 2025-06-23 20:13:15
 
 ### Sumo Deadlift (Paused)
 
@@ -13291,7 +13296,7 @@ Finished: 2025-06-23 21:13:15
 - Sleep: 7.88 h asleep (8.10 h in bed, deep 1.07 h, REM 1.25 h, awake 0.22 h)
 
 **Week 1 · Day 2**
-Finished: 2025-06-22 20:45:47
+Finished: 2025-06-22 19:45:47
 
 ### Bench Press (Barbell)
 
@@ -13331,7 +13336,7 @@ Finished: 2025-06-22 20:45:47
 - Sleep: 7.85 h asleep (8.83 h in bed, deep 1.13 h, REM 0.67 h, awake 0.98 h)
 
 **Week 1 · Day 1**
-Finished: 2025-06-20 21:17:04
+Finished: 2025-06-20 20:17:04
 
 ### Squat (Low Bar)
 
@@ -13366,7 +13371,7 @@ Finished: 2025-06-20 21:17:04
 - Sleep: 7.33 h asleep (7.40 h in bed, deep 0.68 h, REM 1.70 h, awake 0.07 h)
 
 **Week 6 · Day 5**
-Finished: 2025-06-18 21:27:10
+Finished: 2025-06-18 20:27:10
 
 ### Sumo Deadlift (Barbell)
 
@@ -13407,7 +13412,7 @@ Finished: 2025-06-18 21:27:10
 - Sleep: 7.15 h asleep (7.45 h in bed, deep 0.82 h, REM 1.25 h, awake 0.30 h)
 
 **Week 6 · Day 4**
-Finished: 2025-06-17 21:39:32
+Finished: 2025-06-17 20:39:32
 
 ### Squat (Low Bar)
 
@@ -13439,7 +13444,7 @@ Exercise notes: Dernière série masse pauses
 - Sleep: 8.25 h asleep (8.32 h in bed, deep 1.48 h, REM 1.88 h, awake 0.07 h)
 
 **Week 6 · Day 3**
-Finished: 2025-06-16 21:14:41
+Finished: 2025-06-16 20:14:41
 
 ### Sumo Deadlift (Paused)
 
@@ -13472,7 +13477,7 @@ Finished: 2025-06-16 21:14:41
 - Sleep: 7.75 h asleep (7.95 h in bed, deep 1.35 h, REM 1.38 h, awake 0.20 h)
 
 **Week 6 · Day 2**
-Finished: 2025-06-15 20:57:41
+Finished: 2025-06-15 19:57:41
 
 ### Bench Press (Barbell)
 
@@ -13509,7 +13514,7 @@ Finished: 2025-06-15 20:57:41
 - Weight: 76.9 kg
 
 **Week 6 · Day 1**
-Finished: 2025-06-13 21:31:33
+Finished: 2025-06-13 20:31:33
 
 ### Squat (Low Bar)
 
@@ -13542,7 +13547,7 @@ Finished: 2025-06-13 21:31:33
 - Weight: 76.9 kg
 
 **Week 5 · Day 5**
-Finished: 2025-06-11 21:27:02
+Finished: 2025-06-11 20:27:02
 
 ### Sumo Deadlift (Barbell)
 
@@ -13583,7 +13588,7 @@ Finished: 2025-06-11 21:27:02
 - Sleep: 7.05 h asleep (8.20 h in bed, deep 1.10 h, REM 0.98 h, awake 1.15 h)
 
 **Week 5 · Day 4**
-Finished: 2025-06-10 21:29:43
+Finished: 2025-06-10 20:29:43
 
 ### Squat (Low Bar)
 
@@ -13613,7 +13618,7 @@ Finished: 2025-06-10 21:29:43
 - Sleep: 8.25 h asleep (8.32 h in bed, deep 1.72 h, REM 1.97 h, awake 0.07 h)
 
 **Week 5 · Day 3**
-Finished: 2025-06-09 21:28:00
+Finished: 2025-06-09 20:28:00
 
 ### Sumo Deadlift (Paused)
 
@@ -13646,7 +13651,7 @@ Finished: 2025-06-09 21:28:00
 - Sleep: 8.52 h asleep (8.72 h in bed, deep 1.13 h, REM 1.13 h, awake 0.20 h)
 
 **Week 5 · Day 2**
-Finished: 2025-06-08 20:54:37
+Finished: 2025-06-08 19:54:37
 
 ### Bench Press (Barbell)
 
@@ -13686,7 +13691,7 @@ Finished: 2025-06-08 20:54:37
 - Sleep: 7.40 h asleep (7.52 h in bed, deep 1.17 h, REM 1.62 h, awake 0.12 h)
 
 **Week 5 · Day 1**
-Finished: 2025-06-06 21:23:59
+Finished: 2025-06-06 20:23:59
 
 ### Squat (Low Bar)
 
@@ -13721,7 +13726,7 @@ Finished: 2025-06-06 21:23:59
 - Sleep: 6.37 h asleep (6.42 h in bed, deep 1.45 h, REM 1.15 h, awake 0.05 h)
 
 **Week 4 · Day 5**
-Finished: 2025-06-04 21:04:06
+Finished: 2025-06-04 20:04:06
 
 ### Sumo Deadlift (Barbell)
 
@@ -13762,7 +13767,7 @@ Finished: 2025-06-04 21:04:06
 - Sleep: 7.33 h asleep (7.63 h in bed, deep 0.92 h, REM 1.22 h, awake 0.30 h)
 
 **Week 4 · Day 4**
-Finished: 2025-06-03 21:36:59
+Finished: 2025-06-03 20:36:59
 
 ### Squat (Low Bar)
 
@@ -13792,7 +13797,7 @@ Finished: 2025-06-03 21:36:59
 - Sleep: 7.65 h asleep (7.65 h in bed, deep 0.97 h, REM 1.35 h, awake 0 h)
 
 **Week 4 · Day 3**
-Finished: 2025-06-02 21:29:03
+Finished: 2025-06-02 20:29:03
 
 ### Sumo Deadlift (Paused)
 
@@ -13825,7 +13830,7 @@ Finished: 2025-06-02 21:29:03
 - Sleep: 9.15 h asleep (9.33 h in bed, deep 1.20 h, REM 1.93 h, awake 0.18 h)
 
 **Week 4 · Day 2**
-Finished: 2025-06-01 20:57:14
+Finished: 2025-06-01 19:57:14
 
 ### Bench Press (Barbell)
 
@@ -13865,7 +13870,7 @@ Finished: 2025-06-01 20:57:14
 - Sleep: 7 h asleep (7.32 h in bed, deep 0.68 h, REM 1.48 h, awake 0.32 h)
 
 **Week 4 · Day 1**
-Finished: 2025-05-30 21:13:19
+Finished: 2025-05-30 20:13:19
 
 ### Squat (Low Bar)
 
@@ -13900,7 +13905,7 @@ Finished: 2025-05-30 21:13:19
 - Sleep: 7.92 h asleep (8.08 h in bed, deep 0.73 h, REM 1.93 h, awake 0.17 h)
 
 **Week 3 · Day 5**
-Finished: 2025-05-28 21:19:51
+Finished: 2025-05-28 20:19:51
 
 ### Sumo Deadlift (Barbell)
 
@@ -13941,7 +13946,7 @@ Finished: 2025-05-28 21:19:51
 - Sleep: 7.57 h asleep (7.98 h in bed, deep 1.10 h, REM 1.38 h, awake 0.42 h)
 
 **Week 3 · Day 4**
-Finished: 2025-05-27 21:12:16
+Finished: 2025-05-27 20:12:16
 
 ### Squat (Low Bar)
 
@@ -13970,7 +13975,7 @@ Finished: 2025-05-27 21:12:16
 - Sleep: 7.83 h asleep (7.88 h in bed, deep 1.27 h, REM 1.75 h, awake 0.05 h)
 
 **Week 3 · Day 3**
-Finished: 2025-05-26 21:05:56
+Finished: 2025-05-26 20:05:56
 
 ### Sumo Deadlift (Paused)
 
@@ -14009,7 +14014,7 @@ Finished: 2025-05-26 21:05:56
 - Resting heart rate: 43 bpm
 
 **Week 3 · Day 2**
-Finished: 2025-05-25 20:45:33
+Finished: 2025-05-25 19:45:33
 
 ### Bench Press (Barbell)
 
@@ -14050,7 +14055,7 @@ Finished: 2025-05-25 20:45:33
 - Sleep: 7.98 h asleep (8.20 h in bed, deep 0.83 h, REM 1.73 h, awake 0.22 h)
 
 **Week 3 · Day 1**
-Finished: 2025-05-23 21:22:43
+Finished: 2025-05-23 20:22:43
 
 ### Squat (Low Bar)
 
@@ -14085,7 +14090,7 @@ Finished: 2025-05-23 21:22:43
 - Sleep: 8.12 h asleep (8.25 h in bed, deep 0.92 h, REM 1.52 h, awake 0.13 h)
 
 **Week 2 · Day 5**
-Finished: 2025-05-21 20:52:58
+Finished: 2025-05-21 19:52:58
 
 ### Sumo Deadlift (Barbell)
 
@@ -14126,7 +14131,7 @@ Finished: 2025-05-21 20:52:58
 - Sleep: 7.15 h asleep (7.40 h in bed, deep 0.53 h, REM 1.83 h, awake 0.25 h)
 
 **Week 2 · Day 4**
-Finished: 2025-05-20 21:19:52
+Finished: 2025-05-20 20:19:52
 
 ### Squat (Low Bar)
 
@@ -14156,7 +14161,7 @@ Finished: 2025-05-20 21:19:52
 - Sleep: 8.02 h asleep (8.33 h in bed, deep 0.37 h, REM 1.65 h, awake 0.32 h)
 
 **Week 2 · Day 3**
-Finished: 2025-05-19 21:05:36
+Finished: 2025-05-19 20:05:36
 
 ### Sumo Deadlift (Paused)
 
@@ -14189,7 +14194,7 @@ Finished: 2025-05-19 21:05:36
 - Sleep: 7.18 h asleep (7.27 h in bed, deep 1.18 h, REM 1.23 h, awake 0.08 h)
 
 **Week 2 · Day 2**
-Finished: 2025-05-18 20:44:19
+Finished: 2025-05-18 19:44:19
 
 ### Bench Press (Barbell)
 
@@ -14229,7 +14234,7 @@ Finished: 2025-05-18 20:44:19
 - Sleep: 7.78 h asleep (8.27 h in bed, deep 1.77 h, REM 0.98 h, awake 0.48 h)
 
 **Week 2 · Day 1**
-Finished: 2025-05-16 21:45:35
+Finished: 2025-05-16 20:45:35
 
 ### Squat (Low Bar)
 
@@ -14264,7 +14269,7 @@ Finished: 2025-05-16 21:45:35
 - Sleep: 7.75 h asleep (8.05 h in bed, deep 0.75 h, REM 1.28 h, awake 0.30 h)
 
 **Week 1 · Day 5**
-Finished: 2025-05-14 20:44:17
+Finished: 2025-05-14 19:44:17
 
 ### Sumo Deadlift (Barbell)
 
@@ -14305,7 +14310,7 @@ Finished: 2025-05-14 20:44:17
 - Sleep: 6.87 h asleep (6.92 h in bed, deep 1.47 h, REM 1.02 h, awake 0.05 h)
 
 **Week 1 · Day 4**
-Finished: 2025-05-13 21:31:49
+Finished: 2025-05-13 20:31:49
 
 ### Squat (Low Bar)
 
@@ -14341,7 +14346,7 @@ Finished: 2025-05-13 21:31:49
 - Sleep: 7.08 h asleep (7.22 h in bed, deep 0.95 h, REM 1.03 h, awake 0.13 h)
 
 **Week 1 · Day 3**
-Finished: 2025-05-12 20:19:38
+Finished: 2025-05-12 19:19:38
 
 ### Sumo Deadlift (Paused)
 
@@ -14372,7 +14377,7 @@ Finished: 2025-05-12 20:19:38
 - Resting heart rate: 44 bpm
 
 **Week 1 · Day 2**
-Finished: 2025-05-11 19:12:41
+Finished: 2025-05-11 18:12:41
 
 ### Bench Press (Barbell)
 
@@ -14411,7 +14416,7 @@ Finished: 2025-05-11 19:12:41
 - Resting heart rate: 44 bpm
 
 **Week 1 · Day 1**
-Finished: 2025-05-11 19:12:32
+Finished: 2025-05-11 18:12:32
 
 ### Squat (Low Bar)
 
@@ -14432,7 +14437,7 @@ Finished: 2025-05-11 19:12:32
 - Resting heart rate: 44 bpm
 
 **Week 1 · Day 1**
-Finished: 2025-05-11 19:12:31
+Finished: 2025-05-11 18:12:31
 
 ### Squat (Low Bar)
 
@@ -14454,7 +14459,7 @@ Finished: 2025-05-11 19:12:31
 - Sleep: 7.87 h asleep (8.32 h in bed, deep 0.87 h, REM 1.75 h, awake 0.45 h)
 
 **Week 2 · Day 2**
-Finished: 2025-05-07 20:59:43
+Finished: 2025-05-07 19:59:43
 
 ### Squat (Low Bar)
 
@@ -14490,7 +14495,7 @@ Finished: 2025-05-07 20:59:43
 - Sleep: 8.12 h asleep (8.33 h in bed, deep 0.98 h, REM 1.78 h, awake 0.22 h)
 
 **Week 2 · Day 1**
-Finished: 2025-05-03 23:13:58
+Finished: 2025-05-03 22:13:58
 
 ### Squat (Low Bar)
 
@@ -14523,7 +14528,7 @@ Finished: 2025-05-03 23:13:58
 - Sleep: 7.83 h asleep (8.30 h in bed, deep 1.63 h, REM 1.92 h, awake 0.47 h)
 
 **Week 1 · Day 4**
-Finished: 2025-05-01 20:29:40
+Finished: 2025-05-01 19:29:40
 
 ### Squat (Low Bar)
 
@@ -14557,7 +14562,7 @@ Finished: 2025-05-01 20:29:40
 - Sleep: 11.87 h asleep (12.32 h in bed, deep 2.17 h, REM 1.88 h, awake 0.45 h)
 
 **Week 1 · Day 3**
-Finished: 2025-04-29 21:36:56
+Finished: 2025-04-29 20:36:56
 
 ### Squat (Low Bar)
 
@@ -14592,7 +14597,7 @@ Finished: 2025-04-29 21:36:56
 - Sleep: 8.35 h asleep (8.42 h in bed, deep 1.27 h, REM 2.17 h, awake 0.07 h)
 
 **Week 1 · Day 2**
-Finished: 2025-04-27 20:49:17
+Finished: 2025-04-27 19:49:17
 
 ### Bench Press (Barbell)
 
@@ -14635,7 +14640,7 @@ Finished: 2025-04-27 20:49:17
 - Sleep: 7.70 h asleep (8.03 h in bed, deep 0.82 h, REM 1.50 h, awake 0.33 h)
 
 **Week 1 · Day 1**
-Finished: 2025-04-25 21:27:49
+Finished: 2025-04-25 20:27:49
 
 ### Squat (Low Bar)
 
@@ -14676,7 +14681,7 @@ Finished: 2025-04-25 21:27:49
 - Sleep: 6.95 h asleep (7.55 h in bed, deep 0.60 h, REM 0.97 h, awake 0.60 h)
 
 **Week 2 · Day 5**
-Finished: 2025-04-23 21:22:32
+Finished: 2025-04-23 20:22:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -14717,7 +14722,7 @@ Finished: 2025-04-23 21:22:32
 - Sleep: 7.70 h asleep (7.90 h in bed, deep 0.77 h, REM 1.75 h, awake 0.20 h)
 
 **Week 2 · Day 4**
-Finished: 2025-04-22 21:27:34
+Finished: 2025-04-22 20:27:34
 
 ### Squat (Low Bar)
 
@@ -14752,7 +14757,7 @@ Finished: 2025-04-22 21:27:34
 - Sleep: 6.90 h asleep (7.17 h in bed, deep 1.13 h, REM 0.75 h, awake 0.27 h)
 
 **Week 2 · Day 3**
-Finished: 2025-04-21 21:24:23
+Finished: 2025-04-21 20:24:23
 
 ### Sumo Deadlift (Paused)
 
@@ -14785,7 +14790,7 @@ Finished: 2025-04-21 21:24:23
 - Sleep: 9.12 h asleep (9.32 h in bed, deep 1.28 h, REM 1.48 h, awake 0.20 h)
 
 **Week 2 · Day 2**
-Finished: 2025-04-20 20:51:09
+Finished: 2025-04-20 19:51:09
 
 ### Bench Press (Barbell)
 
@@ -14825,7 +14830,7 @@ Finished: 2025-04-20 20:51:09
 - Sleep: 7.83 h asleep (8.68 h in bed, deep 0.83 h, REM 0.82 h, awake 0.85 h)
 
 **Week 2 · Day 1**
-Finished: 2025-04-17 21:23:47
+Finished: 2025-04-17 20:23:47
 
 ### Squat (Low Bar)
 
@@ -14863,7 +14868,7 @@ Finished: 2025-04-17 21:23:47
 - Sleep: 7.88 h asleep (8.42 h in bed, deep 0.82 h, REM 1.30 h, awake 0.53 h)
 
 **Week 1 · Day 5**
-Finished: 2025-04-16 21:23:00
+Finished: 2025-04-16 20:23:00
 
 ### Sumo Deadlift (Barbell)
 
@@ -14904,7 +14909,7 @@ Finished: 2025-04-16 21:23:00
 - Sleep: 8.30 h asleep (8.37 h in bed, deep 1.53 h, REM 2.15 h, awake 0.07 h)
 
 **Week 1 · Day 4**
-Finished: 2025-04-15 21:21:17
+Finished: 2025-04-15 20:21:17
 
 ### Squat (Low Bar)
 
@@ -14940,7 +14945,7 @@ Finished: 2025-04-15 21:21:17
 - Sleep: 7.15 h asleep (7.37 h in bed, deep 1.15 h, REM 0.95 h, awake 0.22 h)
 
 **Week 1 · Day 3**
-Finished: 2025-04-14 21:21:43
+Finished: 2025-04-14 20:21:43
 
 ### Sumo Deadlift (Paused)
 
@@ -14972,7 +14977,7 @@ Finished: 2025-04-14 21:21:43
 - Sleep: 7.47 h asleep (7.57 h in bed, deep 0.65 h, REM 1.42 h, awake 0.10 h)
 
 **Week 1 · Day 2**
-Finished: 2025-04-13 20:57:42
+Finished: 2025-04-13 19:57:42
 
 ### Bench Press (Barbell)
 
@@ -15012,7 +15017,7 @@ Finished: 2025-04-13 20:57:42
 - Sleep: 7.08 h asleep (7.80 h in bed, deep 0.72 h, REM 0.80 h, awake 0.72 h)
 
 **Week 1 · Day 1**
-Finished: 2025-04-11 21:14:22
+Finished: 2025-04-11 20:14:22
 
 ### Squat (Low Bar)
 
@@ -15054,7 +15059,7 @@ Finished: 2025-04-11 21:14:22
 - Sleep: 7.43 h asleep (7.57 h in bed, deep 0.85 h, REM 1.08 h, awake 0.13 h)
 
 **Week 6 · Day 5**
-Finished: 2025-04-10 21:15:36
+Finished: 2025-04-10 20:15:36
 
 ### Sumo Deadlift (Barbell)
 
@@ -15092,7 +15097,7 @@ Finished: 2025-04-10 21:15:36
 - Sleep: 7.27 h asleep (8.02 h in bed, deep 1.03 h, REM 0.68 h, awake 0.75 h)
 
 **Week 6 · Day 4**
-Finished: 2025-04-09 21:18:41
+Finished: 2025-04-09 20:18:41
 
 ### Squat (Low Bar)
 
@@ -15122,7 +15127,7 @@ Finished: 2025-04-09 21:18:41
 - Sleep: 8.15 h asleep (8.23 h in bed, deep 1.58 h, REM 1.95 h, awake 0.08 h)
 
 **Week 6 · Day 3**
-Finished: 2025-04-07 21:11:33
+Finished: 2025-04-07 20:11:33
 
 ### Sumo Deadlift (Paused)
 
@@ -15155,7 +15160,7 @@ Finished: 2025-04-07 21:11:33
 - Sleep: 8.03 h asleep (8.32 h in bed, deep 0.58 h, REM 1.20 h, awake 0.28 h)
 
 **Week 6 · Day 2**
-Finished: 2025-04-06 21:29:34
+Finished: 2025-04-06 20:29:34
 
 ### Bench Press (Barbell)
 
@@ -15199,7 +15204,7 @@ Finished: 2025-04-06 21:29:34
 - Sleep: 8.35 h asleep (8.42 h in bed, deep 1.08 h, REM 1.90 h, awake 0.07 h)
 
 **Week 6 · Day 1**
-Finished: 2025-04-04 21:27:35
+Finished: 2025-04-04 20:27:35
 
 ### Squat (Low Bar)
 
@@ -15239,7 +15244,7 @@ Finished: 2025-04-04 21:27:35
 - Sleep: 7.22 h asleep (7.50 h in bed, deep 0.77 h, REM 1.15 h, awake 0.28 h)
 
 **Week 5 · Day 5**
-Finished: 2025-04-02 21:32:52
+Finished: 2025-04-02 20:32:52
 
 ### Sumo Deadlift (Barbell)
 
@@ -15279,7 +15284,7 @@ Finished: 2025-04-02 21:32:52
 - Sleep: 7.40 h asleep (7.48 h in bed, deep 0.82 h, REM 1.03 h, awake 0.08 h)
 
 **Week 5 · Day 4**
-Finished: 2025-04-01 21:21:17
+Finished: 2025-04-01 20:21:17
 
 ### Squat (Low Bar)
 
@@ -15309,7 +15314,7 @@ Finished: 2025-04-01 21:21:17
 - Sleep: 8.22 h asleep (8.28 h in bed, deep 1.58 h, REM 2.10 h, awake 0.07 h)
 
 **Week 5 · Day 3**
-Finished: 2025-03-31 22:33:11
+Finished: 2025-03-31 21:33:11
 
 ### Sumo Deadlift (Paused)
 
@@ -15341,7 +15346,7 @@ Finished: 2025-03-31 22:33:11
 - Sleep: 7.47 h asleep (7.75 h in bed, deep 1.38 h, REM 1.40 h, awake 0.28 h)
 
 **Week 5 · Day 2**
-Finished: 2025-03-30 20:57:44
+Finished: 2025-03-30 19:57:44
 
 ### Bench Press (Barbell)
 
@@ -15387,7 +15392,7 @@ Finished: 2025-03-30 20:57:44
 - Sleep: 8.48 h asleep (8.92 h in bed, deep 1.07 h, REM 1.58 h, awake 0.43 h)
 
 **Week 5 · Day 1**
-Finished: 2025-03-28 21:17:43
+Finished: 2025-03-28 20:17:43
 
 ### Squat (Low Bar)
 
@@ -15427,7 +15432,7 @@ Finished: 2025-03-28 21:17:43
 - Sleep: 6.70 h asleep (6.77 h in bed, deep 0.10 h, REM 0.95 h, awake 0.07 h)
 
 **Week 4 · Day 5**
-Finished: 2025-03-26 21:22:04
+Finished: 2025-03-26 20:22:04
 
 ### Sumo Deadlift (Barbell)
 
@@ -15467,7 +15472,7 @@ Finished: 2025-03-26 21:22:04
 - Sleep: 6.92 h asleep (7.25 h in bed, deep 0.72 h, REM 1.45 h, awake 0.33 h)
 
 **Week 4 · Day 4**
-Finished: 2025-03-25 21:14:52
+Finished: 2025-03-25 20:14:52
 
 ### Squat (Low Bar)
 
@@ -15497,7 +15502,7 @@ Finished: 2025-03-25 21:14:52
 - Sleep: 7.68 h asleep (8 h in bed, deep 1.07 h, REM 1.80 h, awake 0.32 h)
 
 **Week 4 · Day 3**
-Finished: 2025-03-24 21:05:09
+Finished: 2025-03-24 20:05:09
 
 ### Sumo Deadlift (Paused)
 
@@ -15529,7 +15534,7 @@ Finished: 2025-03-24 21:05:09
 - Sleep: 9 h asleep (9.33 h in bed, deep 0.95 h, REM 2.48 h, awake 0.33 h)
 
 **Week 4 · Day 2**
-Finished: 2025-03-23 20:48:45
+Finished: 2025-03-23 19:48:45
 
 ### Bench Press (Barbell)
 
@@ -15575,7 +15580,7 @@ Finished: 2025-03-23 20:48:45
 - Sleep: 7.97 h asleep (8.53 h in bed, deep 0.82 h, REM 1.42 h, awake 0.57 h)
 
 **Week 4 · Day 1**
-Finished: 2025-03-21 21:25:58
+Finished: 2025-03-21 20:25:58
 
 ### Squat (Low Bar)
 
@@ -15614,7 +15619,7 @@ Finished: 2025-03-21 21:25:58
 - Sleep: 7.53 h asleep (8.12 h in bed, deep 0.87 h, REM 1 h, awake 0.58 h)
 
 **Week 3 · Day 5**
-Finished: 2025-03-19 21:06:30
+Finished: 2025-03-19 20:06:30
 
 ### Sumo Deadlift (Barbell)
 
@@ -15655,7 +15660,7 @@ Exercise notes: Unilateral
 - Sleep: 6.87 h asleep (7.22 h in bed, deep 0.73 h, REM 1.92 h, awake 0.35 h)
 
 **Week 3 · Day 4**
-Finished: 2025-03-18 21:00:10
+Finished: 2025-03-18 20:00:10
 
 ### Squat (Low Bar)
 
@@ -15685,7 +15690,7 @@ Finished: 2025-03-18 21:00:10
 - Sleep: 8.02 h asleep (8.17 h in bed, deep 1.30 h, REM 1.23 h, awake 0.15 h)
 
 **Week 3 · Day 3**
-Finished: 2025-03-17 21:12:57
+Finished: 2025-03-17 20:12:57
 
 ### Sumo Deadlift (Paused)
 
@@ -15717,7 +15722,7 @@ Finished: 2025-03-17 21:12:57
 - Sleep: 9.60 h asleep (9.83 h in bed, deep 1 h, REM 2.40 h, awake 0.23 h)
 
 **Week 3 · Day 2**
-Finished: 2025-03-16 20:55:26
+Finished: 2025-03-16 19:55:26
 
 ### Bench Press (Barbell)
 
@@ -15762,7 +15767,7 @@ Finished: 2025-03-16 20:55:26
 - Sleep: 7.17 h asleep (7.85 h in bed, deep 1.07 h, REM 1.70 h, awake 0.68 h)
 
 **Week 3 · Day 1**
-Finished: 2025-03-14 21:24:28
+Finished: 2025-03-14 20:24:28
 
 ### Squat (Low Bar)
 
@@ -15802,7 +15807,7 @@ Finished: 2025-03-14 21:24:28
 - Sleep: 6.03 h asleep (6.08 h in bed, deep 0.77 h, REM 1.43 h, awake 0.05 h)
 
 **Week 2 · Day 5**
-Finished: 2025-03-12 21:12:45
+Finished: 2025-03-12 20:12:45
 
 ### Sumo Deadlift (Barbell)
 
@@ -15843,7 +15848,7 @@ Exercise notes: Unilateral
 - Sleep: 7.03 h asleep (7.30 h in bed, deep 0.67 h, REM 1.02 h, awake 0.27 h)
 
 **Week 2 · Day 4**
-Finished: 2025-03-11 21:22:00
+Finished: 2025-03-11 20:22:00
 
 ### Squat (Low Bar)
 
@@ -15874,7 +15879,7 @@ Finished: 2025-03-11 21:22:00
 - Sleep: 7.30 h asleep (7.32 h in bed, deep 1.18 h, REM 1.42 h, awake 0.02 h)
 
 **Week 2 · Day 3**
-Finished: 2025-03-10 21:15:33
+Finished: 2025-03-10 20:15:33
 
 ### Sumo Deadlift (Paused)
 
@@ -15907,7 +15912,7 @@ Finished: 2025-03-10 21:15:33
 - Sleep: 8.03 h asleep (8.33 h in bed, deep 1.03 h, REM 2.25 h, awake 0.30 h)
 
 **Week 2 · Day 2**
-Finished: 2025-03-09 20:47:35
+Finished: 2025-03-09 19:47:35
 
 ### Bench Press (Barbell)
 
@@ -15953,7 +15958,7 @@ Finished: 2025-03-09 20:47:35
 - Sleep: 8.62 h asleep (9.05 h in bed, deep 0.90 h, REM 1.42 h, awake 0.43 h)
 
 **Week 2 · Day 1**
-Finished: 2025-03-07 21:27:05
+Finished: 2025-03-07 20:27:05
 
 ### Squat (Low Bar)
 
@@ -15994,7 +15999,7 @@ Exercise notes: Unilateral ( divide weight by 2 )
 - Sleep: 7.23 h asleep (7.25 h in bed, deep 1.02 h, REM 1.57 h, awake 0.02 h)
 
 **Week 1 · Day 5**
-Finished: 2025-03-05 21:16:32
+Finished: 2025-03-05 20:16:32
 
 ### Sumo Deadlift (Barbell)
 
@@ -16035,7 +16040,7 @@ Exercise notes: Did both legs ( multiply by 2 )
 - Sleep: 7.73 h asleep (7.88 h in bed, deep 0.77 h, REM 1.97 h, awake 0.15 h)
 
 **Week 1 · Day 4**
-Finished: 2025-03-04 21:30:40
+Finished: 2025-03-04 20:30:40
 
 ### Squat (Low Bar)
 
@@ -16065,7 +16070,7 @@ Finished: 2025-03-04 21:30:40
 - Sleep: 7.78 h asleep (7.82 h in bed, deep 1.68 h, REM 1.68 h, awake 0.03 h)
 
 **Week 1 · Day 3**
-Finished: 2025-03-03 21:11:56
+Finished: 2025-03-03 20:11:56
 
 ### Sumo Deadlift (Paused)
 
@@ -16097,7 +16102,7 @@ Finished: 2025-03-03 21:11:56
 - Sleep: 7.82 h asleep (8.33 h in bed, deep 0.90 h, REM 1.08 h, awake 0.52 h)
 
 **Week 1 · Day 2**
-Finished: 2025-03-02 20:50:48
+Finished: 2025-03-02 19:50:48
 
 ### Bench Press (Barbell)
 
@@ -16142,7 +16147,7 @@ Finished: 2025-03-02 20:50:48
 - Sleep: 8.05 h asleep (8.38 h in bed, deep 1.05 h, REM 1.88 h, awake 0.33 h)
 
 **Week 1 · Day 1**
-Finished: 2025-02-28 21:13:14
+Finished: 2025-02-28 20:13:14
 
 ### Squat (Low Bar)
 
@@ -16186,7 +16191,7 @@ Finished: 2025-02-28 21:13:14
 - Sleep: 7.90 h asleep (8.53 h in bed, deep 0.75 h, REM 1.35 h, awake 0.63 h)
 
 **Feb 22 Workout**
-Finished: 2025-02-21 21:32:13
+Finished: 2025-02-21 20:32:13
 
 ### Squat (Low Bar)
 
@@ -16220,7 +16225,7 @@ Finished: 2025-02-21 21:32:13
 - Sleep: 7.83 h asleep (8.33 h in bed, deep 0.42 h, REM 2.10 h, awake 0.50 h)
 
 **Week 4 · Day 5**
-Finished: 2025-02-19 21:34:43
+Finished: 2025-02-19 20:34:43
 
 ### Sumo Deadlift (Barbell)
 
@@ -16249,7 +16254,7 @@ Finished: 2025-02-19 21:34:43
 - Sleep: 7.60 h asleep (8.33 h in bed, deep 0.73 h, REM 1.38 h, awake 0.73 h)
 
 **Week 4 · Day 4**
-Finished: 2025-02-18 22:01:26
+Finished: 2025-02-18 21:01:26
 
 ### Squat (Low Bar)
 
@@ -16277,7 +16282,7 @@ Finished: 2025-02-18 22:01:26
 - Sleep: 8.38 h asleep (8.47 h in bed, deep 1.30 h, REM 1.60 h, awake 0.08 h)
 
 **Week 4 · Day 3**
-Finished: 2025-02-17 21:14:08
+Finished: 2025-02-17 20:14:08
 
 ### Sumo Deadlift (Paused)
 
@@ -16332,7 +16337,7 @@ Finished: 2025-02-17 21:14:08
 - Sleep: 8.38 h asleep (8.47 h in bed, deep 0.78 h, REM 1.88 h, awake 0.08 h)
 
 **Week 4 · Day 2**
-Finished: 2025-02-16 21:12:57
+Finished: 2025-02-16 20:12:57
 
 ### Bench Press (Barbell)
 
@@ -16376,7 +16381,7 @@ Finished: 2025-02-16 21:12:57
 - Sleep: 8.17 h asleep (8.45 h in bed, deep 1.23 h, REM 1.98 h, awake 0.28 h)
 
 **Week 4 · Day 1**
-Finished: 2025-02-14 21:29:02
+Finished: 2025-02-14 20:29:02
 
 ### Squat (Low Bar)
 
@@ -16417,7 +16422,7 @@ Exercise notes: Did unilatéral ( divide weight by 2 for real weight )
 - Sleep: 7.35 h asleep (7.80 h in bed, deep 0.53 h, REM 1.28 h, awake 0.45 h)
 
 **Week 3 · Day 5**
-Finished: 2025-02-12 21:10:54
+Finished: 2025-02-12 20:10:54
 
 ### Sumo Deadlift (Barbell)
 
@@ -16448,7 +16453,7 @@ Finished: 2025-02-12 21:10:54
 - Sleep: 7.42 h asleep (7.53 h in bed, deep 0.95 h, REM 1.23 h, awake 0.12 h)
 
 **Week 3 · Day 4**
-Finished: 2025-02-11 21:37:33
+Finished: 2025-02-11 20:37:33
 
 ### Squat (Low Bar)
 
@@ -16478,7 +16483,7 @@ Finished: 2025-02-11 21:37:33
 - Sleep: 7.85 h asleep (8.18 h in bed, deep 1.32 h, REM 1.50 h, awake 0.33 h)
 
 **Week 3 · Day 3**
-Finished: 2025-02-10 21:21:09
+Finished: 2025-02-10 20:21:09
 
 ### Sumo Deadlift (Paused)
 
@@ -16519,7 +16524,7 @@ Finished: 2025-02-10 21:21:09
 - Sleep: 8.12 h asleep (8.30 h in bed, deep 0.97 h, REM 1.82 h, awake 0.18 h)
 
 **Week 3 · Day 2**
-Finished: 2025-02-09 20:54:19
+Finished: 2025-02-09 19:54:19
 
 ### Bench Press (Barbell)
 
@@ -16564,7 +16569,7 @@ Finished: 2025-02-09 20:54:19
 - Sleep: 9.30 h asleep (9.92 h in bed, deep 0.63 h, REM 1.45 h, awake 0.62 h)
 
 **Week 3 · Day 1**
-Finished: 2025-02-07 21:16:10
+Finished: 2025-02-07 20:16:10
 
 ### Squat (Low Bar)
 
@@ -16606,7 +16611,7 @@ Exercise notes: Did unilateral (multiplied weight by 2)
 - Sleep: 7.92 h asleep (7.97 h in bed, deep 1.10 h, REM 1.10 h, awake 0.05 h)
 
 **Week 2 · Day 5**
-Finished: 2025-02-05 20:53:14
+Finished: 2025-02-05 19:53:14
 
 ### Sumo Deadlift (Barbell)
 
@@ -16637,7 +16642,7 @@ Finished: 2025-02-05 20:53:14
 - Sleep: 7.70 h asleep (7.70 h in bed, deep 1.35 h, REM 1.80 h, awake 0 h)
 
 **Week 2 · Day 4**
-Finished: 2025-02-04 21:25:16
+Finished: 2025-02-04 20:25:16
 
 ### Squat (Low Bar)
 
@@ -16667,7 +16672,7 @@ Finished: 2025-02-04 21:25:16
 - Sleep: 7.80 h asleep (8.10 h in bed, deep 1.18 h, REM 1.57 h, awake 0.30 h)
 
 **Week 2 · Day 3**
-Finished: 2025-02-03 21:11:39
+Finished: 2025-02-03 20:11:39
 
 ### Sumo Deadlift (Paused)
 
@@ -16707,7 +16712,7 @@ Finished: 2025-02-03 21:11:39
 - Sleep: 8.32 h asleep (8.42 h in bed, deep 0.97 h, REM 2.52 h, awake 0.10 h)
 
 **Week 2 · Day 2**
-Finished: 2025-02-02 21:02:15
+Finished: 2025-02-02 20:02:15
 
 ### Bench Press (Barbell)
 
@@ -16752,7 +16757,7 @@ Finished: 2025-02-02 21:02:15
 - Sleep: 7.17 h asleep (7.65 h in bed, deep 1.05 h, REM 1.68 h, awake 0.48 h)
 
 **Week 2 · Day 1**
-Finished: 2025-01-31 21:30:06
+Finished: 2025-01-31 20:30:06
 
 ### Squat (Low Bar)
 
@@ -16795,7 +16800,7 @@ Exercise notes: Did unilatéral ( multiplied weight by 2 )
 - Sleep: 7.45 h asleep (7.63 h in bed, deep 0.85 h, REM 1.28 h, awake 0.18 h)
 
 **Week 1 · Day 5**
-Finished: 2025-01-29 20:58:36
+Finished: 2025-01-29 19:58:36
 
 ### Sumo Deadlift (Barbell)
 
@@ -16825,7 +16830,7 @@ Finished: 2025-01-29 20:58:36
 - Sleep: 7.52 h asleep (7.90 h in bed, deep 1.42 h, REM 1.53 h, awake 0.38 h)
 
 **Week 1 · Day 4**
-Finished: 2025-01-28 21:28:19
+Finished: 2025-01-28 20:28:19
 
 ### Squat (Low Bar)
 
@@ -16855,7 +16860,7 @@ Finished: 2025-01-28 21:28:19
 - Sleep: 7.82 h asleep (8.62 h in bed, deep 1.43 h, REM 1.42 h, awake 0.80 h)
 
 **Week 1 · Day 3**
-Finished: 2025-01-27 21:34:11
+Finished: 2025-01-27 20:34:11
 
 ### Deadlift (Deficit)
 
@@ -16913,7 +16918,7 @@ Finished: 2025-01-27 21:34:11
 - Sleep: 8.73 h asleep (8.80 h in bed, deep 0.28 h, REM 1.82 h, awake 0.07 h)
 
 **Week 1 · Day 2**
-Finished: 2025-01-26 21:19:13
+Finished: 2025-01-26 20:19:13
 
 ### Bench Press (Barbell)
 
@@ -16963,7 +16968,7 @@ Finished: 2025-01-26 21:19:13
 - Sleep: 8.30 h asleep (8.33 h in bed, deep 0.92 h, REM 1.87 h, awake 0.03 h)
 
 **Week 1 · Day 1**
-Finished: 2025-01-24 21:18:03
+Finished: 2025-01-24 20:18:03
 
 ### Squat (Low Bar)
 
@@ -17004,7 +17009,7 @@ Finished: 2025-01-24 21:18:03
 - Sleep: 6.92 h asleep (6.95 h in bed, deep 0.97 h, REM 1.53 h, awake 0.03 h)
 
 **Week 4 · Day 5**
-Finished: 2025-01-22 21:14:15
+Finished: 2025-01-22 20:14:15
 
 ### Sumo Deadlift (Barbell)
 
@@ -17042,7 +17047,7 @@ Finished: 2025-01-22 21:14:15
 - Sleep: 7.67 h asleep (7.75 h in bed, deep 0.77 h, REM 1.80 h, awake 0.08 h)
 
 **Week 4 · Day 4**
-Finished: 2025-01-21 21:14:37
+Finished: 2025-01-21 20:14:37
 
 ### Squat (Low Bar)
 
@@ -17071,7 +17076,7 @@ Finished: 2025-01-21 21:14:37
 - Sleep: 8.57 h asleep (8.73 h in bed, deep 1.15 h, REM 2.08 h, awake 0.17 h)
 
 **Week 4 · Day 3**
-Finished: 2025-01-20 21:16:39
+Finished: 2025-01-20 20:16:39
 
 ### Sumo Deadlift (Paused)
 
@@ -17126,7 +17131,7 @@ Finished: 2025-01-20 21:16:39
 - Sleep: 9.17 h asleep (9.37 h in bed, deep 1.08 h, REM 1.88 h, awake 0.20 h)
 
 **Week 4 · Day 2**
-Finished: 2025-01-19 21:11:06
+Finished: 2025-01-19 20:11:06
 
 ### Bench Press (Barbell)
 
@@ -17171,7 +17176,7 @@ Finished: 2025-01-19 21:11:06
 - Sleep: 8.50 h asleep (8.70 h in bed, deep 0.95 h, REM 1.93 h, awake 0.20 h)
 
 **Week 4 · Day 1**
-Finished: 2025-01-17 21:44:40
+Finished: 2025-01-17 20:44:40
 
 ### Squat (Low Bar)
 
@@ -17209,7 +17214,7 @@ Finished: 2025-01-17 21:44:40
 - Sleep: 6.92 h asleep (7.22 h in bed, deep 0.95 h, REM 0.37 h, awake 0.30 h)
 
 **Week 3 · Day 5**
-Finished: 2025-01-15 21:12:03
+Finished: 2025-01-15 20:12:03
 
 ### Sumo Deadlift (Barbell)
 
@@ -17248,7 +17253,7 @@ Finished: 2025-01-15 21:12:03
 - Sleep: 8.65 h asleep (8.90 h in bed, deep 0.98 h, REM 1.92 h, awake 0.25 h)
 
 **Week 3 · Day 4**
-Finished: 2025-01-14 21:34:16
+Finished: 2025-01-14 20:34:16
 
 ### Squat (Low Bar)
 
@@ -17278,7 +17283,7 @@ Finished: 2025-01-14 21:34:16
 - Sleep: 7.73 h asleep (8.02 h in bed, deep 0.68 h, REM 1.72 h, awake 0.28 h)
 
 **Week 3 · Day 3**
-Finished: 2025-01-13 21:19:02
+Finished: 2025-01-13 20:19:02
 
 ### Sumo Deadlift (Paused)
 
@@ -17333,7 +17338,7 @@ Finished: 2025-01-13 21:19:02
 - Sleep: 8.73 h asleep (8.95 h in bed, deep 1.20 h, REM 1.60 h, awake 0.22 h)
 
 **Week 3 · Day 2**
-Finished: 2025-01-12 20:49:38
+Finished: 2025-01-12 19:49:38
 
 ### Bench Press (Barbell)
 
@@ -17378,7 +17383,7 @@ Finished: 2025-01-12 20:49:38
 - Sleep: 6.20 h asleep (6.43 h in bed, deep 0.72 h, REM 1.42 h, awake 0.23 h)
 
 **Week 3 · Day 1**
-Finished: 2025-01-10 21:26:16
+Finished: 2025-01-10 20:26:16
 
 ### Squat (Low Bar)
 
@@ -17416,7 +17421,7 @@ Finished: 2025-01-10 21:26:16
 - Sleep: 7.97 h asleep (8 h in bed, deep 0.90 h, REM 1.60 h, awake 0.03 h)
 
 **Week 2 · Day 5**
-Finished: 2025-01-08 21:22:48
+Finished: 2025-01-08 20:22:48
 
 ### Sumo Deadlift (Barbell)
 
@@ -17455,7 +17460,7 @@ Finished: 2025-01-08 21:22:48
 - Sleep: 7.83 h asleep (8.18 h in bed, deep 0.87 h, REM 1.67 h, awake 0.35 h)
 
 **Week 2 · Day 4**
-Finished: 2025-01-07 21:13:29
+Finished: 2025-01-07 20:13:29
 
 ### Squat (Low Bar)
 
@@ -17485,7 +17490,7 @@ Finished: 2025-01-07 21:13:29
 - Sleep: 8.62 h asleep (8.97 h in bed, deep 0.75 h, REM 1.37 h, awake 0.35 h)
 
 **Week 2 · Day 3**
-Finished: 2025-01-06 21:13:01
+Finished: 2025-01-06 20:13:01
 
 ### Sumo Deadlift (Paused)
 
@@ -17539,7 +17544,7 @@ Finished: 2025-01-06 21:13:01
 - Sleep: 8.13 h asleep (8.27 h in bed, deep 0.88 h, REM 1.72 h, awake 0.13 h)
 
 **Week 2 · Day 2**
-Finished: 2025-01-05 20:42:17
+Finished: 2025-01-05 19:42:17
 
 ### Bench Press (Barbell)
 
@@ -17590,7 +17595,7 @@ Finished: 2025-01-05 20:42:17
 - Sleep: 7.78 h asleep (8.05 h in bed, deep 1.17 h, REM 1.72 h, awake 0.27 h)
 
 **Week 2 · Day 1**
-Finished: 2025-01-03 21:37:48
+Finished: 2025-01-03 20:37:48
 
 ### Squat (Low Bar)
 
@@ -17622,7 +17627,7 @@ Finished: 2025-01-03 21:37:48
 - Sleep: 7.82 h asleep (7.93 h in bed, deep 1.17 h, REM 1.85 h, awake 0.12 h)
 
 **Week 1 · Day 5**
-Finished: 2025-01-01 21:10:15
+Finished: 2025-01-01 20:10:15
 
 ### Deadlift (Barbell)
 
@@ -17659,7 +17664,7 @@ Exercise notes: Switched to sumo after the 1 rep
 - Sleep: 7.03 h asleep (7.27 h in bed, deep 0.77 h, REM 1.68 h, awake 0.23 h)
 
 **Week 1 · Day 4**
-Finished: 2024-12-31 21:22:45
+Finished: 2024-12-31 20:22:45
 
 ### Squat (Low Bar)
 
@@ -17693,7 +17698,7 @@ Finished: 2024-12-31 21:22:45
 - Sleep: 8.02 h asleep (8.27 h in bed, deep 0.78 h, REM 1.43 h, awake 0.25 h)
 
 **Week 1 · Day 3**
-Finished: 2024-12-30 21:27:33
+Finished: 2024-12-30 20:27:33
 
 ### Deadlift (Paused)
 
@@ -17747,7 +17752,7 @@ Finished: 2024-12-30 21:27:33
 - Sleep: 8.70 h asleep (8.85 h in bed, deep 1.03 h, REM 2.15 h, awake 0.15 h)
 
 **Week 1 · Day 2**
-Finished: 2024-12-29 21:32:59
+Finished: 2024-12-29 20:32:59
 
 ### Bench Press (Barbell)
 
@@ -17791,7 +17796,7 @@ Finished: 2024-12-29 21:32:59
 - Sleep: 7.93 h asleep (8.02 h in bed, deep 1.13 h, REM 1.98 h, awake 0.08 h)
 
 **Week 1 · Day 1**
-Finished: 2024-12-28 01:49:30
+Finished: 2024-12-28 00:49:30
 
 ### Squat (Low Bar)
 
