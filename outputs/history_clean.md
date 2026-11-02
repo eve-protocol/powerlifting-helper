@@ -3,6 +3,48 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-11-02
+
+### Health / Recovery
+
+- Total kcal burned: 178
+
+**Week 3 · Day 1**
+Finished: 2026-11-02 15:21:20
+
+### Tempo Squat (Barbell)
+
+  Set 1: 122.5kg x 5 @ RPE 6.5 [target RPE: 6.5-7.5] [est_stress=227, real_stress=206]
+  Set 2: 122.5kg x 5 @ RPE 6.5 [target RPE: 6.5-7.5] [est_stress=227, real_stress=206]
+  Set 3: 122.5kg x 5 @ RPE 6.5 [target RPE: 6.5-7.5] [est_stress=227, real_stress=206]
+
+### Bench Press (Barbell)
+
+  Set 1: 117.5kg x 5 @ RPE 6.5 [target RPE: 6-7] [est_stress=290, real_stress=290]
+  Set 2: 120.0kg x 5 @ RPE 7.5 [target RPE: 6-7] [est_stress=308, real_stress=383]
+  Set 3: 117.5kg x 5 @ RPE 7.5 [target RPE: 6-7] [est_stress=290, real_stress=359]
+
+### Pull-Up (Weighted)
+
+  Set 1: 25.0kg x 5 @ RPE 7.5 [target RPE: 6.5-7.5]
+  Set 2: 25.0kg x 5 @ RPE 8 [target RPE: 6.5-7.5]
+  Set 3: 25.0kg x 5 @ RPE 8.5 [target RPE: 6.5-7.5]
+
+### Leg Extension
+
+Exercise notes: Condo machines is in pounds (all machine actually) but it's ok it's just to keep track of progress. 195 is machine maxed out so all the next ones are single leg.
+
+  Set 1: 165.0kg x 12 @ RPE 6 [target RPE: 7-8]
+  Set 2: 195.0kg x 12 @ RPE 7 [target RPE: 7-8]
+  Set 3: 90.0kg x 12 @ RPE 6.5 [target RPE: 7-8]
+  Set 4: 105.0kg x 12 @ RPE 8.5 [target RPE: 7-8]
+
+### Hip Thrust (Machine)
+
+  Set 1: 122.5kg x 10 [target RPE: 6.5-7.5]
+  Set 2: 145.0kg x 10 [target RPE: 6.5-7.5]
+  Set 3: 163.0kg x 10 @ RPE 7 [target RPE: 6.5-7.5]
+
 ## 2026-10-31
 
 ### Health / Recovery
