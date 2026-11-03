@@ -36,23 +36,46 @@ Comparison baseline: 2026-10
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 17 | ↓ 16 |
-| Total sets | 3 | 45 | ↓ 42 |
+| Sessions | 2 | 17 | ↓ 15 |
+| Total sets | 6 | 45 | ↓ 39 |
 | Avg sets/session | 3 | 2.65 | ↑ 0.35 |
-| Avg RPE | 7.17 | 6.98 | ↑ 0.19 |
-| Avg load | 118.3kg | 102.8kg | ↑ 15.5kg |
-| Tonnage | 1775kg | 17828kg | ↓ 16053kg |
-| Avg tonnage/session | 1775kg | 1048.7kg | ↑ 726.3kg |
-| Estimated stress | 888 | 6731 | ↓ 5844 |
-| Real stress | 1032 | 8066 | ↓ 7034 |
-| Avg est stress/session | 888 | 396 | ↑ 492 |
-| Avg real stress/session | 1032 | 474 | ↑ 558 |
+| Avg RPE | 7.33 | 6.98 | ↑ 0.35 |
+| Avg load | 82.5kg | 102.8kg | ↓ 20.3kg |
+| Tonnage | 2615kg | 17828kg | ↓ 15213kg |
+| Avg tonnage/session | 1307.5kg | 1048.7kg | ↑ 258.8kg |
+| Estimated stress | 969 | 6731 | ↓ 5762 |
+| Real stress | 1117 | 8066 | ↓ 6949 |
+| Avg est stress/session | 485 | 396 | ↑ 89 |
+| Avg real stress/session | 559 | 474 | ↑ 84 |
 
 - Top single: -
 - Previous top single: 142.5kg x 1 @ 9.50
 - Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 120kg x 5 @ 7.50
 - Previous top work set: 122.5kg x 2 @ 7
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+
+### Deadlift family
+
+| Metric | Current | Previous | Delta |
+|---|---:|---:|---:|
+| Sessions | 1 | 9 | ↓ 8 |
+| Total sets | 3 | 33 | ↓ 30 |
+| Avg sets/session | 3 | 3.67 | ↓ 0.67 |
+| Avg RPE | 7 | 7.19 | ↓ 0.19 |
+| Avg load | 160kg | 161.4kg | ↓ 1.4kg |
+| Tonnage | 1440kg | 17385kg | ↓ 15945kg |
+| Avg tonnage/session | 1440kg | 1931.7kg | ↓ 491.7kg |
+| Estimated stress | 668 | 6608 | ↓ 5940 |
+| Real stress | 737 | 7236 | ↓ 6499 |
+| Avg est stress/session | 668 | 734 | ↓ 66 |
+| Avg real stress/session | 737 | 804 | ↓ 67 |
+
+- Top single: -
+- Previous top single: 190kg x 1 @ 8
+- Top single delta: n/a (only meaningful when the variation is comparable)
+- Top work set: 160kg x 3 @ 7
+- Previous top work set: 180kg x 2 @ 7
 - Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Health / Recovery
