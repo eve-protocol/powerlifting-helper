@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-08-17 to 2026-11-03
+**Period:** 2026-08-17 to 2026-11-04
 ---
 
 ## Format Guide
@@ -22,7 +22,7 @@
 
 | Week | Squat Sets | Bench Sets | Deadlift Sets |
 |------|------------|------------|---------------|
-| 2026-W45 | 3 (-6) | 6 (-7) | 3 (-6) |
+| 2026-W45 | 6 (-3) | 10 (-3) | 3 (-6) |
 | 2026-W44 | 9 (+2) | 13 (+3) | 9 (+2) |
 | 2026-W43 | 7 (-3) | 10 (=) | 7 (-1) |
 | 2026-W42 | 10 (+2) | 10 (=) | 8 (+2) |
@@ -40,7 +40,7 @@
 ```
 Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ───────────┼───────────────────┼───────────────────┼───────────────────
-2026-W45  │   1830kg (-3445) │   2610kg (-3675) │   1440kg (-4265)
+2026-W45  │   3730kg (-1545) │   4676kg (-1609) │   1440kg (-4265)
 2026-W44  │   5275kg  (+865) │   6285kg  (+661) │   5705kg (+1220)
 2026-W43  │   4410kg  (+970) │   5624kg (+3255) │   4485kg  (+695)
 2026-W42  │   3440kg  (+505) │   2369kg  (-685) │   3790kg (+1280)
@@ -59,7 +59,7 @@ Week       │ Squat Volume      │ Bench Volume      │ Deadlift Volume
 ```
 Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ───────────┼──────────────────┼──────────────────┼─────────────────────
-2026-W45  │     673 (-1780) │     962 (-1718) │     668 (-2000)
+2026-W45  │    1669  (-784) │    2011  (-669) │     668 (-2000)
 2026-W44  │    2453 (+1465) │    2680  (+884) │    2668  (+967)
 2026-W43  │     988  (-322) │    1796  (+882) │    1701 (+1165)
 2026-W42  │    1310  (+114) │     914  (-160) │     536  (-471)
@@ -78,7 +78,7 @@ Week       │ Squat Est Stress │ Bench Est Stress │ Deadlift Est Stress
 ```
 Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 ───────────┼───────────────────┼───────────────────┼──────────────────────
-2026-W45  │     609  (-668) │    1109 (-1455) │     737 (-1494)
+2026-W45  │    1629  (+352) │    2137  (-427) │     737 (-1494)
 2026-W44  │    1277  (-633) │    2564   (+91) │    2231  (+483)
 2026-W43  │    1910 (+1053) │    2473 (+1244) │    1748  (+565)
 2026-W42  │     857   (-84) │    1229  (-220) │    1183  (-171)
@@ -96,7 +96,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 **Squat Volume (kg)**
 ```
-2026-W45 │███████░░░░░░░░░░░░░░░░░░│ 1,830kg
+2026-W45 │██████████████░░░░░░░░░░░│ 3,730kg
 2026-W44 │████████████████████░░░░░│ 5,275kg
 2026-W43 │█████████████████░░░░░░░░│ 4,410kg
 2026-W42 │█████████████░░░░░░░░░░░░│ 3,440kg
@@ -112,7 +112,7 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 **Bench Volume (kg)**
 ```
-2026-W45 │██████████░░░░░░░░░░░░░░░│ 2,610kg
+2026-W45 │██████████████████░░░░░░░│ 4,676kg
 2026-W44 │█████████████████████████│ 6,285kg
 2026-W43 │██████████████████████░░░│ 5,624kg
 2026-W42 │█████████░░░░░░░░░░░░░░░░│ 2,369kg
@@ -148,8 +148,8 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 
 ## 2026-W45
 
-**Weekly Summary:** Squat: 3 sets / 1,830kg | Bench: 6 sets / 2,610kg | Deadlift: 3 sets / 1,440kg
-**Stress Summary:** Squat est/real: 673/609 | Bench est/real: 962/1109 | Deadlift est/real: 668/737
+**Weekly Summary:** Squat: 6 sets / 3,730kg | Bench: 10 sets / 4,676kg | Deadlift: 3 sets / 1,440kg
+**Stress Summary:** Squat est/real: 1669/1629 | Bench est/real: 2011/2137 | Deadlift est/real: 668/737
 
 ### 2026-11-02 (Monday)
 
@@ -215,6 +215,30 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 1: 10 × 43kg @ RPE 7 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 10 × 43kg @ RPE 7.5 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
 - Set 3: 10 × 43kg @ RPE 8 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+
+### 2026-11-04 (Wednesday)
+
+### Health / Recovery
+
+- Steps: 11
+- Distance: 0.01 km
+- Total kcal burned: 178
+
+**Squat (Low Bar)**
+- Set 1: 3 × 160kg @ RPE 8 [target_reps=3, target_intensity=[7, 7.5]RPE_range; est_stress=322; real_stress=379]
+- Set 2: 5 × 142kg @ RPE 6.5 [target_reps=5, target_intensity=[6, 7.5]RPE_range; est_stress=337; real_stress=320]
+- Set 3: 5 × 142kg @ RPE 6.5 [target_reps=5, target_intensity=[6, 7.5]RPE_range; est_stress=337; real_stress=320]
+
+**Bench Press (Barbell)**
+- Set 1: 3 × 122kg @ RPE 7.5 [target_reps=3, target_intensity=[7, 7.5]RPE_range; est_stress=228; real_stress=241]
+- Set 2: 5 × 110kg @ RPE - [target_reps=5, target_intensity=[6, 7.5]RPE_range; est_stress=250; real_stress=-]
+- Set 3: 5 × 115kg @ RPE 7.5 [target_reps=5, target_intensity=[6, 7.5]RPE_range; est_stress=286; real_stress=337]
+- Set 4: 5 × 115kg @ RPE 9 [target_reps=5, target_intensity=[6, 7.5]RPE_range; est_stress=286; real_stress=449]
+
+**Pull-Up (Weighted)**
+- Set 1: 4 × 25kg @ RPE 7 [target_reps=4, target_intensity=[6.5, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 4 × 25kg @ RPE 7.5 [target_reps=4, target_intensity=[6.5, 7.5]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 4 × 25kg @ RPE 7 [target_reps=4, target_intensity=[6.5, 7.5]RPE_range; est_stress=-; real_stress=-]
 
 ---
 
