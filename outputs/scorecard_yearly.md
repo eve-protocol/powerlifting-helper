@@ -82,15 +82,15 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 308 | 365 | ↓ 57 |
-| Avg steps/day | 10629 | 8049 | ↑ 2580 |
-| Avg distance/day | 8.58km | 5.93km | ↑ 2.65km |
-| Avg kcal/day | 2481 | 2304 | ↑ 177 |
+| Days with data | 309 | 365 | ↓ 56 |
+| Avg steps/day | 10649 | 8049 | ↑ 2600 |
+| Avg distance/day | 8.60km | 5.93km | ↑ 2.67km |
+| Avg kcal/day | 2482 | 2304 | ↑ 178 |
 | Avg bodyweight | 78.5kg | 76.8kg | ↑ 1.7kg |
-| Avg resting HR | 43.7bpm | 43.1bpm | ↑ 0.7bpm |
+| Avg resting HR | 43.8bpm | 43.1bpm | ↑ 0.7bpm |
 | Avg sleep | 6.92h | 7.35h | ↓ 0.43h |
 
-- Latest health date in period: 2026-11-04
+- Latest health date in period: 2026-11-05
 
 ## 2025
 
