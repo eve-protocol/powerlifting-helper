@@ -1,6 +1,6 @@
 # Last 12 Weeks Training History
 
-**Period:** 2026-08-17 to 2026-11-04
+**Period:** 2026-08-17 to 2026-11-05
 ---
 
 ## Format Guide
@@ -242,6 +242,37 @@ Week       │ Squat Real Stress │ Bench Real Stress │ Deadlift Real Stress
 - Set 1: 4 × 25kg @ RPE 7 [target_reps=4, target_intensity=[6.5, 7.5]RPE_range; est_stress=-; real_stress=-]
 - Set 2: 4 × 25kg @ RPE 7.5 [target_reps=4, target_intensity=[6.5, 7.5]RPE_range; est_stress=-; real_stress=-]
 - Set 3: 4 × 25kg @ RPE 7 [target_reps=4, target_intensity=[6.5, 7.5]RPE_range; est_stress=-; real_stress=-]
+
+### 2026-11-05 (Thursday)
+
+### Health / Recovery
+
+- Total kcal burned: 213
+
+**Chest Fly (Machine)**
+- Set 1: 12 × 36kg @ RPE 6 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 12 × 41kg @ RPE 8.5 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 10 × 41kg @ RPE 8 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+
+**Lateral Raise (Cable)**
+- Set 1: 12 × 14kg @ RPE 8 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 12 × 14kg @ RPE 8 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 12 × 14kg @ RPE 8 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+
+**Rear Delt Fly (Cable)**
+- Set 1: 12 × 10kg @ RPE 6.5 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 12 × 10kg @ RPE 6.5 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 12 × 10kg @ RPE 6.5 [target_reps=12, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+
+**Tricep Pushdown (Cable)**
+- Set 1: 10 × 64kg @ RPE 7 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 70kg @ RPE 7.5 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 10 × 70kg @ RPE 7.5 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+
+**Bicep Curl (Dumbbell)**
+- Set 1: 10 × 13kg @ RPE 8 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 2: 10 × 13kg @ RPE 9.5 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
+- Set 3: 10 × 11kg @ RPE 6.5 [target_reps=10, target_intensity=[7, 8]RPE_range; est_stress=-; real_stress=-]
 
 ---
 
