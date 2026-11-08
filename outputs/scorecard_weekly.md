@@ -8234,12 +8234,12 @@ Comparison baseline: December 2026 Competition - Ren v1 / Week 3
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Days with data | 7 | 6 | ↑ 1 |
-| Avg steps/day | 10976 | 6381 | ↑ 4595 |
-| Avg distance/day | 7.67km | 5.18km | ↑ 2.49km |
-| Avg kcal/day | 2871 | 1961 | ↑ 910 |
+| Avg steps/day | 10976 | 9087 | ↑ 1889 |
+| Avg distance/day | 7.67km | 7.38km | ↑ 0.29km |
+| Avg kcal/day | 2871 | 2527 | ↑ 344 |
 | Avg bodyweight | 76.8kg | 80kg | ↓ 3.2kg |
 | Avg resting HR | 42.6bpm | 45bpm | ↓ 2.4bpm |
-| Avg sleep | 7.09h | 6.65h | ↑ 0.44h |
+| Avg sleep | 7.09h | 6.91h | ↑ 0.18h |
 
 - Latest health date in period: 2025-05-01
 
@@ -8321,12 +8321,12 @@ Comparison baseline: December 2026 Competition - Ren v1 / Week 2
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
 | Days with data | 6 | 6 | → 0 |
-| Avg steps/day | 6381 | 8054 | ↓ 1673 |
-| Avg distance/day | 5.18km | 6.80km | ↓ 1.62km |
-| Avg kcal/day | 1961 | 2511 | ↓ 550 |
+| Avg steps/day | 9087 | 8054 | ↑ 1033 |
+| Avg distance/day | 7.38km | 6.80km | ↑ 0.58km |
+| Avg kcal/day | 2527 | 2511 | ↑ 16 |
 | Avg bodyweight | 80kg | 79.6kg | ↑ 0.4kg |
 | Avg resting HR | 45bpm | 45.2bpm | ↓ 0.2bpm |
-| Avg sleep | 6.65h | 7.11h | ↓ 0.46h |
+| Avg sleep | 6.91h | 7.11h | ↓ 0.20h |
 
 - Latest health date in period: 2026-11-07
 
