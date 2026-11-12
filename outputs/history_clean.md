@@ -3,6 +3,45 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-11-12
+
+### Health / Recovery
+
+- Total kcal burned: 19
+
+**Week 4 · Day 4**
+Finished: 2026-11-12 16:05:47
+
+### Chest Fly (Machine)
+
+  Set 1: 40.0kg x 12 @ RPE 7 [target RPE: 7-8]
+  Set 2: 40.0kg x 12 @ RPE 8 [target RPE: 7-8]
+  Set 3: 40.0kg x 12 @ RPE 8.5 [target RPE: 7-8]
+
+### Lateral Raise (Cable)
+
+  Set 1: 15.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 7-8]
+  Set 2: 15.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 7-8]
+  Set 3: 10.0kg x 15 @ RPE 8.5 [target: 12 reps, target RPE: 7-8]
+
+### Rear Delt Fly (Cable)
+
+  Set 1: 10.0kg x 10 @ RPE 7 [target: 12 reps, target RPE: 7-8]
+  Set 2: 10.0kg x 12 @ RPE 9 [target RPE: 7-8]
+  Set 3: 10.0kg x 11 @ RPE 9 [target: 12 reps, target RPE: 7-8]
+
+### Tricep Pushdown (Cable)
+
+  Set 1: 70.0kg x 10 @ RPE 7.5 [target RPE: 7-8]
+  Set 2: 70.0kg x 10 @ RPE 8 [target RPE: 7-8]
+  Set 3: 70.0kg x 10 @ RPE 8 [target RPE: 7-8]
+
+### Bicep Curl (Dumbbell)
+
+  Set 1: 13.5kg x 10 @ RPE 7.5 [target RPE: 7-8]
+  Set 2: 13.5kg x 10 @ RPE 9.5 [target RPE: 7-8]
+  Set 3: 13.5kg x 6 @ RPE 8 [target: 10 reps, target RPE: 7-8]
+
 ## 2026-11-11
 
 ### Health / Recovery
