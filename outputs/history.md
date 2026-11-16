@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-11-14 |
-| Training Days | 475 |
-| Total Sets | 5675 |
+| Date Range | 2024-12-28 → 2026-11-16 |
+| Training Days | 476 |
+| Total Sets | 5690 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -21,23 +21,28 @@
 ## 📈 Trends (Best e1RM per Week)
 
 ```
-   226 ┤                                                  
-       │  ▲                   ▲                   ▲       
-       │       ▲    ▲    ▲         ▲    ▲    ▲         ▲  
-       │  ●    ●                   ●              ●       
-   185 ┤            ●    ●    ●                           
+   224 ┤                                                  
+       │  ▲              ▲                   ▲            
+       │       ▲    ▲         ▲    ▲    ▲         ▲       
+       │  ●         ●         ●              ●            
+   184 ┤       ●         ●                                
        │                                                  
-       │                      ■         ■                 
-       │            ■              ■         ■    ■    ■  
-   144 ┼  ■    ■         ■                                
+       │                 ■         ■                      
+       │       ■              ■         ■    ■    ■       
+   144 ┼  ■         ■                                  ■  
        └──────────────────────────────────────────────────
-         W37  W38  W39  W40  W41  W42  W43  W44  W45  W46 
+         W38  W39  W40  W41  W42  W43  W44  W45  W46  W47 
         ● Squat  ■ Bench  ▲ Deadlift 
 ```
 
 ## 🏋️ Weekly Training Volume
 
 ```
+
+W47:
+  Squat    │██████ 1440kg
+  Bench    │▓▓▓▓▓▓▓▓ 1725kg
+  Deadlift │ 0kg
 
 W46:
   Squat    │█████████████████████ 4725kg
@@ -83,11 +88,6 @@ W38:
   Squat    │███████████ 2435kg
   Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 3818kg
   Deadlift │░░░░░░░░░░░░░░░ 3295kg
-
-W37:
-  Squat    │█████████████ 2960kg
-  Bench    │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 4616kg
-  Deadlift │░░░░░░░░░░░░░░░░░░ 3970kg
 
   █ Squat  ▓ Bench  ░ Deadlift
 ```
