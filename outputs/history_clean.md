@@ -3,6 +3,47 @@
 *Auto-generated from history.json - uses archived_* fields only*
 *Stress score uses rolling actual-single references, not e1RM*
 
+## 2026-11-19
+
+**Week 5 · Day 4**
+Finished: 2026-11-19 16:27:39
+
+### Chest Fly (Machine)
+
+  Set 1: 40.0kg x 12 @ RPE 7.5 [target RPE: 6.5-7.5]
+  Set 2: 40.0kg x 12 @ RPE 8 [target RPE: 6.5-7.5]
+  Set 3: 40.0kg x 12 @ RPE 8 [target RPE: 6.5-7.5]
+
+### Lateral Raise (Cable)
+
+  Set 1: 15.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 6.5-7.5]
+  Set 2: 15.0kg x 10 @ RPE 9.5 [target: 12 reps, target RPE: 6.5-7.5]
+  Set 3: 10.0kg x 15 @ RPE 8.5 [target: 12 reps, target RPE: 6.5-7.5]
+
+### Rear Delt Fly (Cable)
+
+  Set 1: 10.0kg x 12 @ RPE 7 [target RPE: 6.5-7.5]
+  Set 2: 10.0kg x 12 @ RPE 8.5 [target RPE: 6.5-7.5]
+  Set 3: 10.0kg x 12 @ RPE 8.5 [target RPE: 6.5-7.5]
+
+### Tricep Pushdown (Cable)
+
+  Set 1: 70.0kg x 10 @ RPE 7 [target RPE: 6.5-7.5]
+  Set 2: 70.0kg x 10 @ RPE 7 [target RPE: 6.5-7.5]
+  Set 3: 70.0kg x 10 @ RPE 7 [target RPE: 6.5-7.5]
+
+### Bicep Curl (Dumbbell)
+
+  Set 1: 13.5kg x 10 @ RPE 7.5 [target RPE: 6.5-7.5]
+  Set 2: 13.5kg x 10 @ RPE 8.5 [target RPE: 6.5-7.5]
+  Set 3: 13.5kg x 9 @ RPE 9.5 [target: 10 reps, target RPE: 6.5-7.5]
+
+### Hip Adductor (Machine)
+
+  Set 1: 60.0kg x 12 @ RPE 8 [target RPE: 6-7]
+  Set 2: 60.0kg x 12 @ RPE 8 [target RPE: 6-7]
+  Set 3: 60.0kg x 12 @ RPE 8 [target RPE: 6-7]
+
 ## 2026-11-18
 
 ### Health / Recovery
