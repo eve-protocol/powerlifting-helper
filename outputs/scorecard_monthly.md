@@ -13,17 +13,17 @@ Comparison baseline: 2026-10
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 8 | 13 | ↓ 5 |
-| Total sets | 22 | 34 | ↓ 12 |
-| Avg sets/session | 2.75 | 2.62 | ↑ 0.13 |
-| Avg RPE | 6.88 | 7.21 | ↓ 0.33 |
-| Avg load | 138.3kg | 142.9kg | ↓ 4.6kg |
-| Tonnage | 12707.5kg | 15840kg | ↓ 3132.5kg |
-| Avg tonnage/session | 1588.4kg | 1218.5kg | ↑ 369.9kg |
-| Estimated stress | 5806 | 6184 | ↓ 378 |
-| Real stress | 5504 | 5221 | ↑ 283 |
-| Avg est stress/session | 726 | 476 | ↑ 250 |
-| Avg real stress/session | 688 | 402 | ↑ 286 |
+| Sessions | 9 | 13 | ↓ 4 |
+| Total sets | 24 | 34 | ↓ 10 |
+| Avg sets/session | 2.67 | 2.62 | ↑ 0.05 |
+| Avg RPE | 6.84 | 7.21 | ↓ 0.37 |
+| Avg load | 138.9kg | 142.9kg | ↓ 4kg |
+| Tonnage | 13867.5kg | 15840kg | ↓ 1972.5kg |
+| Avg tonnage/session | 1540.8kg | 1218.5kg | ↑ 322.3kg |
+| Estimated stress | 6296 | 6184 | ↑ 111 |
+| Real stress | 6050 | 5221 | ↑ 828 |
+| Avg est stress/session | 700 | 476 | ↑ 224 |
+| Avg real stress/session | 672 | 402 | ↑ 271 |
 
 - Top single: -
 - Previous top single: 180kg x 1 @ 10
@@ -36,17 +36,17 @@ Comparison baseline: 2026-10
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 11 | 17 | ↓ 6 |
-| Total sets | 35 | 45 | ↓ 10 |
-| Avg sets/session | 3.18 | 2.65 | ↑ 0.53 |
-| Avg RPE | 7.38 | 6.98 | ↑ 0.40 |
-| Avg load | 98.7kg | 102.8kg | ↓ 4.1kg |
-| Tonnage | 16137.5kg | 17828kg | ↓ 1690.5kg |
-| Avg tonnage/session | 1467kg | 1048.7kg | ↑ 418.3kg |
-| Estimated stress | 7160 | 6731 | ↑ 428 |
-| Real stress | 7258 | 8066 | ↓ 808 |
-| Avg est stress/session | 651 | 396 | ↑ 255 |
-| Avg real stress/session | 660 | 474 | ↑ 185 |
+| Sessions | 12 | 17 | ↓ 5 |
+| Total sets | 37 | 45 | ↓ 8 |
+| Avg sets/session | 3.08 | 2.65 | ↑ 0.43 |
+| Avg RPE | 7.35 | 6.98 | ↑ 0.37 |
+| Avg load | 99.6kg | 102.8kg | ↓ 3.2kg |
+| Tonnage | 17287.5kg | 17828kg | ↓ 540.5kg |
+| Avg tonnage/session | 1440.6kg | 1048.7kg | ↑ 391.9kg |
+| Estimated stress | 7702 | 6731 | ↑ 971 |
+| Real stress | 7858 | 8066 | ↓ 209 |
+| Avg est stress/session | 642 | 396 | ↑ 246 |
+| Avg real stress/session | 655 | 474 | ↑ 180 |
 
 - Top single: -
 - Previous top single: 142.5kg x 1 @ 9.50
@@ -59,17 +59,17 @@ Comparison baseline: 2026-10
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 5 | 9 | ↓ 4 |
-| Total sets | 19 | 33 | ↓ 14 |
-| Avg sets/session | 3.80 | 3.67 | ↑ 0.13 |
-| Avg RPE | 6.97 | 7.19 | ↓ 0.22 |
-| Avg load | 157.1kg | 161.4kg | ↓ 4.3kg |
-| Tonnage | 11590kg | 17385kg | ↓ 5795kg |
-| Avg tonnage/session | 2318kg | 1931.7kg | ↑ 386.3kg |
-| Estimated stress | 5420 | 6608 | ↓ 1189 |
-| Real stress | 5436 | 7236 | ↓ 1800 |
-| Avg est stress/session | 1084 | 734 | ↑ 350 |
-| Avg real stress/session | 1087 | 804 | ↑ 283 |
+| Sessions | 6 | 9 | ↓ 3 |
+| Total sets | 24 | 33 | ↓ 9 |
+| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Avg RPE | 6.89 | 7.19 | ↓ 0.30 |
+| Avg load | 156.9kg | 161.4kg | ↓ 4.5kg |
+| Tonnage | 15105kg | 17385kg | ↓ 2280kg |
+| Avg tonnage/session | 2517.5kg | 1931.7kg | ↑ 585.8kg |
+| Estimated stress | 6985 | 6608 | ↑ 377 |
+| Real stress | 6658 | 7236 | ↓ 578 |
+| Avg est stress/session | 1164 | 734 | ↑ 430 |
+| Avg real stress/session | 1110 | 804 | ↑ 306 |
 
 - Top single: -
 - Previous top single: 190kg x 1 @ 8
@@ -82,15 +82,15 @@ Comparison baseline: 2026-10
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 20 | 31 | ↓ 11 |
-| Avg steps/day | 8922 | 11426 | ↓ 2504 |
-| Avg distance/day | 7.41km | 9.43km | ↓ 2.02km |
-| Avg kcal/day | 2473 | 2589 | ↓ 116 |
-| Avg bodyweight | 80.4kg | 78.5kg | ↑ 1.9kg |
-| Avg resting HR | 46.3bpm | 45bpm | ↑ 1.2bpm |
-| Avg sleep | 6.69h | 6.72h | ↓ 0.03h |
+| Days with data | 21 | 31 | ↓ 10 |
+| Avg steps/day | 8258 | 11426 | ↓ 3168 |
+| Avg distance/day | 6.86km | 9.43km | ↓ 2.57km |
+| Avg kcal/day | 2454 | 2589 | ↓ 135 |
+| Avg bodyweight | 80.5kg | 78.5kg | ↑ 2kg |
+| Avg resting HR | 46.4bpm | 45bpm | ↑ 1.4bpm |
+| Avg sleep | 6.71h | 6.72h | ↓ 0.01h |
 
-- Latest health date in period: 2026-11-20
+- Latest health date in period: 2026-11-21
 
 ## 2026-10
 

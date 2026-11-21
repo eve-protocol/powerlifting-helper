@@ -13,17 +13,17 @@ Comparison baseline: 2026-Q3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 21 | 39 | ↓ 18 |
-| Total sets | 56 | 96 | ↓ 40 |
-| Avg sets/session | 2.67 | 2.46 | ↑ 0.21 |
-| Avg RPE | 7.05 | 7.14 | ↓ 0.09 |
-| Avg load | 141.1kg | 141.6kg | ↓ 0.5kg |
-| Tonnage | 28547.5kg | 53520kg | ↓ 24972.5kg |
-| Avg tonnage/session | 1359.4kg | 1372.3kg | ↓ 12.9kg |
-| Estimated stress | 11991 | 25739 | ↓ 13748 |
-| Real stress | 10725 | 23798 | ↓ 13073 |
-| Avg est stress/session | 571 | 660 | ↓ 89 |
-| Avg real stress/session | 511 | 610 | ↓ 100 |
+| Sessions | 22 | 39 | ↓ 17 |
+| Total sets | 58 | 96 | ↓ 38 |
+| Avg sets/session | 2.64 | 2.46 | ↑ 0.18 |
+| Avg RPE | 7.02 | 7.14 | ↓ 0.12 |
+| Avg load | 141.2kg | 141.6kg | ↓ 0.4kg |
+| Tonnage | 29707.5kg | 53520kg | ↓ 23812.5kg |
+| Avg tonnage/session | 1350.3kg | 1372.3kg | ↓ 22kg |
+| Estimated stress | 12480 | 25739 | ↓ 13258 |
+| Real stress | 11271 | 23798 | ↓ 12527 |
+| Avg est stress/session | 567 | 660 | ↓ 93 |
+| Avg real stress/session | 512 | 610 | ↓ 98 |
 
 - Top single: 180kg x 1 @ 10
 - Previous top single: 172.5kg x 1 @ 9
@@ -36,17 +36,17 @@ Comparison baseline: 2026-Q3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 28 | 52 | ↓ 24 |
-| Total sets | 80 | 134 | ↓ 54 |
-| Avg sets/session | 2.86 | 2.58 | ↑ 0.28 |
-| Avg RPE | 7.15 | 7.53 | ↓ 0.38 |
-| Avg load | 101kg | 98.9kg | ↑ 2.1kg |
-| Tonnage | 33965.5kg | 53262.5kg | ↓ 19297kg |
-| Avg tonnage/session | 1213.1kg | 1024.3kg | ↑ 188.8kg |
-| Estimated stress | 13891 | 23977 | ↓ 10086 |
-| Real stress | 15324 | 26539 | ↓ 11215 |
-| Avg est stress/session | 496 | 461 | ↑ 35 |
-| Avg real stress/session | 547 | 510 | ↑ 37 |
+| Sessions | 29 | 52 | ↓ 23 |
+| Total sets | 82 | 134 | ↓ 52 |
+| Avg sets/session | 2.83 | 2.58 | ↑ 0.25 |
+| Avg RPE | 7.14 | 7.53 | ↓ 0.39 |
+| Avg load | 101.4kg | 98.9kg | ↑ 2.5kg |
+| Tonnage | 35115.5kg | 53262.5kg | ↓ 18147kg |
+| Avg tonnage/session | 1210.9kg | 1024.3kg | ↑ 186.6kg |
+| Estimated stress | 14434 | 23977 | ↓ 9543 |
+| Real stress | 15924 | 26539 | ↓ 10615 |
+| Avg est stress/session | 498 | 461 | ↑ 37 |
+| Avg real stress/session | 549 | 510 | ↑ 39 |
 
 - Top single: 142.5kg x 1 @ 9.50
 - Previous top single: 137.5kg x 1 @ 9.50
@@ -59,17 +59,17 @@ Comparison baseline: 2026-Q3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 14 | 25 | ↓ 11 |
-| Total sets | 52 | 68 | ↓ 16 |
-| Avg sets/session | 3.71 | 2.72 | ↑ 0.99 |
-| Avg RPE | 7.10 | 7.51 | ↓ 0.41 |
-| Avg load | 159.8kg | 170kg | ↓ 10.2kg |
-| Tonnage | 28975kg | 38237kg | ↓ 9262kg |
-| Avg tonnage/session | 2069.6kg | 1529.5kg | ↑ 540.1kg |
-| Estimated stress | 12028 | 23143 | ↓ 11116 |
-| Real stress | 12672 | 22608 | ↓ 9936 |
-| Avg est stress/session | 859 | 926 | ↓ 67 |
-| Avg real stress/session | 905 | 904 | ↑ 1 |
+| Sessions | 15 | 25 | ↓ 10 |
+| Total sets | 57 | 68 | ↓ 11 |
+| Avg sets/session | 3.80 | 2.72 | ↑ 1.08 |
+| Avg RPE | 7.05 | 7.51 | ↓ 0.46 |
+| Avg load | 159.5kg | 170kg | ↓ 10.5kg |
+| Tonnage | 32490kg | 38237kg | ↓ 5747kg |
+| Avg tonnage/session | 2166kg | 1529.5kg | ↑ 636.5kg |
+| Estimated stress | 13593 | 23143 | ↓ 9550 |
+| Real stress | 13894 | 22608 | ↓ 8714 |
+| Avg est stress/session | 906 | 926 | ↓ 20 |
+| Avg real stress/session | 926 | 904 | ↑ 22 |
 
 - Top single: 190kg x 1 @ 8
 - Previous top single: 190kg x 1 @ 9
@@ -82,15 +82,15 @@ Comparison baseline: 2026-Q3
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 51 | 92 | ↓ 41 |
-| Avg steps/day | 10474 | 12217 | ↓ 1743 |
-| Avg distance/day | 8.66km | 10.23km | ↓ 1.57km |
-| Avg kcal/day | 2543 | 2688 | ↓ 145 |
-| Avg bodyweight | 79.3kg | 77.6kg | ↑ 1.6kg |
-| Avg resting HR | 45.5bpm | 42.7bpm | ↑ 2.8bpm |
-| Avg sleep | 6.71h | 6.93h | ↓ 0.22h |
+| Days with data | 52 | 92 | ↓ 40 |
+| Avg steps/day | 10147 | 12217 | ↓ 2070 |
+| Avg distance/day | 8.39km | 10.23km | ↓ 1.84km |
+| Avg kcal/day | 2534 | 2688 | ↓ 154 |
+| Avg bodyweight | 79.3kg | 77.6kg | ↑ 1.7kg |
+| Avg resting HR | 45.6bpm | 42.7bpm | ↑ 2.9bpm |
+| Avg sleep | 6.72h | 6.93h | ↓ 0.21h |
 
-- Latest health date in period: 2026-11-20
+- Latest health date in period: 2026-11-21
 
 ## 2026-Q3
 
