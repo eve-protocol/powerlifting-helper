@@ -36,17 +36,17 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 188 | 213 | ↓ 25 |
-| Total sets | 542 | 825 | ↓ 283 |
+| Sessions | 189 | 213 | ↓ 24 |
+| Total sets | 545 | 825 | ↓ 280 |
 | Avg sets/session | 2.88 | 3.87 | ↓ 0.99 |
-| Avg RPE | 7.73 | 8.26 | ↓ 0.53 |
-| Avg load | 98.6kg | 94.6kg | ↑ 4kg |
-| Tonnage | 216001kg | 350252.5kg | ↓ 134251.5kg |
-| Avg tonnage/session | 1148.9kg | 1644.4kg | ↓ 495.5kg |
-| Estimated stress | 77081 | 85325 | ↓ 8244 |
-| Real stress | 112318 | 183652 | ↓ 71334 |
-| Avg est stress/session | 410 | 401 | ↑ 9 |
-| Avg real stress/session | 597 | 862 | ↓ 265 |
+| Avg RPE | 7.74 | 8.26 | ↓ 0.52 |
+| Avg load | 98.4kg | 94.6kg | ↑ 3.8kg |
+| Tonnage | 216751kg | 350252.5kg | ↓ 133501.5kg |
+| Avg tonnage/session | 1146.8kg | 1644.4kg | ↓ 497.6kg |
+| Estimated stress | 77173 | 85325 | ↓ 8152 |
+| Real stress | 112414 | 183652 | ↓ 71238 |
+| Avg est stress/session | 408 | 401 | ↑ 8 |
+| Avg real stress/session | 595 | 862 | ↓ 267 |
 
 - Top single: 142.5kg x 1 @ 9.50
 - Previous top single: 132.5kg x 1 @ 10
@@ -59,17 +59,17 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 106 | 162 | ↓ 56 |
-| Total sets | 346 | 610 | ↓ 264 |
+| Sessions | 107 | 162 | ↓ 55 |
+| Total sets | 349 | 610 | ↓ 261 |
 | Avg sets/session | 3.26 | 3.77 | ↓ 0.51 |
-| Avg RPE | 7.44 | 7.56 | ↓ 0.12 |
+| Avg RPE | 7.43 | 7.56 | ↓ 0.13 |
 | Avg load | 162.1kg | 145.1kg | ↑ 17kg |
-| Tonnage | 186877kg | 369142.5kg | ↓ 182265.5kg |
-| Avg tonnage/session | 1763kg | 2278.7kg | ↓ 515.7kg |
-| Estimated stress | 80365 | 77436 | ↑ 2929 |
-| Real stress | 97085 | 138049 | ↓ 40964 |
+| Tonnage | 188332kg | 369142.5kg | ↓ 180810.5kg |
+| Avg tonnage/session | 1760.1kg | 2278.7kg | ↓ 518.6kg |
+| Estimated stress | 81054 | 77436 | ↑ 3618 |
+| Real stress | 97729 | 138049 | ↓ 40320 |
 | Avg est stress/session | 758 | 478 | ↑ 280 |
-| Avg real stress/session | 916 | 852 | ↑ 64 |
+| Avg real stress/session | 913 | 852 | ↑ 61 |
 
 - Top single: 195kg x 1 @ 9.50
 - Previous top single: 200kg x 1 @ -
