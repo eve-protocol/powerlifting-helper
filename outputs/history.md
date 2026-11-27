@@ -4,9 +4,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Date Range | 2024-12-28 → 2026-11-25 |
-| Training Days | 483 |
-| Total Sets | 5774 |
+| Date Range | 2024-12-28 → 2026-11-26 |
+| Training Days | 484 |
+| Total Sets | 5789 |
 
 > **PR Freshness Legend:** 🟢 <3 months • 🟡 3-6 months • 🟠 6-9 months • 🔴 9-12 months • 🟣 >1 year
 
@@ -226,7 +226,7 @@ W39:
 | 1RM | 150.0kg | - | 9 | 🟣 2025-10-26 |
 | 2RM | 142.5kg | 163.2kg | 7.5 | 🟡 2026-06-21 |
 | 3RM | 140.0kg | 162.7kg | 7 | 🟣 2025-10-13 |
-| 4RM | 135.0kg | 163.6kg | 7.5 | 🟡 2026-05-31 |
+| 4RM | 135.0kg | 163.6kg | 7.5 | 🟠 2026-05-31 |
 | 5RM | 115.0kg | 150.0kg | 7 | 🟣 2025-05-11 |
 
 #### Squat (Smith Machine)
