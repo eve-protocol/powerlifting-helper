@@ -13,17 +13,17 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 141 | 165 | ↓ 24 |
-| Total sets | 407 | 637 | ↓ 230 |
-| Avg sets/session | 2.89 | 3.86 | ↓ 0.97 |
+| Sessions | 142 | 165 | ↓ 23 |
+| Total sets | 409 | 637 | ↓ 228 |
+| Avg sets/session | 2.88 | 3.86 | ↓ 0.98 |
 | Avg RPE | 7.28 | 7.66 | ↓ 0.38 |
 | Avg load | 140.3kg | 130.4kg | ↑ 9.9kg |
-| Tonnage | 212157.5kg | 310632kg | ↓ 98474.5kg |
-| Avg tonnage/session | 1504.7kg | 1882.6kg | ↓ 377.9kg |
-| Estimated stress | 82927 | 85231 | ↓ 2303 |
-| Real stress | 97121 | 175452 | ↓ 78331 |
-| Avg est stress/session | 588 | 516 | ↑ 72 |
-| Avg real stress/session | 689 | 1063 | ↓ 374 |
+| Tonnage | 213317.5kg | 310632kg | ↓ 97314.5kg |
+| Avg tonnage/session | 1502.2kg | 1882.6kg | ↓ 380.4kg |
+| Estimated stress | 83417 | 85231 | ↓ 1814 |
+| Real stress | 97610 | 175452 | ↓ 77842 |
+| Avg est stress/session | 587 | 516 | ↑ 71 |
+| Avg real stress/session | 687 | 1063 | ↓ 376 |
 
 - Top single: 180kg x 1 @ 10
 - Previous top single: 172.5kg x 1 @ 10
@@ -36,16 +36,16 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 190 | 213 | ↓ 23 |
-| Total sets | 550 | 825 | ↓ 275 |
+| Sessions | 191 | 213 | ↓ 22 |
+| Total sets | 552 | 825 | ↓ 273 |
 | Avg sets/session | 2.89 | 3.87 | ↓ 0.98 |
 | Avg RPE | 7.74 | 8.26 | ↓ 0.52 |
 | Avg load | 98.6kg | 94.6kg | ↑ 4kg |
-| Tonnage | 218516kg | 350252.5kg | ↓ 131736.5kg |
-| Avg tonnage/session | 1150.1kg | 1644.4kg | ↓ 494.3kg |
-| Estimated stress | 78129 | 85325 | ↓ 7196 |
-| Real stress | 113555 | 183652 | ↓ 70096 |
-| Avg est stress/session | 411 | 401 | ↑ 11 |
+| Tonnage | 219691kg | 350252.5kg | ↓ 130561.5kg |
+| Avg tonnage/session | 1150.2kg | 1644.4kg | ↓ 494.2kg |
+| Estimated stress | 78738 | 85325 | ↓ 6587 |
+| Real stress | 114314 | 183652 | ↓ 69338 |
+| Avg est stress/session | 412 | 401 | ↑ 12 |
 | Avg real stress/session | 598 | 862 | ↓ 264 |
 
 - Top single: 142.5kg x 1 @ 9.50
@@ -59,22 +59,22 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 107 | 162 | ↓ 55 |
-| Total sets | 349 | 610 | ↓ 261 |
-| Avg sets/session | 3.26 | 3.77 | ↓ 0.51 |
+| Sessions | 108 | 162 | ↓ 54 |
+| Total sets | 354 | 610 | ↓ 256 |
+| Avg sets/session | 3.28 | 3.77 | ↓ 0.49 |
 | Avg RPE | 7.43 | 7.56 | ↓ 0.13 |
 | Avg load | 162.1kg | 145.1kg | ↑ 17kg |
-| Tonnage | 188332kg | 369142.5kg | ↓ 180810.5kg |
-| Avg tonnage/session | 1760.1kg | 2278.7kg | ↓ 518.6kg |
-| Estimated stress | 81054 | 77436 | ↑ 3618 |
-| Real stress | 97729 | 138049 | ↓ 40320 |
-| Avg est stress/session | 758 | 478 | ↑ 280 |
-| Avg real stress/session | 913 | 852 | ↑ 61 |
+| Tonnage | 192067kg | 369142.5kg | ↓ 177075.5kg |
+| Avg tonnage/session | 1778.4kg | 2278.7kg | ↓ 500.3kg |
+| Estimated stress | 82820 | 77436 | ↑ 5384 |
+| Real stress | 99726 | 138049 | ↓ 38323 |
+| Avg est stress/session | 767 | 478 | ↑ 289 |
+| Avg real stress/session | 923 | 852 | ↑ 71 |
 
 - Top single: 195kg x 1 @ 9.50
 - Previous top single: 200kg x 1 @ -
 - Top single delta: ↓ 5kg (only meaningful when the variation is comparable)
-- Top work set: 185kg x 2 @ 9
+- Top work set: 185kg x 2 @ 8.50
 - Previous top work set: 180kg x 2 @ 9.50
 - Top work-set delta: ↑ 5kg (only meaningful when the rep scheme is comparable)
 
@@ -82,15 +82,15 @@ Comparison baseline: 2025
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 331 | 365 | ↓ 34 |
-| Avg steps/day | 10489 | 8049 | ↑ 2440 |
-| Avg distance/day | 8.48km | 5.93km | ↑ 2.55km |
-| Avg kcal/day | 2491 | 2304 | ↑ 187 |
-| Avg bodyweight | 78.7kg | 76.8kg | ↑ 1.9kg |
-| Avg resting HR | 43.9bpm | 43.1bpm | ↑ 0.9bpm |
-| Avg sleep | 6.90h | 7.35h | ↓ 0.45h |
+| Days with data | 332 | 365 | ↓ 33 |
+| Avg steps/day | 10507 | 8049 | ↑ 2458 |
+| Avg distance/day | 8.50km | 5.93km | ↑ 2.57km |
+| Avg kcal/day | 2490 | 2304 | ↑ 186 |
+| Avg bodyweight | 78.8kg | 76.8kg | ↑ 1.9kg |
+| Avg resting HR | 44bpm | 43.1bpm | ↑ 0.9bpm |
+| Avg sleep | 6.91h | 7.35h | ↓ 0.44h |
 
-- Latest health date in period: 2026-11-27
+- Latest health date in period: 2026-11-28
 
 ## 2025
 

@@ -8164,17 +8164,17 @@ Comparison baseline: December 2026 Competition - Ren v1 / Week 6
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 4 | 2 | ↑ 2 |
-| Total sets | 16 | 6 | ↑ 10 |
-| Avg sets/session | 4 | 3 | ↑ 1 |
-| Avg RPE | 7.27 | 7.08 | ↑ 0.19 |
-| Avg load | 125kg | 138.8kg | ↓ 13.8kg |
-| Tonnage | 10655kg | 3290kg | ↑ 7365kg |
-| Avg tonnage/session | 2663.8kg | 1645kg | ↑ 1018.8kg |
-| Estimated stress | 5308 | 1488 | ↑ 3820 |
-| Real stress | 5020 | 1615 | ↑ 3406 |
-| Avg est stress/session | 1327 | 744 | ↑ 583 |
-| Avg real stress/session | 1255 | 807 | ↑ 448 |
+| Sessions | 4 | 3 | ↑ 1 |
+| Total sets | 16 | 8 | ↑ 8 |
+| Avg sets/session | 4 | 2.67 | ↑ 1.33 |
+| Avg RPE | 7.27 | 6.81 | ↑ 0.46 |
+| Avg load | 125kg | 140.3kg | ↓ 15.3kg |
+| Tonnage | 10655kg | 4450kg | ↑ 6205kg |
+| Avg tonnage/session | 2663.8kg | 1483.3kg | ↑ 1180.5kg |
+| Estimated stress | 5308 | 1977 | ↑ 3331 |
+| Real stress | 5020 | 2104 | ↑ 2916 |
+| Avg est stress/session | 1327 | 659 | ↑ 668 |
+| Avg real stress/session | 1255 | 701 | ↑ 554 |
 
 - Top single: -
 - Previous top single: -
@@ -8187,17 +8187,17 @@ Comparison baseline: December 2026 Competition - Ren v1 / Week 6
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 4 | 3 | ↑ 1 |
-| Total sets | 16 | 11 | ↑ 5 |
-| Avg sets/session | 4 | 3.67 | ↑ 0.33 |
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 16 | 13 | ↑ 3 |
+| Avg sets/session | 4 | 3.25 | ↑ 0.75 |
 | Avg RPE | 8.61 | 7.77 | ↑ 0.84 |
-| Avg load | 103.3kg | 100.7kg | ↑ 2.6kg |
-| Tonnage | 8833.5kg | 3935kg | ↑ 4898.5kg |
-| Avg tonnage/session | 2208.4kg | 1311.7kg | ↑ 896.7kg |
-| Estimated stress | 4918 | 1758 | ↑ 3159 |
-| Real stress | 5675 | 2087 | ↑ 3588 |
-| Avg est stress/session | 1229 | 586 | ↑ 643 |
-| Avg real stress/session | 1419 | 696 | ↑ 723 |
+| Avg load | 103.3kg | 103.3kg | → 0kg |
+| Tonnage | 8833.5kg | 5110kg | ↑ 3723.5kg |
+| Avg tonnage/session | 2208.4kg | 1277.5kg | ↑ 930.9kg |
+| Estimated stress | 4918 | 2367 | ↑ 2550 |
+| Real stress | 5675 | 2846 | ↑ 2829 |
+| Avg est stress/session | 1229 | 592 | ↑ 638 |
+| Avg real stress/session | 1419 | 711 | ↑ 707 |
 
 - Top single: -
 - Previous top single: 130kg x 1 @ 8
@@ -8210,36 +8210,36 @@ Comparison baseline: December 2026 Competition - Ren v1 / Week 6
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 1 | ↑ 2 |
-| Total sets | 11 | 3 | ↑ 8 |
-| Avg sets/session | 3.67 | 3 | ↑ 0.67 |
-| Avg RPE | 7.45 | 6.17 | ↑ 1.28 |
-| Avg load | 145.7kg | 161.7kg | ↓ 16kg |
-| Tonnage | 7795kg | 1455kg | ↑ 6340kg |
-| Avg tonnage/session | 2598.3kg | 1455kg | ↑ 1143.3kg |
-| Estimated stress | 3730 | 690 | ↑ 3040 |
-| Real stress | 3859 | 644 | ↑ 3216 |
-| Avg est stress/session | 1243 | 690 | ↑ 554 |
-| Avg real stress/session | 1286 | 644 | ↑ 643 |
+| Sessions | 3 | 2 | ↑ 1 |
+| Total sets | 11 | 8 | ↑ 3 |
+| Avg sets/session | 3.67 | 4 | ↓ 0.33 |
+| Avg RPE | 7.45 | 6.94 | ↑ 0.51 |
+| Avg load | 145.7kg | 160.6kg | ↓ 14.9kg |
+| Tonnage | 7795kg | 5190kg | ↑ 2605kg |
+| Avg tonnage/session | 2598.3kg | 2595kg | ↑ 3.3kg |
+| Estimated stress | 3730 | 2456 | ↑ 1274 |
+| Real stress | 3859 | 2641 | ↑ 1218 |
+| Avg est stress/session | 1243 | 1228 | ↑ 16 |
+| Avg real stress/session | 1286 | 1320 | ↓ 34 |
 
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
 - Top work set: 170kg x 2 @ 8
-- Previous top work set: 165kg x 3 @ 6.50
-- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
+- Previous top work set: 185kg x 2 @ 8.50
+- Top work-set delta: ↓ 15kg (only meaningful when the rep scheme is comparable)
 
 ### Health / Recovery
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 7 | 4 | ↑ 3 |
-| Avg steps/day | 10976 | 4454 | ↑ 6522 |
-| Avg distance/day | 7.67km | 3.64km | ↑ 4.03km |
-| Avg kcal/day | 2871 | 2496 | ↑ 375 |
-| Avg bodyweight | 76.8kg | 80.8kg | ↓ 4kg |
-| Avg resting HR | 42.6bpm | 46.8bpm | ↓ 4.2bpm |
-| Avg sleep | 7.09h | 6.48h | ↑ 0.61h |
+| Days with data | 7 | 6 | ↑ 1 |
+| Avg steps/day | 10976 | 4742 | ↑ 6234 |
+| Avg distance/day | 7.67km | 3.88km | ↑ 3.79km |
+| Avg kcal/day | 2871 | 2065 | ↑ 806 |
+| Avg bodyweight | 76.8kg | 80.9kg | ↓ 4.1kg |
+| Avg resting HR | 42.6bpm | 47bpm | ↓ 4.4bpm |
+| Avg sleep | 7.09h | 6.69h | ↑ 0.40h |
 
 - Latest health date in period: 2025-05-01
 
@@ -8251,17 +8251,17 @@ Comparison baseline: December 2026 Competition - Ren v1 / Week 5
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 2 | 3 | ↓ 1 |
-| Total sets | 6 | 8 | ↓ 2 |
-| Avg sets/session | 3 | 2.67 | ↑ 0.33 |
-| Avg RPE | 7.08 | 6.62 | ↑ 0.46 |
-| Avg load | 138.8kg | 137.5kg | ↑ 1.3kg |
-| Tonnage | 3290kg | 4240kg | ↓ 950kg |
-| Avg tonnage/session | 1645kg | 1413.3kg | ↑ 231.7kg |
-| Estimated stress | 1488 | 1821 | ↓ 334 |
-| Real stress | 1615 | 1928 | ↓ 314 |
-| Avg est stress/session | 744 | 607 | ↑ 137 |
-| Avg real stress/session | 807 | 643 | ↑ 165 |
+| Sessions | 3 | 3 | → 0 |
+| Total sets | 8 | 8 | → 0 |
+| Avg sets/session | 2.67 | 2.67 | → 0 |
+| Avg RPE | 6.81 | 6.62 | ↑ 0.19 |
+| Avg load | 140.3kg | 137.5kg | ↑ 2.8kg |
+| Tonnage | 4450kg | 4240kg | ↑ 210kg |
+| Avg tonnage/session | 1483.3kg | 1413.3kg | ↑ 70kg |
+| Estimated stress | 1977 | 1821 | ↑ 155 |
+| Real stress | 2104 | 1928 | ↑ 176 |
+| Avg est stress/session | 659 | 607 | ↑ 52 |
+| Avg real stress/session | 701 | 643 | ↑ 58 |
 
 - Top single: -
 - Previous top single: -
@@ -8274,17 +8274,17 @@ Comparison baseline: December 2026 Competition - Ren v1 / Week 5
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 3 | 4 | ↓ 1 |
-| Total sets | 11 | 12 | ↓ 1 |
-| Avg sets/session | 3.67 | 3 | ↑ 0.67 |
+| Sessions | 4 | 4 | → 0 |
+| Total sets | 13 | 12 | ↑ 1 |
+| Avg sets/session | 3.25 | 3 | ↑ 0.25 |
 | Avg RPE | 7.77 | 7.35 | ↑ 0.42 |
-| Avg load | 100.7kg | 99kg | ↑ 1.7kg |
-| Tonnage | 3935kg | 5352.5kg | ↓ 1417.5kg |
-| Avg tonnage/session | 1311.7kg | 1338.1kg | ↓ 26.4kg |
-| Estimated stress | 1758 | 2298 | ↓ 540 |
-| Real stress | 2087 | 2052 | ↑ 35 |
-| Avg est stress/session | 586 | 574 | ↑ 12 |
-| Avg real stress/session | 696 | 513 | ↑ 183 |
+| Avg load | 103.3kg | 99kg | ↑ 4.3kg |
+| Tonnage | 5110kg | 5352.5kg | ↓ 242.5kg |
+| Avg tonnage/session | 1277.5kg | 1338.1kg | ↓ 60.6kg |
+| Estimated stress | 2367 | 2298 | ↑ 69 |
+| Real stress | 2846 | 2052 | ↑ 794 |
+| Avg est stress/session | 592 | 574 | ↑ 17 |
+| Avg real stress/session | 711 | 513 | ↑ 198 |
 
 - Top single: 130kg x 1 @ 8
 - Previous top single: -
@@ -8297,38 +8297,38 @@ Comparison baseline: December 2026 Competition - Ren v1 / Week 5
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Sessions | 1 | 2 | ↓ 1 |
-| Total sets | 3 | 8 | ↓ 5 |
-| Avg sets/session | 3 | 4 | ↓ 1 |
-| Avg RPE | 6.17 | 6.64 | ↓ 0.47 |
-| Avg load | 161.7kg | 155.6kg | ↑ 6.1kg |
-| Tonnage | 1455kg | 4910kg | ↓ 3455kg |
-| Avg tonnage/session | 1455kg | 2455kg | ↓ 1000kg |
-| Estimated stress | 690 | 2173 | ↓ 1483 |
-| Real stress | 644 | 1878 | ↓ 1235 |
-| Avg est stress/session | 690 | 1086 | ↓ 397 |
-| Avg real stress/session | 644 | 939 | ↓ 296 |
+| Sessions | 2 | 2 | → 0 |
+| Total sets | 8 | 8 | → 0 |
+| Avg sets/session | 4 | 4 | → 0 |
+| Avg RPE | 6.94 | 6.64 | ↑ 0.30 |
+| Avg load | 160.6kg | 155.6kg | ↑ 5kg |
+| Tonnage | 5190kg | 4910kg | ↑ 280kg |
+| Avg tonnage/session | 2595kg | 2455kg | ↑ 140kg |
+| Estimated stress | 2456 | 2173 | ↑ 283 |
+| Real stress | 2641 | 1878 | ↑ 762 |
+| Avg est stress/session | 1228 | 1086 | ↑ 141 |
+| Avg real stress/session | 1320 | 939 | ↑ 381 |
 
 - Top single: -
 - Previous top single: -
 - Top single delta: n/a (only meaningful when the variation is comparable)
-- Top work set: 165kg x 3 @ 6.50
+- Top work set: 185kg x 2 @ 8.50
 - Previous top work set: 175kg x 3 @ 7.50
-- Top work-set delta: ↓ 10kg (only meaningful when the rep scheme is comparable)
+- Top work-set delta: n/a (only meaningful when the rep scheme is comparable)
 
 ### Health / Recovery
 
 | Metric | Current | Previous | Delta |
 |---|---:|---:|---:|
-| Days with data | 4 | 6 | ↓ 2 |
-| Avg steps/day | 4454 | 7194 | ↓ 2740 |
-| Avg distance/day | 3.64km | 6.31km | ↓ 2.67km |
-| Avg kcal/day | 2496 | 2568 | ↓ 72 |
-| Avg bodyweight | 80.8kg | 81.1kg | ↓ 0.3kg |
-| Avg resting HR | 46.8bpm | 47.5bpm | ↓ 0.8bpm |
-| Avg sleep | 6.48h | 6.35h | ↑ 0.13h |
+| Days with data | 6 | 6 | → 0 |
+| Avg steps/day | 4742 | 7194 | ↓ 2452 |
+| Avg distance/day | 3.88km | 6.31km | ↓ 2.43km |
+| Avg kcal/day | 2065 | 2568 | ↓ 503 |
+| Avg bodyweight | 80.9kg | 81.1kg | ↓ 0.2kg |
+| Avg resting HR | 47bpm | 47.5bpm | ↓ 0.5bpm |
+| Avg sleep | 6.69h | 6.35h | ↑ 0.34h |
 
-- Latest health date in period: 2026-11-26
+- Latest health date in period: 2026-11-28
 
 ## December 2026 Competition - Ren v1 / Week 5
 
